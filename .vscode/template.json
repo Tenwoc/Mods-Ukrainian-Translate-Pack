@@ -1,0 +1,26 @@
+{
+  "name": "Asset with Lang",
+  "description": "Створює теку в /assets з підтекою lang й файлом uk_ua.json",
+  "target": "assets",
+  "variables": {
+    "folderName": {
+      "type": "input",
+      "description": "Додати мод:",
+      "default": "new-asset"
+    }
+  },
+  "folders": [
+    {
+      "name": "lang",
+      "files": [
+        {
+          "name": "uk_ua.json",
+          "content": "{}"
+        }
+      ]
+    }
+  ],
+  "hooks": {
+    "postGen": "code ${targetPath}/${folderName}/lang/uk_ua.json"
+  }
+}
