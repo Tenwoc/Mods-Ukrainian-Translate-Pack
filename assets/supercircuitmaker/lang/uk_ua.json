@@ -1,0 +1,51 @@
+{
+  "itemGroup.supercircuitmaker": "Super Circuit Maker",
+
+  "block.supercircuitmaker.circuit": "Схеми",
+  "block.supercircuitmaker.inspector": "Інспектор",
+  "item.supercircuitmaker.screwdriver": "Викрутка",
+  "item.supercircuitmaker.palette": "Палітра та пензлик",
+  "item.supercircuitmaker.tiny_redstone": "Крихітна купка редстоуновго пилу",
+  "item.supercircuitmaker.tiny_rgb_redstone": "RGB крихітна купка редстоуновго пилу",
+  "item.supercircuitmaker.randomizer": "Збуджувач тліючого каміння",
+  "item.supercircuitmaker.delay": "Кварцовий резонатор",
+  "item.supercircuitmaker.pulsar": "Пульсар Енду",
+  "item.supercircuitmaker.note": "Бупер",
+  "item.supercircuitmaker.lamp": "Мініатюрна лампа",
+  "item.supercircuitmaker.button": "Мініатюрна кнопка",
+  "item.supercircuitmaker.adder": "Суматор",
+  "item.supercircuitmaker.subtractor": "Від'ємник",
+  "item.supercircuitmaker.multiplier": "Множник",
+  "item.supercircuitmaker.divider": "Дільник",
+  "item.supercircuitmaker.constant": "Константа",
+  "item.supercircuitmaker.platform": "Опорна платформа",
+  "item.supercircuitmaker.redstone_stick": "Паличка з редстоуновим покриттям",
+  "item.supercircuitmaker.rgb_redstone_stick": "RGB паличка з редстоуновим покриттям",
+
+  "container.supercircuitmaker.delay": "Кварцовий резонатор: ",
+  "container.supercircuitmaker.pulsar": "Пульсар Енду: ",
+  "container.supercircuitmaker.timing.dec_10s": "-10с",
+  "container.supercircuitmaker.timing.dec_1s": "-1с",
+  "container.supercircuitmaker.timing.inc_1s": "+1с",
+  "container.supercircuitmaker.timing.inc_10s": "+10с",
+  "container.supercircuitmaker.timing.dec_10t": "-10т",
+  "container.supercircuitmaker.timing.dec_1t": "-1т",
+  "container.supercircuitmaker.timing.inc_1t": "+1т",
+  "container.supercircuitmaker.timing.inc_10t": "+10т",
+
+  "container.supercircuitmaker.constant": "Константа: ",
+  "container.supercircuitmaker.constant.dec_20": "-20",
+  "container.supercircuitmaker.constant.dec_1": "-1",
+  "container.supercircuitmaker.constant.inc_1": "+1",
+  "container.supercircuitmaker.constant.inc_20": "+20",
+
+  "subtitles.supercircuitmaker.place": "БУП",
+
+  "key.supercircuitmaker": "Super Circuit Maker",
+  "key.supercircuitmaker.open_palette": "Відкрита палітра",
+  "key.supercircuitmaker.component_placement_modifier": "Модифікатор розміщення компонентів",
+
+  "msg.supercircuitmaker.inspector.learned": "Вивчено!",
+  "msg.supercircuitmaker.inspector.mode_state": "Вибрано режим: Узгодження стану блоку",
+  "msg.supercircuitmaker.inspector.mode_block": "Вибраний режим: Зіставити тип блоку"
+}

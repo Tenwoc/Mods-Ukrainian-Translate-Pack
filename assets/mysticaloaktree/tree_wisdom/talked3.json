@@ -1,0 +1,13 @@
+{
+  "type": "talked_to",
+  "trust_required": 15,
+  "text": [
+    "Хммм... Хммм...",
+    "...",
+    "Відійди, людино, не переривай мою медитацію"
+  ],
+  "require_interaction": [
+    "true",
+    "true"
+  ]
+}

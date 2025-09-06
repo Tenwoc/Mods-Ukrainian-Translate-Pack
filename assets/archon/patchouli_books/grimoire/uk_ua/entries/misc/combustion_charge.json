@@ -1,0 +1,17 @@
+{
+  "name": "Заряд знищення",
+  "icon": "archon:combustion_charge",
+  "category": "archon:misc",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:combustion_charge",
+      "text": "Заряд розкопує область 7x7 блоків підлоги або стіни, залишаючи матеріали. Можна використовувати для великомасштабних розкопок."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:combustion_charge"
+    }
+  ]
+}

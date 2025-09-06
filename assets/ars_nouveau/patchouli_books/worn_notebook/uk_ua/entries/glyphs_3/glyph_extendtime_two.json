@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:glyphs_3",
+  "icon": "adamsarsplus:glyph_extendtime_two",
+  "name": "adamsarsplus.glyph_name.glyph_extendtime_two",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.glyph_desc.glyph_extendtime_two"
+    },
+    {
+      "type": "ars_nouveau:glyph_recipe",
+      "recipe": "adamsarsplus:glyph_extendtime_two"
+    }
+  ],
+  "sortnum": 3
+}

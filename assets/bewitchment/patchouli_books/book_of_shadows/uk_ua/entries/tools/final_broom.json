@@ -1,0 +1,19 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Остання мітла",
+  "icon": "besmirchment:final_broom",
+  "entry_color": "C15600",
+  "flag": "bsm_final_broom",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Остання мітла - найвірніша з усіх.$(br)Поєднавши чотири базові $(l:bewitchment:tools/broom)Мітли$() з Зіркою Незеру і чотирма кардинальними стихіями, можна отримати найшвидшу мітлу.$(br)"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "besmirchment:final_broom",
+      "text": "Окрім швидкості, ця мітла також чинить опір тому, хто на ній їде.$(br)$(l:bewitchment:sigils/using_sigils)Символи$() також можуть бути нанесені на нього."
+    }
+  ]
+}

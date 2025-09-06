@@ -1,0 +1,1206 @@
+{
+	"art_of_forging.effect.decaying.name": "Розкладання",
+	"art_of_forging.effect.decaying.tooltip": "Застосовує ефект висушування до цілі з §e%s потужності§r протягом §e%s секунд§r.",
+	"tetra.stats.art_of_forging:decaying": "Розкладання",
+	"tetra.stats.art_of_forging:decaying.tooltip_short": "Застосовує ефект висушування",
+
+	"art_of_forging.effect.stormcaller.name": "Заклинатель шторму",
+	"art_of_forging.effect.stormcaller.tooltip": "Викликає §e%s блискавки§r в момент удару із §e%s шансом§r.",
+	"tetra.stats.art_of_forging:stormcaller": "Заклинатель шторму",
+	"tetra.stats.art_of_forging:stormcaller.tooltip_short": "Викликає блискавки§r в момент удару",
+
+	"art_of_forging.effect.evoking_maw.name": "Виклик щелеп",
+	"art_of_forging.effect.evoking_maw.tooltip": "Викликає §e%s ікла заклинача в момент удару.",
+	"tetra.stats.art_of_forging:evoking_maw": "Виклик щелеп",
+	"tetra.stats.art_of_forging:evoking_maw.tooltip_short": "Викликає ікла заклинача в момент удару",
+
+	"art_of_forging.effect.life_steal.name": "Крадіжка життя",
+	"art_of_forging.effect.life_steal.tooltip": "Ймовірність забрати §e%s здоров'я§r після успішної атаки (§e%s шанс).",
+	"tetra.stats.art_of_forging:life_steal": "Крадіжка життя",
+	"tetra.stats.art_of_forging:life_steal.tooltip_short": "Ймовірність забрати здоров'я після успішної атаки",
+
+	"art_of_forging.effect.knockback.name": "Відкидання",
+	"art_of_forging.effect.knockback.tooltip": "Відбиває ціль на значення додаткової §e%s потужності§r (Цей ефект також можна обернути, щоб підтягувати цілі до себе).",
+	"tetra.stats.art_of_forging:knockback": "Відкидання",
+	"tetra.stats.art_of_forging:knockback.tooltip_short": "Додатково відбиває ціль",
+
+	"art_of_forging.effect.life_fiber_loss.name": "Втрата нитки життя",
+	"art_of_forging.effect.life_fiber_loss.tooltip": "Після смерті опонента ви отримуєте корисні ефекти на §e%s секунд.",
+	"tetra.stats.art_of_forging:life_fiber_loss": "Втрата нитки життя",
+	"tetra.stats.art_of_forging:life_fiber_loss.tooltip_short": "Після смерті опонента ви отримуєте корисні ефекти",
+
+	"art_of_forging.effect.cavalry.name": "Кавалерія",
+	"art_of_forging.effect.cavalry.tooltip": "Збільшує §e%s шкоду§r під час їзди на сутностях.",
+	"tetra.stats.art_of_forging:cavalry": "Кавалерія",
+	"tetra.stats.art_of_forging:cavalry.tooltip_short": "Збільшує шкоду під час їзди на сутностях",
+
+	"art_of_forging.effect.dismounting.name": "Спішення",
+	"art_of_forging.effect.dismounting.tooltip": "Збільшує §e%s шкоду§r проти сутностей-вершників із §e%s шансом§r скинути їх з місця.",
+	"tetra.stats.art_of_forging:dismounting": "Спішення",
+	"tetra.stats.art_of_forging:dismounting.tooltip_short": "Збільшує шкоду проти сутностей-вершників із шансом скинути їх з місця",
+
+	"art_of_forging.effect.dragon_mist.name": "Драконівський туман",
+	"art_of_forging.effect.dragon_mist.tooltip": "Туман, який розсіюється за §e%s секунд§r із §e%s шансом§r бути викликаним.",
+	"tetra.stats.art_of_forging:dragon_mist": "Драконівський туман",
+	"tetra.stats.art_of_forging:dragon_mist.tooltip_short": "Туман із шансом бути викликаним",
+
+	"art_of_forging.effect.disorienting.name": "Дезорієнтація",
+	"art_of_forging.effect.disorienting.tooltip": "Накладає повільність слабкість та розгубленість із §e%s потужності§r, що закінчуються через §e%s секунд§r.",
+	"tetra.stats.art_of_forging:disorienting": "Дезорієнтація",
+	"tetra.stats.art_of_forging:disorienting.tooltip_short": "Накладає повільність слабкість та розгубленість із §e%s потужності§r, що закінчуються через §e%s секунд§r",
+
+	"art_of_forging.effect.vengeance.name": "Помста",
+	"art_of_forging.effect.vengeance.tooltip": "Ви завдаєте на §e%s% більше шкоди§r, коли маєте §e%s або менше сердець§r.",
+	"tetra.stats.art_of_forging:vengeance": "Помста",
+	"tetra.stats.art_of_forging:vengeance.tooltip_short": "Ви завдаєте тим більше шкоди, чим менше у вас здоров'я",
+
+	"art_of_forging.effect.resolve.name": "Рішучість",
+	"art_of_forging.effect.resolve.tooltip": "Ви отримуєте силу та стійкість на §e%s секунд§r, коли маєте §e%s або менше сердець§r.",
+	"tetra.stats.art_of_forging:resolve": "Рішучість",
+	"tetra.stats.art_of_forging:resolve.tooltip_short": "Ви отримуєте силу та стійкість, коли сильно поранені",
+
+	"art_of_forging.effect.devouring.name": "Прокляття пожирання",
+	"art_of_forging.effect.devouring.tooltip": "Якщо ви не атакуватимете когось упродовж певного часу, ваш предмет почне забирати вашу життєву силу.",
+	"tetra.stats.art_of_forging:devouring": "Прокляття пожирання",
+	"tetra.stats.art_of_forging:devouring.tooltip_short": "Якщо ви не атакуватимете когось упродовж певного часу, ваш предмет почне забирати вашу життєву силу",
+
+	"art_of_forging.effect.infernal_rebuke.name": "Пекельний докір",
+	"art_of_forging.effect.infernal_rebuke.tooltip": "Підпалює ворогів на §e%s секунд§r та відкидає їх із §e%s шансом§r.",
+	"tetra.stats.art_of_forging:infernal_rebuke": "Пекельний докір",
+	"tetra.stats.art_of_forging:infernal_rebuke.tooltip_short": "Підпалює ворогів та відкидає їх із деяким шансом",
+
+	"art_of_forging.effect.hubris.name": "Прокляття гордині",
+	"art_of_forging.effect.hubris.tooltip": "Маючи 90%% або більше здоров'я ви завдаєте на §e%s більше шкоди§r. Однак при втраті здоров'я до 30%% або нижче шкода від зброї зменшується до менш ніж половини від початкової шкоди.",
+	"tetra.stats.art_of_forging:hubris": "Прокляття гордині",
+	"tetra.stats.art_of_forging:hubris.tooltip_short": "При повному здоров'ї ви завдаєте більше шкоди, однак, при втраті здоров'я зменшується і ваша шкода",
+
+	"art_of_forging.effect.slaughtering.name": "Нищення",
+	"art_of_forging.effect.slaughtering.tooltip": "Ви завдаєте на §e%s більше шкоди§r, коли у вашої цілі більше §e%s% здоров'я§r.",
+	"tetra.stats.art_of_forging:slaughtering": "Нищення",
+	"tetra.stats.art_of_forging:slaughtering.tooltip_short": "Ви завдаєте більше шкоди , коли у вашої цілі більше певного рівня здоров'я",
+
+	"art_of_forging.effect.carnage.name": "Різанина",
+	"art_of_forging.effect.carnage.tooltip": "Атакуючи ціль, ви завдаєте 10%% більше шкоди. За кожну наступну атаку додається ще 10%% шкоди, аж до 40%%. Це накопичення втрачається після смерті.",
+	"tetra.stats.art_of_forging:carnage": "Різанина",
+	"tetra.stats.art_of_forging:carnage.tooltip_short": "Атакуючи ціль, ви завдаєте більше шкоди, що може накопичуватися за кожну атаку, доки ви живі",
+
+	"art_of_forging.effect.judgement.name": "Вирок",
+	"art_of_forging.effect.judgement.tooltip": "Якщо ваш ворог має §e%s здоров'я§r, ви отримуєте §e%s% шансу§r миттєво вбити її.",
+	"tetra.stats.art_of_forging:judgement": "Вирок",
+	"tetra.stats.art_of_forging:judgement.tooltip_short": "Якщо ваш ворог має менше певної кількості здоров'я, ви отримуєте шанс миттєво вбити її",
+
+	"art_of_forging.effect.retribution.name": "Відплата",
+	"art_of_forging.effect.retribution.tooltip": "Ви завдаєте на §e%s більше шкоди§r, коли вас було атаковано із §e%s% шансом§r зашкодити вашому нападнику.",
+	"tetra.stats.art_of_forging:retribution": "Помста",
+	"tetra.stats.art_of_forging:retribution.tooltip_short": "Ви завдаєте більше шкоди, коли вас було атаковано із шансом зашкодити вашому нападнику",
+
+	"art_of_forging.effect.esoteric_edge.name": "Езотеричне лезо",
+	"art_of_forging.effect.esoteric_edge.tooltip": "§e%s% вашої шкоди§r перетворюється на магічну шкоду.",
+	"tetra.stats.art_of_forging:esoteric_edge": "Езотеричне лезо",
+	"tetra.stats.art_of_forging:esoteric_edge.tooltip_short": "Процент від вашої шкоди перетворюється на магічну шкоду",
+
+	"art_of_forging.effect.feasting.name": "Бенкет",
+	"art_of_forging.effect.feasting.tooltip": "Відновлює голод на §e%s очок§r із §e%s% шансом §r отримати корисний ефект.",
+	"tetra.stats.art_of_forging:feasting": "Бенкет",
+	"tetra.stats.art_of_forging:feasting.tooltip_short": "Відновлює голод на певну кількість очок із шансом отримати корисний ефект",
+
+	"art_of_forging.effect.nano_fused.name": "Нанозлиття",
+	"art_of_forging.effect.nano_fused.tooltip": "Ви маєте §e%s шансу§r отримати альтернативну здобич з певних мобів.",
+	"tetra.stats.art_of_forging:nano_fused": "Нанозлиття",
+	"tetra.stats.art_of_forging:nano_fused.tooltip_short": "Ви маєте шанс отримати альтернативну здобич з певних мобів",
+
+	"art_of_forging.effect.beheading.name": "Знеголовлення",
+	"art_of_forging.effect.beheading.tooltip": "Ви маєте §e%s шансу§r отримати череп моба або гравця при його вбивстві.",
+	"tetra.stats.art_of_forging:beheading": "Знеголовлення",
+	"tetra.stats.art_of_forging:beheading.tooltip_short": "Ви маєте шанс отримати череп моба або гравця при його вбивстві",
+
+	"art_of_forging.effect.soul_charged.name": "Заряд душ",
+	"art_of_forging.effect.soul_charged.tooltip": "Вбивши сутність, ви отримуєте 1 очко заряду душ. Зібравши 5 очок, ви зможете випустити хвилю вогню та магічної шкоди навколо себе. Потребує 2 або більший рівень здібності.",
+	"tetra.stats.art_of_forging:soul_charged": "Заряд душ",
+	"tetra.stats.art_of_forging:soul_charged.tooltip_short": "Вбивши сутність, ви отримуєте 1 очко заряду душ. Зібравши максимум очок, випустіть хвилю вогню та магічної шкоди навколо себе",
+
+	"art_of_forging.effect.sonic_shock.name": "Звуковий шок",
+	"art_of_forging.effect.sonic_shock.tooltip": "Випустіть вибухову звукову атаку, що завдає §e%s шкоди§r цілі.",
+	"tetra.stats.art_of_forging:sonic_shock": "Звуковий шок",
+	"tetra.stats.art_of_forging:sonic_shock.tooltip_short": "Випустіть вибухову звукову атаку",
+
+	"art_of_forging.effect.flame_protection.name": "Захист від вогню",
+	"art_of_forging.effect.flame_protection.tooltip": "Надає захист від вогню §e%s§r при носінні.",
+	"tetra.stats.art_of_forging:flame_protection": "Захист від вогню",
+	"tetra.stats.art_of_forging:flame_protection.tooltip_short": "Надає захист від вогню при носінні",
+
+	"art_of_forging.effect.arcane_protection.name": "Магічний захист",
+	"art_of_forging.effect.arcane_protection.tooltip": "Зменшує отримувану магічну шкоду на §e%s§r при носінні.",
+	"tetra.stats.art_of_forging:arcane_protection": "Магічний захист",
+	"tetra.stats.art_of_forging:arcane_protection.tooltip_short": "Зменшує отримувану магічну шкоду при носінні",
+
+	"art_of_forging.effect.strength_infused.name": "Наповнення силою",
+	"art_of_forging.effect.strength_infused.tooltip": "Надає силу §e%s§r при носінні.",
+	"tetra.stats.art_of_forging:strength_infused": "Наповнення силою",
+	"tetra.stats.art_of_forging:strength_infused.tooltip_short": "Надає силу при носінні",
+
+	"art_of_forging.effect.healing_infused.name": "Наповнення лікуванням",
+	"art_of_forging.effect.healing_infused.tooltip": "Надає регенерацію §e%s§r при носінні.",
+	"tetra.stats.art_of_forging:healing_infused": "Наповнення лікуванням",
+	"tetra.stats.art_of_forging:healing_infused.tooltip_short": "Надає регенерацію при носінні",
+
+	"art_of_forging.effect.karma_infused.name": "Наповнення кармою",
+	"art_of_forging.effect.karma_infused.tooltip": "Залежно від того, кого ви вбили, ви будете отримувати удачу або невдачу протягом §e%s§r секунд при носінні, кожного разу збільшуючи наслідки ваших вчинків.",
+	"tetra.stats.art_of_forging:karma_infused.tooltip_short": "Залежно від того, що ви вбили, ви отримаєте або удачу, або невдачу",
+
+	"art_of_forging.effect.haste_infused.name": "Наповнення квапливістю",
+	"art_of_forging.effect.haste_infused.tooltip": "Надає квапливість §e%s§r при носінні.",
+	"tetra.stats.art_of_forging:haste_infused": "Наповнення квапливістю",
+	"tetra.stats.art_of_forging:haste_infused.tooltip_short": "Надає квапливість при носінні",
+
+	"art_of_forging.effect.third_sight.name": "Мисливська мітка",
+	"art_of_forging.effect.third_sight.tooltip": "Надає світіння на §e%s§r секунд кожній живій істоті, що ви зашкодили.",
+	"tetra.stats.art_of_forging:third_sight": "Мисливська мітка",
+	"tetra.stats.art_of_forging:third_sight.tooltip_short": "Надає світіння кожній живій істоті, що ви зашкодили",
+
+	"art_of_forging.effect.conquering.name": "Завоювання",
+	"art_of_forging.effect.conquering.tooltip": "Тримання цієї зброї надає вам силу, водночас послаблюючи ваших ворогів за атаку. Досягнувши максимальної кількості вбивств, ви отримуєте збільшену силу ціною зменшення максимального здоров'я.",
+	"tetra.stats.art_of_forging:conquering": "Завоювання",
+	"tetra.stats.art_of_forging:conquering.tooltip_short": "Тримання цієї зброї надає вам силу, водночас послаблюючи ваших ворогів за атаку.",
+
+	"art_of_forging.effect.subjugation.name": "Підкорення",
+	"art_of_forging.effect.subjugation.tooltip": "Постійно атакуючи ціль протягом 10 ударів поспіль, ви можете наносити заряджені, прицільні удари, які дають цілі сліпоту, повільність і слабкість. Ця атака також зцілює вас.",
+	"tetra.stats.art_of_forging:subjugation": "Підкорення",
+	"tetra.stats.art_of_forging:subjugation.tooltip_short": "Постійна атака цілі дає вам накладати негативні ефекти та забирати її життя",
+
+	"art_of_forging.effect.goliath_slayer.name": "Вбивця Голіафа",
+	"art_of_forging.effect.goliath_slayer.tooltip": "Завдає на §e%s§r більше шкоди босам чи босоподібним сутностям.",
+	"tetra.stats.art_of_forging:goliath_slayer": "Вбивця Голіафа",
+	"tetra.stats.art_of_forging:goliath_slayer.tooltip_short": "Завдає більше шкоди босам чи босоподібним сутностям",
+
+
+
+	"itemGroup.art_of_forging_tab": "Art of Forging",
+	"creativetab.art_of_forging": "Art of Forging",
+
+
+
+	"effect.art_of_forging.devouring": "Пожирання",
+	"effect.art_of_forging.evoking_maw": "Виклик щелеп",
+	"effect.art_of_forging.defuse_creeper": "Знешодження",
+	"effect.art_of_forging.mortal_wounds": "Смертельні рани",
+	"effect.art_of_forging.targeted": "На мушці",
+
+
+
+	"item.art_of_forging.curious_artifact": "Артефакт Curious",
+
+	"item.art_of_forging.resonant_alloy": "Резонансний стоп",
+	"item.art_of_forging.forged_steel_ingot": "Злиток кованої сталі",
+	"item.art_of_forging.vobrite_crystal": "Вобріючий кристал",
+	"item.art_of_forging.vobrivium_ingot": "Вобрієвий злиток",
+	"item.art_of_forging.endsteel_ingot": "Злиток сталі Енду",
+
+	"item.art_of_forging.life_fiber": "Нитки життя",
+	"item.art_of_forging.fang_charm": "Оберіг з іклами заклинача",
+	"item.art_of_forging.sigil_of_eden": "Герб Едену",
+	"item.art_of_forging.enigmatic_construct": "Загадкова конструкція",
+	"item.art_of_forging.ancient_axe": "Древня сокира",
+	"item.art_of_forging.ancient_blade": "Древній меч",
+	"item.art_of_forging.ancient_flail": "Древній ціп",
+	"item.art_of_forging.demonic_axe": "Сокира анігіляції",
+	"item.art_of_forging.demonic_blade": "Меч катаклізму",
+	"item.art_of_forging.demonic_flail": "Ціп скорботи",
+	"item.art_of_forging.rending_scissor_red": "Ножичний клинок [Червоний]",
+	"item.art_of_forging.rending_scissor_purple": "Ножичний клинок [Фіолетовий]",
+	"item.art_of_forging.rending_scissor_complete": "Січущі ножиці",
+
+	"item.art_of_forging.nano_insectoid": "Наножук",
+	"item.art_of_forging.encoded_canister": "Кодована каністра",
+	"item.art_of_forging.esoteric_codex": "Езотеричний кодекс",
+	"item.art_of_forging.mark_of_the_architect": "Апокрифи архітектора",
+	"item.art_of_forging.shockwave_chamber": "Камера ударної хвилі",
+	"item.art_of_forging.devils_soul_gem": "Темна сфера",
+
+	"item.art_of_forging.dragon_soul": "Душа дракона",
+	"item.art_of_forging.shards_of_malice": "Уламки злоби",
+	"item.art_of_forging.potent_mixture": "Потужна суміш",
+	"item.art_of_forging.heart_of_ender": "Серце Енду",
+	"item.art_of_forging.eerie_shard": "Моторошний уламок",
+	"item.art_of_forging.soul_ember": "Жар душі",
+	"item.art_of_forging.fragment_of_eden": "Фрагмент Едену",
+
+
+
+	"item.enigmatic_construct.tooltip": "Дивна машина, створена з покаліченої душі дракона Енду. Здається якимось неправильним.",
+	"item.life_fiber.tooltip": "Синтетична копія справжнього.",
+	"item.ancient_item.tooltip": "Зброя, викувана дуже давно. Щоб пробудити її, потрібна зловмисна енергія.",
+	"item.sigil_of_eden.tooltip": "Що ти накоїв.",
+
+
+
+	"tetra.material.forged_steel_ingot": "Кована сталь",
+	"tetra.material.forged_steel_ingot.prefix": "Кована сталь",
+
+	"tetra.material.vobrivium_ingot": "Вобрівій",
+	"tetra.material.vobrivium_ingot.prefix": "Вобрівій",
+
+	"tetra.material.vobrite_crystal": "Вобріючий кристал",
+	"tetra.material.vobrite_crystal.prefix": "§bВобріючий кристал§r",
+
+	"tetra.material.sigil_of_eden": "Герб Едену",
+	"tetra.material.sigil_of_eden.prefix": "§4Герб Едену§r",
+
+	"tetra.material.fang_charm": "Оберіг з іклами",
+	"tetra.material.fang_charm.prefix": "§eОберіг з іклами§r",
+
+	"tetra.material.endsteel_ingot": "Сталь Енду",
+	"tetra.material.endsteel_ingot.prefix": "Сталь Енду",
+
+	"tetra.material.life_fiber": "Нитки життя",
+	"tetra.material.life_fiber.prefix": "§cНитки життя§r",
+
+	"tetra.material.socket_heart_of_ender": "Серце Енду",
+	"tetra.material.socket_heart_of_ender.prefix": "§dСерце Енду§r",
+
+	"tetra.material.shard_of_malice": "Уламок злоби",
+	"tetra.material.shard_of_malice.prefix": "§cУламок злоби§r",
+
+	"tetra.material.socket_shard_of_malice": "Уламок злоби",
+	"tetra.material.socket_shard_of_malice.prefix": "§cУламок злоби§r",
+
+
+
+	"tetra.slot.artifact/casing": "Оболонка",
+	"tetra.slot.artifact/internal": "Серцевина",
+	"tetra.slot.artifact/attachment": "Додаток",
+
+
+
+	"tetra/schematic/sword/rapier_blade.name": "Лезо рапіри",
+	"tetra/schematic/sword/rapier_blade.description": "Замінює нинішнє лезо меча на рапіру, елегантне лезо.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/sword/rapier_blade.slot1": "Матеріал леза",
+
+	"tetra.module.sword/rapier_blade.item_name": "Рапіра",
+	"tetra.module.sword/rapier_blade.name": "Рапіра",
+	"tetra.module.sword/rapier_blade.description": "Легке, швидке та елегантне лезо.",
+	"tetra.module.sword/rapier_blade.material_name": "%s рапіра",
+	"tetra.module.sword/rapier_blade.prefix": "%s",
+
+	"tetra/schematic/sword/flamberge/flamberge_blade.name": "Лезо фламберга",
+	"tetra/schematic/sword/flamberge/flamberge_blade.description": "Замінює нинішнє лезо меча на фламберг.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/sword/flamberge/flamberge_blade.slot1": "Матеріал леза",
+
+	"tetra.module.sword/flamberge_blade.item_name": "Фламберг",
+	"tetra.module.sword/flamberge_blade.name": "Фламберг",
+	"tetra.module.sword/flamberge_blade.description": "Хвилясте та потужне лезо.",
+	"tetra.module.sword/flamberge_blade.material_name": "%s фламберг",
+	"tetra.module.sword/flamberge_blade.prefix": "%s",
+
+	"tetra/schematic/sword/crucible/crucible_blade.name": "§cЛезо горнила§r",
+	"tetra/schematic/sword/crucible/crucible_blade.description": "Замінює нинішнє лезо меча на лезо горнила.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/sword/crucible/crucible_blade.slot1": "Матеріал леза",
+
+	"tetra.module.sword/crucible_blade.item_name": "Горнило",
+	"tetra.module.sword/crucible_blade.name": "Горнило",
+	"tetra.module.sword/crucible_blade.description": "Рви і метай до кінця.",
+	"tetra.module.sword/crucible_blade.material_name": "%s горнило",
+	"tetra.module.sword/crucible_blade.prefix": "%s",
+
+	"tetra/schematic/double/tomahawk/tomahawk.name": "Головка томагавка",
+	"tetra/schematic/double/tomahawk/tomahawk.description": "Головка сокири-томагавка. Використовується для кидання в інших.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/double/tomahawk/tomahawk.slot1": "Головка томагавка",
+
+	"tetra.module.double/tomahawk.item_name": "Томагавк",
+	"tetra.module.double/tomahawk.name": "Головка томагавка",
+	"tetra.module.double/tomahawk.description": "Головка сокири-томагавка, можна кидати у ворогів",
+	"tetra.module.double/tomahawk.material_name": "%s томагавк",
+	"tetra.module.double/tomahawk.prefix": "%s",
+
+	"tetra/schematic/single/head/halberd_head/halberd_head.name": "Головка алебарди",
+	"tetra/schematic/single/head/halberd_head/halberd_head.description": "Викувана головка алебарди з наданих матеріалів. Алебарда - ідеальна зброя для широкого ближнього бою, що забезпечує оглушення і пробиває броню.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.\n§fЩільність§r матеріалу трохи збільшує §fшкоду§r і трохи зменшує §fшвидкість атаки§r.",
+	"tetra/schematic/single/head/halberd_head/halberd_head.slot1": "Матеріал головки",
+
+	"tetra.module.single/halberd_head.item_name": "Алебарда",
+	"tetra.module.single/halberd_head.name": "Головка алебарди",
+	"tetra.module.single/halberd_head.description": "Головка алебарди, ідеальної зброї для широкого ближнього бою, що забезпечує оглушення і пробиває броню.",
+	"tetra.module.single/halberd_head.material_name": "%s алебарда",
+	"tetra.module.single/halberd_head.prefix": "%s",
+
+	"tetra/schematic/sword/saber_blade.name": "Лезо шаблі",
+	"tetra/schematic/sword/saber_blade.description": "Замінює нинішнє лезо меча на шаблю, величне і войовниче лезо.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/sword/saber_blade.slot1": "Матеріал леза",
+
+	"tetra.module.sword/saber_blade.item_name": "Шабля",
+	"tetra.module.sword/saber_blade.name": "Шабля",
+	"tetra.module.sword/saber_blade.description": "Величне і войовниче лезо.",
+	"tetra.module.sword/saber_blade.material_name": "%s шабля",
+	"tetra.module.sword/saber_blade.prefix": "%s",
+
+	"tetra/schematic/sword/key_guard.name": "Гарда",
+	"tetra/schematic/sword/key_guard.description": "Створіть гарду, яка захистить руку, а також дасть гравцеві виконувати особливі рухи.\n \n§fМіцність§r і §fгнучкість§r матеріалу збільшує значення броні.",
+	"tetra/schematic/sword/key_guard.slot1": "Матеріал захисту",
+
+	"tetra.module.sword/key_guard.name": "Гарда",
+	"tetra.module.sword/key_guard.description": "Гарда, яка одночасно захищає руку, а також надає гравцеві виконувати особливі рухи.",
+	"tetra.module.sword/key_guard.material_name": "%s гарда",
+
+	"tetra/schematic/single/head/mace_head/mace_head.name": "Головка булави",
+	"tetra/schematic/single/head/mace_head/mace_head.description": "Викувана головка булави з наданих матеріалів. Булава - сильна зброя ближнього бою, що оглушує ворогів і трощить їхні обладунки.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.\nЩільність§r матеріалу трохи збільшує §fшкоду§r і трохи зменшує §fшвидкість атаки§r.",
+	"tetra/schematic/single/head/mace_head/mace_head.slot1": "Матеріал головки",
+
+	"tetra.module.single/mace_head.item_name": "Булава",
+	"tetra.module.single/mace_head.name": "Головка булави",
+	"tetra.module.single/mace_head.description": "Головка булави, сильної зброї ближнього бою, що оглушує ворогів і трощить їхні обладунки.",
+	"tetra.module.single/mace_head.material_name": "%s булава",
+	"tetra.module.single/mace_head.prefix": "%s",
+
+	"tetra.module.bow/dreadnought_stave.item_name": "Відважне держалко",
+	"tetra.module.bow/dreadnought_stave.name": "Відважне держалко",
+	"tetra.module.bow/dreadnought_stave.description": "Відважне держалко лука. Відважні держалка потужніші, ніж звичайні держалка для лука.",
+	"tetra.module.bow/dreadnought_stave.material_name": "%s відважне держалко",
+	"tetra.module.bow/dreadnought_stave.prefix": "%s",
+
+	"tetra/schematic/bow/stave/dreadnought_stave.name": "Відважне держалко",
+	"tetra/schematic/bow/stave/dreadnought_stave.description": "Замінює держалко на відважне держалко з наданих матеріалів. Відважні держалка потужніші, ніж звичайні держалка для лука.\n \n§fМіцність§r матеріалу збільшує §fсилу§r та зменшує §fчас натягання§r.\n§fГнучкість§r матеріалу збільшує §fсилу§r та трохи зменшує §fчас натягання§r.",
+	"tetra/schematic/bow/stave/dreadnought_stave.slot1": "Матеріал",
+
+	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.name": "Кайло черв'яка порожнечі",
+	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.description": "Голова кайла, зроблена з щелеп черв'яка порожнечі, нічого особистого, хлопче.",
+	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.slot1": "Кайло черв'яка порожнечі",
+
+	"tetra.module.double/void_worm_pickaxe.item_name": "Кайло черв'яка порожнечі",
+	"tetra.module.double/void_worm_pickaxe.name": "Кайло черв'яка порожнечі",
+	"tetra.module.double/void_worm_pickaxe.description": "Голова кайла, зроблена з щелеп черв'яка порожнечі, нічого особистого, хлопче.",
+	"tetra.variant.void_worm_pickaxe/void_worm_pickaxe": "Кайло черв'яка порожнечі",
+
+	"tetra/schematic/sword/void_worm_cleaver.name": "Тесак черв'яка порожнечі",
+	"tetra/schematic/sword/void_worm_cleaver.description": "Клинок з нижньої щелепи Пожира... тобто черв'яка порожнечі.",
+	"tetra/schematic/sword/void_worm_cleaver.slot1": "Тесак черв'яка порожнечі",
+
+	"tetra.module.sword/void_worm_cleaver.item_name": "Тесак черв'яка порожнечі",
+	"tetra.module.sword/void_worm_cleaver.name": "Тесак черв'яка порожнечі",
+	"tetra.module.sword/void_worm_cleaver.description": "НЕ МОЖНА ВБИТИ БОГА.",
+	"tetra.variant.void_worm_cleaver/void_worm_cleaver": "Тесак черв'яка порожнечі",
+
+	"tetra/schematic/sword/shifting_blade.name": "§dМінливе лезо§r",
+	"tetra/schematic/sword/shifting_blade.description": "Дивне лезо, виготовлене з блоків аметисту. Його властивості надають йому магічної гостроти.",
+	"tetra/schematic/sword/shifting_blade.slot1": "§dМінливе лезо§r",
+
+	"tetra.module.sword/shifting_blade.item_name": "§dМінливе лезо§r",
+	"tetra.module.sword/shifting_blade.name": "§dМінливе лезо§r",
+	"tetra.module.sword/shifting_blade.description": "Дивне лезо, виготовлене з блоків аметисту. Його властивості надають йому магічної гостроти.",
+	"tetra.variant.shifting_blade/shifting_blade": "§dМінливе лезо§r",
+
+	"tetra/schematic/sword/bastard_blade.name": "Лезо півтораручника",
+	"tetra/schematic/sword/bastard_blade.description": "Замінює нинішнє лезо меча на лезо півтораручника, практичного меча.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/sword/bastard_blade.slot1": "Матеріал леза",
+
+	"tetra.module.sword/bastard_blade.item_name": "Лезо півтораручника",
+	"tetra.module.sword/bastard_blade.name": "Лезо півтораручника",
+	"tetra.module.sword/bastard_blade.description": "Практичний меч.",
+	"tetra.module.sword/bastard_blade.material_name": "%s лезо півтораручника",
+	"tetra.module.sword/bastard_blade.prefix": "%s",
+
+	"tetra/schematic/sword/executioner_blade.name": "Лезо ката",
+	"tetra/schematic/sword/executioner_blade.description": "Замінює нинішнє лезо меча на лезо ката, грізного меча.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/sword/executioner_blade.slot1": "Матеріал леза",
+
+	"tetra.module.sword/executioner_blade.item_name": "Лезо ката",
+	"tetra.module.sword/executioner_blade.name": "Лезо ката",
+	"tetra.module.sword/executioner_blade.description": "A грізне лезо.",
+	"tetra.module.sword/executioner_blade.material_name": "%s лезо ката",
+	"tetra.module.sword/executioner_blade.prefix": "%s",
+
+	"tetra/schematic/sword/rending_scissor_red.name": "§4Ножичний клинок [Червоний]§r",
+	"tetra/schematic/sword/rending_scissor_red.description": "Лезо ножиць із загартованих ниток життя",
+	"tetra/schematic/sword/rending_scissor_red.slot1": "Ножичний клинок",
+
+	"tetra.module.sword/rending_scissor_red.item_name": "Ножичний клинок",
+	"tetra.module.sword/rending_scissor_red.name": "Ножичний клинок",
+	"tetra.module.sword/rending_scissor_red.description": "Лезо ножиць із загартованих ниток життя.",
+	"tetra.variant.rending_scissor_red/rending_scissor_red": "§4Ножичний клинок [Червоний]§r",
+
+	"tetra/schematic/sword/rending_scissor_purple.name": "§5Ножичний клинок [Фіолетовий]§r",
+	"tetra/schematic/sword/rending_scissor_purple.description": "Лезо ножиць із загартованих ниток життя",
+	"tetra/schematic/sword/rending_scissor_purple.slot1": "Ножичний клинок",
+
+	"tetra.module.sword/rending_scissor_purple.item_name": "Ножичний клинок",
+	"tetra.module.sword/rending_scissor_purple.name": "Ножичний клинок",
+	"tetra.module.sword/rending_scissor_purple.description": "Лезо ножиць із загартованих ниток життя.",
+	"tetra.variant.rending_scissor_purple/rending_scissor_purple": "§5Ножичний клинок [Фіолетовий]§r",
+
+	"tetra/schematic/sword/katana/katana_blade.name": "Лезо катани",
+	"tetra/schematic/sword/katana/katana_blade.description": "Замінює нинішнє лезо меча на лезо катани, почесного меча.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/sword/katana/katana_blade.slot1": "Матеріал леза",
+
+	"tetra.module.sword/katana_blade.item_name": "Катана",
+	"tetra.module.sword/katana_blade.name": "Катана",
+	"tetra.module.sword/katana_blade.description": "Почесний меч.",
+	"tetra.module.sword/katana_blade.material_name": "%s катана",
+	"tetra.module.sword/katana_blade.prefix": "%s",
+
+	"tetra/schematic/shield/plate/kite.name": "Повітряна пластина",
+	"tetra/schematic/shield/plate/kite.description": "Створіть повітряний щит, який може блокувати скільки завгодно, і має менше перезаряджання, ніж звичайний щит.",
+	"tetra/schematic/shield/plate/kite.slot1": "Матеріал",
+
+	"tetra.module.shield/kite.item_name": "Повітряний щит",
+	"tetra.module.shield/kite.name": "Повітряний щит",
+	"tetra.module.shield/kite.description": "Довгий, тонкий щит, який може блокувати скільки завгодно.",
+	"tetra.module.shield/kite.material_name": "%s повітряний щит",
+	"tetra.module.shield/kite.prefix": "%s",
+
+	"tetra/schematic/single/head/cane_head/cane_head.name": "Тростина",
+	"tetra/schematic/single/head/cane_head/cane_head.description": "Викувана головка тростини з наданих матеріалів. Тростини - це універсальний допоміжний інструмент, що збільшує швидкість при пересуванні.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.\nЩільність§r матеріалу трохи збільшує §fшкоду§r і трохи зменшує §fшвидкість атаки§r.",
+	"tetra/schematic/single/head/cane_head/cane_head.slot1": "Матеріал головки",
+
+	"tetra.module.single/cane_head.item_name": "Тростина",
+	"tetra.module.single/cane_head.name": "Тростина",
+	"tetra.module.single/cane_head.description": "Тростина, універсальний допоміжний інструмент, що збільшує швидкість при пересуванні",
+	"tetra.module.single/cane_head.material_name": "%s тростина",
+	"tetra.module.single/cane_head.prefix": "%s",
+
+	"tetra/schematic/crossbow/stave/burst_stave.name": "Вибухове держалко",
+	"tetra/schematic/crossbow/stave/burst_stave.description": "Арбалетне держалко, зроблений з плаского стабілізатора. Це держалко може вистрілювати кілька стріл одночасно, а також тягнути до себе істот.",
+	"tetra/schematic/crossbow/stave/burst_stave.slot1": "Вибухове держалко",
+
+	"tetra.module.crossbow/burst_stave.item_name": "Вибухове держалко",
+	"tetra.module.crossbow/burst_stave.name": "Вибухове держалко",
+	"tetra.module.crossbow/burst_stave.description": "Арбалетне держалко, зроблений з плаского стабілізатора. Це держалко може вистрілювати кілька стріл одночасно, а також тягнути до себе істот.",
+	"tetra.variant.burst_stave/burst_stave": "Вибухове держалко",
+
+	"tetra/schematic/single/head/quarter_staff_head/quarter_staff_head.name": "Бойовий посох",
+	"tetra/schematic/single/head/quarter_staff_head/quarter_staff_head.description": "Викуваний бойовий посох з наданих матеріалів. Бойовий посох добре підходить для ближнього бою, дозволяючи завдавати швидких ударів і мати можливість блокувати.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.\nЩільність§r матеріалу трохи збільшує §fшкоду§r і трохи зменшує §fшвидкість атаки§r.",
+	"tetra/schematic/single/head/quarter_staff_head/quarter_staff_head.slot1": "Матеріал головки",
+
+	"tetra.module.single/quarter_staff_head.item_name": "Бойовий посох",
+	"tetra.module.single/quarter_staff_head.name": "Бойовий посох",
+	"tetra.module.single/quarter_staff_head.description": "Бойовий посох, використовується в ближньому бою для швидких ударів і можливості блокування. Він також може оглушити супротивника на короткий проміжок часу",
+	"tetra.module.single/quarter_staff_head.material_name": "%s бойовий посох",
+	"tetra.module.single/quarter_staff_head.prefix": "%s",
+
+	"tetra.module.bow/compound_string.name": "Складена тятива",
+	"tetra.module.bow/compound_string.description": "Складена тятива. Вона міцніша за звичайні тятиви луків.",
+	"tetra.module.bow/compound_string.material_name": "%s складена тятива",
+
+	"tetra/schematic/bow/string/compound_string.name": "Складена тятива",
+	"tetra/schematic/bow/string/compound_string.description": "Замінює нинішню тятиву на складену з наданих матеріалів. Складена тятива міцніша за звичайні тятиви луків. Тятива є основним джерелом цілісності лука.",
+	"tetra/schematic/bow/string/compound_string.slot1": "Матеріал",
+
+	"tetra.module.crossbow/dreadnought_cross_stave.item_name": "Відважний арбалет",
+	"tetra.module.crossbow/dreadnought_cross_stave.name": "Відважне держалко",
+	"tetra.module.crossbow/dreadnought_cross_stave.description": "Відважне держалко арбалета. Відважні держалка потужніші, ніж звичайні держалка для арбалета.",
+	"tetra.module.crossbow/dreadnought_cross_stave.material_name": "%s відважне держалко",
+	"tetra.module.crossbow/dreadnought_cross_stave.prefix": "%s",
+
+	"tetra/schematic/crossbow/stave/dreadnought_cross_stave.name": "Відважне держалко",
+	"tetra/schematic/crossbow/stave/dreadnought_cross_stave.description": "Замінює держалко на відважне держалко з наданих матеріалів. Відважні держалка потужніші, ніж звичайні держалка для арбалета.",
+	"tetra/schematic/crossbow/stave/dreadnought_cross_stave.slot1": "Матеріал",
+
+	"tetra/schematic/crossbow/socket.name": "Каст",
+	"tetra/schematic/crossbow/socket.description": "Злютуйте арбалет, акуратно розмістивши самоцвіти на держаку, забезпечуючи різні ефекти залежно від каменя.",
+	"tetra/schematic/crossbow/socket.slot1": "Самоцвіт",
+	"tetra.module.crossbow/socket.name": "Каст",
+	"tetra.module.crossbow/socket.description": "Коштовний камінь, дбайливо злютований до держака арбалета. Самоцвіт зачарований і дає магічні сили власнику арбалета.",
+	"tetra.module.crossbow/socket.material_name": "Каст [%s]",
+
+	"tetra.module.crossbow/compound_cross_string.name": "Складена тятива",
+	"tetra.module.crossbow/compound_cross_string.description": "Складена тятива. Вона міцніша за звичайні тятиви арбалетів.",
+	"tetra.module.crossbow/compound_cross_string.material_name": "%s складена тятива",
+
+	"tetra/schematic/crossbow/string/compound_cross_string.name": "Складена тятива",
+	"tetra/schematic/crossbow/string/compound_cross_string.description": "Замінює нинішню тятиву на складену з наданих матеріалів. Складена тятива міцніша за звичайні тятиви арбалетів. Тятива є основним джерелом цілісності арбалета.",
+	"tetra/schematic/crossbow/string/compound_cross_string.slot1": "Матеріал",
+
+	"tetra/schematic/sword/echo_fuller.name": "Гарда відлуння",
+	"tetra/schematic/sword/echo_fuller.description": "Гарда, зроблена з уламка відлуння. Він може поширювати скалк.",
+	"tetra/schematic/sword/echo_fuller.slot1": "Гарда відлуння",
+
+	"tetra.module.sword/echo_fuller.name": "§1Гарда відлуння§r",
+	"tetra.module.sword/echo_fuller.description": "Гарда, зроблена з уламка відлуння. Він може поширювати скалк.",
+	"tetra.variant.echo_fuller/echo_fuller": "§1Гарда відлуння§r",
+
+	"tetra/schematic/sword/euclidean_dagger.name": "§6Евклідів кинджал§r",
+	"tetra/schematic/sword/euclidean_dagger.description": "Старовинний кинджал, викуваний з уламка Едену. Ніч належить тобі.",
+	"tetra/schematic/sword/euclidean_dagger.slot1": "§6Евклідів кинджал§r",
+
+	"tetra.module.sword/euclidean_dagger.item_name": "§6Евклідів кинджал§r",
+	"tetra.module.sword/euclidean_dagger.name": "§6Евклідів кинджал§r",
+	"tetra.module.sword/euclidean_dagger.description": "Старовинний кинджал, викуваний з уламка Едену. Ніч належить тобі.",
+	"tetra.variant.euclidean_dagger/euclidean_dagger": "§6Евклідів кинджал§r",
+
+	"tetra/schematic/double/annihilator_axe/annihilator_axe.name": "§4Анігілятор§r",
+	"tetra/schematic/double/annihilator_axe/annihilator_axe.description": "Головка сокири, викувана із застиглої демонічної сутності. Вона жадає крові.",
+	"tetra/schematic/double/annihilator_axe/annihilator_axe.slot1": "§4Анігілятор§r",
+
+	"tetra.module.double/annihilator_axe.item_name": "§4Анігілятор§r",
+	"tetra.module.double/annihilator_axe.name": "§4Головка сокири-анігілятора§r",
+	"tetra.module.double/annihilator_axe.description": "Головка сокири, викувана із застиглої демонічної сутності. Вона жадає крові.",
+	"tetra.variant.annihilator_axe/annihilator_axe": "§cАнігілятор§r",
+
+	"tetra/schematic/sword/cataclysm_blade/cataclysm_blade.name": "§4Катаклізм§r",
+	"tetra/schematic/sword/cataclysm_blade/cataclysm_blade.description": "Лезо, викуване із застиглої демонічної сутності. Воно жадає крові.",
+	"tetra/schematic/sword/cataclysm_blade/cataclysm_blade.slot1": "§4Катаклізм§r",
+
+	"tetra.module.sword/cataclysm_blade.item_name": "§4Катаклізм§r",
+	"tetra.module.sword/cataclysm_blade.name": "§4Катаклізм§r",
+	"tetra.module.sword/cataclysm_blade.description": "Лезо, викуване із застиглої демонічної сутності. Воно жадає крові.",
+	"tetra.variant.cataclysm_blade/cataclysm_blade": "§cКатаклізм§r",
+
+	"tetra/schematic/single/head/mourning_star/mourning_star.name": "§4Моргенштерн§r",
+	"tetra/schematic/single/head/mourning_star/mourning_star.description": "Ціп, викуваний із застиглої демонічної сутності. Він жадає крові.",
+	"tetra/schematic/single/head/mourning_star/mourning_star.slot1": "§4Моргенштерн§r",
+
+	"tetra.module.single/mourning_star.item_name": "§4Моргенштерн§r",
+	"tetra.module.single/mourning_star.name": "§4Моргенштерн§r",
+	"tetra.module.single/mourning_star.description": "Ціп, викуваний із застиглої демонічної сутності. Він жадає крові.",
+	"tetra.variant.mourning_star/mourning_star": "§cМоргенштерн§r",
+
+	"tetra/schematic/double/reaping_scythe/reaping_scythe.name": "Головка жниварської коси",
+	"tetra/schematic/double/reaping_scythe/reaping_scythe.description": "Головка жниварської коси. Використовується для знеголовлення ворогів.\n \n§fМіцність§r матеріалу збільшує §fшкоду та шанс знеголовлення§r.",
+	"tetra/schematic/double/reaping_scythe/reaping_scythe.slot1": "Матеріал головки",
+
+	"tetra.module.double/reaping_scythe.item_name": "Жниварська коса",
+	"tetra.module.double/reaping_scythe.name": "Головка жниварської коси",
+	"tetra.module.double/reaping_scythe.description": "Головка жниварської коси, можна використовувати для відсікання голови ворогам, щоб забрати їхні черепи.",
+	"tetra.module.double/reaping_scythe.material_name": "%s жниварська коса",
+	"tetra.module.double/reaping_scythe.prefix": "%s",
+
+	"tetra/schematic/double/soul_fire_scythe/soul_fire_scythe.name": "Коса вогню душ",
+	"tetra/schematic/double/soul_fire_scythe/soul_fire_scythe.description": "Коса, викувана з чистого жару, що виділяється з долин пісків душ. Навколо неї все горить.",
+	"tetra/schematic/double/soul_fire_scythe/soul_fire_scythe.slot1": "Коса вогню душ",
+
+	"tetra.module.double/soul_fire_scythe.item_name": "Коса вогню душ",
+	"tetra.module.double/soul_fire_scythe.name": "Коса вогню душ",
+	"tetra.module.double/soul_fire_scythe.description": "Коса, викувана з чистого жару, що виділяється з долин пісків душ. Навколо неї все горить.",
+	"tetra.variant.soul_fire_scythe/soul_fire_scythe": "Коса вогню душ",
+
+	"tetra/schematic/double/shockwave_hammer/shockwave_hammer.name": "Молот ударної хвилі",
+	"tetra/schematic/double/shockwave_hammer/shockwave_hammer.description": "Головка молота, викувана з камери ударної хвилі. Відкидає ворогів назад і має потужну ударну атаку, а також можливість викликати блискавку.",
+	"tetra/schematic/double/shockwave_hammer/shockwave_hammer.slot1": "Молот ударної хвилі",
+
+	"tetra.module.double/shockwave_hammer.item_name": "Молот ударної хвилі",
+	"tetra.module.double/shockwave_hammer.name": "Молот ударної хвилі",
+	"tetra.module.double/shockwave_hammer.description": "Головка молота, викувана з камери ударної хвилі. Відкидає ворогів назад і має потужну ударну атаку, а також можливість викликати блискавку.",
+	"tetra.variant.shockwave_hammer/shockwave_hammer": "Молот ударної хвилі",
+
+	"tetra/schematic/double/slime_hammer/slime_hammer.name": "Слизовий молот",
+	"tetra/schematic/double/slime_hammer/slime_hammer.description": "Головка молотка, зроблена з веселого, хлюпаючого слизу. Не призначена для використання як зброя.",
+	"tetra/schematic/double/slime_hammer/slime_hammer.slot1": "Слизовий молот",
+
+	"tetra.module.double/slime_hammer.item_name": "Слизовий молот",
+	"tetra.module.double/slime_hammer.name": "Слизовий молот",
+	"tetra.module.double/slime_hammer.description": "Головка молотка, зроблена з веселого, хлюпаючого слизу. Не призначена для використання як зброя.",
+	"tetra.variant.slime_hammer/slime_hammer": "Слизовий молот",
+
+	"tetra/schematic/sword/eerie_fuller.name": "Моторошна гарда",
+	"tetra/schematic/sword/eerie_fuller.description": "Гарда, виготовлена з моторошного уламка, що падає з боронителя. Дозволяє користувачеві створювати власний звуковий удар.",
+	"tetra/schematic/sword/eerie_fuller.slot1": "Моторошна гарда",
+
+	"tetra.module.sword/eerie_fuller.name": "§3Моторошна гарда§r",
+	"tetra.module.sword/eerie_fuller.description": "Гарда, виготовлена з моторошного уламка, що падає з боронителя. Дозволяє користувачеві створювати власний звуковий удар.",
+	"tetra.variant.eerie_fuller/eerie_fuller": "§3Моторошна гарда§r",
+
+	"tetra/schematic/sword/tonal_blade.name": "Тональне лезо",
+	"tetra/schematic/sword/tonal_blade.description": "Замінює нинішнє лезо меча на тональне лезо, меч, налаштований на резонансну частоту живих істот.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/sword/tonal_blade.slot1": "Матеріал леза",
+
+	"tetra.module.sword/tonal_blade.item_name": "Тональне лезо",
+	"tetra.module.sword/tonal_blade.name": "Тональне лезо",
+	"tetra.module.sword/tonal_blade.description": "Меч, налаштований на резонансну частоту живих істот.",
+	"tetra.module.sword/tonal_blade.material_name": "%s тональне лезо",
+	"tetra.module.sword/tonal_blade.prefix": "%s",
+
+	"tetra/schematic/bow/stave/remembrance_stave.name": "Пам'ятання",
+	"tetra/schematic/bow/stave/remembrance_stave.description": "Лук, створений за допомогою дивної магії потойбічного закону. Використовувався, щоб боротися і захищати світ, який був дорогий для Неї.",
+	"tetra/schematic/bow/stave/remembrance_stave.slot1": "Пам'ятай Її.",
+
+	"tetra.module.bow/remembrance_stave.item_name": "Пам'ятання",
+	"tetra.module.bow/remembrance_stave.name": "Пам'ятання",
+	"tetra.module.bow/remembrance_stave.description": "Лук, створений за допомогою дивної магії потойбічного закону. Використовувався, щоб боротися і захищати світ, який був дорогий для Неї.",
+	"tetra.variant.remembrance_stave/remembrance_stave": "Пам'ятання",
+
+	"tetra/schematic/sword/rending_scissor_complete.name": "§cСічущі ножиці§r",
+	"tetra/schematic/sword/rending_scissor_complete.description": "Повноцінне ножичне лезо із загартованих ниток життя",
+	"tetra/schematic/sword/rending_scissor_complete.slot1": "Січущі ножиці",
+
+	"tetra.module.sword/rending_scissor_complete.item_name": "Січущі ножиці",
+	"tetra.module.sword/rending_scissor_complete.name": "Січущі ножиці",
+	"tetra.module.sword/rending_scissor_complete.description": "Повноцінне ножичне лезо із загартованих ниток життя.",
+	"tetra.variant.rending_scissor_complete/rending_scissor_complete": "§cСічущі ножиці§r",
+
+	"tetra/schematic/sword/scissor_blade_left.name": "Лівий ножичний клинок",
+	"tetra/schematic/sword/scissor_blade_left.description": "Замінює нинішнє лезо меча на ножичний клинок, меч, створений для розрізання з тканин і сухожиль.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/sword/scissor_blade_left.slot1": "Матеріал леза",
+
+	"tetra.module.sword/scissor_blade_left.item_name": "Ножичний клинок",
+	"tetra.module.sword/scissor_blade_left.name": "Ножичний клинок",
+	"tetra.module.sword/scissor_blade_left.description": "Меч, створений для розрізання з тканин і сухожиль.",
+	"tetra.module.sword/scissor_blade_left.material_name": "%s ножичний клинок",
+	"tetra.module.sword/scissor_blade_left.prefix": "%s",
+
+	"tetra/schematic/sword/scissor_blade_right.name": "Правий ножичний клинок",
+	"tetra/schematic/sword/scissor_blade_right.description": "Замінює нинішнє лезо меча на ножичний клинок, меч, створений для розрізання з тканин і сухожиль.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.",
+	"tetra/schematic/sword/scissor_blade_right.slot1": "Матеріал леза",
+
+	"tetra.module.sword/scissor_blade_right.item_name": "Ножичний клинок",
+	"tetra.module.sword/scissor_blade_right.name": "Ножичний клинок",
+	"tetra.module.sword/scissor_blade_right.description": "Меч, створений для розрізання з тканин і сухожиль.",
+	"tetra.module.sword/scissor_blade_right.material_name": "%s ножичний клинок",
+	"tetra.module.sword/scissor_blade_right.prefix": "%s",
+
+	"tetra/schematic/artifact/casing/bell.name": "Артефакт дзвону",
+	"tetra/schematic/artifact/casing/bell.description": "Замінює нинішній артефакт на дзвін, оболонка, що збільшує кількість слотів поясу на 1.",
+	"tetra/schematic/artifact/casing/bell.slot1": "Матеріал артефакту",
+
+	"tetra.module.artifact/casing/bell.item_name": "Артефакт дзвону",
+	"tetra.module.artifact/casing/bell.name": "Артефакт дзвону",
+	"tetra.module.artifact/casing/bell.description": "Артефакт дзвону.",
+	"tetra.module.artifact/casing/bell.material_name": "%s артефакт дзвону",
+	"tetra.module.artifact/casing/bell.prefix": "%s",
+
+	"tetra/schematic/artifact/casing/machination.name": "Артефакт підступу",
+	"tetra/schematic/artifact/casing/machination.description": "Замінює нинішній артефакт на підступ, оболонка, що збільшує кількість слотів аксесуарів на 1.",
+	"tetra/schematic/artifact/casing/machination.slot1": "Матеріал артефакту",
+
+	"tetra.module.artifact/casing/machination.item_name": "Артефакт підступу",
+	"tetra.module.artifact/casing/machination.name": "Артефакт підступу",
+	"tetra.module.artifact/casing/machination.description": "Артефакт підступу.",
+	"tetra.module.artifact/casing/machination.material_name": "%s артефакт підступу",
+	"tetra.module.artifact/casing/machination.prefix": "%s",
+
+	"tetra/schematic/artifact/casing/relic.name": "Артефакт реліквії",
+	"tetra/schematic/artifact/casing/relic.description": "Замінює нинішній артефакт на реліквію, оболонка, що збільшує кількість слотів оберегів на 1.",
+	"tetra/schematic/artifact/casing/relic.slot1": "Матеріал артефакту",
+
+	"tetra.module.artifact/casing/relic.item_name": "Артефакт реліквії",
+	"tetra.module.artifact/casing/relic.name": "Артефакт реліквії",
+	"tetra.module.artifact/casing/relic.description": "Артефакт реліквії.",
+	"tetra.module.artifact/casing/relic.material_name": "%s артефакт реліквії",
+	"tetra.module.artifact/casing/relic.prefix": "%s",
+
+	"tetra/schematic/artifact/internal/orb.name": "Компонент сфери",
+	"tetra/schematic/artifact/internal/orb.description": "Замінює нинішню серцевину артефакту на сферу, внутрішній компонент що застосовує пасивні ефекти.",
+	"tetra/schematic/artifact/internal/orb.slot1": "Матеріал сфери",
+
+	"tetra.module.artifact/internal/orb.name": "Компонент сфери",
+	"tetra.module.artifact/internal/orb.description": "Внутрішній компонент сфери.",
+	"tetra.module.artifact/internal/orb.material_name": "%s компонент сфери",
+
+	"tetra/schematic/artifact/attachment/binding.name": "Скріплення",
+	"tetra/schematic/artifact/attachment/binding.description": "Замінює нинішній додаток артефакту кількома скріпленнями із косметичною функцією.",
+	"tetra/schematic/artifact/attachment/binding.slot1": "Матеріал скріплення",
+
+	"tetra.module.artifact/attachment/binding.name": "Скріплення",
+	"tetra.module.artifact/attachment/binding.description": "Додаткове скріплення.",
+	"tetra.module.artifact/attachment/binding.material_name": "%s скріплення",
+
+	"tetra.module.crossbow/light_stave.item_name": "Легкий арбалет",
+	"tetra.module.crossbow/light_stave.name": "Полегшене держалко",
+	"tetra.module.crossbow/light_stave.description": "Полегшене держалко арбалета. Це держалко легше за більшість арбалетних держаків, має менший час натяжіння коштом зменшеншої шкоди.",
+	"tetra.module.crossbow/light_stave.material_name": "%s полегшене держалко",
+	"tetra.module.crossbow/light_stave.prefix": "%s",
+
+	"tetra/schematic/crossbow/stave/light_stave.name": "Полегшене держалко",
+	"tetra/schematic/crossbow/stave/light_stave.description": "Замінює держалко на легке арбалетне держалко з наданих матеріалів. Це держалко легше за більшість арбалетних держаків, має менший час натяжіння коштом зменшеншої шкоди.",
+	"tetra/schematic/crossbow/stave/light_stave.slot1": "Матеріал",
+
+	"tetra.module.crossbow/heavy_stave.item_name": "Обтяжене держалко",
+	"tetra.module.crossbow/heavy_stave.name": "Обтяжене держалко",
+	"tetra.module.crossbow/heavy_stave.description": "Обтяжене держалко арбалета. Це держалко важче за більшість арбалетних держаків, має збільшену шкоду коштом довшого часу натяжіння.",
+	"tetra.module.crossbow/heavy_stave.material_name": "%s обтяжене держалко",
+	"tetra.module.crossbow/heavy_stave.prefix": "%s",
+
+	"tetra/schematic/crossbow/stave/heavy_stave.name": "Обтяжене держалко",
+	"tetra/schematic/crossbow/stave/heavy_stave.description": "Замінює держалко на важке арбалетне держалко з наданих матеріалів. Це держалко важче за більшість арбалетних держаків, має збільшену шкоду коштом більшого часу натяжіння.",
+	"tetra/schematic/crossbow/stave/heavy_stave.slot1": "Матеріал",
+
+	"tetra.module.crossbow/light_stock.name": "Полегшена ложа",
+	"tetra.module.crossbow/light_stock.description": "Полегшена ложа для арбалета. Ця полегшена ложа забезпечує певну цілісність і містить кілька механічних частин арбалета. Полегшена ложа менший час натяжіння, але ціною меншої міцності та шкоди.",
+	"tetra.module.crossbow/light_stock.material_name": "%s полегшена ложа",
+
+	"tetra/schematic/crossbow/stock/light_stock.name": "Полегшена ложа",
+	"tetra/schematic/crossbow/stock/light_stock.description": "Замінює ложу на полегшену з наданих матеріалів.",
+	"tetra/schematic/crossbow/stock/light_stock.slot1": "Матеріал",
+
+	"tetra/schematic/sword/tsuba_guard.name": "Цуба",
+	"tetra/schematic/sword/tsuba_guard.description": "Створіть цубу, яка захищає руку, а також надає гравцеві додаткову міцність обладунків.\n \n§fМіцність§r і §fгнучкість§r матеріалу збільшує значення броні.",
+	"tetra/schematic/sword/tsuba_guard.slot1": "Матеріал захисту",
+
+	"tetra.module.sword/tsuba_guard.name": "Цуба",
+	"tetra.module.sword/tsuba_guard.description": "Цуба, що захищає руку, а також надає гравцеві додаткову міцність обладунків. Зазвичай використовується в поєднанні з лезами катани.",
+	"tetra.module.sword/tsuba_guard.material_name": "%s цуба",
+
+
+
+	"tetra.synergy.double/quarry_hammer": "Каменярський молот",
+	"tetra.synergy.double/mjolnir": "Мйолнір",
+	"tetra.synergy.double/dual_throwing_axe": "Сокира з подвійним топорищем",
+	"tetra.synergy.sword/murasama": "Мурасама",
+	"tetra.synergy.sword/architects_crucible": "Горнило архітектора",
+	"tetra.synergy.sword/thousand_cold_nights": "Тисяча холодних ночей",
+
+
+
+	"tetra/schematic/katana/murasama_blade.name": "Мурасама",
+	"tetra/schematic/katana/murasama_blade.description": "Удоскональте свою катану до легендарного клинка Мурасама.",
+	"tetra/schematic/katana/murasama_blade.slot1": "Лезо Мурасами",
+
+	"tetra.improvement.sword/murasama_imprv.name": "Мурасам-лений",
+	"tetra.improvement.sword/murasama_imprv.description": "Дайте вашій катані взяти на себе покрив Мурасами",
+
+	"tetra/schematic/double/basic_hammer/utilize.name": "Використання",
+	"tetra/schematic/double/basic_hammer/utilize.description": "Використовуйте головку інструменту, щоб розблокувати унікальну спеціальність у модулі",
+
+	"tetra.improvement.double/utilized.name": "Використано",
+
+	"tetra.improvement.head_hone/radius_tier.name": "Глибина",
+	"tetra.improvement.head_hone/radius_tier.prefix": "Глибина",
+	"tetra.improvement.head_hone/radius_tier.description": "Збільшує глибину тунелю",
+
+	"tetra/schematic/double/basic_hammer/hone_radius_1.name": "Глибина",
+	"tetra/schematic/double/basic_hammer/hone_radius_1.description": "Збільште глибину, на яку ваш молот може прокладати тунель.",
+	"tetra/schematic/double/basic_hammer/hone_radius_2.name": "Відточення: Глибина II",
+	"tetra/schematic/double/basic_hammer/hone_radius_2.description": "Відточення покращення глибини. Ефект збільшено до 27.",
+	"tetra/schematic/double/basic_hammer/hone_radius_3.name": "Відточення: Глибина III",
+	"tetra/schematic/double/basic_hammer/hone_radius_3.description": "Більше відточення покращення глибини. Ефект збільшено до 36.",
+	"tetra/schematic/double/basic_hammer/hone_radius_4.name": "Відточення: Глибина IV",
+	"tetra/schematic/double/basic_hammer/hone_radius_4.description": "Більше відточення покращення глибини. Ефект збільшено до 45.",
+	"tetra/schematic/double/basic_hammer/hone_radius_5.name": "Відточення: Глибина V",
+	"tetra/schematic/double/basic_hammer/hone_radius_5.description": "Більше відточення покращення глибини. Ефект збільшено до 54.",
+
+	"tetra.improvement.blade/vengeance_tier.name": "Розлючення",
+	"tetra.improvement.blade/vengeance_tier.prefix": "Розлючення",
+	"tetra.improvement.blade/vengeance_tier.description": "Збільшує шкоду помсти",
+
+	"tetra/schematic/sword/crucible/hone_vengeance_1.name": "Шлях: Лють",
+	"tetra/schematic/sword/crucible/hone_vengeance_1.description": "Збільшує шкоду помсти на 5%%. при низькому здоров'ї.",
+	"tetra/schematic/sword/crucible/hone_vengeance_2.name": "Відточення: Розлючення II",
+	"tetra/schematic/sword/crucible/hone_vengeance_2.description": "Відточення покращення помсти. Шкода збільшується до 15%%. при низькому здоров'ї.",
+	"tetra/schematic/sword/crucible/hone_vengeance_3.name": "Відточення: Розлючення III",
+	"tetra/schematic/sword/crucible/hone_vengeance_3.description": "Більше відточення покращення помсти. Шкода збільшується до 20%% при низькому здоров'ї.",
+
+	"tetra.improvement.blade/infernal.name": "Пекельність",
+	"tetra.improvement.blade/infernal.prefix": "Пекельність",
+	"tetra.improvement.blade/infernal.description": "Шанс підпалити ворогів і відкинути їх назад при ударі.",
+
+	"tetra/schematic/sword/flamberge/hone_infernal_1.name": "Пекельний докір",
+	"tetra/schematic/sword/flamberge/hone_infernal_1.description": "Підпалює ворога на 3 секунди із 15%%. шансом.",
+	"tetra/schematic/sword/flamberge/hone_infernal_2.name": "Відточення: Пекельність II",
+	"tetra/schematic/sword/flamberge/hone_infernal_2.description": "Відточення покращення пекельності. Підпалює ворога на 4 секунди із 20%% шансом.",
+	"tetra/schematic/sword/flamberge/hone_infernal_3.name": "Відточення: Пекельність III",
+	"tetra/schematic/sword/flamberge/hone_infernal_3.description": "Більше відточення покращення пекельності. Підпалює ворога на 5 секунд із 25%%. шансом",
+	"tetra/schematic/sword/flamberge/hone_infernal_4.name": "Відточення: Пекельність IV",
+	"tetra/schematic/sword/flamberge/hone_infernal_4.description": "Більше відточення покращення пекельності. Підпалює ворога на 6 секунд із 30%% шансом",
+
+	"tetra.improvement.soul_fire_hone/soul_fire.name": "Запалення душі",
+	"tetra.improvement.soul_fire_hone/soul_fire.description": "Збільшує шкоду від вогню та магії",
+
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_1.name": "Запалення душі",
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_1.description": "Збільшує шкоду від вогню та магії, завдану здібностями на 1.",
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_2.name": "Відточення: Запалення II",
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_2.description": "Відточення покращення вогню душ. Ворог горить протягом 8 секунд (14, якщо двічі відточено) секунд, а магічна шкода збільшується до 6 (9, якщо двічі відточено).",
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_3.name": "Відточення: Запалення III",
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_3.description": "Більше відточення покращення вогню душ. Ворог горить протягом 10 (16, якщо двічі відточено) секунд, а магічна шкода збільшується до 7 (10, якщо двічі відточено).",
+
+	"tetra/schematic/crucible/architects_crucible.name": "Горнило архітектора",
+	"tetra/schematic/crucible/architects_crucible.description": "Удоскональте своє горнило, щоб стати справжнім горнилом архітектора.",
+	"tetra/schematic/crucible/architects_crucible.slot1": "Горнило архітектора",
+
+	"tetra.improvement.sword/architect_imprv.name": "Заборонена архітектура",
+	"tetra.improvement.sword/architect_imprv.description": "Дайте своєму горнилу взяти на себе покрив горнила архітектора.",
+
+	"tetra.improvement.blade/esoteric_tier.name": "Езотеричність",
+	"tetra.improvement.blade/esoteric_tier.prefix": "Езотеричність",
+	"tetra.improvement.blade/esoteric_tier.description": "Збільшує шкоду езотеричного леза",
+
+	"tetra/schematic/sword/crucible/hone_esoteric_1.name": "Шлях: Езотерика",
+	"tetra/schematic/sword/crucible/hone_esoteric_1.description": "Збільшує шкоду езотеричного леза на 5%%.",
+	"tetra/schematic/sword/crucible/hone_esoteric_2.name": "Відточення: Езотеричність II",
+	"tetra/schematic/sword/crucible/hone_esoteric_2.description": "Відточення покращення езотеричного леза. Шкода езотеричного леза збільшується на 10%%.",
+	"tetra/schematic/sword/crucible/hone_esoteric_3.name": "Відточення: Езотеричність III",
+	"tetra/schematic/sword/crucible/hone_esoteric_3.description": "Більше відточення покращення езотеричного леза. Шкода езотеричного леза збільшується на 15%%.",
+
+	"tetra.improvement.nano_fused.name": "Нанозлиття",
+	"tetra.improvement.nano_fused.description": "Злийте зброю з наножуком, щоб отримувати альтернативну здобич з певних мобів.",
+
+	"tetra/schematic/shared/hone_nano_fused_1.name": "Нанозлиття",
+	"tetra/schematic/shared/hone_nano_fused_1.description": "Злийте зброю з наножуком, щоб отримувати альтернативну здобич з певних мобів.",
+	"tetra/schematic/shared/hone_nano_fused_1.slot1": "Наповнення",
+
+	"tetra/schematic/katana/thousand_cold_nights.name": "Тисяча холодних ночей",
+	"tetra/schematic/katana/thousand_cold_nights.description": "Перетворіть свою катану на легендарний клинок Тисячі холодних ночей.",
+	"tetra/schematic/katana/thousand_cold_nights.slot1": "Тисяча холодних ночей",
+
+	"tetra.improvement.sword/thousand_cold_nights_imprv.name": "Демонічність",
+	"tetra.improvement.sword/thousand_cold_nights_imprv.description": "Дайте своїй катані стати клинком Тисячі холодних ночей.",
+
+
+	"tetra.variant.compound_string/string": "Базова складена тятива",
+	"tetra.variant.compound_string/hide": "Міховий подвійний ремінець",
+	"tetra.variant.compound_string/leather": "Шкіряний подвійний ремінець",
+	"tetra.variant.compound_string/phantom_membrane": "Двічі переплетена перетинка фантома",
+	"tetra.variant.compound_string/dragon_sinew": "Драконяча сухожильна суміш",
+
+	"tetra.variant.compound_cross_string/string": "Базова складена тятива",
+	"tetra.variant.compound_cross_string/hide": "Міховий подвійний ремінець",
+	"tetra.variant.compound_cross_string/leather": "Шкіряний подвійний ремінець",
+	"tetra.variant.compound_cross_string/phantom_membrane": "Двічі переплетена перетинка фантома",
+	"tetra.variant.compound_cross_string/dragon_sinew": "Драконяча сухожильна суміш",
+
+	"tetra/schematic/single/head/halberd_head/serrated_1.name": "Зазубрення",
+	"tetra/schematic/single/head/halberd_head/serrated_1.description": "Зазубрена головка. Атаки мають a 30%% шанс викликати у цілі кровотечу на 4 шкоди протягом 2 секунд. Не діє на нежить.",
+	"tetra/schematic/single/head/halberd_head/serrated_2.name": "Відточення: Зазубрення II",
+	"tetra/schematic/single/head/halberd_head/serrated_2.description": "Відточення покращення зазубрення збільшує шкоду до 8.",
+	"tetra/schematic/single/head/halberd_head/serrated_3.name": "Відточення: Зазубрення III",
+	"tetra/schematic/single/head/halberd_head/serrated_3.description": "Більше відточення покращення зазубрення збільшує шкоду до 16.",
+
+	"tetra.improvement.halberd_head/serrated.name": "Зазубрення",
+	"tetra.improvement.halberd_head/serrated.prefix": "Зазубрення",
+	"tetra.improvement.halberd_head/serrated.description": "Напади можуть спричинити кровотечу",
+
+	"tetra/schematic/single/head/halberd_head/tempered_1.name": "Загартування",
+	"tetra/schematic/single/head/halberd_head/tempered_1.description": "Загартуйте лезо, значно підвищуючи його твердість. Змушує частину завданої шкоди ігнорувати броню.",
+	"tetra/schematic/single/head/halberd_head/tempered_2.name": "Відточення: Загартування II",
+	"tetra/schematic/single/head/halberd_head/tempered_2.description": "Відточення покращення загартування збільшує кількість шкоди, що пробиває броню, до 3.",
+	"tetra/schematic/single/head/halberd_head/tempered_3.name": "Відточення: Загартування III",
+	"tetra/schematic/single/head/halberd_head/tempered_3.description": "Більше відточення покращення загартування збільшує кількість шкоди, що пробиває броню, до 5.",
+
+	"tetra.improvement.halberd_head/tempered.name": "Загартовано",
+	"tetra.improvement.halberd_head/tempered.prefix": "Загартовано",
+	"tetra.improvement.halberd_head/tempered.description": "Атаки частково ігнорують броню",
+
+	"tetra/schematic/crossbow/stave/hone_damage_1.name": "Відточення: Шкода I",
+	"tetra/schematic/crossbow/stave/hone_damage_1.description": "Відточуйте модуль, щоб збільшити загальну шкоду.",
+	"tetra/schematic/crossbow/stave/hone_damage_2.name": "Відточення: Шкода II",
+	"tetra/schematic/crossbow/stave/hone_damage_2.description": "Більше відточення покращення шкоди для цього модуля.",
+	"tetra/schematic/crossbow/stave/hone_damage_3.name": "Відточення: Шкода III",                  
+	"tetra/schematic/crossbow/stave/hone_damage_3.description": "Більше відточення покращення шкоди для цього модуля.",
+	"tetra/schematic/crossbow/stave/hone_damage_4.name": "Відточення: Шкода IV",                   
+	"tetra/schematic/crossbow/stave/hone_damage_4.description": "Більше відточення покращення шкоди для цього модуля.",
+	"tetra/schematic/crossbow/stave/hone_damage_5.name": "Відточення: Шкода V",                    
+	"tetra/schematic/crossbow/stave/hone_damage_5.description": "Більше відточення покращення шкоди для цього модуля.",
+
+	"tetra.improvement.crossbow_stave_hone/damage.name": "Відточення: Шкода",
+	"tetra.improvement.crossbow_stave_hone/damage.description": "Збільшує шкоду",
+
+	"tetra/schematic/crossbow/stave/hone_speed_1.name": "Відточення: Швидкість I",
+	"tetra/schematic/crossbow/stave/hone_speed_1.description": "Відточуйте модуль, щоб зменшити час натягання.",
+	"tetra/schematic/crossbow/stave/hone_speed_2.name": "Відточення: Швидкість II",
+	"tetra/schematic/crossbow/stave/hone_speed_2.description": "Більше відточення покращення натягання для цього модуля.",
+	"tetra/schematic/crossbow/stave/hone_speed_3.name": "Відточення: Швидкість III",                       
+	"tetra/schematic/crossbow/stave/hone_speed_3.description": "Більше відточення покращення натягання для цього модуля.",
+	"tetra/schematic/crossbow/stave/hone_speed_4.name": "Відточення: Швидкість IV",                        
+	"tetra/schematic/crossbow/stave/hone_speed_4.description": "Більше відточення покращення натягання для цього модуля.",
+	"tetra/schematic/crossbow/stave/hone_speed_5.name": "Відточення: Швидкість V",                         
+	"tetra/schematic/crossbow/stave/hone_speed_5.description": "Більше відточення покращення натягання для цього модуля.",
+
+	"tetra.improvement.crossbow_stave_hone/speed.name": "Відточення: Швидкість",
+	"tetra.improvement.crossbow_stave_hone/speed.description": "Зменшує час натягання",
+
+	"tetra.improvement.halberd_head_hone/damage.name": "Відточення: Шкода",
+	"tetra.improvement.halberd_head_hone/damage.description": "Збільшує шкоду",
+
+	"tetra.improvement.tomahawk_head_hone/damage.name": "Відточення: Шкода",
+	"tetra.improvement.tomahawk_head_hone/damage.description": "Збільшує шкоду",
+
+	"tetra.improvement.annihilator_head_hone/damage.name": "Відточення: Шкода",
+	"tetra.improvement.annihilator_head_hone/damage.description": "Збільшує шкоду",
+
+	"tetra.improvement.reaping_scythe_hone/damage.name": "Відточення: Шкода",
+	"tetra.improvement.reaping_scythe_hone/damage.description": "Збільшує шкоду",
+
+	"tetra.improvement.soul_fire_hone/damage.name": "Відточення: Шкода",
+	"tetra.improvement.soul_fire_hone/damage.description": "Збільшує шкоду",
+
+	"tetra.improvement.mourning_star_hone/damage.name": "Відточення: Шкода",
+	"tetra.improvement.mourning_star_hone/damage.description": "Збільшує шкоду",
+
+	"tetra.improvement.shockwave_head_hone/damage.name": "Відточення: Шкода",
+	"tetra.improvement.shockwave_head_hone/damage.description": "Збільшує шкоду",
+
+	"tetra.improvement.blade/goliath_tier.name": "Голіаф",
+	"tetra.improvement.blade/goliath_tier.description": "Збільшує шкоду проти босів",
+
+	"tetra/schematic/sword/crucible/hone_goliath_1.name": "Шлях: Голіаф",
+	"tetra/schematic/sword/crucible/hone_goliath_1.description": "Збільшує шкоду проти босів на 25%%.",
+	"tetra/schematic/sword/crucible/hone_goliath_2.name": "Відточення: Голіаф II",
+	"tetra/schematic/sword/crucible/hone_goliath_2.description": "Відточення покращення вбивці голіафа. Шкода проти босів збільшена на 50%%.",
+	"tetra/schematic/sword/crucible/hone_goliath_3.name": "Відточення: Голіаф III",
+	"tetra/schematic/sword/crucible/hone_goliath_3.description": "Більше відточення покращення вбивці голіафа. Шкода проти босів збільшена на 75%%.",
+
+
+
+	"tetra.variant_category.reagent.label": "Реагент",
+
+	"tetra.material.warped_muscle": "Химерний м'яз",
+	"tetra.material.warped_muscle.prefix": "Химерний м'яз",
+
+	"tetra.variant.spike/serrated_tooth": "Зазубрений акулячий зуб",
+
+	"tetra.material.diabolium_ingot": "Дияволій",
+	"tetra.material.diabolium_ingot.prefix": "Дияволій",
+
+	"tetra.material.echo_shard": "Уламок відлуння",
+	"tetra.material.echo_shard.prefix": "Уламок відлуння",
+
+	"tetra.material.socket_void_worm_eye": "Око черв'яка порожнечі",
+	"tetra.material.socket_void_worm_eye.prefix": "§dОко черв'яка порожнечі§r",
+
+	"tetra.material.blaze_powder": "Порох пломіня",
+	"tetra.material.blaze_powder.prefix": "§6Порох пломіня§r",
+
+	"tetra.material.ghast_tear": "Сльоза ґаста",
+	"tetra.material.ghast_tear.prefix": "§fСльоза ґаста§r",
+
+	"tetra.material.glass": "Скло",
+	"tetra.material.glass.prefix": "§fСкло§r",
+
+	"tetra.material.glowstone_dust": "Світлокам'яний пил",
+	"tetra.material.glowstone_dust.prefix": "§eСвітлокам'яний пил§r",
+
+	"tetra.material.magma_cream": "Магматичний крем",
+	"tetra.material.magma_cream.prefix": "§cМагматичний крем§r",
+
+	"tetra.material.redstone_dust": "Редстоуновий пил",
+	"tetra.material.redstone_dust.prefix": "§4Редстоуновий пил§r",
+
+	"tetra.material.reagent_emerald": "Смарагд",
+	"tetra.material.reagent_emerald.prefix": "§aСмарагд§r",
+
+
+
+	"item.tetra.scroll.tetra/flamberge_blade.prefix": "Мистецтво ковальства, розділ 1",
+	"item.tetra.scroll.tetra/flamberge_blade.name": "Фламберги",
+	"item.tetra.scroll.tetra/flamberge_blade.description": "Містить знання про те, як кувати леза фламберга",
+	"item.tetra.scroll.tetra/flamberge_blade.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.single/head/halberd_head/halberd_head.prefix": "Мистецтво ковальства, розділ 2",
+	"item.tetra.scroll.single/head/halberd_head/halberd_head.name": "Алебарди",
+	"item.tetra.scroll.single/head/halberd_head/halberd_head.description": "Містить знання про те, як кувати голівки алебарди",
+	"item.tetra.scroll.single/head/halberd_head/halberd_head.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.sword/key_guard.prefix": "Мистецтво ковальства, розділ 3",
+	"item.tetra.scroll.sword/key_guard.name": "Гарди",
+	"item.tetra.scroll.sword/key_guard.description": "Містить знання про те, як кувати гарди",
+	"item.tetra.scroll.sword/key_guard.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.single/head/mace_head/mace_head.prefix": "Мистецтво ковальства, розділ 4",
+	"item.tetra.scroll.single/head/mace_head/mace_head.name": "Булави",
+	"item.tetra.scroll.single/head/mace_head/mace_head.description": "Містить знання про те, як кувати голівки булави",
+	"item.tetra.scroll.single/head/mace_head/mace_head.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.tetra/crucible_blade.prefix": "Мистецтво ковальства, розділ 5",
+	"item.tetra.scroll.tetra/crucible_blade.name": "Горнило",
+	"item.tetra.scroll.tetra/crucible_blade.description": "Містить знання про те, як кувати горнила",
+	"item.tetra.scroll.tetra/crucible_blade.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.bow/stave/dreadnought_stave.prefix": "Мистецтво ковальства, розділ 6",
+	"item.tetra.scroll.bow/stave/dreadnought_stave.name": "Відважне держалко",
+	"item.tetra.scroll.bow/stave/dreadnought_stave.description": "Містить знання про те, як виготовляти відважні держалка лука",
+	"item.tetra.scroll.bow/stave/dreadnought_stave.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.sword/katana/katana_blade.prefix": "Мистецтво ковальства, розділ 7",
+	"item.tetra.scroll.sword/katana/katana_blade.name": "Лезо катани",
+	"item.tetra.scroll.sword/katana/katana_blade.description": "Містить знання про те, як кувати лезо катани та підбирати цубу",
+	"item.tetra.scroll.sword/katana/katana_blade.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.bow/string/compound_string.prefix": "Мистецтво ковальства, розділ 8",
+	"item.tetra.scroll.bow/string/compound_string.name": "Складена тятива",
+	"item.tetra.scroll.bow/string/compound_string.description": "Містить знання про те, як обв'язати складну тятиву лука",
+	"item.tetra.scroll.bow/string/compound_string.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.utilize/hammer.prefix": "Мистецтво ковальства, розділ 9",
+	"item.tetra.scroll.utilize/hammer.name": "Каменярський молот",
+	"item.tetra.scroll.utilize/hammer.description": "Містить знання про те, як використовувати молот для риття тунелів",
+	"item.tetra.scroll.utilize/hammer.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.sword/tonal_blade.prefix": "Мистецтво ковальства, розділ 10",
+	"item.tetra.scroll.sword/tonal_blade.name": "Тональне лезо",
+	"item.tetra.scroll.sword/tonal_blade.description": "Містить знання про те, як кувати a тональне лезо",
+	"item.tetra.scroll.sword/tonal_blade.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.tetra/rending_scissor_complete.prefix": "Мистецтво ковальства, розділ ?",
+	"item.tetra.scroll.tetra/rending_scissor_complete.name": "Завершені січущі ножиці",
+	"item.tetra.scroll.tetra/rending_scissor_complete.description": "Містить знання з іншого світу про те, як створити Січущі ножиці",
+	"item.tetra.scroll.tetra/rending_scissor_complete.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.sword/katana/murasama_blade.prefix": "Мистецтво ковальства, розділ ?",
+	"item.tetra.scroll.sword/katana/murasama_blade.name": "Мурасама",
+	"item.tetra.scroll.sword/katana/murasama_blade.description": "Містить знання з іншого світу про те, як створити Мурасаму",
+	"item.tetra.scroll.sword/katana/murasama_blade.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.sword/crucible/architects_crucible_blade.prefix": "Мистецтво ковальства, розділ 0",
+	"item.tetra.scroll.sword/crucible/architects_crucible_blade.name": "Горнило архитектора",
+	"item.tetra.scroll.sword/crucible/architects_crucible_blade.description": "Містить заборонені знання про те, як викувати Істинне горнило архітектора",
+	"item.tetra.scroll.sword/crucible/architects_crucible_blade.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+	"item.tetra.scroll.sword/thousand_cold_nights.prefix": "Мистецтво ковальства, розділ ?",
+	"item.tetra.scroll.sword/thousand_cold_nights.name": "Тисяча холодних ночей",
+	"item.tetra.scroll.sword/thousand_cold_nights.description": "Містить демонічне знання про те, як відтворити Тисячу холодних ночей",
+	"item.tetra.scroll.sword/thousand_cold_nights.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
+
+
+
+	"tetra.variant.sword_socket/void_worm_eye": "Скріплене [§dОко черв'яка порожнечі§r]",
+	"tetra.variant.sword_socket/void_worm_eye.description": "Легендарне око черв'яка порожнечі, прикріплене до гарди.\n \nБог не боїться смерті, що забезпечує всі комбінації ефектів самоцвітів.",
+
+	"tetra.variant.double_socket/void_worm_eye": "Скріплене [§dОко черв'яка порожнечі§r]",
+	"tetra.variant.double_socket/void_worm_eye.description": "Легендарне око черв'яка порожнечі, прикріплене з боку головки інструмента.\n \nБог не боїться смерті, що забезпечує всі комбінації ефектів самоцвітів.",
+
+	"tetra.variant.single_socket/void_worm_eye": "Скріплене [§dОко черв'яка порожнечі§r]",
+	"tetra.variant.single_socket/void_worm_eye.description": "Легендарне око черв'яка порожнечі, прикріплене в місці з'єднання головки з руків'ям.\n \nБог не боїться смерті, що забезпечує всі комбінації ефектів самоцвітів.",
+
+
+
+	"tetra.advancements.art_of_forging.intro.title": "Вступ до ковальства (§eAoF§r)",
+	"tetra.advancements.art_of_forging.intro.description": "Пориньте в мистецтво кування модулів",
+
+	"tetra.advancements.scrolls.root.title": "Приховані секрети (§eAoF§r)",
+	"tetra.advancements.scrolls.root.description": "Знайдіть сувій, в якому записані схеми мистецтва ковальства",
+
+	"art_of_forging.advancements.materials.root.title": "Збірник матеріалів (§eAoF§r)",
+	"art_of_forging.advancements.materials.root.description": "Створіть резонансну суміш стопів, щоб почати кування нових матеріалів.",
+
+
+	"tetra.advancements.art_of_forging.rapier_upgrade.title": "Славетна голка",
+	"tetra.advancements.art_of_forging.rapier_upgrade.description": "Створіть рапіру",
+
+	"tetra.advancements.art_of_forging.flamberge_upgrade.title": "Тепло-хвильове лезо",
+	"tetra.advancements.art_of_forging.flamberge_upgrade.description": "Створіть фламберг",
+
+	"tetra.advancements.art_of_forging.crucible_upgrade.title": "Єдине, чого вони бояться",
+	"tetra.advancements.art_of_forging.crucible_upgrade.description": "Створіть легендарне лезо горнила",
+
+	"tetra.advancements.art_of_forging.dreadnought_upgrade.title": "Нехай іде пекельний дощ",
+	"tetra.advancements.art_of_forging.dreadnought_upgrade.description": "Створіть відважне держалко",
+
+	"tetra.advancements.art_of_forging.tomahawk_upgrade.title": "А ось і Джонні!",
+	"tetra.advancements.art_of_forging.tomahawk_upgrade.description": "Створіть головку томагавка",
+
+	"tetra.advancements.upgrades.bastard_upgrade.title": "Дошлюбне кування",
+	"tetra.advancements.upgrades.bastard_upgrade.description": "Створіть лезо півтораручника (бастарда)",
+
+	"tetra.advancements.upgrades.executioner_upgrade.title": "Відрубати їм голови!",
+	"tetra.advancements.upgrades.executioner_upgrade.description": "Створіть лезо ката",
+
+	"tetra.advancements.art_of_forging.rending_scissor_red_upgrade.title": "Не заблукай!",
+	"tetra.advancements.art_of_forging.rending_scissor_red_upgrade.description": "Створіть червоний ножичний клинок.",
+
+	"tetra.advancements.art_of_forging.rending_scissor_purple_upgrade.title": "Не називай мене красунею",
+	"tetra.advancements.art_of_forging.rending_scissor_purple_upgrade.description": "Створіть фіолетовий ножичний клинок",
+
+	"tetra.advancements.art_of_forging.katana_upgrade.title": "Шлях клинка",
+	"tetra.advancements.art_of_forging.katana_upgrade.description": "Створіть лезо катани",
+
+	"tetra.advancements.art_of_forging.echo_fuller.title": "Колись я був божеством",
+	"tetra.advancements.art_of_forging.echo_fuller.description": "Знайдіть осколок відлуння і використайте його як гарду для меча!",
+
+	"tetra.advancements.art_of_forging.eerie_fuller.title": "Звук тиші",
+	"tetra.advancements.art_of_forging.eerie_fuller.description": "Убийте боронителя за допомогою нанозлитої зброї та візьміть його осколок, щоб оснастити свій меч!",
+
+	"tetra.advancements.art_of_forging.architects_crucible.title": "Повний відпуст",
+	"tetra.advancements.art_of_forging.architects_crucible.description": "Вдоскональте своє лезо горнила, щоб розкрити його справжню силу, і перетворіть його на горнило архітектора",
+
+	"tetra.advancements.art_of_forging.murasama_blade.title": "Проллється кров",
+	"tetra.advancements.art_of_forging.murasama_blade.description": "Оновіть лезо катани до легендарної Мурасами",
+
+	"tetra.advancements.art_of_forging.remembrance_upgrade.title": "Ви не одні",
+	"tetra.advancements.art_of_forging.remembrance_upgrade.description": "Створіть держалко Пам'ятання, використавши темну сферу",
+
+	"tetra.advancements.art_of_forging.euclidean_dagger_upgrade.title": "Ніч належить тобі",
+	"tetra.advancements.art_of_forging.euclidean_dagger_upgrade.description": "Створіть Евклідів кинджал, використавши герб Едену",
+
+	"tetra.advancements.art_of_forging.rending_scissor_complete_upgrade.title": "Вбраний для вбивства!",
+	"tetra.advancements.art_of_forging.rending_scissor_complete_upgrade.description": "Створіть завершені Січущі ножиці",
+
+
+	"tetra.advancements.scrolls.find_scroll_halberd.title": "Феодальна війна",
+	"tetra.advancements.scrolls.find_scroll_halberd.description": "Знайдіть сувій алебарди",
+
+	"tetra.advancements.scrolls.find_scroll_key_guard.title": "Kingdom Hearts",
+	"tetra.advancements.scrolls.find_scroll_key_guard.description": "Знайдіть сувій гарди",
+
+	"tetra.advancements.scrolls.find_scroll_mace.title": "Принизливі удари",
+	"tetra.advancements.scrolls.find_scroll_mace.description": "Знайдіть сувій булави",
+
+	"tetra.advancements.scrolls.find_scroll_dreadnought_stave.title": "Надішліть артилерію!",
+	"tetra.advancements.scrolls.find_scroll_dreadnought_stave.description": "Знайдіть сувій відважного держалка",
+
+	"tetra.advancements.scrolls.get_scroll_flamberge.title": "Чи зможеш ти витримати спеку?",
+	"tetra.advancements.scrolls.get_scroll_flamberge.description": "Отримайте сувій фламберга",
+
+	"tetra.advancements.scrolls.get_scroll_crucible.title": "A Hellish Endeavor",
+	"tetra.advancements.scrolls.get_scroll_crucible.description": "Отримайте сувій легендарного горнила",
+
+	"tetra.advancements.scrolls.find_scroll_compound_string.title": "Проблем прагнете? Подвійно матимете!",
+	"tetra.advancements.scrolls.find_scroll_compound_string.description": "Знайдіть сувій складеної тятиви лука",
+
+	"tetra.advancements.scrolls.find_scroll_tonal_blade.title": "Що це за звук?",
+	"tetra.advancements.scrolls.find_scroll_tonal_blade.description": "Знайдіть сувій тонального леза",
+
+	"tetra.advancements.scrolls.get_scroll_katana.title": "Вивчай меч",
+	"tetra.advancements.scrolls.get_scroll_katana.description": "Отримайте сувій катани",
+
+	"tetra.advancements.scrolls.get_scroll_murasama.title": "Розбиті спогади",
+	"tetra.advancements.scrolls.get_scroll_murasama.description": "Отримайте сувій легендарної Мурасами",
+
+	"tetra.advancements.scrolls.get_scroll_quarry_hammer.title": "З гір - у мурашники",
+	"tetra.advancements.scrolls.get_scroll_quarry_hammer.description": "Отримайте сувій каменярського молота",
+
+	"tetra.advancements.scrolls.get_scroll_rending_scissors.title": "Якби я мав колючки, як будяк",
+	"tetra.advancements.scrolls.get_scroll_rending_scissors.description": "Отримайте сувій легендарних Січущих ножиць",
+
+	"tetra.advancements.scrolls.get_scroll_architects_crucible.title": "Мистецтво ковальства",
+	"tetra.advancements.scrolls.get_scroll_architects_crucible.description": "Отримайте сувій висхідного горнила архітектора",
+
+
+	"art_of_forging.advancements.materials.forged_steel.title": "Сталь древніх",
+	"art_of_forging.advancements.materials.forged_steel.description": "Витопіть резонансний стоп, щоб створити злиток кованої сталі",
+
+	"art_of_forging.advancements.materials.vobrite_crystal.title": "Кристалізовані грозові хмари",
+	"art_of_forging.advancements.materials.vobrite_crystal.description": "Знайдіть вобріючий кристал в уламках корабля",
+
+	"art_of_forging.advancements.materials.vobrivium_ingot.title": "Удар грому",
+	"art_of_forging.advancements.materials.vobrivium_ingot.description": "Створіть вобрієвий злиток, зливши ковану сталь з вобріючим кристалом",
+
+	"art_of_forging.advancements.materials.endsteel_ingot.title": "Матеріали пізньої гри",
+	"art_of_forging.advancements.materials.endsteel_ingot.description": "Створіть злиток сталі Енду, зливши ковану сталь з диханням дракона",
+
+	"art_of_forging.advancements.materials.find_demonic_item.title": "Давній та злісний",
+	"art_of_forging.advancements.materials.find_demonic_item.description": "Знайдіть демонічний предмет у скрині стародавнього міста",
+
+	"art_of_forging.advancements.materials.find_all_demonic_items.title": "Злі насолоди породжують злі наслідки",
+	"art_of_forging.advancements.materials.find_all_demonic_items.description": "Отримайте кожний з трьох демонічних артефактів",
+
+	"art_of_forging.advancements.materials.sigil_of_eden.title": "Забери мене до Едену",
+	"art_of_forging.advancements.materials.sigil_of_eden.description": "Отримайте герб Едену, що інколи випадає з Візера",
+
+
+	"tetra.advancements.spelunking.find_nano_insectoid.title": "Наномашини",
+	"tetra.advancements.spelunking.find_nano_insectoid.description": "Відкрийте кований контейнер і знайдіть наножук",
+
+	"tetra.advancements.spelunking.craft_shockwave_chamber.title": "Апаратний розгін",
+	"tetra.advancements.spelunking.craft_shockwave_chamber.description": "Створіть камеру ударної хвилі використавши камеру згоряння, планарний стабілізатор і вобріючі кристали",
+
+	"tetra.advancements.spelunking.find_canister.title": "Закодовані секрети",
+	"tetra.advancements.spelunking.find_canister.description": "Знайдіть закодовану каністру у кованому контейнері",
+
+	"tetra.advancements.spelunking.find_codex.title": "Приховані істини",
+	"tetra.advancements.spelunking.find_codex.description": "Знайдіть езотеричний кодекс у кованому контейнері",
+
+	"tetra.advancements.spelunking.craft_architects_mark.title": "Заборонене знання",
+	"tetra.advancements.spelunking.craft_architects_mark.description": "Створіть Апокрифи архітектора використавши закодовану каністру та езотеричний кодекс",
+
+	"tetra.advancements.spelunking.shockwave_hammer.title": "Блискавка в молоті",
+	"tetra.advancements.spelunking.shockwave_hammer.description": "Створіть молот ударної хвилі використавши камеру ударної хвилі",
+
+	"tetra.advancements.spelunking.devils_soul_gem.title": "Аі Йо",
+	"tetra.advancements.spelunking.devils_soul_gem.description": "Отримайте темну сферу, перемігши Візера нанозлитим предметом",
+
+	"tetra.advancements.spelunking.eerie_shard.title": "Перемогти непереможного",
+	"tetra.advancements.spelunking.eerie_shard.description": "Вбийте боронителя та отримайте його моторошний осколок використавши нанозлитий предмет",
+
+
+
+	"item.tetra.scroll.art_of_forging.details": "§l§nМистецтво ковальства§r\\n FКування - практика перетворення металу на все, що ви забажаєте. Якщо раніше це була жадана практика, до якої могли долучитися лише Стародавні Ковалі та Бог Ковальства, то тепер я відкрив новий метод створення ваших власних інструментів. Я передаю свої знання вам, сподіваючись, що з часом ви викуєте власні шедеври. \r§l§nФламберги§r\\n Фламберг. Не тільки вражаючий у використанні в бою, але й приголомшливий за дизайном. Він має культове хвилясте лезо, яке ідеально підходить для уражень, що залишають вашого супротивника стікати кров'ю. Можливо, навмисно чи ненавмисно, лезо може бути відточеним, щоб підпалювати ворогів після поранення. \r§l§nАлебарди§r\\n Сильна і класична зброя. Використовувалася переважно для облоги, і не дарма: ця зброя поєднує в собі риси клинка, сокири та палиці. Найкраще підходить для пробивання обладунків ворогів, а також для скидання ворогів з коней та завдання їм шкоди. \r§l§nБулави§r\\n Булави - смертельна зброя для будь-якого броньованого супротивника. Ця булава ігнорує броню, завдаючи нищівних ударів. Звичайно, ціною швидкості. Неприємна зброя, яку варто мати у своєму арсеналі, завойовник на полі бою. \r§l§nВідважне§r\\n Відважне держалко - це ідеальне поєднання швидкості та люті, що дозволяє рейнджеру повалити на ворогів шквал стріл. Ідеально підходить для того, щоб оглушити, хто стоїть на вашому шляху, а також для здійснення помсти. Може використовуватися як зі стандартними луками, так і з арбалетами. \r§l§nКатана§r\\n Клинок, що походить зі східних куточків світу. Поєднання збалансованого леза та ретельної майстерності робить цей клинок ідеальним для тих, хто хоче мати якісну зброю. Катаною можна розрубати що завгодно на шматки та луски. \r§l§nСкладна тятива§r\\n Складні тятиви, виготовлені шляхом переплетення двох тятив, а не однієї. Хоча це сповільнює швидкість натягу, але компенсує це силою удару стріли, яка сильніша за звичайну тятиву. У поєднанні з дредноутною тятивою - ідеальна комбінація для ведення бою на далеких дистанціях. \r§l§nКаменярський молот§r\\n Молот має прихований потенціал. Використовуючи певний каст в ньому, ви можете розблокувати каменярський молот. Цей молот ідеально підходить для буріння тунелів і отворів, здатний розривати землю без особливих зусиль. Якщо вам потрібен інструмент для швидкої роботи з камінням і рудами, то ви знайшли ідеальний варіант для себе. \n§l§nТональне лезо§r\\n Ретельно сформоване лезо, схоже на інструмент, ця зброя компенсує свою низьку шкоду унікальною здатністю. Лезо здатне налаштовуватися на резонансні частоти ворога, змушуючи його дезорієнтуватися на деякий час. \r§c§l§nГорнило§r\\n §kСторінка незрозуміла і розірвана. Можливо, чогось не вистачає?§r",
+
+	"item.tetra.scroll.otherworldly.details": "§l§nІНШОСВІТНЕ§r\\n Погравшись з покинутим зруйнованим порталом, мені вдалося знайти зв'язок між цим світом та іншими світами в цій потойбічній реальності.",
+
+	"item.tetra.scroll.true_crucible.details": "§c§l§nГорнило§r\\n Горнило - потужний клинок, викуваний зі злоби та гніву. Бувши потужною зброєю сама по собі, виковування її так само як це зробив Архітектор, дозволяє клинку набути езотеричних властивостей, приховуючи частину фізичної шкоди в метафізичному плані."
+}

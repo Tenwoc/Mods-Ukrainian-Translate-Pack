@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:armor",
+  "icon": "adamsarsplus:thread_cloudsteps",
+  "name": "item.adamsarsplus.thread_cloudsteps",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.perk_desc.thread_cloudsteps"
+    },
+    {
+      "type": "ars_nouveau:apparatus_recipe",
+      "recipe": "adamsarsplus:thread_cloudsteps"
+    }
+  ],
+  "sortnum": 99
+}

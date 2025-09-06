@@ -1,0 +1,14 @@
+{
+  "config.partyparrots.prop.partyShoulder.name": "Вечірка - плече",
+  "config.partyparrots.prop.partyShoulder.desc": "Чи веселяться папуги, коли сидять у вас на плечі?",
+  "config.partyparrots.prop.partyFlying.name": "Вечірка - політ",
+  "config.partyparrots.prop.partyFlying.desc": "Чи веселяться папуги, коли літають?",
+  "config.partyparrots.prop.partyStanding.name": "Вечірка - стояння",
+  "config.partyparrots.prop.partyStanding.desc": "Чи веселяться папуги, коли стоять?",
+  "config.partyparrots.prop.partySitting.name": "Вечірка - сидіння",
+  "config.partyparrots.prop.partySitting.desc": "Чи веселяться папуги, коли сидять?",
+  "config.partyparrots.prop.partyTwerk.name": "Вечірка - танець",
+  "config.partyparrots.prop.partyTwerk.desc": "Чи веселяться папуги, коли гравці танцюють?",
+  "config.partyparrots.prop.partyTwerkRange.name": "Вечірка - сила танцю",
+  "config.partyparrots.prop.partyTwerkRange.desc": "Як сильно гравці повинні танцювати, щоб папуги почали веселитися?!"
+}

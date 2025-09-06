@@ -1,0 +1,16 @@
+{
+  "name": "Мана-п'явка",
+  "icon": "archon:mana_leech_spawn_egg",
+  "category": "archon:misc",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мана-п'явки слабкі, але верткі істоти. Вони накладають $(l:archon:effects_enchants/obstructed)Блокування мани$() під час укусу і гніздяться в $(l:archon:world/spires)Шпилях$()."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "archon:mana_leech"
+    }
+  ]
+}

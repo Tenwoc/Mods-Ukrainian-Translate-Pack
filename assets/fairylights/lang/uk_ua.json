@@ -1,0 +1,102 @@
+{
+    "itemGroup.fairylights": "Fairy Lights",
+
+    "fairylights.config": "Налаштування Fairy Lights",
+
+    "block.fairylights.fastener": "Кріпильний елемент",
+
+    "item.fairylights.hanging_lights": "Підвісний світильник",
+    "item.fairylights.garland": "Гірлянда з лози",
+    "item.fairylights.tinsel": "Гірлянда з мішури",
+
+    "item.fairylights.black_string": "Чорна нитка",
+    "item.fairylights.white_string": "Біла нитка",
+    "item.fairyLights.twinkle": "Мерехтіння",
+
+    "item.fairylights.pennant_bunting": "Підвісні прапорці",
+
+    "item.fairylights.letter_bunting": "Підвісні літери",
+
+    "item.fairylights.triangle_pennant": "трикутний прапорець",
+    "item.fairylights.spearhead_pennant": "списовий прапорець",
+    "item.fairylights.swallowtail_pennant": "ластівничий прапорець",
+    "item.fairylights.square_pennant": "прямокутний прапорець",
+
+    "block.fairylights.fairy_light": "чарівний світильник",
+    "block.fairylights.paper_lantern": "паперовий ліхтар",
+    "block.fairylights.orb_lantern": "сферичний ліхтар",
+    "block.fairylights.flower_light": "квітковий світильник",
+    "block.fairylights.candle_lantern_light": "свічковий світильник",
+    "block.fairylights.oil_lantern_light": "масляний світильник",
+    "block.fairylights.jack_o_lantern": "світильник Джека",
+    "block.fairylights.skull_light": "світильник-череп",
+    "block.fairylights.ghost_light": "світильник-привид",
+    "block.fairylights.spider_light": "світильник-павук",
+    "block.fairylights.witch_light": "світильник-відьма",
+    "block.fairylights.snowflake_light": "світильник-сніжинка",
+    "block.fairylights.heart_light": "світильник-серце",
+    "block.fairylights.moon_light": "світильник-місяць",
+    "block.fairylights.star_light": "світильник-зірка",
+    "block.fairylights.icicle_lights": "світильник-бурулька",
+    "block.fairylights.meteor_light": "світильник-метеор",
+
+    "block.fairylights.oil_lantern": "Масляний ліхтар",
+    "block.fairylights.candle_lantern": "Свічковий ліхтар",
+    "block.fairylights.incandescent_light": "Жарівка",
+
+    "entity.fairylights.fastener": "Застібка",
+
+    "fairylights.editLetteredConnection": "Встановити текст прапорців",
+    "fairylights.editLetteredConnection.allowed_characters": "Дозволені символи: %1$s",
+
+    "recipe.ingredient.tooltip": "§7%s",
+    "recipe.fairylights.ingredient.auxiliary.optional": "(Необов'язково)",
+    "recipe.fairylights.twinkling_lights.glowstone": "Спричиняє мерехтіння вогнів",
+    "recipe.fairylights.hangingLights.light": "Додати кілька вогнів, щоб налаштувати візерунок",
+    "recipe.fairylights.pennantBunting.pennant": "Додайте кілька прапорців, щоб налаштувати шаблон",
+    "recipe.fairylights.hangingLights.string": "Додайте білий барвник, щоб створити білу нитку",
+
+    "format.fairylights.colored": "%1$s %2$s",
+    "format.fairylights.dyed_colored": "Пофарбовано %1$s",
+    "format.fairylights.color_changing": "Зміна кольору %1$s",
+    "format.fairylights.text": "Текст: %1$s",
+
+    "color.fairylights.black": "Чорний",
+    "color.fairylights.red": "Червоний",
+    "color.fairylights.green": "Зелений",
+    "color.fairylights.brown": "Коричневий",
+    "color.fairylights.blue": "Синій",
+    "color.fairylights.purple": "Фіолетовий",
+    "color.fairylights.cyan": "Бірюзовий",
+    "color.fairylights.light_gray": "Світло-сірий",
+    "color.fairylights.gray": "Сірий",
+    "color.fairylights.pink": "Рожевий",
+    "color.fairylights.lime": "Лаймовий",
+    "color.fairylights.yellow": "Жовтий",
+    "color.fairylights.light_blue": "Блакитний",
+    "color.fairylights.magenta": "Пурпуровий",
+    "color.fairylights.orange": "Помаранчевий",
+    "color.fairylights.white": "Білий",
+
+    "subtitles.block.fairylights.jingleBell": "Дзвіночок дзвенить",
+    "subtitles.block.fairylights.cord.connect": "Шнур з'єднується",
+    "subtitles.block.fairylights.cord.disconnect": "Шнур роз'єднується",
+    "subtitles.block.fairylights.cord.stretch": "Шнут розтягується",
+    "subtitles.block.fairylights.cord.snap": "Шнур клацає",
+    "subtitles.block.fairylights.feature.lightTurnOn": "Вмикається світло",
+    "subtitles.block.fairylights.feature.lightTurnOff": "Вимикається світло",
+    "subtitles.block.fairylights.feature.colorChange": "Колір хлюпає",
+
+    "commands.jingler.open.success": "Успішно відкрито %1$s",
+    "commands.jingler.open.failure.no_hanging_lights": "Світильники не вибрані",
+    "commands.jingler.open.failure.device_unavailable": "Пристрій %1$s недоступний, ймовірно, використовується іншою програмою",
+    "commands.jingler.open.failure.not_found": "Немає пристрою з ім'ям %1$s",
+    "commands.jingler.close.success.single": "Успішно закрито %1$s з'єднання",
+    "commands.jingler.close.success.multiple": "Успішно закрито %1$s з'єднань",
+    "commands.jingler.close.failure": "Немає пристроїв для закриття",
+    "commands.jingler.device.vendor": "Постачальник: %1$s",
+    "commands.jingler.device.description": "Опис: %1$s",
+
+    "tutorial.fairylights.craft_hanging_lights.title": "Створення підвісного освітлення",
+    "tutorial.fairylights.craft_hanging_lights.description": "Книга рецептів може допомогти"
+}

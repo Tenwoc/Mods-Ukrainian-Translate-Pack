@@ -1,0 +1,419 @@
+{
+
+
+
+
+  "{t:} Translator": "Tenwoc_",
+
+  "(splatus example:) Original text": "Translated Text",
+  "Anytime text includes a \n or space please put it into the translation as well": "Anytime text includes a \n or space please put it into the translation as well",
+  "These 3 example translations do not have to be translated. Translate everything else below": "These 3 example translations do not have to be translated. Translate everything else below",
+  
+
+
+
+
+
+  "\nClick the name of an item to receive it\n": "\nКлацніть на назву предмета, щоб отримати його\n",
+  "Page": "Сторінка",
+  "Return": "Повернутись",
+  "Click to give": "Клацніть, щоб видати",
+  "Next Page": "Наступна сторінка",
+  "Previous Page": "Попередня сторінка",
+
+  "Hover to View Recipe": "Наведіть, щоб переглянути рецепт",
+  "Locked": "Заблоковано",
+
+  "Recipe unlocks after getting a ": "Рецепт відкриється після отримання ",
+  
+
+  "Drop these items onto the ground to craft this weapon\n": "Киньте ці предмети на землю, щоб створити дану зброю\n",
+  "Fire Staff: ": "Патериця Вогню: ",
+  "Ice Staff: ": "Патериця Криги: ",
+  "Electric Staff: ": "Патериця Шторму: ",
+  
+  "Recipe unlocks after finding an Empty Staff in a bastion": "Рецепт відкриється після того, як знайдете незачаровану патерицю у бастіоні",
+  
+  "Recipe unlocks after finding a Broken Crucible in a bastion": "Рецепт відкриється після того, як знайдете Зламаний Передвісник у бастіоні",
+  
+
+
+  "You have learned a new weapon recipe, ": "Ви вивчили новий рецепт для зброї, ",
+  ". Use /trigger spellbound_recipes in chat to view your current recipes": ". Використайте /trigger spellbound_recipes щоб переглянути відомі рецепти",
+
+
+
+
+  "Page 2 -->": "Сторінка 2 -->",
+  "Page 3 -->": "Сторінка 3 -->",
+  "Page 4 -->": "Сторінка 4 -->",
+  "Page 5 -->": "Сторінка 5 -->",
+  "Page 6 -->": "Сторінка 6 -->",
+  "Page 7 -->": "Сторінка 7 -->",
+  "Page 8 -->": "Сторінка 8 -->",
+  
+  "<-- Page 1": "<-- Сторінка 1",
+  "<-- Page 2": "<-- Сторінка 2",
+  "<-- Page 3": "<-- Сторінка 3",
+  "<-- Page 4": "<-- Сторінка 4",
+  "<-- Page 5": "<-- Сторінка 5",
+  "<-- Page 6": "<-- Сторінка 6",
+  "<-- Page 7": "<-- Сторінка 7",
+
+  "<-- Return": "<-- Повернутись",
+
+
+
+
+  "Description:": "Опис:",
+  "Click to change this setting:": "Натисніть, щоб змінити це налаштування",
+  "Enabled:": "Ввімкнено:",
+  "Disabled:": "Вимкнено:",
+  "Weapons Achieveable: ": "Доступність зброї: ",
+  "Weapon Cooldowns: ": "Перезарядка: ",
+  "Weapon Recipes Notification: ": "Сповіщення про рецепти: ",
+  "Weapon Tips: ": "Підказки: ",
+
+  "The cooldowns for weapons that take time to charge like the Staffs, when cooldowns are disabled they will immediately reach their final charge state.": "Перезарядка - властивість деких видів зброї, як-от патериць, яким треба час для досягнення повного заряду. Якщо цю опцію вимкнути, вони досягатимуть повного заряду миттєво.",
+  "Determines whether Spellbound Weapons can be naturally found in Survival Mode (chests, mob drops, etc) otherwise if disabled, weapons can only be accessed through commands": "Визначає, чи можливо знайти Закляту Зброю у виживанні (скрині, моби і тд). Якщо вимкнено - тільки за допомогою команд",
+  "Messages in chat that display to the player when the required item for a certain weapon's recipe is achieved": "Повідомлення в чаті для гравця, які вказують на отримання необхідного для розблокування рецепту предмета",
+  "The tips that display when using Bone Wand, Windswept Sword and Evokers Wrath": "Підказки, які відображаються при застосуванні Кістяного Жезлу, Вітроріза та Гніву Заклинача",
+  
+
+
+
+
+  "Weapon Tip:": "Підказка по зброї:",
+  " Triple clicking ": " Потрійний клік ",
+  " will break your currently existing bone blocks.": " знищить усі ваші існуючі кістяні блоки.",
+  " Holding ": " Утримування ",
+  " whilst aiming will make your suction area deal 0 damage and use less durability": " під час прицілювання змусить зону втягування наносити 0 пошкоджень та менше пошкоджувати предмет",
+  " When you notice sand particles around you, you can triple click ": " Коли навколо вас з'являться частинки піску, тричі клацніть ",
+  " to unleash a wave of sand": " щоб випустити хвилю піску",
+
+
+
+
+
+
+  "Spellbound Conqueror": "Заклятий Підкорювач",
+  "Discover every Spellbound Weapon": "Розблокуйте кожну Закляту Зброю",
+  
+
+
+  "Nether Staffs": "Пекельні патериці",
+  "End Excalibur": "Екскалібур Енду",
+  "Blazing Sword": "Палаючий Клеймор",
+  "Cursed Sea Blade": "Проклята шабля",
+  "Dagger": "Кинджал",
+  "Fire Staff": "Патериця Вогню",
+  "Ice Staff": "Патериця Криги",
+  "Electric Staff": "Патериця Шторму",
+  "Empty Staff": "Незачарована патериця",
+  "Crucible": "Передвісник",
+  "Windswept Sword": "Вітроріз",
+  "Withering Sword": "Висушуючий палаш",
+  "Witherblade": "Темний Клеймор",
+  "Mega Hammer": "Мегамолот",
+  "Evokers Wrath": "Гнів Заклинача",
+  "Bone Wand": "Кістяний Жезл",
+  "Warped Crossbow": "Химерний арбалет",
+  "Blowgun": "Духова трубка",
+  "Chainfiring Crossbow": "Залповий арбалет",
+  "Endlight Bow": "Лук Останнього світла",
+  "Golden Sea Blade": "Золотий морський меч",
+  "Broken Crucible": "Зламаний Передвісник",
+  "Moonlight Edge": "Місячне лезо",
+  "Magmus Bow": "Магмовий лук",
+  "Magmus Charger": "Магмовий анігілятор",
+  "Echo Wand": "Жезл Відлуння",
+
+
+
+  "Your Fire Staff is at low durability! Repair it with a fishing rod in a grindstone or anvil": "Ваша Патериця Вогню скоро зламається! Поремонтуйте її за допомогою вудки на точилі або ковадлі",
+  "Your Ice Staff is at low durability! Repair it with a fishing rod in a grindstone or anvil": "Ваша Патериця Криги скоро зламається! Поремонтуйте її за допомогою вудки на точилі або ковадлі",
+  "Your Electric Staff is at low durability! Repair it with a fishing rod in a grindstone or anvil": "Ваша Патериця Шторму скоро зламається! Поремонтуйте її за допомогою вудки на точилі або ковадлі",
+ 
+  "Charging Wave...": "Заряджається хвиля...",
+  "Ready! Press ": "Готово! Натисніть ",
+  " to Release a Wave - 40/40": " щоб її випустити - 40/40",
+
+  "Charging beam... - ": "Заряджається промінь... - ",
+  " to release beam - 60/60": " щоб випустити промінь - 60/60",
+
+  "Energy - ": "Енергія - ",
+  "Energy Maxed! Press ": "Енергія повна! Натисніть ",
+  " to release stored energy - 500": " щоб випустити зібрану енергію - 500",
+
+
+  " is charged!": " заряджено!",
+  "Shoot fireballs and set flames": "Випускає вогняні кулі, які підпалюють",
+  "Shoot ice blocks that freeze your": "Стріляє крижаними снарядами, які заморожують",
+  "enemies in place": "ворогів",
+  "Casts a line of electricity that fires": "Розряджає електричний промінь, який влучає",
+  "instantly and can go through walls": "моментально та здатен пробивати стіни",
+"Witherblade has absorbed max souls! Hold down ": "Темний Клеймор поглинув максимальну кількість душ! Утримуйте Shift ",
+" to heal": " щоб зцілитись",
+
+
+  "Color: Red": "Колір: Червоний",
+  "Color: Orange": "Колір: Помаранчевий",
+  "Color: Yellow": "Колір: Жовтий",
+  "Color: Green": "Колір: Зелений",
+  "Color: Lime": "Колір: Лаймовий",
+  "Color: Light Blue": "Колір: Блакитний",
+  "Color: Blue": "Колір: Синій",
+  "Color: Purple": "Колір: Фіолетовий",
+  "Color: Magenta": "Колір: Пурпуровий",
+  "Color: Cyan": "Колір: Бірюзовий",
+  "Color: Pink": "Колір: Рожевий",
+  "Color: Brown": "Колір: Коричневий",
+  "Color: White": "Колір: Білий",
+  "Color: Light Gray": "Колір: Світло-сірий",
+  "Color: Gray": "Колір: Сірий",
+  "Color: Black": "Колір: Чорний",
+  
+  "Your weapon burned whilst converting to netherite. Drop it on the ground to revert it back": "Ваша зброя не витримала могутності незериту та перегоріла! Киньте її на землю, щоб повернути у попередній стан",
+"You can't use two ranged weapons on your mainhand and offhand at the same time": "Ви не можете використовувати одночасно дві зброї дальнього бою",
+
+
+
+
+"#COMMENT // The translations below are part of Spellbound Weapons v4.0.0": "this specific line does not need to be translated",
+
+" was blown up by ": " був підірваний за допомогою ",
+" was shot by ": " був застрелений за допомогою ",
+" was stunned by ": " був оглушений за допомогою ",
+" energy from ": " енергії з ",
+" was electricuted by ": " був дезінтегрований за допомогою ",
+" was frozen by ": " був заморожений за допомогою ",
+" was exploded by arrow from ": " був підірваний стрілою з ",
+" perished by a light beam from ": " зловив лицем промінь світла з ",
+" perished by a heavy light beam from ": " зловив лицем потужний промінь світла з ",
+" was slain by ": " був вбитий за допомогою ",
+" was pricked to death by thorns from": " був заколотий насмерть через",
+" was swept in wind by ": " здуло вітром від ",
+" hit themself whilst thorn grappling": " самовбився, тримаючись за шип",
+
+"Determines whether players can create weapon variants like dyed Crucibles and dagger variants": "Визначає, чи можуть гравці створювати варіанти зброї, як-то кольорові Передвісники або кинджали",
+
+"Windsweeper": "Вітроріз",
+"Blazeblade": "Палаючий Клеймор",
+"Thorn Blossom": "Шипоцвіт",
+" charged! Hold ": " заряджено! Утримуйте ",
+" to release flames": " щоб вдарити вогнем",
+
+"Spellbound Master": "Повелитель Заклять",
+"Obtain every Spellbound Weapon": "Здобудьте кожну Закляту Зброю",
+
+"Variant: Iron-Plated": "Варіант: кований залізом",
+"Variant: Diamond-Plated": "Варіант: позолочений",
+"Variant: Gold-Plated": "Варіант: посилений діамантами",
+
+"Drop these items ontop of a crafting table to craft": "Киньте ці предмети зверху верстака, щоб створити",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "Please Select A Category": "Оберіть категорію",
+    "Click to Summon": "Натисніть щоб викликати",
+    "Summon Bosses": "Виклик босів",
+    "Settings": "Налаштування",
+    "Boss Items": "Предмети босів",
+    "Operator Commands": "Команди оператора",
+    "Enable": "Ввімкнути",
+    "Disable": "Вимкнути",
+    
+ 
+
+    "Corrupted Enderman": "Осквернений ендермен",
+    "Giant": "Велетень",
+    "Blaze King": "Король пломенів",
+    "Ultra Wither": "Візер-прайм",
+    "Sanctum Keeper": "Хранитель святилища",
+    "Phantom Swarm": "Рій фантомів",
+    "Illusioner": "Ілюзор",
+    "Shulker Stone": "Камінь шалкерів",
+
+  
+    
+    "Ultra Corrupted Enderman": "Осквернений ендермен-прайм",
+    "Ultra Giant": "Велетень-прайм",
+    "Ultra Blaze King": "Король пломенів-прайм",
+    "Ultra Ultra Wither": "Верховний візер-прайм",
+    "Ultra Sanctum Keeper": "Верховний хранитель святилища",
+    "Ultra Phantom Swarm": "Рій прайм-фантомів",
+    "Ultra Illusioner": "Ілюзор-прайм",
+    "Ultra Shulker Stone": "Камінь прайм-шалкерів",
+
+
+
+
+    "Ominous Pearl": "Зловісна перлина",
+    "Spirit Bow": "Лук душ",
+    "Blaze King's Helmet": "Шолом короля пломенів",
+    "Shulker Shell Helmet": "Шолом з панциря шалкера",
+    "Giant Stompers": "Гігантські сабатони",
+    "Endstone Key": "Ключ Енду",
+    "Corrupt Dust": "Осквернений попіл",
+    "Enchanted Core": "Зачароване ядро",
+
+    " cannot function with netherite. Drop it on the ground to revert it.": " не може працювати при поєднанні з незеритом. Киньте на землю, щоб відновити.",
+
+  
+
+
+
+    "Deep Vision I": "Провидець I",
+    "The Shulker Shell of the": "Панцир",
+    "Shulker Stone. When equipped,": "Каменю Шалкерів при надяганні,",
+    "the bearer will give surrounding": "дозволить носію",
+    "mobs a glow effect, and all": "підсвчувати навколишніх мобів",
+    "end mobs will be passive.": "та не провокувати монстрів Енду.",
+
+    "Split I": "Розкол I",
+    "A sacred bow that harnests the": "Священний лук, в якому вирує",
+    "energy of souls in the air, once": "енергія душ, при повному заряді",
+    "charged will split your arrow into": "розділить стрілу на",
+    "mirrors of the Sanctum Keeper. To": "ілюзії Хранителя",
+    "teleport, sneak/crouch while aiming": "Щоб телепортуватись, присядьте під час прицілювання",
+
+    "Dropped by the Ultra Wither. When in": "Трофей з Візера-прайма. Коли",
+    "player\\'s inventory they will": "у інвентарі гравця, він надасть",
+    "gain 2 extra hearts": "2 додаткових серця",
+
+    "The helmet of the Blaze King, amplifies": "Шолом короля пломенів, який",
+    "the power and determination of": "посилює рішучість та могутність",
+    "the bearer when at low health": "власника, коли той на грані смерті",
+
+    "Propells the bearer with the power of": "Propells the bearer with the power of",
+    "giants. Hold sneak and then jump to": "giants. Hold sneak and then jump to",
+    "perform a high jump. Jump ontop of": "perform a high jump. Jump ontop of",
+    "mobs to deal damage": "mobs to deal damage",
+    
+    "Used to reawaken the Shulker Stone": "Використовується для пробудження Каменю Шалкерів",
+    "from its deep sleep in its inverted": "з потойбічного сну у його перекинутій",
+    "pyramid high above the End Cities": "піраміді високо над містами Енду",
+
+    "Created at a Sanctum, throw this": "Створений у Святилищі, киньте це",
+    "on an enderman to corrupt it": "у ендермена щоб осквернити його",
+
+    "Charging... - ": "Зарядка... - ",
+    "Spirit Bow is charged! - 25/25": "Лук душ заряджено! - 25/25",
+
+
+    
+    "Mysterious Power": "Таємнича міць",
+    "Forge a Command Block in a Smithing Table with an ominous pearl and a gold block": "Викуйте командний блок зі зловісної перлини та блоку золота",
+    "Ultris Conqueror": "Завойовник",
+    "Defeat every Ultris Boss": "Здолайте кожного боса моду",
+    "Corrupted": "Осквернитель",
+    "Find and battle the corrupted Ultris Boss, Corrupted Enderman": "Знайдіть і вступіть в бій з Оскверненим Ендерменом",
+    "Weakened": "Я сильніше",
+    "Defeat the Corrupted Enderman": "Здолайте Оскверненого Ендермена",
+    "No Giant Is Stronger Than Me!": "Я тут найбільший!",
+    "Defeat the Giant": "Здолайте Велетня",
+    "Green Giant": "Бос-крафт",
+    "Throw a strength potion at a zombie and turn it into the Ultris Boss, the Giant.": "Киньте зілля сили у зомбі, щоб перетворити його на Велетня.",
+    "Fountain of Youth?": "Некромолодість?",
+    "Throw a weakness potion at a zombie and turn it into a... baby zombie.": "Киньте зілля слабкості у зомбі, щоб зробити його малим.",
+    "What Species is That?": "Це ще що таке?",
+    "Find a pig with strange purple particles...": "Знайдіть свиню з фіолетовими частинками...",
+    "Porky Illusions": "Неправильний свин",
+    "Encounter the magical Ultris Boss, the Illusioner.": "Зустріньте магічного боса - Ілюзора.",
+    "Shows Over!": "Шоу закінчено!",
+    "Defeat the Illusioner": "Здолайте Ілюзора",
+    "Together In The Dark": "Разом проти пітьми",
+    "Bring out the friends of the lone phantom and discover the Phantom Swarm": "Знайдіть друзів поодинокого фантома - Рій",
+    "Phantom Slayer": "Вбивця кошмарів",
+    "Defeat the Phantom Swarm": "Здолайте Рій Фантомів",
+    "Alone In The Dark..?": "Один в Пітьмі",
+    "Find a phantom all alone by itself in the vastness of the end...": "Знайдіть поодинокого фантома у найдальших глибинах Енду...",
+    "Flame Out!": "Гори у вогні!",
+    "Set flame to a phantom in the end and remove its abillity to summon other phantoms": "Підпаліть фантома Енду, щоб той не зміг прикликати підкріплення",
+    "Ultris: Minecraft Boss Expansion": "Ultris: Розширені Боси",
+    "Venture further and discover the 8 Ultris Bosses. Follow through the advancements proceeding to find the paths to each boss.": "Знайдіть вісім босів датапаку. Слідуйте досягненням, щоб розкрити шлях до кожного.",
+    "Ultra Withering Heights": "Прайм Пробуджений",
+    "Throw an Enchanted Command Block at a Wither, summon the Ultris Boss, Ultra Wither": "Киньте зачарований командний блок у висушувача, щоб викликати його прайм-версію",
+    "Double It Up!": "Подвійні ставки!",
+    "Throw a second command block at the Ultra Wither to receive more XP after defeation": "Киньте другий комблок у Візера-прайма щоб отримати більше досвіду",
+    "Ultra Demise": "Прайм Подоланий",
+    "Defeat the Ultra Wither": "Здолайте Візера-прайма",
+    "The Kings Residence": "Оплот Короля",
+    "Enter the Blaze Kings Tower inside a nether fortress": "Увійдіть у вежу короля пломенів у пекельній фортеці",
+    "High Sky Pyramid": "Космічні небеса",
+    "Discover a mysterious pyramid high above an end city": "Знайдіть таємничу піраміду високо над містом Енду",
+    "Awaken": "Пробудись!",
+    "Awaken the blazing Ultris Boss, Blaze King": "Пробудіть палаючого боса - Короля Пломенів",
+    "Into Ashes": "Попіл до попелу",
+    "Defeat the Blaze King": "Здолайте Короля Пломенів",
+    "Sealed Secrets": "Замкнені таємниці",
+    "Reach the top of the pyramid and insert an Endstone Key to the pedestal by right clicking its shimmering end rod": "Досягніть верхівки піраміди та вставте Ключ Кінця у п'єдстал за допомогою правого кліка по ендерстрижню на ньому",
+    "Awaken at Kingdom's End": "Пробудись, Кінець",
+    "Awaken the Ultris boss, ruler of the shulkers, the Shulker Stone": "Пробудіть повелителя шалкерів - Шалкеровий камінь",
+    "True Form": "Істинна форма",
+    "Shoot a spectral arrow at the shulker stone, and question the mob it really is": "Вистреліть у Камінь шалкерів спектральною стрілою, щоб дізнатися, хто ж це насправді",
+    "Back to Eternal Sleep": "Спочивай вічно",
+    "Defeat the Shulker Stone": "Здолайте Камінь Шалкерів",
+    "Ominous Compass": "Зловісний компас",
+    "Forge a Ominous Eye Of Ender in a Smithing Table with an ominous pearl and blaze powder": "Викуйте Зловісне Око зі зловісної перлини та пилу блейза",
+    "Collector of Souls": "Збирач душ",
+    "Find the Ultris Boss, Sanctum Keeper": "Знайдіть моторошного боса - Хранителя святилища",
+    "Free the Sanctum": "Свобода",
+    "Defeat the Sanctum Keeper": "Здолайте Хранителя",
+    "Corruptions Birthplace": "Батьківщина прокляття",
+    "Find the Corruption lab inside the Sanctum": "Знайдіть Прокляту лабораторію у святилищі",
+    "Mad Scienctist": "Божевільний",
+    "Create some corrupt dust within the Corruption Lab": "Створіть Осквернений пил у лабораторії",
+    "The Sanctum's Corrupter": "Тінь Осквернителя",
+    "Throw corrupt dust on a enderman and convert it into a Corrupted Enderman.": "Киньте Осквернений пил у ендермена, щоб перетвоити його.",
+    "Feels Like Home": "Майже як вдома...",
+    "Hold an emerald in front of the Sanctum Keepers soul and lead it all the way to a village.": "Приведіть душу Хранителя у село за допомогою смарагдів.",
+    "Lost and Forgotten": "Покинуті у забутті",
+    "Find the sacred stronghold, the Sanctum": "Знайдіть Святилище, праведний оплот",
+    "Released": "Вільний",
+    "Free a trapped soul from a glass container": "Звільніть душу з її клітки",
+    "The Sanctum's Repairer": "Відновлювач",
+    "Run out of the Fortified Sanctum's XP Machine uses, then throw a diamond on top of it to repair it": "Повністю використайте стародавню машину в Укріпленому святилищі а потім поремонтуйте її діамантом",
+    "Bookshelves Everywhere!": "Архів Вічності",
+    "Find the Fortified Sanctum's Library": "Знайдіть бібліотеку Укріпленого святилища",
+    "High Class": "Вищий клас",
+    "Find the the Sanctum varient, the Fortified Sanctum": "Знайдіть варіант святилища - Укріплене"
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}

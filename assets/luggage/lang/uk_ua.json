@@ -1,0 +1,11 @@
+{
+	"entity.luggage.luggage": "Багаж",
+	"item.luggage.luggage": "Багаж",
+	"keybind.luggage.wait": "Нехай багаж, що знаходиться поруч, зачекає",
+	"keybind.luggage.call": "Покликати багаж",
+	"subtitles.luggage.entity.luggage.killed": "Багаж розлітається вщент",
+	"subtitles.luggage.entity.luggage.eat_food": "Багаж їсть їжу",
+	"subtitles.luggage.entity.luggage.eat_item": "Багаж їсть предмет",
+	"subtitles.luggage.entity.player.whistle_call": "Гравець тихо свистить",
+	"subtitles.luggage.entity.player.whistle_wait": "Гравець різко свистить"
+}

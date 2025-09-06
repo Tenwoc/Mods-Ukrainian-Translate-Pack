@@ -1,0 +1,53 @@
+{
+  "item.totw_modded.shattered_warp_stone": "Розбитий камінь телепортації",
+  "item.totw_modded.warp_stone": "Камінь телепортації",
+  "item.totw_modded.diamond_dust": "Діамантовий пил",
+  "item.totw_modded.ametrine_dust": "Аметріновий пил",
+
+  "item.totw_modded.burning": "Палаючий значок",
+  "item.totw_modded.warm": "Теплий значок",
+  "item.totw_modded.comfy": "Комфортний значок",
+  "item.totw_modded.cold": "Хородний значок",
+  "item.totw_modded.freezing": "Крижаний значок",
+
+  "item.totw_modded.autumn": "Осінній значок",
+  "item.totw_modded.dry": "Сухий значок",
+  "item.totw_modded.spring": "Весняний значок",
+  "item.totw_modded.summer": "Літній значок",
+  "item.totw_modded.wet": "Вологий значок",
+  "item.totw_modded.winter": "Зимовий значок",
+
+  "item.totw_modded.gunpowder_infused_ametrine": "Наповнений порохом аметрин",
+
+  "item.totw_modded.crushed_aquite_ore": "Дроблена аквайтова руда",
+  "item.totw_modded.crushed_charoite_ore": "Дроблена чароїтова руда",
+  "item.totw_modded.crushed_falsite_ore": "Дроблена фальзитова руда",
+  "item.totw_modded.crushed_horizonite_ore": "Дроблена горизонітова руда",
+  "item.totw_modded.crushed_ventium_ore": "Дроблена вентієва руда",
+
+  "item.totw_modded.worm_gu": "Черв'як Гу.",
+
+  "item.totw_modded.void_wormed_sword": "Меч черв'яка порожнечі",
+  "item.totw_modded.void_wormed_axe": "Сокира черв'яка порожнечі",
+  "item.totw_modded.void_wormed_shovel": "Лопата черв'яка порожнечі",
+  "item.totw_modded.void_wormed_pickaxe": "Кайло черв'яка порожнечі",
+  "item.totw_modded.void_wormed_hoe": "Мотика черв'яка порожнечі",
+
+  "item.totw_modded.void_wormed_helmet": "Шолом черв'яка порожнечі",
+  "item.totw_modded.void_wormed_chestplate": "Нагрудник черв'яка порожнечі",
+  "item.totw_modded.void_wormed_leggings": "Наголінники черв'яка порожнечі",
+  "item.totw_modded.void_wormed_boots": "Чоботи черв'яка порожнечі",
+
+  "item.totw_modded.ur_ghast_heart": "Серце Ур Ґаста",
+  "item.totw_modded.armored_giant_heart": "Серце броньованого гіганта",
+  "item.totw_modded.snow_queen_heart": "Серце сніжної королеви",
+  "item.totw_modded.compressed_hearts": "Стиснуті серця",
+
+  "item.totw_modded.desh_helmet": "Шолом дешу",
+  "item.totw_modded.desh_chestplate": "Нагрудник дешу",
+  "item.totw_modded.desh_leggings": "Наголінники дешу",
+  "item.totw_modded.desh_boots": "Чоботи дешу",
+
+
+  "itemGroup.totw_modded_tab": "Create Dimensions Addon"
+}

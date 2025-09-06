@@ -1,0 +1,10 @@
+{
+  "commands.missingargument": "Відсутній аргумент!",
+  "mdecore.command.mde.help.0": "/mattdahepic help - виводить це повідомлення",
+  "mdecore.command.mde.help.1": "/mattdahepic pos <player> - показує позицію гравця",
+  "mdecore.command.mde.help.2": "/mattdahepic enderchest <player> - показує скриню Енду гравця",
+  "mdecore.command.mde.help.3": "/mattdahepic invsee <player> - показує інвентар гравця",
+  "mdecore.command.mde.help.4": "/mattdahepic generate <xCenter> <yCenter> <zCenter> <size> <dimension> - генерує квадрат рельєфу за розміром блоків з центрами навколо xCenter, zCenter у вимірі",
+  "mdecore.command.mde.pos": "%s знаходиться за координатами [%f, %f, %f] у вимірі %s",
+  "mdecore.command.mde.generate.start": "Генерування квадрата з чанків {0}x{0} з центром навколо чанків {1},{2} у вимірі {3}"
+}

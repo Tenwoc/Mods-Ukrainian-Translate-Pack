@@ -1,0 +1,17 @@
+{
+  "name": "Провідник",
+  "icon": "archon:channeler",
+  "category": "archon:mana",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:channeler",
+      "text": "Провідник - це важлива штучка, якою можна переспрямовувати потоки мани в блоки і тим самим створювати нові предмети. Наповнення маною вимагає витрат різної її кількості. Щоб подивитися всі рецепти, радимо використовувати мод REI."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:channeler"
+    }
+  ]
+}

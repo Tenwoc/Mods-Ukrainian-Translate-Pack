@@ -1,0 +1,44 @@
+{
+    "name": "Levels 30 - 60",
+    "icon": "apothic_enchanting:hellshelf",
+    "category": "apotheosis:enchanting/progression",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:crafting",
+			"title": "Reaching Level 45",
+			"recipe": "apothic_enchanting:hellshelf",
+			"text": "To reach level 45, you'll want to create some $(9)Hellshelves$(), and add them to your existing Bookshelves."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Reaching Level 45",
+			"recipe": "apothic_enchanting:seashelf",
+			"text": "If you aren't fond of the Nether, you can also venture to the Ocean, and create $(9)Seashelves$() instead."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Reaching Level 60",
+			"item": "apothic_enchanting:infused_hellshelf",
+			"text": "Once you reach Level 45, you'll need to explore $(l:apotheosis:enchanting/table/infusion)Infusion Enchanting$() to upgrade your shelves."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Reaching Level 60",
+			"item": "apothic_enchanting:infused_seashelf",
+			"text": "Create a few more of the type of shelf you were using, infuse them, and upgrade them.$(p)These new shelves, on top of your old ones, will let you reach Level 60."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Enchanting Clues",
+			"item": "apothic_enchanting:sightshelf",
+			"text": "You now have access to better options for increasing other stats.$(p)On top of the bonuses from Hellshelves and Seashelves, you may now also create $(9)Sightshelves$() to increase your $(clues)."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Quantic Stability",
+			"recipe": "apothic_enchanting:geode_shelf",
+			"text": "By performing the infusion to create a Budding Amethyst, you can craft a $(9)Bookshelf of Stability$().$(p)This will prevent you from receiving negative Quanta rolls."
+		}
+	]
+}

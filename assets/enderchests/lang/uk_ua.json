@@ -1,0 +1,45 @@
+{
+    "_comment": "-------------------------------------- EnderChests uk_ua.json Localization --------------------------------------!",
+    "_comment": "Keep file encoded with UTF-8 to support chat formatting http://minecraft.gamepedia.com/Formatting_codes",
+
+    "_comment": "------------------------------------------------------ MISC ------------------------------------------------------!",
+    "itemGroup.enderchests": "EnderChests",
+
+    "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
+    "error.enderchests.bag.nolink1": "Неможливо прив'язати сумку, ви не є власником цієї скрині",
+    "error.enderchests.bag.nolink2": "Неможливо прив'язати мішок, власник скрині невідомий",
+    "error.enderchests.bag.nolink3": "Неможливо прив'язати мішок, ви не в одній команді",
+    "error.enderchests.bag.corrupted": "Неможливо відкрити мішок; Відсутні дані стосу NBT",
+
+    "error.enderchests.chest.public.disabled": "Публічні скрині вимкнено, щоб користуватися ними, їх потрібно покращити",
+    "error.enderchests.chest.private.disabled": "Створення приватних скринь вимкнено",
+    "error.enderchests.chest.team.disabled": "Створення командних скринь вимкнено",
+    "error.enderchests.chest.private.denied": "Тільки власник може виконати цю дію",
+    "error.enderchests.chest.team.denied": "Тільки члени команди можуть виконати цю дію",
+    "error.enderchests.chest.upgrade_used": "Цей предмет можна застосувати лише один раз до однієї скрині",
+    "error.enderchests.bag.public.disabled": "Спільні торби вимкнено",
+    "error.enderchests.bag.private.disabled": "Створення приватних торб вимкнено",
+    "error.enderchests.bag.team.disabled": "Створення командних торб вимкнено",
+
+    "info.enderchests.chest.public": "Публічний",
+    "info.enderchests.chest.code": "Код:",
+    "info.enderchests.chest.capacity": "Об'єм скрині збільшився до",
+
+    "info.enderchests.craftingmaterial": "Матеріал виготовлення",
+
+    "_comment": "----------------------------------------------- ITEMS/BLOCKS/FLUIDS ----------------------------------------------!",
+    "item.enderchests.ender_pouch": "Мішечок Енду",
+
+    "item.enderchests.bag.public": "Торба Енду",
+    "item.enderchests.bag.private": "Торба Енду",
+    "item.enderchests.bag.team": "Торба Енду",
+
+    "block.enderchests.chest.public": "Скриня Енду",
+    "block.enderchests.chest.private": "Скриня Енду",
+    "block.enderchests.chest.team": "Скриня Енду",
+
+    "_comment": "------------------------------------------------ MOD INTEGRATION -------------------------------------------------!",
+    "hud.enderchests.server_data_missing": " §6⚠ §4No HUD Data Received from Server §6⚠",
+
+    "config.jade.plugin_enderchests.hud": "Увімкнути плагін"
+}

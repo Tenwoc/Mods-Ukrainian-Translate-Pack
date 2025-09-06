@@ -1,0 +1,12 @@
+{
+  "name": "Приплив мани",
+  "icon": "archon:textures/mob_effect/mana_boost.png",
+  "category": "archon:effects_enchants",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Приплив мани збільшує запас мани цілі на $(#2895CB)50$() за рівень. Накладається $(l:archon:mana/mana_catalysts)каталізаторами мани$() або через консоль."
+    }
+  ]
+}

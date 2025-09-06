@@ -1,0 +1,13 @@
+{
+  "block.createlowheated.basic_burner": "Базовий пальник",
+  "block.createlowheated.basic_burner.tooltip": "Базовий пальник",
+  "block.createlowheated.basic_burner.tooltip.behaviour1": "Клацніть ПКМ по ньому з паливом_ або скористайтеся _лійкою/застосовувачем/механічною рукою_.",
+  "block.createlowheated.basic_burner.tooltip.behaviour2": "Щоб розпалити вогонь, клацніть ПКМ по ньому _кресалом_. Доки він буде постійно підживлюватися, вогонь буде підтримуватися.",
+  "block.createlowheated.basic_burner.tooltip.behaviour3": "Можна посилити, якщо направити проти нього вентилятор з максимальною швидкістю обертів.",
+  "block.createlowheated.basic_burner.tooltip.condition1": "Потрібне паливо",
+  "block.createlowheated.basic_burner.tooltip.condition2": "Потрібне кресало",
+  "block.createlowheated.basic_burner.tooltip.condition3": "Посилений пальник",
+  "block.createlowheated.basic_burner.tooltip.summary": "Забезпечує достатнє _тепло_ для _обробки у чаші_ та _парових двигунів_.",
+  "create.recipe.heat_requirement.lowheated": "Слабко нагріто",
+  "itemGroup.createlowheated.base": "Create Low-Heated"
+}

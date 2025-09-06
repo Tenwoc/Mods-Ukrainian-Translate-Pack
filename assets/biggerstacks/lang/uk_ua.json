@@ -1,0 +1,12 @@
+{
+    "biggerstacks.exact.count": "Точна кількість: %s",
+    "biggerstacks.enchbox.alt": "Обмеження стосу зачарованих книг",
+    "biggerstacks.potsbox.alt": "Обмеження стосу зілля",
+    "biggerstacks.normalbox.alt": "Обмеження стосу звичайних предметів",
+    "biggerstacks.enchbox.label": "Зачаровані книги",
+    "biggerstacks.potsbox.label": "Зілля",
+    "biggerstacks.normalbox.label": "Звичайні предмети",
+    "biggerstacks.config.title": "Налаштувати ліміт стосу",
+    "biggerstacks.overwrite.warn": "Це призведе до перезапису вашого файлу правил!",
+    "biggerstacks.save": "Зберегти"
+}

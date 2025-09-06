@@ -1,0 +1,22 @@
+{
+    "attribute.thermoo.generic.min_temperature": "мінімальної температури",
+    "attribute.thermoo.generic.max_temperature": "максимальної температури",
+    "attribute.thermoo.generic.frost_resistance": "морозостійкості",
+    "attribute.thermoo.generic.heat_resistance": "теплостійкості",
+
+
+    "commands.thermoo.temperature.exception.not_living_entity": "Мішень не є живою істотою!",
+    "commands.thermoo.temperature.get.scale.success": "Температурна шкала %s - %d",
+    "commands.thermoo.temperature.get.max.success": "%s може мати максимальну температуру %d",
+    "commands.thermoo.temperature.get.min.success": "%s може мати мінімальну температуру %d",
+    "commands.thermoo.temperature.get.current.success": "Поточна температура %s становить %d",
+    "commands.thermoo.temperature.add.success.single": "Додано температуру %d до %s (тепер %d)",
+    "commands.thermoo.temperature.add.success.multiple": "Додано температуру %d до %d об'єктів",
+    "commands.thermoo.temperature.remove.success.single": "Видалено температуру %d з %s (тепер %d)",
+    "commands.thermoo.temperature.remove.success.multiple": "Вилучено температуру %d для %d об'єктів",
+    "commands.thermoo.temperature.set.success.single": "Встановити температуру %s на %d",
+    "commands.thermoo.temperature.set.success.multiple": "Встановити температуру об'єктів %s на %d",
+    "commands.thermoo.environment.printcontroller.success": "Контролер виведено у консоль",
+
+    "commands.thermoo.environment.checktemperature.success": "Пасивна зміна температури у %s, %s, %s (%s) становить %d"
+}

@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.betterwitchhuts-fabric-1_19.title": "YUNG's Better Witch Huts",
+  "text.autoconfig.betterwitchhuts-fabric-1_19.option.general.disableVanillaWitchHuts": "Заборонити стандартні Відьмові хатинки",
+  "text.autoconfig.betterwitchhuts-fabric-1_19.option.general.disableVanillaWitchHuts.@Tooltip": "Чи потрібно вимкнути стандартні §6Відьмові хатинки",
+
+  "Use /locate structure betterwitchhuts:witch_hut instead!": "Використовуйте /locate structure betterwitchhuts:witch_hut !",
+  
+  "text.autoconfig.betterwitchhuts-fabric-1_20_4.title": "YUNG's Better Witch Huts",
+  "text.autoconfig.betterwitchhuts-fabric-1_20_4.option.general.disableVanillaWitchHuts": "Заборонити стандартні відьмові хатинки",
+  "text.autoconfig.betterwitchhuts-fabric-1_20_4.option.general.disableVanillaWitchHuts.@Tooltip": "Чи потрібно вимкнути стандартні відьмові хатинки.",
+
+  "Use /locate structure betterwitchhuts:witch_hut instead!": "Використовуйте /locate structure betterwitchhuts:witch_hut !"
+}

@@ -1,0 +1,10 @@
+{
+  "catloaf.config.header": "Конфігурація Cat Loaf",
+  "catloaf.config.category.general": "Загальні",
+  "catloaf.config.loafChance": "Шанс захлібнення (%)",
+  "catloaf.config.loafChance.description": "Визначає шанс того, що кіт ляже буханцем замість того, щоб сісти.",
+  "catloaf.config.overrideChanceWithBread": "Перевизначення шансу за допомогою хліба",
+  "catloaf.config.overrideChanceWithBread.description": "Якщо тримати в руках хліб, шанс того, що кіт стане буханцем, дорівнює 100%",
+  "catloaf.config.hideTailWhenLoafing": "Приховувати хвіст у стані буханця",
+  "catloaf.config.hideTailWhenLoafing.description": "Приховати хвіст лежачого буханцем кота, щоб він краще імітував хліб."
+}

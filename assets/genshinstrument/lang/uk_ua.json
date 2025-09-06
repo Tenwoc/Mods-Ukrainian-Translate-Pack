@@ -1,0 +1,127 @@
+{
+    "genshinstrument.keymaps": "Графічний інтерфейс інструментів",
+    "genshinstrument.keymaps.transpose_up_modifier": "Транспонувати інструмент вгору",
+    "genshinstrument.keymaps.transpose_down_modifier": "Транспонувати інструмент вниз",
+
+
+    "genshinstrument.itemGroup.instruments": "Інструменти",
+
+    "item.genshinstrument.windsong_lyre": "Вітрова ліра",
+    "item.genshinstrument.floral_zither": "Квіткова цитра",
+    "item.genshinstrument.vintage_lyre": "Старовинна ліра",
+    "item.genshinstrument.glorious_drum": "Великий і славний барабан Аратаки",
+
+
+    "soundCategory.record": "Інструменти",
+
+
+    "button.genshinstrument.instrumentOptions": "Параметри інструментів",
+    "label.genshinstrument.midiOptions": "MIDI-параметри",
+    "label.genshinstrument.zither_options": "Параметри цитри",
+    "label.genshinstrument.vintage_lyre_options": "Параметри старовинної ліри",
+
+    "genshinstrument.genshin_disclaimer.title": "Відмова від відповідальності!",
+    "genshinstrument.genshin_disclaimer.content": "Genshin Instruments - це %s і %s Minecraft мод, який жодним чином не пов'язаний ні з Genshin Impact, ні з HoYoverse.\n\nТаким чином, всі активи, пов'язані з Genshin, що використовуються в грі, такі як звуки, зображення, інструменти і т.д., є повною власністю HoYoverse.\n\nЯк користувач, ви несете повну відповідальність за свої дії в грі, включаючи (але не обмежуючись цим!) відтворення та обмін/публікацію будь-яких пісень, які можуть бути захищені законами про авторські права.",
+    "genshinstrument.genshin_disclaimer.bolden1": "неофіційний",
+    "genshinstrument.genshin_disclaimer.bolden2": "зроблено фанатами",
+
+
+    "button.genshinstrument.audioChannels": "Тип звукового каналу інструменту",
+    "button.genshinstrument.audioChannels.mono": "Моно",
+    "button.genshinstrument.audioChannels.stereo": "Стерео",
+    "button.genshinstrument.audioChannels.stereo.tooltip": "ЗАУВАЖЕННЯ: Через прикру специфікацію OpenAL, усі звуки, створені на стерео, буде встановлено на 100%.\nЦе стосується і деяких інструментів.",
+    "button.genshinstrument.audioChannels.mixed.tooltip": "Якщо категорію звуку Інструменти встановлено на 100%, ви чутимете інструменти на стерео у межах %s блоків діапазону.\nІнакше, ви чутимете моно.",
+    "button.genshinstrument.audioChannels.mixed": "Змішаний",
+    "button.genshinstrument.stop_music_on_play.tooltip": "Коли ви або інші гравці в межах %s блоків діапазону грають на інструменті, фонова музика Minecraft зупиняється.",
+    "button.genshinstrument.stop_music_on_play": "Зупинити відтворення музики",
+    "button.genshinstrument.shared_instrument.tooltip": "Подивіться, які ноти грають інші гравці поблизу на екрані вашого інструмента",
+    "button.genshinstrument.shared_instrument": "Екран спільного інструмента",
+
+    "button.genshinstrument.render_background": "Показувати фонове зображення",
+    "button.genshinstrument.accurate_notes": "Точні ноти",
+    "button.genshinstrument.accurate_notes.tooltip": "Якщо увімкнено, забезпечує точне за висотою відображення нотних знаків і випадкових явищ, що використовуються в розкладці цього інструмента.",
+    
+    
+    "button.genshinstrument.midiEnabled": "MIDI увімкнено",
+    "button.genshinstrument.midiDevice": "MIDI-пристрій",
+    
+    "button.genshinstrument.fixedTouch": "Фіксований дотик",
+    "button.genshinstrument.fixedTouch.tooltip": "Визначає, чи швидкість натискання ноти не впливатиме на гучність інструмента",
+
+    "button.genshinstrument.extendOctaves": "Розширити октави",
+    "button.genshinstrument.extendOctaves.tooltip": "При виконанні ноти, яка вище/нижче звичайного октавного діапазону, автоматично підлаштовує висоту звуку відповідно до вашої гри. Можна розширити лише на 1 октаву в кожну сторону: високу та низьку C.\nВинуватити Minecraft.",
+
+    "button.genshinstrument.midiOctaveShift": "Октавний зсув",
+    "button.genshinstrument.midiChannel": "MIDI-канал",
+    "button.genshinstrument.acceptAllChannels": "Прослухати всі канали",
+
+
+    "button.genshinstrument.dominantDrumType": "Тип домінуючого барабана",
+    "button.genshinstrument.dominantDrumType.both": "Обидва",
+
+    "button.genshinstrument.dominantDrumType.both.tooltip": "MIDI-клавіатура буде розділена по середньому до так, що низький до грає до, а високий - ка",
+    "button.genshinstrument.dominantDrumType.don.tooltip": "Вся клавіатура грає донну",
+    "button.genshinstrument.dominantDrumType.ka.tooltip": "Вся клавіатура грає донну",
+
+
+    "button.genshinstrument.normalize_vintage_lyre": "Нормалізувати старовинну ліру",
+    "button.genshinstrument.normalize_vintage_lyre.tooltip": "Нормалізує всі сплющені ноти у старовинній лірі. Не застосовується до максимальної висоти звуку.",
+
+
+    "button.none": "Немає",
+
+
+
+    "button.genshinstrument.label": "Тип міток нот",
+    "button.genshinstrument.pitch": "Висота",
+    "button.genshinstrument.volume": "Гучність інструмента",
+
+    "button.genshinstrument.zither.soundType": "Тип звуку",
+    "button.genshinstrument.zither.soundType.old": "Старий",
+    "button.genshinstrument.zither.soundType.new": "Новий",
+
+
+    "button.genshinstrument.label.do_re_mi": "До, ре, мі",
+
+    "genshinstrument.label.do": "до",
+    "genshinstrument.label.re": "ре",
+    "genshinstrument.label.mi": "мі",
+    "genshinstrument.label.fa": "фа",
+    "genshinstrument.label.so": "соль",
+    "genshinstrument.ляbel.la": "ля",
+    "genshinstrument.label.ti": "сі",
+
+
+    "genshinstrument.label.glorious_drum.ka": "Ка",
+    "genshinstrument.label.glorious_drum.don": "Дон",
+
+
+    "button.genshinstrument.label.keyboard_layout": "Клавіатура",
+    "button.genshinstrument.label.qwerty": "Клавіатура (QWERTY)",
+    "button.genshinstrument.label.note_name": "Назва ноти",
+    "button.genshinstrument.label.abc": "ABC",
+    "button.genshinstrument.label.none": "Без мітки",
+
+    "button.genshinstrument.label.don_ka": "Дон-Ка",
+
+
+
+    "genshinstrument.advancements.main.root.title": "Подорож барда",
+    "genshinstrument.advancements.main.root.description": "Хоч вина може не бути поруч з вами, інструменти завжди проведуть вас через гру свободи.",
+
+    "genshinstrument.advancements.main.master.title": "Оркестр одного",
+    "genshinstrument.advancements.main.master.description": "Майте у своєму інвентарі всі інструменти одночасно",
+    
+    "genshinstrument.advancements.main.windsong_lyre.title": "Звук вітру",
+    "genshinstrument.advancements.main.windsong_lyre.description": "Грайте на лірі вітру",
+    
+    "genshinstrument.advancements.main.vintage_lyre.title": "Ліс пам'ятатиме",
+    "genshinstrument.advancements.main.vintage_lyre.description": "Зіграйтете на старовинній лірі",
+    
+    "genshinstrument.advancements.main.glorious_drum.title": "Зовсім не шахрайство",
+    "genshinstrument.advancements.main.glorious_drum.description": "Зіграйтете на славному барабані Аратакі",
+    
+    "genshinstrument.advancements.main.floral_zither.title": "Гравець-інкогніто",
+    "genshinstrument.advancements.main.floral_zither.description": "Зіграйте на квітковій цитрі."
+
+}

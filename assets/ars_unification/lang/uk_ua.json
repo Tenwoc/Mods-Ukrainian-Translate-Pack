@@ -1,0 +1,13 @@
+{
+  "ars_nouveau.augment_desc.glyph_cut_glyph_aoe": "Збільшує радіус пошуку предметів для обробки.",
+  "ars_nouveau.augment_desc.glyph_cut_glyph_pierce": "Збільшує кількість предметів, які обробить Розрізання.",
+  "ars_nouveau.augment_desc.glyph_cut_glyph_sensitive": "Розрізання зробить спробу обробити скинуті предмети.",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_aoe": "Збільшує радіус пошуку предметів для обробки.",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_pierce": "Збільшує кількість предметів, які обробить Притискання.",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_sensitive": "Притискання зробить спробу обробити скинуті предмети.",
+  "ars_unification.augment_with": "Доповніть цей гліф з: %s, щоб використовувати його рецепти.",
+  "ars_unification.cut_recipe": "Чарівне розрізання",
+  "ars_unification.press_recipe": "Чарівне притискання",
+  "emi.category.ars_unification.cut": "Чарівне розрізання",
+  "emi.category.ars_unification.press": "Чарівне притискання"
+}

@@ -1,0 +1,474 @@
+{
+  "distanthorizons.title": "Distant Horizons",
+
+  "distanthorizons.general.true": "Так",
+  "distanthorizons.general.false": "Ні",
+  "distanthorizons.general.yes": "Так",
+  "distanthorizons.general.no": "Ні",
+  "distanthorizons.general.back": "Назад",
+  "distanthorizons.general.next": "Далі",
+  "distanthorizons.general.done": "Готово",
+  "distanthorizons.general.cancel": "Скасувати",
+  "distanthorizons.general.reset": "Перезавантажити",
+
+
+  "distanthorizons.updater.title": "Автоматичне оновлення Distant Horizons",
+  "distanthorizons.updater.text1": "§lДоступне нове оновлення!",
+  "distanthorizons.updater.text2": "§fХочете оновити з %s§f на %s§f?",
+  "distanthorizons.updater.later": "Не зараз",
+  "distanthorizons.updater.never": "Більше не з'являтися",
+  "distanthorizons.updater.update": "Оновити",
+  "distanthorizons.updater.update.@tooltip": "Оновлює мод 1 раз\n(Оновлюється, коли гру закрито)",
+  "distanthorizons.updater.silent": "Завжди тихе оновлення",
+  "distanthorizons.updater.silent.@tooltip": "Кожного разу, коли оновлення буде доступне, воно буде оновлюватися\n(§6 ПОПЕРЕДЖЕННЯ§r: Він не буде підказувати користувачеві про оновлення, але буде підтримувати мод в актуальному стані)",
+  "distanthorizons.updater.waitingForClose": "Distant Horizons завершить оновлення після перезапуску гри",
+
+
+  "distanthorizons.config.title": "Конфігурація Distant Horizons",
+  "distanthorizons.config.client": "Клієнт",
+
+  "distanthorizons.config.client.quickEnableRendering": "Увімкнути візуалізацію",
+  "distanthorizons.config.client.quickEnableRendering.@tooltip": "Визначає, чи буде Distant Horizons відтворювати LOD.",
+  
+  "distanthorizons.config.client.qualityPresetSetting": "Попереднє налаштування якості",
+  "distanthorizons.config.client.qualityPresetSetting.@tooltip": "Змінює низку графічних параметрів для швидкої зміни якості зображування Distant Horizons. \n\nЗменшіть цей параметр, якщо ваш графічний процесор використовується на максимумі або у вас проблеми з частотою кадрів.",
+  "distanthorizons.config.client.threadPresetSetting": "Навантаження на процесор",
+  "distanthorizons.config.client.threadPresetSetting.@tooltip": "Змінює кількість потоків, які використовуватиме Distant Horizons. \n\nЗбільшення цього параметра покращить швидкість роботи Далекого генератора та швидкість завантаження LOD, \nале також збільшить використання процесора/пам'яті і може спричинити заїкання. \n\nПримітка: на процесорах з 4 ядрами або менше ці параметри будуть менш ефективними \nа деякі параметри даватимуть подібні результати.",
+
+  "distanthorizons.config.client.optionsButton": "Показувати кнопку налаштувань",
+  "distanthorizons.config.client.optionsButton.@tooltip": "Показувати кнопку налаштувань ліворуч від кнопки fov",
+
+  "distanthorizons.config.client.advanced": "Додаткові параметри",
+
+  "distanthorizons.config.client.advanced.graphics": "Графіка",
+  "distanthorizons.config.client.advanced.graphics.quality": "Якість візуалізації",
+
+  "distanthorizons.config.client.advanced.graphics.quality.maxHorizontalResolution": "Максимальна роздільна здатність по горизонталі",
+  "distanthorizons.config.client.advanced.graphics.quality.maxHorizontalResolution.@tooltip": "LOD з максимальною деталізацією рендериться на рівні.\n\n§6Найшвидше:§r Шматок\n§6Найякісніше:§r Блок",
+  "distanthorizons.config.client.advanced.graphics.quality.lodChunkRenderDistanceRadius": "Радіус відстані рендерингу LOD",
+  "distanthorizons.config.client.advanced.graphics.quality.lodChunkRenderDistanceRadius.@tooltip": "Відстань рендерингу Далеких Горизонтів, що вимірюється у шматках. \n\nПримітка: це найкраще значення. \n\nВідстань зображування може бути більшою або меншою за це число залежно від інших графічних налаштувань.",
+  "distanthorizons.config.client.advanced.graphics.quality.verticalQuality": "Якість по вертикалі",
+  "distanthorizons.config.client.advanced.graphics.quality.verticalQuality.@tooltip": "Наскільки добре LOD відображають виходи, печери, урвища і т.д.\n\nВищі значення збільшують використання пам'яті та графічного процесора.",
+  "distanthorizons.config.client.advanced.graphics.quality.horizontalScale": "Горизонтальний масштаб",
+  "distanthorizons.config.client.advanced.graphics.quality.horizontalScale.@tooltip": "Наскільки швидко якість LOD падає.\n\nБільші значення покращують вигляд віддалених ділянок місцевості, але збільшують використання пам'яті та графічного процесора.",
+  "distanthorizons.config.client.advanced.graphics.quality.horizontalQuality": "Горизонтальна якість",
+  "distanthorizons.config.client.advanced.graphics.quality.horizontalQuality.@tooltip": "Наскільки далеко один від одного розташовані падіння якості.\n\nВищі значення збільшують відстань між падіннями, але збільшують використання пам'яті та графічного процесора.",
+  "distanthorizons.config.client.advanced.graphics.quality.transparency": "Прозорість",
+  "distanthorizons.config.client.advanced.graphics.quality.blocksToIgnore": "Блоки для ігнорування",
+  "distanthorizons.config.client.advanced.graphics.quality.blocksToIgnore.@tooltip": "Визначає типи блоків, які слід ігнорувати при генерації LOD.",
+  "distanthorizons.config.client.advanced.graphics.quality.tintWithAvoidedBlocks": "Тонування з пропущеними блоками",
+  "distanthorizons.config.client.advanced.graphics.quality.tintWithAvoidedBlocks.@tooltip": "§4Примітка: робить сніг, килим і люки дуже поганими§r\nЧи повинні блоки під пропущеними блоками набувати кольору пропущеного блоку?\n§6Так:§r червона квітка на траві забарвить траву під нею у червоний колір\n§6Неправда:§r пропущені блоки не змінять колір поверхні під ними.",
+  "distanthorizons.config.client.advanced.graphics.quality.lodBiomeBlending": "Змішування біома",
+  "distanthorizons.config.client.advanced.graphics.quality.lodBiomeBlending.@tooltip": "Це ті ж самі налаштування, що і у ванільному Biome Blending для області LOD. \n\nЗауважте, що значення, відмінне від '0', суттєво вплине на час побудови LOD і збільшить кількість трикутників. Занадто високе значення цього параметра також вплине на швидкість генерації шматочків.\n\n'0' дорівнює ванільному змішуванню біосфери '1х1', \n'1' дорівнює ванільному змішуванню біосфери '3х3', \n'2' дорівнює ванільному змішуванню біосфери '5х5'... \n",
+  
+  
+  "distanthorizons.config.client.advanced.graphics.fog": "Туман",
+
+  "distanthorizons.config.client.advanced.graphics.fog.drawMode": "Режим малювання туману",
+  "distanthorizons.config.client.advanced.graphics.fog.drawMode.@tooltip": "Коли туман буде зображено на LOD'ах.",
+  "distanthorizons.config.client.advanced.graphics.fog.distance": "Відстань туману",
+  "distanthorizons.config.client.advanced.graphics.fog.distance.@tooltip": "Відстань(и), на яку буде зображено туман на лініях вильоту.",
+  "distanthorizons.config.client.advanced.graphics.fog.colorMode": "Режим кольору туману",
+  "distanthorizons.config.client.advanced.graphics.fog.colorMode.@tooltip": "Колір туману на LOD.",
+  "distanthorizons.config.client.advanced.graphics.fog.disableVanillaFog": "Вимкнути ванільний туман",
+  "distanthorizons.config.client.advanced.graphics.fog.disableVanillaFog.@tooltip": "§6Так:§r вимикає туман Minecraft на ванільних ділянках.\n§6Ні:§r Minecraft відтворює туман як зазвичай.\n\nМоже спричинити проблеми з іншими модами, які редагують туман.\nВимкніть, якщо ванільні ділянки повністю вкриті туманом.",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog": "Додаткові параметри туману",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogStart": "Початок дальнього туману",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogStart.@tooltip": "Де має починатися дальній туман? \n\n '0.0': Початок туману на позиції гравця.\n '1.0': Коло початку туману вписується у квадрат відстані до лода.\n '1.414': Квадрат відстані, що рендерить лода, вписується у коло початку туману.\n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogEnd": "Далекий кінець туману",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogEnd.@tooltip": "Де має закінчуватися дальній кінець туману? \n\n '0.0': Кінець туману на позиції гравця.\n '1.0': Коло кінця туману вписується у квадрат відстані до лода.\n '1.414': Квадрат відстані до кінця туману вписується в коло кінця туману.\n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogMin": "Мінімальна товщина туману",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogMin.@tooltip": "Яка мінімальна товщина туману? \n\n '0.0': Зовсім без туману.\n '1.0': Повний колір туману.\n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogMax": "Дальній туман Макс",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogMax.@tooltip": "Яка максимальна товщина туману? \n\n '0.0': Зовсім без туману.\n '1.0': Повний колір туману.\n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogFalloff": "Далекий опад туману",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogFalloff.@tooltip": "Як розраховувати товщину туману? \n\nLINEAR: Лінійно на основі відстані (ігнорує 'густину')\nEXPONENTIAL: 1/(e^(відстань*густина)) \nEXPONENTIAL_SQUARED: 1/(e^((відстань*густина)^2) \n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogDensity": "Густина далекого туману",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.farFogDensity.@tooltip": "Що таке густина туману? ",
+
+
+  "distanthorizons.config.client.advanced.graphics.ssao": "Навколишнє затуманення",
+
+  "distanthorizons.config.client.advanced.graphics.ssao.enabled": "Увімкнути Ambient Occlusion",
+  "distanthorizons.config.client.advanced.graphics.ssao.enabled.@tooltip": "Затінення навколишнього середовища додає глибину до освітлення блоків.",
+  "distanthorizons.config.client.advanced.graphics.ssao.sampleCount": "Кількість вибірок",
+  "distanthorizons.config.client.advanced.graphics.ssao.sampleCount.@tooltip": "Визначає, скільки точок у просторі буде взято для тесту на оклюзію. \n\nВищі значення покращують якість і зменшують кількість смуг, але збільшують навантаження на графічний процесор.",
+  "distanthorizons.config.client.advanced.graphics.ssao.radius": "Радіус",
+  "distanthorizons.config.client.advanced.graphics.ssao.radius.@tooltip": "Визначає радіус екранного простору, до якого буде застосовано оклюзію оточення, вимірюється у блоках.",
+  "distanthorizons.config.client.advanced.graphics.ssao.strength": "Насиченість",
+  "distanthorizons.config.client.advanced.graphics.ssao.strength.@tooltip": "Визначає, наскільки темним буде ефект Screen Space Ambient Occlusion.",
+  "distanthorizons.config.client.advanced.graphics.ssao.bias": "Зсув",
+  "distanthorizons.config.client.advanced.graphics.ssao.bias.@tooltip": "Збільшення значення може зменшити смугастість за рахунок зменшення сили ефекту.",
+  "distanthorizons.config.client.advanced.graphics.ssao.minLight": "Min Light (Мінімальне світло)",
+  "distanthorizons.config.client.advanced.graphics.ssao.minLight.@tooltip": "Визначає, наскільки темними можуть бути тіні оклюзії. \n0 = повністю чорні в кутах \n1 = без тіні",
+  "distanthorizons.config.client.advanced.graphics.ssao.blurRadius": "Радіус розмиття",
+  "distanthorizons.config.client.advanced.graphics.ssao.blurRadius.@tooltip": "Радіус, виміряний у пікселях, який розмивається, обчислюється для SSAO. \n\nВищі значення зменшують розмиття за рахунок продуктивності графічного процесора.",
+
+
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog": "Параметри туману висоти",
+ 
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogMixMode": "Режим змішування туману за висотою",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogMixMode.@tooltip": "Як висота має впливати на товщину туману у поєднанні зі звичайною функцією? \n\nБАЗОВИЙ: Немає спеціального ефекту туману за висотою. Туман розраховується на основі відстані до камери \n\nIGNORE_HEIGHT: Повністю ігнорувати висоту. Туман обчислюється на основі горизонтальної відстані \nДОДАВАННЯ: heightFog + farFog \nMAX: max(heightFog, farFog) \nMULTIPLY: heightFog * farFog \nINVERSE_MULTIPLY: 1 - (1-heightFog) * (1-farFog) \nLIMITED_ADDITION: farFog + max(farFog, heightFog) \nMULTIPLY_ADDITION: farFog + farFog * heightFog \nINVERSE_MULTIPLY_ADDITION: farFog + 1 - (1-heightFog) * (1-farFog) \nAVERAGE: farFog*0. 5 + heightFog*0.5 \n\nЗверніть увагу, що для режимів 'BASIC' та 'IGNORE_HEIGHT' налаштування туману для висотного туману не впливають.\n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogMode": "Режим туману висоти",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogMode.@tooltip": "Де має бути розташований туман висоти? \n\nНАД КАМЕРОЮ: висотний туман починається від камери до неба \nПІД КАМЕРОЮ: висотний туман починається від камери до порожнечі \nНАД_І_ПІД_КАМЕРОЮ: висотний туман починається від камери і до неба, і до порожнечі \nНАД_ВСТАНОВЛЕНОЮ_ВИСОТОЮ: висотний туман починається від камери до неба і до порожнечі \nНАД_ВСТАНОВЛЕНОЮ_ВИСОТОЮ: Висотний туман починається від заданої висоти до неба \nBELOW_SET_HEIGHT: Висотний туман починається від заданої висоти до порожнечі \nABOVE_AND_BELOW_SET_HEIGHT: Висотний туман починається від заданої висоти до неба та порожнечі \n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogBaseHeight": "Базова висота висотного туману",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogBaseHeight.@tooltip": "Якщо висотний туман обчислюється навколо заданої висоти, як називається це положення висоти? ",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogStart": "Початок висотного туману",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogStart.@tooltip": "Як далеко має бути зміщений початок висотного туману? \n\n '0.0': Початок туману без зміщення.\n '1.0': Початок туману зі зміщенням на всю висоту світу. (Включно з глибиною)\n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogEnd": "Кінець туману висоти",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogEnd.@tooltip": "Як далеко має зміщуватися кінець туману за висотою? \n\n '0.0': Кінець туману без зміщення.\n '1.0': Кінець туману зі зміщенням на всю висоту світу. (Включно з глибиною)\n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogMin": "Висота туману Min",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogMin.@tooltip": "Яка мінімальна товщина туману? \n\n '0.0': Зовсім без туману.\n '1.0': Повний колір туману.\n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogMax": "Висота туману Макс",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogMax.@tooltip": "Яка максимальна товщина туману? \n\n '0.0': Зовсім без туману.\n '1.0': Повний колір туману.\n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogFalloff": "Опадання туману по висоті",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogFalloff.@tooltip": "Як розраховувати товщину туману за висотою? \n\nLINEAR: Лінійно на основі висоти (ігнорує 'густину')\nEXPONENTIAL: 1/(e^(height*density)) \nEXPONENTIAL_SQUARED: 1/(e^((висота*щільність)^2) \n",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogDensity": "Густина висотного туману",
+  "distanthorizons.config.client.advanced.graphics.fog.advancedFog.heightFog.heightFogDensity.@tooltip": "Яка щільність туману за висотою? ",
+
+
+  "distanthorizons.config.client.advanced.graphics.noiseTextureSettings": "Текстура шуму",
+
+  "distanthorizons.config.client.advanced.graphics.noiseTextureSettings.noiseEnabled": "Увімкнути текстуру шуму",
+  "distanthorizons.config.client.advanced.graphics.noiseTextureSettings.noiseEnabled.@tooltip": "Якщо увімкнено, до LOD'ів буде застосовано шумову текстуру для імітації текстур.",
+  "distanthorizons.config.client.advanced.graphics.noiseTextureSettings.noiseSteps": "Крок шуму",
+  "distanthorizons.config.client.advanced.graphics.noiseTextureSettings.noiseSteps.@tooltip": "Визначає, скільки кроків шуму буде застосовано до LOD.",
+  "distanthorizons.config.client.advanced.graphics.noiseTextureSettings.noiseIntensity": "Інтенсивність шуму",
+  "distanthorizons.config.client.advanced.graphics.noiseTextureSettings.noiseIntensity.@tooltip": "Визначає інтенсивність текстури шуму.",
+  "distanthorizons.config.client.advanced.graphics.noiseTextureSettings.noiseDropoff": "Відступ шуму",
+  "distanthorizons.config.client.advanced.graphics.noiseTextureSettings.noiseDropoff.@tooltip": "Визначає, наскільки далеко має простягатися текстура шуму, перш ніж вона зникне. (у блоках). \n\nВстановіть значення 0, щоб вимкнути зникання шуму.",
+
+
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics": "Додаткові параметри графіки",
+
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.overdrawPrevention": "Запобігання перемальовуванню",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.overdrawPrevention.@tooltip": "Увімкнення цього параметра запобігатиме деяким проблемам із перемальовуванням,\nале може призвести до неправильного зображування сусідніх LOD, особливо поблизу вигадливого листя або неповних блоків.\nМенш помітно при більшій відстані ванільного зображування.",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.seamlessOverdraw": "(Експериментально) Безшовне перемальовування",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.seamlessOverdraw.@tooltip": "Експериментальна опція, яка намагатиметься узгодити площини ближнього/дальнього кліпу \nDistant Horizons та Minecraft, \nзменшуючи перемальовування. \n\nПримітка: працює лише з Fabric.",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.brightnessMultiplier": "Множник яскравості",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.brightnessMultiplier.@tooltip": "Наскільки яскравими є кольори LOD.\n\n0 = чорний \n1 = нормальний \n2 = майже білий",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.saturationMultiplier": "Множник насиченості",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.saturationMultiplier.@tooltip": "Наскільки насиченими є кольори LOD.\n\n0 = чорно-білий \n1 = нормальний \n2 = яскравий",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.enableCaveCulling": "Відсіювання печер",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.enableCaveCulling.@tooltip": "Якщо увімкнено, печери буде вилучено \n\nДодаткова інформація: Наразі ця опція вилучає усі грані \n зі значенням світлового ліхтаря 0 під висотою вилучення печер у вимірах, які \n не мають стелі. \n",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.caveCullingHeight": "Висота відбраковування печер",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.caveCullingHeight.@tooltip": "При якому значенні Y слід починати вибраковування печер?",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.earthCurveRatio": "Коефіцієнт кривизни земної поверхні §6(ЕКСПЕРИМЕНТАЛЬНИЙ)§r",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.earthCurveRatio.@tooltip": "Значення 1 еквівалентне кривизні Землі у реальному житті. \n\nМінімальне допустиме значення - 50, максимальне - 5000. \n\nУсе значення від 1 до 49 буде округлено до 50.",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.lodBias": "LOD Bias §6(Впливає на ванільний ландшафт)§r",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.lodBias.@tooltip": "Встановлює значення зсуву лода для ванілі\nПерезавантажте пакунки текстур і застосуйте цей ефект, натиснувши F3+T.",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.lodShading": "Затінення LOD",
+  "distanthorizons.config.client.advanced.graphics.advancedGraphics.lodShading.@tooltip": "Визначає спосіб затінення LOD'ів. \n\nМоже використовуватися для покращення сумісності шейдерів.",
+  
+  
+  "distanthorizons.config.client.advanced.worldGenerator": "Генератор світу",
+
+  "distanthorizons.config.client.advanced.worldGenerator.enableDistantGeneration": "Увімкнути генерацію віддаленого світу",
+  "distanthorizons.config.client.advanced.worldGenerator.enableDistantGeneration.@tooltip": "§6Так:§r в одиночній грі LOD генеруватимуться за межами стандартної відстані зображування.\nПримітка: це може використовувати велику кількість процесорних ресурсів.\n\n§6Ні:§r LOD генеруватимуться лише в межах стандартної відстані зображування.",
+  "distanthorizons.config.client.advanced.worldGenerator.distantGeneratorMode": "Режим генератора відстані",
+  "distanthorizons.config.client.advanced.worldGenerator.distantGeneratorMode.@tooltip": "Наскільки складною має бути генерація LOD за межами ванільної відстані зображування.\n\n§6§6Швидше:§r Тільки біом\n§6Найкраща якість:§r Функції (запропоновано)",
+  "distanthorizons.config.client.advanced.worldGenerator.worldGenLightingEngine": "Рушій освітлення",
+  "distanthorizons.config.client.advanced.worldGenerator.worldGenLightingEngine.@tooltip": "§6Minecraft:§r використовувати рушій освітлення Minecraft, дає точне освітлення.\n§6Distant Horizons:§r оцінює освітлення, тіні будуть не такими плавними, але стабільнішими.\n\nЯкщо LOD виглядають чорними, встановіть цей параметр на §6Distant Horizons§r.",
+  "distanthorizons.config.client.advanced.worldGenerator.worldGenerationTimeoutLengthInSeconds": "Тривалість таймауту у секундах",
+  "distanthorizons.config.client.advanced.worldGenerator.worldGenerationTimeoutLengthInSeconds.@tooltip": "Як довго має працювати потік генератора світу до завершення роботи за тайм-аутом? \n\nПримітка: Якщо у вас виникають помилки тайм-ауту, краще спочатку зменшити використання процесора за допомогою конфігурації потоку, перш ніж змінювати це значення.",
+  "distanthorizons.config.client.advanced.worldGenerator.generationPriority": "Пріоритет генерації",
+  "distanthorizons.config.client.advanced.worldGenerator.generationPriority.@tooltip": "Пріоритет для фрагментів, що генеруються навколо гравця.",
+
+
+  "distanthorizons.config.client.advanced.lodBuilding": "Побудова лода",
+
+  "distanthorizons.config.client.advanced.lodBuilding.minTimeBetweenChunkUpdatesInSeconds": "Мінімальний час між оновленнями чанків у секундах",
+  "distanthorizons.config.client.advanced.lodBuilding.minTimeBetweenChunkUpdatesInSeconds.@tooltip": "Визначає, скільки часу повинно пройти між оновленнями LOD-чанка перед наступним. \n\nЗбільшення цього значення зменшить навантаження на процесор, але може призвести до того, що LOD застаріватимуть частіше або довше.",
+  "distanthorizons.config.client.advanced.lodBuilding.onlyUseDhLightingEngine": "Використовувати лише рушій освітлення DH",
+  "distanthorizons.config.client.advanced.lodBuilding.onlyUseDhLightingEngine.@tooltip": "Якщо це значення встановлено, то хибні LOD будуть підсвічуватися рушієм освітлення Minecraft, коли це можливо \nі повертатися до рушія освітлення DH лише за необхідності. \n\nЯкщо справжні LOD будуть освітлюватися лише за допомогою рушія освітлення Distant Horizons. \n\nЗазвичай краще залишити цю опцію вимкненою і вмикати її лише у випадку проблем з освітленням або для налагодження.",
+  
+
+  "distanthorizons.config.client.advanced.multiplayer": "Багатокористувацький режим",
+
+  "distanthorizons.config.client.advanced.multiplayer.serverFolderNameMode": "Режим теки сервера",
+  "distanthorizons.config.client.advanced.multiplayer.serverFolderNameMode.@tooltip": "Визначає формат теки для локальних даних багатокористувацького сервера.\n\n§6Тільки назва:\r\nВикористовується назва браузера сервера. Наприклад: \"Minecraft Server\"\n§6Name IP:§r\n\"Minecraft Server, IP 192.168.1.40\"\n§6Name, IP, Port:§r\n\"Minecraft Server, IP 192.168.1. 40:25565\"\n§6Ім'я, IP, Порт, Версія MC:§r\n\"Minecraft Server, IP 192.168.1.40:25565, GameVersion 1.18.1\"\n\n§c§lПопередження:§r зміна під час підключення до багатокористувацького сервера може викликати збої.",
+  "distanthorizons.config.client.advanced.multiplayer.multiverseSimilarityRequiredPercent": "Необхідний відсоток схожості між світами",
+  "distanthorizons.config.client.advanced.multiplayer.multiverseSimilarityRequiredPercent.@tooltip": "При зіставленні світів одного типу виміру тестовані фрагменти повинні бути принаймні на цей відсоток однаковими, щоб вважатися одним і тим самим світом.\n\nПримітка: Якщо ви використовуєте портали для входу у вимір у двох різних місцях, система може подумати, що це два різні світи. \n\n§61.0:§r фрагменти мають бути однаковими.\n§60.5:§r фрагменти мають бути наполовину однаковими.\n§60.0:§r вимикає підтримку багатовимірності\n у кожному вимірі використовуватиметься лише один світ.",
+  "distanthorizons.config.client.advanced.multiplayer.enableMultiverseNetworking": "Підтримка мережевих багатовимірних світів",
+  "distanthorizons.config.client.advanced.multiplayer.enableMultiverseNetworking.@tooltip": "Якщо встановлено, Distant Horizons намагатиметься встановити зв'язок з підключеним \nсервером для покращення підтримки багатовимірності.",
+  "distanthorizons.config.client.advanced.multiplayer.enableServerNetworking": "§4Не реалізовано, лише для використання розробниками§r - Підтримка сервера",
+  "distanthorizons.config.client.advanced.multiplayer.enableServerNetworking.@tooltip": "§6Увага:§r ця функція призначена лише для розробників і не була реалізована. \n\nЯкщо це так, Distant Horizons намагатиметься зв'язатися з підключеним \nсервером, щоб завантажити LOD за межами вашої відстані рендерингу у ванілі. \n\nПримітка: Для роботи цього методу на сервері має бути встановлено DH.",
+  
+  
+  
+  "distanthorizons.config.client.advanced.multiБагатопотоковість": "Багатопотоковість",
+
+  "distanthorizons.config.client.advanced.multiThreading.numberOfWorldGenerationThreads": "КІЛЬКІСТЬ потоків генерації світу",
+  "distanthorizons.config.client.advanced.multiThreading.numberOfWorldGenerationThreads.@tooltip": "Скільки потоків слід використовувати для генерації LOD за межами звичайної відстані зображування? Якщо ви відчуваєте заїкання під час генерації віддалених LOD, \nзменшіть цю кількість. Якщо ви хочете збільшити швидкість генерації LOD, збільште це значення.",
+  "distanthorizons.config.client.advanced.multiThreading.runTimeRatioForWorldGenerationThreads": "Час виконання % для потоків генерації світу",
+  
+  "distanthorizons.config.client.advanced.multiThreading.numberOfBufferBuilderThreads": "К-сть потоків побудови буферів",
+  "distanthorizons.config.client.advanced.multiThreading.numberOfBufferBuilderThreads.@tooltip": "Кількість потоків, що використовуються при побудові даних геометрії. \n\nМоже бути лише між 1 та кількістю процесорів вашого процесора.",
+  "distanthorizons.config.client.advanced.multiThreading.runTimeRatioForBufferBuilderThreads": "Час виконання у % для потоків будівельника буферів",
+  
+  "distanthorizons.config.client.advanced.multiThreading.numberOfFileHandlerThreads": "Кількість потоків обробників файлів",
+  "distanthorizons.config.client.advanced.multiThreading.numberOfFileHandlerThreads.@tooltip": "Кількість потоків, що використовуються при побудові буферів вершин \n(Те, що надсилається до вашого графічного процесора для малювання LOD). \n\nМоже бути лише між 1 та кількістю процесорів вашого CPU.",
+  "distanthorizons.config.client.advanced.multiThreading.runTimeRatioForFileHandlerThreads": "Час виконання % для потоків обробників файлів",
+  
+  "distanthorizons.config.client.advanced.multiThreading.numberOfLodBuilderThreads": "К-сть потоків будівника LOD",
+  "distanthorizons.config.client.advanced.multiThreading.numberOfLodBuilderThreads.@tooltip": "Кількість потоків, що використовуються при побудові LOD. \n\nЦі потоки запускаються під час генерації рельєфу, зміни певних налаштувань графіки та переміщення по світу.",
+  "distanthorizons.config.client.advanced.multiThreading.runTimeRatioForLodBuilderThreads": "Час виконання % для потоків будівника LOD",
+  "distanthorizons.config.client.advanced.multiThreading.enableLodBuilderThreadLimiting": "Увімкнути обмеження потоків будівника LOD",
+  "distanthorizons.config.client.advanced.multiThreading.enableLodBuilderThreadLimiting.@tooltip": "Має бути вимкнено лише у випадку, якщо виникає глухий кут і LOD відмовляються оновлюватися. \n\nЦе призведе до значного збільшення використання процесора для потоків збирача LOD. \n\nЗауважте, що у разі виникнення глухого кута може знадобитися перезапуск MC для зупинки заблокованих потоків.",
+  
+  
+  "distanthorizons.config.client.advanced.debugging": "Налагодження",
+
+  "distanthorizons.config.client.advanced.debugging.rendererMode": "Режим візуалізації",
+  "distanthorizons.config.client.advanced.debugging.debugRendering": "Налагоджувальний візуалізатор",
+  "distanthorizons.config.client.advanced.debugging.debugMode.@tooltip": "Активний режим налагодження.",
+  "distanthorizons.config.client.advanced.debugging.renderWireframe": "Відображати каркас",
+  "distanthorizons.config.client.advanced.debugging.renderWireframe.@tooltip": "Якщо увімкнено, LODs будуть рендеритися як каркасні.",
+  "distanthorizons.config.client.advanced.debugging.enableDebugKeybindings": "Увімкнути налагоджувальні сполучення клавіш",
+  "distanthorizons.config.client.advanced.debugging.enableDebugKeybindings.@tooltip": "§6Так:§r debug keybindings can be used to change the Debug mode in game.", 
+  "distanthorizons.config.client.advanced.debugging.lodOnlyMode": "Рендерувати лише LOD'и",
+  "distanthorizons.config.client.advanced.debugging.lodOnlyMode.@tooltip": "Якщо увімкнено, це вимкне (більшу частину) ванільного рендерингу Minecraft. \n\nПРИМІТКА: Не повідомляйте про будь-які проблеми, коли цей режим увімкнено! \n\nЦей параметр призначено лише для розваги та налагодження. \n\nСумісність з іншими модами не гарантується.",
+  "distanthorizons.config.client.advanced.debugging.enableWhiteWorld": "Увімкнути білий світ",
+  "distanthorizons.config.client.advanced.debugging.enableWhiteWorld.@tooltip": "Якщо увімкнено, колір вершини не передаватиметься.\nВикористовується для налагодження шейдерів.",
+  "distanthorizons.config.client.advanced.debugging.allowUnsafeValues": "Дозволити небезпечні значення інтерфейсу користувача",
+  "distanthorizons.config.client.advanced.debugging.allowUnsafeValues.@tooltip": "Якщо увімкнено, буде виконано дуже обмежену перевірку вводу конфігурації. \n\nПопередження: увімкнення цього параметра може спричинити нестабільність або аварійне завершення роботи, використовуйте його на власний ризик. \n\nПримітка: цей параметр не зберігається між сеансами.",
+  
+
+  "distanthorizons.config.client.advanced.buffers": "Буфери",
+  "distanthorizons.config.client.advanced.buffers.gpuUploadMethod": "Метод завантаження на GPU",
+  "distanthorizons.config.client.advanced.buffers.gpuUploadMethod.@tooltip": "Метод завантаження геометрії до графічного процесора.\n\nЯкщо ви відчуваєте заїкання під час низького завантаження центрального та графічного процесорів, спробуйте змінити цей параметр.\nПримітка: якщо ви перебуваєте у світі, можливо, вам доведеться вийти з нього і повернутися, щоб побачити повний ефект.",
+  "distanthorizons.config.client.advanced.buffers.gpuUploadPerMegabyteInMilliseconds": "Швидкість завантаження на GPU (мілісекунди)",
+  "distanthorizons.config.client.advanced.buffers.gpuUploadPerMegabyteInMilliseconds.@tooltip": "Скільки часу має чекати буфер на кожен мегабайт завантажених даних?\nМоже бути збільшено, якщо є заїкання кадрів.",
+  "distanthorizons.config.client.advanced.buffers.gpuUploadAsync": "Асинхронне завантаження на GPU",
+  "distanthorizons.config.client.advanced.buffers.gpuUploadAsync.@tooltip": "Якщо істинні дані геометрії будуть завантажуватися на потік, керований DH, зменшуючи заїкання FPS. \n\nЯкщо значення Ні, дані будуть вивантажуватися на основний потік рендерингу Minecraft. \n\nВстановлення значення Ні може зменшити кількість збоїв або пошкодженої геометрії на системах з графічним процесором AMD, коли встановлено Sodium.",
+  
+  
+  
+  "distanthorizons.config.client.advanced.autoUpdater": "Автоматичне оновлення",
+  "distanthorizons.config.client.advanced.autoUpdater.enableAutoUpdater": "Увімкнути автоматичне оновлення",
+  "distanthorizons.config.client.advanced.autoUpdater.enableSilentUpdates": "Увімкнути безшумні оновлення",
+  "distanthorizons.config.client.advanced.autoUpdater.enableSilentUpdates.@tooltip": "Автоматично оновлювати мод, коли доступне оновлення",
+  "distanthorizons.config.client.advanced.autoUpdater.updateBranch": "Гілка оновлень",
+  "distanthorizons.config.client.advanced.autoUpdater.updateBranch.@tooltip": "Звідки завантажити останнє оновлення.\n\nСтабільні: Стабільні збірки від Modrinth\n\nNightly: Нічні збірки з Gitlab",
+
+  "distanthorizons.config.client.advanced.logging": "Ведення журналу",
+  "distanthorizons.config.client.advanced.logging.@tooltip": "Дозволяє керувати веденням журналу.",
+
+  "distanthorizons.config.client.advanced.logging.logWorldGenEvent": "Події світового генератора",
+  "distanthorizons.config.client.advanced.logging.logWorldGenPerformance": "Продуктивність світового генератора",
+  "distanthorizons.config.client.advanced.logging.logWorldGenLoadEvent": "Події завантаження World Gen",
+  "distanthorizons.config.client.advanced.logging.logLodBuilderEvent": "Події конструктора лодів",
+  "distanthorizons.config.client.advanced.logging.logRendererBufferEvent": "Події буферу візуалізатора",
+  "distanthorizons.config.client.advanced.logging.logRendererGLEvent": "Події OpenGL",
+  "distanthorizons.config.client.advanced.logging.logFileReadWriteEvent": "Події читання/запису файлів",
+  "distanthorizons.config.client.advanced.logging.logFileSubDimEvent": "Події підвиміру файлу",
+  "distanthorizons.config.client.advanced.logging.logNetworkEvent": "Мережеві події",
+
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen": "Екран налагодження конфігурації",
+
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.debugConfigScreenNote": "Цей екран призначений для налагодження функцій екрана конфігурації",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.boolTest": "Булевий тест",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.byteTest": "Байтовий тест",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.intTest": "Цілочисельний тест",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.doubleTest": "Подвійний тест",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.shortTest": "Короткий тест",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.longTest": "Довгий тест",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.floatTest": "Тест з плаваючою комою",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.stringTest": "Рядковий тест",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.uiButtonTest": "Тест кнопок інтерфейсу",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.listTest": "Тест списків (ArrayList)",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.mapTest": "Тест карти (HashMap)",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.categoryTest": "Тест категорій",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.linkableTest": "Тест посилань",
+  "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.linkableTest.@tooltip": "Значення цього параметра повинно бути таким же, як і в тесті категорій",
+  
+  
+  "distanthorizons.config.client.advanced.debugging.debugWireframe": "Налагодження фреймворку",
+  
+  "distanthorizons.config.client.advanced.debugging.debugWireframe.enableRendering": "Увімкнути візуалізацію налагоджувальних каркасів",
+  "distanthorizons.config.client.advanced.debugging.debugWireframe.enableRendering.@tooltip": "Якщо увімкнено, будуть намальовані різні каркасні схеми для налагодження внутрішніх функцій.",
+  "distanthorizons.config.client.advanced.debugging.debugWireframe.showWorldGenQueue": "Показати світову чергу генерації",
+  "distanthorizons.config.client.advanced.debugging.debugWireframe.showRenderSectionStatus": "Показати стан секції рендерингу",
+  "distanthorizons.config.client.advanced.debugging.debugWireframe.showFullDataFileStatus": "Показати стан повного файлу даних",
+  "distanthorizons.config.client.advanced.debugging.debugWireframe.showFullDataFileSampling": "Показати вибірку повного файлу даних",
+  "distanthorizons.config.client.advanced.debugging.debugWireframe.showRenderDataFileStatus": "Показати стан файлу даних візуалізації",
+
+
+  "distanthorizons.config.client.advanced.debugging.openGl": "Відкрити GL",
+
+  "distanthorizons.config.client.advanced.debugging.openGl.overrideVanillaGLLogger": "Перевизначити ванільний логгер GL",
+  "distanthorizons.config.client.advanced.debugging.openGl.overrideVanillaGLLogger.@tooltip": "Визначає спосіб обробки помилок OpenGL. \n\nПотребує перезавантаження Minecraft для застосування. \n\nМоже некоректно перехоплювати помилки OpenGL, спричинені іншими модами.",
+  "distanthorizons.config.client.advanced.debugging.openGl.glErrorHandlingMode": "Режим обробки помилок OpenGL",
+  "distanthorizons.config.client.advanced.debugging.openGl.glErrorHandlingMode.@tooltip": "Визначає спосіб обробки помилок OpenGL. \n\nПотребує перезавантаження Minecraft для застосування. \n\nМоже некоректно перехоплювати помилки OpenGL, спричинені іншими модами.",
+
+  "distanthorizons.config.client.advanced.debugging.openGl.glContextMajorVersion": "Основна версія OpenGL",
+  "distanthorizons.config.client.advanced.debugging.openGl.glContextMajorVersion.@tooltip": "Потребує перезавантаження Minecraft для застосування. \n\nБільш детальна інформація доступна у файлі конфігурації.",
+  "distanthorizons.config.client.advanced.debugging.openGl.glContextMinorVersion": "OpenGL Minor Version",
+  "distanthorizons.config.client.advanced.debugging.openGl.glContextMinorVersion.@tooltip": "Потребує перезавантаження Minecraft для застосування. \n\nБільш детальну інформацію можна знайти у файлі конфігурації.",
+
+  "distanthorizons.config.client.advanced.debugging.openGl.glProfileMode": "Режим профілю OpenGL",
+  "distanthorizons.config.client.advanced.debugging.openGl.glProfileMode.@tooltip": "Потребує перезавантаження Minecraft для застосування. \n\nБільш детальну інформацію можна знайти у файлі конфігурації.",
+  "distanthorizons.config.client.advanced.debugging.openGl.enableGlForwardCompatibilityMode": "Увімкнути режим прямої сумісності OpenGL",
+  "distanthorizons.config.client.advanced.debugging.openGl.enableGlForwardCompatibilityMode.@tooltip": "Потребує перезавантаження Minecraft для застосування. \n\nБільш детальну інформацію можна знайти у файлі конфігурації.",
+  "distanthorizons.config.client.advanced.debugging.openGl.enableGlDebugContext": "Увімкнути контекст налагодження OpenGL",
+  "distanthorizons.config.client.advanced.debugging.openGl.enableGlDebugContext.@tooltip": "Потребує перезавантаження Minecraft для застосування. \n\nБільш детальну інформацію можна знайти у файлі конфігурації.",
+
+  
+  "distanthorizons.config.client.resetSettingsConfirmation": "Скинути всі налаштування?",
+  
+  "distanthorizons.config.client.resetSettingsConfirmation.resetConfirmationNote": "Ви впевнені? Це не може бути скасовано.",
+  "distanthorizons.config.client.resetSettingsConfirmation.resetAllSettings": "Скинути всі налаштування",
+  
+
+
+  "distanthorizons.config.enum.EQualityPreset.CUSTOM": "Користувацькі",
+  "distanthorizons.config.enum.EQualityPreset.MINIMUM": "Мінімальний",
+  "distanthorizons.config.enum.EQualityPreset.LOW": "Низький",
+  "distanthorizons.config.enum.EQualityPreset.MEDIUM": "Середній",
+  "distanthorizons.config.enum.EQualityPreset.HIGH": "Високий",
+  "distanthorizons.config.enum.EQualityPreset.EXTREME": "Екстремальний",
+
+  "distanthorizons.config.enum.EThreadPreset.CUSTOM": "Нестандартний",
+  "distanthorizons.config.enum.EThreadPreset.MINIMAL_IMPACT": "Мінімальний вплив",
+  "distanthorizons.config.enum.EThreadPreset.LOW_IMPACT": "Низький вплив",
+  "distanthorizons.config.enum.EThreadPreset.BALANCED": "Збалансований",
+  "distanthorizons.config.enum.EThreadPreset.AGGRESSIVE": "Агресивний",
+  "distanthorizons.config.enum.EThreadPreset.I_PAID_FOR_THE_WHOLE_CPU": "Я заплатив за весь процесор",
+
+  "distanthorizons.config.enum.EMaxHorizontalResolution.BLOCK": "Блок",
+  "distanthorizons.config.enum.EMaxHorizontalResolution.TWO_BLOCKS": "2 блоки",
+  "distanthorizons.config.enum.EMaxHorizontalResolution.FOUR_BLOCKS": "4 блоки",
+  "distanthorizons.config.enum.EMaxHorizontalResolution.HALF_CHUNK": "Половина блоку",
+  "distanthorizons.config.enum.EMaxHorizontalResolution.CHUNK": "Шматок",
+
+  "distanthorizons.config.enum.EVerticalQuality.HEIGHT_MAP": "Карта висот",
+  "distanthorizons.config.enum.EVerticalQuality.LOW": "Низька",
+  "distanthorizons.config.enum.EVerticalQuality.MEDIUM": "Середня",
+  "distanthorizons.config.enum.EVerticalQuality.HIGH": "Висока",
+  "distanthorizons.config.enum.EVerticalQuality.EXTREME": "Екстремальний",
+  "distanthorizons.config.enum.EHorizontalQuality.LOWEST": "Найнижчий",
+  "distanthorizons.config.enum.EHorizontalQuality.LOW": "Низький",
+  "distanthorizons.config.enum.EHorizontalQuality.MEDIUM": "Середній",
+  "distanthorizons.config.enum.EHorizontalQuality.HIGH": "Високий",
+  "distanthorizons.config.enum.EHorizontalQuality.EXTREME": "Екстремальний",
+  "distanthorizons.config.enum.EHorizontalQuality.UNLIMITED": "Необмежений",
+
+  "distanthorizons.config.enum.ETransparency.DISABLED": "Інваліди",
+  "distanthorizons.config.enum.ETransparency.FAKE": "Несправжній",
+  "distanthorizons.config.enum.ETransparency.COMPLETE": "Повна",
+
+  "distanthorizons.config.enum.EFogDistance.NEAR": "Близький",
+  "distanthorizons.config.enum.EFogDistance.FAR": "Далеко",
+  "distanthorizons.config.enum.EFogDistance.NEAR_AND_FAR": "Близько і далеко",
+
+  "distanthorizons.config.enum.EFogDrawMode.USE_OPTIFINE_SETTING": "Використовувати змінені налаштування",
+  "distanthorizons.config.enum.EFogDrawMode.FOG_ENABLED": "Увімкнено",
+  "distanthorizons.config.enum.EFogDrawMode.FOG_DISABLED": "Вимкнено",
+  "distanthorizons.config.enum.EFogColorMode.USE_WORLD_FOG_COLOR": "Використовувати світовий туман",
+  "distanthorizons.config.enum.EFogColorMode.USE_SKY_COLOR": "Використовувати колір неба",
+
+  "distanthorizons.config.enum.EFogFalloff.LINEAR": "Лінійний",
+  "distanthorizons.config.enum.EFogFalloff.EXPONENTIAL": "Експоненціальний",
+  "distanthorizons.config.enum.EFogFalloff.EXPONENTIAL_SQUARED": "Експоненціальний в квадраті",
+
+  "distanthorizons.config.enum.EHeightFogMixMode.BASIC": "Базовий",
+  "distanthorizons.config.enum.EHeightFogMixMode.IGNORE_HEIGHT": "Ігнорувати висоту",
+  "distanthorizons.config.enum.EHeightFogMixMode.ADDITION": "Додавання",
+  "distanthorizons.config.enum.EHeightFogMixMode.MAX": "Максимальний",
+  "distanthorizons.config.enum.EHeightFogMixMode.MULTIPLY": "Множення",
+  "distanthorizons.config.enum.EHeightFogMixMode.INVERSE_MULTIPLY": "Зворотне множення",
+  "distanthorizons.config.enum.EHeightFogMixMode.LIMITED_ADDITION": "Обмежене додавання",
+  "distanthorizons.config.enum.EHeightFogMixMode.MULTIPLY_ADDITION": "Додавання з множенням",
+  "distanthorizons.config.enum.EHeightFogMixMode.INVERSE_MULTIPLY_ADDITION": "Зворотне множення Додавання",
+  "distanthorizons.config.enum.EHeightFogMixMode.AVERAGE": "Середнє",
+
+  "distanthorizons.config.enum.EHeightFogMode.ABOVE_CAMERA": "Над камерою",
+  "distanthorizons.config.enum.EHeightFogMode.BELOW_CAMERA": "Під камерою",
+  "distanthorizons.config.enum.EHeightFogMode.ABOVE_AND_BELOW_CAMERA": "Над і під камерою",
+  "distanthorizons.config.enum.EHeightFogMode.ABOVE_SET_HEIGHT": "Вище заданої висоти",
+  "distanthorizons.config.enum.EHeightFogMode.BELOW_SET_HEIGHT": "Нижче встановленої висоти",
+  "distanthorizons.config.enum.EHeightFogMode.ABOVE_AND_BELOW_SET_HEIGHT": "Вище та нижче встановленої висоти",
+
+  "distanthorizons.config.enum.EVanillaOverdraw.NEVER": "Ніколи",
+  "distanthorizons.config.enum.EVanillaOverdraw.DYNAMIC": "Динамічний",
+  "distanthorizons.config.enum.EVanillaOverdraw.ALWAYS": "Завжди",
+
+  "distanthorizons.config.enum.EDhApiDistantGeneratorMode.NONE": "Тільки існуючі",
+  "distanthorizons.config.enum.EDhApiDistantGeneratorMode.PRE_EXISTING_ONLY": "Лише попередньо існуючі шматки",
+  "distanthorizons.config.enum.EDhApiDistantGeneratorMode.BIOME_ONLY": "Тільки біом",
+  "distanthorizons.config.enum.EDhApiDistantGeneratorMode.BIOME_ONLY_SIMULATE_HEIGHT": "Біом імітує лише висоту",
+  "distanthorizons.config.enum.EDhApiDistantGeneratorMode.SURFACE": "Поверхня",
+  "distanthorizons.config.enum.EDhApiDistantGeneratorMode.FEATURES": "Функції",
+  "distanthorizons.config.enum.EDhApiDistantGeneratorMode.FULL": "Повна",
+
+  "distanthorizons.config.enum.ELightGenerationMode.DISTANT_HORIZONS": "Далекі горизонти",
+  "distanthorizons.config.enum.ELightGenerationMode.MINECRAFT": "Minecraft",
+
+  "distanthorizons.config.enum.EGenerationPriority.AUTO": "Авто",
+  "distanthorizons.config.enum.EGenerationPriority.NEAR_FIRST": "Ближній перший",
+  "distanthorizons.config.enum.EGenerationPriority.BALANCED": "Збалансований",
+  "distanthorizons.config.enum.EGenerationPriority.FAR_FIRST": "Далекий перший",
+
+  "distanthorizons.config.enum.EBlocksToAvoid.NONE": "Немає",
+  "distanthorizons.config.enum.EBlocksToAvoid.NON_COLLIDING": "Без зіткнень",
+
+  "distanthorizons.config.enum.EOverdrawPrevention.NONE": "Немає",
+  "distanthorizons.config.enum.EOverdrawPrevention.LIGHT": "Легкий",
+  "distanthorizons.config.enum.EOverdrawPrevention.MEDIUM": "Середній",
+  "distanthorizons.config.enum.EOverdrawPrevention.HEAVY": "Важкі",
+
+  "distanthorizons.config.enum.EServerFolderNameMode.NAME_ONLY": "Тільки ім'я",
+  "distanthorizons.config.enum.EServerFolderNameMode.NAME_IP": "Ім'я та IP",
+  "distanthorizons.config.enum.EServerFolderNameMode.NAME_IP_PORT": "Ім'я, IP, порт",
+  "distanthorizons.config.enum.EServerFolderNameMode.NAME_IP_PORT_MC_VERSION": "Ім'я, IP, порт, версія MC",
+
+  "distanthorizons.config.enum.ERendererMode.DEFAULT": "Усталено",
+  "distanthorizons.config.enum.ERendererMode.DEBUG": "Налагодження",
+  "distanthorizons.config.enum.ERendererMode.DISABLED": "Вимкнено",
+
+  "distanthorizons.config.enum.EDebugRendering.OFF": "Вимкнено",
+  "distanthorizons.config.enum.EDebugRendering.SHOW_DETAIL": "Показати деталі",
+  "distanthorizons.config.enum.EDebugRendering.SHOW_GENMODE": "Показати режим генерації",
+  "distanthorizons.config.enum.EDebugRendering.SHOW_OVERLAPPING_QUADS": "Показати квадрати, що перекриваються",
+  "distanthorizons.config.enum.EDebugRendering.SHOW_RENDER_SOURCE_FLAG": "Показати прапорець джерела зображування",
+
+  "distanthorizons.config.enum.EGLErrorHandlingMode.IGNORE": "Ігнорувати",
+  "distanthorizons.config.enum.EGLErrorHandlingMode.LOG": "Лог",
+  "distanthorizons.config.enum.EGLErrorHandlingMode.LOG_THROW": "Log-Throw",
+
+  "distanthorizons.config.enum.EGlProfileMode.CORE": "Ядро",
+  "distanthorizons.config.enum.EGlProfileMode.COMPAT": "Compat",
+  "distanthorizons.config.enum.EGlProfileMode.ANY": "Будь-який",
+
+  "distanthorizons.config.enum.ELoggerMode.DISABLED": "Вимкнено",
+  "distanthorizons.config.enum.ELoggerMode.LOG_ALL_TO_FILE": "Файл: Все, Чат: Вимкнено",
+  "distanthorizons.config.enum.ELoggerMode.LOG_ERROR_TO_CHAT": "Файл: Все, Чат: Помилка",
+  "distanthorizons.config.enum.ELoggerMode.LOG_WARNING_TO_CHAT": "Файл: Все, Чат: Попередження",
+  "distanthorizons.config.enum.ELoggerMode.LOG_INFO_TO_CHAT": "Файл: Все, Чат: Інформація",
+  "distanthorizons.config.enum.ELoggerMode.LOG_DEBUG_TO_CHAT": "Файл: Все, Чат: Налагодження",
+  "distanthorizons.config.enum.ELoggerMode.LOG_ALL_TO_CHAT": "Файл: Всі, Чат: Всі",
+  "distanthorizons.config.enum.ELoggerMode.LOG_ERROR_TO_CHAT_AND_FILE": "Файл: Помилка, Чат: Помилка",
+  "distanthorizons.config.enum.ELoggerMode.LOG_WARNING_TO_CHAT_AND_FILE": "Файл: Попередження, Чат: Попередження",
+  "distanthorizons.config.enum.ELoggerMode.LOG_INFO_TO_CHAT_AND_FILE": "Файл: Інформація, Чат: Інформація",
+  "distanthorizons.config.enum.ELoggerMode.LOG_DEBUG_TO_CHAT_AND_FILE": "Файл: Налагодження, Чат: Налагодження",
+  "distanthorizons.config.enum.ELoggerMode.LOG_WARNING_TO_CHAT_AND_INFO_TO_FILE": "Файл: Інформація, Чат: Попередження",
+  "distanthorizons.config.enum.ELoggerMode.LOG_ERROR_TO_CHAT_AND_INFO_TO_FILE": "Файл: Інформація, Чат: Помилка",
+
+  "distanthorizons.config.enum.EGpuUploadMethod.AUTO": "Автоматично",
+  "distanthorizons.config.enum.EGpuUploadMethod.BUFFER_STORAGE": "Буферне сховище",
+  "distanthorizons.config.enum.EGpuUploadMethod.SUB_DATA": "Піддані",
+  "distanthorizons.config.enum.EGpuUploadMethod.BUFFER_MAPPING": "Відображення буфера",
+  "distanthorizons.config.enum.EGpuUploadMethod.DATA": "Дані",
+
+  "distanthorizons.config.enum.EBufferRebuildTimes.CONSTANT": "Постійні",
+  "distanthorizons.config.enum.EBufferRebuildTimes.FREQUENT": "Часті",
+  "distanthorizons.config.enum.EBufferRebuildTimes.NORMAL": "Нормальний",
+  "distanthorizons.config.enum.EBufferRebuildTimes.RARE": "Рідко",
+
+  "distanthorizons.config.enum.ELodShading.MINECRAFT": "Minecraft",
+  "distanthorizons.config.enum.ELodShading.OLD_LIGHTING": "Старе освітлення",
+  "distanthorizons.config.enum.ELodShading.NONE": "Немає",
+
+  "distanthorizons.config.enum.EUpdateBranch.STABLE": "Стабільне",
+  "distanthorizons.config.enum.EUpdateBranch.NIGHTLY": "Нічне"
+}

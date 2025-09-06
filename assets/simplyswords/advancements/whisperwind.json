@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:whisperwind"
+    },
+    "title": "Чуєш це?",
+    "description": "Знайдіть унікальну зброю - Шепіт вітру.",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:runic_weapon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:whisperwind"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

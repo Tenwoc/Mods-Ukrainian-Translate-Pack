@@ -1,0 +1,58 @@
+﻿{
+    "_comment": "--------------------------------------- EnderTanks en_us.json Localization ---------------------------------------!",
+    "_comment": "Keep file encoded with UTF-8 to support chat formatting http://minecraft.gamepedia.com/Formatting_codes",
+
+    "_comment": "------------------------------------------------------ MISC ------------------------------------------------------!",
+    "itemGroup.endertanks": "EnderTanks",
+
+    "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
+    "error.endertanks.bucket.nolink1": "Неможливо прив'язати відро, ви не є власником цієї скрині",
+    "error.endertanks.bucket.nolink2": "Неможливо прив'язати відро, власник скрині невідомий",
+    "error.endertanks.bucket.nolink3": "Неможливо прив'язати відро, ви не в одній команді",
+
+    "error.endertanks.tank.public.disabled": "Публічні балони вимкнено, щоб користуватися ними, їх потрібно покращити",
+    "error.endertanks.tank.private.disabled": "Створення приватних балонів вимкнено",
+    "error.endertanks.tank.team.disabled": "Створення командних балонів вимкнено",
+    "error.endertanks.tank.private.denied": "Тільки власник може виконати цю дію",
+    "error.endertanks.tank.team.denied": "Тільки члени команди можуть виконати цю дію",
+    "error.endertanks.tank.upgrade_used": "Цей предмет можна застосувати лише один раз до одного балону",
+    "error.endertanks.bucket.public.disabled": "Спільні відра вимкнено",
+    "error.endertanks.bucket.private.disabled": "Створення приватних відер вимкнено",
+    "error.endertanks.bucket.team.disabled": "Створення командних відер вимкнено",
+
+    "info.endertanks.bucket.mode.normal": "§7Режим:§o Звичайний (Підбирати, присісти для розміщення)",
+    "info.endertanks.bucket.mode.invert": "§7Режим:§o Інвертований (Розміщувати, присісти для підбирання)",
+    "info.endertanks.bucket.mode.pickup": "§7Режим:§o Лише підбирати",
+    "info.endertanks.bucket.mode.place": "§7Режим:§o Лише розміщувати",
+
+    "info.endertanks.bucket.header": "Відро",
+    "info.endertanks.tank.header": "Балон",
+    "info.endertanks.tank.empty": "Порожній",
+    "info.endertanks.tank.public": "Публічний",
+    "info.endertanks.tank.code": "Код:",
+    "info.endertanks.tank.capacity": "Ємність балону збільшена до",
+    "info.endertanks.tank.pump.upgrade": "Помпа покращена до",
+    "info.endertanks.tank.pump": "Помпа",
+
+    "_comment": "-------------------------------------------------- ITEMS/BLOCKS --------------------------------------------------!",
+    "item.endertanks.bucket.public": "Відро Енду",
+    "item.endertanks.bucket.private": "Відро Енду",
+    "item.endertanks.bucket.team": "Відро Енду",
+    "block.endertanks.tank.public": "Балон Енду",
+    "block.endertanks.tank.private": "Балон Енду",
+    "block.endertanks.tank.team": "Балон Енду",
+
+    "_comment": "------------------------------------------------ MOD INTEGRATION -------------------------------------------------!",
+    "hud.endertanks.server_data_missing": " §6⚠ §4Від сервера не отримано даних HUD §6⚠",
+
+    "config.jade.plugin_endertanks.hud": "Увімкнути плагін",
+    "config.jade.plugin_endertanks.hud.basic": "Власник та код",
+    "config.jade.plugin_endertanks.hud.contents": "Наявний вміст",
+    "config.jade.plugin_endertanks.hud.status": "Стан помпа та компаратора",
+
+    "info.endertanks.tank.type.fluid": "§3§oРідина:§r",
+    "info.endertanks.tank.type.mekanism.gas": "§3§oГаз Mekanism:§r",
+    "info.endertanks.tank.type.mekanism.infusion": "§3§oСуміш Mekanism:§r",
+    "info.endertanks.tank.type.mekanism.pigment": "§3§oПігмент Mekanism:§r",
+    "info.endertanks.tank.type.mekanism.slurry": "§3§oСуспензія Mekanism:§r"
+}

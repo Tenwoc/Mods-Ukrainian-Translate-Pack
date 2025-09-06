@@ -1,0 +1,45 @@
+{
+  "entity.oddorganisms.dawn_horse": "Світанковий кінь",
+  "entity.oddorganisms.doedicurus": "Доедикур",
+  "entity.oddorganisms.eolactoria": "Еолакторія",
+  "entity.oddorganisms.apthoroblattina": "Аптороблатина",
+  "entity.oddorganisms.leptictidium": "Лептицидій",
+  "entity.oddorganisms.borealopelta": "Бореолопельта",
+
+  "item.oddorganisms.dawn_horse_spawn_egg": "Яйце виклику світанкового коня",
+  "item.oddorganisms.doedicurus_spawn_egg": "Яйце виклику доедикура",
+  "item.oddorganisms.eolactoria_spawn_egg": "Яйце виклику еолакторії",
+  "item.oddorganisms.apthoroblattina_spawn_egg": "Яйце виклику аптороблатини",
+  "item.oddorganisms.leptictidium_spawn_egg": "Яйце виклику лептицидії",
+  "item.oddorganisms.borealopelta_spawn_egg": "Яйце виклику бореолопельти",
+
+  "item.oddorganisms.dawn_horse_flask": "Колба з ДНК світанкового коня",
+  "item.oddorganisms.doedicurus_flask": "Колба з ДНК доедикура",
+  "item.oddorganisms.eolactoria_flask": "Колба з ДНК еолакторії",
+  "item.oddorganisms.apthoroblattina_flask": "Колба з ДНК аптороблатини",
+  "item.oddorganisms.leptictidium_flask": "Колба з ДНК лептицидії",
+  "item.oddorganisms.borealopelta_flask": "Колба з ДНК бореолопельти",
+
+  "item.oddorganisms.dawn_horse_embryo": "Ембріон світанкового коня",
+  "item.oddorganisms.doedicurus_embryo": "Ембріон доедикура",
+  "item.oddorganisms.leptictidium_embryo": "Ембріон лептицидії",
+
+  "item.oddorganisms.apthoroblattina_ootheca": "Яєчник аптороблатини",
+
+  "item.oddorganisms.eolactoria_bucket": "Відро з еолакторією",
+
+  "item.oddorganisms.doedicurus_chestplate": "Нагрудник доедикура",
+  "item.oddorganisms.doedicurus_scute": "Щиток доедикура",
+
+  "block.oddorganisms.eolactoria_eggs": "Яйця еолакторії",
+
+  "itemGroup.oddorganisms": "Odd Organisms",
+
+  "oddorganisms.doedicurus.ambient": "Доедикур хрюкає",
+  "oddorganisms.doedicurus.hurt": "Доедикура поранено",
+  "oddorganisms.doedicurus.death": "Доедикур гине",
+  "oddorganisms.leptictidium.ambient": "Лептицидій пищить",
+  "oddorganisms.leptictidium.hurt": "Лептицидію поранено",
+  "oddorganisms.leptictidium.death": "Лептицидій гине",
+  "oddorganisms.leptictidium.scared": "Лептицидій скиглить"
+}

@@ -1,0 +1,145 @@
+{
+	"_": "Missing Localizations: 18",
+
+	"_": "->------------------------]  Game Elements  [------------------------<-",
+
+	"block.create_enchantment_industry.blaze_enchanter": "Пломеневий чарувальник",
+	"block.create_enchantment_industry.disenchanter": "Розчаровувач",
+	"block.create_enchantment_industry.ink": "Чорнило",
+	"block.create_enchantment_industry.printer": "Принтер",
+
+	"entity.create_enchantment_industry.hyper_experience_bottle": "Кинута неперевершена пляшечка чарів",
+	"entity.create_enchantment_industry.hyper_experience_orb": "Неперевершена кулька досвіду",
+
+	"fluid.create_enchantment_industry.experience": "Рідкий досвід",
+	"fluid.create_enchantment_industry.hyper_experience": "Рідкий неперевершений досвід",
+	"fluid.create_enchantment_industry.ink": "Чорнило",
+
+	"item.create_enchantment_industry.enchanting_guide": "Керівництво по зачаруванню",
+	"item.create_enchantment_industry.experience_rotor": "Ротор досвіду",
+	"item.create_enchantment_industry.hyper_experience_bottle": "Неперевершена пляшечка чарів",
+	"item.create_enchantment_industry.ink_bucket": "Відро чорнил",
+
+
+	"_": "->------------------------]  Advancements  [------------------------<-",
+
+	"advancement.create_enchantment_industry.experienced_engineer": "Досвідчений інженер",
+	"advancement.create_enchantment_industry.experienced_engineer.desc": "Отримайте шматочки досвіду, дроблячи руди або вбиваючи мобів за допомогою застосовувача",
+	"advancement.create_enchantment_industry.black_as_ink": "Чорний, як чорнило!",
+	"advancement.create_enchantment_industry.black_as_ink.desc": "Отримайте відро чорнил для свого видавничого бізнесу",
+	"advancement.create_enchantment_industry.copiable_masterpiece": "Шедевр копіювання",
+	"advancement.create_enchantment_industry.copiable_masterpiece.desc": "Скопіюйте написану книгу за допомогою принтера",
+	"advancement.create_enchantment_industry.copiable_mystery": "Таємниця, яку можна скопіювати",
+	"advancement.create_enchantment_industry.copiable_mystery.desc": "Скопіюйте Зачаровану книгу за допомогою принтера",
+	"advancement.create_enchantment_industry.relic_restoration": "Реставрація реліквій",
+	"advancement.create_enchantment_industry.relic_restoration.desc": "Зробіть нову копію з пошарпаної книги",
+	"advancement.create_enchantment_industry.emerging_brand": "Зростаючий бренд",
+	"advancement.create_enchantment_industry.emerging_brand.desc": "Перейменуйте предмет у принтері",
+	"advancement.create_enchantment_industry.great_publisher": "Чудовий видавець",
+	"advancement.create_enchantment_industry.great_publisher.desc": "Скопіюйте 1000 книг за допомогою принтера",
+	"advancement.create_enchantment_industry.experimental": "Досвіджений",
+	"advancement.create_enchantment_industry.experimental.desc": "Отримайте трохи рідкого досвіду для свого феєричного дослідження!",
+	"advancement.create_enchantment_industry.gone_with_the_foil": "Іди за струменем",
+	"advancement.create_enchantment_industry.gone_with_the_foil.desc": "Дивіться, як зачарований предмет розчаровує Розчаровувач",
+	"advancement.create_enchantment_industry.spirit_taking": "Перехопити дух",
+	"advancement.create_enchantment_industry.spirit_taking.desc": "Нехай ваш досвід поглине Розчаровувач",
+	"advancement.create_enchantment_industry.a_shower_experience": "\"Досвідчений\" душ",
+	"advancement.create_enchantment_industry.a_shower_experience.desc": "Розбийте трубу з рідиною та скупайтеся у досвіді",
+	"advancement.create_enchantment_industry.experienced_recycler": "Досвідчений переробник",
+	"advancement.create_enchantment_industry.experienced_recycler.desc": "Пероробіть 1,000,000 мв досвіду в розчарувальнику",
+	"advancement.create_enchantment_industry.blazes_new_job": "Нова робота пломеня",
+	"advancement.create_enchantment_industry.blazes_new_job.desc": "Дайте своєму пальнику пломеня \"Керівництво по зачаруванню\" і перетворіть його на пломеневого чарувальника",
+	"advancement.create_enchantment_industry.first_order": "Наступне замовлення",
+	"advancement.create_enchantment_industry.first_order.desc": "Додати нове зачарування до предмета за допомогою пломеневого чарувальника",
+	"advancement.create_enchantment_industry.additional_order": "Додаткове замовлення",
+	"advancement.create_enchantment_industry.additional_order.desc": "Додати нове зачарування до вже зачарованого предмета за допомогою пломеневого чарувальника",
+	"advancement.create_enchantment_industry.hypothetical_extension": "Неперевершені теоретики",
+	"advancement.create_enchantment_industry.hypothetical_extension.desc": "Додайте нове закляття до предмета за допомогою пломеневого чарувальника та неперевершеного досвіду",
+
+
+	"_": "->------------------------]  Ponder Content  [------------------------<-",
+
+	"create_enchantment_industry.ponder.tag.experience": "Пов'язані з досвідом",
+	"create_enchantment_industry.ponder.tag.experience.description": "Предмети та компоненти, пов'язані з досвідом",
+
+	"create_enchantment_industry.ponder.absorb_experience_nugget.header": "Перетворенням шматочка досвіду в рідину",
+	"create_enchantment_industry.ponder.absorb_experience_nugget.text_1": "Розчарувальник може поглинути шматочок досвіду",
+
+	"create_enchantment_industry.ponder.copy.header": "Використанням принтера",
+	"create_enchantment_industry.ponder.copy.text_1": "Для копіювання зачарованих книг потрібен рідкий досвід.",
+	"create_enchantment_industry.ponder.copy.text_2": "Якщо рівень зачарування книги, яку ви копіюєте, перевищує її максимальний рівень, вам знадобиться неперевершений досвід.",
+	"create_enchantment_industry.ponder.copy.text_3": "Для копіювання підписаних книг потрібне чорнило.",
+	"create_enchantment_industry.ponder.copy.text_4": "Ярлики та розклад руху поїздів також можна копіювати.",
+	"create_enchantment_industry.ponder.copy.text_5": "Якщо ви встановите ярлик як об'єкт друку, ви можете скористатися принтером, щоб дати назву об'єкту.",
+
+	"create_enchantment_industry.ponder.crushing_wheel_tweak.header": "Ми називаємо це неефективністю...",
+	"create_enchantment_industry.ponder.crushing_wheel_tweak.text_1": "Колесо дроблення має шанс скинути невелику кількість шматків досвіду, коли вбиває істоту.",
+
+	"create_enchantment_industry.ponder.disenchant.header": "Розчаровуванням",
+	"create_enchantment_industry.ponder.disenchant.text_1": "З усіх отриманих предметів будуть зняті чари, а зняті чари будуть перетворені на рідкий досвід для зберігання.",
+	"create_enchantment_industry.ponder.disenchant.text_2": "Гравцям, які стоять на розчарувальнику, буде швидко знятий досвід, а кількість досвіду буде перетворено на рідкий досвід для зберігання",
+
+	"create_enchantment_industry.ponder.drop_experience_nugget.header": "Може ферма досвіду?",
+	"create_enchantment_industry.ponder.drop_experience_nugget.text_1": "Коли застосовувач вбиває мобів, з них випадають шматочки досвіду.",
+
+	"create_enchantment_industry.ponder.enchant.header": "Зачаруванням",
+	"create_enchantment_industry.ponder.enchant.text_1": "Пломеневий чарувальник може зачаровувати ваші предмети.",
+	"create_enchantment_industry.ponder.enchant.text_2": "Однак він не може діяти на книги...",
+	"create_enchantment_industry.ponder.enchant.text_3": "... а також не може накладати несумісні чари на ваші предмети.",
+	"create_enchantment_industry.ponder.enchant.text_4": "Пломеневий чарувальник може підвищити рівень наявних заклинань до вищого, якщо це можливо",
+
+	"create_enchantment_industry.ponder.experience_bottle.header": "Використанням пляшечок чарів",
+	"create_enchantment_industry.ponder.experience_bottle.text_1": "Пляшечку чарів можна вилити в розчарувальник",
+	"create_enchantment_industry.ponder.experience_bottle.text_2": "Також можна наповнити пляшки за допомогою дозатора",
+
+	"create_enchantment_industry.ponder.hyper_enchant.header": "Неперевершеним зачаруванням",
+	"create_enchantment_industry.ponder.hyper_enchant.text_1": "Це рідкий неперевершений досвід",
+	"create_enchantment_industry.ponder.hyper_enchant.text_2": "Неперевершений досвід може привести пломеневого чарувальника в стан кипіння, причому рівень чар, що виробляється в цьому стані, буде на один рівень вище встановлених",
+	"create_enchantment_industry.ponder.hyper_enchant.text_3": "Чари з обмеженням в 1 рівень не можуть бути підвищені до 2 рівня неперевершеним зачаруванням.",
+
+	"create_enchantment_industry.ponder.leak.header": "О ні! Тут протікає!",
+	"create_enchantment_industry.ponder.leak.text_1": "Якщо ви маєте резервуар із досвідом",
+	"create_enchantment_industry.ponder.leak.text_2": "Та встановите відкриту трубу...",
+	"create_enchantment_industry.ponder.leak.text_3": "Уваґа! Повітряне зубожиння!⚠️⚠️⚠️",
+	"create_enchantment_industry.ponder.leak.text_4": "Не варто хвилюватись, рідкий досвід, що витече, перетвориться на кулі досвіду. Гравець може стояти біля отвору труби, щоб збирати його.",
+
+	"create_enchantment_industry.ponder.transform.header": "Використанням керівництва по зачаруванню",
+	"create_enchantment_industry.ponder.transform.text_1": "Клацніть ПКМ на пальник пломеня з керівництвом по зачаруванню у руці присівши",
+	"create_enchantment_industry.ponder.transform.text_2": "Щоб отримати його назад клацніть ПКМ на пломеневого чарувальника з гайковим ключем присівши",
+	"create_enchantment_industry.ponder.transform.text_3": "Щоб забрати керівництво по зачаруванню, крадькома клацніть ПКМ гайковим ключем по пломеневому чарувальнику.",
+	"create_enchantment_industry.ponder.transform.text_4": "Ви можете замінити керівництво по зачаруванню, клацнувши ПКМ по пломеневому чарувальнику тримаючи його в руці.",
+
+
+	"_": "->------------------------]  Item Descriptions  [------------------------<-",
+
+	"item.create_enchantment_industry.enchanting_guide.tooltip": "ПІДКАЗКИ КЕРІВНИЦТВА ПО ЗАЧАРУВАННЮ",
+	"item.create_enchantment_industry.enchanting_guide.tooltip.current_enchantment": "Поточні зачарування:",
+	"item.create_enchantment_industry.enchanting_guide.tooltip.not_configured": "Не налаштовано",
+
+	"item.create_enchantment_industry.experience_rotor.tooltip": "РОТОР ДОСВІДУ",
+	"item.create_enchantment_industry.experience_rotor.tooltip.summary": "Використовується в _Змішуванні_ _Рецептах_ щоб перевести _Досвід_ _Рідини_.",
+
+
+	"_": "->------------------------]  UI & Messages  [------------------------<-",
+
+	"create_enchantment_industry.gui.enchanting_guide.no_enchantment": "Немає доступного зачарування",
+	"create_enchantment_industry.gui.goggles.printer": "Об'єкт для копіювання:",
+	"create_enchantment_industry.gui.goggles.printer.no_target": "нічого",
+	"create_enchantment_industry.gui.goggles.blaze_enchanter": "Активні зачарування:",
+	"create_enchantment_industry.gui.goggles.blaze_enchanter.invalid_target": "Невірна ціль",
+	"create_enchantment_industry.gui.goggles.xp_consumption": "Потребує досвіду: %s мв",
+	"create_enchantment_industry.gui.goggles.hyper_xp_consumption": "Потребує неперевершеного досвіду: %s мв",
+	"create_enchantment_industry.gui.goggles.ink_consumption": "Потребує чорнил: %s мв",
+	"create_enchantment_industry.gui.goggles.too_expensive": "Занадто дорого!",
+
+	"create_enchantment_industry.generic.unit.page": "Сторінка",
+	"create_enchantment_industry.generic.unit.pages": "Сторінки",
+
+	"recipe.create_enchantment_industry.disenchanting": "Розчаровування",
+
+	"create_enchantment_industry.display_source.blaze_enchanter_source_target_enchantment": "Цільове зачарування",
+	"create_enchantment_industry.display_source.printer_source_copy_content": "Ціль копіювання",
+
+	"_": "Thank you for translating Create: Enchantment Industry!"
+
+}

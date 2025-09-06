@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Завоювання",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "entry_color": "C15600",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Забутий вершник Завоювання б'ється, але з луком. Під час дії цього контракту ваша шкода від снарядів$() подвоюється. "
+    }
+  ]
+}

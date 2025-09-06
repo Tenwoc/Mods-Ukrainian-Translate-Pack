@@ -1,0 +1,12 @@
+{
+  "_comment": "Items",
+  "item.measurements.tape_measure": "Рулетка",
+
+  "_comment": "ClothConfig",
+  "text.autoconfig.measurements.option.client": "Кієнт",
+  "text.autoconfig.measurements.option.client.lineColor": "Колір лінії",
+  "text.autoconfig.measurements.option.client.textColor": "Колір тексту",
+  "text.autoconfig.measurements.option.client.textSize": "Розір текстцу",
+  "text.autoconfig.measurements.option.client.lineWidth": "Ширина лінії",
+  "text.autoconfig.measurements.option.client.lineWidthMax": "Максимальна ширина лінії"
+}

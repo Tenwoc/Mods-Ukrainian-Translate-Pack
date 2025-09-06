@@ -1,0 +1,5 @@
+{
+  "type": "hurt",
+  "trust_required": 30,
+  "text": "$ip"
+}

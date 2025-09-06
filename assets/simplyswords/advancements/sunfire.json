@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:sunfire"
+    },
+    "title": "Освячений",
+    "description": "Здобудьте унікальну зброю - Сонячний вогонь.",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:dormant_relic",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:sunfire"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

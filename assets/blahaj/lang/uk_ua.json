@@ -1,0 +1,11 @@
+{
+	"item.blahaj.blue_shark": "М'яка іграшкова акула",
+	"item.blahaj.blue_shark.tooltip": "Також відома як Блахай",
+	"item.blahaj.gray_shark": "Сіра іграшкова акула",
+	"item.blahaj.gray_shark.tooltip": "Також відома як Клаппар Хадж",
+	"item.blahaj.blue_whale": "М'яка іграшкова синя акула",
+	"item.blahaj.blue_whale.tooltip": "Також відома як Blavingad. Утримує до стосу предметів.",
+	"item.blahaj.bread": "Хлібна подушка",
+	"tooltip.blahaj.owner.craft": "Змайстровано %s",
+	"tooltip.blahaj.owner.rename": "%s з %s"
+}

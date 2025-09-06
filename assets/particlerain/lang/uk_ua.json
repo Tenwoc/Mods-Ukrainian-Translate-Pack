@@ -1,0 +1,71 @@
+{
+  "particlerain.configuration.maxParticleAmount": "Максимальна кількість частинок",
+  "particlerain.configuration.particleDensity": "Щільність частинок",
+  "particlerain.configuration.particleStormDensity": "Щільність частинок під час шторму",
+  "particlerain.configuration.particleRadius": "Радіус частинок",
+
+  "particlerain.configuration.doRainParticles": "Створення частинок дощу",
+  "particlerain.configuration.doSplashParticles": "Частинки бризок дощу на землі",
+  "particlerain.configuration.doSmokeParticles": "Частинки розсіяного дощу",
+  "particlerain.configuration.doRippleParticles": "Частинки хвиль на воді від дощу",
+  "particlerain.configuration.doStreakParticles": "Смугасті частинки на краях блоків",
+  "particlerain.configuration.doSnowParticles": "Частинки снігу",
+  "particlerain.configuration.doSandParticles": "Частинки пилу над піском",
+  "particlerain.configuration.doShrubParticles": "Частинки кущів",
+  "particlerain.configuration.doFogParticles": "Частинки туману",
+  "particlerain.configuration.doGroundFogParticles": "Частинки приземного туману",
+
+  "particlerain.configuration.rain.density": "Щільність",
+  "particlerain.configuration.rain.gravity": "Гравітація",
+  "particlerain.configuration.rain.windStrength": "Сила вітру",
+  "particlerain.configuration.rain.stormWindStrength": "Сила вітру під час шторму",
+  "particlerain.configuration.rain.opacity": "Прозорість",
+  "particlerain.configuration.rain.splashDensity": "Щільність розбризкування",
+  "particlerain.configuration.rain.size": "Розмір",
+
+  "particlerain.configuration.snow.density": "Щільність",
+  "particlerain.configuration.snow.gravity": "Гравітація",
+  "particlerain.configuration.snow.rotationAmount": "Швидкість обертання",
+  "particlerain.configuration.snow.stormRotationAmount": "Швидкість обертання під час шторму",
+  "particlerain.configuration.snow.windStrength": "Сила вітру",
+  "particlerain.configuration.snow.stormWindStrength": "Сила вітру під час шторму",
+  "particlerain.configuration.snow.size": "Розмір",
+
+  "particlerain.configuration.ripple.resolution": "Налаштування частинок хвиль",
+  "particlerain.configuration.ripple.useResourcepackResolution": "Роздільна здатність ресурспака для хвиль",
+
+  "particlerain.configuration.sand.density": "Щільність",
+  "particlerain.configuration.sand.gravity": "Гравітація",
+  "particlerain.configuration.sand.windStrength": "Сила вітру",
+  "particlerain.configuration.sand.moteSize": "Розмір піщинки",
+  "particlerain.configuration.sand.size": "Розмір частинок піску",
+  "particlerain.configuration.sand.spawnOnGround": "Поява на землі",
+  "particlerain.configuration.sand.matchTags": "Створення над блоками з ідентифікаторами, що містять:",
+
+  "particlerain.configuration.shrub.density": "Щільність",
+  "particlerain.configuration.shrub.gravity": "Гравітація",
+  "particlerain.configuration.shrub.rotationAmount": "Швидкість обертання",
+  "particlerain.configuration.shrub.bounciness": "Упругість",
+
+  "particlerain.configuration.fog.density": "Щільність",
+  "particlerain.configuration.fog.gravity": "Гравітація",
+  "particlerain.configuration.fog.size": "Розмір",
+
+  "particlerain.configuration.groundFog.density": "Щільність",
+  "particlerain.configuration.groundFog.spawnHeight": "Висота появи",
+  "particlerain.configuration.groundFog.size": "Розмір",
+
+  "particlerain.configuration.doRainSounds": "Звуки дощу",
+  "particlerain.configuration.doSnowSounds": "Звуки снігу",
+  "particlerain.configuration.doSandSounds": "Звуки піску",
+
+  "particlerain.configuration.renderVanillaWeather": "Відображати стандартну погоду",
+  "particlerain.configuration.tickVanillaWeather": "Тік стандартної погоди",
+  "particlerain.configuration.biomeTint": "Затінення дощу залежно від кольору біому",
+  "particlerain.configuration.tintMix": "Змішування кольорів",
+  "particlerain.configuration.spawnAboveClouds": "Частинки над хмарами",
+  "particlerain.configuration.cloudHeight": "Висота хмар",
+  "particlerain.configuration.alwaysRaining": "Завжди йде дощ",
+  "particlerain.configuration.yLevelWindAdjustment": "Корекція вітру за рівнем Y",
+  "particlerain.configuration.syncRegistry": "Синхронізація реєстру"
+}

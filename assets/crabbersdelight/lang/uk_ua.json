@@ -1,0 +1,68 @@
+{
+  "itemGroup.crabbersdelight": "Crabber's Delight",
+
+  "item.crabbersdelight.crab": "Краб",
+  "item.crabbersdelight.cooked_crab": "Приготований краб",
+  "item.crabbersdelight.clawster": "Крабстер",
+  "item.crabbersdelight.cooked_clawster": "Варений крабстер",
+  "item.crabbersdelight.shrimp": "Креветка",
+  "item.crabbersdelight.cooked_shrimp": "Варена креветка",
+  "item.crabbersdelight.clam": "Молюск",
+  "item.crabbersdelight.raw_clam_meat": "Сире м'ясо молюска",
+  "item.crabbersdelight.cooked_clam_meat": "Варене м'ясо молюска",
+  "item.crabbersdelight.pearl": "Перлина",
+  "item.crabbersdelight.kelp_shake": "Коктейль з ламінарії",
+  "item.crabbersdelight.crab_cakes": "Крабові котлети",
+  "item.crabbersdelight.crab_legs": "Крабова нога",
+  "item.crabbersdelight.cooked_tropical_fish": "Варена тропічна риба",
+  "item.crabbersdelight.shrimp_skewer": "Шашлик з креветок",
+  "item.crabbersdelight.surf_and_turf": "Surf 'n Turf",
+  "item.crabbersdelight.fish_stick": "Рибні палички",
+  "item.crabbersdelight.clam_bake": "Запіканка з молюсків",
+  "item.crabbersdelight.clam_chowder": "Суп з молюсків",
+  "item.crabbersdelight.tropical_fish_slice": "Тропічна рибна нарізка",
+  "item.crabbersdelight.cooked_tropical_fish_slice": "Варена тропічна рибна нарізка",
+  "item.crabbersdelight.pufferfish_slice": "Нарізка зі скелезуба",
+  "item.crabbersdelight.cooked_pufferfish_slice": "Нарізка з вареної риби",
+  "item.crabbersdelight.bisque": "Бісквіт",
+  "item.crabbersdelight.seafood_gumbo": "Морська юшка",
+  "item.crabbersdelight.stuffed_nautilus_shell": "Фарширована мушля наутилуса",
+
+  "item.crabbersdelight.bucket_of_crab_chum": "Відро крабової прикормки",
+  "item.crabbersdelight.bucket_of_clawster_chum": "Відро крабстерової прикормки",
+  "item.crabbersdelight.bucket_of_clam_chum": "Відро молюскової прикормки",
+  "item.crabbersdelight.bucket_of_shrimp_chum": "Відро креветкової прикормки",
+
+
+  "item.crabbersdelight.crab_spawn_egg": "Яйце виклику краба",
+  "item.crabbersdelight.crab_bucket": "Відро з крабом",
+
+  "block.crabbersdelight.crab_trap": "Крабова пастка",
+  "block.crabbersdelight.crab_barrel": "Діжка з крабами",
+  "block.crabbersdelight.clam_barrel": "Діжка з молюсками",
+  "block.crabbersdelight.clawster_barrel": "Діжка з молюсків",
+  "block.crabbersdelight.shrimp_barrel": "Діжка з креветками",
+  "block.crabbersdelight.cod_barrel": "Діжка з тріскою",
+  "block.crabbersdelight.salmon_barrel": "Діжка з лососями",
+  "block.crabbersdelight.pufferfish_barrel": "Діжка зі скелезубами",
+  "block.crabbersdelight.tropical_fish_barrel": "Діжка з тропічною рибою",
+  "block.crabbersdelight.lanternfish_barrel": "Діжка з рибою-ліхтариком",
+  "block.crabbersdelight.nautilus_shell_block": "Блок мушлі наутилуса",
+  "block.crabbersdelight.pearl_block": "Перловий блок",
+
+  "entity.crabbersdelight.crab": "Краб",
+
+  "crabbersdelight.advancement.root": "Crabber's Delight",
+  "crabbersdelight.advancement.root.desc": "На вас чекає пригода з морепродуктами!",
+
+  "crabbersdelight.advancement.craft_crab_trap": "Це пастка!",
+  "crabbersdelight.advancement.craft_crab_trap.desc": "Використовуйте мотузку, плити та палиці, щоб зробити свою першу пастку для крабів",
+
+  "crabbersdelight.advancement.cook_crustaceans": "Станція для приготування ракоподібних",
+  "crabbersdelight.advancement.cook_crustaceans.desc": "Приготуйте крабів, креветок і молюсків, відварюючи їх у каструлі",
+
+  "crabbersdelight.advancement.get_pearl": "Солодка перлина!",
+  "crabbersdelight.advancement.get_pearl.desc": "Отримайте свою першу перлину, нарізавши молюсків на обробній дошці. Можливо, таємничий торговець визнає її цінною...",
+
+  "crabbersdelight.block.crab_trap.not_waterlogged": "Крабова пастка повинна бути у воді"
+}

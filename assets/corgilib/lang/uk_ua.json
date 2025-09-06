@@ -1,0 +1,8 @@
+{
+  "corgilib.worldRegistryExport.exists": "Експорт генерації світу вже існує! Подивіться тут: %s!",
+  "corgilib.worldRegistryExport.failed": "Не вдалося створити експорт генерації світу, перевірте ваш latest.log!",
+  "corgilib.worldRegistryExport.singleplayer": "Команда експорту генерації світу повинна використовуватися в грі в наодинці!",
+  "corgilib.worldRegistryExport.starting": "Початок експорту генерації світу, очікуйте затримки на сервері та високе використання оперативної пам'яті...",
+  "corgilib.worldRegistryExport.success": "Експорт генерації світу успішний! Переглянути файли тут: %s!",
+  "corgilib.clickevent.hovertext": "Клацніть, щоб відкрити!"
+}

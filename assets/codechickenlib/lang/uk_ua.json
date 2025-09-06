@@ -1,0 +1,20 @@
+{
+  "ccl.commands.count.fail": "Не знайдено жодної сутності.",
+  "ccl.commands.count.total": "Знайдено %s сутностей.",
+  "ccl.commands.gc.after": "До:",
+  "ccl.commands.gc.before": "Після:",
+  "ccl.commands.gc.performing": "Виконання GC..",
+  "ccl.commands.killall.fail": "Не знайдено жодної сутності.",
+  "ccl.commands.killall.fail.player": "Ви не можете вбивати гравців цією командою.",
+  "ccl.commands.killall.success": "Вбито %s сутностей.",
+  "ccl.commands.killall.success.line": "Вбито %s",
+  "ccl.energy_bar.capacity": "Місткість:",
+  "ccl.energy_bar.energy_storage": "Збережено енергії",
+  "ccl.energy_bar.rf": "RF",
+  "ccl.energy_bar.stored": "Збережено:",
+  "ccl.fluid_tank.capacity": "Ємність:",
+  "ccl.fluid_tank.contains": "Містить:",
+  "ccl.fluid_tank.fluid_storage": "Збережено рідини",
+  "ccl.fluid_tank.mb": "мВ",
+  "ccl.fluid_tank.stored": "Збережено:"
+}

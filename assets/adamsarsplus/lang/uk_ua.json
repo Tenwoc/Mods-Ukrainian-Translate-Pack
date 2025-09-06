@@ -1,0 +1,194 @@
+{
+	"_commenteffect": "text for the effect group.",
+	"adamsarsplus.glyph_name.glyph_aoe_three": 			"AOE III",
+	"adamsarsplus.glyph_desc.glyph_aoe_three": 			"Закляття впливатимуть на колосально більшу область навколо цільового блоку.",
+	"adamsarsplus.glyph_name.glyph_aoe_two": 			"AOE II",
+	"adamsarsplus.glyph_desc.glyph_aoe_two": 			"Закляття впливатимуть на більшу область навколо цільового блоку.",
+
+	"adamsarsplus.glyph_name.glyph_accelerate_three": 	"Прискорення III",
+	"adamsarsplus.glyph_desc.glyph_accelerate_three": 	"Безмірно збільшує швидкість снаряда закляття.",
+	"adamsarsplus.glyph_name.glyph_accelerate_two": 	"Прискорення II",
+	"adamsarsplus.glyph_desc.glyph_accelerate_two": 	"Дуже сильно збільшує швидкість снаряда закляття.",
+
+	"adamsarsplus.glyph_name.glyph_extendtime_three": 	"Подовження часу III",
+	"adamsarsplus.glyph_desc.glyph_extendtime_three": 	"Безмірно збільшує час існування закляття.",
+	"adamsarsplus.glyph_name.glyph_extendtime_two": 	"Подовження часу II",
+	"adamsarsplus.glyph_desc.glyph_extendtime_two": 	"Дуже сильно збільшує час існування закляття.",
+
+	"adamsarsplus.glyph_name.glyph_spellefficiency": 	"Ефективність закляття",
+	"adamsarsplus.glyph_desc.glyph_spellefficiency": 	"Використовує слот гліфа для зменшення ціни мани закляття. Нова ціна = стара ціна * 0.7 ^ кількість_гліфів. Швидкість регенерації мани тимчасово зменшується після виконання.",
+
+	"adamsarsplus.glyph_name.glyph_effectdomain": 		"Територія",
+	"adamsarsplus.glyph_desc.glyph_effectdomain": 		"Створює сферичну область, що недовго виконує закляття на довколишніх сутностях. AOE збільшить ефективний радіус, Прискорення збільшить частоту виконання закляття, Подовження часу збільшить тривалість ефекту, Пронизування змінить форму області на купол, Витягання виключить заклинача з цілей гліфа. Посилення покращує досконалість території, дозволяючи їй домінувати над меншими територіями.",
+
+	"adamsarsplus.glyph_name.glyph_open_domain": 		"Відкриття бар'єра",
+	"adamsarsplus.glyph_desc.glyph_open_domain": 		"Доповнює територію, формуючи її без бар'єра. Воістину божественний акт, що розширює територію на сам світ.",
+
+	"adamsarsplus.glyph_name.glyph_effectlimitless": 	"Безмежність",
+	"adamsarsplus.glyph_desc.glyph_effectlimitless": 	"Встановлює швидкість сутностей у певній області на 0 (включно зі снарядами заклинань та іншими сутностями, які зазвичай не є цілями). Доповнення AOE збільшує радіус дії цього ефекту. Доповнення Посиленням помножить швидкість на: -X/3. Доповнення Послабленням помножить швидкість на: -1. Доповнення Чутливістю дозволить впливати на заклинача. Пронизування змінює закляття так, що воно притягує всі сутності в цій області до точки, в якій закляття розвіюється після посилення.",
+
+	"adamsarsplus.glyph_name.glyph_effecteruption": 	"Виверження",
+	"adamsarsplus.glyph_desc.glyph_effecteruption": 	"Завдає цілі Виверження. Сутність з цим ефектом отримує підвищену шкоду під час горіння.",
+
+	"adamsarsplus.glyph_name.glyph_effecticeburst": 	"Крижаний вибух",
+	"adamsarsplus.glyph_desc.glyph_effecticeburst": 	"Коли закляття буде застосовується до блоку льоду, Крижаний вибух розтрощить блок і завдасть шкоди сутностям поруч.",
+
+	"adamsarsplus.glyph_name.glyph_effectraiseearth": 	"Підняття Землі",
+	"adamsarsplus.glyph_desc.glyph_effectraiseearth": 	"Підіймає стовп тверді, відштовхуючи всіх сутностей, що знаходяться поблизу. Можна доповнити AOE, Пронизуванням та Посиленням. (Заслуга ArsOmega)",
+
+	"adamsarsplus.glyph_name.glyph_effectdivinesmite": 	"Священна кара",
+	"adamsarsplus.glyph_desc.glyph_effectdivinesmite": 	"Оновлена версія блискавки, яка завдає більшої шкоди із кожним спожитим рівнем Шоку. (Заслуга ArsOmega)",
+
+	"adamsarsplus.glyph_name.glyph_effectsummonundead_m": 	"Виклик нежиті",
+	"adamsarsplus.glyph_desc.glyph_effectsummonundead_m": 	"Версія Виклику нежиті, яку використовував Matthew.",
+
+	"adamsarsplus.glyph_name.glyph_effectmeteorswarm": 	"Метеоритний рій",
+	"adamsarsplus.glyph_desc.glyph_effectmeteorswarm": 	"Викликає метеор, який падає на поцілене місце. При зіткненні метеорит продовжує закляття навкруги. Чим з більшої висоти падає метеорит, тим більше посилюється подальше закляття.",
+
+	"adamsarsplus.glyph_name.glyph_effectannihilate": 	"Анігіляція",
+	"adamsarsplus.glyph_desc.glyph_effectannihilate": 	"Закликає саму порожнечу, що руйнує блоки, не скидаючи предмети, та завдає шкоду, здатну обійти більшість захистів.",
+
+	"adamsarsplus.glyph_name.glyph_effectswaptarget": 	"Зміна цілі",
+	"adamsarsplus.glyph_desc.glyph_effectswaptarget": 	"Міняє між собою ролі заклинача і цілі, відкриваючи складнішу логіку для заклять. (Заслуга ArsOmega)",
+
+	"adamsarsplus.glyph_name.glyph_effectsimpledomain": "Проста територія",
+	"adamsarsplus.glyph_desc.glyph_effectsimpledomain": "Надає просту територію, що захищає від впливу чужих територій.",
+
+	"adamsarsplus.glyph_name.glyph_methoddetonate": 	"Детонація",
+	"adamsarsplus.glyph_desc.glyph_methoddetonate": 	"Викликає снаряд, що виконує закляття при досяганні цілі або блоку. Снаряд виконає закляття в повітрі через певний час. Цей час можна змінити доповненням Подовженням тривалості. Пронизування призведе до занулення цього часу після виконання закляття.",
+
+	"adamsarsplus.glyph_name.glyph_propdetonate": 		"Propagate Detonate",
+	"adamsarsplus.glyph_desc.glyph_propdetonate": 		"Викликає снаряд в місці виконання закляття, що виконує подальше закляття при досяганні цілі або блоку. Снаряд виконає закляття в повітрі через певний час. Цей час можна змінити доповненням Подовженням тривалості. Пронизування призведе до занулення цього часу після виконання закляття.",
+
+	"adamsarsplus.ritual_desc.ritual_mage_summon": 		"Без доповнень цей ритуал призведе до появи випадкового набору таємничих магів. Якщо доповнити його есенцією вогню/води/землі, буде викликано потужного мага. Використання есенції повітря або виклику вимагає елементальної душі, а есенції зречення вимагає справжньої елементальної душі. Примітка: маги можуть виявитися дуже руйнівними.",
+
+	"item.adamsarsplus.thread_sixeyes": 				"Пряжа шести очей",
+	"adamsarsplus.perk_desc.thread_sixeyes":			"Надає Шість Очей. Покращений зір і легендарна ефективність використання мани.",
+
+	"item.adamsarsplus.thread_cloudsteps": 				"Пряжа хмарних кроків",
+	"adamsarsplus.perk_desc.thread_cloudsteps":			"Надає політ.",
+
+	"item.adamsarsplus.thread_immortal": 				"Пряжа безсмертя",
+	"adamsarsplus.perk_desc.thread_immortal":			"Надає набір регенеруючих сердець поглинання, що живляться вашою маною.",
+
+	"item.adamsarsplus.thread_invincible": 				"Пряжа невразливості",
+	"adamsarsplus.perk_desc.thread_invincible":			"Надає додатковий захист.",
+
+	"item.adamsarsplus.thread_adrenaline": 				"Пряжа адреналіну",
+	"adamsarsplus.perk_desc.thread_adrenaline":			"Дає приріст регенерації мани після отримання ушкоджень. Цей приріст залежить від кількості здоров'я, якого бракує.",
+
+	"item.adamsarsplus.thread_draconic": 				"Пряжа драконівського прокляття",
+	"adamsarsplus.perk_desc.thread_draconic":			"Накладає драконівське прокляття на цілі ваших шкідливих заклять.",
+
+	"item.adamsarsplus.mana_diamond": 					"Мана-діамант",
+	"item.adamsarsplus.mage_cloth": 					"Магічна тканина",
+	"item.adamsarsplus.flame_soul": 					"Душа полум'я",
+	"item.adamsarsplus.frost_soul": 					"Душа морозу",
+	"item.adamsarsplus.earth_soul": 					"Душа землі",
+	"item.adamsarsplus.lightning_soul": 				"Сяйна душа",
+	"item.adamsarsplus.hero_soul": 						"Древня душа",
+	"item.adamsarsplus.elemental_soul": 				"Триєдина елементальна душа",
+	"item.adamsarsplus.true_elemental_soul": 			"Пробуджена елементальна душа",
+	"item.adamsarsplus.void_soul": 						"Душа порожнечі",
+
+	"item.adamsarsplus.ritual_mage_summon": 			"Виклик мага",
+
+	"block.adamsarsplus.domain_shell_block": 			"Оболонка території",
+
+	"effect.adamsarsplus.limitless": 					"Безмежність",
+	"effect.adamsarsplus.domain_burnout": 				"Вигорання території",
+	"effect.adamsarsplus.mana_exhaust": 				"Виснаження мани",
+	"effect.adamsarsplus.simple_domain": 				"Проста територія",
+	"effect.adamsarsplus.eruption": 					"Виверження",
+	"effect.adamsarsplus.six_eyes": 					"Шість Очей",
+	"effect.adamsarsplus.mana_health": 					"Щит безсмертя",
+
+	"entity.adamsarsplus.ryan": 						"Раян: Драконоборець",
+	"entity.adamsarsplus.cade": 						"Кейд: Непорушний мороз",
+	"entity.adamsarsplus.nick": 						"Нік: Людина зі сталі",
+	"entity.adamsarsplus.cam": 							"Камерон: Залишок міфічного звіра",
+	"entity.adamsarsplus.matt": 						"Метью: Король героїв",
+	"entity.adamsarsplus.adam": 						"Адам: Архімаг-імператор",
+	"entity.adamsarsplus.mage": 						"Таємничий маг",
+
+	"item.adamsarsplus.cade_boots": 					"Чоботи морозу",
+	"item.adamsarsplus.cade_leggings": 					"Наголінники морозу",
+	"item.adamsarsplus.cade_robes": 					"Нагрудник морозу",
+	"item.adamsarsplus.cade_hood": 						"Шолом морозу",
+
+	"item.adamsarsplus.ryan_boots": 					"Чоботи полум'я",
+	"item.adamsarsplus.ryan_leggings": 					"Наголінники полум'я",
+	"item.adamsarsplus.ryan_robes": 					"Нагрудник полум'я",
+	"item.adamsarsplus.ryan_hood": 						"Шолом полум'я",
+
+	"item.adamsarsplus.nick_boots": 					"Чоботи землі",
+	"item.adamsarsplus.nick_leggings": 					"Наголінники землі",
+	"item.adamsarsplus.nick_robes": 					"Нагрудник землі",
+	"item.adamsarsplus.nick_hood": 						"Шолом землі",
+
+	"item.adamsarsplus.camr_boots": 					"Чоботи блискавки",
+	"item.adamsarsplus.camr_leggings": 					"Наголінники блискавки",
+	"item.adamsarsplus.camr_robes": 					"Нагрудник блискавки",
+	"item.adamsarsplus.camr_hood": 						"Шолом блискавки",
+
+	"item.adamsarsplus.matt_boots": 					"Чоботи героя",
+	"item.adamsarsplus.matt_leggings": 					"Наголінники героя",
+	"item.adamsarsplus.matt_robes": 					"Нагрудник героя",
+	"item.adamsarsplus.matt_hood": 						"Шолом героя",
+
+	"item.adamsarsplus.adam_boots": 					"Чоботи архімага порожнечі",
+	"item.adamsarsplus.adam_leggings": 					"Наголінники архімага порожнечі",
+	"item.adamsarsplus.adam_robes": 					"Нагрудник архімага порожнечі",
+	"item.adamsarsplus.adam_hood": 						"Шолом архімага порожнечі",
+
+	"item.adamsarsplus.cade_boots_a": 					"Пробуджені чоботи морозу",
+	"item.adamsarsplus.cade_leggings_a": 				"Пробуджені наголінники морозу",
+	"item.adamsarsplus.cade_robes_a": 					"Пробуджений нагрудник морозу",
+	"item.adamsarsplus.cade_hood_a": 					"Пробуджений шолом морозу",
+
+	"item.adamsarsplus.ryan_boots_a": 					"Пробуджені чоботи полум'я",
+	"item.adamsarsplus.ryan_leggings_a": 				"Пробуджені наголінники полум'я",
+	"item.adamsarsplus.ryan_robes_a": 					"Пробуджений нагрудник полум'я",
+	"item.adamsarsplus.ryan_hood_a": 					"Пробуджений шолом полум'я",
+
+	"item.adamsarsplus.nick_boots_a": 					"Пробуджені чоботи землі",
+	"item.adamsarsplus.nick_leggings_a": 				"Пробуджені наголінники землі",
+	"item.adamsarsplus.nick_robes_a": 					"Пробуджений нагрудник землі",
+	"item.adamsarsplus.nick_hood_a": 					"Пробуджений шолом землі",
+
+	"item.adamsarsplus.camr_boots_a": 					"Пробуджені чоботи блискавки",
+	"item.adamsarsplus.camr_leggings_a": 				"Пробуджені наголінники блискавки",
+	"item.adamsarsplus.camr_robes_a": 					"Пробуджений нагрудник блискавки",
+	"item.adamsarsplus.camr_hood_a": 					"Пробуджений шолом блискавки",
+
+	"item.adamsarsplus.matt_boots_a": 					"Пробуджені чоботи героя",
+	"item.adamsarsplus.matt_leggings_a": 				"Пробуджені наголінники героя",
+	"item.adamsarsplus.matt_robes_a": 					"Пробуджений нагрудник героя",
+	"item.adamsarsplus.matt_hood_a": 					"Пробуджений шолом героя",
+
+	"item.adamsarsplus.adam_boots_a": 					"Пробуджені чоботи архімага порожнечі",
+	"item.adamsarsplus.adam_leggings_a": 				"Пробуджені наголінники архімага порожнечі",
+	"item.adamsarsplus.adam_robes_a": 					"Пробуджений нагрудник архімага порожнечі",
+	"item.adamsarsplus.adam_hood_a": 					"Пробуджений шолом архімага порожнечі",
+
+	"ars_nouveau.page.adamsarsplus_tweaks": 			"Ars Plus",
+	"adamsarsplus.page.adamsarsplus_tweaks": 			"На початку гри Ars Plus вам потрібно буде полювати на таємничих магів, які з'явилися у вашому світі, і збирати їхню магічну тканину. Коли ви будете готові, створіть ритуал Виклику Магів, щоб кинути виклик найсильнішим магам і отримати їхні магічні здібності.",
+	"adamsarsplus.page.adamsarsplus_tweaks_2": 			"Якщо ви хочете запропонувати власного Таємничого мага, напишіть @th3S3nate на каналі Ars Plus у дискорді Ars Nouveau :)",
+
+	"adamsarsplus.page.elemental_soul": 				"Кульмінація трьох елементів, що утворили матеріальний світ. З основними елементами творення під вашим контролем ви отримали все необхідне, щоб підняти свою магічну майстерність на наступний рівень.",
+	"adamsarsplus.page.true_elemental_soul": 			"Кульмінація елементів, що утворюють небо і землю. З силою небес під вашим контролем ви досягли вершини того, що повинно бути можливим за допомогою магії... але шепіт з порожнечі говорить про силу за межами розуміння.",
+
+	"adamsarsplus.page.ryan_hood": 						"Взявши обладунок мага 3-го рівня, ви дізналися, як покращити його за допомогою отриманих душ стихійного полум'я, щоб підняти свою магічну майстерність на елітний рівень.",
+	"adamsarsplus.page.ryan_hood_a": 					"Використовуючи кульмінацію елементів, що складають матеріальний план, ви дізналися, як пробудити прихований потенціал у вашій броні полум'я та підвищити її до рівня 4.",
+	"adamsarsplus.page.cade_hood": 						"Взявши обладунок мага 3-го рівня, ви дізналися, як покращити його за допомогою отриманих душ стихійного морозу, щоб підняти свою магічну майстерність на елітний рівень.",
+	"adamsarsplus.page.cade_hood_a": 					"Використовуючи кульмінацію елементів, що складають матеріальний план, ви дізналися, як пробудити прихований потенціал у вашій броні морозу та підвищити її до рівня 4.",
+	"adamsarsplus.page.nick_hood": 						"Взявши обладунок мага 3-го рівня, ви дізналися, як покращити його за допомогою отриманих душ стихійної землі, щоб підняти свою магічну майстерність на елітний рівень.",
+	"adamsarsplus.page.nick_hood_a": 					"Використовуючи кульмінацію елементів, що складають матеріальний план, ви дізналися, як пробудити прихований потенціал у вашій броні землі та підвищити її до рівня 4.",
+	"adamsarsplus.page.camr_hood": 						"Взявши обладунок елементального мага, ви дізналися, як покращити його за допомогою отриманих елементальних душ блискавки, щоб підняти свою магічну майстерність на вищий рівень.",
+	"adamsarsplus.page.camr_hood_a": 					"Використовуючи кульмінацію елементів, що складають небесний і матеріальний світи, ви дізналися, як пробудити прихований потенціал у вашій броні блискавки та оновити її до рівня 5.",
+	"adamsarsplus.page.matt_hood": 						"Взявши обладунок елементального мага, ви дізналися, як покращити його за допомогою отриманих древніх елементальних душ, щоб підняти свою магічну майстерність на вищий рівень.",
+	"adamsarsplus.page.matt_hood_a": 					"Використовуючи кульмінацію елементів, що складають небесний і матеріальний світи, ви дізналися, як пробудити прихований потенціал у вашій броні героя та оновити її до рівня 5.",
+	"adamsarsplus.page.adam_hood": 						"Взявши обладунок всевишнього мага, ви дізналися, як посилити його за допомогою здобутих вами елементальних душ порожнечі, щоб вивести свою магію на рівень, що виходить за межі можливого.",
+	"adamsarsplus.page.adam_hood_a": 					"Використовуючи елементи світу порожнечі, ви дізналися, як пробудити прихований потенціал у вашій броні порожнечі та підвищити її до рівня 6."
+
+}

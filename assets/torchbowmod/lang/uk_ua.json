@@ -1,0 +1,15 @@
+{
+  "item.torchbowmod.torchbow": "Смолоскипний лук",
+  "item.torchbowmod.multitorch": "Мультисмолоскип",
+  "item.torchbowmod.torcharrow": "Смолоскипна стріла",
+  "itemGroup.torchBowModTab": "TorchBowModTab",
+  "death.attack.EntityTorch": "%1$s загинув від смолоскипа %2$s.",
+  "log.sb.check": "Перевірка статусу впровадження Storagebox......",
+  "log.sb.load": "Storagebox підтвердив впровадження. Завантаження завершено.",
+  "log.sb.error": "Помилка завантаження Storagebox.",
+  "log.sb.unload": "Storagebox не впроваджено.",
+  "log.sg.check": "Перевірка статусу впровадження Silent's Gems.......",
+  "log.sg.load": "Silent's Gems підтвердив впровадження. Завантаження завершено.",
+  "log.sg.error": "Помилка завантаження Silent's Gems.",
+  "log.sg.unload": "Silent's Gems не впроваджено."
+}

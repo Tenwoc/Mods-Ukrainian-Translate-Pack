@@ -1,0 +1,44 @@
+{
+  "block.cccbridge.source_block": "Джерельний блок",
+  "block.cccbridge.target_block": "Цільовий блок",
+  "block.cccbridge.redrouter_block": "Ред-маршрутний блок",
+  "block.cccbridge.scroller_block": "Панель прокрутки",
+  "block.cccbridge.animatronic_block": "Аніматронік",
+
+  "block.cccbridge.source_block.description": "§6Може віддзеркалювати текст на інші §oцілі§r§6 через §eDisplay Link§6.\n\n§7Коли індикатор блимає\n §6Передає поточний буферизований текст на §oціль§r§6.\n§7При зміні роздільної здатності\n §6Визначає черговість §oподії§r§6 для всіх під'єднаних §eкомп'ютерів§6.",
+  "block.cccbridge.target_block.description": "§6Виступає як §oціль§r§6 для інших §oджерел§r§6. §eКомп'ютери§6 можуть отримати доступ до всіх видів інформації з §eCreate§6 у такий спосіб.",
+  "block.cccbridge.redrouter_block.description":  "§6Може керувати сигналами §eредстоуну§6 через §oRedstone API§r§6.",
+  "block.cccbridge.scroller_block.description": "§6Надає інтерфейс для вибору числа. Можна читати, контролювати та маніпулювати за допомогою §eкомп'ютера§6.",
+  "block.cccbridge.animatronic_block.description":  "§6Вираз його обличчя, як і всього тіла, можна змінювати та позиціювати за допомогою §eкомп'ютера§6.\n\n§7При русі\n §6Застосовує буферні §oповороти§r§6 до §eаніматроніка§6.",
+
+  "cccbridge.tooltip.holdForDescription": "§8Утримуйте [{0}Shift§8] для деталей",
+  "cccbridge.tooltip.peripheral": "Peripheral v{0}",
+  "cccbridge.tooltip.no_peripheral": "&oНе має Peripheral",
+
+  "cccbridge.display_source.source_block_display_source": "Наведені дані з комп'ютера",
+
+  "cccbridge.general.unit.scroller": "Число Луа",
+  "cccbridge.general.unit.scroller.positive": "Ч. Луа +",
+  "cccbridge.general.unit.scroller.negative": "Ч. Луа -",
+
+  "subtitles.cccbridge.cage_lock": "Прокрутка заблокована",
+  "subtitles.cccbridge.cage_unlock": "Прокрутка розблокована",
+
+  "itemGroup.cccbridge.cccbridge_group": "Peripherals (CC:C Bridge)",
+
+  "advancements.cccbridge.placed_animatronic.title": "П'ять ночей у Minecraft",
+  "advancements.cccbridge.placed_animatronic.description": "Звичайнісінький аніматронік, що тут може піти не так!",
+  "advancements.cccbridge.placed_redrouter.title": "EMOTIONAL DAMAGE",
+  "advancements.cccbridge.placed_redrouter.description": "Створіть власного друга з перепадами настрою.",
+
+  "painting.cccbridge.funny_redrouters.title": "Веселі ред-маршрутизатори",
+  "painting.cccbridge.funny_redrouters.author": "Sammy L. Koch",
+
+  "cccbridge.screen.config_screen": "Конфігурація CC:C Bridge",
+  "cccbridge.options.button.save": "Зберегти конфігурацію",
+  "cccbridge.options.button.saved": "Конфігурацію збережено",
+  "cccbridge.options.button.close": "Закрити",
+
+  "cccbridge.options.option.flickering": "Мерехтіння світла",
+  "cccbridge.options.tooltip.flickering": "Визначає, чи мерехтітимуть грані блоків ред-маршрутизаторів чи аніматроніків у темних місцях."
+}

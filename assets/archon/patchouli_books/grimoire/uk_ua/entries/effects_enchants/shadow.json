@@ -1,0 +1,12 @@
+{
+  "name": "Тень",
+  "icon": "archon:textures/mob_effect/shadow.png",
+  "category": "archon:effects_enchants",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Поки ви в стані Тіні ви можете літати і проходити крізь стіни. Можна отримати за допомогою однойменного заклинання Тінь або через консоль."
+    }
+  ]
+}

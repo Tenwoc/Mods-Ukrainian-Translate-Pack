@@ -1,0 +1,6 @@
+{
+  "name": "Ars Ocultas",
+  "description": "Інтеграція Occultism з Ars Nouveau. Додає сумісність та взаємодію між $(thing)Occultism$() та $(thing)Ars Nouveau$() та додає кілька корисних змін.",
+  "icon": "occultism:ritual_dummy/custom_ritual",
+  "sortnum": 1000
+}

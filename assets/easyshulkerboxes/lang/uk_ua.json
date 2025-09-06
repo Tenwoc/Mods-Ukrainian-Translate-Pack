@@ -1,0 +1,9 @@
+{
+  "item.container.tooltip.hold": "Утримуйте",
+  "item.container.tooltip.press": "Натисніть",
+  "item.container.tooltip.revealContents": "%s %s, щоб показати вміст",
+  "key.categories.easyshulkerboxes": "Easy Shulker Boxes",
+  "key.toggleCarriedItemTooltips": "Перемикнути підказки предметів у вмістилищі",
+  "key.toggleSelectedItemTooltips": "Перемикнути підказки обраних предметів",
+  "key.toggleVisualItemContents": "Перемикнути візуальне відображення вмісту"
+}

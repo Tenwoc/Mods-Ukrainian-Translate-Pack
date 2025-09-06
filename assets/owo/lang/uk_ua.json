@@ -1,0 +1,18 @@
+{
+  "text.owo.configure_hot_reload.title": "Налаштування гарячого перезавантаження",
+  "text.owo.configure_hot_reload.choose_file": "Виберіть файл",
+  "text.owo.configure_hot_reload.choose_ui_model_source": "Виберіть джерело моделі інтерфейсу",
+  "text.owo.configure_hot_reload.save": "Зберегти",
+  "text.owo.configure_hot_reload.reload_from.unset": "Unset",
+  "text.owo.config.search": "Пошук...",
+  "text.owo.config.search.matches": "%d з %d",
+  "text.owo.config.search.no_matches": "Немає відповідностей",
+  "text.owo.config.must_restart": "Щоб застосувати деякі зміни, потрібно перезапустити систему",
+  "text.owo.config.button.exit_minecraft": "Вийти з Minecraft",
+  "text.owo.config.button.ignore_restart": "Перезапустити пізніше",
+  "text.owo.config.button.range.edit_as_text": "Редагувати як текст",
+  "text.owo.config.button.range.edit_with_slider": "Редагування за допомогою повзунка",
+  "text.owo.config.button.reload": "Перезавантажити",
+  "text.owo.config.button.done": "Готово",
+  "text.owo.config.list.add_entry": "Додати запис"
+}

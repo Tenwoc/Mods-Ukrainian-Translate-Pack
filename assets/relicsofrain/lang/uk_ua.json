@@ -1,0 +1,90 @@
+{
+  "death.attack.freeze.item": "%2$s заморозив %1$s насмерть за допомогою: %3$s",
+  "death.attack.relicsofrain.electricity": "%1$s дізнався, чому ми уникаємо високої напруги",
+  "death.attack.relicsofrain.electricity.player": "%1$s був убитий струмом під час битви з %2$s",
+  "death.attack.relicsofrain.electricity.item": "%1$s отримав удар струмом від %2$s і його вірного: %3$s",
+
+  "entity.relicsofrain.lightning_arc": "Блискавична дуга",
+
+  "itemGroup.relicsofrain": "Relics of Rain",
+
+  "item.relicsofrain.ukulele": "Укулеле",
+  "tooltip.relics.ukulele.description": "...і його музика була блискавичною.",
+  "tooltip.relics.ukulele.ability.lightning_chain": "Ланцюгова блискавка",
+  "tooltip.relics.ukulele.ability.lightning_chain.description": "При попаданні в когось є шанс %1$s%% створити ланцюгову блискавку, яка вразить до %2$s інших цілей в радіусі %3$sм, завдаючи %4$s%% сумарної шкоди кожній з них.",
+  "tooltip.relics.ukulele.leveling_source.lightning_chain.title": "Ланцюгова блискавка",
+  "tooltip.relics.ukulele.leveling_source.lightning_chain.description": "Ця реліквія отримує 1 очко досвіду за кожен створений ланцюжок блискавки",
+
+  "item.relicsofrain.frost_relic": "Морозна реліквія",
+  "tooltip.relics.frost_relic.description": "Вбивство ворогів оточує вас крижаною бурею.",
+  "tooltip.relics.frost_relic.ability.ice_storm": "Крижана буря",
+  "tooltip.relics.frost_relic.ability.ice_storm.description": "Вбивство ворога оточує вас крижаним штормом, який завдає %1$s%% базової шкоди за секунду і уповільнює ворогів на 1.5 секунди. З кожним вбивством шторм зростає, збільшуючи свій радіус на 2 м. Складається до %2$sм",
+  "tooltip.relics.frost_relic.leveling_source.ice_storm.title": "Крижана буря",
+  "tooltip.relics.frost_relic.leveling_source.ice_storm.description": "Ця реліквія отримує 1 очко досвіду за кожну активацію здібності",
+
+  "item.relicsofrain.energy_drink": "Енергетичний напій",
+  "tooltip.relics.energy_drink.description": "Збільшує швидкість бігу!",
+  "tooltip.relics.energy_drink.ability.speed_boost": "Прискорення",
+  "tooltip.relics.energy_drink.ability.speed_boost.description": "Збільшує швидкість бігу на %1$s%%",
+  "tooltip.relics.energy_drink.leveling_source.speed_boost.title": "Прискорення",
+  "tooltip.relics.energy_drink.leveling_source.speed_boost.description": "Ця реліквія отримує 1 очко досвіду за кожну секунду бігу",
+
+  "item.relicsofrain.platinum_horseshoe": "Платинова підкова",
+  "tooltip.relics.platinum_horseshoe.description": "Вдача на вашому боці.",
+  "tooltip.relics.platinum_horseshoe.ability.try_again": "Спробуйте ще раз!",
+  "tooltip.relics.platinum_horseshoe.ability.try_again.description": "Всі випадкові ефекти роблять +%1$s спроб відтворення для сприятливішго результату",
+  "tooltip.relics.platinum_horseshoe.leveling_source.try_again.title": "Спробуйте ще раз!",
+  "tooltip.relics.platinum_horseshoe.leveling_source.try_again.description": "Ця реліквія отримує 1 очко досвіду за кожне успішне відтворення під впливом предмета",
+
+  "item.relicsofrain.broken_mirror": "Розбите дзркало",
+  "tooltip.relics.broken_mirror.description": "...Воно працює?",
+
+  "item.relicsofrain.bustling_fungus": "Галасливий грибок",
+  "tooltip.relics.bustling_fungus.description": "Лікує усіх союзників після 1.5-секундного стояння на місці.",
+  "tooltip.relics.bustling_fungus.ability.healing": "Оздоровчий гриб",
+  "tooltip.relics.bustling_fungus.ability.healing.description": "Після того, як власник залишається нерухомим протягом 1.5 секунд, предмет створює область радіусом 2.5 м, в котрій союзники зцілюються на %1$s%% здоров'я щосекунди, доки власник залишається нерухомим.",
+  "tooltip.relics.bustling_fungus.leveling_source.healing.title": "Оздоровчий гриб",
+  "tooltip.relics.bustling_fungus.leveling_source.healing.description": "Ця реліквія отримує 1 очко досвіду за кожний такт зцілення",
+
+  "item.relicsofrain.unlabeled_syringe": "Немаркований шприц",
+  "tooltip.relics.unlabeled_syringe.description": "Чи дійсно варто його використовувати?",
+  "tooltip.relics.unlabeled_syringe.ability.mutation": "Мутація",
+  "tooltip.relics.unlabeled_syringe.ability.mutation.description": "Власник отримує +%1$s додаткових кінцівок в обмін на 1 іншу кінцівку",
+
+  "item.relicsofrain.soldier_syringe": "Солдатська сироватка",
+  "tooltip.relics.soldier_syringe.description": "Збільшує швидкість атаки.\nНе використовуйте, і я повторюю, НЕ використовуйте це на зомбі.",
+  "tooltip.relics.soldier_syringe.ability.attack_speed": "Швидкість атаки",
+  "tooltip.relics.soldier_syringe.ability.attack_speed.description": "Предмет збільшує швидкість атаки на %1$s%%",
+  "tooltip.relics.soldier_syringe.leveling_source.attack_speed.title": "Швидкість атаки",
+  "tooltip.relics.soldier_syringe.leveling_source.attack_speed.description": "Ця реліквія отримує 1 очко досвіду за кожну успішну атаку",
+
+  "item.relicsofrain.wax_quail": "Воскова перепілка",
+  "tooltip.relics.wax_quail.description": "Стрибання під час бігу підштовхує вас вперед.",
+  "tooltip.relics.wax_quail.ability.woah": "Во-оу!",
+  "tooltip.relics.wax_quail.ability.woah.description": "Цей предмет дає негайний %1$s-кратне прискорення вперед, коли власник стрибає під час бігу",
+  "tooltip.relics.wax_quail.leveling_source.woah.title": "Во-оу!",
+  "tooltip.relics.wax_quail.leveling_source.woah.description": "Ця реліквія отримує 1 очко досвіду за кожний прискорений стрибок",
+
+  "item.relicsofrain.katana_trinket": "Сувенірна катана",
+  "tooltip.relics.katana_trinket.description": "Чудове доповнення до вашого ранця!",
+  "tooltip.relics.katana_trinket.ability.agility": "Прудкість",
+  "tooltip.relics.katana_trinket.ability.agility.description": "Дозволяє гравцеві бігти в будь-якому напрямку і не сповільнюватися після атак",
+
+  "item.relicsofrain.crowbar": "Лом",
+  "tooltip.relics.crowbar.description": "Завдає додаткової шкоди ворогам, у яких понад 90% здоров'я.",
+  "tooltip.relics.crowbar.ability.heavy_hitter": "Важкий ударник",
+  "tooltip.relics.crowbar.ability.heavy_hitter.description": "Коли власник атакує ворога, у якого залишилося понад 90% здоров'я, він наносить на %1$s%% більше шкоди",
+  "tooltip.relics.crowbar.ability.pry_it_open": "Відчиняй!",
+  "tooltip.relics.crowbar.ability.pry_it_open.description": "Цей предмет миттєво розбиває дошки",
+  "tooltip.relics.crowbar.leveling_source.heavy_hitter.title": "Важкий ударник",
+  "tooltip.relics.crowbar.leveling_source.heavy_hitter.description": "Ця реліквія отримує 1 очко досвіду за кожний посилений удар",
+  "tooltip.relicsofrain.crowbar.damage_tip": "Коли здоров'я ворога вище за %1$s%%:",
+  "tooltip.relicsofrain.crowbar.damage": " +%1$s%% шкоди від атаки",
+
+  "item.relicsofrain.irradiant_pearl": "Промениста перлина",
+  "tooltip.relics.irradiant_pearl.description": "Збільшує ваші характеристики.",
+  "tooltip.relics.irradiant_pearl.ability.1up": "1-UP",
+  "tooltip.relics.irradiant_pearl.ability.1up.description": "Збільшує основні характеристики гравця на %1$s%%",
+  "tooltip.relicsofrain.irradiant_pearl.source": "Випадає зі стародавнього вартового.",
+  "tooltip.relicsofrain.irradiant_pearl.all_stats": "Усі Стати"
+}

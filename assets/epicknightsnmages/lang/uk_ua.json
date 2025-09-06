@@ -1,0 +1,40 @@
+{
+  "item.epicknightsnmages.scarlet_gem": "Уламок кармазину",
+  "item.epicknightsnmages.moonlight_gem": "Кламок місячного світла",
+  "item.epicknightsnmages.citrin_gem": "Цитрин",
+  "item.epicknightsnmages.magical_ingot": "Магічний злиток",
+
+  "item.epicknightsnmages.noble_sword": "Шляхетний меч",
+  "item.epicknightsnmages.elite_wand": "Елітна чарівна паличка",
+  "item.epicknightsnmages.dark_sword": "Фламбард",
+  "item.epicknightsnmages.elite_spell_book": "Книга заклинателя",
+
+  "item.epicknightsnmages.elite_mage_helmet": "Шляпа елітного чарівника",
+  "item.epicknightsnmages.elite_mage_chestplate": "Роба елітного чарівника",
+  "item.epicknightsnmages.elite_mage_leggings": "Наголінники елітного чарівника",
+  "item.epicknightsnmages.elite_mage_boots": "Чоботи елітного чарівника",
+  "item.epicknightsnmages.armored_mage_helmet": "Шляпа бойового мага",
+  "item.epicknightsnmages.armored_mage_chestplate": "Роба бойового мага",
+  "item.epicknightsnmages.armored_mage_leggings": "Наголінники бойового мага",
+  "item.epicknightsnmages.armored_mage_boots": "Чоботи бойового мага",
+  "item.epicknightsnmages.blue_knight_helmet": "Шолом шляхетного лицаря",
+  "item.epicknightsnmages.blue_knight_chestplate": "Нагрудник шляхетного лицаря",
+  "item.epicknightsnmages.blue_knight_leggings": "Наголінники шляхетного лицаря",
+  "item.epicknightsnmages.blue_knight_boots": "Чоботи шляхетного лицаря",
+  "item.epicknightsnmages.dark_knight_helmet": "Шолом темного лицаря",
+  "item.epicknightsnmages.dark_knight_chestplate": "Нагрудник темного лицаря",
+  "item.epicknightsnmages.dark_knight_leggings": "Наголінники темного лицаря",
+  "item.epicknightsnmages.dark_knight_boots": "Чоботи темного лицаря",
+
+  "block.epicknightsnmages.scarlet_ore": "Кармазинова руда",
+  "block.epicknightsnmages.deepslate_scarlet_ore": "Глибосланцева кармазинова руда",
+  "block.epicknightsnmages.moonlight_ore": "Руда місячного світла",
+  "block.epicknightsnmages.deepslate_moonlight_ore": "Глибосланцева руда місячного світла",
+  "block.epicknightsnmages.scarlet_block": "Блок кармазину",
+  "block.epicknightsnmages.citrin_ore": "Цитринова руда",
+  "block.epicknightsnmages.deepslate_citrin_ore": "Глибосланцева цитринова руда",
+  "block.epicknightsnmages.citrin_block": "Блок цитрину",
+  "block.epicknightsnmages.moonlight_block": "Блок місячного світла",
+
+  "itemGroup.knm_group": "Epic Knights'n'Mages"
+}

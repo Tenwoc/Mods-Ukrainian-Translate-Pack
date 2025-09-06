@@ -1,0 +1,17 @@
+{
+  "name": "Нищівник душі",
+  "icon": "archon:soul_crusher",
+  "category": "archon:necromancy",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:soul_crusher",
+      "text": "Нищівник душі - предмет некроманта, який перетворює душі переможених ворогів на ману. Замість отримання душ, перемога над ворогами принесе вам 20 мани за істоту, 30 за гравця і 50 за боса."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:soul_crusher"
+    }
+  ]
+}

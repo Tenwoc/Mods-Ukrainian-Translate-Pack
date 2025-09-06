@@ -1,0 +1,60 @@
+{
+
+  "_": "->------------------------] Ігрові елементи [------------------------<-",
+
+  "block.create_mechanical_spawner.mechanical_spawner": "Механічний спавнер",
+
+  "fluid.create_mechanical_spawner.spawn_fluid_blaze": "Рідина виклику пломеня",
+  "fluid.create_mechanical_spawner.spawn_fluid_creeper": "Рідина виклику кріпера",
+  "fluid.create_mechanical_spawner.spawn_fluid_enderman": "Рідина виклику ендермена",
+  "fluid.create_mechanical_spawner.spawn_fluid_magma_cube": "Рідина виклику магмакуба",
+  "fluid.create_mechanical_spawner.spawn_fluid_random": "Випадкова рідина виклику",
+  "fluid.create_mechanical_spawner.spawn_fluid_skeleton": "Рідина виклику скелета",
+  "fluid.create_mechanical_spawner.spawn_fluid_slime": "Рідина виклику слимака",
+  "fluid.create_mechanical_spawner.spawn_fluid_spider": "Рідина виклику павука",
+  "fluid.create_mechanical_spawner.spawn_fluid_zombie": "Рідина виклику зомбі",
+
+  "item.create_mechanical_spawner.spawn_fluid_blaze_bucket": "Відро рідини виклику пломеня",
+  "item.create_mechanical_spawner.spawn_fluid_creeper_bucket": "Відро рідини виклику кріпера",
+  "item.create_mechanical_spawner.spawn_fluid_enderman_bucket": "Відро рідини виклику ендермена",
+  "item.create_mechanical_spawner.spawn_fluid_magma_cube_bucket": "Відро рідини виклику магмакуба",
+  "item.create_mechanical_spawner.spawn_fluid_random_bucket": "Відро випакдової рідини виклику",
+  "item.create_mechanical_spawner.spawn_fluid_skeleton_bucket": "Відро рідини виклику скелета",
+  "item.create_mechanical_spawner.spawn_fluid_slime_bucket": "Відро рідини виклику слимака",
+  "item.create_mechanical_spawner.spawn_fluid_spider_bucket": "Відро рідини виклику павука",
+  "item.create_mechanical_spawner.spawn_fluid_zombie_bucket": "Відро рідини виклику зомбі",
+
+  "itemGroup.create_mechanical_spawner:main": "Створення механічного спавнера",
+
+  "config.jade.plugin_create_mechanical_spawner.spawner_data": "Дані механічного спавнера",
+
+  "create_mechanical_spawner.recipe.spawner": "Рецепти спавнера",
+
+  "create_mechanical_spawner.generic.biome_dependant": "Залежить від біома",
+
+  "create_mechanical_spawner.spawner.tooltip.progress": "Прогрес: %d%%",
+  "create_mechanical_spawner.spawner.scrollValue.label": "Спавн на висоті (у блоках)",
+
+  "block.create_mechanical_spawner.mechanical_spawner.tooltip": "МЕХАНІЧНИЙ СПАВНЕР",
+  "block.create_mechanical_spawner.mechanical_spawner.tooltip.summary": "Створює _мобів_ із рідини виклику.",
+
+
+  "_": "->------------------------] ІНТЕРФЕЙС [------------------------<-",
+
+  "itemGroup.create_mechanical_spawner:main": "Створення механічного спавнера",
+
+  "config.jade.plugin_create_mechanical_spawner.spawner_data": "Дані механічного спавнера",
+
+  "create_mechanical_spawner.recipe.spawner": "Рецепти спавнера",
+
+  "create_mechanical_spawner.generic.biome_dependant": "Залежить від біома",
+
+  "create_mechanical_spawner.spawner.tooltip.progress": "Прогрес: %d%%",
+  "create_mechanical_spawner.spawner.scrollValue.label": "Спавн на висоті (у блоках)",
+
+  "block.create_mechanical_spawner.mechanical_spawner.tooltip": "МЕХАНІЧНИЙ СПАВНЕР",
+  "block.create_mechanical_spawner.mechanical_spawner.tooltip.summary": "Створює _мобів_ із рідини виклику.",
+
+  "_": "Дякуємо за переклад Create Mechanical Spawner! --Будь ласка - Tenwoc"
+
+}

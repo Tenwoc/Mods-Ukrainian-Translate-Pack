@@ -1,0 +1,11 @@
+{
+  "blackdogsmoddinglibrary.dialogs.confirm.title": "Підтвердити",
+  "blackdogsmoddinglibrary.radial.page_footer": "Сторінка %d з %d",
+  "blackdogsmoddinglibrary.radial.right_click_for": "Кацніть §9ПКМ§r, щоб",
+  "blackdogsmoddinglibrary.radial.right_click_for_options": "Кацніть §9ПКМ§r, щоб переглянути опції",
+  "blackdogsmoddinglibrary.tooltip.item.level": "Рівень",
+  "blackdogsmoddinglibrary.tooltip.item.level_progress": "%d (%d/%d)",
+  "blackdogsmoddinglibrary.tooltip.item.max_level": "§5Максимальний§r",
+  "blackdogsmoddinglibrary.tooltip.item.not_able_to_level": "§cНезрівнянний§r",
+  "blackdogsmoddinglibrary.tooltip.item.soulbound_achieved": "Ви відчуваєте, що зрослися зі своїми %s, і навіть смерть не розлучить вас з ними!"
+}

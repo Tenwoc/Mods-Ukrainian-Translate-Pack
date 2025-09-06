@@ -1,0 +1,20 @@
+{
+  "key.lightoverlay.category": "Накладення світла",
+  "key.lightoverlay.enable_overlay": "Перемикання накладання світла",
+  "description.lightoverlay.caching": "Кешування рекомендується, якщо охоплення більше 16 або якщо ви працюєте на картоплі.",
+  "config.lightoverlay.general": "Загальні",
+  "config.lightoverlay.reach": "Охоплення:",
+  "config.lightoverlay.caching": "Кешування:",
+  "config.lightoverlay.crossLevel": "Рівень освітлення:",
+  "config.lightoverlay.secondaryLevel": "Вторинний рівень освітлення:",
+  "config.lightoverlay.showNumber": "Показувати номер замість нього:",
+  "config.lightoverlay.smoothLines": "Плавні лінії:",
+  "config.lightoverlay.underwater": "Відображати під водою:",
+  "config.lightoverlay.lineWidth": "Ширина лінії:",
+  "config.lightoverlay.yellowColor": "Жовтий колір:",
+  "config.lightoverlay.secondaryColor": "Вторинний колір:",
+  "config.lightoverlay.redColor": "Червоний колір:",
+  "config.lightoverlay.invalidColor": "Неправильний колір",
+  "config.lightoverlay.mushroom": "Відображати у грибних біомах:",
+  "config.lightoverlay.useListWhileCaching": "Використовувати glList під час кешування:"
+}

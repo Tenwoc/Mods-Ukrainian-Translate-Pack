@@ -1,0 +1,41 @@
+{
+  "itemGroup.forcemaster_rpg.general": "Forcemaster",
+
+  "item.forcemaster_rpg.forcemaster_spell_book": "Майстерність сили",
+
+  "item.forcemaster_rpg.wooden_knuckle": "Дерев'яний кастет",
+  "item.forcemaster_rpg.stone_knuckle": "Кам'яний кастет",
+  "item.forcemaster_rpg.iron_knuckle": "Залізний кастет",
+  "item.forcemaster_rpg.golden_knuckle": "Золотий кастет",
+  "item.forcemaster_rpg.diamond_knuckle": "Діамантовий кастет",
+  "item.forcemaster_rpg.netherite_knuckle": "Незеритовий кастет",
+  "item.forcemaster_rpg.guardian_knuckle": "Кастет Хранителя",
+  "item.forcemaster_rpg.legendary_golden_knuckle": "Легендарний золотий кастет",
+  "item.forcemaster_rpg.bloody_knuckle": "Кривавий кастет",
+
+  "item.forcemaster_rpg.oriene_head": "Бандана Орієна",
+  "item.forcemaster_rpg.oriene_chest": "Костюм Орієна",
+  "item.forcemaster_rpg.oriene_legs": "Штани Орієна",
+  "item.forcemaster_rpg.oriene_feet": "Чоботи Орієна",
+  "item.forcemaster_rpg.phasleb_head": "Головний убір Фазлеба",
+  "item.forcemaster_rpg.phasleb_chest": "Костюм Фазлеба",
+  "item.forcemaster_rpg.phasleb_legs": "Штани Фазлеба",
+  "item.forcemaster_rpg.phasleb_feet": "Черевики Фазлеба",
+
+  "spell.forcemaster_rpg.straight_punch.name": "Прямий удар",
+  "spell.forcemaster_rpg.straight_punch.description": "Потужний удар, що завдає {damage} фізичної шкоди та послаблює ціль.",
+  "spell.forcemaster_rpg.stonehand.name": "Кам'яна рука",
+  "spell.forcemaster_rpg.stonehand.description": "Накладає на гравця ефект Кам'яної руки на {effect_duration} секунд. Дає шанс оглушити ціль при атаці кулаком.",
+  "spell.forcemaster_rpg.asal.name": "Ассалам алейкум",
+  "spell.forcemaster_rpg.asal.description": "Концентрований удар, завдає {damage}_0 таємничої і {damage}_1 фізичної шкоди, виснажує заклинателя.",
+  "spell.forcemaster_rpg.barq_esna.name": "Baraqijal Esna",
+  "spell.forcemaster_rpg.barq_esna.description": "Робить ціль вразливою до таємної шкоди, підвищує шанс криту по цілі.",
+  "spell.forcemaster_rpg.burstcrack.name": "Розривна тріщина",
+  "spell.forcemaster_rpg.burstcrack.description": "Із силою розбиває землю, завдаючи {damage} фізичної шкоди і збиваючи цілі з ніг.",
+  "spell.forcemaster_rpg.belial_smashing.name": "Небесний розгром",
+  "spell.forcemaster_rpg.belial_smashing.description": "Випускає заряд у напрямку, збиваючи цілі з ніг і завдаючи {damage} фізичної шкоди.",
+  "spell.forcemaster_rpg.sonichand.name": "Надзвуковий кулак",
+  "spell.forcemaster_rpg.sonichand.description": "Безперервно б'є у повітря, створюючи вакуум, який завдає {damage}_0 таємничої та {damage}_1 фізичної шкоди ",
+  "spell.forcemaster_rpg.arcane_blast.name": "Таємничий вибух",
+  "spell.forcemaster_rpg.arcane_blast.description": "Випускає заряд вибуху, який пробивають цілі наскрізь, завдаючи {pierce} шкоди і {damage} таємничої шкоди."
+}

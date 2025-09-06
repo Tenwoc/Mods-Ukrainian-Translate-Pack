@@ -1,0 +1,31 @@
+{
+  "item.digs_dnd_origins.red_scale": "Червона луска",
+  "item.digs_dnd_origins.blue_scale": "Синя луска",
+  "item.digs_dnd_origins.green_scale": "Зелена луска",
+  "item.digs_dnd_origins.white_scale": "Біла луска",
+  "item.digs_dnd_origins.black_scale": "Чорна луска",
+  "item.digs_dnd_origins.brass_scale": "Латунна луска",
+
+  "item.digs_dnd_origins.horns": "Роги",
+  "Removing your horns is a permanent decision...": "Видалення рогів - це остаточне рішення...",
+  "...I mean unless you make them a helmet": "...я маю на увазі, якщо ти не зробиш їм шолом.",
+  "item.digs_dnd_origins.leather_horns_helmet": "Шкіряний рогатий шолом",
+  "item.digs_dnd_origins.iron_horns_helmet": "Залізний рогатий шолом",
+  "item.digs_dnd_origins.golden_horns_helmet": "Золотий рогатий шолом",
+  "item.digs_dnd_origins.diamond_horns_helmet": "Діамантовий рогатий шолом",
+  "item.digs_dnd_origins.netherite_horns_helmet": "Незеритовий рогатий шолом",
+
+  "item.digs_dnd_origins.toy_frog_spawn_egg": "Іграшкова жаба",
+
+  "itemGroup.dndOrigins": "Dig's DnD Origins",
+
+  "entity.digs_dnd_origins.blue_breath": "Блискавичний подих",
+  "entity.digs_dnd_origins.green_breath": "Отруйний подих",
+  "entity.digs_dnd_origins.red_breath": "Вогняний подих",
+  "entity.digs_dnd_origins.white_breath": "Крижаний подих",
+  "entity.digs_dnd_origins.toy_frog": "Іграшкова жаба",
+
+  "effect.digs_dnd_origins.freeze": "Заморожування",
+  "effect.digs_dnd_origins.stun": "Оглушення"
+  
+}

@@ -1,0 +1,20 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Демонічний акт",
+  "icon": "besmirchment:demonic_deed",
+  "entry_color": "C15600",
+  "flag": "bsm_tamable_demons",
+  "advancement": "besmirchment:demonic_deed",
+  "hidden": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ця довідка про нечистоту свідчить про те, що ви вбили $(l:besmirchment:creatures/beelzebub)Вельзевула$()... напевно.$(br)Його можна підписати, використовуючи $(l:bewitchment:tools/taglock)Фіксатор мітки$().$(br)Підписаний демонічний акт, у свою чергу, може бути використаний для приборкання $(l:bewitchment:creatures/demon)Демонів$() тих, для кого вона призначена."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "besmirchment:demonic_deed",
+      "text": "Приборкані $(l:bewitchment:creatures/demon)Демони $() поводяться подібно до вовків.$(br)Вони допомагатимуть вам у бою, їм можна наказати залишатися на місці або слідувати за вами, і вони все одно пропонуватимуть вам свої послуги.$(br)Крім того, їх можна нагодувати тортом для відновлення здоров'я."
+    }
+  ]
+}

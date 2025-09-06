@@ -1,0 +1,15 @@
+{
+  "hitindication.configgui.enable_hit_indication":"Увімкнути індикацію влучень",
+  "hitindication.configgui.max_indicator_count":"Максимальна кількість індикаторів",
+  "hitindication.configgui.display_hits_from_negative_potions":"Відображати удари від болісних негативних ефектів",
+  "hitindication.configgui.size_depends_on_damage":"Велика шкода робить індикатор більшим",
+  "hitindication.configgui.indicator_default_scale":"Початковий масштаб індикатора (0-100)",
+  "hitindication.configgui.fade_rate":"Швидкість згасання індикатора (такти)",
+  "hitindication.configgui.indicator_opacity":"Непрозорість індикатора (0-100)",
+  "hitindication.configgui.display_blue_indicators":"Показати індикатор блокування",
+  "hitindication.configgui.enable_hit_markers":"Увімкнути мітки крита/вбивства",
+  "hitindication.configgui.enable_distance_scaling":"Увімкнути масштабування відстані",
+  "hitindication.configgui.distance_scaling_cutoff":"Відсікання масштабування відстані",
+  "hitindication.configgui.enable_non_directional_damage":"Увімкнути індикатор ненаправленої шкоди",
+  "hitindication.configgui.distance_from_crosshair":"Відстань до прицілу"
+}

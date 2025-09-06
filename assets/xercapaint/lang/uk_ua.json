@@ -1,0 +1,34 @@
+{
+  "itemGroup.xercapaint.paint_tab": "Paint",
+
+  "item.xercapaint.item_palette": "Палітра",
+  "item.xercapaint.item_canvas": "Полотно",
+  "item.xercapaint.item_canvas_large": "Велике полотно",
+  "item.xercapaint.item_canvas_long": "Довге полотно",
+  "item.xercapaint.item_canvas_tall": "Високе полотно",
+  "item.xercapaint.item_easel": "Мольберт",
+
+  "palette.basic_count": "%1$s базових кольорів",
+  "palette.custom_count": "%1$s налаштованих кольорів",
+  "palette.empty": "Порожня палітра",
+
+  "canvas.empty": "Пусте полотно",
+  "canvas.byAuthor": "за %1$s",
+  "canvas.signButton": "Підписати",
+  "canvas.finalizeButton": "Підписати та закрити",
+  "canvas.finalizeWarning": "Зверніть увагу! Коли ви підпишете картину, вона стане недоступною для редагування.",
+  "canvas.generation.0": "Оригінал",
+  "canvas.generation.1": "Копія оригналу",
+  "canvas.generation.2": "Копія копії",
+  "canvas.editTitle": "Введіть назву картини:",
+
+  "xercapaint.export.success": "Картину експортвано в %1$s",
+  "xercapaint.export.fail": "Не вдалося експортувати картину",
+  "xercapaint.import.success": "Картину імпортовано",
+  "xercapaint.import.fail.1": "Щоб імпортувати картину в режимі виживання, у вашій основній руці має бути порожнє полотно",
+  "xercapaint.import.fail.2": "Ваше полотно має бути відповідного розміру, щоб імпортувати цю картину в режимі виживання (%1$s)",
+  "xercapaint.import.fail.3": "Ви повинні мати палітру з усіма основними кольорами у другій руці, щоб імпортувати картину в режимі виживання",
+  "xercapaint.import.fail.4": "Не вдалося розібрати команду або прочитати файл картини (%1$s)",
+
+  "easel.deny": "Хтось інший зараз працює над цим полотном"
+}

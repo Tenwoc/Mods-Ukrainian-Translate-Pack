@@ -1,0 +1,14 @@
+{
+  "badwithernocookiereloaded.general.tooltip": "Глобальні основні звуки та події, які можна скасувати",
+  "badwithernocookiereloaded.xtra.tooltip": "Додаткові локалізовані звуки, які можна скасувати",
+  "badwithernocookiereloaded.localized settings.silenceus": "Приклад: entity.sheep.step - використовуйте /listen для інших звуків",
+
+  "text.autoconfig.bwncr.title": "Bad Wither No Cookie - Reloaded",
+  "text.autoconfig.bwncr.option.general": "Загальне",
+  "text.autoconfig.bwncr.option.general.silenceWither": "Заглушити Візера",
+  "text.autoconfig.bwncr.option.general.silenceTrader": "Заглушити крамаря",
+  "text.autoconfig.bwncr.option.general.silenceDragon": "Заглушити дракона",
+  "text.autoconfig.bwncr.option.general.silenceLightning": "Заглушити блискавку",
+  "text.autoconfig.bwncr.option.general.silenceUs": "Заглушити Нас",
+  "text.autoconfig.bwncr.option.general.debugMode": "Режим налагодження"
+}

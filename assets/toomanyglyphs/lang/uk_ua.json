@@ -1,0 +1,52 @@
+{
+	"toomanyglyphs.glyph_name.glyph_filter_block": "Фільтр: Блок",
+	"toomanyglyphs.glyph_desc.glyph_filter_block": "Виконує закляття, тільки якщо ціль - блок.",
+
+	"toomanyglyphs.glyph_name.glyph_filter_entity": "Фільтр: Істота",
+	"toomanyglyphs.glyph_desc.glyph_filter_entity": "Виконує закляття, тільки якщо ціль - істота.",
+
+	"toomanyglyphs.glyph_name.glyph_filter_living": "Фільтр: Жива істота",
+	"toomanyglyphs.glyph_desc.glyph_filter_living": "Виконує закляття, тільки якщо ціль - жива істота.",
+
+	"toomanyglyphs.glyph_name.glyph_filter_living_not_player": "Фільтр: Не гравець",
+	"toomanyglyphs.glyph_desc.glyph_filter_living_not_player": "Виконує закляття, тільки якщо ціль - не гравець.",
+
+	"toomanyglyphs.glyph_name.glyph_filter_living_not_monster": "Фільтр: Не монстр",
+	"toomanyglyphs.glyph_desc.glyph_filter_living_not_monster": "Виконує закляття, тільки якщо ціль - не монстр.",
+
+	"toomanyglyphs.glyph_name.glyph_filter_player": "Фільтр: Гравець",
+	"toomanyglyphs.glyph_desc.glyph_filter_player": "Виконує закляття, тільки якщо ціль - гравець.",
+
+	"toomanyglyphs.glyph_name.glyph_filter_monster": "Фільтр: Монстр",
+	"toomanyglyphs.glyph_desc.glyph_filter_monster": "Виконує закляття, тільки якщо ціль - монстр.",
+
+	"toomanyglyphs.glyph_name.glyph_lay_on_hands": "Рукоприкладання",
+	"toomanyglyphs.glyph_desc.glyph_lay_on_hands": "Контекстно-залежне поєднання Дотику та Самості. Закляття націлюється на усіх живих не монстрів, і на себе в інших випадках. Не витрачає ману, якщо ціль взагалі не вдалося досягти. Фільтр «живий, не монстр» можна перевизначити, додавши слідом інший гліф Фільтра.",
+
+	"toomanyglyphs.glyph_name.glyph_reverse_direction": "Зворотний напрямок",
+	"toomanyglyphs.glyph_desc.glyph_reverse_direction": "Змінює напрямок дії закляття на протилежний від влученої сторони блока.",
+
+	"toomanyglyphs.glyph_name.glyph_chaining": "Зчеплювання",
+	"toomanyglyphs.glyph_desc.glyph_chaining": "Змушує закляття пройти ланцюжком через кілька згрупованих цілей, або подібних блоків, або живих істот, окрім самого заклинача. Доповнення AOE збільшить кількість цілей. Доповнення Пронзанням збільшить максимальну відстань стрибка між цілями.",
+
+	"toomanyglyphs.glyph_name.glyph_ray": "Луч",
+	"toomanyglyphs.glyph_desc.glyph_ray": "Миттєво вражає на вказану ціль, на обмеженій, але більшій відстані, ніж Дотик. Мана витрачається незалежно від того, влучив промінь у ціль чи ні. Доповнення AOE збільшить дальність. Доповнення Чутливістю дозволить променю влучати у рослини, магосвіти та інші матеріали, що не блокують рух. Доповнення другою Чутливістю дозволить променю влучати у рідини.",
+
+	"toomanyglyphs.glyph_name.glyph_filter_item": "Фільтр: Предмет",
+	"toomanyglyphs.glyph_desc.glyph_filter_item": "Виконує закляття, тільки якщо ціль - викинутий предмет. Доволі безкорисно для Снаряда чи базового Променя, котрі не можуть влучати у неживих істот.",
+
+	"toomanyglyphs.glyph_name.glyph_filter_animal": "Фільтр: Тварина",
+	"toomanyglyphs.glyph_desc.glyph_filter_animal": "Виконує закляття, тільки якщо ціль - тварина.",
+
+	"toomanyglyphs.glyph_name.glyph_filter_is_baby": "Фільтр: Дитинча",
+	"toomanyglyphs.glyph_desc.glyph_filter_is_baby": "Виконує закляття, тільки якщо ціль - дитинча, що здатне дорослішати.",
+
+	"toomanyglyphs.glyph_name.glyph_filter_is_mature": "Фільтр: Дорослий",
+	"toomanyglyphs.glyph_desc.glyph_filter_is_mature": "Виконує закляття, тільки якщо ціль - доросла істота, що здатна мати дитинчат.",
+
+	"toomanyglyphs.glyph_name.glyph_amplify_two": "Посилення II",
+	"toomanyglyphs.glyph_desc.glyph_amplify_two": "Інтенсивний варіант Посилення, що обмінює ефективність на силу.",
+
+	"toomanyglyphs.glyph_name.glyph_amplify_three": "Посилення III",
+	"toomanyglyphs.glyph_desc.glyph_amplify_three": "Несамовитий варіант Посилення, який вливає в ефект непомірну кількість мани."
+}

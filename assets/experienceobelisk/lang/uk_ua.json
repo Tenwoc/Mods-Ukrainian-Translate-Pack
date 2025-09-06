@@ -1,0 +1,38 @@
+{
+  "item.experienceobelisk.raw_experience_bucket": "Відро необробленого досвіду",
+  "item.experienceobelisk.cognitium_bucket": "Відро осягнію",
+
+  "block.experienceobelisk.experience_obelisk": "Обеліск досвіду",
+
+  "fluid.experienceobelisk.raw_experience": "Необроблений досвід",
+  "fluid.experienceobelisk.cognitium": "Осягній",
+
+  "itemGroup.experience_obelisk": "Experience Obelisk",
+
+  "title.experienceobelisk.experience_obelisk": "Обеліск досвіду",
+  "title.experienceobelisk.experience_obelisk.store": "Полгинути",
+  "title.experienceobelisk.experience_obelisk.retrieve": "Витягти",
+  "title.experienceobelisk.experience_obelisk.settings": "Налаштування",
+  "title.experienceobelisk.experience_obelisk.radius": "Радіус",
+  "title.experienceobelisk.experience_obelisk.redstone": "Редстоун",
+
+  "tooltip.experienceobelisk.experience_obelisk.add1": "Полгинути §a1§f рівень досвіду",
+  "tooltip.experienceobelisk.experience_obelisk.add10": "Полгинути §a10§f рівнів досвіду",
+  "tooltip.experienceobelisk.experience_obelisk.addAll": "Полгинути §aвесь§f досвід",
+  "tooltip.experienceobelisk.experience_obelisk.drain1": "Витягти §c1§f рівень досвіду",
+  "tooltip.experienceobelisk.experience_obelisk.drain10": "Витягти §c10§f рівнів досвіду",
+  "tooltip.experienceobelisk.experience_obelisk.drainAll": "Витягти §cвесь§f досвід",
+
+  "tooltip.experienceobelisk.experience_obelisk.item_fluid_amount": "§7Кількість рідини:§r %s",
+  "tooltip.experienceobelisk.experience_obelisk.item_levels": "%s §7рівнів§r",
+
+  "tooltip.experienceobelisk.experience_obelisk.radius": "§6Скинути§f радіус до звичайного",
+  "tooltip.experienceobelisk.experience_obelisk.settings": "Налаштування...",
+  "tooltip.experienceobelisk.experience_obelisk.back": "Повернутися...",
+
+  "button.experienceobelisk.experience_obelisk.settings": "§l▶§r",
+  "button.experienceobelisk.experience_obelisk.back": "§l◀§r",
+  "button.experienceobelisk.experience_obelisk.ignored": "§cІгнор.§r",
+  "button.experienceobelisk.experience_obelisk.enabled": "§aУвімк.§r"
+
+}

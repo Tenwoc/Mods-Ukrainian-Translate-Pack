@@ -1,0 +1,28 @@
+{
+    "text.autoconfig.nameplate.title": "Конфігурація Talk Bubbles",
+    "text.autoconfig.nameplate.option.backgroundOpacity": "Непрозорість фону",
+    "text.autoconfig.nameplate.option.nameColor": "Колір назви",
+    "text.autoconfig.nameplate.option.backgroundColor": "Колір фону",
+    "text.autoconfig.nameplate.option.showHealth": "Показати здоров'я",
+    "text.autoconfig.nameplate.option.showLevel": "Показати рівень",
+    "text.autoconfig.nameplate.option.squaredDistance": "Відстань у квадраті",
+    "text.autoconfig.nameplate.option.excluded_entities": "Виключені об'єкти",
+    "text.autoconfig.nameplate.option.levelMultiplier": "Множник рівня",
+    "text.autoconfig.nameplate.option.showHostileOnly": "Показувати тільки ворожих",
+    "text.autoconfig.nameplate.option.showNameplateIfObstructed": "Показувати табличку, якщо перешкода",
+    "text.autoconfig.nameplate.option.excludedEntities": "Виключені об'єкти",
+    "text.autoconfig.nameplate.option.nameplateHeight": "Висота таблички",
+    "text.autoconfig.nameplate.option.nameplateSize": "Розмір таблички",
+    "text.autoconfig.nameplate.option.levelTitle": "Назва рівня",
+    "text.autoconfig.nameplate.option.healthBar": "Індикатор здоров'я",
+    "text.autoconfig.nameplate.option.useRpgDifficultyLvl": "Використовувати RpgDifficulty Lvl",
+
+    "text.nameplate.health": "HP: %d/%d",
+    "text.nameplate.level": "§eLv.%s",
+    "text.nameplate.name": "§r%s",
+    "text.nameplate.jade.level": " §eLv.%s",
+
+    "config.waila.plugin_nameplate": "Іменна табличка",
+    "config.waila.plugin_nameplate.mob_level_info": "Інформація про рівень мобів",
+    "config.jade.plugin_nameplate.mob_level_info": "Інформація про рівень мобів"
+}

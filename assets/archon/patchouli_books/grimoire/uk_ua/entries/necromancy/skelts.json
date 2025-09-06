@@ -1,0 +1,28 @@
+{
+  "name": "Скелти",
+  "icon": "archon:textures/gui/book/skelt_head.png",
+  "category": "archon:necromancy",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Скелти - особливий вид скелетів, що викликаються $(l:archon:necromancy/undead_staff)Посохом нежиті$(). Існує три вида Скелтів, кожен викликається різними $(l:archon:necromancy/souls)Ядрами душі$(). Скелт буде слідувати за вами і допомагати в битвах. Ви можете наказати їм не слідувати за вами, клацнувши ПКМ Посохом нежиті."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "archon:skelt",
+      "text": "Звичайні Скелти обділені особливими здібностями і досить повільні."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "archon:prime_skelt",
+      "text": "Просунуті Скельти швидші та володіють залізними мечами. Ви можете обладнати їх бронею, натискаючи ПКМ крадькома."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "archon:omega_skelt",
+      "text": "Ватажки Скелтів - величезні Скелти з купою здоров'я. Вони повільні, але міцні, та атакують сильніше.",
+      "scale": 1.2
+    }
+  ]
+}

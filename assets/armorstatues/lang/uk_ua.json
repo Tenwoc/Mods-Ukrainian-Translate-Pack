@@ -1,0 +1,23 @@
+{
+  "armorstatues.dataSync.failure": "Неможливо змінити дані стійки для обладунків: %s",
+  "armorstatues.dataSync.failure.noArmorStand": "Немає дійсної стійки для обладунків",
+  "armorstatues.dataSync.failure.noPermission": "Нема дозволу",
+  "armorstatues.dataSync.failure.notFinished": "Черга не порожня",
+  "armorstatues.dataSync.failure.outOfRange": "За межами досяжності",
+  "armorstatues.dataSync.finished": "Завершено відправку даних стійки для обладунків, що стоять в черзі",
+  "armorstatues.screen.vanillaTweaks.checkTarget": "Перевірити ціль стійки для обладунків",
+  "armorstatues.screen.vanillaTweaks.checkTarget.description": "Виділяє найближчу до гравця стійку для обладунків в межах трьох блоків, яку буде скориговано. Через те, як працюють пакети даних, конструктор не обов'язково є тією стійкою для обладунків, яка відкрила меню конструктора.",
+  "armorstatues.screen.vanillaTweaks.lock": "Заблокувати",
+  "armorstatues.screen.vanillaTweaks.lock.description": "Блокування стійки для обладунків запобігає її зміні за допомогою меню конструктора та вимикає взаємодію зі слотами спорядження.",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndHead": "Обміняти руку та шолом",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndHead.description": "Переміщує предмети між слотами основної руки та шолома.",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndOffhand": "Обмінятися руками",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndOffhand.description": "Переміщує предмети між слотами основної руки та іншої.",
+  "armorstatues.screen.vanillaTweaks.toolRack": "Вирівняти інструмент як стійку для інструментів",
+  "armorstatues.screen.vanillaTweaks.toolRack.description": "Вирівнює стійку для гаку над нею так, щоб інструмент, який тримається на ній, здавався підвішеним. Також блокує стійку та вимикає всі слоти, окрім основного.",
+  "armorstatues.screen.vanillaTweaks.triggerSent": "Відправлено!",
+  "armorstatues.screen.vanillaTweaks.unlock": "Розблокувати",
+  "armorstatues.screen.vanillaTweaks.unlock.description": "Розблокування стійки для обладунків повертає всі налаштування, зроблені за допомогою попереднього блокування.",
+  "statuemenus.screen.type.alignments": "Вирівнювання",
+  "statuemenus.screen.type.vanillaTweaks": "Vanilla Tweaks"
+}

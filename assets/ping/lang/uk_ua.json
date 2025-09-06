@@ -1,0 +1,17 @@
+{
+  "_comment": "Categories",
+  "ping:key.categories.ping": "Ping",
+
+  "_comment": "Pings",
+  "key.ping": "Відкрити меню Ping",
+  "ping.key.alert": "Позначка (Попередження)",
+  "ping.key.mine": "Позначка (Добути)",
+  "ping.key.look": "Позначка (Подивитися)",
+  "ping.key.goto": "Позначка (Йти сюди)",
+
+  "_comment": "Subtitles",
+  "ping.subtitle.bloop": "З'являється позначка",
+
+  "_comment": "Gui",
+  "ping.pingSelect.title" : "Вибір позначки"
+}

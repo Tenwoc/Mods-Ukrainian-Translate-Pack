@@ -1,0 +1,73 @@
+{
+  "tooltip.press_shift.left": "Натисніть [",
+  "tooltip.press_shift.center": "Shift",
+  "tooltip.press_shift.right": "]",
+
+  "sortilege.death_screen.position": "Локація:",
+  "sortilege.crafting.requires_level": "Ви повинні мати принаймні рівень %s!",
+  "sortilege.crafting.requires_advancement": "Вам потрібно завершити «%s»!",
+
+
+  "item.sortilege.wooden_staff" : "Дерев'яний посох",
+  "item.sortilege.stone_staff" : "Кам'яний посох",
+  "item.sortilege.iron_staff" : "Залізний посох",
+  "item.sortilege.golden_staff" : "Золотий посох",
+  "item.sortilege.diamond_staff" : "Діамантовий посох",
+  "item.sortilege.netherite_staff" : "Незеритовий посох",
+
+  "sortilege.staff.cost": "Коштує",
+  "sortilege.experience": "Досвід",
+
+  "attribute.name.generic.staff_damage": "магічної шкоди",
+  "attribute.name.generic.staff_pierce": "пробивання",
+  "attribute.name.generic.staff_range": "дистанції атаки",
+
+  "enchantment.sortilege.potency": "Потенціал",
+  "enchantment.sortilege.potency.desc": "Збільшує шкоду посоха.",
+  "enchantment.sortilege.stability": "Стабільність",
+  "enchantment.sortilege.stability.desc": "Збільшує дистанцію атаки посоха.",
+  "enchantment.sortilege.chaining": "Зв'язування",
+  "enchantment.sortilege.chaining.desc": "Збільшує патеричне пробиття.",
+  "enchantment.sortilege.wisdom": "Мудрість",
+  "enchantment.sortilege.wisdom.desc": "Зменує споживання досвіду посоха.",
+  "enchantment.sortilege.push": "Відштовх",
+  "enchantment.sortilege.push.desc": "Посох відштовхує ціль.",
+  "enchantment.sortilege.pull": "Притягування",
+  "enchantment.sortilege.pull.desc": "Посох притягує ціль.",
+  "enchantment.sortilege.brazier": "Жаровник",
+  "enchantment.sortilege.brazier.desc": "Посох підпалює ціль",
+  "enchantment.sortilege.blizzard": "Хуртовина",
+  "enchantment.sortilege.blizzard.desc": "Посох заморожує ціль",
+  "enchantment.sortilege.blast": "Підрив",
+  "enchantment.sortilege.blast.desc": "Промінь посоха вибухає при зіткненні.",
+  "enchantment.sortilege.blitz": "Грім",
+  "enchantment.sortilege.blitz.desc": "Посох разить ціль шоком.",
+  "enchantment.sortilege.ignorance_curse": "Прокляття невігластва",
+  "enchantment.sortilege.ignorance_curse.desc": "Використання посоха споживає досвід.",
+
+  "enchantment.sortilege.magic_protection": "Магічний захист",
+  "enchantment.sortilege.magic_protection.desc": "Зменшує шкоду від магії.",
+  "enchantment.sortilege.arcane": "Чаклунство",
+  "enchantment.sortilege.arcane.desc": "Конвертує тип завданої шкоди на магічну.",
+  "enchantment.sortilege.soulbound": "Душевний зв'язок",
+  "enchantment.sortilege.soulbound.desc": "Предмет залишиться з вами після смерті.",
+
+  "enchantment.minecraft.feather_falling.desc": "Зменшує шкоду від падіння та телепортації перлиною Енду. Максимальний рівень забезпечує повний захист.",
+  "enchantment.minecraft.fire_protection.desc": "Зменшує шкоду від вогню та час горіння. Повний комплект із максимальним рівнем забезпечує повний захист.",
+  "enchantment.minecraft.bane_of_arthropods.desc": "Уповільнює та збільшує шкоду проти членистоногих накшталт павуків та лусківниць.",
+  "enchantment.minecraft.unbreaking.desc": "Змушує інструмент повільніше втрачати міцність. Максимальний рівень забезпечує незнищенність",
+
+  "sortilege.enchantments": "Чари",
+  "sortilege.catalyst": "При застосуванні на ковадлі:",
+
+
+  "item.sortilege.witch_hat": "Відьомський капелюх",
+
+
+  "item.sortilege.antidote": "Антидот",
+  "sortilege.antidote.cures": "Знешкоджує:",
+
+
+  "item.sortilege.limitite": "Лімінит",
+  "sortilege.limitite.desc": "Поєднайте із лазуритом на столі коваля, щоб збільшити максимум зачарувань предмета!"
+}

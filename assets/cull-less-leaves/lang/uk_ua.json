@@ -1,0 +1,9 @@
+{
+  "cull-less-leaves.title": "Зменшене вибракування листя",
+  "cull-less-leaves.option.enabled": "Увімкнено",
+  "cull-less-leaves.option.depth": "Глибина",
+  "cull-less-leaves.option.depth.tooltip": "Кількість шарів листя до того, як внутрішня частина листя буде вибракувана.\n1 = найшвидша, але має найменш гарний вигляд.\n2 = рекомендована.\n4 = найповільніша, та має найбільш гарний вигляд.",
+  "cull-less-leaves.sodium.option.enabled": "Вибракування листя",
+  "cull-less-leaves.sodium.option.enabled.description": "Вмикає мод Cull Less Leaves.",
+  "cull-less-leaves.sodium.option.depth": "Глибина вибракування листя"
+}

@@ -1,0 +1,9 @@
+{
+  "attribute.name.ranged_weapon.damage" : "шкоди в дальньому бою",
+  "attribute.name.ranged_weapon.haste" : "швидкості натягування",
+  "attribute.name.ranged_weapon.pull_time" : "секунд натягування",
+  "item.modifiers.both_hands": "Коли одягнено:",
+  "effect.ranged_weapon.damage": "Удар",
+  "effect.ranged_weapon.haste": "Швидкий вогонь",
+  "item.ranged_weapon.pull_time": "%1$s секунд натягування"
+}

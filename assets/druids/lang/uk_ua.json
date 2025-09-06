@@ -1,0 +1,45 @@
+{
+  "itemGroup.druids.general": "Druids of Storm and Spirit",
+  "item.druids.shard_frost": "Уламок морозної душі",
+  "item.druids.shard_arcane": "Уламок таємничої душі",
+  "item.druids.shard_fire": "Уламок вогняної душі",
+  "item.druids.shard_lightning": "Уламок блискавичної душі",
+
+  "item.druids.aetherial_druid_spell_book": "Книга заклинань ефіру",
+  "item.druids.storm_druid_spell_book": "Книга заклинань душе-вольту",
+  "item.druids.wand_lightning": "Блискавична паличка",
+  "item.druids.wand_netherite_lightning": "Незеритова блискавична паличка",
+  "item.druids.staff_lightning": "Блискавичний посох",
+  "item.druids.staff_netherite_lightning": "Незеритова блискавичний посох",
+  "item.druids.primalist_head": "Капюшон первісника",
+  "item.druids.primalist_chest": "Кріплення первісника",
+  "item.druids.primalist_legs": "Пояс первісника",
+  "item.druids.primalist_feet": "Черевики первісника",
+  "effect.druids.eternalyouth": "Вічна молодість",
+  "effect.druids.cleansingfire": "Очищувальний вогонь",
+  "effect.druids.voltaic_burst": "Вольтаїчний вибух",
+
+  "spell.druids.chain.name": "Гальванічне зараження",
+  "spell.druids.chain.description": "Завдає {damage}_0 шкоди Блискавки, {damage}_1 Душі, {damage}_2 Таємничості. Стріляє у ворога сковуючим снарядом.",
+  "spell.druids.voltaic_burst.name": "Вольтаїчний вибух",
+  "spell.druids.voltaic_burst.description": "Завдає {damage}_0 шкоди Блискавки, {damage}_1 Душі, {damage}_2 Таємничості. Дає або збільшуєосвіжаючий, деінкрементуючий бафф, який масштабує ваші відповідні здібності, а також швидкість заклинання на 2 секунди. Щоразу, коли закінчується дія цього ефекту, ви виконуєте нове заклинання.",
+
+  "spell.druids.spiritbolts.name": "Примарні болти",
+  "spell.druids.spiritbolts.description": "Завдає {damage}_0 шкоди Душі, {damage}_1 Морозу або {damage}_2 Вогню на секунду. Вистрілює примарними, вогняними або крижаними болтами, залежно від ваги ваших заклинань. Коли ви стріляєте болтом, ви отримуєте тимчасовий бафф на невибрану стихію.",
+  "spell.druids.stormcall.name": "Штормовий поклик",
+  "spell.druids.stormcall.description": "Завдає {damage}_0 шкоди Блискавки, {damage}_1 Душі 4 рази на секунду. Викликає шторм над вами.",
+  "spell.druids.soulflare.name": "Спалах душі",
+  "spell.druids.soulflare.description": "Завдає {damage} шкоди Душі 2 рази в секунду. Запускає кулю примарної енергії, яка зносить ворогів у напрямку свого руху.",
+  "spell.druids.tendrils.name": "Штормовий сплеск",
+  "spell.druids.tendrils.description": "Обрушує удар по ворогах перед вами, з меншим шансом спрацювати по ворогах, яких більше 4 в зоні дії. Додатково помножує блискавичну та таємничу шкоду/с на 1.5.",
+  "spell.druids.lightningblast.name": "Примарний удар",
+  "spell.druids.lightningblast.description": "Завдає {damage}_0 шкоди Блискавки, {damage}_1 Душі. Цілить у ворога, щоб вразити його та ворогів поблизу.",
+  "spell.druids.galvanic_rite.name": "Примарний шок",
+  "spell.druids.galvanic_rite.description": "Вдаряє ворога таємничою енергією з 0,45 від стихій Душі і Таємничості, по одному до 5 накопичуючи силу блискавки на 10 секунд.",
+  "spell.druids.maelstromtotem.name": "Тотем Вихору",
+  "spell.druids.maelstromtotem.description": "Завдає {damage}_0 шкоди Душі, {damage}_1 Морозу {damage}_2, Вогню 4 рази на секунду. Закликає на цільовий блок або поверхню тотем Вихору, який, у свою чергу, викликає три вихори, що закручуються навколо нього по спіралі.",
+
+  "spell.druids.soulfirebastion.name": "Бастіон вогню душі",
+  "spell.druids.soulfirebastion.description": "Перемикайтеся між двома захисними баффами, виконуючи при перемиканні руйнівну атаку на основі Душі та Поглинання або Вогню та Здоров'я, і встановлюючи себе на половину відповідних сердець. Очищаюче полум'я регенерує 60%% ваших ран протягом 4 секунд (сумується з Рішучістю). Вічна молодість жертвує 90% вашого здоров'я, щоб отримати 20 Перепоглинання. Перемістіться під час активації, щоб цього зняти баф."
+
+}

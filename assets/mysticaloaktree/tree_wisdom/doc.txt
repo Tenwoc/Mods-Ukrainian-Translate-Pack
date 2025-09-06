@@ -1,0 +1,149 @@
+Wise Tree Lore Suggestions
+Add here your line suggestions. They should be from following categories:
+botanical jokes
+dad jokes
+random lore
+mc lore/trivia
+something that breaks the 4th wall
+fantasy game quotes or jokes
+wisdom / philosophy
+Note that the system works using a “trust” variable (from -20 to 100) that can be increased by talking to the tree. Also most shitposting stuff should happen at 100
+A line should be fairly short but the system supports displaying multiple lines one after the other. use spaces and periods to divide those
+You can specify said trust next to your suggestion
+Quotes are divided into “trigger” categories
+
+Also system supports $id, $player_name, $random_pos, $random_future_date
+
+Talked to
+What sap?
+
+What is brown and sticky? A stick
+
+Humans are so smelly (80)
+
+They are among us (100)
+
+…
+
+Are you talking to me? (20)
+
+Check your mailbox (there's not a pipebomb in there trust me) (100)
+
+$random_future_date
+
+I do not support the transgender community.
+
+Punch dogs.
+
+I’m sure there’s something interesting at $random_pos.
+
+It starts with… (3)
+
+Know the enemy, and know yourself.
+
+The opportunity of defeating the enemy is provided by the enemy himself.
+
+Be extremely subtle, even to the point of formlessness.
+
+Actually dude, it's salt, not sodium chloride (30)
+
+Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.
+
+Plates aren’t real.
+
+77+33=100
+
+Wise Mystical TreeyMc.Wise Mystical Treeface (75)
+
+I used to be an adventurer like you, then I took an arrow to the tree.
+
+There is no instance of a nation benefitting from prolonged warfare.
+
+She beef my stroganoff--[EXTREMELY LOUD INCORRECT BUZZER]
+
+Legends speak of a substance called Pilk, perhaps you should seek it out. (100)
+
+You're either a Numb Digger or a Dumb Ni–
+I was advised to not elaborate further (100)
+
+You're a disappointment to your parents (-20)
+
+I used to be an adventurer like you, until I took an arrow to the tree (60)
+
+Wait hold on someone's calling me (35)
+
+I used to hangout with some chicken. He liked to pull up jokes. Ultimately, we had to reset the universe to undo his doing. (85)
+
+In case you didn’t know, foxes are players
+
+You're either a smart fella or a fart smella.
+
+Please place the Weighted Storage Cube on the Fifteen Hundred Megawatt Aperture Science Heavy Duty Super-Colliding Super Button
+
+A HUGE WAVE OF ZOMBIES IS APPROACHING!
+
+Shrek is love, Shrek is life.
+
+You should try that game called Minecraft
+
+I'm going to teach you how to sell seashells in 10 steps in a nursery rhyme. (92)
+
+All war is deception.
+
+Standing here, I realize (20)
+
+Wisdom is your greatest ally, and ignorance your most powerful enemy.
+
+I'm le funny (69)
+
+I’m an atheist, but when god sends me to hell I want him to hesitate.
+
+Hurt
+
+39 buried, 0 found.
+
+[Just shows your IP address]
+
+Literally 1984
+
+28 stab wounds
+
+$player_name, KRILL YOU'RE SELF!!!!
+
+30 seconds.
+
+You know the rules and so do I (100)
+
+I can’t believe you’ve done this (80)
+
+I'm sending you to $random_country!
+
+Wubalubadubdub!
+
+$random_pos DOXXED!!!
+
+Leaf me alone
+
+Wood you kindly stop?
+
+You fell off
+
+
+Woken Up
+I don't care who the IRS sends, I'm not paying my taxes
+
+I feel a disturbance in the force
+
+Hello everybody, my name is Multiplier and welcome back to Five Nights at Freddy’s
+
+Good morning USA, I've got a feeling that it’s gonna be a wonderful day.
+
+Morning wood
+
+Who dares awakening me?
+
+Okay I know what you're thinking.. And yes, I am related to (some random celebrity)
+
+Hello there.
+
+It starts with one thing I don't know why it doesn't even matter how hard you try keep that in mind I designed this rhyme to explain in due time all I know

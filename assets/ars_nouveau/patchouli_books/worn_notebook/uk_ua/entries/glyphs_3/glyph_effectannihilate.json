@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:glyphs_3",
+  "icon": "adamsarsplus:glyph_effectannihilate",
+  "name": "adamsarsplus.glyph_name.glyph_effectannihilate",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.glyph_desc.glyph_effectannihilate"
+    },
+    {
+      "type": "ars_nouveau:glyph_recipe",
+      "recipe": "adamsarsplus:glyph_effectannihilate"
+    }
+  ],
+  "sortnum": 2
+}

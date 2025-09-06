@@ -1,0 +1,21 @@
+{
+  "itemGroup.travel_anchors": "Travel Anchors",
+
+  "item.travel_anchors.travel_staff": "Посох подорожі",
+
+  "enchantment.travel_anchors.range": "Діапазон",
+  "enchantment.travel_anchors.teleportation": "Телепортація",
+
+  "block.travel_anchors.travel_anchor": "Якір подорожі",
+
+  "screen.travel_anchors.travel_anchor": "Якір подорожі",
+  "screen.travel_anchors.search": "Пошук",
+  "screen.travel_anchors.nameless": "Введіть ім'я, щоб використовувати його",
+
+  "tooltip.travel_anchors.travel_anchor_block": "Подивіться на це за допомогою Посоха мандрівника або заклинання телепортації, щоб телепортуватися.",
+  "tooltip.travel_anchors.travel_staff": "ПКМ крадькома, щоб телепортуватися на невелику відстань. Подивіться на якір подорожі, щоб скасувати дію.",
+
+  "travel_anchors.tp.success": "Телепортовано на %s.",
+  "travel_anchors.tp.fail": "Не знайдено якір подорожі.",
+  "travel_anchors.hop.fail": "Місце призначення заблоковано."
+}

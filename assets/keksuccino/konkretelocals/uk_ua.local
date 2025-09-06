@@ -1,0 +1,19 @@
+general.width = Ширина
+general.height = Висота
+general.on = Увімкнено
+general.off = Вимкнено
+
+popup.done = Готово
+
+popup.yesno.confirm = Підтвердити
+popup.yesno.cancel = Скасувати
+
+popup.notification.accept = Прийняти
+
+popup.choosefile.back = НАЗАД
+popup.choosefile.title = Виберіть файл
+popup.choosefile.choose = Виберіть
+popup.choosefile.supported = Підтримувані типи файлів:
+
+configscreen.boolean.enabled = Увімкнено
+configscreen.boolean.disabled = Вимкнено

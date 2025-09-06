@@ -1,0 +1,93 @@
+{
+  "modmenu.descriptionTranslation.lootbeams": "Високоналаштовані промені у лежачих предметів!",
+
+
+  "lootbeams.config.main": "Основне",
+
+  "lootbeams.config.main.renderNameColor": "Колір від імені",
+  "lootbeams.config.main.renderNameColor.description": "Робить колір променів такий самий, як у імені предмета (за винятком кольору рідкості). \nМає пріоритет над render_rarity_color.",
+
+  "lootbeams.config.main.renderRarityColor": "Колір від рідкості",
+  "lootbeams.config.main.enderRarityColor.description": "Робить колір кращої такий самий як у рідкості предмета.",
+
+  "lootbeams.config.main.beamRadius": "Радіус променя",
+  "lootbeams.config.main.beamRadius.description": "Регулює радіус променя.",
+
+  "lootbeams.config.main.beamHeight": "Висота променя",
+  "lootbeams.config.main.beamHeight.description": "Регулює висоту променя.",
+
+  "lootbeams.config.main.beamYOffset": "Відступи по Y променя",
+  "lootbeams.config.main.beamYOffset.description": "Регулює відступ по Y у променя.",
+
+  "lootbeams.config.main.beamAlpha": "Альфа променя",
+  "lootbeams.config.main.beamAlpha.description": "Регулює прозорість у променя.",
+
+  "lootbeams.config.main.beamRenderDistance": "Відстань відображення",
+  "lootbeams.config.main.beamRenderDistance.description": "Наскільки близько повинен бути гравець, щоб бачити промені.\n (примітка: ItemEntities припиняють своє відображення на відстані 24 блоків, тож це ліміт для променів.)",
+
+  "lootbeams.config.main.beamFadeDistance": "Відстань до зникнення",
+  "lootbeams.config.main.beamFadeDistance.description": "Наскільки близько повинен бути гравець, щоб промінь зник.\n (примітка: плавне згладжування відбувається протягом 1 юніта)",
+
+  "lootbeams.config.main.colorOverrides": "Перевизначення кольорів",
+  "lootbeams.config.main.colorOverrides.description": "Перевизначає колір променя предмета в шістнадцятковому (hex) форматі.\n Повинен слідувати такому формату: (registryname=hexcolor) або (#tagname=hexcolor).\n Наприклад: \"minecraft:stone=#00FF00\", \"#minecraft:piglin_loved=gold\". Так само можна використовувати Mod Id.",
+
+
+  "lootbeams.config.items": "Предмети",
+
+  "lootbeams.config.item.allItems": "Усі предмети",
+  "lootbeams.config.item.allItems.description": "Чи повинні всі предмети мати промені.\n Має пріоритет над only_equipment і only_rare.",
+
+  "lootbeams.config.item.onlyRare": "Тільки Рідкісні",
+  "lootbeams.config.item.onlyRare.description": "Чи повинні промені відображатися тільки у предметів з рідкістю.",
+
+  "lootbeams.config.item.onlyEquipment": "Тільки обладунки",
+  "lootbeams.config.item.onlyEquipment.description": "Чи повинні промені відображатися тільки на обладунках.\n (Сюди входять: Мечі, Інструменти, Броня, Щити, Луки, Арбалети, Тризуби, Стріли, і Вудки)",
+
+  "lootbeams.config.item.whitelist": "Білий список",
+  "lootbeams.config.item.whitelist.description": "Ім'я в регістрі предметів, на яких будуть промені завжди.\n Наприклад: \"minecraft:stone\", \"minecraft:iron_ingot\", \nМожна так само вказати Mod Id для включення всіх предметів з мода.",
+
+  "lootbeams.config.item.blacklist": "Чорний список",
+  "lootbeams.config.item.blacklist.description": "Ім'я в Регістрі предметів, на яких будуть промені, НЕ БУДЕ НІКОЛИ. Володіє пріоритетом взагалі на все.\nМожна так само вказати Mod Id для включення всіх предметів з мода.",
+
+
+  "lootbeams.config.nametags": "Теги Предметів",
+
+  "lootbeams.config.nametags.borders": "Краї",
+  "lootbeams.config.nametags.borders.description": "Відображати теги з краями. У разі вимкнення теги будуть малюватися суцільним фоном як імена гравців.",
+
+  "lootbeams.config.nametags.render": "Відображати теги",
+  "lootbeams.config.nametags.render.description": "Відповідає за те, чи варто їх відмальовувати.",
+
+  "lootbeams.config.nametags.renderOnlook": "Відображати Теги під час погляду",
+  "lootbeams.config.nametags.renderOnlook.description": "У разі ввімкнення теги з'являтимуться тільки під час наведення на предмет.",
+
+  "lootbeams.config.nametags.renderStackCount": "Відображати Кількість",
+  "lootbeams.config.nametags.renderStackCount.description": "Відображає кількість викинутого предмета в Тезі.",
+
+  "lootbeams.config.nametags.lookSensitivity": "Чутливість наведення",
+  "lootbeams.config.nametags.lookSensitivity.description": "Як далеко може гравець відвести приціл і все ще бачити Тег",
+
+  "lootbeams.config.nametags.textAlpha": "Альфа Тексту",
+  "lootbeams.config.nametags.textAlpha.description": "Прозорість тексту у Тега",
+
+  "lootbeams.config.nametags.backgroundAlpha": "Альфа Фону",
+  "lootbeams.config.nametags.backgroundAlpha.description": "Прозорість фону/країв у Тега.",
+
+  "lootbeams.config.nametags.scale": "Масштаб Тега",
+  "lootbeams.config.nametags.scale.description": "Відповідає за розмір Тега на екрані.",
+
+  "lootbeams.config.nametags.yOffset": "Відступ по Y у тега",
+  "lootbeams.config.nametags.yOffset.description": "Відступ по Y у тега.",
+
+  "lootbeams.config.nametags.dmcLootCompat.rarities": "Підтримка рідкостей DMCLoot",
+  "lootbeams.config.nametags.dmcLootCompat.rarities.description": "Відмальовувати дрібніший тег рідкості під преметами з рідкістю DMCLoot.",
+
+  "lootbeams.config.nametags.rarities": "Свої рідкості",
+  "lootbeams.config.nametags.rarities.description": "Можна вказати, які рідкості повинні відображатися. \nExample: \"Екзотичний\", \"Стародавній\". \nЦі рядки повинні бути другим рядком у предмета при наведенні в інвентарі. \nВ основному використовується в модпаках.",
+
+  "lootbeams.config.nametags.alwaysDrawRarities": "Відображати рідкості",
+  "lootbeams.config.nametags.alwaysDrawRarities.description": "Можна вказати предмети, на яких рідкості повинні відображатися завжди. \nНаприклад: \"#minecraft:music_discs\" відображатиме маленьким тегом автори та ім'я треку. \nЗверніть увагу, що цей текст є тільки другим рядком лінії під ім'ям предмета, тож це не спрацює з відображенням усіх зачарувань. (але 1 зачарування виглядає добре)",
+
+  "lootbeams.config.nametags.whiteRarities": "Білі рідкості",
+  "lootbeams.config.nametags.whiteRarities.description": "Чи повинні рідкості ігнорувати свій колір і відображатися білими \n(В основному використовується в модпаках)"
+}

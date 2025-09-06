@@ -1,0 +1,55 @@
+{
+  "itemGroup.extradisks": "Extra Disks",
+
+  "item.extradisks.advanced_storage_housing": "Просунутий корпус диска",
+  "item.extradisks.raw_withering_processor": "Необроблений висушений процесор",
+  "item.extradisks.withering_processor": "Висушений процесор",
+  "block.extradisks.advanced_machine_casing": "Просунутий корпус машини",
+
+  "_comment": "Предмети",
+  "item.extradisks.256k_storage_part": "Компонент зберігання 256k",
+  "item.extradisks.1024k_storage_part": "Компонент зберігання 1024k",
+  "item.extradisks.4096k_storage_part": "Компонент зберігання 4096k",
+  "item.extradisks.16384k_storage_part": "Компонент зберігання 16384k",
+  "item.extradisks.65536k_storage_part": "Компонент зберігання 65536k",
+  "item.extradisks.262144k_storage_part": "Компонент зберігання 262m",
+  "item.extradisks.1048576k_storage_part": "Компонент зберігання 1048m",
+  "item.extradisks.infinite_storage_part": "Нескінченний компонент зберігання",
+
+  "item.extradisks.256k_storage_disk": "Предметний диск 256k",
+  "item.extradisks.1024k_storage_disk": "Предметний диск 1024k",
+  "item.extradisks.4096k_storage_disk": "Предметний диск 4096k",
+  "item.extradisks.16384k_storage_disk": "Предметний диск 16384k",
+  "item.extradisks.65536k_storage_disk": "Предметний диск 65536k",
+  "item.extradisks.262144k_storage_disk": "Предметний диск 262m",
+  "item.extradisks.1048576k_storage_disk": "Предметний диск 1048m",
+  "item.extradisks.infinite_storage_disk": "Нескінченний предметний диск",
+
+  "block.extradisks.256k_storage_block": "Блок зберігання 256k",
+  "block.extradisks.1024k_storage_block": "Блок зберігання 1024k",
+  "block.extradisks.4096k_storage_block": "Блок зберігання 4096k",
+  "block.extradisks.16384k_storage_block": "Блок зберігання 16384k",
+  "block.extradisks.65536k_storage_block": "Блок зберігання 65536k",
+  "block.extradisks.262144k_storage_block": "Блок зберігання 262m",
+  "block.extradisks.1048576k_storage_block": "Блок зберігання 1048m",
+  "block.extradisks.infinite_storage_block": "Нескінченний блок зберігання",
+
+  "_comment": "Рідини",
+  "item.extradisks.16384k_fluid_storage_part": "Рідинний компонент зберігання 16384k",
+  "item.extradisks.65536k_fluid_storage_part": "Рідинний компонент зберігання 65536k",
+  "item.extradisks.262144k_fluid_storage_part": "Рідинний компонент зберігання 262m",
+  "item.extradisks.1048576k_fluid_storage_part": "Рідинний компонент зберігання 1048m",
+  "item.extradisks.infinite_fluid_storage_part": "Нескінченний рідинний компонент зберігання",
+
+  "item.extradisks.16384k_fluid_storage_disk": "Рідинний диск 16384k",
+  "item.extradisks.65536k_fluid_storage_disk": "Рідинний диск 65536k",
+  "item.extradisks.262144k_fluid_storage_disk": "Рідинний диск 262m",
+  "item.extradisks.1048576k_fluid_storage_disk": "Рідинний диск 1048m",
+  "item.extradisks.infinite_fluid_storage_disk": "Нескінченний рідинний диск",
+
+  "block.extradisks.16384k_fluid_storage_block": "Рідинний блок зберігання 16384k",
+  "block.extradisks.65536k_fluid_storage_block": "Рідинний блок зберігання 65536k",
+  "block.extradisks.262144k_fluid_storage_block": "Рідинний блок зберігання 262m",
+  "block.extradisks.1048576k_fluid_storage_block": "Рідинний блок зберігання 1048m",
+  "block.extradisks.infinite_fluid_storage_block": "Нескінченний рідинний блок зберігання"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Відьомський барвник",
+  "icon": "besmirchment:witchy_dye{Color:15479455}",
+  "entry_color": "C15600",
+  "flag": "bsm_witchy_dye",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Просто змішавши трохи $(l:bewitchment:brewing/elemental_oils) Аквацерату$() з $(item)Барвником$(), можна виготовити зручний барвник, який можна кидати. $(br)Цей Відьомський барвник використовується переважно для підфарбовування зношеного спорядження, але його також можна використовувати для фарбування $(l:bewitchment:creatures/werewolf)Перевертнів$()."
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "besmirchment:oil_crafting/witchy_bleach",
+      "text": "Щоб створити Відьомський барвник, спочатку зваріть Відьомський відбілювач у вашому $(l:bewitchment:tools/witch_cauldron)Казані$().$(br)Ви можете додати йому фарбувальних властивостей, комбінуючи його з будь-яким барвником, інакше він буде діяти як відбілювач для видалення кольору."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Наступний $(l:bewitchment:rituals/rituals)Ритуал$() випадковим чином пофарбує будь-який доданий до нього Відьомський Відбілювач.$(br)Зверніть увагу, що відбілювач, який потрібно пофарбувати, потрібно додавати після початку Ритуалу."
+    },{
+      "type": "bewitchment:ritual",
+      "recipe": "besmirchment:rituals/color_typhoon",
+      "text": "Чудово."
+    }
+  ]
+}

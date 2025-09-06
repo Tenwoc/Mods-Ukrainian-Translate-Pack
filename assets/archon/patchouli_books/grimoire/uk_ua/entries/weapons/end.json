@@ -1,0 +1,26 @@
+{
+  "name": "Енд",
+  "icon": "archon:end_gem",
+  "category": "archon:weapons",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:ender_blade",
+      "text": "Клинок Енду дає змогу телепортуватися на відстань до 8 блоків у напрямку погляду."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:ender_blade"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:void_scepter",
+      "text": "Скіпетр порожнечі, так само як і клинок Енду, дає змогу телепортуватися на відстань до 10 блоків у напрямку погляду. Однак, після телепортації відбувається вибух, який завдає шкоди істотам поблизу."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:void_scepter"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "entity.tinyfoes.babyfication_ray": "Дитяфікаційний промінь",
+  "itemGroup.tinyfoes.tiny_tab": "Вкладка Tiny",
+  "effect.tinyfoes.babyfication": "Дитяфікація",
+  "item.tinyfoes.babyfier": "Дитяфікатор",
+  "item.minecraft.potion.effect.babyfication": "Зілля дитяфікації",
+  "item.minecraft.splash_potion.effect.babyfication": "Вибухове зілля дитяфікації",
+  "item.minecraft.lingering_potion.effect.babyfication": "Осідальне зілля дитяфікації",
+  "item.minecraft.tipped_arrow.effect.babyfication": "Стріла дитяфікації"
+}

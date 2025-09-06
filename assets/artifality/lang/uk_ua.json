@@ -1,0 +1,218 @@
+{
+    "modmenu.descriptionTranslation.artifality": "Колекція нових унікальних артефактів, блоків, заклинань та інших речей.",
+
+    "itemGroup.artifality.items": "Artifality",
+    "itemGroup.artifality.items.button.discord": "Завітайте до нашого серверу Discord!",
+
+    "tag.item.artifality.artifacts": "Артефакти",
+    "tag.item.artifality.crystals": "Кришталі",
+    "tag.item.artifality.lenses": "Лінзи",
+    "tag.item.artifality.trinkets": "Аксесуари",
+
+    "block.artifality.lunastone": "Місячний камінь",
+    "block.artifality.lunalight": "Місячне світло",
+    "block.artifality.lunar_portal": "Місячний портал",
+    "block.artifality.lunar_trading_pedestal": "Місячний торговий п'єдестал",
+
+    "block.artifality.upgrading_pedestal": "П'єдестал покращення",
+    "tooltip.artifality.upgrading_pedestal.0": "Дозволяє покращити ваші",
+    "tooltip.artifality.upgrading_pedestal.1": "артефакти, клацніть ПКМ з 3",
+    "tooltip.artifality.upgrading_pedestal.2": "інкрементальними кулями, щоб покращити",
+    "tooltip.artifality.upgrading_pedestal.3": "до 2-го рівня, або ж зіркою",
+    "tooltip.artifality.upgrading_pedestal.4": "Незеру для 3-го рівня.",
+
+    "block.artifality.common_crate": "Звичайний ящик",
+    "block.artifality.rare_crate": "Рідкісний ящик",
+    "block.artifality.legendary_crate": "Легендарний ящик",
+    "block.artifality.lunar_crate": "Місячний ящик",
+
+    "block.artifality.incremental_crystal_block": "Інкрементальний кришталевий блок",
+    "block.artifality.lunar_crystal_block": "Місячний кришталевий блок",
+    "block.artifality.life_crystal_block": "Життєвий кришталевий блок",
+    "block.artifality.wrath_crystal_block": "Гнівний кришталевий блок",
+
+    "block.artifality.incremental_crystal_slab": "Інкрементальна кришталева плита",
+    "block.artifality.lunar_crystal_slab": "Місячна кришталева плита",
+    "block.artifality.life_crystal_slab": "Життєва кришталева плита",
+    "block.artifality.wrath_crystal_slab": "Гнівна кришталева плита",
+
+    "block.artifality.incremental_crystal_stairs": "Інкрементальні кришталеві сходи",
+    "block.artifality.lunar_crystal_stairs": "Місячні кришталеві сходи",
+    "block.artifality.life_crystal_stairs": "Життєві кришталеві сходи",
+    "block.artifality.wrath_crystal_stairs": "Гнівні кришталеві сходи",
+
+    "block.artifality.incremental_crystal_cluster": "Інкрементальний кришталевий кластер",
+    "block.artifality.lunar_crystal_cluster": "Місячний кришталевий кластер",
+    "block.artifality.life_crystal_cluster": "Життєвий кришталевий кластер",
+    "block.artifality.wrath_crystal_cluster": "Гнівний кришталевий кластер",
+
+    "block.artifality.incremental_crystal_geode": "Інкрементальна кришталева жеода",
+    "block.artifality.lunar_crystal_geode": "Місячна кришталева жеода",
+    "block.artifality.life_crystal_geode": "Життєва кришталева жеода",
+    "block.artifality.wrath_crystal_geode": "Гнівна кришталева жеода",
+
+    "block.artifality.incremental_crystal_lens": "Інкрементальні кришталеві лінзи",
+    "tooltip.artifality.incremental_crystal_lens.0": "Збільшує рівень ефекту від",
+    "tooltip.artifality.incremental_crystal_lens.1": "маяка, якщо розмістити",
+    "tooltip.artifality.incremental_crystal_lens.2": "його зверху.",
+
+    "block.artifality.lunar_crystal_lens": "Місячні кришталеві лінзи",
+    "tooltip.artifality.lunar_crystal_lens.0": "Дає випадковий позитивний",
+    "tooltip.artifality.lunar_crystal_lens.1": "ефект гравцям у радіусі маяка,",
+    "tooltip.artifality.lunar_crystal_lens.2": "якщо він знаходиться над ними.",
+
+    "block.artifality.life_crystal_lens": "Життєві кришталеві лінзи",
+    "tooltip.artifality.life_crystal_lens.0": "Дає додаткові 10 сердець",
+    "tooltip.artifality.life_crystal_lens.1": "ефект гравцям у радіусі маяка,",
+    "tooltip.artifality.life_crystal_lens.2": "якщо він знаходиться над ними.",
+
+    "block.artifality.empty_lens": "Порожні лінзи",
+    "tooltip.artifality.empty_lens.0": "Так, порожні.",
+
+    "item.artifality.incremental_crystal": "Інкрементальний кристал",
+    "item.artifality.lunar_crystal": "Місячний кристал",
+    "item.artifality.life_crystal": "Життєвий кристал",
+    "item.artifality.wrath_crystal": "Гнівний кристал",
+
+    "item.artifality.incremental_orb": "Інкрементальна куля",
+
+    "item.artifality.lunar_knowledge": "Місячне знання",
+    "tooltip.artifality.lunar_knowledge.0": "Дає випадкові",
+    "tooltip.artifality.lunar_knowledge.1": "місячні чари",
+    "tooltip.artifality.lunar_knowledge.2": "з негативними та",
+    "tooltip.artifality.lunar_knowledge.3": "позитивними ефектами.",
+
+    "item.artifality.balloon": "Куля",
+    "tooltip.artifality.balloon.0": "Збільшує висоту стрибка,",
+    "tooltip.artifality.balloon.1": "та коли екіпірована",
+    "tooltip.artifality.balloon.2": "дає повільне падіння.",
+    "tooltip.artifality.balloon.3": "",
+    "tooltip.artifality.balloon.4": "Клацніть ПКМ тримаючи у руці, щоб",
+    "tooltip.artifality.balloon.5": "заповнити подихом дракона.",
+
+    "item.artifality.invisibility_cape": "Накидка-невидимка",
+    "tooltip.artifality.invisibility_cape.0": "Робить власника невидимим",
+    "tooltip.artifality.invisibility_cape.1": "під час підкрадання,",
+    "tooltip.artifality.invisibility_cape.2": "включно з його спорядженням.",
+
+    "item.artifality.zeus_staff": "Посох Зевса",
+    "tooltip.artifality.zeus_staff.0": "Викликає блискавку в цільову точку",
+    "tooltip.artifality.zeus_staff.1": "і нейтралізує шкоду від блискавки,",
+    "tooltip.artifality.zeus_staff.2": "поки знаходиться в основній руці.",
+    "tooltip.artifality.zeus_staff.3": "На 2-му рівні може заряджати кріперів.",
+
+    "item.artifality.forest_staff": "Посох лісу",
+    "tooltip.artifality.forest_staff.0": "Дозволяє легко висаджувати",
+    "tooltip.artifality.forest_staff.1": "паростки та удобрювати їх,",
+    "tooltip.artifality.forest_staff.2": "забираючи необхідні паростки",
+    "tooltip.artifality.forest_staff.3": "і кісткове борошно",
+    "tooltip.artifality.forest_staff.4": "інвентарю гравця.",
+
+    "item.artifality.harvest_staff": "Посох врожаю",
+    "tooltip.artifality.harvest_staff.0": "Дозволяє легко збирати",
+    "tooltip.artifality.harvest_staff.1": "врожай і удобрювати його,",
+    "tooltip.artifality.harvest_staff.2": "забираючи необхідне насіння",
+    "tooltip.artifality.harvest_staff.3": "і кісткове борошно",
+    "tooltip.artifality.harvest_staff.4": "з інвентарю гравця.",
+
+    "item.artifality.floral_staff": "Квітковий посох",
+    "tooltip.artifality.floral_staff.0": "Дозволяє легко вирощувати",
+    "tooltip.artifality.floral_staff.1": "квіти та збирати їх,",
+    "tooltip.artifality.floral_staff.2": "забираючи необхідне кісткове борошно",
+    "tooltip.artifality.floral_staff.3": "з інвентарю гравця.",
+
+    "item.artifality.hand_fan": "Ручне віяло",
+    "tooltip.artifality.hand_fan.0": "При використанні піднімає вас",
+    "tooltip.artifality.hand_fan.1": "в небо, розкидуючи",
+    "tooltip.artifality.hand_fan.2": "сутностей навколо вас.",
+
+    "item.artifality.lunar_crystal_wand": "Місячний кришталевий жезл",
+    "tooltip.artifality.lunar_crystal_wand.0": "При використанні створює хмару",
+    "tooltip.artifality.lunar_crystal_wand.1": "з випадковим позитивним",
+    "tooltip.artifality.lunar_crystal_wand.2": "ефектом під гравцем.",
+
+    "item.artifality.haunting_soul": "Мисливець за душами",
+    "tooltip.artifality.haunting_soul.0": "Збирайте душі своїх",
+    "tooltip.artifality.haunting_soul.1": "ворогів, щоб завдавати більше",
+    "tooltip.artifality.haunting_soul.2": "шкоди від атак.",
+
+    "enchantment.artifality.lunar_damage": "Місячна шкода",
+    "tooltip.artifality.lunar_damage.0": "Збільшує шкоду в ближньому бою,",
+    "tooltip.artifality.lunar_damage.1": "але зменшує швидкість атаки.",
+    "enchantment.artifality.lunar_damage.desc": "Збільшує шкоду в ближньому бою, але зменшує швидкість атаки.",
+
+    "enchantment.artifality.sliding_curse": "Прокляття ковзання",
+    "tooltip.artifality.sliding_curse.0": "Змушує вас ковзати по всіх поверхнях",
+    "tooltip.artifality.sliding_curse.1": "блоках, як по льоду.",
+    "enchantment.artifality.sliding_curse.desc": "Змушує вас ковзати по всіх блоках, як по льоду.",
+
+    "enchantment.artifality.volatile_curse": "Прокляття летючості",
+    "tooltip.artifality.volatile_curse.0": "Створює невеликий вибух",
+    "tooltip.artifality.volatile_curse.1": "при отриманні шкоди.",
+    "enchantment.artifality.volatile_curse.desc": "Створює невеликий вибух при отриманні шкоди.",
+
+    "enchantment.artifality.refraction": "Заломлення",
+    "tooltip.artifality.refraction.0": "Робить елемент",
+    "tooltip.artifality.refraction.1": "обладнання невидимим.",
+    "enchantment.artifality.refraction.desc": "Робить елемент обладнання невидимим.",
+
+    "enchantment.artifality.lunar_miner": "Місячний шахтар",
+    "tooltip.artifality.lunar_miner.0": "Чим глибше ви знаходитесь,",
+    "tooltip.artifality.lunar_miner.1": "тим ефективніший інструмент.",
+    "enchantment.artifality.lunar_miner.desc": "Чим глибше ви знаходитесь, тим ефективніший інструмент.",
+
+    "effect.artifality.fall_damage_immunity": "Імунітет до пошкоджень при падінні",
+
+    "advancements.artifality.root.name": "Artifality",
+    "advancements.artifality.root.description": "Ласкаво просимо до світу Artifality!",
+
+    "advancements.artifality.artifact_first.name": "Що це таке?",
+    "advancements.artifality.artifact_first.description": "Знайдіть свій перший артефакт",
+
+    "advancements.artifality.nature_staffs.name": "Маг природи",
+    "advancements.artifality.nature_staffs.description": "Отримайте всі природні посохи",
+
+    "advancements.artifality.artifact_all.name": "Колекційне видання",
+    "advancements.artifality.artifact_all.description": "Отримайте їх усіх!",
+
+    "advancements.artifality.artifact_upgrade.name": "Шикарні речі",
+    "advancements.artifality.artifact_upgrade.description": "Покращіть артефакт до 2-го рівня",
+
+    "advancements.artifality.gather_crystal.name": "Блискітки!",
+    "advancements.artifality.gather_crystal.description": "Отримайте свій перший кристал",
+
+    "advancements.artifality.gather_all_crystals.name": "Віддайте мені всі блискітки!",
+    "advancements.artifality.gather_all_crystals.description": "Чого ти знову так зациклився на них?",
+
+    "advancements.artifality.negative_vision.name": "Це щоб краще бачити тебе.",
+    "advancements.artifality.negative_vision.description": "Створіть будь-яку з трьох лінз.",
+
+    "advancements.artifality.positive_vision.name": "Я отримав силу, що й не снилася моєму батьку!",
+    "advancements.artifality.positive_vision.description": "Створіть всі три лінзи",
+
+    "advancements.artifality.upgrader_first.name": "Покращення?",
+    "advancements.artifality.upgrader_first.description": "Створіть п'єдестал покращення",
+
+    "advancements.artifality.upgrader_second.name": "Покращення!",
+    "advancements.artifality.upgrader_second.description": "Удоскональте п'єдестал покращення до 2-го рівня",
+
+    "advancements.artifality.upgrader_third.name": "Я обожнюю покращення!",
+    "advancements.artifality.upgrader_third.description": "Удоскональте П'єдестал покращення до 3-го рівня",
+
+    "advancements.artifality.rethink_life.name": "Навіщо?",
+    "advancements.artifality.rethink_life.description": "Покращіть всі артефакти до 3-го рівня",
+
+    "misc.artifality.small": "Малий",
+    "misc.artifality.medium": "Середній",
+    "misc.artifality.large": "Великий",
+
+    "misc.artifality.souls": " Душі: %.",
+    "misc.artifality.extra_damage": " Додаткової шкоди: %",
+    "misc.artifality.max_level": " Максимальний рівень: %.",
+    "misc.artifality.cooldown": " Перезаряджання: % сек",
+    "misc.artifality.effect_level": " Рівень ефекту: %",
+    "misc.artifality.damage": " Шкода: %.",
+    "misc.artifality.press_shift": "<↓ Shift>",
+    "misc.artifality.tier": "Рівень: %",
+    "misc.artifality.placeable": "Розміщується"
+}

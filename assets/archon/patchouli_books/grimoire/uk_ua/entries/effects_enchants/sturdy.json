@@ -1,0 +1,12 @@
+{
+  "name": "Міцна шкіра",
+  "icon": "archon:textures/mob_effect/sturdy.png",
+  "category": "archon:effects_enchants",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ефект Міцна шкіра відбиває більшість снарядів. Можна отримати, використовуючи $(l:archon:weapons/earth#terranean)Теранітову сокиру$() або через консоль."
+    }
+  ]
+}

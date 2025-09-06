@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:glyphs_2",
+  "icon": "adamsarsplus:glyph_effecteruption",
+  "name": "adamsarsplus.glyph_name.glyph_effecteruption",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.glyph_desc.glyph_effecteruption"
+    },
+    {
+      "type": "ars_nouveau:glyph_recipe",
+      "recipe": "adamsarsplus:glyph_effecteruption"
+    }
+  ],
+  "sortnum": 2
+}

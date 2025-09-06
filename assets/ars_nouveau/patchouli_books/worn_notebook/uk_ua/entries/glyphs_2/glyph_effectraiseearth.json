@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:glyphs_2",
+  "icon": "adamsarsplus:glyph_effectraiseearth",
+  "name": "adamsarsplus.glyph_name.glyph_effectraiseearth",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.glyph_desc.glyph_effectraiseearth"
+    },
+    {
+      "type": "ars_nouveau:glyph_recipe",
+      "recipe": "adamsarsplus:glyph_effectraiseearth"
+    }
+  ],
+  "sortnum": 2
+}

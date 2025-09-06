@@ -1,0 +1,22 @@
+{
+  "gui.appmek.chemical": "Хімічний",
+  "text.appmek.creative_tab": "Applied Mekanistics",
+  "text.appmek.qio_frequency": "Переодичність QIO (%s)",
+
+  "item.appmek.chemical_cell_housing": "Корпус хімічної ME-комірки",
+  "item.appmek.creative_chemical_cell": "Творча МЕ-комірка хімічного сховища",
+
+  "item.appmek.chemical_storage_cell_1k": "1k МЕ-комірка хімічного сховища",
+  "item.appmek.chemical_storage_cell_4k": "4k МЕ-комірка хімічного сховища",
+  "item.appmek.chemical_storage_cell_16k": "16k МЕ-комірка хімічного сховища",
+  "item.appmek.chemical_storage_cell_64k": "64k МЕ-комірка хімічного сховища",
+  "item.appmek.chemical_storage_cell_256k": "256k МЕ-комірка хімічного сховища",
+
+  "item.appmek.portable_chemical_storage_cell_16k": "16k портативна хімічна комірка",
+  "item.appmek.portable_chemical_storage_cell_1k": "1k портативна хімічна комірка",
+  "item.appmek.portable_chemical_storage_cell_4k": "4k портативна хімічна комірка",
+  "item.appmek.portable_chemical_storage_cell_64k": "64k портативна хімічна комірка",
+  "item.appmek.portable_chemical_storage_cell_256k": "256k портативна хімічна комірка",
+
+  "item.appmek.chemical_p2p_tunnel": "Хімічний P2P тунель"
+}

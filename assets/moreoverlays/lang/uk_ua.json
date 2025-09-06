@@ -1,0 +1,44 @@
+{
+  "key.moreoverlays.category": "More Overlays Updated",
+  "key.moreoverlays.chunkbounds.desc": "Перемикання меж чанків",
+  "key.moreoverlays.lightoverlay.desc": "Перемикання накладання світла",
+
+  "gui.config.moreoverlays.title": "Налаштування More Overlays Updated",
+  "gui.config.moreoverlays.reset_config": "Скинути налаштування",
+  "gui.config.moreoverlays.undo": "Скасувати зміни",
+  "gui.config.moreoverlays.save": "Зберегти",
+
+  "config.moreoverlays.category.lightoverlay": "Накладання світла",
+  "config.moreoverlays.category.chunkbounds": "Межі чанків",
+  "config.moreoverlays.category.itemsearch": "Пошук предмета",
+  "config.moreoverlays.category.rendersettings": "Налаштування візуалізації",
+  "config.moreoverlays.category.searchoverlay": "Накладення пошуку предметів",
+
+  "config.moreoverlays.lightoverlay.uprange": "Діапазон вгору",
+  "config.moreoverlays.lightoverlay.downrange": "Діапазон вниз",
+  "config.moreoverlays.lightoverlay.hrange": "Горизонтальний діапазон",
+  "config.moreoverlays.lightoverlay.ignorelayer": "Ігнорувати шар",
+  "config.moreoverlays.lightoverlay.ignorespawnlist": "Ігнорувати список відтворення",
+  "config.moreoverlays.lightoverlay.simplecheck": "Проста перевірка",
+  "config.moreoverlays.lightoverlay.savelevel": "Безпечний рівень освітленості",
+  "config.moreoverlays.lightoverlay.finishedmigration": "Міграцію на 1.18 виконано",
+
+  "config.moreoverlays.chunkbounds.radius": "Радіус краю",
+  "config.moreoverlays.chunkbounds.middle": "Показати середню точку",
+
+  "config.moreoverlays.rendersettings.chunk_edge_color": "Чанк: Колір краю",
+  "config.moreoverlays.rendersettings.chunk_grid_color": "Чанк: Колір сітки",
+  "config.moreoverlays.rendersettings.chunk_mid_color": "Чанк: Середній колір",
+  "config.moreoverlays.rendersettings.chunk_line_width": "Чанк: Ширина лінії",
+  "config.moreoverlays.rendersettings.spawn_always_color": "Спавн: Колір",
+  "config.moreoverlays.rendersettings.spawn_night_color": "Спавн: Нічний колір",
+  "config.moreoverlays.rendersettings.spawn_line_width": "Спавн: Ширина лінії",
+
+  "config.moreoverlays.searchoverlay.search_enabled": "Увімкнути пошук",
+  "config.moreoverlays.searchoverlay.custom_search": "Власний пошук",
+  "config.moreoverlays.searchoverlay.search_tooltip": "Підказка пошуку",
+  "config.moreoverlays.searchoverlay.search_max_results": "Максимальна кількість результатів пошуку",
+  "config.moreoverlays.searchoverlay.search_box_color": "Колір поля пошуку",
+  "config.moreoverlays.searchoverlay.search_slot_color": "Колір слоту",
+  "config.moreoverlays.searchoverlay.search_slot_alpha": "Прозорість слоту"
+}

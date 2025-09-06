@@ -1,0 +1,4 @@
+{
+    "config.modnametooltip.formatting.modNameFormat": "Формат назви мода",
+    "config.modnametooltip.formatting.modNameFormat.comment": "Як має бути відформатовано назву мода у підказці. Залиште порожнім, щоб вимкнути."
+}

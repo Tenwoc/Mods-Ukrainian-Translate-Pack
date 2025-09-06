@@ -1,0 +1,7 @@
+{
+  "block.charginggadgets.charging_station": "Зарядна станція",
+  "itemGroup.charginggadgets": "Charging Gadgets",
+  "screen.charginggadgets.burn_time": "Час горіння: %ss",
+  "screen.charginggadgets.energy": "Енергія: %s/%s FE",
+  "screen.charginggadgets.no_fuel": "Джерело палива порожнє"
+}

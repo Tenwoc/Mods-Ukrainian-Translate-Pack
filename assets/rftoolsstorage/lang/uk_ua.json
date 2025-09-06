@@ -1,0 +1,54 @@
+{
+    "item.rftoolsstorage.storage_module0": "Модуль зберігання 1 рівня",
+    "item.rftoolsstorage.storage_module1": "Модуль зберігання 2 рівня",
+    "item.rftoolsstorage.storage_module2": "Модуль зберігання 3 рівня",
+    "item.rftoolsstorage.storage_module3": "Модуль зберігання 4 рівня",
+    "item.rftoolsstorage.storage_module6": "Віддалений модуль зберігання",
+    "item.rftoolsstorage.storage_module_tablet": "Планшетний накопичувач",
+    "item.rftoolsstorage.filter_module": "Модуль фільтрації",
+    "item.rftoolsstorage.oredict_module": "Модуль словника типів руд",
+    "item.rftoolsstorage.generic_module": "Модуль загального типу",
+    "item.rftoolsstorage.tablet_scanner": "Планшет (сканер)",
+    "item.rftoolsstorage.storage_control_module": "Модуль екрану управління сховищем",
+    "item.rftoolsstorage.dump_module": "Модуль екрану відвалу",
+
+    "block.rftoolsstorage.modular_storage": "Модульне сховище",
+    "block.rftoolsstorage.remote_storage": "Віддалене сховище",
+    "block.rftoolsstorage.storage_scanner": "Сканер сховища",
+
+    "_comment": "Творчі вкладки",
+    "itemGroup.rftoolsstorage": "Сховище RFTools",
+
+    "_comment": "Повідомлення",
+    "message.rftoolsstorage.shiftmessage": "<Натисніть Shift>",
+
+"message.rftoolsstorage.crafting_manager.header": "У РОЗРОБЦІ! Менеджер виготовлення",
+    "message.rftoolsstorage.crafting_manager.gold": "Це ще не функціонує",
+
+    "message.rftoolsstorage.tablet_scanner.header": "Планшет, який можна використовувати для доступу до віддалених інструкцій та інформації",
+    "message.rftoolsstorage.tablet_scanner.gold": "Планшет містить посилання на сканер сховища: натисніть ПКМ на інтерфейсі сканера, натисніть ПКМ на інтерфейсі планшета",
+
+    "message.rftoolsstorage.storage_scanner.header": "Ця машина просканує всі найближчі запаси і покаже їх у списку. Потім ви можете шукати та отримувати доступ до предметів з цих сховищ",
+    "message.rftoolsstorage.storage_scanner.gold": "Приємний бонус: зменшене енергоспоживання",
+
+    "message.rftoolsstorage.storage_control_module.header": "Цей екранний модуль дозволяє відстежувати 9 різних предметів за допомогою сканера для зберігання. Цей модуль також можна поєднати з планшетом для віддаленого доступу до системи, керованої сканером зберігання",
+    "message.rftoolsstorage.storage_control_module.gold": "Підступно натисніть ПКМ на сканер для зберігання, щоб встановити ціль для цього модуля зберігання",
+    "message.rftoolsstorage.storage_control_module.uses": "Енергоспоживання: ",
+    "message.rftoolsstorage.storage_control_module.info": "Сканер сховища: ",
+
+    "message.rftoolsstorage.dump_module.header": "Модуль для екрана, який дозволяє скидати велику кількість предметів на пов'язаний сканер накопичувача",
+    "message.rftoolsstorage.dump_module.gold": "Підступно натисніть ПКМ на сканері сховища, щоб встановити ціль для цього модуля дампа",
+    "message.rftoolsstorage.dump_module.uses": "Енергоспоживання: ",
+    "message.rftoolsstorage.dump_module.info": "Сканер сховища: ",
+
+    "message.rftoolsstorage.storage_module.header": "Цей модуль сховища призначений для блоку Модульне сховище",
+    "message.rftoolsstorage.storage_module.gold": "Цей модуль підтримує віддалену інвентаризацію. Посилання на інший модуль пам'яті у віддаленому блоці пам'яті",
+    "message.rftoolsstorage.storage_module.info": "Підтримувані стоси: ",
+    "message.rftoolsstorage.storage_module.remoteid": "Віддалений ідентифікатор: ",
+    "message.rftoolsstorage.storage_module.uuid": "UUID: ",
+    "message.rftoolsstorage.storage_module.version": "Версія: ",
+    "message.rftoolsstorage.storage_module.items": "Вміст: ",
+    "message.rftoolsstorage.storage_module.advanced": "Розширений: ",
+
+    "message.rftoolsstorage.modular_storage.header": "Ця модульна система зберігання може зберігати багато предметів і дозволяє легко здійснювати пошук і фільтрацію. Перш ніж використовувати модуль сховища, ви повинні вставити предмет, перш ніж ви зможете його використовувати"
+}

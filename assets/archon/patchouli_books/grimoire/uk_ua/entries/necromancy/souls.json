@@ -1,0 +1,27 @@
+{
+  "name": "Душі та ядра",
+  "icon": "archon:soul_core_creature",
+  "category": "archon:necromancy",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:player_soul",
+      "text": "Душі - особливий вид матерії, який можна отримати, вбивши монстра $(l:archon:necromancy/soul_scythe)Косою душ$(). Душі можна використовувати для створення ядер, якими можна викликати нежить."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:soul_core_boss",
+      "text": "Ядра душі - предмети, що створюються з душ і кісток. Ці ядра відіграють ключову роль у виклику мерців."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:soul_core_creature",
+      "recipe2": "archon:soul_core_player"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:soul_core_boss"
+    }
+  ]
+}

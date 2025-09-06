@@ -1,0 +1,9 @@
+{
+  "config.jade.plugin_enigmaticgraves.grave": "Плагін Enigmatic Graves",
+  "enigmaticgraves.grave.not_found": "Намає зв'язаних могил",
+  "entity.enigmaticgraves.grave": "Могила",
+  "grave.locate": "Могила розташована на %s",
+  "info.grave.not_found": "Могила не знайдена!",
+  "info.grave.remove_grave": "Розташування могили невідоме. Клацніть мною ПКМ (у творчому режимі) по могилі, щоб прибрати її!",
+  "item.enigmaticgraves.grave_finder": "Шукач могил"
+}

@@ -1,0 +1,35 @@
+{
+  "commands.mobEnchantment.give.success.single": "Застосовано чари моба %s на %s",
+  "commands.mobEnchantment.give.success.multiple": "Застосовано чари моба %s на %s цілях",
+  "commands.mobEnchantment.clear.everything.success.single": "Видалено усі чари моба з %s",
+  "commands.mobEnchantment.clear.everything.success.multiple": "Видалено усі чари моба з %s цілей",
+  "commands.mobEnchantment.clear.specific.success.single": "Видалено чари моба %s з %s",
+  "commands.mobEnchantment.clear.specific.success.multiple": "Видалено чари моба %s з %s цілей",
+  "commands.mobEnchantment.give.failed": "Неможливо застосувати ці мобочари (ціль, ймовірно, вже має їх)",
+  "commands.mobEnchantment.clear.everything.failed": "Ціль не має мобочар, які можна зняти з неї",
+
+  "attribute.name.generic.dungeons_libraries.summon_cap": "слотів виклику",
+  "attribute.name.generic.dungeons_libraries.follower_cost_limit": "ліміту витрат на послідовника",
+  "attribute.name.generic.dungeons_libraries.soul_gathering": "збирання душ",
+  "attribute.name.generic.dungeons_libraries.soul_cap": "максимальної місткості душ",
+  "attribute.name.generic.dungeons_libraries.life_steal": "крадіжки життя",
+  "attribute.name.generic.dungeons_libraries.ranged_damage_multiplier": "примноження шкоди від дальнього бою",
+  "attribute.name.generic.dungeons_libraries.magic_damage_multiplier": "примноження шкоди від магії",
+  "attribute.name.generic.dungeons_libraries.artifact_cooldown_multiplier": "примноження відновлення артефактів",
+
+  "commands.souls.add.failed": "Не вдалося додати душі",
+  "commands.souls.set.failed": "Не вдалося налаштувати душі",
+  "commands.souls.add.success": "Успішно додані душі",
+  "commands.souls.set.success": "Успішно налаштовані душі",
+
+  "artifact.dungeons_libraries.base": "Для використання артефакту перемістить його у вільний слот артефактів Curios.",
+  "artifact.dungeons_libraries.duration": "%d секунд тривалості",
+  "artifact.dungeons_libraries.cooldown": "%d секунд перезаряджання",
+
+  "curios.identifier.artifact": "Артефакт",
+  "item.modifiers.artifact": "Коли одягнуто в слоті артефакта:",
+  "key.dungeons_libraries.curiosintegration.category": "Curios - Dungeons Libraries",
+  "key.dungeons_libraries.curiosintegration.description_slot1": "Слот 1 артефакта",
+  "key.dungeons_libraries.curiosintegration.description_slot2": "Слот 2 артефакта",
+  "key.dungeons_libraries.curiosintegration.description_slot3": "Слот 3 артефакта"
+}

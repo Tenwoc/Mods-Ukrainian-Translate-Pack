@@ -1,0 +1,20 @@
+{
+  "name": "Незерзлитий самоцвіт",
+  "icon": "simplyswords:netherfused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:netherfused_gem",
+      "text": "Незерзлиті самоцвіти можна отримати, об'єднавши на ковальському столі владний залишок і незеритовий злиток. Після ідентифікації ці самоцвіт відкриє випадкову силу, що відображатиметься у ньому."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Незерзлиті самоцвіти можна інкрустувати в унікальну зброю, яка містить порожій каст. [ порожній незерзлитий каст ]."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherfused_gem"
+    }
+  ]
+}

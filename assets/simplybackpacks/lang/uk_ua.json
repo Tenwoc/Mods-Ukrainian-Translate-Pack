@@ -1,0 +1,39 @@
+{
+  "simplybackpacks.shift":"Натисніть  <§6§oShift§r> для інформації.",
+  "key.simplybackpacks.category":"Simply Backpacks",
+  "key.simplybackpacks.backpackpickup.desc":"Переключити автопідбір",
+  "key.simplybackpacks.backpackopen.desc":"Відкрити рюкзак",
+
+  "simplybackpacks.autopickup":"Автопідбір",
+  "simplybackpacks.autopickupenabled":"Автопідбір: §aУвімкнено§r",
+  "simplybackpacks.autopickupdisabled":"Автопідбір: §cВимкнено§r",
+
+  "simplybackpacks.whitelist":"Білий список",
+  "simplybackpacks.nbtdata":"Теги NBT",
+
+  "simplybackpacks.invaliduuid": "Невідомий UUID",
+  "simplybackpacks.delete.confirmation": "Ви впевнені, що хочете видалити цей рюкзак?\nЦю дію не можна скасувати.\nПідтвердіть команду /sb delete %s",
+  "simplybackpacks.delete.finished": "Рюкзак %s видалено",
+  "simplybackpacks.notsetup": "Відкрийте в руці для налаштування.",
+
+  "item.simplybackpacks.commonbackpack": "Звичайний рюкзак",
+  "item.simplybackpacks.commonbackpack.info":"Найзвичайніший рюкзак.",
+  "item.simplybackpacks.commonbackpack.info2":"§fЗберігає 18 стаків§r",
+
+  "item.simplybackpacks.uncommonbackpack":"Незвичайний рюкзак",
+  "item.simplybackpacks.uncommonbackpack.info":"Трохи кращий рюкзак.",
+  "item.simplybackpacks.uncommonbackpack.info2":"§eЗберігає 33 стаки§r",
+
+  "item.simplybackpacks.rarebackpack":"Рідкісний рюкзак",
+  "item.simplybackpacks.rarebackpack.info":"Достатьно непоганий рюкзак.",
+  "item.simplybackpacks.rarebackpack.info2":"§bЗберігає 66 стаків§r",
+
+  "item.simplybackpacks.epicbackpack":"Епічний рюкзак",
+  "item.simplybackpacks.epicbackpack.info":"Реально епічний рюкзак.",
+  "item.simplybackpacks.epicbackpack.info2":"§dЗберігає 99 стаків§r",
+
+  "item.simplybackpacks.ultimatebackpack":"Ультимативний рюкзак",
+  "item.simplybackpacks.ultimatebackpack.info":"Фінальний рюкзак.",
+  "item.simplybackpacks.ultimatebackpack.info2":"§dЗберігає 158 стаків§r",
+  "Backpack upgraded to ": "Рюкзак покращено до рівня "
+}

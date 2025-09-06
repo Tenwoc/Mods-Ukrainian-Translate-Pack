@@ -1,0 +1,13 @@
+{
+  "name": "Селестіс",
+  "icon": "simplyswords:caelestis",
+  "advancement": "simplyswords:caelestis",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:caelestis",
+      "text": "Дивна зброя з лезом, що відкриває астрал. Дає власникові можливість переходити в астральний світ, стаючи недоторканним на короткі миті."
+    }
+  ]
+}

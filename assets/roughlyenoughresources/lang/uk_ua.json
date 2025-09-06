@@ -1,0 +1,19 @@
+{
+  "rer.worldgen.category": "Генерація %s",
+  "rer.loot.category": "Випадає з блоків",
+  "rer.entity.loot.category": "Випадає із сутностей",
+  "rer.condition.or": "%s або %s",
+  "rer.condition.invert": "не %s",
+  "rer.condition.enchantment": "вимагається §5%s",
+  "rer.condition.item": "вимагається %s",
+  "rer.condition.chance": "%s%%",
+  "rer.condition.chance.looting": "%s%% і багато іншого з §5Здобич",
+  "rer.condition.killedByPlayer": "коли вбитий гравцем",
+  "rer.condition.onFire": "Під час горіння",
+  "rer.function.and": "%s + %s",
+  "rer.function.count": "Кількість: %s",
+  "rer.function.atLeast": "як мінімум %d",
+  "rer.function.atMost": "у більшості %d",
+  "rer.function.bonus.enchant": "більше з %s",
+  "rer.loot.range": "від %d до %d"
+}

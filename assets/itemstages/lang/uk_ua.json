@@ -1,0 +1,15 @@
+{
+  "tooltip.itemstages.hidden_name":"Незнайомий предмет",
+  "tooltip.itemstages.item.description":"Етап цього предмета встановлено на [%s]",
+  "message.itemstages.drop":"Ви вронили %s.",
+  "message.itemstages.mine":"Ви не знаєте як добувати за допомогою %s.",
+  "message.itemstages.attack":"Ви не знаєте як атакувати за допомогою %s.",
+  "message.itemstages.use":"Ви не знаєте як використовувати %s.",
+  "message.itemstages.pickup":"Ви не можете підібрати %s.",
+  "tooltip.itemstages.debug.drop":"- Цей предмет буде викинуто з інвентаря.",
+  "tooltip.itemstages.debug.pickup":"- Цей предмет не можна підібрати.",
+  "tooltip.itemstages.debug.use":"- Цей предмет не можна використовувати на блоках чи сутностях.",
+  "tooltip.itemstages.debug.attack":"- Цей предмет не можна використовувати як зброю.",
+  "tooltip.itemstages.debug.jei":"- Цей предмет буде приховано для JEI.",
+  "itemstages.hidden_name":"Не такий вже незнайомий предмет"
+}

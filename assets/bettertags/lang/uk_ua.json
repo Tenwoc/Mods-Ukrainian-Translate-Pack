@@ -1,0 +1,31 @@
+{
+  "tip.bettertags.ctrl": "↓ %s — NBT",
+  "tip.bettertags.shift": "↓ %s — теги",
+
+  "tip.bettertags.item_tags": "Теги предмета",
+  "tip.bettertags.block_tags": "Теги блока",
+
+  "tip.bettertags.copied": "%s скопійовано в буфер обміну",
+  "tip.bettertags.copied_no": "%s не має даних NBT",
+  "tip.bettertags.empty": "слот порожній",
+  "tip.bettertags.more": "%s більше...",
+
+  "tip.bettertags.durability": "Міцність: %s",
+  "tip.bettertags.burn": "Час горіння: %s",
+  "tip.bettertags.hours": "годин",
+  "tip.bettertags.minutes": "хвилин",
+  "tip.bettertags.seconds": "секунд",
+  "tip.bettertags.clock": "День %s, %s",
+
+  "tip.bettertags.bees": "Бджоли: %s",
+  "tip.bettertags.bee_empty": "порожньо",
+  "tip.bettertags.bee_level": "Рівень меду: %s",
+
+  "tip.shift": "Shift",
+  "tip.ctrl": "Ctrl",
+  "tip.coords": "x: %s  y: %s  z: %s",
+  "tip.distance": "Відстань: %s блоків",
+
+  "biome.minecraft.overworld": "Верхній світ",
+  "biome.minecraft.nether": "Незер"
+}

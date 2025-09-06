@@ -1,0 +1,17 @@
+{
+  "name": "Чоботи друїда",
+  "icon": "archon:druid_boots",
+  "category": "archon:misc",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:druid_boots",
+      "text": "Чоботи друїда - взуття шкіряного рівня, яке діє на блоки навколо як кісткове борошно. Активується, коли власник крадеться, хоч на це потрібно 30 мани і перезарядка триває 3 секунди."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:druid_boots"
+    }
+  ]
+}

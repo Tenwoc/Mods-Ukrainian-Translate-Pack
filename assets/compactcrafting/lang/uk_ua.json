@@ -1,0 +1,33 @@
+{
+  "itemGroup.compactcrafting": "Compact Crafting",
+
+  "block.compactcrafting.field_projector": "Польовий проектор",
+  "block.compactcrafting.rescan_proxy": "Польовий проксі (повторне сканування))",
+  "block.compactcrafting.match_proxy": "Польовий проксі (збіг)",
+
+  "item.compactcrafting.projector_dish": "Мініатюрний проєкторний столик",
+  "item.compactcrafting.base": "База",
+
+  "compactcrafting.jei.miniaturization.title": "Мінітюаризаційне виготовлення",
+  "compactcrafting.jei.miniaturization.component": "Матеріальна складова: Розміщено у світі.",
+  "compactcrafting.jei.miniaturization.catalyst": "Киньте цей предмет у поле мініатюризації, щоб почати виготовлення.",
+
+  "compactcrafting.top.current_recipe": "Рецепт: ",
+  "compactcrafting.top.awaiting_catalyst": "Очікування каталізатора...",
+  "compactcrafting.top.progress": "%s / %s",
+
+  "tooltip.compactcrafting.proxy_bound": "Прив'язано з: %s",
+  "tooltip.compactcrafting.proxy_hint": "Використовуйте польові проксі для автоматизації роботи поля за допомогою редстоуну.",
+  "tooltip.compactcrafting.proxy_bind_hint": "ПКМ крадькома на проекторі для прив'язки до поля.",
+  "tooltip.compactcrafting.proxy_unbind_hint": "ПКМ крадькома в повітрі для від'єднання від поля.",
+
+  "messages.compactcrafting.no_field_cap": "Блок за адресою %s не має посилання на поле.",
+  "messages.compactcrafting.no_field_found": "Не вдалося знайти інформацію про поле мініатюризації.",
+
+  "compactcrafting.jei.toggle_exploded_view": "Розірваний вигляд",
+  "compactcrafting.jei.toggle_condensed_view": "Цілісний вигляд",
+  "compactcrafting.jei.all_layers_mode": "Відобразити усі шари",
+  "compactcrafting.jei.single_layer_mode": "Одношаровий режим",
+  "compactcrafting.jei.layer_up": "На шар вище",
+  "compactcrafting.jei.layer_down": "На шар нижче"
+}

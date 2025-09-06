@@ -1,0 +1,12 @@
+{
+  "spruceui.reset": "Перезавантажити",
+  "spruceui.gui.unbind": "Відв'язати",
+  "spruceui.narrator.separator": "Розділювач %s",
+  "spruceui.narration.toggle_switch": "Тумблер: %s, зі станом %s",
+  "spruceui.options.generic": "%s: %s",
+  "spruceui.options.generic.fancy": "Довільний",
+  "spruceui.options.generic.fast": "Швидкий",
+  "spruceui.options.generic.fastest": "Найшвидший",
+  "spruceui.options.generic.simple": "Простий",
+  "spruceui.widget.separator": "Роздільник"
+}

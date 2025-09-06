@@ -1,0 +1,29 @@
+{
+  "itemGroup.culturalTab": "Cultural Delights",
+
+  "item.alexsdelight.cooked_bison": "Смажений зубр",
+  "item.alexsdelight.raw_bison": "Сирий зубр",
+  "item.alexsdelight.cooked_bunfungus": "Смажений зайцегриб",
+  "item.alexsdelight.raw_bunfungus": "Сирий зайцегриб",
+  "item.alexsdelight.cooked_centipede_leg": "Смажена ніжка стоноги",
+
+  "item.alexsdelight.kangaroo_shank": "Гомілка кенгуру",
+  "item.alexsdelight.cooked_kangaroo_shank": "Смажена гомілка кенгуру",
+  "item.alexsdelight.loose_moose_rib": "Лосине ребро",
+  "item.alexsdelight.cooked_loose_moose_rib": "Смажене лосине ребро",
+  "item.alexsdelight.bison_mince": "Зубровий фарш",
+  "item.alexsdelight.bison_patty": "Зуброва котлета",
+  "item.alexsdelight.raw_bunfungus_drumstick": "Сире зайцегрибове крильце",
+  "item.alexsdelight.cooked_bunfungus_drumstick": "Смажене зайцегрибове крильце",
+  "item.alexsdelight.raw_catfish_slice": "Шматочок сирого сомика",
+  "item.alexsdelight.cooked_catfish_slice": "Шматочок вареного сомика",
+
+  "item.alexsdelight.gongylidia_bruschetta": "Брускетта з гонгілідії",
+  "item.alexsdelight.maggot_salad": "Салат з опаришем",
+  "item.alexsdelight.kangaroo_stew": "Тушкована кенгурятина",
+  "item.alexsdelight.acacia_blossom_soup": "Суп з цвітом акації",
+  "item.alexsdelight.lobster_pasta": "Паста з лобстером",
+  "item.alexsdelight.bison_burger": "Бургер з зубром",
+  "item.alexsdelight.bunfungus_sandwich": "Сендвіч з білими грибами",
+  "item.alexsdelight.kangaroo_pasta": "Паста з кенгуру"
+}

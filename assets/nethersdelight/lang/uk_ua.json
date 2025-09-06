@@ -1,0 +1,42 @@
+{
+  "item.nethersdelight.hoglin_hide": "Шкура гоґліна",
+  "item.nethersdelight.raw_stuffed_hoglin": "Сиров'ялений фарширований хоглин",
+
+  "item.nethersdelight.hoglin_loin": "Корейка гоґліна",
+  "item.nethersdelight.hoglin_sirloin": "Вирізка гоґліна",
+  "item.nethersdelight.strider_slice": "Нарізка блукача",
+  "item.nethersdelight.ground_strider": "Мелений блукач",
+  "item.nethersdelight.strider_moss_stew": "Тушковане м'ясо блукача з мохом",
+  "item.nethersdelight.hoglin_ear": "Смажене вухо гоґліна",
+  "item.nethersdelight.plate_of_stuffed_hoglin_snout": "Тарілка фаршированої морди гоґліна",
+  "item.nethersdelight.plate_of_stuffed_hoglin_ham": "Тарілка фаршированого окосту гоґліна",
+  "item.nethersdelight.plate_of_stuffed_hoglin_roast": "Тарілка фаршированого гоґліна",
+  "item.nethersdelight.grilled_strider": "Блукач на грилі",
+  "item.nethersdelight.warped_moldy_meat": "Химерне плісняве м'ясо",
+  "block.nethersdelight.stuffed_hoglin": "Фарширований гоґлін",
+  "block.nethersdelight.crimson_fungus_colony": "Колонія багряного гриба",
+  "block.nethersdelight.warped_fungus_colony": "Колонія химерного гриба",
+  "block.nethersdelight.hoglin_mount": "Їздовий гоґлін",
+  "block.nethersdelight.soul_compost": "Компост душ",
+  "block.nethersdelight.rich_soul_soil": "НАсичена земля душ",
+  "block.nethersdelight.mimicarnation": "Мімікрія",
+  "block.nethersdelight.blackstone_stove": "Чорнокам'яна піч",
+  "itemGroup.nethersdelight": "Nether's Delight",
+
+  "nethersdelight.block.feast.use_knife": "Для зрізання потрібен ніж.",
+
+  "nethersdelight.jei.composition": "Склад",
+  "nethersdelight.jei.composition.light": "Прискорюється сусіднім полум'ям",
+  "nethersdelight.jei.composition.fluid": "Прискорюється сусідньою лавою",
+  "nethersdelight.jei.composition.accelerators": "Прискорюється сусідніми активаторами (див. нижче)",
+
+  "block.nethersdelight.propelplant_torch": "Рухлоросовий смолоскип",
+  "block.nethersdelight.propelplant_berry_stem": "Стебло ягідного рухлороса",
+  "block.nethersdelight.propelplant_cane": "Тростина рухлороса",
+  "block.nethersdelight.propelplant_berry_cane": "Тростина ягідного рухлороса",
+  "block.nethersdelight.propelplant_stem": "Стебло рухлороса",
+  "item.nethersdelight.propelpearl": "Рухлоперла",
+  "item.nethersdelight.nether_skewer": "Незерська шпажка",
+  "item.nethersdelight.magma_gelatin": "Магматичний желатин"
+
+}

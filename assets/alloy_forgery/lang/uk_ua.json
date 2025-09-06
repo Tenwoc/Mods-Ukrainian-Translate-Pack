@@ -1,0 +1,50 @@
+{
+  "block.alloy_forgery.bricks_forge_controller": "Контролер кузні з цегли",
+  "block.alloy_forgery.stone_bricks_forge_controller": "Контролер кузні з кам'яної цегли",
+  "block.alloy_forgery.deepslate_bricks_forge_controller": "Контролер кузні з глибосланцевої цегли",
+  "block.alloy_forgery.end_stone_bricks_forge_controller": "Контролер кузні з цегли Енду",
+  "block.alloy_forgery.polished_blackstone_forge_controller": "Контролер кузні з полірованого чорнокаменя",
+  "block.alloy_forgery.prismarine_bricks_forge_controller": "Контролер кузні з призмарину",
+
+  "tooltip.alloy_forgery.forge_tier": "Рівень: %d",
+  "tooltip.alloy_forgery.fuel_capacity": "Запас палива: %d",
+  "tooltip.alloy_forgery.invalid_tier": "Цей рецепт потребує контролер кузні %d рівня",
+
+  "container.alloy_forgery.forge_controller": "Контролер кузні",
+
+  "container.alloy_forgery.rei.title": "Витоплення стопів",
+  "container.alloy_forgery.rei.min_tier": "Необхідний рівень: %d",
+  "container.alloy_forgery.rei.fuel_per_tick": "Витрата палива на такт: %d",
+  "container.alloy_forgery.rei.button": "Перемикання перевизначення рівнів",
+
+  "message.alloy_forgery.invalid_multiblock": "Є помилки у складанні багатоблочної структури",
+  "itemGroup.alloy_forgery.alloy_forgery": "Alloy Forgery",
+  "itemGroup.alloy_forgery.alloy_forgery.button.discord": "Discord",
+  "itemGroup.alloy_forgery.alloy_forgery.button.curseforge": "CurseForge",
+  "itemGroup.alloy_forgery.alloy_forgery.button.modrinth": "Modrinth",
+  "itemGroup.alloy_forgery.alloy_forgery.button.github": "GitHub",
+
+  "emi.category.alloy_forgery.alloy_forge": "Витоплення стопів",
+
+  "tag.item.c.copper_ores": "Мідні руди",
+  "tag.item.c.iron_ores": "Залізні руди",
+  "tag.item.c.gold_ores": "Золоті руди",
+  "tag.item.c.raw_copper_blocks": "Блоки необробленої міді",
+  "tag.item.c.raw_iron_blocks": "Блоки необробленого заліза",
+  "tag.item.c.raw_gold_blocks": "Блоки необробленого золота",
+
+  "text.config.alloy_forgery.title": "Налаштування Alloy Forgery",
+  "text.config.alloy_forgery.section.blasting_adaption": "Плавильна обробка",
+
+  "text.config.alloy_forgery.option.allowHigherTierOutput": "Дозволити вихід вищого рівня",
+  "text.config.alloy_forgery.option.allowHigherTierOutput.tooltip": "Перемикач для ввімкнення або вимкнення вищого рівня продуктивності плавильної обробки для всіх рецептів",
+
+  "text.config.alloy_forgery.option.allowBlastingFurnaceAdaption": "Дозволити обробку рецептів плавильної печі",
+  "text.config.alloy_forgery.option.allowBlastingFurnaceAdaption.tooltip": "Перемикач для ввімкнення або вимкнення плавильної обробки для всіх рецептів плавильної печі",
+
+  "text.config.alloy_forgery.option.baseInputAmount": "Базова кількість вхідних матеріалів",
+  "text.config.alloy_forgery.option.baseInputAmount.tooltip": "Дозволяє налаштувати базову кількість вхідних матеріалів для рецептів обробки",
+
+  "text.config.alloy_forgery.option.higherTierOutputIncrease": "Додаткова кількість матеріалу по рівню",
+  "text.config.alloy_forgery.option.higherTierOutputAmount.tooltip": "Налаштовує додаткову кількість вихідного матеріалу, що збільшується при досягненні 3 рівня"
+}

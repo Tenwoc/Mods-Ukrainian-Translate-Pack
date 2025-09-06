@@ -1,0 +1,97 @@
+{
+  "itemGroup.archers.general": "Archers",
+  "item.archers.auto_fire_hook.description_1": "При повному заряді випускає снаряд",
+  "item.archers.auto_fire_hook.description_2": "Встановлюється на далекобійну зброю, на ковадлі",
+  "item.ranged_weapon.pull_time": "Швидкість натягування: %1$s",
+
+  "block.archers.archers_workbench": "Стіл ремісника",
+  "block.archers.archers_workbench.hint": "Робоче місце лучника-ремісника",
+  "entity.minecraft.villager.archery_artisan": "Лучник-ремісник",
+  "entity.minecraft.villager.archers:archery_artisan": "Лучник-ремісник",
+
+  "item.archers.auto_fire_hook": "Модуль автострільби",
+  "item.archers.small_quiver": "Сагайдак",
+  "item.archers.medium_quiver": "Мисливський сагайдак",
+  "item.archers.large_quiver": "Бойовий сагайдак",
+  "item.archers.quiver.hint": "Коли одягнено, забезпечує надійне вмістилище для стріл.",
+
+  "item.archers.flint_spear": "Кремнієвий спис",
+  "item.archers.iron_spear": "Залізний спис",
+  "item.archers.golden_spear": "Золотий спис",
+  "item.archers.diamond_spear": "Діамантовий спис",
+  "item.archers.netherite_spear": "Незеритовий спис",
+  "item.archers.aeternium_spear": "Ефірний спис",
+  "item.archers.ruby_spear": "Рубіновий спис",
+  "item.archers.aether_spear": "Священний спис",
+
+  "item.archers.archer_armor_head": "Капюшон лучника",
+  "item.archers.archer_armor_chest": "Куртка лучника",
+  "item.archers.archer_armor_legs": "Штани лучника",
+  "item.archers.archer_armor_feet": "Черевики лучника",
+
+  "item.archers.ranger_armor_head": "Капюшон мисливця",
+  "item.archers.ranger_armor_chest": "Куртка мисливця",
+  "item.archers.ranger_armor_legs": "Штани мисливця",
+  "item.archers.ranger_armor_feet": "Черевики мисливця",
+
+  "item.archers.netherite_ranger_armor_head": "Незеритовий капюшон мисливця",
+  "item.archers.netherite_ranger_armor_chest": "Незеритова куртка мисливця",
+  "item.archers.netherite_ranger_armor_legs": "Незеритові штани мисливця",
+  "item.archers.netherite_ranger_armor_feet": "Незеритові чоботи мисливця",
+
+  "item.archers.composite_longbow": "Композитний великий лук",
+  "item.archers.mechanic_shortbow": "Механічний короткий лук",
+  "item.archers.royal_longbow": "Позолочений великий лук",
+  "item.archers.rapid_crossbow": "Швидкісний арбалет",
+  "item.archers.heavy_crossbow": "Важкий арбалет",
+  "item.archers.netherite_shortbow": "Незеритовий короткий лук",
+  "item.archers.netherite_longbow": "Незеритовий великий лук",
+  "item.archers.netherite_rapid_crossbow": "Незеритовий швидкісний арбалет",
+  "item.archers.netherite_heavy_crossbow": "Незеритовий важкий арбалет",
+  "item.archers.crystal_shortbow": "Кришталевий короткий лук",
+  "item.archers.crystal_longbow": "Кришталевий великий лук",
+  "item.archers.ruby_rapid_crossbow": "Рубіновий швидкісний арбалет",
+  "item.archers.ruby_heavy_crossbow": "Рубіновий важкий арбалет",
+  "item.archers.aether_longbow": "Срібний лук Акрополісу",
+  "item.archers.aether_rapid_crossbow": "Небесний арбалет",
+  "item.archers.aether_heavy_crossbow": "Баліста валькірій",
+
+  "item.archers.archer_spell_book": "Посібник лучника",
+  "item.archers.archer.spell_scroll": "Стрілецький сувій",
+
+  "spell.archers.power_shot.name": "Потужний постріл",
+  "spell.archers.power_shot.description": "Здійснює потужний постріл снаряда і накладає на ціль мітку мисливця тривалістю в {effect_duration} с, яка збільшує її шкоду на 5%%. Дія ефекту може складатися до {effect_amplifier} разів.",
+  "effect.archers.hunters_mark_stash": "Потужний постріл",
+  "effect.archers.hunters_mark_stash.description": "Наступний постріл накладе мітку мисливця",
+  "effect.archers.hunters_mark": "Мітка мисливця",
+  "effect.archers.hunters_mark.description": "Збільшує шкоду від усіх джерел",
+
+  "spell.archers.entangling_roots.name": "Обплутані корені",
+  "spell.archers.entangling_roots.description": "Викликає область коріння, яке проростає з землі, сповільнюючи ворогів на {cloud_duration} с.",
+  "effect.archers.entangling_roots": "Обплутані корені",
+  "effect.archers.entangling_roots.description": "Зменшують швидкість пересування",
+
+  "spell.archers.barrage.name": "Шквал",
+  "spell.archers.barrage.description": "Здійснює серію пострілів",
+
+  "spell.archers.magic_arrow.name": "Магічна стріла",
+  "spell.archers.magic_arrow.description": "Стріляє магічною стрілою, що пробиває всіх ворогів наскрізь, завдаючи {damage} шкоди кожній цілі.",
+
+  "advancements.rpg_series.path_choose_archer.title": "Шлях лука",
+  "advancements.rpg_series.path_choose_archer.description": "Створіть посібник лучника",
+
+  "advancements.rpg_series.spell_novice_archer.title": "Летальні постріли",
+  "advancements.rpg_series.spell_novice_archer.description": "Отримайте своє перше вміння лучника",
+
+  "advancements.rpg_series.spell_master_archer.title": "Експерт з балістики",
+  "advancements.rpg_series.spell_master_archer.description": "Завершіть посібник лучника",
+
+  "advancements.rpg_series.obtain_arrow.title": "Шлях лучника",
+  "advancements.rpg_series.obtain_arrow.description": "Отримайте стрілу",
+
+  "advancements.rpg_series.spell_cast_archer_book.title": "Тренування з луком",
+  "advancements.rpg_series.spell_cast_archer_book.description": "Використайте вміння з посібника лучника",
+
+  "advancements.rpg_series.trade_with_archery_artisan.title": "Затяжна торгівля",
+  "advancements.rpg_series.trade_with_archery_artisan.description": "Успішно поторгуйтеся з лучником-ремісником"
+}

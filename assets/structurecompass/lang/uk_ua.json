@@ -1,0 +1,32 @@
+{
+  "_comment": "Назва творчої вкладки",
+  "itemGroup.structurecompass": "Structure Compass",
+
+  "_comment": "Екран",
+  "structurecompass.screen.selection.title": "Вибір структури",
+  "structurecompass.screen.selection.select": "Вибрати",
+  "structurecompass.screen.search": "Пошук",
+  "structurecompass.screen.search.a_to_z": "А-Я",
+  "structurecompass.screen.search.z_to_a": "Я-А",
+
+  "_comment": "Назви елементів",
+  "item.structurecompass.structure_compass": "Структурний компас",
+
+  "_comment": "Повідомлення",
+  "structurecompass.locate.invalid": "Прив'язана структура недійсна. Будь ласка, переприв'яжіть",
+  "structurecompass.locate.fail": "Прив'язана структура не може бути розташована поблизу",
+  "structurecompass.locate.distance": "Прив'язана структура знаходиться на відстані %s блоків",
+  "structurecompass.locate.toggled": "Відображення компаса структури переключено %s",
+
+  "_comment": "підказки",
+  "structurecompass.structure.found": "%s знаходиться на відстані %s блоків, компас вказує на структуру",
+  "structurecompass.structure.found.tooltip": "%s знайдено, компас вказує на структуру",
+  "structurecompass.structure.failed": "%s не вдається знайти, можливо, спробуйте пізніше",
+  "structurecompass.structure.failed.tooltip": "%s не може бути знайдено, можливо, спробуйте пізніше",
+  "structurecompass.structure.wrong_dimension.tooltip": "Ви не перебуваєте у вимірі, в якому було знайдено %s",
+  "structurecompass.structure.unset.tooltip": "Не задано жодної структури, утримуйте ПКМ крадькома, щоб вибрати структуру",
+
+  "_comment": "прив'язки клавіш",
+  "category.structurecompass.main": "Structure Compass",
+  "key.structurecompass.hide": "Приховати інтерфейс структурного компасу"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Вода",
+  "icon": "archon:water_gem",
+  "category": "archon:weapons",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:water_staff",
+      "text": "Посох водяних снарядів запускає маленькі та швидкі краплі у ваших ворогів."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:water_staff"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:frost_sword",
+      "text": "Крижаний меч запускає кульки льоду, які створюють області уповільнення під час влучання."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:frost_sword"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:sea_master_charm",
+      "text": "Намисто повелителя морів наділяє гравця здатністю дихати під водою і ходити по ній. Ходіння по воді працює, якщо тримати намисто в основній руці, а водне дихання - якщо предмет знаходиться в інвентарі."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:sea_master_charm"
+    }
+  ]
+}

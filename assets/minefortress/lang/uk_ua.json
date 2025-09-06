@@ -1,0 +1,13 @@
+{
+  "item.minefortress.colonist_spawn_egg": "Яйце виклику колонізатора",
+  "item.minefortress.warrior_pawn_spawn_egg": "Яйце виклику воїна",
+  "item.minefortress.archer_pawn_spawn_egg": "Яйце виклику лучника",
+  "entity.minefortress.colonist": "Колонізатор",
+  "gameMode.fortress": "Фортеця",
+  "key.minefortress.switch_selection": "Перемкнути виділення",
+  "category.minefortress.general": "Mine Fortress",
+  "key.minefortress.cancel_task": "Скасувати задачу",
+  "selectWorld.gameMode.fortress": "Фортеця",
+  "selectWorld.gameMode.fortress.line1": "Стратегія в реальному часі у Minecraft",
+  "selectWorld.gameMode.fortress.line2": "Керуйте групою людей та виживайте"
+}

@@ -1,0 +1,34 @@
+{
+  "item.conjurer_illager.conjurer_spawn_egg": "Яйце виклику Фокусника",
+  "item.conjurer_illager.conjurer_hat": "Циліндр Фокусника",
+  "item.conjurer_illager.music_disc": "Містична платівка",
+
+  "filled_map.conjurer_illager:theatre": "Мапа театру",
+
+  "entity.conjurer_illager.conjurer": "Фокусник",
+  "entity.conjurer_illager.throwing_card": "Метальна карта",
+  "entity.conjurer_illager.bouncing_ball": "М'ячик",
+
+  "advancements.conjurer_illager.find_theatre": "Час починати шоу!",
+  "advancements.conjurer_illager.find_theatre.desc": "Знайдіть театр",
+  "advancements.conjurer_illager.kill_conjurer": "Ну що за виступ!",
+  "advancements.conjurer_illager.kill_conjurer.desc": "Зупиніть шоу та переможіть Фокусника",
+
+  "death.attack.conjurer_illager:papercut": "%1$s витягнув пікову даму",
+  "death.attack.conjurer_illager:indirect_papercut": "%1$s отримав жахливий удар долі від %2$s",
+
+  "gui.conjurer_illager.item.conjurer_hat.desc": "Зменшує магічну шкоду на 30%",
+
+  "subtitles.entity.conjurer.idle": "Фокусник гелгоче",
+  "subtitles.entity.conjurer.hurt": "Фокусник отримує удар",
+  "subtitles.entity.conjurer.death": "Фокусник гине",
+  "subtitles.entity.conjurer.celebrate": "Фокусник маніакально регоче",
+  "subtitles.entity.conjurer.cast_spell": "Фокусник виконує трюк",
+  "subtitles.entity.conjurer.disappear": "Фокусник зникає",
+  "subtitles.entity.conjurer.prepare_vanish": "Фокусник готується зникнути",
+  "subtitles.entity.conjurer.prepare_rabbit": "Фокусник готує кролика",
+  "subtitles.entity.conjurer.prepare_attack": "Фокусник готує атаку",
+  "subtitles.entity.conjurer.prepare_displacement": "Фокусник готується до переміщення",
+  "subtitles.entity.bouncy_ball.bounce": "М'ячик відскокує",
+  "subtitles.entity.bouncy_ball.vanish": "М'ячик лопається"
+}

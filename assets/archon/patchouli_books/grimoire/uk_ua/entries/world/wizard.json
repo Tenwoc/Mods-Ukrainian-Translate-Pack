@@ -1,0 +1,23 @@
+{
+  "name": "Селянин-чарівник",
+  "icon": "archon:magical_bookshelf",
+  "category": "archon:world",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Чарівник - нова професія для жителів. Ви можете знайти їхні будинки в селах або дати жителю роботу за допомогою чарівної книжкової полиці. У них продаються $(l:archon:mana/scrolls)сувої$(), інгредієнти, і зачарування $(l:archon:effects_enchants/arcane)Знахарство$()."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "archon:textures/gui/book/wizard.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:magical_bookshelf"
+    }
+  ]
+}

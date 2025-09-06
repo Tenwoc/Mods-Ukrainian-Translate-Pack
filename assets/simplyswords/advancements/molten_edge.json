@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:molten_edge"
+    },
+    "title": "Не надто гаряча для роботи",
+    "description": "Знайдіть унікальну зброю - Розплавлена грань.",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:runic_weapon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:molten_edge"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

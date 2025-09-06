@@ -1,0 +1,14 @@
+{
+  "debug.menu.opening": "Тип меню: %s",
+  "screen.daytime_switcher.algorithm": "Алгоритм",
+  "screen.daytime_switcher.algorithm.grayscale_and_hsl": "Відтінки сірого та HSL",
+  "screen.daytime_switcher.algorithm.grayscale_and_hsp": "Відтінки сірого HSP",
+  "screen.daytime_switcher.algorithm.grayscale_and_hsv": "Відтінки сірого HSV",
+  "screen.daytime_switcher.algorithm.grayscale_and_linear": "Відтінки сірого та лінійний",
+  "screen.daytime_switcher.algorithm.hsl": "HSL",
+  "screen.daytime_switcher.algorithm.hsp": "HSP",
+  "screen.daytime_switcher.algorithm.hsv": "HSV",
+  "screen.daytime_switcher.algorithm.linear": "Лінійний",
+  "screen.daytime_switcher.front_brightness": "Яскравість шрифту",
+  "screen.daytime_switcher.interface_darkness": "Темнота інтерфейсу"
+}

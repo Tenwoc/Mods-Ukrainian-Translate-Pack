@@ -1,0 +1,14 @@
+{
+  "midnightlib.overview.title": "Огляд MidnightConfig",
+  "midnightlib.midnightconfig.title": "Конфігурація MidnightLib",
+  "midnightlib.midnightconfig.config_screen_list": "Увімкнути список екрана конфігурації",
+  "midnightlib.midnightconfig.enum.ConfigButton.TRUE": "\u00a7aТак",
+  "midnightlib.midnightconfig.enum.ConfigButton.FALSE": "\u00a7cНі",
+  "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "\u00a7bModMenu",
+  "midnightlib.modrinth": "Modrinth",
+  "midnightlib.curseforge": "CurseForge",
+  "midnightlib.wiki": "Вікі",
+  "modmenu.descriptionTranslation.midnightlib": "Загальна бібліотека для модів команди MidnightDust.%nНадає конфігураційний API, автоматичну інтеграцію з іншими модами, загальні утиліти та косметику.",
+  "modmenu.summaryTranslation.midnightlib": "Загальна бібліотека для модів команди MidnightDust.",
+  "midnightconfig.colorChooser.title": "Оберіть колір"
+}

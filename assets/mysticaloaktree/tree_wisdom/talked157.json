@@ -1,0 +1,7 @@
+{
+  "type": "talked_to",
+  "trust_required": 30,
+  "text": [
+    "Яка мила білочка, я назву тебе $random_name"
+  ] 
+}

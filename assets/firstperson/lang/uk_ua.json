@@ -1,0 +1,22 @@
+{
+    "text.firstperson.title": "Налаштування FirstPerson",
+    "key.firstperson.toggle": "Перемикнути Firstperson",
+
+    "category.firstperson.firstperson": "FirstPerson",
+    "text.firstperson.option.firstperson.xOffset": "Зміщення x стоячи",
+    "text.firstperson.option.firstperson.xOffset.tooltip": "Переміщує тіло відносно камери вперед і назад",
+    "text.firstperson.option.firstperson.sneakXOffset": "Зміщення x присідаючи",
+    "text.firstperson.option.firstperson.sneakXOffset.tooltip": "Переміщує тіло відносно камери вперед-назад під час присідання",
+    "text.firstperson.option.firstperson.enabledByDefault": "Усталено увімкнено",
+    "text.firstperson.option.firstperson.enabledByDefault.tooltip": "Стандартний стан мода FirstPerson після запуску гри",
+    "text.firstperson.option.firstperson.sitXOffset": "Зміщення x сидячи",
+    "text.firstperson.option.firstperson.sitXOffset.tooltip": "Переміщення тіла відносно камери вперед-назад у положенні сидячи",
+    "text.firstperson.option.firstperson.renderStuckFeatures": "Відображати стріли та жала",
+    "text.firstperson.option.firstperson.renderStuckFeatures.tooltip": "Показує стріли, жала бджіл та інші модифіковані функції від першої особи",
+    "text.firstperson.option.firstperson.vanillaHands": "Звичайні руки",
+    "text.firstperson.option.firstperson.vanillaHands.tooltip": "Показує звичайні руки від першої особи, а також модель гравця (без рук)",
+    "text.firstperson.option.firstperson.doubleHands": "Подвійні руки",
+    "text.firstperson.option.firstperson.doubleHands.tooltip": "Порожні руки відображатимуться як зазвичай та на тілі",
+    "text.firstperson.option.firstperson.forceActive": "Примусово активно",
+    "text.firstperson.option.firstperson.forceActive.tooltip": "Вмикає мод FirstPerson, коли інші модифікації змінюють рендеринг, але спричиняють візуальні проблеми (наприклад, відсутня голова гравця)"
+  }

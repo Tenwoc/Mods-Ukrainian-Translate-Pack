@@ -1,0 +1,88 @@
+{
+  "config.dynamic_fps.title": "Параметри Dynamic FPS",
+
+  "config.dynamic_fps.warn_cloth_config.0": "Cloth Config потрібен для налаштування динамічного FPS у Minecraft.",
+  "config.dynamic_fps.warn_cloth_config.1": "Встановіть Cloth Config, відредагуйте конфігураційний файл або скористайтеся усталеними налаштуваннями.",
+
+  "config.dynamic_fps.category.general": "Загальні",
+  "config.dynamic_fps.category.advanced": "Розширені",
+
+  "config.dynamic_fps.category.hovered": "Наведений",
+  "config.dynamic_fps.category.unfocused": "Розфокусований",
+  "config.dynamic_fps.category.invisible": "Невидимий",
+  "config.dynamic_fps.category.unplugged": "Від батареї",
+  "config.dynamic_fps.category.abandoned": "Простоює",
+
+  "config.dynamic_fps.enabled": "Увімкнено",
+
+  "config.dynamic_fps.disabled": "Вимкнено",
+  "config.dynamic_fps.minutes": "%d Хвилина(и)",
+
+  "config.dynamic_fps.idle_time": "Тайм-аут простою",
+  "config.dynamic_fps.idle_time_tooltip": "Хвилини без введення даних, доки Dynamic FPS не активує стан очікування, коли гра сфокусована.",
+
+  "config.dynamic_fps.idle_condition": "Стан бездіяльності",
+  "config.dynamic_fps.idle_condition_none": "Немає",
+  "config.dynamic_fps.idle_condition_on_battery": "Під час роботи від акумулятора",
+
+  "config.dynamic_fps.uncap_menu_frame_rate": "Зняти обмеження FPS у меню",
+  "config.dynamic_fps.uncap_menu_frame_rate_tooltip": "Зніміть обмеження в 60 кадрів в секунду в головному меню.",
+
+  "config.dynamic_fps.battery_tracker": "Відстеження заряду акумулятора",
+  "config.dynamic_fps.battery_tracker_tooltip": "Увімкнення або вимкнення всіх функцій, пов'язаних із зарядом акумулятора.",
+
+  "config.dynamic_fps.battery_tracker_switch_states": "Увімкнути стан заряду акумулятора",
+  "config.dynamic_fps.battery_tracker_switch_states_tooltip": "Автоматично вмикати стан заряду акумулятора під час роботи від акумулятора.",
+
+  "config.dynamic_fps.battery_tracker_notifications": "Сповіщення про заряд акумулятора",
+  "config.dynamic_fps.battery_tracker_notifications_tooltip": "Отримуйте сповіщення в грі про стан заряду акумулятора.",
+
+  "config.dynamic_fps.battery_indicator_condition": "Стан індикатора заряду акумулятора",
+  "config.dynamic_fps.battery_indicator_condition_disabled": "Вимкнено",
+  "config.dynamic_fps.battery_indicator_condition_draining": "Розряджається",
+  "config.dynamic_fps.battery_indicator_condition_critical": "Критичний / < 10%",
+  "config.dynamic_fps.battery_indicator_condition_constant": "Постійний",
+
+  "config.dynamic_fps.battery_indicator_placement": "Розташування індикатора",
+  "config.dynamic_fps.battery_indicator_placement_top_left": "Зліва вгорі",
+  "config.dynamic_fps.battery_indicator_placement_top_right": "Вгорі праворуч",
+  "config.dynamic_fps.battery_indicator_placement_bottom_left": "Внизу зліва",
+  "config.dynamic_fps.battery_indicator_placement_bottom_right": "Внизу праворуч",
+
+  "config.dynamic_fps.volume_transition_speed_up": "Швидкість переходу гучності вгору",
+  "config.dynamic_fps.volume_transition_speed_down": "Швидкість переходу гучності вниз",
+  "config.dynamic_fps.volume_transition_speed_instant": "Негайно",
+  "config.dynamic_fps.volume_transition_speed_tooltip": "Встановіть швидкість, з якою гучність гри змінюватиметься в секунду.",
+
+  "config.dynamic_fps.frame_rate_target": "Цільова частота кадрів",
+  "config.dynamic_fps.volume_multiplier": "Коефіцієнт гучності",
+
+  "config.dynamic_fps.graphics_state": "Параметри графіки",
+  "config.dynamic_fps.graphics_state_default": "Усталено",
+  "config.dynamic_fps.graphics_state_reduced": "Зменшено",
+  "config.dynamic_fps.graphics_state_minimal": "Мінімальна",
+  "config.dynamic_fps.graphics_state_minimal_tooltip": "Мінімальна графіка змушує світ перезавантажуватися!",
+
+  "config.dynamic_fps.show_toasts": "Показувати тости",
+  "config.dynamic_fps.show_toasts_tooltip": "Продовжувати показувати сповіщення про тости або відкладати їх",
+
+  "config.dynamic_fps.run_garbage_collector": "Викликати збирач сміття",
+  "config.dynamic_fps.run_garbage_collector_tooltip": "Звільняти невикористану пам'ять при переході до цього статусу",
+
+  "config.dynamic_fps.download_natives": "Завантажити рідні програми",
+  "config.dynamic_fps.download_natives_description_0": "Використання функцій заряду акумулятора потребує додаткової бібліотеки.",
+  "config.dynamic_fps.download_natives_description_1": "Встановіть, чи може мод завантажувати цей компонент від вашого імені.",
+
+  "key.dynamic_fps.toggle_forced": "Примусово знижувати частоту кадрів (перемикання)",
+  "key.dynamic_fps.toggle_disabled": "Вимкнути Dynamic FPS (перемикання)",
+  "gui.dynamic_fps.hud.reducing": "Dynamic FPS: Увімкнено примусове зниження частоти кадрів",
+  "gui.dynamic_fps.hud.disabled": "Dynamic FPS вимкнено",
+
+  "toast.dynamic_fps.battery_charging": "Заряджання!",
+  "toast.dynamic_fps.battery_draining": "Розряджається!",
+  "toast.dynamic_fps.battery_critical": "Батарея розряджена!",
+
+  "toast.dynamic_fps.battery_charge": "Наразі на %d%%",
+
+  "modmenu.descriptionTranslation.dynamic_fps": "Зменшити використання ресурсів, коли Minecraft знаходиться у фоновому режимі або простоює."
+}

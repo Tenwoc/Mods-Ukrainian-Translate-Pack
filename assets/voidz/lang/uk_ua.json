@@ -1,0 +1,11 @@
+{
+  "block.voidz.void_portal": "Портал порожнечі",
+  "block.voidz.void": "Порожнеча",
+  "block.voidz.infested_void": "Заражена порожнеча",
+
+  "death.attack.void": "%1$s був поглинений порожнечею",
+
+  "text.autoconfig.voidz.title": "Налаштування VoidZ",
+  "text.autoconfig.voidz.option.allow_boss_respawn": "Дозволити відродження боса",
+  "text.autoconfig.voidz.option.boss_respawn_time": "Час відродження боса"
+}

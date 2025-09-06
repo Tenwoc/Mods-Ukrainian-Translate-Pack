@@ -1,0 +1,36 @@
+{
+  "autooredictconv.command.odc._each": "- §6{0}",
+  "autooredictconv.command.odc._each_pair": "- §a{0}§r: §6{1}§r",
+  "autooredictconv.command.odc._must_be_holding": "Ви повинні тримати предмет!",
+  "autooredictconv.command.odc._no_tag": "Тег {0} не існує.",
+  "autooredictconv.command.odc.help.0": "/odc help - показує це повідомлення",
+  "autooredictconv.command.odc.help.1": "/odc detect - показує імена тегів для утримуваного предмета",
+  "autooredictconv.command.odc.help.2": "/odc dump - перелічує усі теги предмета",
+  "autooredictconv.command.odc.help.3": "/odc find <tag> - перелічує предмети за вказаним тегом",
+  "autooredictconv.command.odc.help.4": "/odc list - перелічує поточно налаштовані перетворення",
+  "autooredictconv.command.odc.help.5": "/odc add - Додає поточний утримуваний предмет як усталений для всіх його тегів.",
+  "autooredictconv.command.odc.help.6": "/odc set <tag> - Встановлює поточний утримуваний предмет як усталений для вказаного тегу.",
+  "autooredictconv.command.odc.help.7": "/odc reload - Перезавантажує файл конфігурації з диска.",
+  "autooredictconv.command.odc.help.8": "/odc remove [tag] - Видаляє перетворення певного тега або всі перетворення для тегів утримуваного предмета, якщо тег не вказано.",
+  "autooredictconv.command.odc.detect": "Теги для предмету '§b{0}§r':",
+  "autooredictconv.command.odc.dump": "Перелік усіх тегів предмета...",
+  "autooredictconv.command.odc.find": "Тег §b{0}§r міститься у таких предметах:",
+  "autooredictconv.command.odc.list": "Налаштовані перетворення:",
+  "autooredictconv.command.odc.list.tag": "§nПеретворення тегів§r",
+  "autooredictconv.command.odc.list.item": "§nПеретворення предметів§r",
+  "autooredictconv.command.odc.add": "Додано §6{0}§r як усталене перетворення для тега §6{1}§r",
+  "autooredictconv.command.odc.add.none": "§4Предмет не має тегів (або всі його теги занесені до чорного списку, щоб запобігти масовим конверсіям). Ви можете вручну додати пряме перетворення до конфігураційного файлу і запустити §6/odc reload§4.§r",
+  "autooredictconv.command.odc.reload": "§aПеретворення перезавантажено!",
+  "autooredictconv.command.odc.remove": "Видалено перетворення з тегом §c{0}§r, якщо воно існувало",
+  "autooredictconv.command.odc.pause.invalid": "Цю команду можна виконати лише як гравець!",
+  "autooredictconv.command.odc.pause.pause": "Перетворення призупинено.",
+  "autooredictconv.command.odc.pause.unpause": "Перетворення відновлено.",
+
+  "autooredictconv.converting": "Конвертація!",
+
+  "block.autooredictconv.converter": "Автоконвертер",
+
+  "tooltip.autooredictconv.converter.0": "Перетворює предмети.",
+  "tooltip.autooredictconv.converter.1": "Вставляйте предмети у верхню частину і виймайте перетворені предмети з нижньої.",
+  "tooltip.autooredictconv.converter.2": "Не має інвентарю, конвертується миттєво."
+}

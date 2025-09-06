@@ -1,0 +1,8 @@
+{
+  "javd.invalid.world": "Не вдалося знайти світ '%s'",
+  "javd.invalid.pos": "Не вдалося знайти правильне розташування порталу",
+  "block.javd.portal_block" : "Портал Порожнечі",
+  "block.javd.void_portal_block" : "Портал Порожнечі",
+  "biome.javd.void" : "Порожнеча",
+  "block.javd.void_portal_block.name" : "Портал Порожнечі"
+}

@@ -1,0 +1,68 @@
+{
+  "servercountryflags.locationInfo.unknown": "(невідомо)",
+  "servercountryflags.locationInfo.cooldown": "(API при охолодженні)",
+  "servercountryflags.locationInfo.distance": "≈ %d %s away",
+  "servercountryflags.locationInfo.км": "км",
+  "servercountryflags.locationInfo.милі": "милі",
+  "servercountryflags.locationInfo.isp": "Провайдер: %s",
+  "servercountryflags.servermap.title": "Карта серверів",
+  "servercountryflags.servermap.home": "Головна сторінка",
+
+  "servercountryflags.config.category.border": "Кордон",
+  "servercountryflags.config.category.preferences": "Налаштування",
+  "servercountryflags.config.category.locale": "Локальність",
+
+  "servercountryflags.config.header": "Конфігурація прапорів країни сервера",
+
+  "servercountryflags.config.field.flagPosition.name": "Положення прапорів",
+  "servercountryflags.config.field.flagPosition.description": "Змінює положення прапорів. Доступні варіанти: усталено, ліворуч, праворуч, за назвою",
+  "servercountryflags.config.field.flagPosition.value.behindName": "За назвою",
+  "servercountryflags.config.field.flagPosition.value.left": "Ліворуч",
+  "servercountryflags.config.field.flagPosition.value.right": "Праворуч",
+  "servercountryflags.config.field.flagPosition.value.default": "Усталено",
+
+  "servercountryflags.config.field.flagBorder.name": "Межа прапорів",
+  "servercountryflags.config.field.flagBorder.description": "Відображає рамку навколо прапорів",
+
+  "servercountryflags.config.field.borderColor.name": "Колір рамки",
+  "servercountryflags.config.field.borderColor.description": "Колір рамки навколо прапорів",
+
+  "servercountryflags.config.field.reloadOnRefresh.name": "Перезавантажувати при оновленні",
+  "servercountryflags.config.field.reloadOnRefresh.description": "Дозволяє перезавантажувати прапори при оновленні списку серверів",
+
+  "servercountryflags.config.field.showDistance.name": "Показувати відстань",
+  "servercountryflags.config.field.showDistance.description": "Показує приблизну відстань між сервером і вами, коли ви наводите курсор на прапорець",
+
+  "servercountryflags.config.field.useKm.name": "Використовувати кілометри",
+  "servercountryflags.config.field.useKm.description": "Використовувати кілометри замість миль",
+
+  "servercountryflags.config.field.forceEnglish.name": "Примусити англійську мову",
+  "servercountryflags.config.field.forceEnglish.description": "Змушує результати API бути англійською мовою замість вашої ігрової мови",
+
+  "servercountryflags.config.field.displayUnknownFlag.name": "Показувати невідомий прапор",
+  "servercountryflags.config.field.displayUnknownFlag.description": "Відображає прапорець невідомого, коли ми ще не маємо даних про сервер",
+
+  "servercountryflags.config.field.displayCooldownFlag.name": "Відображати прапорець вимкнення",
+  "servercountryflags.config.field.displayCooldownFlag.description": "Відображає прапорець таймауту, коли ми маємо перезавантаження API",
+
+  "servercountryflags.config.field.showDistrict.name": "Показати район",
+  "servercountryflags.config.field.showDistrict.description": "Показує район розташування, якщо він доступний",
+
+  "servercountryflags.config.field.showISP.name": "Показати провайдера",
+  "servercountryflags.config.field.showISP.description": "Показує інтернет-провайдера хоста, якщо доступно",
+
+  "servercountryflags.config.field.mapButton.name": "Кнопка мапи",
+  "servercountryflags.config.field.mapButton.description": "Показує кнопку мапи у списку серверів, яка відкриває мапу сервера",
+
+  "servercountryflags.config.field.mapButtonRight.name": "Кнопка мапи праворуч",
+  "servercountryflags.config.field.mapButtonRight.description": "Визначає, чи повинна кнопка мапи бути праворуч або ліворуч",
+
+  "servercountryflags.config.field.showHomeOnMap.name": "Показувати дім на мапі",
+  "servercountryflags.config.field.showHomeOnMap.description": "Показувати ваше місцезнаходження на мапі сервера",
+
+  "servercountryflags.config.field.resolveRedirects.name": "Вирішити SRV перенаправлення",
+  "servercountryflags.config.field.resolveRedirects.description": "Використовує перенаправлену IP-адресу (якщо вона присутня) замість вирішеної IP-адреси",
+
+  "servercountryflags.config.field.serverBrowserIntegration.name": "Інтеграція з браузером сервера",
+  "servercountryflags.config.field.serverBrowserIntegration.description": "Відображає прапорці у браузері сервера, якщо цей мод встановлено"
+}

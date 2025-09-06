@@ -1,0 +1,6 @@
+{
+  "name": "Ритуали",
+  "description": "Ритуали використовують $(blood)LP$() з вашої $(l:bloodmagic:altar/soul_network)мережі душі$(/l) in order to do a variety of tasks. $(br2)For information on specific rituals, click the Master Ritual Stone below.$(br2)>>>      <<<",
+  "icon": "bloodmagic:ritualdiviner",
+  "sortnum": 4
+}

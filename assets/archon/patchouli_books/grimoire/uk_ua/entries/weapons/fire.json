@@ -1,0 +1,31 @@
+{
+  "name": "Вогонь",
+  "icon": "archon:fire_gem",
+  "category": "archon:weapons",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:heat_ranger",
+      "text": "Палкий стрілець - лук, що не потребує стріл. Він стріляє вогняними кулями зі швидкістю, що залежить від натягу тятиви."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:heat_ranger"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:wither_stave",
+      "text": "Висушувальний посох запускає черепа Візера."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:wither_stave"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:infernal_coat",
+      "text": "Пекельний покров - міцна броня, що наділяє власника вогнестійкістю. Якщо натиснути спеціальну кнопку (у налаштуваннях '.'), навколо власника станеться вибух із силою, що залежить від кількості витраченої мани. Можна створити, поєднавши незеритовий нагрудник з обпаленим оком на ковальскому столі."
+    }
+  ]
+}

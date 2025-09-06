@@ -1,0 +1,16 @@
+{
+  "text.structurecredits.message": "§7Ласкаво просимо у: %1$s §7- від: %2$s",
+  "text.structurecredits.message_dimensional_dungeon": "§7Ласкаво просимо у: %1$s §7- від: %2$s",
+
+  "text.structurecredits.info_message": "§7Перевірте зв'язки клавіш «Structure Credits», щоб мати гарний досвід роботи з модом",
+
+  "category.structurecredits.keys": "Structure Credits",
+  "key.structurecredits.deactivate_key": "Деактивувати повідомлення про структуру",
+  "text.structurecredits.deactivated": "§7Повідомлення про структуру деактивовано.",
+  "text.structurecredits.activated": "§7Повідомлення про структуру активовано.",
+
+  "key.structurecredits.show_again_key": "Відобразити повідомлення про структуру ще раз",
+  "key.structurecredits.dont_show_key": "Ніколи не показувати це повідомлення про структуру",
+  "text.structurecredits.dont_show": "§7Ця стуктура не відображатиметься у повідомленні.",
+  "text.structurecredits.already_dont_show": "§7Ця структура вже не відображається у повідомленні."
+}

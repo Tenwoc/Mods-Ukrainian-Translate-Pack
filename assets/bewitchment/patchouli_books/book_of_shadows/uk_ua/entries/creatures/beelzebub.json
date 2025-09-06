@@ -1,0 +1,33 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Вельзевул",
+  "icon": "besmirchment:beelzebub_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "flag": "bsm_beelzebub",
+  "extra_recipe_mappings": {
+    "besmirchment:scroll_of_torment": 2
+  },
+  "entry_color": "C15600",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Вельзевул, який першим зливає бруд з Ями і потрапляє до неї, є покровителем $(l:besmirchment:creatures/werepyre)Вампілак$().$(br)Їм можна дати $(l:bewitchment:tools/grotesque_stew)Обітницю$(), що дозволить повністю контролювати $(l:bewitchment:curses/conducting_curses)Прокляття$().$(br)Ви також можете запропонувати Вельзевулу $(l:bewitchment:introduction/crops)Сасниковий Хліб$(), який очистить вас від Вампіризму.$(br2)Виклик Вельзевула буде описаний у цьому записі."
+    },
+    {
+      "type": "entity",
+      "entity": "besmirchment:beelzebub",
+      "offset": 0.2
+    },
+    {
+      "type": "spotlight",
+      "item": "besmirchment:scroll_of_torment",
+      "title": "Виклик Вельзевула",
+      "text": "Щоб викликати Вельзевула, вам потрібно отримати $(item)Сувій Мук$().$(br)Використовуйте цей сувій на Свиню вночі. Для цього вам знадобиться більша частина ваших $(l:bewitchment:introduction/altars)ME$() , і, можливо, ви захочете вдягнути $(l:bewitchment:tools/besmirched_armor)Заплямовану Броню$() для того, що станеться далі."
+    },
+    {
+      "type": "crafting",
+      "recipe": "besmirchment:scroll_of_torment",
+      "text": "Місце для цього універсальне, тому обирайте його з розумом. Вам потрібно буде тримати Вельзевула поруч."
+    }
+  ]
+}

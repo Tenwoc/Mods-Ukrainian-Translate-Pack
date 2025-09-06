@@ -1,0 +1,14 @@
+{
+  "text.autoconfig.reskin.title": "Re:Skin онфігурація",
+  "text.autoconfig.reskin.option.allowTransparentSkin": "На стороні сервера, увімкнення прозорих скінів",
+  "text.autoconfig.reskin.option.selfSkinNeedsOp": "Чи потрібно встановлювати власні скіни?",
+  "text.autoconfig.reskin.option.othersSkinNeedsOp": "Чи потрібно встановлювати чужі скіни?",
+  "text.autoconfig.reskin.option.enableSkinServerWhitelist": "Білий список серверних скінів",
+  "text.autoconfig.reskin.option.skinServerWhitelist": "Список серверів, розділених за допомогою ';'",
+  "setskin.clearedcache": "Очищено кеш скінів. Тепер буде повторно завантажено всі необхідні скіни.",
+  "setskin.notwhitelisted": "Потрібний скін не належить до білого списку серверів.",
+  "setskin.setplayerskin": "Встановлено скін %s на %s",
+  "setskin.setplayermodel": "Встановлено модель %s на %s",
+  "setskin.resetplayer": "Скинутио скін %s",
+  "argument.nohttps": "URL має починатися з https://"
+}

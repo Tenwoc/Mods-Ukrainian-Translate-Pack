@@ -1,0 +1,19 @@
+{
+  "name": "Трансмутація",
+  "icon": "ars_nouveau:imbuement_chamber",
+  "category": "ars_nouveau:ars_ocultas",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ви можете конвертувати надлишки срібла в золото і навпаки!"
+    },
+    {
+      "type": "ars_nouveau:imbuement_recipe",
+      "recipe": "ars_ocultas:imbuement_gold_transmute"
+    },
+    {
+      "type": "ars_nouveau:imbuement_recipe",
+      "recipe": "ars_ocultas:imbuement_silver_transmute"
+    }
+  ]
+}

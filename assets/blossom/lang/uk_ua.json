@@ -1,0 +1,13 @@
+{
+  "block.blossom.flowering_oak_leaves": "Квітуче дубове листя",
+
+  "commands.blossom.config.reload": "Конфігурацію Blossom перезавантажено",
+  "commands.blossom.config.reset": "Конфігурацію Blossom скинуто до сталих значень",
+
+  "commands.blossom.query.exposed": "Наразі встановлено: %s",
+  "commands.blossom.query.rate": "Швидкість зараз встановлена на: %s",
+  "commands.blossom.query.count": "Лічильник наразі встановлений на: %s-%s",
+  "commands.blossom.set.exposed": "Виявлено тепер встановлено на: %s",
+  "commands.blossom.set.rate": "Швидкість тепер встановлена на: %s",
+  "commands.blossom.set.count": "Лічильник тепер встановлений на: %s-%s"
+}

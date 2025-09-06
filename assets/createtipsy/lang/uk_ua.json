@@ -1,0 +1,52 @@
+{
+
+  "_": "->------------------------]  Ігрові елементи [------------------------<-",
+
+  "block.createtipsy.distiller_output": "Вихід дистилятора",
+  "block.createtipsy.fermentation_barrel": "Бочка для бродіння",
+  "block.createtipsy.polished_acacia_planks": "Поліровані акацієві дошки",
+  "block.createtipsy.polished_birch_planks": "Поліровані березові дошки",
+  "block.createtipsy.polished_crimson_planks": "Поліровані багряні дошки",
+  "block.createtipsy.polished_dark_oak_planks": "Поліровані темно-дубові дошки",
+  "block.createtipsy.polished_jungle_planks": "Поліровані тропічні дошки",
+  "block.createtipsy.polished_mangrove_planks": "Поліровані мангрові дошки",
+  "block.createtipsy.polished_oak_planks": "Поліровані дубові дошки",
+  "block.createtipsy.polished_spruce_planks": "Поліровані смерекові дошки",
+  "block.createtipsy.polished_warped_planks": "Поліровані химерні дошки",
+
+  "fluid.createtipsy.beer": "Пиво",
+  "fluid.createtipsy.berry_wine": "Ягідне вино",
+  "fluid.createtipsy.glowberry_wine": "Вино з аґрусу",
+  "fluid.createtipsy.hard_liquor": "Міцний алкоголь",
+  "fluid.createtipsy.rum": "Ром",
+  "fluid.createtipsy.whiskey": "Віскі",
+
+  "item.createtipsy.alcohol_bottle": "Пляшка алкоголю",
+  "item.createtipsy.beer": "Пиво",
+  "item.createtipsy.berry_wine": "Ягідне вино",
+  "item.createtipsy.broken_alcohol_bottle": "Розбита алкогольна пляшка",
+  "item.createtipsy.glowberry_wine": "Аґрусовий напій",
+  "item.createtipsy.hard_liquor": "Міцний алкоголь",
+  "item.createtipsy.rum": "Ром",
+  "item.createtipsy.suspicious_hard_liquor": "Підозрілий міцний алкоголь",
+  "item.createtipsy.suspicious_rum": "Підозрілий ром",
+  "item.createtipsy.suspicious_whiskey": "Підозрілий віскі",
+  "item.createtipsy.whiskey": "Віскі",
+  "item.createtipsy.wooden_mug": "Дерев'яний кухоль",
+
+  "create.recipe.fermentation": "Ферментація",
+  "create.recipe.distillation_": "Дистиляція",
+
+  "create.goggles.distiller.info": "Дистилятор:",
+
+
+  "_": "->------------------------]  Інтерфейс та повідомлення [------------------------<-",
+
+  "create.recipe.fermentation": "Ферментація",
+  "create.recipe.distillation_": "Дистиляція",
+
+  "create.goggles.distiller.info": "Дистилятор:",
+
+  "_": "Дякуємо за переклад Create: Tipsy n' Dizzy! --Tenwoc👌"
+
+}

@@ -1,0 +1,8 @@
+{
+  "type": "talked_to",
+  "trust_required": 100,
+  "text": [
+    "Чи знаєш ти, що тварини так полюбляють корм, що здатні харчуватися ним самостійно?"
+  ],
+  "mod_loaded": "supplementaries"
+}

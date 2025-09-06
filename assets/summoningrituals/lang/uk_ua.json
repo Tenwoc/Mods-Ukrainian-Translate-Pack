@@ -1,0 +1,34 @@
+{
+  "itemGroup.summoningrituals": "Summoning Rituals",
+
+  "block.summoningrituals.altar": "Вівтар виклику",
+  "block.summoningrituals.indestructible_altar": "Незламний вівтар виклику",
+
+  "message.summoningrituals.progress": "Ритуал виклику вже триває.",
+  "message.summoningrituals.day": "Для початку ритуалу має бути день.",
+  "message.summoningrituals.night": "Для початку ритуалу повинна бути ніч.",
+  "message.summoningrituals.clear": "Для початку ритуалу погода повинна бути ясною.",
+  "message.summoningrituals.rain": "Для початку ритуалу має йти дощ.",
+  "message.summoningrituals.thunder": "Для початку ритуалу має гриміти грім.",
+  "message.summoningrituals.block_below": "Під вівтарем немає потрібного блоку.",
+  "message.summoningrituals.sacrifices": "Навколо вівтаря недостатньо жертвоприношень.",
+  "message.summoningrituals.invalid": "Вівтар не містить всіх необхідних реагентів.",
+
+  "label.summoningrituals.region": "Регіон",
+  "label.summoningrituals.outputs": "Результат виклику:",
+
+  "tooltip.summoningrituals.catalyst": "Каталізатор",
+  "tooltip.summoningrituals.catalyst_desc": "Вставте останнім, щоб почати ритуал.",
+  "tooltip.summoningrituals.block_below": "Блок нижче",
+  "tooltip.summoningrituals.properties": "Відповідні властивості",
+  "tooltip.summoningrituals.region": "Область навколо вівтаря, де моби розглядаються для жертвоприношення.",
+  "tooltip.summoningrituals.day_time": "Необхідний час",
+  "tooltip.summoningrituals.weather": "Необхідна погода",
+
+  "day_time.summoningrituals.day": "День",
+  "day_time.summoningrituals.night": "Ніч",
+
+  "weather.summoningrituals.clear": "Ясно",
+  "weather.summoningrituals.rain": "Дощ",
+  "weather.summoningrituals.thunder": "Грім"
+}

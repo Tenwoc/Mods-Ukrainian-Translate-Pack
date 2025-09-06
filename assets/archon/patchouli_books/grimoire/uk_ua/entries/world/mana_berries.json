@@ -1,0 +1,17 @@
+{
+  "name": "Мана-ягоди",
+  "icon": "archon:textures/block/mana_berry_bush_stage3.png",
+  "category": "archon:world",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Кущі мана-ягід ростуть по всій тайзі, прямо як солодкі ягоди. Повністю дозрілі кущі дають 2-3 мана-ягідки."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:mana_berries",
+      "text": "Мана-ягоди заповнюють 0.1 насичення і 2 голоду, а також - 10 мани."
+    }
+  ]
+}

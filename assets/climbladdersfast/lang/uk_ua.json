@@ -1,0 +1,12 @@
+{
+  "text.autoconfig.climbladdersfast.option.climbUpSpeed": "Швидкість підйому",
+  "text.autoconfig.climbladdersfast.option.climbDownSpeed": "Швидкість спуску",
+  "text.autoconfig.climbladdersfast.option.disableScaffoldingFastClimbing": "Вимкнути швидке піднімання на риштуваннях",
+  "text.autoconfig.climbladdersfast.option.disableScaffoldingCollision": "Вимкнути колізію риштувань",
+  "text.autoconfig.climbladdersfast.option.disableVinesFastClimbing": "Вимкнути швидкуе лазання по лозам",
+  "text.autoconfig.climbladdersfast.title": "ClimbLaddersFast",
+  "key.climbladdersfast.toggle": "Перемкнути увімк/вимк",
+  "category.climbladdersfast.options": "ClimbLaddersFast",
+  "climbladdersfast.toggle.enabled": "ClimbLaddersFast увімкнено",
+  "climbladdersfast.toggle.disabled": "ClimbLaddersFast вимкнено"
+}

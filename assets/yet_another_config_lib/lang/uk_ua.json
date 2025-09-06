@@ -1,0 +1,24 @@
+{
+    "yacl.control.boolean.true": "§true",
+    "yacl.control.boolean.false": "§cfalse",
+
+    "yacl.control.action.execute": "Виконати",
+
+    "yacl.gui.save": "Зберегти",
+    "yacl.gui.save.tooltip": "Зберегти зміни до наступного редагування.",
+    "yacl.gui.finished.tooltip": "Закрити меню.",
+    "yacl.gui.cancel": "Назад",
+    "yacl.gui.cancel.tooltip": "Скасувати зміни та закрити налаштування.",
+    "yacl.gui.reset.tooltip": "Скинути всі налаштування до усталених значень (їх можна відновити).",
+    "yacl.gui.undo": "Скасувати",
+    "yacl.gui.undo.tooltip": "Повернути всі налаштування до стану, в якому вони були до змін.",
+    "yacl.gui.fail_apply": "Не вдалося зберегти",
+    "yacl.gui.fail_apply.tooltip": "Виникла помилка; зміни неможливо застосувати.",
+    "yacl.gui.save_before_exit": "Збережіть перед закриттям",
+    "yacl.gui.save_before_exit.tooltip": "Збережіть або скасуйте зміни, щоб закрити налаштування.",
+
+    "yacl.restart.title": "Налаштування потребують перезавантаження.",
+    "yacl.restart.message": "Одне або кілька налаштувань вимагає перезапуску гри для застосування змін.",
+    "yacl.restart.yes": "Закрити Minecraft",
+    "yacl.restart.no": "Ігнорувати"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Блискавка в пляшці",
+  "icon": "archon:lightning_bottle",
+  "category": "archon:misc",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:lightning_bottle",
+      "text": "Пляшку можна розбити, випустивши стихію на свободу. А ще за допомогою неї виходить зарядити кріпера. Можна купити у $(l:archon:world/wizard)Чарівника$() або кинути порожню пляшечку в блискавку.."
+    }
+  ]
+}

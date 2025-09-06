@@ -1,0 +1,25 @@
+{
+  "itemGroup.immersive_melodies.immersive_melodies_tab": "Immersive Melodies",
+
+  "item.immersive_melodies.bagpipe": "Волинка",
+  "item.immersive_melodies.didgeridoo": "Диджериду",
+  "item.immersive_melodies.flute": "Флейта",
+  "item.immersive_melodies.lute": "Лютня",
+  "item.immersive_melodies.piano": "Фортепіано",
+  "item.immersive_melodies.triangle": "Трикутник",
+  "item.immersive_melodies.trumpet": "Труба",
+
+  "immersive_melodies.playing": "Грає",
+
+  "immersive_melodies.error.empty": "Не вдається розібрати файл.",
+
+  "immersive_melodies.close": "Закрити",
+  "immersive_melodies.search": "Пошук",
+  "immersive_melodies.favorite": "Улюблене",
+  "immersive_melodies.remove_favorite": "Видалити з улюбленого",
+  "immersive_melodies.delete": "Видалити",
+  "immersive_melodies.play": "Грати",
+  "immersive_melodies.help": "Відкрити довідку",
+  "immersive_melodies.pause": "Пауза",
+  "immersive_melodies.read": "Натисніть, щоб дізнатися, як додати свої мелодії!"
+}

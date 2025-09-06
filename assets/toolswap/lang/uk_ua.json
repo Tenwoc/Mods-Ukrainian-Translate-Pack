@@ -1,0 +1,7 @@
+{
+  "toolswap.key.toggle_toolswap_mode": "Перемикання режиму переключення інструментів",
+  "toolswap.key.toggle_toolswap_notification": "Режим переключення інструментів",
+  "toolswap.key.toggle_toolswap_notification.state_on": "увімк",
+  "toolswap.key.toggle_toolswap_notification.state_off": "вимк",
+  "toolswap.warning": "НЕМАЄ ПОРОЖНЬОГО ГНІЗДА ДЛЯ ЗБЕРЕЖЕННЯ ПОШКОДЖЕНОГО ІНСТРУМЕНТА"
+}

@@ -1,0 +1,85 @@
+{
+  "itemGroup.immersive_armors.immersive_armors_tab": "Immersive Armors",
+
+  "armorEffect.fireResistance": "%d%% вогнестійкості",
+  "armorEffect.explosionResistance": "%d%% стійкості до вибухів",
+  "armorEffect.magicResistance": "%d%% стійкості до магії",
+  "armorEffect.fireInflicting": "%d шкоди противникам від вогню",
+  "armorEffect.bounceback": "%d відкидання противників",
+  "armorEffect.spikes": "%d шкоди противникам від шипів",
+  "armorEffect.arrowBlock": "%d%% стійкості до стріл",
+  "armorEffect.wither": "Накладає на ворогів висушування",
+  "armorEffect.charged": "Заряджено",
+  "armorEffect.berserk": "До %d%% більше шкоди за кожне втрачене ОЗ",
+  "armorEffect.weaponEfficiency": "+%d%% шкоди %s",
+  "armorEffect.weaponEfficiency.axe": "сокирою",
+  "armorEffect.steamTech.head": "Примітивний радар, що показує вам розташування ворогів у невеликому радіусі від вас",
+  "armorEffect.steamTech.chest": "Перевіряй час на ходу!",
+  "armorEffect.steamTech.legs": "Дає змогу робити подвійний стрибок",
+  "armorEffect.steamTech.feet": "Дає змогу уникнути шкоди від падіння з висоти",
+
+  "immersive_armors.dyeable": "Можна пофарбувати",
+  "immersive_armors.incomplete": "%d / %d частин одягнено",
+
+  "item.immersive_armors.bone_helmet": "Кістяний шолом",
+  "item.immersive_armors.bone_chestplate": "Кістяний нагрудник",
+  "item.immersive_armors.bone_leggings": "Кістяні наголінники",
+  "item.immersive_armors.bone_boots": "Кістяні чоботи",
+
+  "item.immersive_armors.wither_helmet": "Шолом візера",
+  "item.immersive_armors.wither_chestplate": "Нагрудник візера",
+  "item.immersive_armors.wither_leggings": "Наголінники візера",
+  "item.immersive_armors.wither_boots": "Чоботи візера",
+
+  "item.immersive_armors.warrior_helmet": "Шолом воїна",
+  "item.immersive_armors.warrior_chestplate": "Нагрудник воїна",
+  "item.immersive_armors.warrior_leggings": "Наголінники воїна",
+  "item.immersive_armors.warrior_boots": "Чоботи воїна",
+
+  "item.immersive_armors.heavy_helmet": "Важкий шолом",
+  "item.immersive_armors.heavy_chestplate": "Важкий нагрудник",
+  "item.immersive_armors.heavy_leggings": "Важкі наголінники",
+  "item.immersive_armors.heavy_boots": "Важкі чоботи",
+
+  "item.immersive_armors.robe_helmet": "Тканевий капюшон",
+  "item.immersive_armors.robe_chestplate": "Тканева туніка",
+  "item.immersive_armors.robe_leggings": "Тканеві штани",
+  "item.immersive_armors.robe_boots": "Тканеві чоботи",
+
+  "item.immersive_armors.slime_helmet": "Слизовий шолом",
+  "item.immersive_armors.slime_chestplate": "Слизовий нагрудник",
+  "item.immersive_armors.slime_leggings": "Слизові наголінники",
+  "item.immersive_armors.slime_boots": "Слизові чоботи",
+
+  "item.immersive_armors.divine_helmet": "Божественний шолом",
+  "item.immersive_armors.divine_chestplate": "Божественний нагрудник",
+  "item.immersive_armors.divine_leggings": "Божественні наголінники",
+  "item.immersive_armors.divine_boots": "Божественні чоботи",
+  "item.immersive_armors.divine.description": "Кожної хвилини дозволяє ухилитись від однієї атаки",
+
+  "item.immersive_armors.prismarine_helmet": "Призмариновий шолом",
+  "item.immersive_armors.prismarine_chestplate": "Призмариновий нагрудник",
+  "item.immersive_armors.prismarine_leggings": "Призмаринові наголінники",
+  "item.immersive_armors.prismarine_boots": "Призмаринові чоботи",
+
+  "item.immersive_armors.wooden_helmet": "Дерев’яний шолом",
+  "item.immersive_armors.wooden_chestplate": "Дерев’яний нагрудник",
+  "item.immersive_armors.wooden_leggings": "Дерев’яні наголінники",
+  "item.immersive_armors.wooden_boots": "Дерев’яні чоботи",
+
+  "item.immersive_armors.steampunk_helmet": "Стімпанковий шолом",
+  "item.immersive_armors.steampunk_chestplate": "Стімпанковий нагрудник",
+  "item.immersive_armors.steampunk_leggings": "Стімпанкові наголінники",
+  "item.immersive_armors.steampunk_boots": "Стімпанкові чоботи",
+
+  "option.immersive_armors.general": "Загальні налаштування",
+  "option.immersive_armors.whitelist": "Білий список предметів",
+  "option.immersive_armors.hudClockX": "X-зміщення відображення годинника.",
+  "option.immersive_armors.hudClockXOffhand": "X-зміщення відображення годинника з використанням другої руки.",
+  "option.immersive_armors.hudClockY": "Y-зміщення відображення годинника.",
+  "option.immersive_armors.hudCompassX": "X-зміщення відображення компаса.",
+  "option.immersive_armors.hudCompassXOffhand": "X-зміщення відображення компаса з використанням другої руки.",
+  "option.immersive_armors.hudCompassY": "Y-зміщення відображення компаса.",
+  "option.immersive_armors.lootChance": "Ймовірність знайти обладунки Immersive Armor серед здобичі.",
+  "option.immersive_armors.mobEntityUseImmersiveArmorChance": "Ймовірність носіння сутностями обладунків Immersive Armor."
+}

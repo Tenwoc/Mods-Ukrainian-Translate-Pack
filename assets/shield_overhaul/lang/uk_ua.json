@@ -1,0 +1,6 @@
+{
+    "effect.shield_overhaul.stun":"Оглушення",
+    "effect.shield_overhaul.stun.description":"Ціль не може рухатися, використовувати предмети або атакувати.",
+    "effect.shield_overhaul.immunity":"Імунітет до оглушення",
+    "effect.shield_overhaul.immunity.description":"Ціль має імунітет до оглушення."
+}

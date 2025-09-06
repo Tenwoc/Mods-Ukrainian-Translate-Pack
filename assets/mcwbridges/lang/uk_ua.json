@@ -1,0 +1,113 @@
+{	
+	 "itemGroup.bridges": "Macaw's Bridges",
+	
+	 "block.mcwbridges.iron_bridge":"Залізний міст",
+	 
+	 "item.mcwbridges.pliers":"Плоскогубці",
+	 "mcwbridges.pliers.desc":"Клацніть ПКМ на мосту, щоб зробити вхід, працює тільки для мостів 2+ у вшир",
+	 
+	 "block.mcwbridges.oak_log_bridge_middle":"Дубовий міст",
+	 "block.mcwbridges.birch_log_bridge_middle":"Березовий міст",
+	 "block.mcwbridges.acacia_log_bridge_middle":"Акацієвий міст",
+	 "block.mcwbridges.spruce_log_bridge_middle":"Смерековий міст",
+	 "block.mcwbridges.jungle_log_bridge_middle":"Тропічний міст",
+	 "block.mcwbridges.dark_oak_log_bridge_middle":"Темно-дубовий міст",
+	 "block.mcwbridges.crimson_log_bridge_middle":"Багряний міст",
+	 "block.mcwbridges.warped_log_bridge_middle":"Химерний міст",
+	 "block.mcwbridges.mangrove_log_bridge_middle":"Мангровий міст",
+
+	 "block.mcwbridges.rope_oak_bridge":"Мотузковий дубовий міст",
+	 "block.mcwbridges.rope_birch_bridge":"Мотузковий березовий міст",
+	 "block.mcwbridges.rope_spruce_bridge":"Мотузковий смерековий міст",
+	 "block.mcwbridges.rope_jungle_bridge":"Мотузковий тропічний міст",
+	 "block.mcwbridges.rope_acacia_bridge":"Мотузковий акацієвий міст",
+	 "block.mcwbridges.rope_dark_oak_bridge":"Мотузковий темно-дубовий міст",
+	 "block.mcwbridges.rope_crimson_bridge":"Мотузковий багряний міст",
+	 "block.mcwbridges.rope_warped_bridge":"Мотузковий химерний міст",
+	 "block.mcwbridges.rope_mangrove_bridge":"Мотузковий мангровий міст",
+
+	 "block.mcwbridges.brick_bridge":"Цегляний міст",
+	 "block.mcwbridges.stone_brick_bridge":"Кам'ний цегляний міст",
+	 "block.mcwbridges.mossy_stone_brick_bridge":"Mossy Stone цегляний міст",
+	 "block.mcwbridges.sandstone_bridge":"Пісковиковий міст",
+	 "block.mcwbridges.orange_sandstone_bridge":"Червоний пісковиковий міст",
+	 "block.mcwbridges.deepslate_brick_bridge":"Глибосланцевий цегляний міст",
+	 "block.mcwbridges.deepslate_tile_bridge":"Глибосланцевий плитковий міст",
+	 "block.mcwbridges.mud_brick_bridge":"Брудний цегляний міст",
+	 "block.mcwbridges.blackstone_bridge":"Чорнокам'яний міст",
+	 
+	"block.mcwbridges.oak_rail_bridge":"Дубовий залізничний міст",
+	"block.mcwbridges.spruce_rail_bridge":"Смерековий залізничний міст",
+	"block.mcwbridges.birch_rail_bridge":"Березовий залізничний міст",
+	"block.mcwbridges.jungle_rail_bridge":"Тропічний залізничний міст",
+	"block.mcwbridges.acacia_rail_bridge":"Акацієвий залізничний міст",
+	"block.mcwbridges.dark_oak_rail_bridge":"Темно-дубовий залізничний міст",
+	"block.mcwbridges.crimson_rail_bridge":"Багряний залізничний міст",
+	"block.mcwbridges.warped_rail_bridge":"Химерний залізничний міст",
+	"block.mcwbridges.mangrove_rail_bridge":"Мангровий залізничний міст",
+
+	"block.mcwbridges.dry_bamboo_bridge":"Сухий бамбуковий міст",
+	"block.mcwbridges.bamboo_bridge":"Бамбуковий міст",
+	
+	"block.mcwbridges.iron_bridge_pier":"Залізна опора мосту",
+	
+	"block.mcwbridges.oak_bridge_pier":"Дубова опора мосту",
+	"block.mcwbridges.spruce_bridge_pier":"Смерекова опора мосту",
+	"block.mcwbridges.birch_bridge_pier":"Березова опора мосту",
+	"block.mcwbridges.jungle_bridge_pier":"Тропічна опора мосту",
+	"block.mcwbridges.acacia_bridge_pier":"Акацієва опора мосту",
+	"block.mcwbridges.dark_oak_bridge_pier":"Темно-дубова опора мосту",
+	"block.mcwbridges.crimson_bridge_pier":"Багряна опора мосту",
+	"block.mcwbridges.warped_bridge_pier":"Химерна опора мосту",
+	"block.mcwbridges.mangrove_bridge_pier":"Мангрова опора мосту",
+	
+	"block.mcwbridges.brick_bridge_pier":"Цегляна опора мосту",
+	"block.mcwbridges.sandstone_bridge_pier":"Пісковикова опора мосту",
+	"block.mcwbridges.stone_bridge_pier":"Кам'яна опора мосту",
+	"block.mcwbridges.red_sandstone_bridge_pier":"Червона пісковикова опора мосту",
+	"block.mcwbridges.blackstone_bridge_pier":"Чорнокам'яна опора мосту",
+	"block.mcwbridges.mossy_stone_bridge_pier":"Моховита кам'яна опора мосту",
+	"block.mcwbridges.deepslate_brick_bridge_pier":"Глибосланцева цегляна опора мосту",
+	"block.mcwbridges.deepslate_tile_bridge_pier":"Глибосланцева плиткова опора мосту",
+	"block.mcwbridges.mud_brick_bridge_pier":"Брудна цегляна опора мосту",
+	
+	"block.mcwbridges.bamboo_bridge_pier":"Бамбукова опора мосту",
+	"block.mcwbridges.dry_bamboo_bridge_pier":"Суха бамбукова опора мосту",
+	
+
+	 "block.mcwbridges.iron_bridge_stair":"Залізні мостові сходи",
+	 
+	 "block.mcwbridges.oak_log_bridge_stair":"Дубові мостові сходи",
+	 "block.mcwbridges.spruce_log_bridge_stair":"Смерекові мостові сходи",
+	 "block.mcwbridges.birch_log_bridge_stair":"Березові мостові сходи",
+	 "block.mcwbridges.jungle_log_bridge_stair":"Тропічні мостові сходи",
+	 "block.mcwbridges.acacia_log_bridge_stair":"Акацієві мостові сходи",
+	 "block.mcwbridges.dark_oak_log_bridge_stair":"Темно-дубові мостові сходи",
+	 "block.mcwbridges.crimson_log_bridge_stair":"Багряні мостові сходи",
+	 "block.mcwbridges.warped_log_bridge_stair":"Химерні мостові сходи",
+	 "block.mcwbridges.mangrove_log_bridge_stair":"Мангрові мостові сходи",
+
+	 "block.mcwbridges.oak_rope_bridge_stair":"Мотузкові дубові мостові сходи",
+	 "block.mcwbridges.spruce_rope_bridge_stair":"Мотузкові смерекові мостові сходи",
+	 "block.mcwbridges.birch_rope_bridge_stair":"Мотузкові березові мостові сходи",
+	 "block.mcwbridges.jungle_rope_bridge_stair":"Мотузкові тропічні мостові сходи",
+	 "block.mcwbridges.acacia_rope_bridge_stair":"Мотузкові акацієві мостові сходи",
+	 "block.mcwbridges.dark_oak_rope_bridge_stair":"Мотузкові темно-дубові мостові сходи",
+	 "block.mcwbridges.crimson_rope_bridge_stair":"Мотузкові багряні мостові сходи",
+	 "block.mcwbridges.warped_rope_bridge_stair":"Мотузкові химерні мостові сходи",
+	 "block.mcwbridges.mangrove_rope_bridge_stair":"Мотузкові мангрові мостові сходи",
+
+	 "block.mcwbridges.stone_brick_bridge_stair":"Камяні цегляні мостові сходи",
+	 "block.mcwbridges.sandstone_bridge_stair":"Пісковикові мостові сходи",
+	 "block.mcwbridges.brick_bridge_stair":"Цегляні мостові сходи",
+	 "block.mcwbridges.red_sandstone_bridge_stair":"Червоні пісковикові мостові сходи",
+	 "block.mcwbridges.blackstone_bridge_stair":"Чорнокам'яні мостові сходи",
+	 "block.mcwbridges.mossy_stone_bridge_stair":"Моховиті кам'яні мостові сходи",
+	 "block.mcwbridges.deepslate_tile_bridge_stair":"Глибосланцеві плиткові мостові сходи",
+	 "block.mcwbridges.deepslate_brick_bridge_stair":"Глибосланцеві цегляні мостові сходи",
+	 "block.mcwbridges.mud_brick_bridge_stair":"Брудні цегляні мостові сходи",
+
+	 "block.mcwbridges.bamboo_bridge_stair":"Бамбукові мостові сходи",
+	 "block.mcwbridges.dry_bamboo_bridge_stair":"Сухі бамбукові мостові сходи"
+
+}

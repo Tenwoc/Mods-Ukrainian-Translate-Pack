@@ -1,0 +1,68 @@
+{
+	"text.puffish_skills.skills": "Навички",
+	"text.puffish_skills.points_left": "Залишилось очок: ",
+
+	"tooltip.puffish_skills.current_level": "Рівень: %s",
+	"tooltip.puffish_skills.experience_progress": "Досвід: %s/%s (%s%%)",
+	"tooltip.puffish_skills.to_next_level": "Д нового рівня: %s",
+	"tooltip.puffish_skills.earned_points": "Зібрано очок: %s",
+	"tooltip.puffish_skills.spent_points": "Витрачено очок: %s",
+
+	"category.puffish_skills.skills": "Навички",
+	"key.puffish_skills.open": "Відкрити дерево навичок",
+
+	"attribute.puffish_attributes.player.stamina": "витривалості",
+	"attribute.puffish_attributes.player.melee_damage": "шкоди в ближньому бою",
+	"attribute.puffish_attributes.player.ranged_damage": "шкоди в дальньому бою",
+	"attribute.puffish_attributes.player.fortune": "вдачі",
+	"attribute.puffish_attributes.player.healing": "зцілення",
+	"attribute.puffish_attributes.player.jump": "стрибку",
+	"attribute.puffish_attributes.player.resistance": "стійкості",
+	"attribute.puffish_attributes.player.mining_speed": "швидкості добування",
+	"attribute.puffish_attributes.player.pickaxe_speed": "швидкості кайла",
+	"attribute.puffish_attributes.player.axe_speed": "швидкості сокири",
+	"attribute.puffish_attributes.player.shovel_speed": "швидкості лопати",
+	"attribute.puffish_attributes.player.sprinting_speed": "швидкості бігу",
+	"attribute.puffish_attributes.player.knockback": "відкидання",
+	"attribute.puffish_attributes.player.repair_cost": "вартості ремонту",
+
+	"chat.puffish_skills.new_point": "Ви здобули очко навичок. Клацніть %s щоб відкрити ваше дерево навичок.",
+
+	"toast.puffish_skills.invalid_config.description": "Неправильна конфігурація, перевірте ігрові логи.",
+
+	"gamerule.puffish_skills:announceNewPoints": "Повідомляти про нові пункти навичок",
+
+	"command.puffish_skills.no_such_category": "Нема категорій з ID %s",
+	"command.puffish_skills.no_such_skill": "Нема навичок з ID %s",
+	"command.puffish_skills.no_experience": "Досвід вимкнено у цій категорії",
+
+	"command.puffish_skills.category.lock.success.single": "Заблокована категорія %s для %s",
+	"command.puffish_skills.category.lock.success.multiple": "Заблокована категорія %s для %s гравців",
+
+	"command.puffish_skills.category.unlock.success.single": "Розблокована категорія %s для %s",
+	"command.puffish_skills.category.unlock.success.multiple": "Розблокована категорія %s для %s гравців",
+
+	"command.puffish_skills.category.erase.success.single": "Стерта категорія %s для %s",
+	"command.puffish_skills.category.erase.success.multiple": "Стерта категорія %s для %s гравців",
+
+	"command.puffish_skills.experience.add.success.single": "Додано %s досвіду до категорії %s для %s",
+	"command.puffish_skills.experience.add.success.multiple": "Додано %s досвіду до категорії %s для %s гравців",
+
+	"command.puffish_skills.experience.set.success.single": "Встановлено %s досвіду до категорії %s для %s",
+	"command.puffish_skills.experience.set.success.multiple": "Встановлено %s досвіду до категорії %s для %s гравців",
+
+	"command.puffish_skills.points.add.success.single": "Додано %s очки до категорії %s для %s",
+	"command.puffish_skills.points.add.success.multiple": "Додано %s очки до категорії %s для %s гравців",
+
+	"command.puffish_skills.points.set.success.single": "Встановлено %s очки до категорії %s для %s",
+	"command.puffish_skills.points.set.success.multiple": "Встановлено %s очки до категорії %s для %s гравців",
+
+	"command.puffish_skills.skills.unlock.success.single": "Відкрито %s навичок у категорії %s для %s",
+	"command.puffish_skills.skills.unlock.success.multiple": "Відкрито %s навичок у категорії %s для %s гравців",
+
+	"command.puffish_skills.skills.lock.success.single": "Закрито %s навичок у категорії %s для %s",
+	"command.puffish_skills.skills.lock.success.multiple": "Закрито %s навичок у категорії %s для %s гравців",
+
+	"command.puffish_skills.skills.reset.success.single": "Скинуто усі навички в категорії %s для %s",
+	"command.puffish_skills.skills.reset.success.multiple": "Скинуто усі навички в категорії %s для %s гравців"
+}

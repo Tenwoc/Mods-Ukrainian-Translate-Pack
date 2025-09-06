@@ -1,0 +1,29 @@
+{
+  "shieldexp.tooltip.instructions": "↓ Shift - інструкції",
+  "shieldexp.tooltip.instructions.parry": "Підніміть щит безпосередньо перед ударом, щоб відбити атаку!",
+
+  "shieldexp.tooltip.attribute": "Коли використовується як щит:",
+  "shieldexp.tooltip.attribute.cooldown_ticks": " %sс перезаряджання",
+  "shieldexp.tooltip.attribute.speed_factor_slow": " Повільний рух",
+  "shieldexp.tooltip.attribute.speed_factor_fast": " Швидкий рух",
+  "shieldexp.tooltip.attribute.parry_damage": " парирування %s шкоди",
+  "shieldexp.tooltip.attribute.parry_ticks": " %sс вікна парирування",
+  "shieldexp.tooltip.attribute.stamina": " %s витривалості",
+  "shieldexp.tooltip.attribute.blast_resistance": " %s захисту від вибухів",
+
+  "item.shieldexp.wooden_shield": "Дерев'яний щит",
+  "item.shieldexp.golden_shield": "Золотий щит",
+  "item.shieldexp.iron_shield": "Залізний щит",
+  "item.shieldexp.diamond_shield": "Діамантовий щит",
+  "item.shieldexp.netherite_shield": "Незеритовий щит",
+  "item.shieldexp.paragon_shield": "Парагоновий щит",
+  "item.shieldexp.griefer_shield": "Гріферський щит",
+
+  "death.attack.partialblast": "Щит %1$s не витримав вибуху.",
+
+  "shieldexp.advancements.get_diamond_shield.title": "Діамант незламний",
+  "shieldexp.advancements.get_diamond_shield.description": "Створіть діамантовий щит",
+
+  "shieldexp.advancements.get_netherite_shield.title": "Нерухомий об'єкт",
+  "shieldexp.advancements.get_netherite_shield.description": "Створіть незеритовий щит"
+}

@@ -1,0 +1,30 @@
+{
+  "itemGroup.merequester": "Запитувач ME",
+
+  "item.merequester.requester_terminal": "Термінал запитувача ME",
+  "block.merequester.requester": "Запитувач ME",
+
+  "gui.merequester.requester_terminal": "Термінал зап. ME",
+  "gui.merequester.no_requesters": "Не знайдено жодного запитувача ME!",
+
+  "tooltip.merequester.requester_desc": "Автоматично зберігає предмети та рідини у сховищі, запитуючи нові вироби за потреби. Має бути підключений до мережі ME і доступний з терміналу запитувачів ME. Втрачає свою конфігурацію в разі поломки. Налаштування можна скопіювати на карту пам'яті.",
+
+  "tooltip.merequester.shift_for_more": "%s щоб розгорнути",
+  "tooltip.merequester.enter_to_submit": "%s відправити",
+
+  "tooltip.merequester.whole_number": "Має бути ціле число!",
+  "tooltip.merequester.locked": "Закрито! Запит виконується.",
+
+  "tooltip.merequester.toggle": "Переключити запит",
+  "tooltip.merequester.amount": "Кількість на складі",
+  "tooltip.merequester.batch": "Розмір партії",
+  "tooltip.merequester.submit": "Відправити зміни",
+  "tooltip.merequester.status": "Запитати зміни",
+
+  "tooltip.merequester.idle": "Простій",
+  "tooltip.merequester.idle_desc": "Запитувач простоює, коли запитувана кількість вже досягнута, для цього предмета або рідини немає шаблону крафта, або якщо не вистачає інгредієнтів для запиту нових крафтів..",
+  "tooltip.merequester.link": "Виготовлення",
+  "tooltip.merequester.link_desc": "Наразі система виготовляє запитуваний предмет або рідину.",
+  "tooltip.merequester.export": "Експорт",
+  "tooltip.merequester.export_desc": "Запитувач намагається експортувати результати виготовлення до системи. Якщо запитувач має цей статус протягом тривалого часу, це означає, що немає вільного місця для експорту."
+}

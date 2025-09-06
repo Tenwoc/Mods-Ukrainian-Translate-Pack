@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:brimstone_claymore"
+    },
+    "title": "Вибухозахист не у комплекті",
+    "description": "Знайдіть унікальну зброю - Сірчаний клеймор.",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:runic_weapon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:brimstone_claymore"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

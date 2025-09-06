@@ -1,0 +1,18 @@
+{
+    "block.globalxp.xp_block": "Блок досвіду",
+    "info.globalxp.levels": "%s рівнів збережено",
+    "info.globalxp.xp": "%s досвіду збережено",
+    "config.jade.plugin_globalxp.display": "Відображення інформації про досвід",
+    "text.autoconfig.globalxp.option.spinSpeed": "Швидкість обертання",
+    "text.autoconfig.globalxp.option.bobSpeed": "Швидкість Боба",
+    "text.autoconfig.globalxp.option.renderNameplate": "Відображати кількість досвіду над блоком",
+    "text.autoconfig.globalxp.option.xpForComparator": "Сума досвіду для компаратора",
+    "text.autoconfig.globalxp.option.pickupXP": "Збирати досвід",
+    "text.autoconfig.globalxp.option.pickupRange": "Діапазон збору",
+    "text.autoconfig.globalxp.option.retriveUntilNextLevel": "Отримувати до наступного рівня",
+    "text.autoconfig.globalxp.option.retrievalAmount": "Сума отримання",
+    "text.autoconfig.globalxp.option.storeUntilPreviousLevel": "Зберігати до попереднього рівня",
+    "text.autoconfig.globalxp.option.storingAmount": "Сума зберігання",
+    "text.autoconfig.globalxp.option.retrievalPercentage": "Відсоток отримання",
+    "text.autoconfig.globalxp.option.retrieveXPOrbs": "Отримати кулі досвіду"
+}

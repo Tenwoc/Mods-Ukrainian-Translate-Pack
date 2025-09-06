@@ -1,0 +1,7 @@
+{
+  "config.defaultoptions.title": "Усталені параметри",
+  "config.defaultoptions.defaultDifficulty": "Усталена складність",
+  "config.defaultoptions.defaultDifficulty.tooltip": "Усталена складність, вибрана для новостворених світів.",
+  "config.defaultoptions.lockDifficulty": "Зафіксувати складність",
+  "config.defaultoptions.lockDifficulty.tooltip": "Встановіть значення true, якщо складність для нових світів має бути зафіксована на певному сталому значенні. Гравці не зможуть розблокувати її без зовнішніх інструментів! Можливо, це погана ідея. Я не рекомендую. Чому я додаю цю опцію?"
+}

@@ -1,0 +1,9 @@
+{
+  "subtitles.sawmill.entity.villager.work_carpenter": "Тесляр працює",
+  "container.sawmill.sawmill": "Пилорама",
+  "block.sawmill.sawmill": "Пилорама",
+  "entity.minecraft.villager.sawmill.carpenter": "Тесляр",
+  "entity.minecraft.villager.carpenter": "Тесляр",
+  "subtitles.sawmill.ui.sawmill.take_result": "Пилораму використано",
+  "sawmill.category.wood_cutting": "Пиляння"
+}

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Вампілак",
+  "icon": "besmirchment:werepyre_spawn_egg",
+  "entry_color": "C15600",
+  "flag": "bsm_werepyres_spawn",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Це жахливе породження $(l:bewitchment:creatures/vampire)Вампіра$() і $(l:bewitchment:creatures/werewolf)Перевертня$() розмножується в тайзі, крижаних біомах і лісах у повний місяць. $(br)Через свій розмір вони не можуть вільно літати, незважаючи на наявність крил, хоча можуть використовувати крила, щоб кидатися на здобич, яка зазвичай є людиноподібною. $(br)Вампілаки з'являються лише в повний місяць і повертаються до своєї незвірячої форми, коли настає ранок$()."
+    },
+    {
+      "type": "entity",
+      "entity": "besmirchment:werepyre",
+      "offset": 0.1
+    }
+  ]
+}

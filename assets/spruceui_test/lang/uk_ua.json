@@ -1,0 +1,12 @@
+{
+  "spruceui_test.option.action": "Простий варіант дії",
+  "spruceui_test.option.boolean": "Булева опція",
+  "spruceui_test.option.checkbox": "Опція прапорця",
+  "spruceui_test.option.cycling": "Опція циклічної дії",
+  "spruceui_test.option.double": "Подвійна опція",
+  "spruceui_test.option.double_input": "Варіант подвійного введення",
+  "spruceui_test.option.float_input": "Параметр введення з плаваючою комою",
+  "spruceui_test.option.int_input": "Опція введення цілого числа",
+  "spruceui_test.option.separator": "Роздільник",
+  "spruceui_test.option.toggle_switch": "Опція перемикача"
+}

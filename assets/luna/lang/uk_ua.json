@@ -1,0 +1,8 @@
+{
+    "text.luna.domainAssigned": "Світ відкрито у: [%s]",
+    "text.luna.closeServer": "Світ закрито!",
+    "text.luna.serverAlreadyClosed": "Світ не є загальнодоступним",
+    "text.luna.clickToStop": "Натисніть тут, щоб зупинити спільний доступ до світу",
+    "text.luna.clickToStop.hover": "Це зупинить лише загальнодоступний спільний доступ до світу. Локальна мережа все ще буде активною.",
+    "text.luna.error": "У Luna сталася помилка"
+}

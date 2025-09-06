@@ -1,0 +1,17 @@
+{
+    "name": "Cobwebs",
+    "icon": "apothic_enchanting:prismatic_web",
+    "category": "apotheosis:enchanting/utility",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Prismatic Cobwebs can be combined with an item in an anvil to remove all curses."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apothic_enchanting:prismatic_web"
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+    "_comment": "Конфігурація",
+    "instrumentalmobs.config.title": "Конфігурація Instrumental Mobs",
+
+    "_comment": "Творча вкладка",
+    "itemGroup.instrumentalmobs": "Instrumental Mobs",
+
+    "_comment": "Предмети",
+    "item.instrumentalmobs.xylophone": "Ксилофон",
+    "item.instrumentalmobs.tuba": "Туба",
+    "item.instrumentalmobs.french_horn": "Валторна",
+    "item.instrumentalmobs.drum": "Барабан",
+    "item.instrumentalmobs.cymbal": "Тарілка",
+    "item.instrumentalmobs.cymbals": "Тарілки",
+    "item.instrumentalmobs.maraca": "Маракас",
+    "item.instrumentalmobs.maracas": "Маракаси",
+    "item.instrumentalmobs.microphone": "Мікрофон",
+    "item.instrumentalmobs.xylophone_skeleton_spawn_egg": "Яйце виклику скелета з ксилофоном",
+    "item.instrumentalmobs.french_horn_creeper_spawn_egg": "Яйце виклику кріпера з валторною",
+    "item.instrumentalmobs.tuba_enderman_spawn_egg": "Яйце виклику ендермена з тубою",
+    "item.instrumentalmobs.drum_zombie_spawn_egg": "Яйце виклику зомбі з барабаном",
+    "item.instrumentalmobs.cymbal_husk_spawn_egg": "Яйце виклику висушня з тарілками",
+    "item.instrumentalmobs.maraca_spider_spawn_egg": "Яйце виклику павука з маракасами",
+    "item.instrumentalmobs.microphone_ghast_spawn_egg": "Яйце виклику гаста з мікрофоном",
+    "item.instrumentalmobs.sound_waves_spawn_egg": "Яйце виклику звукової хвилі",
+    "item.instrumentalmobs.microphone_sound_spawn_egg": "Яйце виклику звукової хвилі",
+
+    "_comment": "Блоки",
+    "block.instrumentalmobs.drum_block": "Барабан",
+
+    "_comment": "Істоти",
+    "entity.instrumentalmobs.xylophone_skeleton": "Скелет з ксилофоном",
+    "entity.instrumentalmobs.french_horn_creeper": "Кріпер з валторною",
+    "entity.instrumentalmobs.tuba_enderman": "Ендермен з тубою",
+    "entity.instrumentalmobs.drum_zombie": "Зомбі з барабаном",
+    "entity.instrumentalmobs.cymbal_husk": "Висушень з тарілками",
+    "entity.instrumentalmobs.maraca_spider": "Павук з маракасами",
+    "entity.instrumentalmobs.microphone_ghast": "Гаста з мікрофоном",
+    "entity.instrumentalmobs.sound_waves": "Звукова хвиля",
+    "entity.instrumentalmobs.microphone_sound": "Звукова хвиля",
+
+    "_comment": "Субтитри",
+    "instrumentalmobs.subtitle.xylophone": "Скелет грає на ребрах, як на ксилофоні",
+    "instrumentalmobs.subtitle.tuba": "Грає туба",
+    "instrumentalmobs.subtitle.frenchhorn": "Грає валторна",
+    "instrumentalmobs.subtitle.drum": "Звуки барабанів",
+    "instrumentalmobs.subtitle.cymbal": "Звук тарілок",
+    "instrumentalmobs.subtitle.maraca": "Звуки маракас",
+
+    "_comment": "Джерело шкоди",
+    "death.attack.instrumentalmobs:soundDamage": "%1$s оглух.",
+    "death.attack.instrumentalmobs:soundDamage.player": "%1$s був оглушений, намагаючись втекти від %2$s"
+}

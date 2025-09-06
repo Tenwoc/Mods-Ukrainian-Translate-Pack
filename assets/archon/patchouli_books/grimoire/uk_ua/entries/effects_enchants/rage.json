@@ -1,0 +1,12 @@
+{
+  "name": "Лють",
+  "icon": "archon:textures/mob_effect/rage.png",
+  "category": "archon:effects_enchants",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Лють подвоює швидкість атаки. Можна отримати при використанні $(l:archon:weapons/earth#fist)Кулака люті$() або через консоль."
+    }
+  ]
+}

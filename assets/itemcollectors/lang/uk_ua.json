@@ -1,0 +1,17 @@
+{
+  "gui.itemcollectors.advanced_collector.show_area.on": "Показано радіус дії",
+  "itemcollectors.basic_collector.info": "Може підбирати предмети в зоні навколо себе",
+  "gui.itemcollectors.advanced_collector.whitelist.off": "Чорний список",
+  "gui.itemcollectors.advanced_collector.filter": "Фільтр",
+  "itemcollectors.basic_collector.info.range": "Діапазон: %s блоків",
+  "gui.itemcollectors.basic_collector.range.increase": "Збільшити діапазон",
+  "gui.itemcollectors.basic_collector.range": "Діапазон (%1$dx%2$dx%3$d)",
+  "gui.itemcollectors.advanced_collector.durability.on": "Збіг NBT",
+  "gui.itemcollectors.advanced_collector.show_area.off": "Прихований діапазон",
+  "itemcollectors.advanced_collector.info": "Може підбирати об'єкти в області навколо себе, об'єкти можна відфільтрувати",
+  "gui.itemcollectors.advanced_collector.durability.off": "Ігнорувати NBT",
+  "gui.itemcollectors.basic_collector.range.decrease": "Зменшити діапазон",
+  "itemcollectors.block.basic_collector": "Базовий збирач предметів",
+  "gui.itemcollectors.advanced_collector.whitelist.on": "Білий список",
+  "itemcollectors.block.advanced_collector": "Розширений збирач предметів"
+}

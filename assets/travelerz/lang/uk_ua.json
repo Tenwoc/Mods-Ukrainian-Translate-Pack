@@ -1,0 +1,9 @@
+{
+    "hud.travelerz.title": "%s",
+    "hud.travelerz.subtitle": "Рівень. %s",
+
+    "text.autoconfig.travelerz.title": "Конфігурація TravelerZ",
+    "text.autoconfig.travelerz.option.titleSize": "Розмір назви",
+    "text.autoconfig.travelerz.option.titleX": "X назви",
+    "text.autoconfig.travelerz.option.titleY": "Y назви"
+}

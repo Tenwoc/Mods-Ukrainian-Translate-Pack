@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Вампіларизм",
+  "icon": "bewitchment:garlic_bread",
+  "entry_color": "C15600",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "flag": "bsm_werepyrism",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Вампіларизм - це гібрид $(l:bewitchment:curses/conducting_curses)Прокляття$(), утворений поєднанням $(l:bewitchment:curses/lycanthropy)Лікантропії$() з $(l:bewitchment:curses/vampirism)Вампіризмом$(). $(br)$(l:besmirchment:creatures/werepyre)Вампілаки$() страждають від тих самих симптомів, що й інші два, хоча вони не можуть літати у своїй звірячій формі. Натомість вони здатні енергійно махати крилами. Оскільки їхня духовна сутність - це сутність перевертня, а не вампіра, сонце не спалить їх у людській подобі, хоча й ослабить їх."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Є два способи стати $(l:besmirchment:creatures/werepyre)Вампілакою$(): $(li)заразитися від нього за тих самих умов, що й для $(l:bewitchment:curses/lycanthropy)Лікантропії$() або$(li1)заразитися від $(l:bewitchment:creatures/vampire)Вампіра$() за тих самих умов, що й для $(l:bewitchment:curses/vampirism)Вампіризму$(), але як перевертень.$(br2) Вам, напевно, має бути соромно за те, що ви цього хочете."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "colorfulhearts.screen.configuration.title": "Кольорові серця",
+  "colorfulhearts.screen.configuration.colors.category": "Кольори",
+  "colorfulhearts.screen.configuration.tweaks.category": "Налаштування",
+  "colorfulhearts.screen.health.title": "Кольори здоров'я",
+  "colorfulhearts.screen.absorption.title": "Кольори поглинання",
+  "colorfulhearts.options.button.health_colors": "Здоров'я",
+  "colorfulhearts.options.button.absorption_colors": "Поглинання",
+  "colorfulhearts.options.button.absorption_over_health.false": "Поглинання: Роздільне",
+  "colorfulhearts.options.button.absorption_over_health.true": "Поглинання: Додаткове здоров'я",
+  "colorfulhearts.options.button.hearttype.normal": "Нормальне",
+  "colorfulhearts.options.button.hearttype.poisoned": "Отруєне",
+  "colorfulhearts.options.button.hearttype.withered": "Зів'яле",
+  "colorfulhearts.options.button.hearttype.frozen": "Замерзле",
+  "colorfulhearts.options.button.confirmsave": "Зберегти та вийти",
+  "colorfulhearts.options.button.cancel": "Скасувати",
+  "colorfulhearts.options.button.vanillaheart.true": "Класичні: Так",
+  "colorfulhearts.options.button.vanillaheart.false": "Класичні: Ні"
+}

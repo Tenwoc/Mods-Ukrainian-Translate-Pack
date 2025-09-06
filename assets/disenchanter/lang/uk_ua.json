@@ -1,0 +1,17 @@
+{
+  "block.disenchanter.disenchanter" : "Розчаровувальник",
+  "disenchanter.gui.title" : "Розчаровувальник",
+  "disenchanter.gui.button" : "Розчаровування",
+  "disenchanter.rei.title" : "Каталізатор",
+
+  "disenchanter.catalyst.emerald": "Відновлює дві випадкових чари. Знищує предмет",
+  "disenchanter.catalyst.diamond": "Відновлює першу, і ще двоє випадкових чар. Знищує предмет",
+  "disenchanter.catalyst.ender_pearl": "Відновлює випадковиі чари. Зберігає предмет, але знімає 500 міцності",
+  "disenchanter.catalyst.heart_of_the_sea": "Відновлює всі чари, але знижує їх рівень на 1. Знищує предмет",
+  "disenchanter.catalyst.amethyst_shard": "Відновлює перші чари. Зберігає предмет, але без інших заклинань",
+  "disenchanter.catalyst.nether_star": "Відновлює всі чари.  Зберігає предмет",
+  "disenchanter.catalyst.experience_bottle": "Відновлює всі чари найвищого рівня, наявні на предметі. Знищує предмет",
+
+  "text.disenchanter.extra_catalysts_required": "%1$d потрібно більше предметів",
+  "text.disenchanter.blacklisted": "У чорному списку"
+}

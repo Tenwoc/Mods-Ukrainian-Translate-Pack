@@ -1,0 +1,53 @@
+{
+    "itemGroup.chancecubes": "Chance Cubes",
+
+    "block.chancecubes.chance_cube": "Кубик шансу",
+    "block.chancecubes.chance_icosahedron": "Ікосаедр шансу",
+    "block.chancecubes.giant_chance_cube": "Гігантський кубик шансу",
+    "block.chancecubes.compact_giant_chance_cube": "Компактний гігантський кубик шансу",
+    "block.chancecubes.cube_dispenser": "Роздавач кубиків шансу",
+
+    "item.chancecubes.chance_pendant_tier1": "Підвіска шансу 1 рівня",
+    "item.chancecubes.chance_pendant_tier2": "Підвіска шансу 2 рівня",
+    "item.chancecubes.chance_pendant_tier3": "Підвіска шансу 3 рівня",
+
+    "item.chancecubes.creative_pendant": "Креативна підвіска шансу",
+    "item.chancecubes.reward_selector_pendant": "Підвіска-обирач нагород",
+    "item.chancecubes.single_use_reward_selector_pendant": "Одноразова підвіска-обирач нагород",
+
+    "item.chancecubes.silk_touch_pendant": "Підвіска шансу шовкового дотику",
+
+    "item.chancecubes.scanner": "Сканер кубику шансу",
+
+    "death.attack.mathdeath": "Мозок %1$s вибухнув від сили математики",
+    "death.attack.mazedeath": "%1$s назавжди загубився в лабіринті кубика шансу.",
+    "death.attack.questiondeath": "%1$s постраждав від наслідків неправильної відповіді.",
+    "death.attack.digbuilddeath": "Руки %1$s, мабуть, зламалися.",
+    "death.attack.matchingdeath": "%1$s програв опоненту.",
+
+    "advancements.chancecubes:root.desc": "Гра шансів та вміння",
+    "advancements.chancecubes:chance_icosahedron": "Диско-куля!",
+    "advancements.chancecubes:chance_icosahedron.desc": "Відкрийте Ікосаедр шансу",
+    "advancements.chancecubes:giant_chance_cube": "БААААБААААААААХХХ!",
+    "advancements.chancecubes:giant_chance_cube.desc": "Розбийте гігантський кубик шансу",
+    "advancements.chancecubes:lonely_dirt": "Самотній шматок бруду",
+    "advancements.chancecubes:lonely_dirt.desc": "Отримайте самотній шматок бруду.",
+    "advancements.chancecubes:wither": "Це правда?",
+    "advancements.chancecubes:wither.desc": "Змусьте з'явитися висушеного ківі.",
+    "advancements.chancecubes:herobrine": "Він справжній?",
+    "advancements.chancecubes:herobrine.desc": "Змусьте з'явитися Геробріна.",
+    "advancements.chancecubes:its_a_lie": "Це брехня!",
+    "advancements.chancecubes:its_a_lie.desc": "Так, торт - це брехня.",
+
+    "chancecubes.reward.raining_potions": "Ось це називається мистецтво! Подивіться!",
+
+    "stat.chancecubes.opened_chance_cube": "Кубик шансу відкрито.",
+    "stat.chancecubes.opened_giant_chance_cube": "Гігантський кубик шансу відкрито.",
+    "stat.chancecubes.opened_d20": "Ікосаедр шансу відкрито.",
+	"Warning: It recommended you don`t open these in or next to your base": "Попередження: не рекомендується відкривати це всередені або поблизу вашої бази",
+	"WARNING: The Giant Chance Cube will probably cause lots damage and/or place a lot of blocks down... You've been warned.: ": "ЗАСТЕРЕЖЕННЯ: Гігантський кубик шансу, ймовірно, завдасть багато шкоди та/або розмістить багато блоків... Вас попередили.",
+	"Increases the chance of Chance Cubes by:": "Підвищує шанс кубиків шансу на: ",
+	"Only needs to be in the players inventory to work": "Для активації потребує тільки перебування у інвентарі гравця",
+	"Note, this is NOT a percentage increase.": "Примітка: це НЕ відсоткове збільшення",
+	"Chance Vaule: ": "Значення шансу: "
+}

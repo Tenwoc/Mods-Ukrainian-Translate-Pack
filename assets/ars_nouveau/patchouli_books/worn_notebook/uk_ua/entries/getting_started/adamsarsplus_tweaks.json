@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:getting_started",
+  "icon": "adamsarsplus:glyph_effectdomain",
+  "name": "ars_nouveau.page.adamsarsplus_tweaks",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.page.adamsarsplus_tweaks"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.page.adamsarsplus_tweaks_2"
+    }
+  ]
+}

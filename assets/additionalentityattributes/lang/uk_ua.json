@@ -1,0 +1,25 @@
+{
+  "attribute.name.additionalentityattributes.generic.water_speed": "швидкості у воді",
+  "attribute.name.additionalentityattributes.generic.water_speed.desc": "Збільшує швидкість пересування у воді",
+  "attribute.name.additionalentityattributes.generic.lava_speed": "швидкості у лаві",
+  "attribute.name.additionalentityattributes.generic.lava_speed.desc": "Збільшує швидкість пересування у лаві",
+  "attribute.name.additionalentityattributes.generic.lung_capacity": "об'єму легень",
+  "attribute.name.additionalentityattributes.generic.lung_capacity.desc": "Збільшує здатність затримувати дихання",
+  "attribute.name.additionalentityattributes.generic.magic_protection": "магічного захисту",
+  "attribute.name.additionalentityattributes.generic.magic_protection.desc": "Зменшує шкоду від магічних джерел шкоди",
+
+  "attribute.name.additionalentityattributes.player.critical_bonus_damage": "критичної шкоди",
+  "attribute.name.additionalentityattributes.player.critical_bonus_damage.desc": "Збільшує шкоду критичної атаки",
+  "attribute.name.additionalentityattributes.player.water_visibility": " бачення у воді",
+  "attribute.name.additionalentityattributes.player.water_visibility.desc": "Збільшує дальність видимості у воді",
+  "attribute.name.additionalentityattributes.player.lava_visibility": "бачення у лаві",
+  "attribute.name.additionalentityattributes.player.lava_visibility.desc": "Збільшує дальність видимості у лаві",
+  "attribute.name.additionalentityattributes.player.bonus_rare_loot_rolls": "додаткових спроб генерацїї рідкісної здобичі",
+  "attribute.name.additionalentityattributes.player.bonus_rare_loot_rolls.desc": "Збільшує шанс випадіння негарантованої здобичі",
+  "attribute.name.additionalentityattributes.player.bonus_loot_count_rolls": "додаткових спроб генерацїї змінної здобичі",
+  "attribute.name.additionalentityattributes.player.bonus_loot_count_rolls.desc": "Збільшує шанс випадіння більшої кількості здобичі зі змінною кількістю",
+  "attribute.name.additionalentityattributes.player.dropped_experience": "скинутого досіду",
+  "attribute.name.additionalentityattributes.player.dropped_experience.desc": "Збільшує отримання досвіду з видобутку блоків та вбивств",
+  "attribute.name.additionalentityattributes.player.collection_range": "дистанції підбирання",
+  "attribute.name.additionalentityattributes.player.collection_range.desc": "Впливає на радіус дії, в якому ви підбираєте речі навколо себе"
+}

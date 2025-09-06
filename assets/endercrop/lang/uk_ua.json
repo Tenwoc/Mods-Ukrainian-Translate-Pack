@@ -1,0 +1,17 @@
+{
+  "item.endercrop.ender_seeds": "Насіння Енду",
+  "block.ender_crop.ender_crop": "Рослина Енду",
+  "block.endercrop.tilled_end_stone": "Зораний камінь Енду",
+  "endercrop.alert.hoe": "Цей блок можна зорати лише мотикою із будь-якими чарами Незламності",
+  "endercrop.alert.hoetool": "Цей блок можна зорати лише інструментом із %s рівнем добування",
+  "endercrop.tip.seed": "Можна посадити у рілля або зораний камінь Енду",
+  "endercrop.wailatop.nogrowth": "Не може рости",
+  "endercrop.wailatop.moist": "Вологий",
+  "endercrop.wailatop.dry": "Сухий",
+  "endercrop.wailatop.light": "Світло",
+  "endercrop.waila.hoeable": "Можна зорати",
+  "endercrop.waila.nothoeable": "Не можна зорати",
+  "endercrop.top.hoe": "Мотика",
+  "config.jade.plugin_endercrop.endstone": "Рілля каменя Енду",
+  "config.jade.plugin_endercrop.endercrop": "Інформація про рослину Енду"
+}

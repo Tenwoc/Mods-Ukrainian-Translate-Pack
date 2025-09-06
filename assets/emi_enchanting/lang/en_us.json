@@ -1,0 +1,16 @@
+{
+  "emi.category.emi_enchanting.enchantments": "Опис чарів",
+  "emi_enchanting.yes_good": "§0Так",
+  "emi_enchanting.no_good": "§4Ні",
+  "emi_enchanting.yes_bad": "§4Так",
+  "emi_enchanting.no_bad": "§0Ні",
+  "emi_enchanting.treasure": "Скарб: %s",
+  "emi_enchanting.curse": "Прокляття: %s",
+  "emi_enchanting.tradeable": "Торги селян: %s",
+  "emi_enchanting.random": "Доступно на столі: %s",
+  "emi_enchanting.maxLvl": "Максимальний рівень: %s",
+  "emi_enchanting.valid_items": "Припустимі предмети",
+  "emi_enchanting.description": "Опис зачарування",
+  "emi_enchanting.exclusions": "Взаємовиключення",
+  "enchantment.emi_enchanting.unknown.desc": "Невідоме зачарування"
+}

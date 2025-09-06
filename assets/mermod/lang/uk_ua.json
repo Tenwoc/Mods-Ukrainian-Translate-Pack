@@ -1,0 +1,17 @@
+{
+  "item.mermod.sea_necklace": "Морське намисто",
+  "item.mermod.sea_crystal": "Морський кришталь",
+  "item.mermod.mermaid_bra_modifier": "Бюстгальтер русалки",
+  "item.mermod.tail_gradient_modifier": "Хвостовий градієнт",
+  "item.mermod.glowing_pearl_modifier": "Сяюча перлина",
+  "item.mermod.moon_rock_modifier": "Місячний камінь",
+  "item.mermod.ursula_shell_modifier": "Мушля Урсули",
+  "tooltip.mermod.modifierHint": "Клацніть ПКМ крадькома, щоб видалити модифікатори",
+  "tooltip.mermod.canBeDyed": "Можна фарбувати",
+  "config.mermod.name": "Mermod Config",
+  "config.mermod.option.swimSpeed": "Ефект швидкості плавання",
+  "config.mermod.option.swimSpeedMultiplier": "Мультиплікатор швидкості плавання",
+  "config.mermod.option.waterBreathing": "Ефект дихання у воді",
+  "config.mermod.option.nightVision": "Ефект нічного бачення",
+  "config.mermod.option.nightVisionFlashingFix": "Виправлення миготіння нічного бачення"
+}

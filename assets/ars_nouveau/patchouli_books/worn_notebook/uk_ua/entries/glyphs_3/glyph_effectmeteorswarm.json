@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:glyphs_3",
+  "icon": "adamsarsplus:glyph_effectmeteorswarm",
+  "name": "adamsarsplus.glyph_name.glyph_effectmeteorswarm",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.glyph_desc.glyph_effectmeteorswarm"
+    },
+    {
+      "type": "ars_nouveau:glyph_recipe",
+      "recipe": "adamsarsplus:glyph_effectmeteorswarm"
+    }
+  ],
+  "sortnum": 2
+}

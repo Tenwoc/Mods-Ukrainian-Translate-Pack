@@ -1,0 +1,8 @@
+{
+  "type": "talked_to",
+  "trust_required": 100,
+  "text": [
+    "Ти коли-небудь помічав, що всі глобуси виглядають по-різному?"
+  ],
+  "mod_loaded": "supplementaries"
+}

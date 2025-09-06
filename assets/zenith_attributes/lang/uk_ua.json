@@ -1,0 +1,186 @@
+{
+  "item.modifiers.both_hands": "Коли в руці:",
+
+  "zenith_attributes.adv.base": "[Сутність: %s | Предмет: %s]",
+  "zenith_attributes.adv.sharpness_bonus": "[Гострота: +%s]",
+
+  "zenith_attributes.value.flat": "%s",
+  "zenith_attributes.value.percent": "%s%%",
+
+  "zenith_attributes.value.boolean.enabled": "Забезпечує",
+  "zenith_attributes.value.boolean.disabled": "Вимкнено",
+  "zenith_attributes.value.boolean.enable": "Увімкнено",
+  "zenith_attributes.value.boolean.force_disable": "Примусово вимкнено",
+  "zenith_attributes.value.boolean.invalid": "Недійсно",
+
+  "zenith_attributes.modifier.plus": "+%s %s",
+  "zenith_attributes.modifier.take": "-%s %s",
+  "zenith_attributes.modifier.bool": "%s %s",
+
+  "zenith_attributes.gui.attributes": "Атрибути",
+  "zenith_attributes.gui.base": "Базовий: %s",
+  "zenith_attributes.gui.min": "Мін: %s",
+  "zenith_attributes.gui.max": "Макс: %s",
+  "zenith_attributes.gui.modifiers": "Модифікатори",
+  "zenith_attributes.gui.addition": "Додавання: %s",
+  "zenith_attributes.gui.multiply_base": "Базовий множник: %s",
+  "zenith_attributes.gui.multiply_total": "Сумарний множник: %s",
+  "zenith_attributes.gui.press_shift": "Утримуйте Shift для додаткової інформації",
+  "zenith_attributes.gui.current": "Поточний: %s",
+  "zenith_attributes.gui.show_attributes": "Показати атрибути",
+
+  "attribute.name.generic.armor.desc": "Посилює зменшення фізичної шкоди.",
+  "attribute.name.generic.armor_toughness.desc": "Зменшує ефективність зменшення броні ворога.",
+  "attribute.name.generic.attack_damage.desc": "Фізична шкода, що наноситься повністю зарядженою атакою.",
+  "attribute.name.generic.attack_knockback.desc": "Наскільки далеко ваші атаки ближнього бою відкидають ворогів, у півблоках.",
+  "attribute.name.generic.attack_speed.desc": "Скільки повністю заряджених атак ви можете виконати за секунду.",
+  "attribute.name.generic.knockback_resistance.desc": "Скільки віддачі ви ігноруєте.",
+  "attribute.name.generic.luck.desc": "Збільшує ймовірність того, що все буде добре.",
+  "attribute.name.generic.max_health.desc": "Скільки очок життя ви можете мати.",
+  "attribute.name.generic.movement_speed.desc": "Швидкість ходьби.",
+
+  "porting_lib.entity_reach.desc": "Як далеко ви можете взаємодіяти з сутностями, в блоках.",
+  "porting_lib.entity_gravity.desc": "Прискорення відриву від землі, в блоках/с².",
+  "porting_lib.name_tag_distance.desc": "На якій відстані повинен знаходитися інший гравець, щоб побачити ваше ім'я.",
+  "porting_lib.block_reach.desc": "Як далеко ви можете взаємодіяти з блоками, в блоках.",
+  "porting_lib.step_height_addition.desc": "На скільки блоків ви можете піднятися без стрибків.",
+  "porting_lib.swim_speed.desc": "Як швидко ви плаваєте, відносно звичайної швидкості.",
+
+  "zenith_attributes:draw_speed": "Швидкість зарядження",
+  "zenith_attributes:draw_speed.desc": "Як швидко ви стріляєте з лука, арбалета чи тризубом.",
+
+  "zenith_attributes:crit_chance": "Шанс критичного удару",
+  "zenith_attributes:crit_chance.desc": "Шанс того, що будь-яка завдана вами шкода буде критичною і завдасть додаткової шкоди, що базується на вашому значенні крит-шкоди.",
+
+  "zenith_attributes:crit_damage": "Шкода від критичного удару",
+  "zenith_attributes:crit_damage.desc": "Множник шкоди від критичних ударів, включно зі стрибками.",
+
+  "zenith_attributes:cold_damage": "Шкода холодом",
+  "zenith_attributes:cold_damage.desc": "Додаткова магічна шкода, що наноситься при атаках ближнього бою і сповільнює атаку ворога.",
+
+  "zenith_attributes:fire_damage": "Шкода вогнем",
+  "zenith_attributes:fire_damage.desc": "Додаткова магічна шкода, що наноситься при атаках ближнього бою і підпалює ворогів.",
+
+  "zenith_attributes:life_steal": "Вампіризм",
+  "zenith_attributes:life_steal.desc": "Відсоток шкоди, що зцілить вас після нанесення шкоди.",
+
+  "zenith_attributes:current_hp_damage": "поточна шкода по здоров'ю",
+  "zenith_attributes:current_hp_damage.desc": "Додаткова фізична шкода, що наноситься при атаках ближнього бою і залежить від рівня здоров'я цілі.",
+
+  "zenith_attributes:overheal": "Надлікування",
+  "zenith_attributes:overheal.desc": "Відсоток шкоди, що наноситься після зцілення, який дає вам щит поглинання.",
+
+  "zenith_attributes:ghost_health": "Примарне здоров'я",
+  "zenith_attributes:ghost_health.desc": "Ще не реалізовано",
+
+  "zenith_attributes:mining_speed": "Швидкість видобутку",
+  "zenith_attributes:mining_speed.desc": "Швидкість видобутку блоків порівняно зі звичайною.",
+
+  "zenith_attributes:arrow_damage": "Шкода від стріл",
+  "zenith_attributes:arrow_damage.desc": "Множник шкоди від стріл. Тризуби - це стріли.",
+
+  "zenith_attributes:arrow_velocity": "Швидкість стріл",
+  "zenith_attributes:arrow_velocity.desc": "Множник швидкості для стріл. Шкода від стріл залежить від їх швидкості.",
+
+  "zenith_attributes:experience_gained": "Отримано досвіду",
+  "zenith_attributes:experience_gained.desc": "Множник кількості досвіду, який ви отримуєте за видобуток блоків і вбивство мобів.",
+
+  "zenith_attributes:healing_received": "Отримано зцілення",
+  "zenith_attributes:healing_received.desc": "Множник на все отримане зцілення.",
+
+  "zenith_attributes:armor_pierce": "Пробиття броні",
+  "zenith_attributes:armor_pierce.desc": "Фіксоване зменшення значення броні цілі.",
+
+  "zenith_attributes:armor_shred": "Руйнування броні",
+  "zenith_attributes:armor_shred.desc": "Відсоткове зменшення значення броні цілі.",
+
+  "zenith_attributes:prot_pierce": "Пробиття захисту",
+  "zenith_attributes:prot_pierce.desc": "Фіксоване зменшення загальної кількості очок захисту цілі.",
+
+  "zenith_attributes:prot_shred": "Руйнування захисту",
+  "zenith_attributes:prot_shred.desc": "Відсоткове зменшення від загальної кількості очок захисту цілі.",
+
+  "zenith_attributes:dodge_chance": "Шанс ухилення",
+  "zenith_attributes:dodge_chance.desc": "Шанс ухилитися від ближньої атаки або снаряда.",
+
+  "zenith_attributes:elytra_flight": "Політ елітр",
+  "zenith_attributes:elytra_flight.desc": "Дає змогу літати як з елітрами.",
+
+  "zenith_attributes:creative_flight": "Творчий політ",
+  "zenith_attributes:creative_flight.desc": "Дає змогу літати як у творчому режимі.",
+
+  "comment_id": "MobFx - опис продубльовано для підтримки JEED.",
+
+  "effect.zenith_attributes.knowledge": "Стародавні знання",
+  "effect.zenith_attributes.knowledge.desc": "Збільшує досвід від убивств і видобутку блоків.",
+  "effect.zenith_attributes.knowledge.description": "Збільшує досвід від убивств і видобутку блоків.",
+
+  "effect.zenith_attributes.sundering": "Згуба",
+  "effect.zenith_attributes.sundering.desc": "Збільшує отримувану шкоду.",
+  "effect.zenith_attributes.sundering.description": "Збільшує отримувану шкоду.",
+
+  "effect.zenith_attributes.vitality": "Вибухова життєва сила",
+  "effect.zenith_attributes.vitality.desc": "Збільшує отримуване зцілення.",
+  "effect.zenith_attributes.vitality.description": "Збільшує отримуване зцілення.",
+
+  "effect.zenith_attributes.grievous": "Тяжкі рани",
+  "effect.zenith_attributes.grievous.desc": "Зменшує отримуване зцілення.",
+  "effect.zenith_attributes.grievous.description": "Зменшує отримуване зцілення.",
+
+  "effect.zenith_attributes.bleeding": "Кровотеча",
+  "effect.zenith_attributes.bleeding.desc": "Завдає шкоди кожні дві секунди.",
+  "effect.zenith_attributes.bleeding.description": "Завдає шкоди кожні дві секунди.",
+
+  "effect.zenith_attributes.detonation": "Полум'яна детонація",
+  "effect.zenith_attributes.detonation.desc": "По закінченню дії завдає шкоди, заснованої на залишку тактів вогню.",
+  "effect.zenith_attributes.detonation.description": "По закінченню дії завдає шкоди, заснованої на залишку тактів вогню.",
+
+  "effect.zenith_attributes.flying": "Політ",
+  "effect.zenith_attributes.flying.desc": "Дає творчий політ.",
+  "effect.zenith_attributes.flying.description": "Дає творчий політ.",
+
+  "effect.minecraft.night_vision.desc": "Дозволяє бачити в темряві.",
+  "effect.minecraft.invisibility.desc": "Робить вас невидимим, але не ваше спорядження.",
+  "effect.minecraft.jump_boost.desc": "Збільшує висоту стрибка.",
+  "effect.minecraft.fire_resistance.desc": "Робить вас несприйнятливим до вогню.",
+  "effect.minecraft.water_breathing.desc": "Дозволяє дихати під водою.",
+  "effect.minecraft.instant_health.desc": "Миттєво відновлює трохи здоров'я.",
+  "effect.minecraft.instant_damage.desc": "Миттєво завдає трохи магічної шкоди.",
+  "effect.minecraft.poison.desc": "Періодично завдає нелетальної шкоди.",
+  "effect.minecraft.regeneration.desc": "Відновлює здоров'я з часом.",
+
+  "comment_id": "Джерела шкоди",
+
+  "death.attack.zenith_attributes:bleeding": "%1$s стік кров'ю",
+  "death.attack.zenith_attributes:bleeding.item": "%1$s стік кров'ю через удари %2$s та %3$s",
+  "death.attack.zenith_attributes:bleeding.player": "%1$s втратив життя під час спроби втечі від %2$s",
+
+  "death.attack.zenith_attributes:detonation": "%1$s загинув від полум'я.",
+  "death.attack.zenith_attributes:detonation.item": "%1$s загинув від полум'я.",
+  "death.attack.zenith_attributes:detonation.player": "%1$s загинув від полум'я.",
+
+  "death.attack.zenith_attributes:current_hp_damage": "%1$s був збитий.",
+  "death.attack.zenith_attributes:current_hp_damage.item": "%1$s був збитий %2$s за допомогою %3$s",
+  "death.attack.zenith_attributes:current_hp_damage.player": "%1$s був збитий під час бою з %2$s",
+
+  "death.attack.zenith_attributes:fire_damage": "%1$s був спалений на смерть.",
+  "death.attack.zenith_attributes:fire_damage.item": "%1$s спалив до смерті %2$s, використовуючи %3$s.",
+  "death.attack.zenith_attributes:fire_damage.player": "%1$s був спалений на смерть під час бою з %2$s.",
+
+  "death.attack.zenith_attributes:cold_damage": "%1$s замерз до смерті.",
+  "death.attack.zenith_attributes:cold_damage.item": "%1$s замерз на смерть від рук %2$s, використовуючи %3$s.",
+  "death.attack.zenith_attributes:cold_damage.player": "%1$s замерз на смерть під час бою з %2$s.",
+
+  "comment_id": "Пекло тимчасової локалізації",
+  "porting_lib.swim_speed": "швидкості плавання",
+  "porting_lib.name_tag_distance": "відстані відображення імені",
+  "porting_lib.entity_gravity": "гравітації",
+  "porting_lib.step_height": "висоти кроку",
+  "porting_lib.swimSpeed": "швидкості плавання",
+  "porting_lib.nameTagDistance": "відстані відображення імені",
+  "porting_lib.entityГравітація": "гравітації",
+  "porting_lib.stepHeight": "висоти кроку",
+
+  "Hide Unchanged": "Лише зміни",
+  "Hide Unchanged Attributes": "Приховує незмінені атрибути"
+}

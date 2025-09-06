@@ -1,0 +1,80 @@
+{
+  "block.phantasm.fallen_star": "Зірка, що впала",
+
+
+  "block.phantasm.vivid_nihilium": "Яскравий нігіліум",
+  "block.phantasm.vivid_nihilis": "Яскравий нігіліс",
+
+
+  "block.phantasm.pream_log": "Преамова колода",
+  "block.phantasm.pream_wood": "Преамова деревина",
+  "block.phantasm.stripped_pream_log": "Обтесана преамова колода",
+  "block.phantasm.stripped_pream_wood": "Обтесана преамова деревина",
+
+  "block.phantasm.pream_leaves": "Преамове листя",
+  "block.phantasm.hanging_pream_leaves": "Звисаюче преамове листя",
+  "block.phantasm.pream_sapling": "Паросток преаму",
+
+  "block.phantasm.pream_planks": "Преамові дошки",
+  "block.phantasm.pream_stairs": "Преамові сходи",
+  "block.phantasm.pream_slab": "Преамова плита",
+
+  "block.phantasm.pream_door": "Преамові двері",
+  "block.phantasm.pream_trapdoor": "Преамовий люк",
+  "block.phantasm.pream_fence": "Преамовій паркан",
+  "block.phantasm.pream_fence_gate": "Преамова хвіртка",
+  "block.phantasm.pream_pressure_plate": "Преамова притискна плита",
+  "block.phantasm.pream_button": "Преамова кнопка",
+
+  "block.phantasm.pream_sign": "Преамова табличка",
+  "block.phantasm.pream_hanging_sign": "Преамова вивіска",
+
+
+  "item.phantasm.pream_berry": "Преамова ягода",
+
+  "item.phantasm.chorus_fruit_salad": "Хорусовий салат",
+
+
+  "block.phantasm.crystal_shard": "Кришталевий осколок",
+  "block.phantasm.void_crystal_shard": "Кришталевий осколок порожнечі",
+
+  "item.phantasm.crystalline_sword": "Кристалічний меч",
+  "item.phantasm.crystalline_shovel": "Кристалічна лопата",
+  "item.phantasm.crystalline_pickaxe": "Кристалічне кайло",
+  "item.phantasm.crystalline_axe": "Кристалічна сокира",
+  "item.phantasm.crystalline_hoe": "Кристалічна мотика",
+
+  "block.phantasm.crystal_block": "Кристалічний блок",
+  "block.phantasm.crystal_tiles": "Кришталева плитка",
+  "block.phantasm.crystal_tiles_stairs": "Сходи з кришталевої плитки",
+  "block.phantasm.crystal_tiles_slab": "Плита з кришталевої плитки",
+  "block.phantasm.crystal_pillar": "Кришталевий стовп",
+
+  "block.phantasm.void_crystal_block": "Кристалічний блок порожнечі",
+  "block.phantasm.void_crystal_tiles": "Кришталева плитка порожнечі",
+  "block.phantasm.void_crystal_tiles_stairs": "Сходи з кришталевої плитки порожнечі",
+  "block.phantasm.void_crystal_tiles_slab": "Плита з кришталевої плитки порожнечі",
+  "block.phantasm.void_crystal_pillar": "Кришталевий стовп порожнечі",
+
+
+  "block.phantasm.polished_obsidian": "Полірований обсидіан",
+  "block.phantasm.polished_obsidian_bricks": "Цегла з полірованого обсидіану",
+  "block.phantasm.polished_obsidian_bricks_stairs": "Сходи з полірованої обсидіанової цегли",
+  "block.phantasm.polished_obsidian_bricks_slab": "Плита з полірованої обсидіанової цегли",
+
+
+  "block.phantasm.purpur_lamp": "Пурпурова лампа",
+
+  "block.phantasm.raw_purpur": "Сирий пурпур",
+  "block.phantasm.raw_purpur_bricks": "Сира необроблена пурпурова цегла",
+  "block.phantasm.raw_purpur_bricks_stairs": "Сходи з сирої пурпурової цегли",
+  "block.phantasm.raw_purpur_bricks_slab": "Плита сирої пурпурової цегли",
+
+  "block.phantasm.raw_purpur_tiles": "Сира пурпурова плитка",
+  "block.phantasm.raw_purpur_pillar": "Сирий пурпуровий стовп",
+
+
+  "itemgroup.phantasm": "Фантазм",
+
+  "tooltip.xp_boosted": "Ефективність зростає з досвідом."
+}

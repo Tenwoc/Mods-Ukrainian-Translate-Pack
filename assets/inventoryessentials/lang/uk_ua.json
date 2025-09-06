@@ -1,0 +1,26 @@
+{
+  "key.categories.inventoryessentials": "Inventory Essentials",
+  "key.inventoryessentials.single_transfer": "Перекласти один",
+  "key.inventoryessentials.single_transfer_modifier": "Перекласти один (Утримування)",
+  "key.inventoryessentials.bulk_transfer": "Перекласти все по типу",
+  "key.inventoryessentials.bulk_transfer_modifier": "Перекласти все по типу (Утримування)",
+  "key.inventoryessentials.bulk_transfer_modifier_1": "Перекласти все по типу (Утримування)",
+  "key.inventoryessentials.bulk_transfer_все": "Перекласти все",
+  "key.inventoryessentials.bulk_transfer_все_modifier": "Перекласти все (Утримування)",
+  "key.inventoryessentials.bulk_drop": "Масове викидання",
+  "key.inventoryessentials.bulk_drop_modifier": "Масове викидання (Утримування)",
+  "key.inventoryessentials.bulk_drop_modifier_1": "Масове викидання (Утримування)",
+  "key.inventoryessentials.screen_bulk_drop": "Масове викидання через екран",
+  "key.inventoryessentials.screen_bulk_drop_modifier": "Масове викидання через екран (Утримування)",
+  "key.inventoryessentials.drag_transfer": "Перекласти при наведенні (Утримування)",
+
+  "config.inventoryessentials.title": "Inventory Essentials",
+  "config.inventoryessentials.forceClientImplementation": "Примусове впровадження клієнта (лише для розробників)",
+  "config.inventoryessentials.forceClientImplementation.tooltip": "Використовувати клієнтську реалізацію навіть на серверах, на яких встановлено модифікацію - корисно тільки для цілей розробки.",
+  "config.inventoryessentials.всеowBulkTransferAllOnEmptySlot": "Дозволити перекладати все у порожній слот",
+  "config.inventoryessentials.всеowBulkTransferAllOnEmptySlot.tooltip": "Чи слід пекладати всі предмети, навіть якщо було натиснуто порожнє місце.",
+  "config.inventoryessentials.bulkTransferArmorSets": "Масово перекладати добіри обладунків",
+  "config.inventoryessentials.bulkTransferArmorSets.tooltip": "Чи повинна броня, на яку натискають у інвентарі, замінюватися на всю відповідну броню.",
+  "config.inventoryessentials.whereDidTheConfigsGo": "Налаштування переміщені до керувань",
+  "config.inventoryessentials.whereDidTheConfigsGo.tooltip": "Тепер ви можете перейти в налаштування і відв'язати відповідні клавіші Inventory Essentials!"
+}

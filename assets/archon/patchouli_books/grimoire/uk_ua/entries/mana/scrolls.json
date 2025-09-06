@@ -1,0 +1,27 @@
+{
+  "name": "Стародавні сувої",
+  "icon": "archon:accelerate_scroll",
+  "category": "archon:mana",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Стародавні сувої - спеціальні предмети, що при використанні наділяють особливими чарами мани. Ви можете прив'язати до себе лише $(#2895CB)1 Сувій$(), тому вибирайте з розумом!"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:capacity_scroll",
+      "text": "Сувій місткості можна виторгувати у $(l:archon:world/wizard)Чарівника$() або знайти в $(l:archon:world/spires)Шпилях$(), він збільшує $(#2895CB)запас мани до 200$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:accelerate_scroll",
+      "text": "Сувій прискорення також можна купити у $(l:archon:world/wizard)Чарівника$() або знайти в $(l:archon:world/spires)Шпилях$(), він прискорює відновлення мани до $(#2895CB)2 мани на секунду$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:removal_scroll",
+      "text": "Сувій зречення можна знайти в $(l:archon:world/spires)Шпилях$(). Він прибирає прив'язаний до вас сувій."
+    }
+  ]
+}

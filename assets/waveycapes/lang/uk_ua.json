@@ -1,0 +1,22 @@
+{
+    "text.wc.title": "Налаштування WaveyCapes",
+
+    "text.wc.setting.capestyle": "Стиль плаща",
+    "text.wc.setting.capestyle.tooltip": "Перемикайтеся між плавно плавним і блочним плащем.",
+    "text.wc.setting.capestyle.BLOCKY": "Блокований",
+    "text.wc.setting.capestyle.SMOOTH": "Плавний",
+    "text.wc.setting.windmode": "Режим вітру",
+    "text.wc.setting.windmode.tooltip": "Додає плащу додаткового руху.",
+    "text.wc.setting.windmode.NONE": "Без вітру",
+    "text.wc.setting.windmode.WAVES": "Хвилі",
+    "text.wc.setting.capemovement": "Рух мису",
+    "text.wc.setting.capemovement.tooltip": "Змінити поведінку плаща.",
+    "text.wc.setting.capemovement.VANILLA": "Класичний",
+    "text.wc.setting.capemovement.BASIC_SIMULATION": "Моделювання",
+    "text.wc.setting.capemovement.BASIC_SIMULATION_3D": "Симуляція V2",
+    "text.wc.setting.capemovement.DUNGEONS": "Підземелля",
+    "text.wc.setting.gravity": "Гравітація",
+    "text.wc.setting.gravity.tooltip": "Зміна сили гравітації, що застосовується до плаща.",
+    "text.wc.setting.heightMultiplier": "Множник висоти",
+    "text.wc.setting.heightMultiplier.tooltip": "Змінює екстремальність реакції плаща на рух по осі Y."
+}

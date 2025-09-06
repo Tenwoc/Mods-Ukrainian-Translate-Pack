@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:glyphs_3",
+  "icon": "adamsarsplus:glyph_effectsummonundead_m",
+  "name": "adamsarsplus.glyph_name.glyph_effectsummonundead_m",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.glyph_desc.glyph_effectsummonundead_m"
+    },
+    {
+      "type": "ars_nouveau:glyph_recipe",
+      "recipe": "adamsarsplus:glyph_effectsummonundead_m"
+    }
+  ],
+  "sortnum": 2
+}

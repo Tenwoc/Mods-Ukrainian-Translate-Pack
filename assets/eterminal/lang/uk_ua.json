@@ -1,0 +1,9 @@
+{
+  "itemGroup.eterminal": "Enhanced Terminal",
+  "item.eterminal.ex_pattern_access_part": "ME-розширений термінал доступу до шаблонів",
+  "gui.eterminal.ex_pattern_access_terminal": "ME-Розширений термінал доступу до шаблонів A.",
+  "gui.eterminal.ex_pattern_access_terminal.tooltip.01": "Пошук за вихідними даними або ім'ям постачальника шаблонів.",
+  "gui.eterminal.ex_pattern_access_terminal.tooltip.02": "Пошук за входом або ім'ям постачальника шаблону.",
+  "gui.eterminal.ex_pattern_access_terminal.tooltip.03": "Виділити постачальника шаблонів у світі.",
+  "chat.ex_pattern_access_terminal.pos": "Постачальник шаблонів тепер виділяється за адресою: %s, Dim: %s"
+}

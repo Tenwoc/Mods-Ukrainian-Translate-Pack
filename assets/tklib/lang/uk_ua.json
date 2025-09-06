@@ -1,0 +1,20 @@
+{
+  "tooltip.tklib.color.white": "Біла",
+  "tooltip.tklib.color.orange": "Помаранчева",
+  "tooltip.tklib.color.magenta": "Пурпурова",
+  "tooltip.tklib.color.light_blue": "Блакитна",
+  "tooltip.tklib.color.yellow": "Жовта",
+  "tooltip.tklib.color.lime": "Лаймова",
+  "tooltip.tklib.color.pink": "Рожева",
+  "tooltip.tklib.color.gray": "Сіра",
+  "tooltip.tklib.color.light_gray": "Світло-сіра",
+  "tooltip.tklib.color.cyan": "Бірюзова",
+  "tooltip.tklib.color.purple": "Фіолетова",
+  "tooltip.tklib.color.blue": "Синя",
+  "tooltip.tklib.color.brown": "Коричневна",
+  "tooltip.tklib.color.green": "Зелена",
+  "tooltip.tklib.color.red": "Червона",
+  "tooltip.tklib.color.black": "Чорна",
+
+  "subtitles.tklib.wrench": "Закручування гайковим ключом"
+}

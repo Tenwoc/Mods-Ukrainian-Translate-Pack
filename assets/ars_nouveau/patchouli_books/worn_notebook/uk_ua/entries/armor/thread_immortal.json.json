@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:armor",
+  "icon": "adamsarsplus:thread_immortal",
+  "name": "item.adamsarsplus.thread_immortal",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.perk_desc.thread_immortal"
+    },
+    {
+      "type": "ars_nouveau:apparatus_recipe",
+      "recipe": "adamsarsplus:thread_immortal"
+    }
+  ],
+  "sortnum": 99
+}

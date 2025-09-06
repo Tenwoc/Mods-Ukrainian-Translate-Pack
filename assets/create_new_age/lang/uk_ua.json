@@ -1,0 +1,203 @@
+{
+  "create_new_age.monkey_edition": "Create: New Age [Monkey Edition]",
+
+  "recipe.assembly.energising": "Заряджання",
+  "create.tooltip.create_new_age.energy_stored": "Накопичено енергії: ",
+  "create.tooltip.create_new_age.energy_stats": "Статус енергії: ",
+  "create.tooltip.create_new_age.energy_usage": "Використання енергії: ",
+  "create.tooltip.create_new_age.energy_output": "Вихід енергії: ",
+  "create.tooltip.create_new_age.energy": "%s ⚡",
+  "create.tooltip.create_new_age.max_speed": "Максимальна швидкість: ",
+  "create.tooltip.create_new_age.temperature": "%s ˚T",
+  "create.tooltip.create_new_age.rpm": "Оберти в хвилину: %s об/хв",
+  "create.tooltip.create_new_age.temperature.ps": "%s ˚T/с",
+  "create.tooltip.create_new_age.pump": "Перекачування: ",
+  "create.tooltip.create_new_age.energy_per_tick": "%s ⚡/t",
+  "create.tooltip.create_new_age.per_rpm": "на %s об/хв",
+  "create.tooltip.create_new_age.energy_storage": "%s ⚡ / %s ⚡",
+  "create.tooltip.create_new_age.releasing": "Виділення: ",
+  "create.tooltip.create_new_age.generating": "Генерування: ",
+  "create.tooltip.create_new_age.using": "Використання: ",
+  "create.tooltip.create_new_age.extracting": "Вилучення: ",
+  "create.tooltip.create_new_age.generates":  "Генерує: ",
+  "create.tooltip.create_new_age.stores":  "Зберігає: ",
+  "create.tooltip.create_new_age.speed":  "Швидкість: ",
+  "create.tooltip.create_new_age.efficiency":  "Ефективність: ",
+  "create.tooltip.create_new_age.transfers":  "Передає: ",
+  "create.tooltip.create_new_age.percent":  "%s%%",
+  "create.tooltip.create_new_age.magnetic_force":  "Магнітна сила: ",
+  
+  "create.tooltip.create_new_age.connector_info": "Інформація про з'єднувач: ",
+  "create.tooltip.create_new_age.mode": "Режим: ",
+  "create.tooltip.create_new_age.connector_mode.inert": "Інертний",
+  "create.tooltip.create_new_age.connector_mode.pull": "Тяжіння",
+
+
+  "itemGroup.create_new_age_tab": "Create: New Age",
+  "block.create_new_age.energiser_t1": "Базовий енерджайзер",
+  "block.create_new_age.energiser_t2": "Просунутий енерджайзер",
+  "block.create_new_age.energiser_t3": "Посилений енерджайзер",
+  "block.create_new_age.carbon_brushes": "Вугільні щітки",
+  "block.create_new_age.heat_pipe": "Теплова труба",
+  "block.create_new_age.heat_pump": "Тепловий насос",
+  "block.create_new_age.heater": "Бойлерний нагрівач",
+  "block.create_new_age.generator_coil": "Генераторна котушка",
+  "block.create_new_age.stirling_engine": "Двигун Стірлінга",
+  "block.create_new_age.magnetite_block": "Магнетитовий блок",
+  "block.create_new_age.fluxuated_magnetite": "Флюсований магнетит",
+  "block.create_new_age.netherite_magnet": "Незеритовий магніт",
+  "block.create_new_age.layered_magnet": "Шаруватий магніт",
+  "block.create_new_age.redstone_magnet": "Магніт з червоного каменю",
+  "block.create_new_age.solid_corium": "Твердий корій",
+  "block.create_new_age.corium": "Корій",
+  "block.create_new_age.reactor_casing": "Корпус реактора",
+  "block.create_new_age.reactor_rod": "Стрижень реактора",
+  "block.create_new_age.reactor_glass": "Скло реактора",
+  "block.create_new_age.reactor_fuel_acceptor": "Завантажувач палива для реактора",
+  "block.create_new_age.reactor_heat_vent": "Тепловідвід реактора",
+  "block.create_new_age.basic_solar_heating_plate": "Базова сонячна панель",
+  "block.create_new_age.advanced_solar_heating_plate": "Просунута сонячна панель",
+  "block.create_new_age.electrical_connector": "Електричний роз'єм",
+  "block.create_new_age.basic_motor": "Основний двигун",
+  "block.create_new_age.advanced_motor": "Сильний двигун",
+  "block.create_new_age.reinforced_motor": "Посилений двигун",
+  "block.create_new_age.thorium_ore": "Торієва руда",
+  "item.create_new_age.nuclear_fuel": "Ядерне паливо",
+  "item.create_new_age.incomplete_fuel": "Незавершене ядерне паливо",
+  "item.create_new_age.incomplete_casing": "Незавершений корпус реактора",
+  "item.create_new_age.incomplete_wire": "Незавершений дріт",
+  "item.create_new_age.thorium": "Торій",
+  "item.create_new_age.radioactive_thorium": "Радіоактивний торій",
+  "item.create_new_age.overcharged_iron": "Перезаряджене залізо",
+  "item.create_new_age.overcharged_gold": "Перезаряджене золото",
+  "item.create_new_age.overcharged_diamond": "Перезаряджений діамант",
+  "item.create_new_age.overcharged_iron_sheet": "Перезаряджений залізний лист",
+  "item.create_new_age.overcharged_golden_sheet": "Перезаряджений золотий лист",
+  "item.create_new_age.copper_wire": "Мідний дріт",
+  "item.create_new_age.overcharged_iron_wire": "Перезаряджений залізний дріт",
+  "item.create_new_age.overcharged_golden_wire": "Перезаряджений золотий дріт",
+  "item.create_new_age.overcharged_diamond_wire": "Перезаряджений діамантовий дріт",
+
+  "item.create_new_age.wire.message.self_connect": "Ви не можете підключити роз'єм до самого себе",
+  "item.create_new_age.wire.message.too_far": "Занадто далеко! Максимальна довжина дроту - %d блоків",
+  "item.create_new_age.wire.message.already_connected": "Ці роз'єми вже підключені",
+  "item.create_new_age.wire.message.unbound": "Від'єднано від роз'єм",
+  "item.create_new_age.wire.message.connected": "Підключений роз'єм",
+
+  "tag.create_new_age.nuclear.hazmat_suit": "Захист від небезпечних речовин",
+  "tag.create_new_age.nuclear.is_nuclear_fuel": "Ядерне паливо",
+  "emi.category.create_new_age.energising": "Зарядження",
+
+  "create_new_age.ponder.heating.header": "Тепловою системою",
+
+  "create_new_age.ponder.heating.text_1": "Ви можете використовувати теплову панель для генерації тепла днем.",
+  "create_new_age.ponder.heating.text_2": "Теплові труби можна використовувати для розповсюдження тепла.",
+
+  "create_new_age.ponder.heating.text_3": "240 ˚T",
+  "create_new_age.ponder.heating.text_4": "0 ˚T",
+  "create_new_age.ponder.heating.text_5": "0 ˚T",
+
+  "create_new_age.ponder.heating.text_6": "120 ˚T",
+  "create_new_age.ponder.heating.text_7": "120 ˚T",
+  "create_new_age.ponder.heating.text_8": "0 ˚T",
+
+  "create_new_age.ponder.heating.text_9": "80 ˚T",
+  "create_new_age.ponder.heating.text_10": "80 ˚T",
+  "create_new_age.ponder.heating.text_11": "80 ˚T",
+
+  "create_new_age.ponder.heating.text_12": "При підведенні тепла знизу двигун Стірлінга почне повільно обертатися.",
+  "create_new_age.ponder.heating.text_13": "Якщо до двигуна Стірлінга підвести більше тепла, він почне обертатися трохи швидше. ",
+
+  "create_new_age.ponder.heating.text_14": "Ви можете використовувати тепловий насос аби направляти тепло!",
+  "create_new_age.ponder.heating.text_15": "Однак будьте обережні, якщо цільовий блок перегріється, він перетвориться на лаву.",
+
+  "create_new_age.ponder.heater.header": "Бойлерний нагрівач",
+  "create_new_age.ponder.heater.text_1": "Бойлерний нагрівач тотожно до пальника пломеня, але використовує тепло, а не горюче паливо.",
+  "create_new_age.ponder.heater.text_2": "Чим більше тепла ви надасте йому, тим більше тепла він виділить.",
+
+
+  "create_new_age.ponder.reactor.header": "Використанням ядерної енергії",
+  "create_new_age.ponder.reactor.text_1": "Ядерний реактор - чудовий спосіб генерувати велику кількість тепла.",
+  "create_new_age.ponder.reactor.text_2": "Першим компонентом ядерного реактора є реакторні стрижні, які забезпечують протікання ядерної реакції.",
+  "create_new_age.ponder.reactor.text_3": "Другий компонент - це завантажувач палива, який дозволяє завантажувати паливо в реактор.",
+  "create_new_age.ponder.reactor.text_4": "Останній компонент, необхідний для ядерного реактора, - це тепловідвід реактора, який збирає тепло з реактора і розподіляє його по під'єднаних трубах.",
+
+  "create_new_age.ponder.reactor.text_5": "Однак, використовуючи ядерний реактор, слід бути обережним, оскільки він випромінює смертельну радіацію.",
+
+  "create_new_age.ponder.reactor.text_6": "Уникнути радіації можна, одягнувши шкіряну броню або повністю закривши ядерний реактор у реакторний корпус/скло.",
+
+  "create_new_age.ponder.reactor.text_7": "Крім того, ви повинні мати щось, що застосовує тепло від реактора, інакше ви отримаєте веселий маленький розплав.",
+
+  "create_new_age.ponder.energiser.header": "Енерджайзером",
+
+  "create_new_age.ponder.energiser.text_1": "Заживлений енергію і силою обертання, енерджайзер заряджає енергією предмети на депо та на стрічках під ним.",
+
+  
+  "create_new_age.ponder.wires.header": "Дротами",
+  "create_new_age.ponder.wires.text_1": "Дроти використовуються для передачі енергії з одного місця в інше",
+  "create_new_age.ponder.wires.text_2": "Цей блок автоматично передає свою енергію сусіднім блокам. Але що, якщо він цього не робить?",
+  "create_new_age.ponder.wires.text_3": "Роз'єм може передавати енергію від блоку, на якому він стоїть, коли увімкнено режим «Тяжіння». Режими перемикаються гайковим ключем",
+  "create_new_age.ponder.wires.text_4": "Зверніть увагу, що режим «Тяжіння» призначений лише для сумісності з іншими режимами і не може бути використаний для вилучення енергії з внутрішнього обсягу енерджайзера/мотора.",
+
+  "create_new_age.ponder.generation.header": "Генеруванням електроенергії",
+
+  "create_new_age.ponder.generation.text_1": "При обертанні генераторна котушка генерують електроенергію, доки вони оточені магнітами.",
+  "create_new_age.ponder.generation.text_2": "Електроенергію, вироблену котушкою, можна зібрати за допомогою блоку вугільних щіток.",
+  "create_new_age.ponder.generation.text_3": "Зі збільшенням магнітної сили магнітів навколо генераторної котушки збільшується відсоток SU, перетвореної в енергію.",
+  "create_new_age.ponder.generation.text_4": "Ефективність: 33,3",
+  "create_new_age.ponder.generation.text_5": "Ефективність: 50,0",
+  "create_new_age.ponder.generation.text_6": "Однак, зі збільшенням ефективності збільшується і кількість SU, що використовується генераторними котушками.",
+
+  "create_new_age.ponder.motor.header": "Двигунами!",
+  "create_new_age.ponder.motor.text_1": "Двигун дозволяє генерувати силу обертання за допомогою електроенергії.",
+  "create_new_age.ponder.motor.text_2": "Ви можете налаштувати його швидкість за допомогою гайкового ключа, однак кількість SU, яку він виробляє, залишиться незмінною.",
+  "create_new_age.ponder.motor.text_3": "За допомогою редстоуну ви можете вимкнути двигун.",
+  "create_new_age.ponder.motor.text_4": "Ви також можете інвертувати цю механіку, клацнувши ПКМ по ньому.",
+  
+  "create_new_age.ponder.motor_extension.header": "Розширеннями двигунів",
+  "create_new_age.ponder.motor_extension.text_1": "Втомилися від перенапруги ваших моторів? Використовуйте розширювач двигуна!",
+  "create_new_age.ponder.motor_extension.text_2": "Розширювач дозволяють налаштувати множник кінетичної потужності двигуна.",
+  "create_new_age.ponder.motor_extension.text_3": "Зверніть увагу, що споживання енергії пропорційне вихідній кінетичній потужності.",
+
+
+  "create_new_age.ponder.tag.electrical": "Електричними компонентами",
+  "create_new_age.ponder.tag.electrical.description": "Блоки, що відповідають за генерацію, транспортування та використання електроенергії.",
+
+  "create_new_age.ponder.tag.wiring": "Електропроводкою",
+  "create_new_age.ponder.tag.wiring.description": "Предмети, що використовуються для дротового з'єднання.",
+
+  "create_new_age.ponder.tag.magnets": "Магнітами",
+  "create_new_age.ponder.tag.magnets.description": "Магніти використовуються для виробництва електроенергії.",
+
+  "create_new_age.ponder.tag.electricity_generation": "Генерацією електроенергії",
+  "create_new_age.ponder.tag.electricity_generation.description": "Блоки, що використовуються для виробництва електроенергії.",
+
+  "create_new_age.ponder.tag.heating": "Опалювальними компонентами",
+  "create_new_age.ponder.tag.heating.description": "Блоки, що використовуються для виробництва, транспортування та використання тепла.",
+
+  "create_new_age.ponder.tag.reactor": "Ядерним реактором",
+  "create_new_age.ponder.tag.reactor.description": "Блоки, що використовуються в ядерному реакторі.",
+
+
+  
+
+  "item.create_new_age.glowstone_electrolyte_bucket": "Відро світлокам'яного електроліту",
+
+  "fluid.create_new_age.glowstone_electrolyte": "Світлокам'яний електроліт",
+  
+  "create.tooltip.create_new_age.attention": "Увага!",
+  "create.tooltip.create_new_age.battery_issue": "_Контролер акумулятора_ повинен бути розташований у верхній частині _баку_, заповненого _електролітом_.",
+
+  "create_new_age.ponder.generation.text_7": "Примітка: ГЕНЕРАТОРНІ КОТУШКИ НЕ ГЕНЕРУЮТЬ СИЛУ ОБЕРТАННЯ, ЛИШЕ ЕЛЕКТРОЕНЕРГІЮ.",
+
+  "create.tooltip.create_new_age.stress_limit_multiplier": "Множник кінетичної потужності",
+  "create.tooltip.create_new_age.additional_capacity": "Додаткова потужність",
+  "create.new_age.motor.stress_multiplier": "Множник кінетичної потужності",
+
+  "block.create_new_age.basic_motor_extension": "Базовий розширювач двигуна",
+  "block.create_new_age.advanced_motor_extension": "Посилений розширювач двигуна",
+  "item.create_new_age.copper_circuit": "Мідна схема",
+  "item.create_new_age.blank_circuit": "Порожня схема",
+
+  "tooltip.create_new_age.motor_extension": "Розміщується за двигуном"
+}

@@ -1,0 +1,44 @@
+{
+  "text.autoconfig.extra_details.title": "Налаштування Panda's Extra Details",
+
+
+  "text.autoconfig.extra_details.category.enabled_features": "Увімкнені особливості",
+
+  "text.autoconfig.extra_details.option.enable_door_animation": "Увімкнути анімацію дверей",
+  "text.autoconfig.extra_details.option.enable_door_animation.@Tooltip": "Потрібен перезапуск",
+
+  "text.autoconfig.extra_details.option.enable_trap_door_animation": "Увімкнути анімацію люка",
+  "text.autoconfig.extra_details.option.enable_trap_door_animation.@Tooltip": "Потрібен перезапуск",
+
+  "text.autoconfig.extra_details.option.enable_fence_gate_animation": "Увімкнути анімацію хвіртки",
+  "text.autoconfig.extra_details.option.enable_fence_gate_animation.@Tooltip": "Потрібен перезапуск",
+
+  "text.autoconfig.extra_details.option.enable_lever_animation": "Увімкнути анімацію важеля",
+  "text.autoconfig.extra_details.option.enable_lever_animation.@Tooltip": "Потрібен перезапуск",
+
+  "text.autoconfig.extra_details.option.enable_sign_tilt": "Увімкнути нахил таблички",
+
+
+  "text.autoconfig.extra_details.category.animation": "Анімації",
+
+  "text.autoconfig.extra_details.option.door_animation_length": "Тривалість анімації дверей",
+  "text.autoconfig.extra_details.option.door_animation_length.@Tooltip": "Тривалість анімації в секундах",
+
+  "text.autoconfig.extra_details.option.trap_door_animation_length": "Тривалість анімації люка",
+  "text.autoconfig.extra_details.option.trap_door_animation_length.@Tooltip": "Тривалість анімації в секундах",
+
+  "text.autoconfig.extra_details.option.fence_gate_animation_length": "Тривалість анімації хвіртки",
+  "text.autoconfig.extra_details.option.fence_gate_animation_length.@Tooltip": "Тривалість анімації в секундах",
+
+  "text.autoconfig.extra_details.option.lever_animation_length": "Тривалість анімації важеля",
+  "text.autoconfig.extra_details.option.lever_animation_length.@Tooltip": "Тривалість анімації в секундах",
+
+
+  "text.autoconfig.extra_details.category.detail_properties": "Деталі",
+
+  "text.autoconfig.extra_details.option.sign_details": "Нахил таблички",
+  "text.autoconfig.extra_details.option.sign_details.pitch_tilt": "Нахил за Z",
+  "text.autoconfig.extra_details.option.sign_details.yaw_tilt": "Нахил за Y",
+  "text.autoconfig.extra_details.option.sign_details.roll_tilt": "Нахил за X",
+  "text.autoconfig.extra_details.option.sign_details.random_tilt": "Випадковий нахил"
+}

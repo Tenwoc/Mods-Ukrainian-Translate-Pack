@@ -1,0 +1,35 @@
+{
+  "name": "Небеса",
+  "icon": "archon:sky_gem",
+  "category": "archon:weapons",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:thunder_bolt",
+      "text": "Громовий жезл запускає блискавку в радіусі 4 блоків. Блискавка не викликає вогню і не завдає вам шкоди."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:thunder_bolt"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:vacuum_cleaver",
+      "text": "Пустотний тесак здатний притягувати до вас ворогів."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:vacuum_cleaver"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:heaven_dial",
+      "text": "Під час використання райського диска, ви зцілите всіх гравців (включно з вами), селян, залізних големів, і вихованців неподалік на значну кількість здоров'я. У зцілених гравців також заповнюється насичення."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:heaven_dial"
+    }
+  ]
+}

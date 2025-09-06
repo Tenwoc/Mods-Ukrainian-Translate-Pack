@@ -1,0 +1,23 @@
+{
+  "item.ae2things.disk_drive_1k": "Дисковий накопичувач ME 1К",
+  "item.ae2things.disk_drive_4k": "Дисковий накопичувач ME 4К",
+  "item.ae2things.disk_drive_16k": "Дисковий накопичувач ME 16К",
+  "item.ae2things.disk_drive_64k": "Дисковий накопичувач ME 64К",
+  "item.ae2things.disk_housing": "Корпус диска ME",
+  "item.ae2things.portable_disk_1k": "Переносний диск 1k",
+  "item.ae2things.portable_disk_4k": "Переносний диск 4k",
+  "item.ae2things.portable_disk_16k": "Переносний диск 16k",
+  "item.ae2things.portable_disk_64k": "Переносний диск 64k",
+  "block.ae2things.advanced_inscriber": "Просунутий пристрій запису",
+  "block.ae2things.crystal_growth": "Камера для вирощування кристалів",
+  "itemGroup.ae2things.item_group": "AE2Things",
+  "gui.ae2things.advanced_inscriber": "Просунутий пристрій запису",
+  "gui.ae2things.crystal_growth": "Камера для вирощування кристалів",
+  "gui.ae2things.upgrade.portabledisk": "Переносні диски",
+  "gui.ae2things.upgrade.disk": "Диски ME",
+  "command.ae2things.recover_success": "%s відновив Дисковий накопичувач з UUID [%s].",
+  "command.ae2things.recover_fail": "Не вдалося відновити Дисковий накопичувач: UUID [%s] не існує.",
+  "command.ae2things.getuuid_success": "Диск отримав UUID: [%s]",
+  "command.ae2things.getuuid_fail_nouuid": "Помилка: отриманий Диск порожній/не знайдено uuid.",
+  "command.ae2things.getuuid_fail_notdisk": "Помилка: отриманий предмет не Диск."
+}

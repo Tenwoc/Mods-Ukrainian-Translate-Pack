@@ -1,0 +1,73 @@
+{
+  "advancements.mythicmobs.title": "Mythic Mobs",
+  "advancements.mythicmobs.description": "Міфичний світ!",
+  "advancements.kobold_trade.title": "Луската угода",
+  "advancements.kobold_trade.description": "Тримай друзів близько, а ворогів ще ближче!",
+
+  "book.mythicmobs.description": "Пориньте в світ мітичних мобів, де безліч легендарних істот чекає на ваші відкриття. Вирушайте назустріч захопливим пригодам, зустрічаючись з безліччю мітичних істот, деякі з яких стануть вашими союзниками, а інші наламають дров. Тримайте цю книжку при собі, адже вона запропонує захоплюючу скриньку знань щоразу, коли ви забажаєте заглибитися в захопливі історії істот, що перетинають ваш шлях.",
+  "book.mythicmobs.title": "Міфичний путівник",
+
+  "entity.mythicmobs.wendigo": "Вендиго",
+  "entity.mythicmobs.kobold": "Кобольд",
+  "entity.mythicmobs.kobold_warrior": "Воїн-кобольд",
+  "entity.mythicmobs.automaton": "Автоматон",
+  "entity.mythicmobs.chupacabra": "Чупакабра",
+  "entity.mythicmobs.drake": "Драконятко",
+  "entity.mythicmobs.mushroom_thing": "Споровичок",
+  "entity.mythicmobs.basilisk": "Василіск",
+
+  "item.mythicmobs.kobold_spear": "Спис кобольда",
+  "item.mythicmobs.bronze_ingot": "Бронзовий злиток",
+  "item.mythicmobs.automaton_spawn_egg": "Яйце виклику автоматона",
+  "item.mythicmobs.kobold_spawn_egg": "Яйце виклику кобольда",
+  "item.mythicmobs.kobold_warrior_spawn_egg": "Яйце виклику воїна-кобольда",
+  "item.mythicmobs.chupacabra_spawn_egg": "Яйце виклику чупакабри",
+  "item.mythicmobs.wendigo_spawn_egg": "Яйце виклику вендиго",
+  "item.mythicmobs.drake_spawn_egg": "Яйце виклику драконятка",
+  "item.mythicmobs.mushroom_spawn_egg": "Яйце виклику споровичка",
+  "item.mythicmobs.basilisk_spawn_egg": "Яйце виклику василіска",
+  "item.mythicmobs.automaton_head": "Голова автоматона",
+  "item.mythicmobs.chupacabra_raw_meat": "Сире м'ясо чупакабри",
+  "item.mythicmobs.chupacabra_cooked_meat_skewer": "Чупакабровий шашлик",
+  "item.mythicmobs.gear": "Шестерня автоматона",
+
+  "block.mythicmobs.bronze_block": "Блок бронзи",
+  "block.mythicmobs.bronze_block_cut": "Тесаний блок бронзи",
+
+  "itemgroup.mythicmobs": "Mythic Mobs",
+
+  "mythicmobs.midnightconfig.title": "Параметри Mythic Mobs",
+
+  "mythicmobs.midnightconfig.mobSpawnRates": "Кількість відтворення мобів",
+  "mythicmobs.midnightconfig.koboldSpawnWeight": "Kobold Spawn Weight",
+  "mythicmobs.midnightconfig.koboldWarriorSpawnWeight": "Kobold Warrior Spawn Weight",
+  "mythicmobs.midnightconfig.chupacabraSpawnWeight": "Chupacabra Spawn Weight",
+  "mythicmobs.midnightconfig.drakeSpawnWeight": "Drake Spawn Weight",
+  "mythicmobs.midnightconfig.mushroomSpawnWeight": "Sporeling Spawn Weight",
+  "mythicmobs.midnightconfig.basiliskSpawnWeight": "Basilisk Spawn Weight",
+
+  "mythicmobs.midnightconfig.mobAttributes": "Атрибути мобів",
+  "mythicmobs.midnightconfig.automatonHealth": "Automaton Health",
+  "mythicmobs.midnightconfig.automatonAttackDamage": "Automaton Attack Damage",
+  "mythicmobs.midnightconfig.chupacabraHealth": "Chupacabra Health",
+  "mythicmobs.midnightconfig.chupacabraAttackDamage": "Chupacabra Attack Damage",
+  "mythicmobs.midnightconfig.drakeHealth": "Drake Health",
+  "mythicmobs.midnightconfig.drakeAttackDamage": "Drake Attack Damage",
+  "mythicmobs.midnightconfig.koboldHealth": "Kobold Health",
+  "mythicmobs.midnightconfig.koboldAttackDamage": "Kobold Attack Damage",
+  "mythicmobs.midnightconfig.koboldWarriorHealth": "Kobold Warrior Health",
+  "mythicmobs.midnightconfig.koboldWarriorArmor": "Kobold Warrior Armor",
+  "mythicmobs.midnightconfig.koboldWarriorAttackDamage": "Kobold Warrior Attack Damage",
+  "mythicmobs.midnightconfig.mushroomHealth": "Sporeling Health",
+  "mythicmobs.midnightconfig.wendigoHealth": "Wendigo Health",
+  "mythicmobs.midnightconfig.wendigoArmor": "Wendigo Armor",
+  "mythicmobs.midnightconfig.wendigoAttackDamage": "Wendigo Attack Damage",
+  "mythicmobs.midnightconfig.basiliskHealth": "Basilisk Health",
+  "mythicmobs.midnightconfig.basiliskAttackDamage": "Basilisk Attack Damage",
+
+
+  "mythicmobs.midnightconfig.miscellaneous": "Різне",
+  "mythicmobs.midnightconfig.REPLACE_IRON_GOLEMS": "Замінити залізних ґолемів",
+  "mythicmobs.midnightconfig.redMushroomLines": "Червоні спороносні лінії",
+  "mythicmobs.midnightconfig.brownMushroomLines": "Коричневі спороносні лінії"
+}

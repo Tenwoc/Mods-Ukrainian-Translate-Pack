@@ -1,0 +1,20 @@
+{
+  "name": "Рунозлитий самоцвіт",
+  "icon": "simplyswords:runefused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runefused_gem",
+      "text": "Рунічні самоцвіти можна отримати, об'єднавши на ковальському столі владний залишок та рунічну скрижаль. Після ідентифікації ці самоцвіт відкриє випадкову силу, що відображатиметься у ньому."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Рунічні самоцвіти можна інкрустувати в унікальну зброю, яка містить порожій [ рунозлитий каст ]. Ці самоцвіти здатні вмістити лише рунічні сили різновиду 'При влучанні'."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:runefused_gem"
+    }
+  ]
+}

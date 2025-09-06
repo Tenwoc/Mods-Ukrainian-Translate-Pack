@@ -1,0 +1,22 @@
+{
+    "key.callablehorses.category": "Callable Horses",
+    "key.sethorse.desc": "Обрати коня",
+    "key.callhorse.desc": "Покликати коня",
+    "key.showstats.desc": "Характеристики коня",
+
+    "callablehorses.error.dim": "Ви не можете викликати свого коня у цьому вимірі!",
+    "callablehorses.error.riding": "Не можна їздити та кликати коня одночасно!",
+    "callablehorses.error.nohorse": "Наразі ви не маєте особистого коня!",
+    "callablehorses.error.notriding": "Потрібно сісти на коня, щоб зробити це!",
+    "callablehorses.error.alreadyowned": "У цього коня вже є власник!",
+    "callablehorses.error.alreadypersonal": "Це вже ваш особистий кінь!",
+    "callablehorses.error.area": "Ви не можете викликати свого коня in this area!",
+    "callablehorses.error.range": "Кінь надто далеко, щоб почути вас!",
+    "callablehorses.error.setarea": "Ви не можете обрати коня у цій області!",
+    "callablehorses.error.nospace": "Тут замало місця для виклику коня!",
+
+    "callablehorses.success": "Тепер це ваш особистий кінь!",
+
+    "callablehorses.alert.death": "Тільки що ваш особистий кінь помер!",
+    "callablehorses.alert.offlinedeath": "Ваш особистий кінь помер поки вас не було у грі!"
+}

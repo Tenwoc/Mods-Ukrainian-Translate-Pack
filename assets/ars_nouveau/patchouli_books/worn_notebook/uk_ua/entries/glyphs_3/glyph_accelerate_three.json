@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:glyphs_3",
+  "icon": "adamsarsplus:glyph_accelerate_three",
+  "name": "adamsarsplus.glyph_name.glyph_accelerate_three",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.glyph_desc.glyph_accelerate_three"
+    },
+    {
+      "type": "ars_nouveau:glyph_recipe",
+      "recipe": "adamsarsplus:glyph_accelerate_three"
+    }
+  ],
+  "sortnum": 3
+}

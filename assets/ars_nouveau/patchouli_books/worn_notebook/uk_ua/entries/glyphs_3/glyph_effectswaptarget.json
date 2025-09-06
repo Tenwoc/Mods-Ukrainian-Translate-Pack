@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:glyphs_3",
+  "icon": "adamsarsplus:glyph_effectswaptarget",
+  "name": "adamsarsplus.glyph_name.glyph_effectswaptarget",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.glyph_desc.glyph_effectswaptarget"
+    },
+    {
+      "type": "ars_nouveau:glyph_recipe",
+      "recipe": "adamsarsplus:glyph_effectswaptarget"
+    }
+  ],
+  "sortnum": 2
+}

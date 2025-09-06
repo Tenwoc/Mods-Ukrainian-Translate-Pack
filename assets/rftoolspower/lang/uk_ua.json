@@ -1,0 +1,89 @@
+{
+    "item.rftoolspower.power_core1": "Силове ядро (низький)",
+    "item.rftoolspower.power_core2": "Силове ядро (середній)",
+    "item.rftoolspower.power_core3": "Силове ядро (високий)",
+    "item.rftoolspower.blazing_rod": "Розжарювальний стрижень",
+    "item.rftoolspower.powercell_card": "Картка елемента живлення",
+
+    "block.rftoolspower.dimensionalcell": "Вимірна комірка",
+    "block.rftoolspower.dimensionalcell_simple": "Вимірна комірка (проста)",
+    "block.rftoolspower.dimensionalcell_advanced": "Вимірна комірка (просунута)",
+    "block.rftoolspower.dimensionalcell_creative": "Вимірна комірка (креативна)",
+    "block.rftoolspower.cell1": "Елемент живлення (низький)",
+    "block.rftoolspower.cell2": "Елемент живлення (середній)",
+    "block.rftoolspower.cell3": "Елемент живлення (високий)",
+    "block.rftoolspower.coalgenerator": "Вугільний генератор",
+    "block.rftoolspower.power_monitor": "Монітор живлення",
+    "block.rftoolspower.power_level": "Рівень потужності",
+    "block.rftoolspower.endergenic": "Ендерген",
+    "block.rftoolspower.ender_monitor": "Монітор Енду",
+    "block.rftoolspower.pearl_injector": "Перловий інжектор",
+    "block.rftoolspower.blazing_generator": "Генератор полум'я",
+    "block.rftoolspower.blazing_agitator": "Вогняна мішалка",
+    "block.rftoolspower.blazing_infuser": "Палаючий інфузор",
+
+    "itemGroup.rftoolspower": "RFTools Power",
+
+    "message.rftoolspower.shiftmessage": "<Натисніть Shift для подробиць>",
+
+    "message.rftoolspower.powercell_card.header": "Використовуйте для з'єднання розмірних комірок",
+    "message.rftoolspower.powercell_card.info": "Зв'язок: ",
+
+    "message.rftoolspower.power_core1.header": "Цей елемент є інгредієнтом для виготовлення елементів живлення",
+    "message.rftoolspower.power_core2.header": "Цей елемент є інгредієнтом для створення силових елементів",
+    "message.rftoolspower.power_core3.header": "Цей компонент є інгредієнтом для створення елементів живлення",
+
+    "message.rftoolspower.blazing_rod.header": "Цей предмет виробляється Вогняною Мішалкою і використовується у Вогняному Генераторі для отримання енергії",
+    "message.rftoolspower.blazing_rod.time": "Час: ",
+    "message.rftoolspower.blazing_rod.power": "Енергія: ",
+    "message.rftoolspower.blazing_rod.duration": "Тривалість: ",
+    "message.rftoolspower.blazing_rod.infused": "Влито: ",
+
+    "message.rftoolspower.cell1.header": "Цей блок може накопичувати енергію і може бути об'єднаний з іншими елементами, щоб сформувати великий мультиблок. Клацніть ПКМ з гайковим ключем, щоб переключити режим вводу/виводу для сторони",
+    "message.rftoolspower.cell1.info": "Power: ",
+
+    "message.rftoolspower.cell2.header": "Цей блок може накопичувати енергію і може бути об'єднаний з іншими елементами для формування великого мультиблоку. Клацніть ПКМ з гайковим ключем, щоб переключити режим входу/виходу для сторони",
+    "message.rftoolspower.cell2.info": "Живлення: ",
+
+    "message.rftoolspower.cell3.header": "Цей блок може накопичувати енергію і може бути об'єднаний з іншими елементами для формування великого мультиблоку. Клацніть ПКМ з гайковим ключем, щоб переключити режим входу/виходу для сторони",
+    "message.rftoolspower.cell3.info": "Живлення: ",
+
+    "message.rftoolspower.power_monitor.header": "Монітор потужності може надсилати сигнал червоного каменю залежно від кількості енергії в цільовому блоці",
+
+    "message.rftoolspower.power_level.header": "Блок рівня потужності показує цифру, що представляє кількість енергії в чомусь. Він також надішле сигнал червоного каменю з такою ж кількістю",
+
+    "message.rftoolspower.blazing_generator.header": "Генеруйте енергію з вогняних стрижнів. Ці вогняні стрижні потрібно спочатку 'перемішати' за допомогою Вогняної мішалки",
+    "message.rftoolspower.blazing_generator.gold": "Бонус від настоювання: більше енергії",
+
+    "message.rftoolspower.blazing_agitator.header": "Цей пристрій може 'перемішати' розпалювальні стержні, щоб вони були придатні для використання в генераторі розпалу",
+    "message.rftoolspower.blazing_agitator.gold": "Бонус настоювання: краща якість розпалювальних стрижнів",
+
+    "message.rftoolspower.blazing_infuser.header": "Цей пристрій може наповнювати розжарювальний стрижень розміреними осколками, червоним каменем або пилом розжарювального каменю. Це покращить виробництво електроенергії та/або тривалість виробництва електроенергії при використанні в генераторі полум'я.",
+
+    "message.rftoolspower.endergenic.header": "Генеруйте енергію з кінцевих перлин. Для цього вам знадобиться щонайменше два генератори, а їх налаштування відносно складне. Час має вирішальне значення",
+    "message.rftoolspower.endergenic.gold": "Бонус від вливання: більше енергії та зменшення втрат енергії на утримання перлин",
+
+    "message.rftoolspower.ender_monitor.header": "Цей блок може виявляти різні зміни в сусідньому ендергенному генераторі і на основі цього надсилати сигнал червоного каменю",
+
+    "message.rftoolspower.pearl_injector.header": "Це введе перлину ендера в сусідній ендергенний генератор, коли буде отримано сигнал червоного каменю",
+
+    "message.rftoolspower.coalgenerator.header": "Ця машина виробляє RF/FE з вугілля або деревного вугілля",
+    "message.rftoolspower.coalgenerator.gold": "Бонус від вливання: більше енергії і довше працює на одному паливі",
+    "message.rftoolspower.coalgenerator.info": "Генерування: ",
+
+    "message.rftoolspower.dimensionalcell.header": "Цей блок може зберігати енергію. За бажанням у великій багатовимірній структурі",
+    "message.rftoolspower.dimensionalcell.gold": "Бонус від вливання: зменшення витрат на видобуток енергії на великі відстані та збільшення потужності радіочастот/тиків",
+    "message.rftoolspower.dimensionalcell.info": "Енергія: ",
+
+    "message.rftoolspower.dimensionalcell_advanced.header": "Цей блок може зберігати енергію. За бажанням у великій багатовимірній структурі",
+    "message.rftoolspower.dimensionalcell_advanced.gold": "Бонус при вливанні: знижена вартість видобутку енергії на великі відстані та збільшена вихідна потужність радіочастот/тиків",
+    "message.rftoolspower.dimensionalcell_advanced.info": "Енергія: ",
+
+    "message.rftoolspower.dimensionalcell_simple.header": "Цей блок може зберігати енергію. За бажанням у великій багатовимірній структурі",
+    "message.rftoolspower.dimensionalcell_simple.gold": "Бонус при вливанні: знижена вартість видобутку енергії на великі відстані та збільшена вихідна потужність радіочастот/тиків",
+    "message.rftoolspower.dimensionalcell_simple.info": "Енергія: ",
+
+    "message.rftoolspower.dimensionalcell_creative.header": "Цей блок може зберігати енергію. За бажанням у великій багатовимірній структурі",
+    "message.rftoolspower.dimensionalcell_creative.gold": "Бонус при вливанні: знижена вартість видобутку енергії на великі відстані та збільшена вихідна потужність радіочастот/тиків",
+    "message.rftoolspower.dimensionalcell_creative.info": "Енергія: "
+}

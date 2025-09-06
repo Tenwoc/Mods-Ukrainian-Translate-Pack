@@ -1,0 +1,115 @@
+{
+  "item.endrem.old_eye": "Старовинне Око",
+  "item.endrem.old_eye.description": "§7§oЛегенди свідчать, що це око колись належало одному з великих піщаних черв'яків",
+
+  "item.endrem.rogue_eye": "Око Вигнанця",
+  "item.endrem.rogue_eye.description": "§7§oВважається, що це око дало нашим пращурам знання про редстоун",
+
+  "item.endrem.nether_eye": "Око Пекла",
+  "item.endrem.nether_eye.description": "§7§oВоно було втрачене демоном у битві між Етером і Незером",
+
+  "item.endrem.cold_eye": "Крижане Око",
+  "item.endrem.cold_eye.description": "§7§oОдин з останніх артефактів, залишених льодологами перед тим, як вони раптово зникли зі світу",
+
+  "item.endrem.magical_eye": "Магічне Око",
+  "item.endrem.magical_eye.description": "§7§oБез цього ока у Викликача немає сили",
+
+  "item.endrem.black_eye": "Чорне Око",
+  "item.endrem.black_eye.description": "§7§oПірати кажуть, що це око дало можливість побачити легендарну Чорну перлину",
+
+  "item.endrem.lost_eye": "Загублене Око",
+  "item.endrem.lost_eye.description": "§7§oПодейкують, що воно було викуване першими ковалями часів",
+
+  "item.endrem.wither_eye": "Око Візера",
+  "item.endrem.wither_eye.description": "§7§oСтало свідком занепаду. Можливо, воно також стало свідком зникнення ваших речей",
+
+  "item.endrem.guardian_eye": "Око Вартового",
+  "item.endrem.guardian_eye.description": "§7§oВоно бачило, як багато воїнів потонули в морських глибинах",
+
+  "item.endrem.cursed_eye": "Прокляте Око",
+  "item.endrem.cursed_eye.description": "§7§oМогутній, але руйнівний артефакт. Піґліни поклялися захищати його ціною свого життя",
+
+  "item.endrem.exotic_eye": "Екзотичне Око",
+  "item.endrem.exotic_eye.description": "§7§oТих, хто пішов за цим оком, більше ніхто не бачив. Ходять чутки, що вони знайшли велике місто Атлантиду... або збилися зі шляху, намагаючись",
+
+  "item.endrem.evil_eye": "Зловісне Око",
+  "item.endrem.evil_eye.description": "§7§oСвященний талісман, що захищає свого власника від невдач",
+
+  "item.endrem.undead_eye": "Око Нежиті",
+  "item.endrem.undead_eye.description": "§7§oСпогад про минулі життя тих, хто живе у смерті",
+
+  "item.endrem.cryptic_eye": "Загадкове Око",
+  "item.endrem.cryptic_eye.description": "§7§o§khttps://www.youtube.com/watch?v=dQw4w9WgXcQ",
+
+  "item.endrem.corrupted_eye": "Пошкоджене Око",
+  "item.endrem.corrupted_eye.description": "§7§oОко жадібного короля, що померкло на самоті. Легенда свідчить, що воно принесе нескінченне багатство своєму власникові",
+
+  "item.endrem.witch_eye": "Око Відьми",
+  "item.endrem.witch_eye.description": "§7§oВважається, що це око бачило стародавні рецепти зіллєваріння, загублені в часі",
+  "item.endrem.witch_pupil": "Зіниця відьми",
+
+  "item.endrem.undead_soul": "Душа нежиті",
+
+  "block.endrem.ancient_portal_frame": "Древня рамка порталу",
+
+  "block.endrem.ender_eye.warning": "Це око не хоче використовуватися",
+  "block.endrem.custom_eye.place": "Це око вже встановлено",
+  "block.endrem.custom_eye.frame_has_eye": "У цій рамці вже встановлено око",
+
+
+  "itemGroup.endrem.endrem_tab": "End Remastered",
+
+  "block.portal_open_sound": "Відкриття порталу",
+  "block.portal_open_sound.sub": "Відкриття порталу",
+
+  "advancements.main.root.title": "Початок подорожі",
+  "advancements.main.root.description": "Отримайте своє перше Око",
+
+  "advancements.main.old_eye.title": "Шукач удачі",
+  "advancements.main.old_eye.description": "Отримайте своє перше Старовинне Око",
+
+  "advancements.main.rogue_eye.title": "Ласкаво просимо в джунглі",
+  "advancements.main.rogue_eye.description": "Отримайте своє перше Розбійницьке Око",
+
+  "advancements.main.nether_eye.title": "Поглянь у відчай",
+  "advancements.main.nether_eye.description": "Отримайте своє перше Око Пекла",
+
+  "advancements.main.cold_eye.title": "Захолодний вигляд",
+  "advancements.main.cold_eye.description": "Отримайте своє перше Крижане Око",
+
+  "advancements.main.corrupted_eye.title": "Покрий мене смарагдами",
+  "advancements.main.corrupted_eye.description": "Отримайте своє перше Пошкоджене Око",
+
+  "advancements.main.magical_eye.title": "Занепалий чаклун",
+  "advancements.main.magical_eye.description": "Отримайте своє перше Магічне Око",
+
+  "advancements.main.black_eye.title": "Аргхх, ну і де ж мій корабель?",
+  "advancements.main.black_eye.description": "Отримайте своє перше Чорне Око",
+
+  "advancements.main.lost_eye.title": "Потрібна карта?",
+  "advancements.main.lost_eye.description": "Отримайте своє перше Загублене Око",
+
+  "advancements.main.wither_eye.title": "Піддавшись висушенню",
+  "advancements.main.wither_eye.description": "Отримайте своє перше Око Візера",
+
+  "advancements.main.witch_eye.title": "Cолодощі або життя?",
+  "advancements.main.witch_eye.description": "Отримайте своє перше Око Відьми",
+
+  "advancements.main.guardian_eye.title": "Ну і хто тепер страж храму?",
+  "advancements.main.guardian_eye.description": "Отримайте своє перше Око Вартового",
+
+  "advancements.main.cursed_eye.title": "Новий Захисник...",
+  "advancements.main.cursed_eye.description": "Отримайте своє перше Прокляте Око",
+
+  "advancements.main.evil_eye.title": "Справжнє Благословення",
+  "advancements.main.evil_eye.description": "Отримайте своє перше Зловісне Око",
+
+  "advancements.main.exotic_eye.title": "Де Атлантида?",
+  "advancements.main.exotic_eye.description": "Отримайте своє перше Екзотичне Око",
+
+  "advancements.main.undead_eye.title": "Дзеркало душі",
+  "advancements.main.undead_eye.description": "Отримайте своє перше Око Нежиті",
+
+  "advancements.main.cryptic_eye.title": "Терпіння - шлях до мудрості",
+  "advancements.main.cryptic_eye.description": "Отримайте своє перше Загадкове Око"
+}

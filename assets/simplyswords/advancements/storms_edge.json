@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:storms_edge"
+    },
+    "title": "Блискавка б'є двічі",
+    "description": "Знайдіть унікальну зброю - Грань шторму.",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:runic_weapon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:storms_edge"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

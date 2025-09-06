@@ -1,0 +1,14 @@
+{
+    "block.torchmaster.megatorch": "Мегасмолоскип",
+    "block.torchmaster.megatorch.tooltip": "Запобігає появі монстрів у великому радіусі навколо смолоскипа",
+    "block.torchmaster.dreadlamp": "Лампа жаху",
+    "block.torchmaster.dreadlamp.tooltip": "Запобігає появі пасивних мобів, таких, як: восьминоги, кажани, оцелоти у великому радіусі навколо лампи",
+    "block.torchmaster.feral_flare_lantern": "Великий освітлювальний ліхтар",
+    "block.torchmaster.feral_flare_lantern.tooltip": "Розміщує невидимі джерела світла",
+    "block.torchmaster.invisible_light": "Невидиме джерело світла",
+    "item.torchmaster.frozen_pearl": "Заморожена перлина",
+    "item.torchmaster.frozen_pearl.tooltip": "Видаляє невидимі джерела світла від Великого освітлювального ліхтаря",
+    "command.torchmaster.torch_list.completed": "Список смолоскипів буде збережено у файл журналу",
+    "command.torchmaster.entity_dump.completed": "Список сутностей буде збережено у файл журналу",
+    "itemGroup.torchmaster": "Torchmaster"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Tomes",
+    "icon": "apothic_enchanting:other_tome",
+    "category": "apotheosis:enchanting/utility",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tomes are a special type of Book.$(p)A Tome can be enchanted just like a book, but can only receive specific enchantments.$(p)The exception is the $(l:apotheosis:enchanting/utility/scrapping)Tome of Scrapping$(), which has another purpose."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apothic_enchanting:other_tome",
+			"text": "Once you enchant a tome, it will transform into an enchanted book."
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apothic_enchanting:helmet_tome",
+			"recipe2": "apothic_enchanting:chestplate_tome",
+			"text": ""
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apothic_enchanting:leggings_tome",
+			"recipe2": "apothic_enchanting:boots_tome",
+			"text": ""
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apothic_enchanting:weapon_tome",
+			"recipe2": "apothic_enchanting:pickaxe_tome",
+			"text": ""
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apothic_enchanting:fishing_tome",
+			"recipe2": "apothic_enchanting:bow_tome",
+			"text": ""
+		}
+	]
+}

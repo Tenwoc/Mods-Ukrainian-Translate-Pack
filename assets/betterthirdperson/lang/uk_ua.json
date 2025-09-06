@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.betterthirdperson.title": "Better Third Person",
+  "text.autoconfig.betterthirdperson.option.aimOnInteract": "Прицілювати гравця при взаємодії",
+  "text.autoconfig.betterthirdperson.option.followYaw": "Слідувати за кутом повороту",
+  "text.autoconfig.betterthirdperson.option.freeCameraDuringElytraFlight": "Вільна камера під час польоту на елітрах",
+  "text.autoconfig.betterthirdperson.option.skipThirdPersonFrontView": "Пропускати перегляд від 3-ого обличчя спереду",
+  "text.autoconfig.betterthirdperson.option.playerRotationSpeed": "Швидкість повертання гравця",
+  "text.autoconfig.betterthirdperson.option.aimDuration": "Тривалість націлювання",
+  "text.autoconfig.betterthirdperson.option.pitchChangeSpeed": "Відповідати змінам швидкости"
+}

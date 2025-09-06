@@ -1,0 +1,7 @@
+{
+  "select.a.painting": "Оберіть картину",
+  "text.autoconfig.paintings.option.use_vanilla_only": "Виберіть True, щоб використовувати лише ванільні малюнки і пропустити завантаження інших малюнків",
+  "text.autoconfig.paintings.option.use_selection_gui": "Виберіть True, щоб увімкнути спливаюче вікно вибору картини під час розміщення картини",
+  "text.autoconfig.paintings.option.cycle_paintings": "Виберіть True, щоб увімкнути циклічне перемикання малюнків при натисканні ПКМ на предметі малюнка",
+  "text.autoconfig.paintings.option.show_painting_size": "Виберіть True, щоб показувати розмір картини в інтерфейсі малювання"
+}

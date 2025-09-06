@@ -1,0 +1,134 @@
+﻿{
+    "_comment": "------------------------------------- ShetiPhianCore en_us.json Localization -------------------------------------!",
+    "_comment": "Keep file encoded with UTF-8 to support chat formatting http://minecraft.gamepedia.com/Formatting_codes",
+
+    "_comment": "------------------------------------------------------ MISC ------------------------------------------------------!",
+    "itemGroup.shetiphiancore": "ShetiPhianCore",
+
+    "info.down": "Вниз",
+    "info.up": "Вгору",
+    "info.north": "Північ",
+    "info.south": "Південь",
+    "info.west": "Захід",
+    "info.east": "Схід",
+    "info.bottom": "Внизу",
+    "info.top": "Вгорі",
+    "info.back": "Назад",
+    "info.front": "Спереду",
+    "info.left": "Ліворуч",
+    "info.right": "Праворуч",
+
+    "gui.side_disabled": "Вимкнено",
+
+    "color.white": "Білий",
+    "color.orange": "Помаранчевий",
+    "color.magenta": "Пурпурний",
+    "color.light_blue": "Блакитний",
+    "color.yellow": "Жовтий",
+    "color.lime": "Лаймовий",
+    "color.pink": "Рожевий",
+    "color.gray": "Сірий",
+    "color.light_gray": "Світло-сірий",
+    "color.cyan": "Бірюзовий",
+    "color.purple": "Фіолетовий",
+    "color.blue": "Синій",
+    "color.brown": "Коричневий",
+    "color.green": "Зелений",
+    "color.red": "Червоний",
+    "color.black": "Чорний",
+
+    "key.shetiphiancore.tool.next": "Утримуваний предмет; режим/вибір Далі",
+    "key.shetiphiancore.tool.previous": "Утримуваний предмет; режим/вибір Попередній",
+
+    "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
+    "info.shetiphian.holdshift": "§2Для отримання додаткової інформації утримуйте клавішу SHIFT",
+    "info.shetiphian.creativeolny": "§eПредмет виключно творчого режиму",
+    "info.shetiphian.guide": "Посібник Fruzstrated",
+    "info.shetiphian.unused": "§5§o невикористаний/застарілий предмет",
+
+    "error.shetiphian.team.noteam": "Ви не в команді",
+    "error.shetiphian.team.wrong": "Об'єкт належить іншій команді",
+
+    "info.shetiphian.texture.missing": "Відсутні дані текстури",
+    "info.shetiphian.texture.invalid": "Відсутній блок текстури",
+    "info.shetiphian.texture.defaulted": "Усталене використання",
+
+    "info.shetiphian.mode_change": "§3Режим зміни:§o",
+    "info.shetiphian.sneak_scroll": "Прокручуйте коліщатко крадькома",
+
+    "_comment": "--------------------------------------------------- TEAMS -----------------------------------------------------!",
+    "shetiphiancore.team.create.success": "Команду успішно створено",
+    "shetiphiancore.team.create.fail.inteam": "Спочатку ви маєте вийти з поточної команди",
+    "shetiphiancore.team.create.fail.exists": "Команда з такою назвою вже існує",
+
+    "shetiphiancore.team.rename.success": "'%1$s' було перейменовано на '%2$s'",
+    "shetiphiancore.team.rename.fail.same": "Перейменування скасовано; нова та стара назви збігаються",
+
+    "shetiphiancore.team.invite.send.success": "Запрошення надіслано",
+    "shetiphiancore.team.invite.send.fail.member": "Гравець вже є членом команди",
+    "shetiphiancore.team.invite.send.fail.pending": "Гравець вже має запрошення до команди '%1$s' у стані очікування",
+    "shetiphiancore.team.invite.receive.notice": "Вас запрошено приєднатися до '%1$s' (використовуйте %2$s протягом наступних %3$s хвилин, щоб прийняти запрошення)",
+    "shetiphiancore.team.invite.accept.success": "Ви тепер член команди '%1$s'",
+    "shetiphiancore.team.invite.accept.success.notice": "%1$s приєднався до команди",
+    "shetiphiancore.team.invite.accept.fail.permissions": "Не вдалося приєднатися, оскільки гравець, який вас запросив, більше не має прав на додавання гравців",
+    "shetiphiancore.team.invite.accept.fail.member": "Ви вже є членом цієї команди",
+    "shetiphiancore.team.invite.accept.fail.inteam": "Не можливо прийняти запрошення, перебуваючи в команді",
+    "shetiphiancore.team.invite.accept.fail.noinvite": "Немає відкритих запрошень до команди, які можна прийняти",
+
+    "shetiphiancore.team.leave.success": "Ви покинули команду",
+    "shetiphiancore.team.leave.success.notice": "%1$s покинув команду",
+    "shetiphiancore.team.leave.fail.leader": "Ви повинні спочатку передати лідерство або розпустити команду",
+
+    "shetiphiancore.team.kick.success": "Гравця було вигнано з команди",
+    "shetiphiancore.team.kick.success.notice": "Вас вигнали з команди",
+    "shetiphiancore.team.kick.fail.rank": "Ви можете вигнати тільки гравця нижчого рангу",
+    "shetiphiancore.team.kick.fail.team": "Цей гравець не є членом вашої команди",
+
+    "shetiphiancore.team.rank.promote.success": "Гравця успішно підвищено в класі",
+    "shetiphiancore.team.rank.promote.success.notice": "Вас призначено менеджером команди",
+    "shetiphiancore.team.rank.promote.fail.manager": "Користувач вже має доступ до управління",
+    "shetiphiancore.team.rank.promote.fail.not_member": "Не можна підвищувати гравця, який не є членом команди",
+
+    "shetiphiancore.team.rank.demote.success": "Учасника успішно понижено в посаді",
+    "shetiphiancore.team.rank.demote.success.notice": "Вас було понижено в посаді і ви більше не є менеджером команди",
+    "shetiphiancore.team.rank.demote.success.self": "Ви успішно понизили себе в посаді",
+
+    "shetiphiancore.team.transfer.success": "Лідерство успішно передано",
+    "shetiphiancore.team.transfer.success.notice": "Відтепер ви є лідером команди '%1$s'",
+    "shetiphiancore.team.transfer.fail.same": "Передачу скасовано: користувач вже є лідером",
+
+    "shetiphiancore.team.disband.success": "'%1$s' було розформовано",
+
+    "shetiphiancore.team.no_teams": "Немає команд",
+    "shetiphiancore.team.members.empty": "Команда не має учасників",
+    "shetiphiancore.team.members.error.noteam": "Команди не існує",
+
+    "shetiphiancore.team.error.no_team": "Ви не перебуваєте в команді",
+    "shetiphiancore.team.error.not_leader": "Ви не є лідером команди",
+    "shetiphiancore.team.error.not_manager.self": "Ви не є менеджером команди",
+    "shetiphiancore.team.error.not_manager.other": "Гравець не є менеджером команди",
+
+    "shetiphiancore.team.sysadmin.create.success": "'%1$s'['%2$s'] створено",
+    "shetiphiancore.team.sysadmin.rename.success": "'%1$s' змінено з '%2$s' на '%3$s'",
+    "shetiphiancore.team.sysadmin.kick.success": "гравця(ів) '%1$s' було видалено з команди",
+    "shetiphiancore.team.sysadmin.kick.inform": "Адміністратор видалив вас з команди '%1$s'",
+    "shetiphiancore.team.sysadmin.add.success": "%1$s гравця(ів) було додано до команди '%2$'",
+    "shetiphiancore.team.sysadmin.add.inform": "Адміністратор додав вас до команди '%1$s'",
+    "shetiphiancore.team.sysadmin.transfer.success": "Лідерство команди '%1$s' було передано '%2$s'",
+    "shetiphiancore.team.sysadmin.disband.success": "'%1$s' було розформовано, всіх гравців було вигнано",
+    "shetiphiancore.team.sysadmin.disband.inform": "Адміністратор розформував '%1$s', ви більше не перебуваєте в команді",
+
+    "_comment": "------------------------------------------------ NAME CORRECTIONS ------------------------------------------------!",
+    "fluid.tile.lava": "Лава",
+    "fluid.tile.water": "Вода",
+    "item.dyePowder.green": "Зелений барвник",
+    "item.dyePowder.red": "Червоний барвник",
+    "item.dyePowder.yellow": "Жовтий барвник",
+
+    "_comment": "------------------------------------------------ MOD INTEGRATION -------------------------------------------------!",
+    "hud.shetiphiancore.extended_power": "Розширена потужність:",
+
+    "config.jade.plugin_shetiphiancore.hud": "Увімкнути плагін",
+    "config.jade.plugin_shetiphiancore.hud.rgb16": "Значення блоків RGB16",
+    "config.jade.plugin_shetiphiancore.hud.redstone": "Розширений редстоун"
+}

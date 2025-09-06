@@ -1,0 +1,28 @@
+{
+    "text.autoconfig.condensed_creative.title": "CC Config",
+
+    "text.autoconfig.condensed_creative.category.common": "Загальне",
+    "text.autoconfig.condensed_creative.category.debug_info": "Інформація про налагодження",
+    "text.autoconfig.condensed_creative.category.client": "Клієнт",
+
+    "text.autoconfig.condensed_creative.option.enableDefaultCCGroups": "Увімкнути вбудовані записи",
+    "text.autoconfig.condensed_creative.option.enableDefaultCCGroups.@Tooltip": "Додає деякі скорочені записи для певних внутрішніх міток minecraft",
+
+    "text.autoconfig.condensed_creative.option.enableTagPreviewForEntries": "Увімкнути підказку тегу",
+    "text.autoconfig.condensed_creative.option.enableTagPreviewForEntries.@Tooltip": "Показати тег для скороченого запису",
+
+    "text.autoconfig.condensed_creative.option.enableDebugIdentifiersForEntries": "Увімкнути підказку внутрішього ID",
+    "text.autoconfig.condensed_creative.option.enableDebugIdentifiersForEntries.@Tooltip": "Показати ID для скороченого запису",
+
+    "text.autoconfig.condensed_creative.option.enableEntryRefreshButton": "Увімкнути кнопку оновлення записів",
+    "text.autoconfig.condensed_creative.option.enableEntryRefreshButton.@Tooltip": "Корисно, якщо на творчому екрані виникають проблеми з відображенням чогось іншого, оскільки ця кнопка призначена більше для налагодження",
+
+    "text.autoconfig.condensed_creative.option.enableEntryBackgroundColor": "Увімкнути фонове розфарбовування записів",
+    "text.autoconfig.condensed_creative.option.enableEntryBackgroundColor.@Tooltip": "Не рекомендуємо вимикати цей параметр і контури, оскільки буде важко бачити стислі записи.",
+
+    "text.autoconfig.condensed_creative.option.enableEntryBorderColor": "Увімкнути розмальовку кордону записів",
+    "text.autoconfig.condensed_creative.option.enableEntryBorderColor.@Tooltip": "Не рекомендуємо вимикати цей параметр і фон, оскільки буде важко бачити стислі записи.",
+
+    "text.autoconfig.condensed_creative.option.condensedEntryBorderColor": "Колір контуру записів",
+    "text.autoconfig.condensed_creative.option.condensedEntryBorderColor.@Tooltip": "Такий колір повинен містити значення Alpha."
+}

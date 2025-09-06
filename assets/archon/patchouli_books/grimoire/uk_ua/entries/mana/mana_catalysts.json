@@ -1,0 +1,21 @@
+{
+  "name": "Каталізатори мани",
+  "icon": "archon:mana_catalyst",
+  "category": "archon:mana",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Каталізатори мани - це блоки, які збільшують запас мани всіх гравців в області дії. У кожного каталізатора вона своя, а надбавка мани визначається типом каталізатора. Радіус звичайного - 16 блоків, надбавка мани $(#2895CB)50$(), у діамантового - 22 і надбавка $(#2895CB)100$(), у незеритового - 34 і надбавка $(#2895CB)200$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:mana_catalyst",
+      "recipe2": "archon:diamond_mana_catalyst"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:netherite_mana_catalyst"
+    }
+  ]
+}

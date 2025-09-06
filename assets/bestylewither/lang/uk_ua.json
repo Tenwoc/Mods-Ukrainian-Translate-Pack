@@ -1,0 +1,12 @@
+{
+  "text.autoconfig.bestylewither.title": "BE Style Wither",
+  "text.autoconfig.bestylewither.option.enableBounceBlueWitherSkull": "Увімкнути синього черепа Візера",
+  "text.autoconfig.bestylewither.option.enableMoreInertialBlueWitherSkull": "Увімкнути інтенсивніші сині черепи Візера",
+  "text.autoconfig.bestylewither.option.enableShootMoreBlueWitherSkull": "Увімкнути частіші сині черепи Візера",
+  "text.autoconfig.bestylewither.option.enableSpinAndWhiteSummon": "Увімкнути кружляння та білу появу",
+  "text.autoconfig.bestylewither.option.enableExplodeByHalfHealth": "Увімкнути вибухання при половині здоров'я",
+  "text.autoconfig.bestylewither.option.enableExplodeByDie": "Увімкнути вибухання при смерті",
+  "text.autoconfig.bestylewither.option.enableChargeAttack": "Увімкнути заряджену атаку",
+  "text.autoconfig.bestylewither.option.enableDoubleHealth": "Увімкнути подвійне здоров'я",
+  "text.autoconfig.bestylewither.option.enableMaintainWeakenedState": "Увімкнути підтримання ослабленого стану"
+}

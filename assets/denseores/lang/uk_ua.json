@@ -1,0 +1,22 @@
+{
+  "block.denseores.ancient_nether_ore": "Стародавня незерська руда",
+  "block.denseores.dense_coal_ore": "Щільна вугільна руда",
+  "block.denseores.dense_copper_ore": "Щільна мідна руда",
+  "block.denseores.dense_deepslate_coal_ore": "Щільна глибосланцева вугільна руда",
+  "block.denseores.dense_deepslate_copper_ore": "Щільна глибосланцева мідна руда",
+  "block.denseores.dense_deepslate_diamond_ore": "Щільна глибосланцева діамантова руда",
+  "block.denseores.dense_deepslate_emerald_ore": "Щільна глибосланцева смарагдова руда",
+  "block.denseores.dense_deepslate_gold_ore": "Щільна глибосланцева золота руда",
+  "block.denseores.dense_deepslate_iron_ore": "Щільна глибосланцева залізна руда",
+  "block.denseores.dense_deepslate_lapis_ore": "Щільна глибосланцева лазуритова руда",
+  "block.denseores.dense_deepslate_redstone_ore": "Щільна глибосланцева редстоунова руда",
+  "block.denseores.dense_diamond_ore": "Щільна діамантова руда",
+  "block.denseores.dense_emerald_ore": "Щільна смарагдова руда",
+  "block.denseores.dense_gold_ore": "Щільна золота руда",
+  "block.denseores.dense_iron_ore": "Щільна залізна руда",
+  "block.denseores.dense_lapis_ore": "Щільна лазуритова руда",
+  "block.denseores.dense_nether_gold_ore": "Щільна незерська золота руда",
+  "block.denseores.dense_nether_quartz_ore": "Щільна незерська кварцова руда",
+  "block.denseores.dense_redstone_ore": "Щільна редстоунова руда",
+  "itemGroup.denseores": "Dence Ores"
+}

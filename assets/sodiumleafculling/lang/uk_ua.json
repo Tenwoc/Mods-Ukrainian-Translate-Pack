@@ -1,0 +1,8 @@
+﻿{
+  "sodiumleafculling.options.leaf_culling.name": "Режим відсіювання листя",
+  "sodiumleafculling.options.leaf_culling.tooltip": "Якщо ця опція увімкнена, листя, що знаходиться за іншим листям, буде відсієно для підвищення продуктивності. Режим «Порожнистий» буде агресивно видаляти грані, а режим «Цільний» дозволить швидко відтворювати суцільні блоки листя, що знаходиться за іншим листям.",
+  "options.leaf_culling.none": "Вимкнено",
+  "options.leaf_culling.hollow": "Порожнистий",
+  "options.leaf_culling.solid": "Цільний",
+  "options.leaf_culling.solid_aggressive": "Агресивно цільний"
+}

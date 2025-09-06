@@ -1,0 +1,14 @@
+{
+  "block.autosmithingtable.auto_smithing_table": "Ковальський стіл (Авто)",
+  "item.autosmithingtable.auto_smithing_table": "Ковальський стіл (Авто)",
+
+  "container.autosmithingtable.title": "Покращення обладнання (Авто)",
+  "itemGroup.autosmithingtable": "Auto Smithing Table",
+
+  "message.autosmithingtable.change_side_to_0": "[§eAutoSmithingTable§r] §bСторона змінена на: Нічого",
+  "message.autosmithingtable.change_side_to_1": "[§eAutoSmithingTable§r] §bСторона змінена на: Базовий вхід",
+  "message.autosmithingtable.change_side_to_2": "[§eAutoSmithingTable§r] §bСторона змінена на: Додатковий вхід",
+  "message.autosmithingtable.change_side_to_3": "[§eAutoSmithingTable§r] §bСторона змінена на: Вивід",
+  "tooltip.autosmithingtable.sides": "ПКМ крадькома по бокам для їх налаштування",
+  "tooltip.autosmithingtable.jade_progress": "Прогрес: %d"
+}

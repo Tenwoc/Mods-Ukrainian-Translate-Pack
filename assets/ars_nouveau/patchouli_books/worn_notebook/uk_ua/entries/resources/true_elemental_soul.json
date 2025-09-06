@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:resources",
+  "icon": "adamsarsplus:true_elemental_soul",
+  "name": "item.adamsarsplus.true_elemental_soul",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.page.true_elemental_soul"
+    },
+    {
+      "type": "ars_nouveau:apparatus_recipe",
+      "recipe": "adamsarsplus:true_elemental_soul"
+    }
+  ]
+}

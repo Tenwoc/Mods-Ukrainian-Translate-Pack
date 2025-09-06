@@ -1,0 +1,20 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Любов",
+  "icon": "minecraft:rose_bush",
+  "entry_color": "C15600",
+  "flag": "bsm_love_potion",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Це зілля впливає на тварин і селян. Під дією цього зілля істота, на яку воно діє, буде бажати розмножуватися, хоча звичайне уповільнення розмноження все ще застосовується. Крім того, майже все, що перебуває під дією цього зілля, теоретично може бути зв'язане як $(l:bewitchment:rituals/binding)Фамільяр$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Love",
+      "item": "minecraft:rose_bush",
+      "text": "flooshed"
+    }
+  ]
+}

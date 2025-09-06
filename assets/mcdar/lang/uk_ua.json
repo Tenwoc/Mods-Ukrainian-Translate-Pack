@@ -1,0 +1,197 @@
+{
+  "itemGroup.mcdar.artifacts": "Артефакти MC Dungeons",
+
+  "item.mcdar.blast_fungus": "Вибуховий грибок",
+  "item.mcdar.boots_of_swiftness": "Чоботи спритності",
+  "item.mcdar.buzzy_nest": "Гніздо, що дзижчить",
+  "item.mcdar.corrupted_beacon": "Нечистий маяк",
+  "item.mcdar.corrupted_seeds": "Спотворені-насіння",
+  "item.mcdar.death_cap_mushroom": "Бліда поганка",
+  "item.mcdar.enchanted_grass": "Зачарована трава",
+  "item.mcdar.enchanters_tome": "Том чародія",
+  "item.mcdar.flaming_quiver": "Палаючий сагайдак",
+  "item.mcdar.ghost_cloak": "Примарний плащ",
+  "item.mcdar.golem_kit": "Комплект голема",
+  "item.mcdar.gong_of_weakening": "Гонг послаблення",
+  "item.mcdar.harpoon_quiver": "Сагайдак гарпунів",
+  "item.mcdar.harvester": "Жнець",
+  "item.mcdar.iron_hide_amulet": "Амулет залізної фортеці",
+  "item.mcdar.light_feather": "Легке перо",
+  "item.mcdar.lightning_rod": "Жезл блискавок",
+  "item.mcdar.love_medallion": "Медальйон кохання",
+  "item.mcdar.powershaker": "Громихалка",
+  "item.mcdar.satchel_of_elements": "Торбина стихій",
+  "item.mcdar.satchel_of_elixirs": "Торбина еліксирів",
+  "item.mcdar.satchel_of_snacks": "Торбина закусок",
+  "item.mcdar.shock_powder": "Шокуючий порошок",
+  "item.mcdar.soul_healer": "Цілитель душ",
+  "item.mcdar.tasty_bone": "Смачна кістка",
+  "item.mcdar.thundering_quiver": "Громовий сагайдак",
+  "item.mcdar.torment_quiver": "Сагайдак муки",
+  "item.mcdar.totem_of_regeneration": "Тотем регенерації",
+  "item.mcdar.totem_of_shielding": "Тотем захисту",
+  "item.mcdar.totem_of_soul_protection": "Тотем захисту душі",
+  "item.mcdar.updraft_tome": "Висхідний Фоліант",
+  "item.mcdar.wind_horn": "Ріг вітру",
+  "item.mcdar.wonderful_wheat": "Чудова пшениця",
+
+  "entity.mcdar.buzzy_nest_bee": "Жужжаче гніздо бджола бджола",
+  "entity.mcdar.enchanted_blue_sheep": "Зачарована синя вівця",
+  "entity.mcdar.enchanted_green_sheep": "Зачарована зелена вівця",
+  "entity.mcdar.enchanted_red_sheep": "Зачарована червона вівця",
+  "entity.mcdar.golem_kit_golem": "Комплект голема залізний голем",
+  "entity.mcdar.tasty_bone_wolf": "Смачна кістка вовк",
+  "entity.mcdar.wonderful_wheat_llama": "Чудова пшениця лама",
+
+  "death.attack.electricShock": "%s було вбито електрикою.",
+
+  "effect.mcdar.shielding": "Захист",
+  "effect.mcdar.soul_protection": "Захист душі",
+  "effect.mcdar.stunned": "Приглушений",
+
+  "enchantment.mcdar.beast_boss": "Цар звірів",
+  "enchantment.mcdar.beast_burst": "Звірячий вибух",
+  "enchantment.mcdar.beast_surge": "Сила звіра",
+  "enchantment.mcdar.cooldown": "Перезаряджання",
+
+  "enchantment.mcdar.beast_boss.desc": "Збільшує кількість шкоди, що завдають ваші вихованці.",
+  "enchantment.mcdar.beast_burst.desc": "Використання цілющого зілля спричиняє вибух на місці розташування ваших вихованців, який завдає шкоди вихованцеві та мобам навколо нього відповідно до рівня зачарування.",
+  "enchantment.mcdar.beast_surge.desc": "Використання зілля зцілення збільшує швидкість атаки і пересування ваших вихованців на 10 секунд.",
+  "enchantment.mcdar.cooldown.desc": "Зменшено час перезаряджання артефактів.",
+
+  "tooltip_info_item.mcdar.blast_fungus_1": "Тільки найхоробріші з воїнів носять",
+  "tooltip_info_item.mcdar.blast_fungus_2": "Вибуховий грибок. Не тільки через",
+  "tooltip_info_item.mcdar.blast_fungus_3": "його токсичні спори, а й тому-що",
+  "tooltip_info_item.mcdar.blast_fungus_4": "воно огидно пахне.",
+
+  "tooltip_info_item.mcdar.boots_of_swiftness_1": "Чоботи збагачені зачаруваннями",
+  "tooltip_info_item.mcdar.boots_of_swiftness_2": "щоб дозволити найшвидші рухи. Корисно",
+  "tooltip_info_item.mcdar.boots_of_swiftness_3": "у невпевнені часи як ці.",
+
+  "tooltip_info_item.mcdar.buzzy_nest_1": "Любителі бджіл і ЗЗЗакохані разом",
+  "tooltip_info_item.mcdar.buzzy_nest_2": "фанати дзижчання гнізда, але не",
+  "tooltip_info_item.mcdar.buzzy_nest_3": "будьте обмануті милими бджолами всередині -",
+  "tooltip_info_item.mcdar.buzzy_nest_4": "вони можуть дуже сильно вкусити!",
+
+  "tooltip_info_item.mcdar.corrupted_beacon_1": "Нечистий Маяк має величезну",
+  "tooltip_info_item.mcdar.corrupted_beacon_2": "силою всередині. Він чекає моменту,",
+  "tooltip_info_item.mcdar.corrupted_beacon_3": "щоб вивільнити свій гнів.",
+
+  "tooltip_info_item.mcdar.corrupted_seeds_1": "Мішок отруйного, спотвореного насіння",
+  "tooltip_info_item.mcdar.corrupted_seeds_2": "які виростають у шипасті хвацькі ліани,",
+  "tooltip_info_item.mcdar.corrupted_seeds_3": "хапаючи і повільно висмоктуючи",
+  "tooltip_info_item.mcdar.corrupted_seeds_4": "життя зі своїх жертв.",
+
+  "tooltip_info_item.mcdar.death_cap_mushroom_1": "З'їдається перед битвою зухвалими воїнами,",
+  "tooltip_info_item.mcdar.death_cap_mushroom_2": "Бліда Поганка вводить бійців",
+  "tooltip_info_item.mcdar.death_cap_mushroom_3": "у божевілля.",
+
+  "tooltip_info_item.mcdar.enchanted_grass_1": "Прямо як сильні герої хто",
+  "tooltip_info_item.mcdar.enchanted_grass_2": "приймають поклик у бій, також є і",
+  "tooltip_info_item.mcdar.enchanted_grass_3": "могутні зачаровані вівці які",
+  "tooltip_info_item.mcdar.enchanted_grass_4": "приєднуються до битви коли покликані.",
+
+  "tooltip_info_item.mcdar.enchanters_tome_1": "Призначений для використання тільки чарівниками,",
+  "tooltip_info_item.mcdar.enchanters_tome_2": "магія цього артефакту може закликати",
+  "tooltip_info_item.mcdar.enchanters_tome_3": "могутні зачарування.",
+
+  "tooltip_info_item.mcdar.flaming_quiver_1": "Цей сагайдак наповнений найсмертельнішими",
+  "tooltip_info_item.mcdar.flaming_quiver_2": "зі стріл.",
+
+  "tooltip_info_item.mcdar.ghost_cloak_1": "Душі заточені в примарному плащі",
+  "tooltip_info_item.mcdar.ghost_cloak_2": "турботливі, але вони випромінюють почуття",
+  "tooltip_info_item.mcdar.ghost_cloak_3": "меланхолії.",
+
+  "tooltip_info_item.mcdar.golem_kit_1": "Залізні големи завжди захищали",
+  "tooltip_info_item.mcdar.golem_kit_2": "Жителів цього світу. Їх ",
+  "tooltip_info_item.mcdar.golem_kit_3": "кількість виснажується внаслідок",
+  "tooltip_info_item.mcdar.golem_kit_4": "війни з розбійниками.",
+
+  "tooltip_info_item.mcdar.gong_of_weakening_1": "Цей древній гонг, позначений",
+  "tooltip_info_item.mcdar.gong_of_weakening_2": "символами безіменного королівства,",
+  "tooltip_info_item.mcdar.gong_of_weakening_3": "почувається безпечно у ваших руках, але видає",
+  "tooltip_info_item.mcdar.gong_of_weakening_4": "страхітливий гул тим, хто поруч.",
+
+  "tooltip_info_item.mcdar.harpoon_quiver_1": "Цей сагайдак містить невелику кількість гарпунів",
+  "tooltip_info_item.mcdar.harpoon_quiver_2": "які швидко пробивають ворогів на",
+  "tooltip_info_item.mcdar.harpoon_quiver_3": "суші або під водою.",
+
+  "tooltip_info_item.mcdar.harvester_1": "Жнець збирає душі",
+  "tooltip_info_item.mcdar.harvester_2": "мертвих, перед тим як випустити",
+  "tooltip_info_item.mcdar.harvester_3": "їх у кластер сили.",
+
+  "tooltip_info_item.mcdar.iron_hide_amulet_1": "Амулет Залізної Фортеці одночасно і стародавній",
+  "tooltip_info_item.mcdar.iron_hide_amulet_2": "і позачасовий. Пісок загадково і",
+  "tooltip_info_item.mcdar.iron_hide_amulet_3": "нескінченно прослизає через ущелини",
+  "tooltip_info_item.mcdar.iron_hide_amulet_4": "у залізі.",
+
+  "tooltip_info_item.mcdar.light_feather_1": "Ніхто не знає від якої загадкової істоти",
+  "tooltip_info_item.mcdar.light_feather_2": "прийшло це перо, але воно все так само",
+  "tooltip_info_item.mcdar.light_feather_3": "красиве і сильне.",
+
+  "tooltip_info_item.mcdar.lightning_rod_1": "Створене Розбійниками Некромантами, цей",
+  "tooltip_info_item.mcdar.lightning_rod_2": "предмет зачарований силою",
+  "tooltip_info_item.mcdar.lightning_rod_3": "громового неба.",
+
+  "tooltip_info_item.mcdar.love_medallion_1": "Заклинання виходить від цієї дрібнички,",
+  "tooltip_info_item.mcdar.love_medallion_2": "зачаровуючи оточуючих в транс,",
+  "tooltip_info_item.mcdar.love_medallion_3": "де вони повинні захищати власника",
+  "tooltip_info_item.mcdar.love_medallion_4": "медальйона за всяку ціну.",
+
+  "tooltip_info_item.mcdar.powershaker_1": "Громихалка це до біса гарний",
+  "tooltip_info_item.mcdar.powershaker_2": "час, не для ваших ворогів,",
+  "tooltip_info_item.mcdar.powershaker_3": "звісно ж.",
+
+  "tooltip_info_item.mcdar.satchel_of_elements_1": "Містика оточує цю древню торбину.",
+  "tooltip_info_item.mcdar.satchel_of_elements_2": "Чи випустить вона вогонь, лід,",
+  "tooltip_info_item.mcdar.satchel_of_elements_3": "або щось набагато менш приємне?",
+
+  "tooltip_info_item.mcdar.satchel_of_elixirs_1": "У торбині еліксирів завжди є.",
+  "tooltip_info_item.mcdar.satchel_of_elixirs_2": "саме ті зілля, які вам потрібні!",
+  "tooltip_info_item.mcdar.satchel_of_elixirs_3": "(Ну, принаймні на її думку,",
+  "tooltip_info_item.mcdar.satchel_of_elixirs_4": "що все одно дуже корисно).",
+
+  "tooltip_info_item.mcdar.satchel_of_snacks_1": "Торбина закускок забезпечить вас смаколиками",
+  "tooltip_info_item.mcdar.satchel_of_snacks_2": "тоді, коли ви цього найбільше потребуєте!",
+
+  "tooltip_info_item.mcdar.shock_powder_1": "Шокуючий порошок для тих,",
+  "tooltip_info_item.mcdar.shock_powder_2": "хто хоче зробити спритний вихід.",
+
+  "tooltip_info_item.mcdar.soul_healer_1": "Амулет цілителя душ холодний до тих",
+  "tooltip_info_item.mcdar.soul_healer_2": "хто його торкається і тремтить від сили",
+  "tooltip_info_item.mcdar.soul_healer_3": "душ. Воно дуже поширене між",
+  "tooltip_info_item.mcdar.soul_healer_4": "Розбійниками в Дерев'яних Особняках.",
+
+  "tooltip_info_item.mcdar.tasty_bone_1": "Ви чуєте далеке завивання коли",
+  "tooltip_info_item.mcdar.tasty_bone_2": "тримаєте Смачну Кістку в руці.",
+
+  "tooltip_info_item.mcdar.thundering_quiver_1": "Цей мідний сагайдак",
+  "tooltip_info_item.mcdar.thundering_quiver_2": "містить силу блискавок.",
+
+  "tooltip_info_item.mcdar.torment_quiver_1": "Сагайдак мук випромінює дуже сильну",
+  "tooltip_info_item.mcdar.torment_quiver_2": "енергію вичерпану з нескінченного джерела",
+  "tooltip_info_item.mcdar.torment_quiver_3": "неживих.",
+
+  "tooltip_info_item.mcdar.totem_of_regeneration_1": "Ця саморобна дерев'яна фігура випромінює",
+  "tooltip_info_item.mcdar.totem_of_regeneration_2": "тепло як від багаття,",
+  "tooltip_info_item.mcdar.totem_of_regeneration_3": "лікуючи тих, хто збирається навколо неї.",
+
+  "tooltip_info_item.mcdar.totem_of_shielding_1": "Цей тотем має містичні сили як щита",
+  "tooltip_info_item.mcdar.totem_of_shielding_2": "тих хто навколо нього від снарядів.",
+
+  "tooltip_info_item.mcdar.totem_of_soul_protection_1": "Це покращення Тотема",
+  "tooltip_info_item.mcdar.totem_of_soul_protection_2": "Безсмертя, створений Майстрами Викликачами,",
+  "tooltip_info_item.mcdar.totem_of_soul_protection_3": "може захистити не тільки власника.",
+
+  "tooltip_info_item.mcdar.updraft_tome_1": "Стародавня книга наповнена нерозбірливими",
+  "tooltip_info_item.mcdar.updraft_tome_2": "символами, ти відчуваєш дивний бриз коли",
+  "tooltip_info_item.mcdar.updraft_tome_3": "перегортаєш сторінки.",
+
+  "tooltip_info_item.mcdar.wind_horn_1": "Коли Ріг Вітру лунає луною через",
+  "tooltip_info_item.mcdar.wind_horn_2": "ліси світу істоти",
+  "tooltip_info_item.mcdar.wind_horn_3": "ночі тремтять від страху.",
+
+  "tooltip_info_item.mcdar.wonderful_wheat_1": "Цей предмет має тьмяний запах",
+  "tooltip_info_item.mcdar.wonderful_wheat_2": "відкритого поля, спеченого хліба, і свіжо",
+  "tooltip_info_item.mcdar.wonderful_wheat_3": "зрізаних рослин."
+}

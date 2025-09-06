@@ -1,0 +1,25 @@
+{
+  "itemGroup.bambooeverything.bambooeverything": "Bamboo Everything",
+  "block.bambooeverything.bamboo_ladder": "Бамбукова драбина",
+  "block.bambooeverything.bamboo_fence": "Бамбуковий паркан",
+  "block.bambooeverything.bamboo_fence_gate": "Бамбукова хвіртка",
+  "block.bambooeverything.bamboo_door": "Бамбукові двері",
+  "block.bambooeverything.bamboo_trapdoor": "Бамбуковий люк",
+  "block.bambooeverything.bamboo_bundle": "Бамбукова в'язка",
+  "block.bambooeverything.bamboo_stairs": "Бамбукові сходи",
+  "block.bambooeverything.bamboo_slab": "Бамбукова плита",
+  "block.bambooeverything.bamboo_torch": "Бамбуковий смолоскип",
+  "item.bambooeverything.bamboo_raft": "Бамбуковий пліт",
+
+  "item.bambooeverything.dry_bamboo": "Висушений бамбук",
+  "block.bambooeverything.dry_bamboo_ladder": "Суха бамбукова драбина",
+  "block.bambooeverything.dry_bamboo_fence": "Сухий бамбуковий паркан",
+  "block.bambooeverything.dry_bamboo_fence_gate": "Суха бамбукова хвіртка",
+  "block.bambooeverything.dry_bamboo_door": "Сухі бамбукові двері",
+  "block.bambooeverything.dry_bamboo_trapdoor": "Сухий бамбуковий люк",
+  "block.bambooeverything.dry_bamboo_bundle": "Суха бамбукова в'язка",
+  "block.bambooeverything.dry_bamboo_stairs": "Сухі бамбукові сходи",
+  "block.bambooeverything.dry_bamboo_slab": "Суха бамбукова плита",
+  "block.bambooeverything.dry_bamboo_torch": "Сухий бамбуковий смолоскип",
+  "item.bambooeverything.dry_bamboo_raft": "Сухий бамбуковий пліт"
+}

@@ -1,0 +1,21 @@
+{
+  "item.queen_bee.stinger": "Жало",
+  "item.queen_bee.queen_bee_spawn_egg": "Яйце виклику королеви бджіл",
+  "item.queen_bee.stinger_sword": "Жаломеч",
+  "item.queen_bee.antenna": "Вусик",
+
+  "tooltip.queen_bee.item.shift_up": "↓ Shift - інформація!",
+  "tooltip.queen_bee.stinger_sword": "Коли вусик споряджено, натисніть Shift+ПКМ, щоб викликати дружню бджолу, що дасть вам та друзям поблизу ефект регенерації. Також цей меч накладає отруєння та нудоту.",
+  "tooltip.queen_bee.antenna": "Коли споряджено, бджоли ніколи не злитимуться на вас.",
+
+  "advancement.queen_bee.it_shouldnt_bee_edible.title": "Жалючий смаколик",
+  "advancement.queen_bee.it_shouldnt_bee_edible.descr": "З'їжте бджолине жало",
+  "advancement.queen_bee.im_the_queen.title": "Я королева",
+  "advancement.queen_bee.im_the_queen.descr": "Подолайте королеву бджіл та отримайте її антени",
+  "advancement.queen_bee.root.title": "Мод Queen Bee",
+  "advancement.queen_bee.root.descr": "Досягнення моду Queen Bee",
+
+  "entity.queen_bee.queen_bee": "Королева бджіл",
+
+  "itemGroup.queen_bee": "Queen Bee"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Маска сили",
+  "icon": "archon:mask_of_power",
+  "category": "archon:mana",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:mask_of_power",
+      "text": "Маска сили - шолом діамантового рівня, що прискорює відновлення мани власника до $(#2895CB)4 мани на секунду$(). Маска сили не поєднується зі сувоєм Прискорення."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:mask_of_power"
+    }
+  ]
+}

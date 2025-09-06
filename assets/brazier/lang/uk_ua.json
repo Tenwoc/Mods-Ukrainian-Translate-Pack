@@ -1,0 +1,22 @@
+{
+  "block.brazier.brazier": "Жаровня",
+  "block.brazier.living_torch": "Живий смолоскип",
+  "block.brazier.living_lantern": "Живий ліхтар",
+  "block.brazier.spawn_powder": "Проклятий попіл",
+  "item.brazier.living_flame": "Живе полум'я",
+  "item.brazier.icon": "Клацність ПКМ по жаровні",
+  "entity.brazier.crazed_flame": "Скажене полум'я",
+  "item.brazier.crazed_spawn_egg": "Яйце виклику божевільного",
+  "item.brazier.ash": "Попіл",
+  "item.brazier.warped_nether_wart": "Химерний незерський наріст",
+  "entity.brazier.crazed": "Божевільний",
+  "advancements.brazier.place_brazier.title": "Геть, демоне!",
+  "advancements.brazier.place_brazier.description": "Поставте жаровню та відганяйте нічних монстрів",
+  "description.brazier.brazier-1": "Жаровня - це маякоподібний мультиблок, який запобігає появі ворожих мобів у певному радіусі.",
+  "description.brazier.brazier-2": "\nНа ньому можна запалити звичайний смолоскип, створивши живий смолоскип.\nДержачи живий смолоскип, ви можете бачити обриси зони, що охороняється, коли наближаєтеся до жаровні",
+  "category.brazier.light_on_brazier": "Запалюється на жаровні",
+  "tag.item.brazier.ash": "Пил",
+  "tag.item.brazier.torches": "Смолоскипи",
+  "tag.block.brazier.brazier_base_blocks": "Блоки основи для жаровні",
+  "tag.block.brazier.brazier_stripe_blocks": "Блоки смуг для жаровні"
+}

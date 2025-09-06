@@ -1,0 +1,13 @@
+{
+  "gui.darkmodeeverywhere.dark_mode": "Темний режим",
+  "gui.darkmodeeverywhere.light_mode": "Світлий режим",
+  "gui.darkmodeeverywhere.perfect_dark": "Ідеальна темний",
+  "gui.darkmodeeverywhere.less_perfect_dark": "Менш ідеальний темний",
+  "gui.darkmodeeverywhere.toasted_light": "Підсмажений світлий режим",
+  "gui.tooltip.darkmodeeverywhere.shader_switch_tooltip": " * Використовуйте клавішу shift для переходу до світлого режиму",
+  "config.darkemodeeverywhere.method_shader_blacklist": "Список рядків class:method (методів рендерингу), до яких не буде застосовано темний шейдер.\\nКожен рядок складається з класу та методу (або будь-якого підрядка) для блокування темного шейдера.\\nНаприклад, 'renderHunger' достатньо для блокування 'net.minecraftforge.client.gui.overlay.ForgeGui:renderFood' (обидва працюватимуть)",
+  "config.darkemodeeverywhere.method_shader_dump": "Увімкнення цього конфігуратора буде (кожні 5 секунд) створювати дамп методів рендерингу графічних інтерфейсів, до яких було застосовано темний шейдер\\nДамп складатиметься зі списку рядків class:method, наприклад, 'net.minecraftforge.client.gui.overlay.ForgeGui:renderFood'\\nВикористовуйте цю функцію для пошуку рядків методів рендерингу графічних інтерфейсів, які ви бажаєте внести до чорного списку.",
+  "config.darkemodeeverywhere.button_position_x": "Відстань у пікселях від лівого краю графічного інтерфейсу по осі x",
+  "config.darkemodeeverywhere.button_position_y": "Відстань у пікселях від нижньої частини графічного інтерфейсу за віссю y",
+  "config.darkmodeeverywhere.enabled": "Увімкнено"
+}

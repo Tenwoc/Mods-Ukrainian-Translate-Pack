@@ -1,0 +1,74 @@
+{
+    "item.rftoolsbase.network_monitor": "Монітор радіочастотної мережі",
+    "item.rftoolsbase.teleport_probe": "Телепортаційний зонд",
+    "item.rftoolsbase.filter_module": "Модуль фільтрів",
+    "item.rftoolsbase.developers_delight": "Задоволення розробників",
+    "item.rftoolsbase.shard_wand": "Паличка уламків",
+    "item.rftoolsbase.orphaning_card": "Картка сироти",
+    "item.rftoolsbase.security_card": "Картка безпеки",
+    "item.rftoolsbase.infused_diamond": "Інфузійний діамант",
+    "item.rftoolsbase.infused_enderpearl": "Інфузійна перлина Енду",
+    "item.rftoolsbase.smartwrench": "Розумний ключ",
+    "item.rftoolsbase.smartwrench_select": "Розумний ключ (на вибір)",
+    "item.rftoolsbase.dimensionalshard": "Вимірний уламок",
+    "item.rftoolsbase.machine_frame": "Рама машини",
+    "item.rftoolsbase.machine_base": "Основа машини",
+    "item.rftoolsbase.crafting_card": "Картка майстерності",
+    "item.rftoolsbase.tablet": "Планшет (порожній)",
+    "item.rftoolsbase.tablet_filled": "Планшет (заповнений)",
+    "item.rftoolsbase.manual": "Технологічний посібник",
+
+    "block.rftoolsbase.machine_infuser": "Інфузийна машина",
+    "block.rftoolsbase.security_manager": "Менеджер з безпеки",
+    "block.rftoolsbase.dimensionalshard_overworld": "Руда вимірних уламків",
+    "block.rftoolsbase.dimensionalshard_nether": "Незерська руда вимірних уламків",
+    "block.rftoolsbase.dimensionalshard_end": "Руда вимірних уламків Енду",
+    "block.rftoolsbase.information_screen": "Інформаційний екран",
+
+    "_comment": "Творчі вкладки",
+    "itemGroup.rftoolsbase": "RFTools Base",
+
+    "_comment": "Клавіші",
+    "key.categories.rftools": "RFTools",
+    "key.debugDumpNBTItem": "Дамп NBT для утримуваного предмета",
+    "key.debugDumpNBTBlock": "Дамп NBT для виділеного блоку",
+    "key.nextDestination": "Цикл до наступної цілі",
+    "key.prevDestination": "Цикл до попередньої цілі",
+
+    "_comment": "Повідомлення",
+    "message.rftoolsbase.shiftmessage": "<Натисніть Shift для подробиць>",
+    "<Press F1 for help>": "<Натисніть F1 для допомоги>",
+
+    "message.rftoolsbase.crafting_card.header": "Цей предмет можна використовувати для крафтингу. Він зберігає інгредієнти та кінцевий результат для рецепта",
+    "message.rftoolsbase.crafting_card.info": "Елемент: ",
+
+    "message.rftoolsbase.information_screen.header": "Помістіть цей блок на предмет живлення, щоб відобразити інформацію про цей предмет. Клацніть ПКМ з гайковим ключем, щоб змінити режим",
+    "message.rftoolsbase.information_screen.gold": "Цей блок також може відображати інформацію про потужність будь-якого блоку, який підтримує RF/FE",
+
+    "message.rftoolsbase.machine_infuser.header": "За допомогою цієї машини ви можете покращити більшість інших машин у RFTools різними способами. Для цього потрібні вимірні уламки",
+    "message.rftoolsbase.machine_infuser.gold": "Бонус для інфузії: зменшене енергоспоживання",
+
+    "message.rftoolsbase.filter_module.header": "Цей модуль фільтрації використовується в різних ситуаціях (XNet, сховище, будівельник, майстер, ...). Він може переконатися, що блок приймає лише певні предмети",
+    "message.rftoolsbase.filter_module.gold": "Клацніть ПКМ на інвентарі, щоб налаштувати на основі вмісту, або клацніть ПКМ на блоці, щоб додати цей блок до фільтра",
+    "message.rftoolsbase.filter_module.info": "Режим: ",
+
+    "message.rftoolsbase.manual.header": "Цей посібник є інструкцією для всіх технологічних режимів на основі RFTools",
+
+    "message.rftoolsbase.tablet.header": "Планшет, який можна використовувати для пошуку віддалених інструкцій та інформації",
+    "message.rftoolsbase.tablet.gold": "Порожня табличка: відкрийте довідник, щоб об'єднати його з можливим предметом інформації про табличку",
+
+    "message.rftoolsbase.tablet_filled.header": "Планшет, який можна використовувати для посилання на віддалені підказки та інформацію",
+    "message.rftoolsbase.tablet_filled.gold": "Планшет з інформацією: клацніть ПКМ для виклику інформаційної довідки, клацніть ПКМ для виклику довідки планшета",
+
+    "message.rftoolsbase.smartwrench.header": "Загальний розумний ключ. Клацніть ПКМ по повітрю, щоб змінити режим",
+    "message.rftoolsbase.smartwrench.gold": "Використовуйте як звичайний ключ: клацніть ПКМ, щоб підняти, і клацніть ПКМ, щоб повернути",
+    "message.rftoolsbase.smartwrench.info1": "Режим: ",
+    "message.rftoolsbase.smartwrench.info2": "Блокування: ",
+
+    "message.rftoolsbase.smartwrench_select.header": "Загальний розумний ключ. Клацніть ПКМ по повітрю, щоб змінити режим",
+    "message.rftoolsbase.smartwrench_select.gold": "Використовувати як селектор блоків: клацніть ПКМ, щоб вибрати основний блок, і клацніть ПКМ, щоб зв'язати блоки з основним",
+    "message.rftoolsbase.smartwrench_select.info1": "Режим: ",
+    "message.rftoolsbase.smartwrench_select.info2": "Блок: ",
+
+    "message.rftoolsbase.security_manager": "@aВміст: %s стосів\n@fЦей блок керує вашими картками безпеки"
+}

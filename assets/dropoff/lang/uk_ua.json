@@ -1,0 +1,7 @@
+{
+  "dropoff.dump_nearby" : "Розподілити до найближчих скринь",
+  "dropoff.quick_stack" : "Скласти наявне до найближчих скринь",
+  "dropoff.key.dump": "Розподілити",
+  "dropoff.key.deposit": "Скласти",
+  "dropoff.tooltip.favorited" : "В обраному!"
+}

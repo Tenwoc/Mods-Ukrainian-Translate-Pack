@@ -1,0 +1,18 @@
+{
+  "name": "Пляшки для досвіду",
+  "icon": "archon:super_experience_pouch",
+  "category": "archon:misc",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:experience_pouch",
+      "text": "Пляшки для досвіду використовуються для зручного його зберігання. Натисніть ПКМ і пляшечка відкриється, а далі ви вирішуєте - залишити досвід чи забрати його. Прості пляшечки можуть вміщати до 200 досвіду, а великі - до 400."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:experience_pouch",
+      "recipe2": "archon:super_experience_pouch"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "woken_up",
+  "trust_required": 80,
+  "text": "Ну, якщо це не Лінк ....  т-тобто $player_name!"
+
+}

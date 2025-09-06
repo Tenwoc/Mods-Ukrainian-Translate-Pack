@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:armor",
+  "icon": "adamsarsplus:thread_sixeyes",
+  "name": "item.adamsarsplus.thread_sixeyes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.perk_desc.thread_sixeyes"
+    },
+    {
+      "type": "ars_nouveau:apparatus_recipe",
+      "recipe": "adamsarsplus:thread_sixeyes"
+    }
+  ],
+  "sortnum": 99
+}

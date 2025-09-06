@@ -1,0 +1,16 @@
+{
+    "carryon.category.settings": "Налаштування",
+    "carryon.category.blacklist": "Чорний лсписок",
+    "carryon.category.modeloverrides": "Перевизначення моделі (Просунуте)",
+    "carryon.category.custompickupconditions": "Умови індивідуального самовивозу (Просунуті)",
+    "carryon.category.whitelist": "Білий список",
+
+    "carryon.general.modeloverrides.modeloverrides": "Перевизначення моделі",
+    "carryon.general.blacklist.forbiddenentities": "Сутності, яких гравець не може підняти",
+    "carryon.general.blacklist.forbiddentiles": "Блоки, які гравець не може підняти",
+    "carryon.category.custompickupconditions.custompickupconditionsblocks": "Користувацькі умови підняття блоків",
+    "carryon.category.custompickupconditions.custompickupconditionsentities": "Користувацькі умови підняття сутностей",
+
+    "key.carry.desc": "Переносити",
+    "key.carry.category": "Carry On"
+}

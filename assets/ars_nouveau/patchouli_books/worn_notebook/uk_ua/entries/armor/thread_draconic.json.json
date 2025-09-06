@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:armor",
+  "icon": "adamsarsplus:thread_draconic",
+  "name": "item.adamsarsplus.thread_draconic",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.perk_desc.thread_draconic"
+    },
+    {
+      "type": "ars_nouveau:apparatus_recipe",
+      "recipe": "adamsarsplus:thread_draconic"
+    }
+  ],
+  "sortnum": 99
+}

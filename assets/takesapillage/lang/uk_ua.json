@@ -1,0 +1,55 @@
+{
+
+  "item.takesapillage.archer_spawn_egg": "Яйце виклику лучника",
+  "item.takesapillage.skirmisher_spawn_egg": "Яйце виклику скірмішера",
+  "item.takesapillage.legioner_spawn_egg": "Яйце виклику легіонера",
+
+  "item.takesapillage.ravager_horn": "Ріг руйнівника",
+  "item.takesapillage.bastille_blues_music_disc": "Музичний диск",
+  "item.takesapillage.bastille_blues_music_disc.desc": "izofar - Bastille Blues",
+
+  "entity.takesapillage.clay_golem": "Глиняний ґолем",
+  "entity.takesapillage.archer": "Лучник",
+  "entity.takesapillage.skirmisher": "Скірмішер",
+  "entity.takesapillage.legioner": "Легіонер",
+
+  "subtitle.takesapillage.entity.clay_golem.attack": "Глиняний ґолем атакує",
+  "subtitle.takesapillage.entity.clay_golem.damage": "Глиняний ґолем ламається",
+  "subtitle.takesapillage.entity.clay_golem.death": "Глиняний ґолем гине",
+  "subtitle.takesapillage.entity.clay_golem.hurt": "Глиняного ґолема поранено",
+  "subtitle.takesapillage.entity.clay_golem.repair": "Глиняного ґолема відновлено",
+  "subtitle.takesapillage.entity.clay_golem.step": "Глиняний ґолем крокує",
+
+  "subtitle.takesapillage.entity.legioner.ambient": "Легіонер бурчить",
+  "subtitle.takesapillage.entity.legioner.celebrate": "Легіонер святкує",
+  "subtitle.takesapillage.entity.legioner.death": "Легіонер гине",
+  "subtitle.takesapillage.entity.legioner.hurt": "Легіонера поранено",
+
+  "advancements.takesapillage.root.title": "Потрібно пограбувати",
+  "advancements.takesapillage.root.description": "Досліджуйте верхній світ у пошуках нових споруд!",
+  "advancements.takesapillage.bastille.title": "Ой-ой-ой, ой-ой!",
+  "advancements.takesapillage.bastille.description": "Знайти Бастилію",
+  "advancements.takesapillage.pillager_camp.title": "Пісня біля вогнища",
+  "advancements.takesapillage.pillager_camp.description": "Знайдіть табір мародерів",
+
+  "death.attack.clay_golem": "%1$s був побитий %2$s",
+  "death.attack.clay_golem.item": "%1$s побив %2$s, використовуючи %3$s",
+  "death.attack.archer": "%1$s застрелив %2$s.",
+  "death.attack.archer.item": "%1$s зарізав %2$s, використовуючи %3$s",
+  "death.attack.skirmisher": "%1$s був порубаний на шматки %2$s",
+  "death.attack.skirmisher.item": "%1$s був порубаний на шматки %2$s, орудуючи %3$s",
+  "death.attack.legioner": "%1$s зарізав %2$s.",
+  "death.attack.legioner.item": "%1$s був убитий %2$s, озброєним %3$s",
+
+  "takesapillage.configGui.title": "Потрібно пограбування - конфігурація",
+  "takesapillage.configGui.replaceIronGolems.title": "Народжується глиняний ґолем",
+  "takesapillage.configGui.peacefulGolemRate.title": "Заміна глиняного ґолема мирної складності",
+  "takesapillage.configGui.easyGolemRate.title": "Легка заміна глиняного ґолема",
+  "takesapillage.configGui.normalGolemRate.title": "Заміна глиняного ґолема нормальної складності",
+  "takesapillage.configGui.hardGolemRate.title": "Заміна глиняного ґолема важкої складності",
+  "takesapillage.configGui.removeBadOmen.title": "Молоко знімає поганий знак",
+  "takesapillage.configGui.pillageSiegesOccur.title": "Мародерство Облоги",
+
+  "instrument.takesapillage.raid_horn": "Ріг рейду"
+
+}

@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.forgivingvoid.title": "Forgiving Void",
+  "text.autoconfig.forgivingvoid.option.triggerAtY": "Спрацювання на Y",
+  "text.autoconfig.forgivingvoid.option.damageOnFall": "Шкода при падінні",
+  "text.autoconfig.forgivingvoid.option.fallingHeight": "Висота падіння",
+  "text.autoconfig.forgivingvoid.option.preventDeath": "Запобігти смерті",
+  "text.autoconfig.forgivingvoid.option.triggerInOverworld": "Спрацювання у верхньому світі",
+  "text.autoconfig.forgivingvoid.option.triggerInNether": "Спрацювання у Незері",
+  "text.autoconfig.forgivingvoid.option.triggerInEnd": "Спрацювання у Енді",
+  "text.autoconfig.forgivingvoid.option.disableVanillaAntiCheatWhileFalling": "Вимкнути ванільний античит під час падіння",
+  "text.autoconfig.forgivingvoid.option.dimensionAllowList": "Список дозволених вимірів",
+  "text.autoconfig.forgivingvoid.option.dimensionDenyList": "Список заборонених вимірів"
+}

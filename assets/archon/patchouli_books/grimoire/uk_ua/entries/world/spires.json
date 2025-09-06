@@ -1,0 +1,20 @@
+{
+  "name": "Шпиль",
+  "icon": "minecraft:deepslate_bricks",
+  "category": "archon:world",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Цей вид веж можна знайти високо в лісах і горах. Всередині можна знайти $(l:archon:mana/scrolls)сувої$(), блискучі злитки, хліб і лазурит. Також вам зустрінуться $(l:archon:misc/mana_leech)мана-п'явки$()."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "archon:textures/gui/book/spire.png"
+      ],
+      "title": "Шпиль",
+      "border": true
+    }
+  ]
+}

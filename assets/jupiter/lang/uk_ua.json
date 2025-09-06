@@ -1,0 +1,21 @@
+{
+  "jupiter.screen.back": "Назад",
+  "jupiter.screen.button.remove": "Очистити",
+  "jupiter.screen.button.reset": "Скинути",
+  "jupiter.screen.check_server": "Перевірка дозволу...",
+  "jupiter.screen.client_config": "Налаштування клієнта",
+  "jupiter.screen.config_list.title": "Список налаштувань Jupiter",
+  "jupiter.screen.current_modifying_client": "Поточне змінене налаштування клієнта",
+  "jupiter.screen.current_modifying_dedicate_server": "Поточне змінене налаштування виділеного сервера",
+  "jupiter.screen.current_modifying_local_server": "Поточне змінене налаштування локального сервера",
+  "jupiter.screen.disable_client": "Налаштування клієнта вимкнені або не надані",
+  "jupiter.screen.disable_server": "Немає дозволу",
+  "jupiter.screen.error_server": "Отримано недійсні дані налаштувань сервера",
+  "jupiter.screen.open": "Відкрити налаштування",
+  "jupiter.screen.open_client": "Відкрити налаштування клієнта",
+  "jupiter.screen.open_server": "Відкрити налаштування сервера",
+  "jupiter.screen.restart_required": "(Потребує перезапуску)",
+  "jupiter.screen.server_config": "Налаштування сервера",
+  "jupiter.toast.upload_config_error_content": "У дозволі відмовлено",
+  "jupiter.toast.upload_config_error_title": "Не вдалося змінити налаштування сервера"
+}

@@ -1,0 +1,9 @@
+{
+  "item.zipline.zipline": "Тиролька",
+  "itemGroup.zipline.zipline": "Zipline",
+
+  "subtitles.zipline.zipline.use": "Тиролька ковзе",
+  "subtitles.zipline.zipline.attach": "Тирольку закреплено",
+  "subtitles.zipline.zipline.detach": "Тиролька відкреплюється",
+  "subtitles.zipline.zipline.interrupt": "Ковзання на тирольці перервано"
+}

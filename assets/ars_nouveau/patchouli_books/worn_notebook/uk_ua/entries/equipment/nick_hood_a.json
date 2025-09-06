@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:equipment",
+  "icon": "adamsarsplus:nick_hood_a",
+  "name": "item.adamsarsplus.nick_hood_a",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.page.nick_hood_a"
+    },
+    {
+      "type": "ars_nouveau:apparatus_recipe",
+      "recipe": "adamsarsplus:nick_hood_a"
+    }
+  ]
+}

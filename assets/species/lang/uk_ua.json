@@ -1,0 +1,91 @@
+{
+  "itemGroup.species.species": "Species",
+
+  "entity.species.wraptor": "Раптор",
+  "block.species.wraptor_egg": "Яйце раптора",
+  "block.species.cracked_wraptor_egg": "Тріснуте яйце раптора",
+  "item.species.cracked_wraptor_egg": "Тріснуте яйце раптора",
+  "item.species.wraptor_spawn_egg": "Яйце виклику раптора",
+
+  "effect.species.wither_resistance": "Стійкість до висушування",
+
+  "subtitles.entity.species.wraptor.aggro": "Раптор каркає",
+  "subtitles.entity.species.wraptor.agitated": "Раптор репетує",
+  "subtitles.entity.species.wraptor.attack": "Раптор дзьобає",
+  "subtitles.entity.species.wraptor.death": "Раптор гине",
+  "subtitles.entity.species.wraptor.hurt": "Раптор поранено",
+  "subtitles.entity.species.wraptor.idle": "Раптор кудкудакає",
+  "subtitles.entity.species.wraptor.shear": "Ножиці ріжуть",
+  "subtitles.entity.species.wraptor.step": "Раптор крокує",
+  "subtitles.entity.species.wraptor.feather_loss": "Раптор втрачає пір'я",
+  "subtitles.entity.species.wraptor.egg": "Раптор відкладає яйце",
+  "subtitles.block.species.wraptor_egg.crack": "Яйце раптора тріскається",
+  "subtitles.block.species.wraptor_egg.hatch": "Яйце раптора розбивається",
+  "subtitles.item.species.cracked_wraptor_egg.slurp": "Хлюпи",
+
+  "advancements.species.shear_wraptor_completely.title": "Розумниця",
+  "advancements.species.shear_wraptor_completely.description": "Пострижіть Скорпіона і зіткніться з наслідками",
+  "advancements.species.hatch_wraptor.title": "Жорстка любов",
+  "advancements.species.hatch_wraptor.description": "Розбийте яйце раптора за допомогою ковадла",
+
+  "entity.species.deepfish": "Глибоководна риба",
+  "item.species.deepfish_spawn_egg": "Нерестова ікра глибоководної риби",
+  "item.species.deepfish_bucket": "Відро глибоководної риби",
+
+  "subtitles.entity.species.deepfish.flop": "Глибоководна риба плаває",
+  "subtitles.entity.species.deepfish.death": "Глибоководна риба гине",
+  "subtitles.entity.species.deepfish.hurt": "Глибоководну рибу поранено",
+  "subtitles.entity.species.deepfish.idle": "Глибоководна риба кричить",
+
+  "advancements.species.deepfish_in_a_bucket.title": "Пісня глибин",
+  "advancements.species.deepfish_in_a_bucket.description": "Лови рибу у відро",
+
+  "entity.species.roombug": "Кімнатний клоп",
+  "item.species.roombug_spawn_egg": "Ікра кімнатного клопа",
+
+  "subtitles.entity.species.roombug.eat": "Кімнатний клоп їсть",
+  "subtitles.entity.species.roombug.death": "Кімнатний клоп гине",
+  "subtitles.entity.species.roombug.hurt": "Кімнатного клопа поранено",
+  "subtitles.entity.species.roombug.idle": "Кімнатний клоп клацає",
+  "subtitles.entity.species.roombug.snoring": "Кімнатний клоп хропе",
+  "subtitles.entity.species.roombug.step": "Кімнатний клоп крокує",
+
+  "entity.species.birt": "Берт",
+  "entity.species.birt_egg": "Яйце берта",
+  "item.species.birt_spawn_egg": "Яйце виклику берта",
+  "item.species.birt_egg": "Яйце берта",
+  "block.species.birt_dwelling": "Житло берта",
+
+  "item.species.music_disc_dial": "Платівка",
+  "item.species.music_disc_dial.desc": "bunten - dial",
+
+  "effect.species.birtd": "Бертовано",
+
+  "subtitles.entity.species.birt.death": "Берт гине",
+  "subtitles.entity.species.birt.hurt": "Берт поранено",
+  "subtitles.entity.species.birt.idle": "Берт щебече",
+  "subtitles.entity.species.birt.fly": "Берт літає",
+  "subtitles.entity.species.birt.message": "Берт спілкується",
+  "subtitles.entity.birtd": "Берти спричиняють плутанину",
+  "subtitles.block.species.birt_dwelling.collect": "Яйце берта зібране",
+  "subtitles.block.species.birt_dwelling.enter": "Пташка заходить у житло",
+  "subtitles.block.species.birt_dwelling.exit": "Берт вилітає з житла",
+  "subtitles.block.species.birt_dwelling.work": "Берти будують",
+  "subtitles.item.species.birt_egg.throw": "Берт кидає яйце",
+  "subtitles.item.species.birt_egg.hit": "Яйце Берта вдаряється об щось",
+
+  "advancements.species.birt_egg_at_warden.title": "Берт - це слово, слово - не берт.",
+  "advancements.species.birt_egg_at_warden.description": "Кинь яйце берта у наглядача і залишишся живим, щоб розповісти цю історію",
+
+  "entity.species.limpet": "Лімпет",
+  "item.species.limpet_spawn_egg": "Яйце лімпета",
+
+  "subtitles.entity.species.limpet.death": "Лімпет гине",
+  "subtitles.entity.species.limpet.hurt": "Лімпета поранено",
+  "subtitles.entity.species.limpet.idle": "Лімпет пищить",
+  "subtitles.entity.species.limpet.step": "Лімпет крокує",
+  "subtitles.entity.species.limpet.deflect": "Лімпет відхиляється",
+
+  "advancements.species.silk_touch_break_limpet.title": "Наслідки приховування",
+  "advancements.species.silk_touch_break_limpet.description": "Розбийте панцир лімпета за допомогою Шовкового дотику"
+}

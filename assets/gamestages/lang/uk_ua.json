@@ -1,0 +1,17 @@
+{
+  "commands.gamestage.add.sender": "Етап %s розблоковано для %s!",
+  "commands.gamestage.add.target": "Ви розблокували етап %s!",
+  "commands.gamestage.remove.sender": "Етап %s вилучено для %s!",
+  "commands.gamestage.remove.target": "Ви втратили доступ до етапу %s!",
+  "commands.gamestage.check.failure": "%s не має доступу до етапу %s",
+  "commands.gamestage.check.success": "%s має етап %s",
+  "commands.gamestage.info.empty": "%s не має розблокованих етапів.",
+  "commands.gamestage.info.stages": "%s має наступні етапи. %s",
+  "commands.gamestage.clear.sender": "%d етапів знято з %s",
+  "commands.gamestage.clear.target": "Ви втратили %d етапів!",
+  "commands.gamestage.playeronly": "Вибачте, тільки для гравців!",
+  "commands.gamestage.reloadfakes.info": "Перезавантажено етапи фальшивих гравців.",
+  "commands.gamestage.reloadknown.info": "Завантажено %d відомих етапів.",
+  "commands.gamestage.all.target": "Ви розблокували всі відомі етапи!",
+  "commands.gamestage.all.sender": "%s розблокував усі відомі етапи!"
+}

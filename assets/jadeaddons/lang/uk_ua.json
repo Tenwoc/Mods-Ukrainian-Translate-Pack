@@ -1,0 +1,34 @@
+{
+"config.waila.plugin_secretroomsmod.jadeaddons": "Увімкнено",
+"config.waila.plugin_create.blaze_burner": "Полум'яний пальник",
+"config.waila.plugin_create.crafting_blueprint": "Креслення креслення для крафтингу",
+"config.waila.plugin_create.placard": "Плакат",
+"config.waila.plugin_create.contraption_inv": "Інвентар споруди",
+"config.waila.plugin_create.exact_block": "Точний блок споруди",
+"config.waila.plugin_tconstruct.casting_table": "Ливарний стіл",
+"config.waila.plugin_tconstruct.drain": "Дренаж і повітропровід",
+"config.waila.plugin_mcjtylib.jadeaddons": "Увімкнено",
+"config.waila.plugin_deepresonance.crystal": "Кристал",
+"config.waila.plugin_deepresonance.generator_part": "Частина генератора",
+"config.waila.plugin_lootr.info": "Інформація",
+
+"jadeaddons.mcjtylib.infused": "Заповнення: %s%%",
+"jadeaddons.mcjtylib.ownedBy": "Власник: %s",
+"jadeaddons.mcjtylib.ownedBy.withChannel": "Створено: %s (канал %s) %s (канал %s)",
+"jadeaddons.mcjtylib.ownedBy.warning": "Попередження! Право власності встановлено невірно! Будь ласка, встановіть блок ще раз!",
+
+"jadeaddons.deepresonance.sep": "Сила/Ефективність/Чистота %s%% %s%% %s%%",
+"jadeaddons.deepresonance.crystalPower": "Потужність: %s%% (%s RF/t)",
+"jadeaddons.deepresonance.id": "Ідентифікатор %s",
+"jadeaddons.deepresonance.collectors": "Колектори: %s",
+"jadeaddons.deepresonance.generators": "Генератори: %s",
+
+"jadeaddons.lootr.decay": "Розпад в: %ss",
+"jadeaddons.lootr.refresh": "Оновити в: %ss",
+"jadeaddons.lootr.refreshed": "Оновлено!",
+
+"entity.tconstruct.glow_ball": "Сяйна куля",
+"entity.tconstruct.efln_ball": "EFLN",
+"entity.tconstruct.flint_shuriken": "Крем'яний сюрікен",
+"entity.tconstruct.quartz_shuriken": "Кварцовий сюрікен"
+}

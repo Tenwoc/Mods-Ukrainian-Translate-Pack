@@ -1,0 +1,20 @@
+{
+    "block.ppfluids.fluid_pipe": "Рідинна труба",
+    "item.ppfluids.fluid_item": "Рідинний резервуар",
+
+    "item.ppfluids.low_fluid_extraction_module": "Низький модуль відбору рідини",
+    "item.ppfluids.medium_fluid_extraction_module": "Середній модуль відбору рідини",
+    "item.ppfluids.high_fluid_extraction_module": "Високий модуль відведення рідини",
+    "item.ppfluids.low_fluid_filter_module": "Модуль фільтрації низької рідини",
+    "item.ppfluids.medium_fluid_filter_module": "Модуль фільтрації середньої рідини",
+    "item.ppfluids.high_fluid_filter_module": "Модуль фільтрації високої рідини",
+    "item.ppfluids.low_fluid_retrieval_module": "Модуль збору рідини низького рівня",
+    "item.ppfluids.medium_fluid_retrieval_module": "Модуль збору середньої рідини",
+    "item.ppfluids.high_fluid_retrieval_module": "Високий модуль збору рідини",
+    "info.prettypipes.fluid_extraction_module": "Забирає рідину з сусідніх резервуарів\nФільтри та швидкість забирання залежать від ярусу\nВисокі яруси запобігають надмірному надходженню рідини",
+    "info.prettypipes.fluid_filter_module": "Обмежує потік з труб у сусідні резервуари\nКількість фільтрів залежить від ярусу",
+    "info.prettypipes.fluid_retrieval_module": "Втягує рідину з інших резервуарів у мережі\nФільтри та швидкість втягування залежать від ярусу\nВисокі яруси запобігають надмірному надходженню рідини",
+    "info.ppfluids.fluid_item.usage": "Використовуйте мене на резервуарі для рідини, щоб заливати туди свій вміст!",
+    "info.ppfluids.whitelist.description": "Рідини у гніздах фільтрів дозволені",
+    "info.ppfluids.blacklist.description": "Рідини у щілинах фільтрів заборонені"
+}

@@ -1,0 +1,13 @@
+{
+  "item.mocookies.cookie_sugar": "Цукрове печиво",
+  "item.mocookies.cookie_chocolate": "Шоколадне печиво",
+  "item.mocookies.cookie_golden": "Золоте печиво",
+  "item.mocookies.cookie_half_moon": "Півмісячне печиво",
+  "item.mocookies.cookie_stroopwafel": "Вафельне печиво",
+  "item.mocookies.cookie_macaron_chocolate": "Шоколадне печиво-макарун",
+  "item.mocookies.cookie_macaron_rosewater": "Трояндове печиво-макарун",
+
+  "item.mocookies.caramel": "Карамель",
+
+  "item_group.mocookies": "Mo' Cookies"
+}

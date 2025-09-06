@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:rituals",
+  "icon": "adamsarsplus:ritual_mage_summon",
+  "name": "item.adamsarsplus.ritual_mage_summon",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "adamsarsplus.ritual_desc.ritual_mage_summon"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "adamsarsplus:tablet_ritual_mage_summon"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "simplebackups.backup_started": "Резервне копіювання...",
+  "simplebackups.backup_finished": "Завершено за %s (%s | %s)",
+  "simplebackups.backups_paused": "Резервне копіювання призупинено"
+}
