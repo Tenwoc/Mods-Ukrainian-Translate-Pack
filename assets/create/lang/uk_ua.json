@@ -1742,7 +1742,7 @@
   "create.ponder.contraption_controls.text_4": "У розібраному стані фільтр можна змінити, щоб налаштувати його на певні типи приладів",
   "create.ponder.contraption_controls.text_5": "Якщо контролер було активовано до збирання…",
   "create.ponder.contraption_controls.text_6": "…назначені прилади будуть вимкнені із самого початку",
-  "create.ponder.creative_fluid_tank.header": "Творчі рідинні резервуарами",
+  "create.ponder.creative_fluid_tank.header": "Творчі рідинні резервуари",
   "create.ponder.creative_fluid_tank.text_1": "Творчий рідинний резервуар може бути використаний для постачання нескінченного запасу рідини",
   "create.ponder.creative_fluid_tank.text_2": "Клацніть ПКМ рідиномістким предметом, щоб налаштувати резервуар",
   "create.ponder.creative_fluid_tank.text_3": "Трубопровідні мережі можуть нескінченно витягувати задану рідину з резервуара",

@@ -12,17 +12,17 @@
     },
     {
       "recipe": "apotheosis:simple_reforging_table",
-      "text": "To begin reforging, craft a $(#5555FF)Simple Reforging Table$(), which allows you to reforge items up to $(#5555FF)Rare$() rarity."
+      "text": "Щоб отримати можливість працювати над рідкостями, на початку створіть $(#5555FF)Простий стіл перекування$(), який дозволить вам перековувати речі аж до $(#5555FF)Рідкісної$() рідкісності."
     },
     {
       "type": "patchouli:text",
-      "title": "Input Slots",
-      "text": "The Reforging Table has three input slots.$(p)The center slot holds the item you wish to reforge.$(p)The top-left slot holds $(9)Rarity Materials$() for the rarity you would like to reforge with."
+      "title": "Вхідні слоти",
+      "text": "Стіл перекування має три вхідних слоти.$(p)The center slot holds the item you wish to reforge.$(p)The top-left slot holds $(9)Rarity Materials$() for the rarity you would like to reforge with."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "apotheosis:sigil_of_rebirth",
-      "title": "Input Slots",
+      "title": "Вхідні слоти",
       "text": "The bottom-right slot holds $(9)Sigils of Rebirth$(), a unique fuel item used during the Reforging process."
     },
     {
