@@ -1,13 +1,13 @@
 {
-    "entity.everythingcopper.copper_golem": "Мідний голем",
-    "entity.everythingcopper.unaffected_copper_golem": "Мідний голем",
-    "entity.everythingcopper.exposed_copper_golem": "Наражений мідний голем",
-    "entity.everythingcopper.weathered_copper_golem": "Вивітрений мідний голем",
-    "entity.everythingcopper.oxidized_copper_golem": "Окиснений мідний голем",
-    "entity.everythingcopper.waxed_unaffected_copper_golem": "Вощений мідний голем",
-    "entity.everythingcopper.waxed_exposed_copper_golem": "Вощений наражений голем",
-    "entity.everythingcopper.waxed_weathered_copper_golem": "Вощений вивітрений мідний голем",
-    "entity.everythingcopper.waxed_oxidized_copper_golem": "Вощений окиснений мідний голем",
+    "entity.everythingcopper.copper_golem": "Мідний ґолем",
+    "entity.everythingcopper.unaffected_copper_golem": "Мідний ґолем",
+    "entity.everythingcopper.exposed_copper_golem": "Наражений мідний ґолем",
+    "entity.everythingcopper.weathered_copper_golem": "Вивітрений мідний ґолем",
+    "entity.everythingcopper.oxidized_copper_golem": "Окиснений мідний ґолем",
+    "entity.everythingcopper.waxed_unaffected_copper_golem": "Вощений мідний ґолем",
+    "entity.everythingcopper.waxed_exposed_copper_golem": "Вощений наражений ґолем",
+    "entity.everythingcopper.waxed_weathered_copper_golem": "Вощений вивітрений мідний ґолем",
+    "entity.everythingcopper.waxed_oxidized_copper_golem": "Вощений окиснений мідний ґолем",
     "entity.everythingcopper.copper_minecart": "Мідна вагонетка",
     "entity.everythingcopper.unaffected_copper_minecart": "Мідна вагонетка",
     "entity.everythingcopper.exposed_copper_minecart": "Наражена мідна вагонетка",
@@ -360,6 +360,6 @@
 
     "advancements.adventure.consume_copper_nugget.title": "Поїдання міді у 4К",
     "advancements.adventure.consume_copper_nugget.description": "З'їжте мідний самородок, це дуже корисно для вашого здоров'я.",
-    "advancements.adventure.summon_copper_golem.title": "Палітра голема",
-    "advancements.adventure.summon_copper_golem.description": "Викличте мідного голема. Не з якоїсь конкретної причини, а просто тому що у вас занадто багато міді на руках."
+    "advancements.adventure.summon_copper_golem.title": "Палітра ґолема",
+    "advancements.adventure.summon_copper_golem.description": "Викличте мідного ґолема. Не з якоїсь конкретної причини, а просто тому що у вас занадто багато міді на руках."
 }

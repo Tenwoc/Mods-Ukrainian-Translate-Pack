@@ -57,7 +57,7 @@
 
   
   "power.medievalorigins.alfiq/clawed.name": "Пазуристий",
-  "power.medievalorigins.alfiq/clawed.description": "Альфіки мають гострі висувні кігті; вони завдають додаткової шкоди порожніми лапами, а також можуть підніматися вгору і чіплятися за круті поверхні (можна перемикати)",
+  "power.medievalorigins.alfiq/clawed.description": "Альфіки мають гострі висувні кігті; вони завдають додаткової шкоди порожніми лапами, а також можуть підійматися вгору і чіплятися за круті поверхні (можна перемикати)",
 
   "power.medievalorigins.alfiq/crepuscular.name": "Сутінковий",
   "power.medievalorigins.alfiq/crepuscular.description": "На заході і сході сонця, коли альфіки полюють, вони рухаються і атакують набагато швидше. В інший час вони мляві і трохи повільніші.",
@@ -460,7 +460,7 @@
   "power.medievalorigins.revenant/skeleton_summons.description": "Відродженець може реконструювати нічних істот, модифікованих для виконання власних забаганок. Вони діють як домашні тварини, будуть слідувати за вами і телепортуватися, а скелети можуть бути оснащені будь-якою зброєю. Сила істот, що не рухаються, вимірюється силою заклинання душі. Викликати, активувавши та утримуючи: \n§lСкелет:§r \n- Основна рука: 4 кістки\n§lСкелет-кінь:§r\n- Основна рука: 12 кісток\n- Інша рука: 1 сідло \n§lВізер-скелет:§r \n- Основна рука: 12 кісток\n- Інша рука: 1 череп візер-скелета\n§lZombie:§r \n- Основна рука: 4 плоті\n§lЗомбі-кінь:§r \n- Основна рука: 12 плоті\n- Інша рука: 1 сідло",
 
   "power.medievalorigins.revenant/poor_reputation.name": "Хаотичний союз",
-  "power.medievalorigins.revenant/poor_reputation.description": "Селяни відмовляться торгувати з відродженцями, а залізні големи нападуть на них, як тільки побачать. Однак їх приймають до лав розбійники.",
+  "power.medievalorigins.revenant/poor_reputation.description": "Селяни відмовляться торгувати з відродженцями, а залізні ґолеми нападуть на них, як тільки побачать. Однак їх приймають до лав розбійники.",
 
   "power.medievalorigins.revenant/siphon.name": "Вилучення есенції",
   "power.medievalorigins.revenant/siphon.description": "При ураженні відродженці повільно накопичують силу, яка дозволяє їм висмоктувати життя зі своїх ворогів. Це впливає на всіх істот, добре це чи погано, окрім викликаних мерців.",
@@ -471,7 +471,7 @@
   "origin.medievalorigins.icarae.name": "Ікар",
   "origin.medievalorigins.icarae.description": "-§l Примітні зміни§r: \n§o§2+ Self-propelled flight§r \n§o§6• Feathered wings§r \n§o§c- Fragile \n- Unique restrictions§r\n§lІкари§r - хижі птахоподібні гуманоїди з потужними крилами; вони літають низько над землею, вправно петляючи між перешкодами, щоб полювати на здобич.",
   "power.medievalorigins.icarae/wings.name": "Пернатий",
-  "power.medievalorigins.icarae/wings.description": "Ікари народжуються з масивними білими крилами і мають потужні літальні м'язи, здатні піднімати їх у повітря.",
+  "power.medievalorigins.icarae/wings.description": "Ікари народжуються з масивними білими крилами і мають потужні літальні м'язи, здатні підіймати їх у повітря.",
   "power.medievalorigins.icarae/ravenous_predator.name": "Несамовитий хижак",
   "power.medievalorigins.icarae/ravenous_predator.description": "Ікари можуть перетравлювати лише м'ясо, а під час польоту надзвичайно швидко виснажуються.",
   "power.medievalorigins.icarae/hollow_boned.name": "Порожнисті кістки",

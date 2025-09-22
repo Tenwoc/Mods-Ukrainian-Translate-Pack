@@ -1,6 +1,6 @@
 {
   "shieldexp.tooltip.instructions": "↓ Shift - інструкції",
-  "shieldexp.tooltip.instructions.parry": "Підніміть щит безпосередньо перед ударом, щоб відбити атаку!",
+  "shieldexp.tooltip.instructions.parry": "Підійміть щит безпосередньо перед ударом, щоб відбити атаку!",
 
   "shieldexp.tooltip.attribute": "Коли використовується як щит:",
   "shieldexp.tooltip.attribute.cooldown_ticks": " %sс перезаряджання",

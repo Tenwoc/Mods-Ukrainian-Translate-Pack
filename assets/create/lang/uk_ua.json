@@ -3037,7 +3037,7 @@
   "create.track.ascending_s_curve": "Не можна створювати похилі S-подібні вигини",
   "create.track.hold_for_smooth_curve": "Утримуйте %1$s для найбільшого повороту",
   "create.track.junction_start": "Не можна розпочинати з’єднання із перехрестя",
-  "create.track.leave_slope_ascending": "Не можна виїжджати з цього схилу піднімаючись",
+  "create.track.leave_slope_ascending": "Не можна виїжджати з цього схилу підіймаючись",
   "create.track.leave_slope_descending": "Не можна виїжджати з цього схилу спускаючись",
   "create.track.not_enough_pavement": "Недостатньо блоків до мощення",
   "create.track.not_enough_tracks": "Недостатньо колій",

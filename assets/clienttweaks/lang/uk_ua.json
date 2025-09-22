@@ -13,7 +13,7 @@
     "config.clienttweaks.tweaks": "Твіки",
     "clienttweaks.configuration.tweaks": "Твіки",
     "config.clienttweaks.tweaks.autoClimbLadder": "Автоматичний підйом по сходах",
-    "config.clienttweaks.tweaks.autoClimbLadder.tooltip": "Ця опція дозволить вам підніматися сходами автоматично, просто дивлячись вгору, замість того, щоб утримувати клавішу натиснутою.",
+    "config.clienttweaks.tweaks.autoClimbLadder.tooltip": "Ця опція дозволить вам підійматися сходами автоматично, просто дивлячись вгору, замість того, щоб утримувати клавішу натиснутою.",
     "config.clienttweaks.tweaks.doNotUseLastTorch": "Не використовувати останній ліхтар",
     "config.clienttweaks.tweaks.doNotUseLastTorch.tooltip": "Ця опція запобігає використанню останнього ліхтаря у списку.",
     "config.clienttweaks.tweaks.hideOffhandItem": "Приховувати елемент в запасі",

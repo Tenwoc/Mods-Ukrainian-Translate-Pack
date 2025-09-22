@@ -1,0 +1,489 @@
+{
+    "cs_items_tab": "Cataclysm: Spellbooks",
+    "creative_tab.cataclysm_spellbooks.items": "Cataclysm: Spellbooks",
+
+    "attribute.cataclysm_spellbooks.abyssal_magic_resist": "стійкости до магії безодні",
+    "attribute.cataclysm_spellbooks.abyssal_spell_power": "сили заклять безодні",
+
+    "attribute.cataclysm_spellbooks.technomancy_magic_resist": "стійкости до техномагії",
+    "attribute.cataclysm_spellbooks.technomancy_spell_power": "сили заклять техномагії",
+
+
+    "effect.cataclysm_spellbooks.abyssal_predator_effect": "Хижак безодні",
+    "effect.cataclysm_spellbooks.abyssal_predator_effect.description": "Збільшує швидкість пересування, швидкість плавання та шкоду у воді або під дощем.",
+    "effect.cataclysm_spellbooks.incapacitated_effect": "Недієздатність",
+    "effect.cataclysm_spellbooks.incapacitated_effect.description": "Сповільнює гравця та унеможливлює обертання голови.",
+    "effect.cataclysm_spellbooks.abyssal_gnawer_timer": "Викликаний глибинний гризун",
+    "effect.cataclysm_spellbooks.abyssal_gnawer_timer.description": "Час, протягом якого глибинний гризун залишається у світі.",
+    "effect.cataclysm_spellbooks.wrathful_effect": "Гнів",
+    "effect.cataclysm_spellbooks.wrathful_effect.description": "Наповнює гравця гнівом, що збільшує шкоду атак.",
+    "effect.cataclysm_spellbooks.crab_timer": "Викликаний аметистовий краб",
+    "effect.cataclysm_spellbooks.crab_timer.description": "Час, протягом якого викликаний аметистовий краб залишається у світі.",
+    "effect.cataclysm_spellbooks.shutdown_effect": "Завершення роботи",
+    "effect.cataclysm_spellbooks.shutdown_effect.description": "Унеможливлює атакування та використання предметів, й також завдає шкоди з часом.",
+    "effect.cataclysm_spellbooks.rewired_effect": "Перепрограмування",
+    "effect.cataclysm_spellbooks.rewired_effect.description": "Збільшує шкоду та швидкість пересування коштом зменшеного захисту та твердости броні.",
+    "effect.cataclysm_spellbooks.hardware_update_effect": "Оновлене обладнання",
+    "effect.cataclysm_spellbooks.hardware_update_effect.description": "Збільшує шкоду та захист.",
+    "effect.cataclysm_spellbooks.software_update_effect": "Оновлена прошивка",
+    "effect.cataclysm_spellbooks.software_update_effect.description": "Збільшує швидкість та скорочує перезаряджання заклинань.",
+    "effect.cataclysm_spellbooks.intrusion_defense_system_software": "Програма «СЗВ»",
+    "effect.cataclysm_spellbooks.intrusion_defense_system_software.description": "Зменшує шкоду від снарядів та захищає викликаних істот від контрзаклинань.",
+    "effect.cataclysm_spellbooks.disabled_effect": "Виведення з ладу",
+    "effect.cataclysm_spellbooks.disabled_effect.description": "Унеможливлює будь-яке зцілення.",
+    "effect.cataclysm_spellbooks.mana_overcharged_effect": "Перезарядження мани",
+    "effect.cataclysm_spellbooks.mana_overcharged_effect.description": "Збільшує обсяг мани та силу техномагії.",
+    "effect.cataclysm_spellbooks.spell_res_overcharged_effect": "Перезаряджена стійкість",
+    "effect.cataclysm_spellbooks.spell_res_overcharged_effect.description": "Збільшує стійкість до заклинань та силу техномагії.",
+    "effect.cataclysm_spellbooks.cooldown_overcharged_effect": "Перезаряджене перезаряджання",
+    "effect.cataclysm_spellbooks.cooldown_overcharged_effect.description": "Скорочує перезаряджання заклинань та збільшує силу техномагії.",
+    "effect.cataclysm_spellbooks.base_overcharged_effect": "Перезарядженість",
+    "effect.cataclysm_spellbooks.base_overcharged_effect.description": "Збільшує силу техномагії.",
+    "effect.cataclysm_spellbooks.sniper": "Око снайпера",
+    "effect.cataclysm_spellbooks.sniper.description": "Подвоює шкоду від снарядів.",
+    "effect.cataclysm_spellbooks.hemophilia": "Кровоточивість",
+    "effect.cataclysm_spellbooks.hemophilia.description": "Збільшує вхідну шкоду на 2.5.",
+    "effect.cataclysm_spellbooks.ignited_timer": "Викликані запалені укріплення",
+    "effect.cataclysm_spellbooks.ignited_timer.description": "Час, протягом якого запалена сутність залишається у світі.",
+    "effect.cataclysm_spellbooks.koboldiator_timer": "Час викликаного кобольдіатора",
+    "effect.cataclysm_spellbooks.koboldiator_timer.description": "Час, протягом якого кобольдіатор залишається у світі.",
+    "effect.cataclysm_spellbooks.koboleton_timer": "Час викликаного коболетона",
+    "effect.cataclysm_spellbooks.koboleton_timer.description": "Час, протягом якого коболетон залишається у світі.",
+    "effect.cataclysm_spellbooks.draugur_timer": "Час викликаної армії драугрів",
+    "effect.cataclysm_spellbooks.draugur_timer.description": "Час, протягом якого армія драугрів залишається у світі.",
+    "effect.cataclysm_spellbooks.watcher_timer": "Час викликаного спостерігача",
+    "effect.cataclysm_spellbooks.watcher_timer.description": "Час, протягом якого спостерігач або DoS-рійник залишається у світі.",
+    "effect.cataclysm_spellbooks.prowler_timer": "Час викликаного блукача",
+    "effect.cataclysm_spellbooks.prowler_timer.description": "Час, протягом якого блукач залишається у світі.",
+    "effect.cataclysm_spellbooks.coral_golem_timer": "Час викликаного коралового ґолема",
+    "effect.cataclysm_spellbooks.coral_golem_timer.description": "Час, протягом якого кораловий ґолем залишається у світі.",
+    "effect.cataclysm_spellbooks.coralssus_timer": "Час викликаного коралсуса",
+    "effect.cataclysm_spellbooks.coralssus_timer.description": "Час, протягом якого коралсус залишається у світі.",
+    "effect.cataclysm_spellbooks.remnant_timer": "Час викликаних фантомних решток",
+    "effect.cataclysm_spellbooks.remnant_timer.description": "Час, протягом якого фантомні рештки залишаються у світі.",
+
+
+    "school.cataclysm_spellbooks.abyssal": "Безодня",
+    "school.cataclysm_spellbooks.technomancy": "Техномагія",
+
+
+    "item.cataclysm_spellbooks.abyss_spell_book": "Книга Р'лієга",
+    "item.cataclysm_spellbooks.desert_spell_book": "Пустельна книга заклинань",
+    "item.cataclysm_spellbooks.ignis_spell_book": "Книга заклинань Ігніса",
+    "item.cataclysm_spellbooks.codex_of_malice_spell_book": "Кодекс злості",
+    "item.cataclysm_spellbooks.disc_driver": "Дисковий привід",
+    "item.cataclysm_spellbooks.disc_driver_description": "Коли екіпіровано, відкриває заклинання Провісника",
+
+    "item.cataclysm_spellbooks.bloom_stone_staff": "Посох квітучого каменя",
+    "item.cataclysm_spellbooks.coral_staff": "Кораловий посох",
+    "item.cataclysm_spellbooks.fake_wudjets_staff": "Фальшивий посох Ваджет",
+    "item.cataclysm_spellbooks.void_staff": "Посох порожнечі",
+    "item.cataclysm_spellbooks.spirit_sunderer": "Розколювач душ",
+    "item.cataclysm_spellbooks.gauntlet_of_power": "Випробування",
+    "item.cataclysm_spellbooks.gauntlet_of_gattling": "Підкорювач",
+    "item.cataclysm_spellbooks.engineers_power_glove": "Енергетична рукавиця інженера",
+    "item.cataclysm_spellbooks.soul_brazier": "Пальник душ",
+    "item.cataclysm_spellbooks.the_nightstalker": "Нічний переслідувач",
+    "item.cataclysm_spellbooks.the_berserker": "Берсерк",
+    "item.cataclysm_spellbooks.the_combuster": "Спалювач",
+
+    "item.cataclysm_spellbooks.monstrous_flamberge": "Монструозний фламберг",
+
+    "item.cataclysm_spellbooks.abyssal_rune": "Руна безодні",
+    "item.cataclysm_spellbooks.technomancy_rune": "Руна техномагії",
+    "item.cataclysm_spellbooks.mechanical_scrap": "Механічний брухт",
+    "item.cataclysm_spellbooks.excel_upgrade_mana": "Покращення Ексельсіуса: Мана",
+    "item.cataclysm_spellbooks.excel_upgrade_resistence": "Покращення Ексельсіуса: Стійкість до заклинань",
+    "item.cataclysm_spellbooks.excel_upgrade_cooldown": "Покращення Ексельсіуса: Перезаряджання",
+    "item.cataclysm_spellbooks.burning_knowledge_fragment": "Палаючий фрагмент знань",
+    "item.cataclysm_spellbooks.burning_manuscript": "Палаючий манускрипт",
+    "item.cataclysm_spellbooks.burning_manuscript_description": "Коли в інвентарі, відкриває усі закляття Ігніса",
+    "item.cataclysm_spellbooks.frozen_knowledge_fragment": "Фрагмент замерзлих знань",
+    "item.cataclysm_spellbooks.frozen_tablet": "Замерзла скрижаль",
+    "item.cataclysm_spellbooks.frozen_tablet_description": "Коли в інвентарі, відкриває усі закляття Маледікта",
+    "item.cataclysm_spellbooks.strange_disc": "Дивний диск",
+    "item.cataclysm_spellbooks.strange_disc_description": "Коли в інвентарі, відкриває усі закляття Провісника",
+
+    "item.cataclysm_spellbooks.ignis_helmet": "Капелюх мага Ігніса",
+    "item.cataclysm_spellbooks.ignis_chestplate": "Роба мага Ігніса",
+    "item.cataclysm_spellbooks.ignis_chestplate_elytra": "Крилата роба мага Ігніса",
+    "item.cataclysm_spellbooks.ignis_leggings": "Наголінники мага Ігніса",
+    "item.cataclysm_spellbooks.ignis_boots": "Сабатони мага Ігніса",
+
+    "item.cataclysm_spellbooks.abyssal_warlock_helmet": "Каптур чаклуна безодні",
+    "item.cataclysm_spellbooks.abyssal_warlock_mask": "Маска чаклуна безодні",
+    "item.cataclysm_spellbooks.abyssal_warlock_chestplate": "Роба чаклуна безодні",
+    "item.cataclysm_spellbooks.abyssal_warlock_leggings": "Наголінники чаклуна безодні",
+    "item.cataclysm_spellbooks.abyssal_warlock_boots": "Сабатони чаклуна безодні",
+
+    "item.cataclysm_spellbooks.cursium_mage_circlet": "Діадема мага проклять",
+    "item.cataclysm_spellbooks.cursium_mage_chestplate": "Кіраса мага проклять",
+    "item.cataclysm_spellbooks.cursium_mage_elytra": "Крилата кіраса мага проклять",
+    "item.cataclysm_spellbooks.cursium_mage_skirt": "Спідниця мага проклять",
+    "item.cataclysm_spellbooks.cursium_mage_boots": "Сабатони мага проклять",
+    "item.cataclysm_spellbooks.cursium_chestplate.desc4": "Можна поєднати з елітрами",
+
+    "item.cataclysm_spellbooks.pharaoh_helmet": "Головний убір священного фараона",
+    "item.cataclysm_spellbooks.pharaoh_chestplate": "Кольчуга священного фараона",
+    "item.cataclysm_spellbooks.pharaoh_leggings": "Спідниця священного фараона",
+    "item.cataclysm_spellbooks.pharaoh_greaves": "Сабатони священного фараона",
+
+    "item.cataclysm_spellbooks.bloom_stone_hat": "Капелюх квітучого каменя",
+    "item.cataclysm_spellbooks.bloom_stone_chestplate": "Нагрудник квітучого каменя",
+    "item.cataclysm_spellbooks.bloom_stone_skirt": "Спідниця квітучого каменя",
+    "item.cataclysm_spellbooks.bloom_stone_greaves": "Сабатони квітучого каменя",
+
+    "item.cataclysm_spellbooks.monstrous_wizard_hat": "Монструозний капелюх чарівника",
+
+    "item.cataclysm_spellbooks.excelsius_speed_visors": "Козирок Ексельсіуса: Швидкість",
+    "item.cataclysm_spellbooks.excelsius_speed_chestplate": "Нагрудник Ексельсіуса: Швидкість",
+    "item.cataclysm_spellbooks.excelsius_power_visors": "Козирок Ексельсіуса: Опонент",
+    "item.cataclysm_spellbooks.excelsius_power_chestplate": "Нагрудник Ексельсіуса: Опонент",
+    "item.cataclysm_spellbooks.excelsius_resist_visors": "Козирок Ексельсіуса: Гнобитель",
+    "item.cataclysm_spellbooks.excelsius_resist_chestplate": "Нагрудник Ексельсіуса: Гнобитель",
+    "item.cataclysm_spellbooks.excelsius_leggings": "Наголінники Ексельсіуса: Рушій",
+    "item.cataclysm_spellbooks.excelsius_greaves": "Сабатони Ексельсіуса: Рушій",
+
+    "item.cataclysm_spellbooks.excelsius_helmet.desc": "Приціл наведеного зору",
+    "item.cataclysm_spellbooks.excelsius_helmet.desc2": "Натисніть %s, щоб накласти на довколишніх сутностей ефект Наведеного та збільшити шкоду ваших снарядів на 2",
+    "item.cataclysm_spellbooks.excelsius_chestplate.desc": "Вічний політ",
+    "item.cataclysm_spellbooks.excelsius_chestplate.desc2": "Політні здібності елітр без обмежень у паливі та прискоренні",
+    "item.cataclysm_spellbooks.excelsius_leggings.desc": "Невразливість до падінь",
+    "item.cataclysm_spellbooks.excelsius_leggings.desc2": "Анулює будь-яку шкоду від падіння",
+    "item.cataclysm_spellbooks.excelsius_boots.desc": "Стрибучість",
+    "item.cataclysm_spellbooks.excelsius_boots.desc2": "Натисніть %s, щоб отримати стрибучість, що підпалює ворогів навколо",
+
+    "item.cataclysm_spellbooks.engineer_hood": "Каптур інженера",
+    "item.cataclysm_spellbooks.engineer_suit": "Костюм інженера",
+    "item.cataclysm_spellbooks.engineer_leggings": "Штани інженера",
+    "item.cataclysm_spellbooks.engineer_boots": "Чоботи інженера",
+
+    "item.cataclysm_spellbooks.leviathans_blessing": "Благословення левітації",
+    "item.cataclysm_spellbooks.leviathans_blessing.desc": "Надає невразливість до ефектів безодні",
+
+    "item.cataclysm_spellbooks.abyssal_upgrade_orb": "Сфера покращення безодні",
+    "item.cataclysm_spellbooks.technomancy_upgrade_orb": "Сфера покращення техномагії",
+
+
+    "spell.cataclysm_spellbooks.void_beam": "Промінь безодні",
+    "spell.cataclysm_spellbooks.void_beam.guide": "Випускає промінь безодні в обрану ціль",
+
+    "spell.cataclysm_spellbooks.void_rune": "Виклик: Руна порожнечі",
+    "spell.cataclysm_spellbooks.void_rune.guide": "Випускає руну порожнечі в обрану ціль",
+
+    "spell.cataclysm_spellbooks.dimensional_rift": "Вимірний розрив",
+    "spell.cataclysm_spellbooks.dimensional_rift.guide": "Випускає вимірний розрив",
+
+    "spell.cataclysm_spellbooks.abyssal_slash": "Припливні сльози",
+    "spell.cataclysm_spellbooks.abyssal_slash.guide": "Випускає розріз в обрану ціль, завдаючи шкоди у ближньому бою",
+
+    "spell.cataclysm_spellbooks.abyssal_blast": "Вибух безодні",
+    "spell.cataclysm_spellbooks.abyssal_blast.guide": "Вивільняє спустошливий вибух, який руйнує блоки та розповсюджує вогонь безодні",
+
+    "spell.cataclysm_spellbooks.abyssal_predator": "Хижак безодні",
+    "spell.cataclysm_spellbooks.abyssal_predator.guide": "Збільшує швидкість плавання, шкоду, та швидкість атак. Ви отримуватимете більше шкоди у воді",
+
+    "spell.cataclysm_spellbooks.depth_charge": "Глибинний заряд",
+    "spell.cataclysm_spellbooks.depth_charge.guide": "Випускає різні глибинні міни в радіусі навколо",
+
+    "spell.cataclysm_spellbooks.conjure_abyssal_gnawer": "Виклик: Глибинний гризун",
+    "spell.cataclysm_spellbooks.conjure_abyssal_gnawer.guide": "Викликає школу глибинних гризунів з іншого виміру вам на допомогу",
+
+    "spell.cataclysm_spellbooks.tidal_grab": "Розрив щупальцем",
+    "spell.cataclysm_spellbooks.tidal_grab.guide": "Вистрілює щупальцем зі своєї руки в обрану ціль",
+
+    "spell.cataclysm_spellbooks.infernal_strike": "Пекельний удар",
+    "spell.cataclysm_spellbooks.infernal_strike.guide": "Вистрілює мініатюрним спалювачем в обрану ціль і накладає Палаюче клеймо",
+
+    "spell.cataclysm_spellbooks.incineration": "Спалення",
+    "spell.cataclysm_spellbooks.incineration.guide": "Випускає уперед полум'яні удари",
+
+    "spell.cataclysm_spellbooks.conjure_ignited_reinforcement": "Запалені укріплення",
+    "spell.cataclysm_spellbooks.conjure_ignited_reinforcement.guide": "Випускає запалених поверненців і берсерків вам на допомогу",
+
+    "spell.cataclysm_spellbooks.ashen_breath": "Попелястий подих",
+    "spell.cataclysm_spellbooks.ashen_breath.guide": "Випускає попелястий подих у ворогів",
+
+    "spell.cataclysm_spellbooks.bone_storm": "Кісткова буря",
+    "spell.cataclysm_spellbooks.bone_storm.guide": "Випускає вихор кісткової бурі. Чим більша швидкість, тим далі поширюється буря",
+
+    "spell.cataclysm_spellbooks.piercing_bone": "Пробиваюча кістка",
+    "spell.cataclysm_spellbooks.piercing_bone.guide": "Випускає палаючу кістку в обрану ціль, а потім ще 3 невеликі кістки",
+
+    "spell.cataclysm_spellbooks.hellish_blade": "Пекельне лезо",
+    "spell.cataclysm_spellbooks.hellish_blade.guide": "Випускає копію спалювача над ціллю, який завдає шкоди, оглушує та накладає Палаюче клеймо при влучанні",
+
+    "spell.cataclysm_spellbooks.abyss_fireball": "Розгортання блиску",
+    "spell.cataclysm_spellbooks.abyss_fireball.guide": "Випускає потік стрибучих вогняних куль, які змінюються залежно від вашого здоров'я і накладають Палаюче клеймо при влучанні",
+
+    "spell.cataclysm_spellbooks.amethyst_puncture": "Аметистовий прокол",
+    "spell.cataclysm_spellbooks.amethyst_puncture.guide": "Випускає аметистовий кластер в обрану ціль",
+
+    "spell.cataclysm_spellbooks.gravity_storm": "Гравітаційна буря",
+    "spell.cataclysm_spellbooks.gravity_storm.guide": "Створює вихор порожнечі у місці, куди ви дивитеся, і знищує цілі",
+
+    "spell.cataclysm_spellbooks.void_bulwark": "Бастіон порожнечі",
+    "spell.cataclysm_spellbooks.void_bulwark.guide": "Створює навколо руни порожнечі, які завдають шкоди нападникам у радіусі дії",
+
+    "spell.cataclysm_spellbooks.gravitation_pull": "Гравітаційне тяжіння",
+    "spell.cataclysm_spellbooks.gravitation_pull.guide": "Притягує істот до заклинача, маніпулюючи гравітацією навколо",
+
+    "spell.cataclysm_spellbooks.sandstorm": "Піщана буря",
+    "spell.cataclysm_spellbooks.sandstorm.guide": "Викликає піщані бурі, які оточують вас",
+
+    "spell.cataclysm_spellbooks.desert_winds": "Пустельні вітри",
+    "spell.cataclysm_spellbooks.desert_winds.guide": "Викликає меншу піщану бурю, яка завдає шкоди мобам перед вами",
+
+    "spell.cataclysm_spellbooks.monolith_crash": "Падіння монолітів",
+    "spell.cataclysm_spellbooks.monolith_crash.guide": "Утворює кілька монолітів, які падають навколо вас і на ваших ворогів",
+
+    "spell.cataclysm_spellbooks.malevolent_battlefield": "Злобне поле бою",
+    "spell.cataclysm_spellbooks.malevolent_battlefield.guide": "Утворює кілька примарних алебард навколо, які завдають величезної шкоди істотам поблизу",
+
+    "spell.cataclysm_spellbooks.forgone_rage": "Неминуча лють",
+    "spell.cataclysm_spellbooks.forgone_rage.guide": "Наповнює себе холодною люттю, що збільшує шкоду, яку ви завдаєте істотам. Після закінчення гніву ви ослабнете",
+
+    "spell.cataclysm_spellbooks.conjure_koboldiator": "Виклик: Кобольдіатор",
+    "spell.cataclysm_spellbooks.conjure_koboldiator.guide": "Викликає могутнього кобольдіатора вам на допомогу",
+
+    "spell.cataclysm_spellbooks.pilfer": "Крадіжка",
+    "spell.cataclysm_spellbooks.pilfer.guide": "Вириває предмет з руки цілі",
+
+    "spell.cataclysm_spellbooks.summon_koboleton": "Виклик: Коболетони",
+    "spell.cataclysm_spellbooks.summon_koboleton.guide": "Викликає групу Коболетонів вам на допомогу",
+
+    "spell.cataclysm_spellbooks.cursed_rush": "Проклятий ривок",
+    "spell.cataclysm_spellbooks.cursed_rush.guide": "Риньте уперед, викликаючи примарні алебарди на початку та наприкінці ривку. Будь-яка істота, що опиниться на вашому шляху, отримає шкоду",
+
+    "spell.cataclysm_spellbooks.conjure_thralls": "Виклик: Неживі раби",
+    "spell.cataclysm_spellbooks.conjure_thralls.guide": "Викликає групу неживих драугурів вам на допомогу",
+
+    "spell.cataclysm_spellbooks.tectonic_tremble": "Тектонічне гул",
+    "spell.cataclysm_spellbooks.tectonic_tremble.guide": "Струсіть землю, підпалюючи істот навколо і відкидаючи їх назад",
+
+    "spell.cataclysm_spellbooks.conjure_amethyst_crab": "Виклик: Аметистовий краб",
+    "spell.cataclysm_spellbooks.conjure_amethyst_crab.guide": "Викликає міфічного аметистового краба вам на допомогу",
+
+    "spell.cataclysm_spellbooks.laserbolt": "Лазерний промінь",
+    "spell.cataclysm_spellbooks.laserbolt.guide": "Вистрілює в обрану ціль невеликим лазерним променем",
+
+    "spell.cataclysm_spellbooks.atomic_laser": "Атомний лазер",
+    "spell.cataclysm_spellbooks.atomic_laser.guide": "Вистрілює руйнівним лазером у напрямку погляду та виходить з ладу",
+
+    "spell.cataclysm_spellbooks.emp_blast": "Електромагнітний імпульс",
+    "spell.cataclysm_spellbooks.emp_blast.guide": "Випромінює електромагнітний імпульс, оглушуючи істот навколо",
+
+    "spell.cataclysm_spellbooks.lock_on": "Захоплення цілі",
+    "spell.cataclysm_spellbooks.lock_on.guide": "Помічає обрану ціль та оглушує її на короткий час",
+
+    "spell.cataclysm_spellbooks.construct_watchers": "Конструювання: Спостерігачі",
+    "spell.cataclysm_spellbooks.construct_watchers.guide": "Конструює групу спостерігачів вам на допомогу",
+
+    "spell.cataclysm_spellbooks.construct_prowler": "Конструювання: Блукач",
+    "spell.cataclysm_spellbooks.construct_prowler.guide": "Конструює блукача вам на допомогу",
+
+    "spell.cataclysm_spellbooks.ddos": "Атака на відмову в обслуговуванні",
+    "spell.cataclysm_spellbooks.ddos.guide": "Перешкоджає роботі цілей навколо вас, розсіюючи заклинання і знімаючи магічні ефекти з найближчих істот",
+
+    "spell.cataclysm_spellbooks.dos_swarm": "DoS-рій",
+    "spell.cataclysm_spellbooks.dos_swarm.guide": "Викликає групу спостерігачів, які атакують будь-яких навколишніх мобів, що потрапляють в поле зору, розсіюючи магічні властивості цілі та вибухаючи при зіткненні",
+
+    "spell.cataclysm_spellbooks.shutdown": "Завершення роботи",
+    "spell.cataclysm_spellbooks.shutdown.guide": "Вимикає процеси цілі, не даючи їй атакувати або використовувати предмети",
+
+    "spell.cataclysm_spellbooks.rewire": "Перепрограмування",
+    "spell.cataclysm_spellbooks.rewire.guide": "Перепрограмує можливості викликаних істот, збільшуючи їх швидкість і шкоду, але зменшуючи їх броню і твердість",
+
+    "spell.cataclysm_spellbooks.hardware_update": "Оновлення заліза",
+    "spell.cataclysm_spellbooks.hardware_update.guide": "Оновлює внутрішні компоненти новим апаратним забезпеченням, збільшуючи захист та шкоду. Не сумується з Зарядом, Квапливістю та Оновленням прошивки",
+
+    "spell.cataclysm_spellbooks.software_update": "Оновлення прошивки",
+    "spell.cataclysm_spellbooks.software_update.guide": "Оновлює внутрішні компоненти новим програмним забезпеченням, збільшуючи швидкість і зменшуючи час відновлення заклинань. Не сумується з Зарядом, Квапливістю та Оновленням заліза",
+
+    "spell.cataclysm_spellbooks.missile_launch": "Ракетний залп",
+    "spell.cataclysm_spellbooks.missile_launch.guide": "Вибирає ціль і випускає по ній залп самонавідних висушуючих ракет",
+
+    "spell.cataclysm_spellbooks.aerial_assault": "Повітряний удар",
+    "spell.cataclysm_spellbooks.aerial_assault.guide": "Випускає повітряний удар висушуючими ракетами навколо",
+
+    "spell.cataclysm_spellbooks.intrusion_prevention_system": "Система запобігання вторгненню",
+    "spell.cataclysm_spellbooks.intrusion_prevention_system.guide": "Захищає вас та ваших викликаних істот за допомогою IPS, запобігаючи шкоді від снарядів та протидіючи контрзаклинанням на ваших викликаних істот",
+
+    "spell.cataclysm_spellbooks.overcharged": "Перезарядка",
+    "spell.cataclysm_spellbooks.overcharged.guide": "Перезарядіть свої системи, підвищивши свої можливості понад нормальні межі. Має унікальні взаємодії з певними предметами",
+
+    "spell.cataclysm_spellbooks.parting_shot": "Прощальний постріл",
+    "spell.cataclysm_spellbooks.parting_shot.guide": "Зарядіть свою зброю, випустивши два потужні лазери, які завдають шкоди висушуванням при влучанні",
+
+    "spell.cataclysm_spellbooks.surveillance_drone": "Конструювання: Дрон спостереження",
+    "spell.cataclysm_spellbooks.surveillance_drone.guide": "Конструює дрон спостереження над вашими викликаними істотами, лікуючи їх та вас",
+
+    "spell.cataclysm_spellbooks.flash_bang": "Світло-шумовий вибух",
+    "spell.cataclysm_spellbooks.flash_bang.guide": "Викидає нелетальну світло-шумову гранату, засліплюючи цілі поблизу",
+
+    "spell.cataclysm_spellbooks.disabling_swipe": "Виведення з ладу",
+    "spell.cataclysm_spellbooks.disabling_swipe.guide": "Вдаряє по апаратному забезпеченню цілі, тимчасово запобігаючи будь-якому зціленню",
+
+    "spell.cataclysm_spellbooks.gear_shift": "Перемикання передач",
+    "spell.cataclysm_spellbooks.gear_shift.guide": "Стоячи, робить ривок вперед. Присідаючи, робить ривок вгору",
+
+    "spell.cataclysm_spellbooks.reboot": "Перезавантаження",
+    "spell.cataclysm_spellbooks.reboot.guide": "Перезавантажте свої системи, зцілюючи себе та союзників поблизу.",
+
+    "spell.cataclysm_spellbooks.phantasmal_blade": "Фантазматичний меч",
+    "spell.cataclysm_spellbooks.phantasmal_blade.guide": "Вдаряє зброєю по землі, вистрілюючи навколо примарними сокирами",
+
+    "spell.cataclysm_spellbooks.comet_shower": "Кометний дощ",
+    "spell.cataclysm_spellbooks.comet_shower.guide": "Випускає світлові бомби, створюючи світлові струмені у місці зіткнення",
+
+    "spell.cataclysm_spellbooks.meteor_spew": "Метеоритний дощ",
+    "spell.cataclysm_spellbooks.meteor_spew.guide": "Викидає шматки розплавленої породи та лави в напрямку погляду, створюючи лаву у місці зіткнення",
+
+    "spell.cataclysm_spellbooks.conjure_coral_golem": "Виклик: Коралові ґолеми",
+    "spell.cataclysm_spellbooks.conjure_coral_golem.guide": "Випускає групу коралових ґолемів вам на допомогу",
+
+    "spell.cataclysm_spellbooks.conjure_coralssus": "Виклик: Коралсус",
+    "spell.cataclysm_spellbooks.conjure_coralssus.guide": "Випускає їздового коралсуса вам на допомогу",
+
+    "spell.cataclysm_spellbooks.thoths_witness": "Свідок Тота",
+    "spell.cataclysm_spellbooks.thoths_witness.guide": "Викликає дух стародавніх решток з благословення Тота вам на нетривалу допомогу",
+
+    "spell.cataclysm_spellbooks.pharaohs_wrath": "Гнів фараона",
+    "spell.cataclysm_spellbooks.pharaohs_wrath.guide": "Наповніть себе розпаленою люттю, яка збільшує вашу шкоду і силу заклинань, кожного разу як ви зазнаєте удару. Після закінчення гніву ви ослабнете",
+
+    "spell.cataclysm_spellbooks.hemorrhaging_impact": "Кровоточивий удар",
+    "spell.cataclysm_spellbooks.hemorrhaging_impact.guide": "Зарядіть свою зброю, випустивши потужний кров'яний спис і кілька кров'яних шипів. Кров'яний спис викликає кровотечу при влучанні, а ви зцілюєтеся на 75% від завданої шкоди",
+
+    "spell.cataclysm_spellbooks.scorched_earth": "Випалена земля",
+    "spell.cataclysm_spellbooks.scorched_earth.guide": "Зарядіть свою зброю, випустивши шквал розплавлених куль. Кожна куля залишає зону дії, яка завдає інтенсивної вогневої шкоди істотам, що потрапили в неї",
+
+    "spell.cataclysm_spellbooks.cryopiercer": "Кріопробивач",
+    "spell.cataclysm_spellbooks.cryopiercer.guide": "Зарядіть свою зброю, випустивши шквал заморожених куль. При влучанні куля покриває істоту льодом",
+
+
+    "ui.cataclysm_spellbooks.void_beam": "Викликає промінь безодні подібно до глибоководників-чаклунів",
+    "ui.cataclysm_spellbooks.void_rune": "Викликає руну порожнечі у положення цілі",
+    "ui.cataclysm_spellbooks.dimensional_rift_spell.lifespan": "Викликає вимірний розрив на %d секунд",
+    "ui.cataclysm_spellbooks.gnawer_count": "Викликано: %d",
+    "ui.cataclysm_spellbooks.range": "%d діапазон для використання заклинання",
+    "ui.cataclysm_spellbooks.incinerator_damage": "Завдає %d, якщо Спалювач знаходиться в основній руці",
+    "ui.cataclysm_spellbooks.incineration_duration": "Триває %d секунд",
+    "ui.cataclysm_spellbooks.ignited_count": "Викликано: %d",
+    "ui.cataclysm_spellbooks.bone_speed_1": "%d швидкости снаряда",
+    "ui.cataclysm_spellbooks.bone_speed_2": "%d швидкости снаряда",
+    "ui.cataclysm_spellbooks.bone_speed_3": "%d швидкости снаряда",
+    "ui.cataclysm_spellbooks.blazing_bone_speed": "%d швидкости снаряда",
+    "ui.cataclysm_spellbooks.fireball_details": "Зі здоров'ям менше половини перетворює вогневу кулю у вогневу кулю душ, зі здоров'ям менше ніж 30% у вогневу кулю порожнечі",
+    "ui.cataclysm_spellbooks.recast_count": "Може виконувати це заклинання %d послідовно перед перезаряджанням",
+    "ui.cataclysm_spellbooks.amethyst_speed": "Вистрілює аметистовими кластерами із %d швидкістю снарядів",
+    "ui.cataclysm_spellbooks.gravity_storm.lifespan": "Викликає вихор порожнечі на %d секунд",
+    "ui.cataclysm_spellbooks.difference": "Впливає на сутностей зі швидкістю %d",
+    "ui.cataclysm_spellbooks.gravitation": "Стоячи, притягує сутностей. Присідаючи, відштовхує їх",
+    "ui.cataclysm_spellbooks.sandstorm.lifespan": "Викликає піщаний шторм на %d секунд",
+    "ui.cataclysm_spellbooks.sandstorm_amount": "Викликає %d піщаних штормів у кільці навколо заклинача",
+    "ui.cataclysm_spellbooks.windmill_rings": "%d кілець",
+    "ui.cataclysm_spellbooks.windmill_amount": "%d монолітів за кільце",
+    "ui.cataclysm_spellbooks.halberd_rings": "%d кілець",
+    "ui.cataclysm_spellbooks.halberd_amount": "%d алебард за кільце",
+    "ui.cataclysm_spellbooks.soul_render_damage": "Завдає %d, якщо Розривач душ знаходиться в основній руці",
+    "ui.cataclysm_spellbooks.forgone_rage_strikes": "Кожен наступний удар збільшує шкоду на 20%, максимум до чотирьох.",
+    "ui.cataclysm_spellbooks.pilfer_priority": "Для викрадання віддає перевагу предметам з іншої руки перед предметами з основної.",
+    "ui.cataclysm_spellbooks.koboleton_count": "Викликано: %d",
+    "ui.cataclysm_spellbooks.koboldiator_count": "Викликано: %d",
+    "ui.cataclysm_spellbooks.thrall_count": "Викликано: %d",
+    "ui.cataclysm_spellbooks.halberd_rush": "Викликає алебарди біля початкового положення та іноді біля кінцевого",
+    "ui.cataclysm_spellbooks.maledictus_armory_bonus": "Завдає %d, якщо Розривач душ або Анігілятор знаходиться в основній руці",
+    "ui.cataclysm_spellbooks.crab_count": "Викликано: %d",
+    "ui.cataclysm_spellbooks.underwater_damage_bonus": "Завдає додаткової шкоди у воді або під дощем",
+    "ui.cataclysm_spellbooks.watcher_count": "Викликано: %d",
+    "ui.cataclysm_spellbooks.prowler_count": "Викликано: %d",
+    "ui.cataclysm_spellbooks.forward_acceleration": "%d прискорення уперед",
+    "ui.cataclysm_spellbooks.upward_acceleration": "%d прискорення вгору",
+    "ui.cataclysm_spellbooks.summon_healing": "%d зцілення союзників",
+    "ui.cataclysm_spellbooks.recast_bonus_damage": "%d додаткової шкоди (+1 шкоди за повторне виконання)",
+    "ui.cataclysm_spellbooks.effect_percentage": "%d% до характеристик від Перезаряджання",
+    "ui.cataclysm_spellbooks.howitzer_crouching": "При присіданні змінює виклик на гаубиці",
+    "ui.cataclysm_spellbooks.phantom_blades": "%d фантомних мечів",
+    "ui.cataclysm_spellbooks.coral_golem_count": "Викликано: %d",
+    "ui.cataclysm_spellbooks.coralssus_count": "Викликано: %d",
+    "ui.cataclysm_spellbooks.remnant_count": "%d духів залишків",
+    "ui.cataclysm_spellbooks.kings_wrath_strikes": "Кожен послідовний удар збільшує шкоду на 20% і силу заклинань на 5%, максимально до чотирьох ударів.",
+    "ui.cataclysm_spellbooks.thoths_witness_scroll_failure": "Тот не дозволить вам застосувати це за допомогою нікчемного сувою.",
+    "ui.cataclysm_spellbooks.thoths_witness_armor_failure": "Вам не вистачає необхідного озброєння, щоб отримати чудо Тота; прикрасьте себе обладунками фараона.",
+    "ui.cataclysm_spellbooks.quake_damage": "%d шкоди від землетрусу",
+    "ui.cataclysm_spellbooks.needle_damage": "%d шкоди від кров'яного шипа",
+
+
+    "entity.cataclysm_spellbooks.abyssal_gnawers": "Глибинний гризун",
+    "entity.cataclysm_spellbooks.infernal_blade": "Інфернальне лезо",
+    "entity.cataclysm_spellbooks.hellish_blade": "Пекельне лезо",
+    "entity.cataclysm_spellbooks.blazing_aoe": "Палюча область",
+    "entity.cataclysm_spellbooks.summoned_ignited_revenant": "Запалений поверненець",
+    "entity.cataclysm_spellbooks.summoned_ignited_berserker": "Запалений берсерк",
+    "entity.cataclysm_spellbooks.summoned_koboldiator": "Кобольдіатор",
+    "entity.cataclysm_spellbooks.summoned_koboleton": "Коболетон",
+    "entity.cataclysm_spellbooks.summoned_draugur": "Драугр",
+    "entity.cataclysm_spellbooks.summoned_royal_draugur": "Королівський драугр",
+    "entity.cataclysm_spellbooks.summoned_elite_draugur": "Елітний драугр",
+    "entity.cataclysm_spellbooks.summoned_aptrgangr": "Аптргрангр",
+    "entity.cataclysm_spellbooks.summoned_amethyst_crab": "Аметистовий краб",
+    "entity.cataclysm_spellbooks.extended_laser_beam": "Лазерний промінь",
+    "entity.cataclysm_spellbooks.summoned_watcher": "Спостерігач",
+    "entity.cataclysm_spellbooks.summoned_prowler": "Блукач",
+    "entity.cataclysm_spellbooks.summoned_counterspell_watcher": "DoS-спостерігач",
+    "entity.cataclysm_spellbooks.parting_shot": "Розділений постріл",
+    "entity.cataclysm_spellbooks.flash_bang": "Світло-шумовий вибух",
+    "entity.cataclysm_spellbooks.surveillance_drone": "Дрон спостереження",
+    "entity.cataclysm_spellbooks.disabling_swipe": "Вимикаючий змах",
+    "entity.cataclysm_spellbooks.no_man_zone_aoe": "Нічийна зона",
+    "entity.cataclysm_spellbooks.summoned_coral_golem": "Кораловий ґолем",
+    "entity.cataclysm_spellbooks.summoned_coralssus": "Коралсус",
+    "entity.cataclysm_spellbooks.phantom_ancient_remnant": "Фантомні залишки",
+    "entity.cataclysm_spellbooks.blood_crystal": "Кристалізований кров'яний спис",
+    "entity.cataclysm_spellbooks.molten_bullet": "Розпечена куля",
+    "entity.cataclysm_spellbooks.scorched_earth_aoe": "Область спаленої землі",
+    "entity.cataclysm_spellbooks.frozen_bullet": "Кріокуля",
+    "entity.cataclysm_spellbooks.glacial_block": "Льодовиковий блок",
+
+
+
+    "death.attack.cataclysm_spellbooks.conjure_abyssal_gnawer": "%2$s розсік %1$s гризунами",
+    "death.attack.cataclysm_spellbooks.blazing_aoe": "%2$s спалив %1$s у палючому полі",
+    "death.attack.cataclysm_spellbooks.hellish_blade": "%2$s розірвав %1$s пекельним лезом",
+    "death.attack.cataclysm_spellbooks.infernal_strike": "%2$s проштрикнув %1$s інфернальним лезом",
+    "death.attack.cataclysm_spellbooks.summoned_ignited_revenant": "%2$s побив %1$s силами запалених поверненців",
+    "death.attack.cataclysm_spellbooks.summoned_ignited_berserker": "%2$s розщепив %1$s силами запалених берсерків",
+    "death.attack.cataclysm_spellbooks.summoned_koboldiator": "%2$s розтрощив %1$s силами кобольдіатора",
+    "death.attack.cataclysm_spellbooks.summoned_koboleton": "%2$s забив до смерті %1$s силами коболетонів",
+    "death.attack.cataclysm_spellbooks.summoned_draugur": "%2$s завалив %1$s драуграми",
+    "death.attack.cataclysm_spellbooks.summoned_royal_draugur": "%2$s завалив %1$s драуграми",
+    "death.attack.cataclysm_spellbooks.summoned_elite_draugur": "%2$s завалив %1$s драуграми",
+    "death.attack.cataclysm_spellbooks.summoned_aptrgangr": "%2$s розрізав %1$s навпіл Аптгрангром",
+    "death.attack.cataclysm_spellbooks.summoned_amethyst_crab": "%1$s був розчавлений між клешнями аметистового краба %2$s",
+    "death.attack.cataclysm_spellbooks.parting_shot": "%1$s був розпилений розсіченим пострілом %2$s",
+    "death.attack.cataclysm_spellbooks.surveillance_drone": "%1$s був якимось чином вбитий пасивним дроном спостереження %2$s",
+    "death.attack.cataclysm_spellbooks.disabling_swipe": "%2$s вивів з ладу %1$s вимикаючим змахом",
+    "death.attack.cataclysm_spellbooks.no_man_zone_aoe": "%1$s був зведений нанівець у нічийній зоні %2$s",
+    "death.attack.cataclysm_spellbooks.blood_crystal": "%1$s був пронизаний кристалізованим кров'яним списом %2$s",
+    "death.attack.cataclysm_spellbooks.molten_bullet": "%1$s був спалений розпеченою кулею %2$s",
+    "death.attack.cataclysm_spellbooks.scorched_earth_aoe": "%1$s згорів від спаленої землі %2$s",
+    "death.attack.cataclysm_spellbooks.frozen_bullet": "%1$s змерз до смерті від кріокулі %2$s",
+    "death.attack.cataclysm_spellbooks.glacial_block": "%1$s змерз до смерті у льодовиковому блоці %2$s",
+
+    "death.attack.blazing_aoe.item": "%2$s спалив %1$s у палючому полі за допомогою: %3$s",
+    "death.attack.no_man_zone_aoe.item": "%1$s був зведений нанівець у нічийній зоні %2$s за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.scorched_earth_aoe.item": "%1$s згорів від спаленої землі %2$s за допомогою: %3$s",
+
+    "death.attack.cataclysm_spellbooks.conjure_abyssal_gnawer.item": "%1$s був розсічений гризунами %2$s за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.hellish_blade.item": "%2$s розірвав %1$s пекельним лезом за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.infernal_strike.item": "%2$s проштрикнув %1$s інфернальним лезом за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.summoned_ignited_revenant.item": "%2$s побив %1$s силами запалених поверненців за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.summoned_ignited_berserker.item": "%2$s розщепив %1$s силами запалених берсерків за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.parting_shot.item": "%1$s був розпилений розсіченим пострілом %2$s за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.surveillance_drone.item": "%1$s був якимось чином вбитий пасивним дроном спостереження %2$s за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.disabling_swipe.item": "%2$s вивів з ладу %1$s вимикаючим змахом за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.blood_crystal.item": "%1$s був пронизаний кристалізованим кров'яним списом %2$s за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.molten_bullet.item": "%1$s був спалений розпеченою кулею %2$s за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.frozen_bullet.item": "%1$s змерз до смерті від кріокулі %2$s за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.glacial_block.item": "%1$s змерз до смерті у льодовиковому блоці %2$s за допомогою: %3$s"
+}
