@@ -1,5 +1,5 @@
 {
-    "name": "Salvaging",
+    "name": "Перероблення",
     "icon": "apotheosis:salvaging_table",
     "category": "apotheosis:adventure/affix_loot",
 	"flag": "apotheosis:adventure",
@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
 			"recipe": "apotheosis:salvaging_table",
-			"text": "The $(9)Salvaging Table$() is used to break down affix items into their corresponding $(9)Rarity Materials$()."
+			"text": "$(9)Стіл перероблення$() використовується для розбиття афіксних предметів на відповідні $(9)матеріали рідкості$()."
 		},
 		{
             "type": "patchouli:spotlight",

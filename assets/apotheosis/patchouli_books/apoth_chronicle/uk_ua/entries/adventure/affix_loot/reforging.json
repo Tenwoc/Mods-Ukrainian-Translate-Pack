@@ -12,38 +12,38 @@
     },
     {
       "recipe": "apotheosis:simple_reforging_table",
-      "text": "Щоб отримати можливість працювати над рідкостями, на початку створіть $(#5555FF)Простий стіл перекування$(), який дозволить вам перековувати речі аж до $(#5555FF)Рідкісної$() рідкісності."
+      "text": "Щоб отримати можливість працювати над рідкостями, на початку створіть $(#5555FF)простий стіл перекування$(), який дозволить вам перековувати речі аж до $(#5555FF)Рідкісної$() рідкості."
     },
     {
       "type": "patchouli:text",
       "title": "Вхідні слоти",
-      "text": "Стіл перекування має три вхідних слоти.$(p)The center slot holds the item you wish to reforge.$(p)The top-left slot holds $(9)Rarity Materials$() for the rarity you would like to reforge with."
+      "text": "Стіл перекування має три вхідних слоти.$(p)Центральний призначений для предмета, який ви збираєтеся модифікувати.$(p)Верхній лівий використовує $(9)матеріали рідкості$() для відповідного перекування вашого предмета."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "apotheosis:sigil_of_rebirth",
       "title": "Вхідні слоти",
-      "text": "The bottom-right slot holds $(9)Sigils of Rebirth$(), a unique fuel item used during the Reforging process."
+      "text": "Нижній правий слот споживає $(9)сигіли відродження$(), спеціальні предмети для живлення процесів перекування."
     },
     {
       "type": "patchouli:text",
-      "title": "Reforging",
-      "text": "Similar to an Enchanting Table, when reforging, three choices are offered.$(p)Each choice represents a potential new form of the item being reforged.$(p)No choice is inherently stronger than the others."
+      "title": "Перекування",
+      "text": "Подібно до столу зачарувань, у процесі перекування відкриваються 3 опції.$(p)Кожен вибір представляє потенціальну форму предмета після перекування.$(p)Жодна з опцій не є значно сильнішою за інші."
     },
     {
       "type": "patchouli:text",
-      "title": "Reforging",
-      "text": "For each rarity, there is a base cost of experience, sigils, and materials. The extra choice slots charge double and triple the base cost.$(p)To reforge your item, simply click the desired choice."
+      "title": "Перекування",
+      "text": "Для кожної рідкості застосовується базова вартість досвіду, сигілів та матеріалів. Додатково обрані слоти множать кінцеву вартість у 2-3 рази.$(p)Щоб підтвердити перекування предмета, просто оберіть бажану опцію."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "apotheosis:reforging_table",
-      "text": "To reforge items of $(#BB00BB)Epic$() rarity or higher, you'll need to upgrade your $(#5555FF)Simple Reforging Table$() into a $(#BB00BB)Reforging Table$()."
+      "text": "Щоб мати можливість працювати із рідкостями від $(#BB00BB)Епічної$() та вище, ви повинні покращити свій $(#5555FF)простий стіл перекування$() до $(#BB00BB)столу перекування$()."
     },
     {
       "type": "patchouli:text",
-      "title": "Notes",
-      "text": "Items that are not already affixed can be reforged.$(p)Items can be reforged multiple times.$(p)Modpacks can change the costs or prevent reforging at certain rarities."
+      "title": "Примітка",
+      "text": "Предмети, що не мають афіксів, не можуть бути перековані.$(p)Допустимі предмети можна перекувати необмежену кількість разів.$(p)Розробники модових збірок можуть змінити вартість або заборонити перекування певних рідкостей."
     }
   ]
 }
