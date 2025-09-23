@@ -1,5 +1,5 @@
 {
-    "name": "Life Steal",
+    "name": "Викрадання життя",
     "icon": "apothic_attributes:textures/mob_effect/bleeding.png",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Your $(9)Life Steal$() is the percentage of your physical damage dealt that is added directly to your health.$(p)Generally, only weapons provide this stat."
+            "text": "Ваше $(9)Викрадання життя$(), це процентне значення від вашої фізичної шкоди, яке напряму додається до вашого здоров'я.$(p)Зазвичай тільки зброя може надати цю характеристику."
         }
 	]
 }

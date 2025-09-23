@@ -1,5 +1,5 @@
 {
-    "name": "Crit Chance",
+    "name": "Шанс криту",
     "icon": "minecraft:netherite_sword",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Crit Chance$() is the chance that any damage you deal becomes a critical strike. Values over 100% allow you to perform multicrits.$(p)Found on weapons."
+            "text": "$(9)Шанс криту$() - це ймовірність того, що наступна ваша шкода стане критичною атакою. Значення вище за 100% дозволяють здійснювати мультикрит.$(p)Притаманне зброї."
         },
 		{
 			"type": "patchouli:text",
-			"text": "The amount of damage your critical strikes deal is dependent on your $(l:apotheosis:adventure/attributes/crit_damage)Crit Damage$()."
+			"text": "Величина вашої критичної шкоди залежить від вашої $(l:apotheosis:adventure/attributes/crit_damage)Критичної шкоди$()."
 		}
 	]
 }

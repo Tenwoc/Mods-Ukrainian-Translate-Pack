@@ -14,31 +14,31 @@
             "type": "patchouli:spotlight",
 			"item": "apotheosis:common_material",
 			"link_recipe": true,
-            "text": "A strangely shaped piece of an unidentifiable metal.$(p)This material is obtained when salvaging common items."
+            "text": "Дивно сформований шматок невідомого металу.$(p)Цей матеріал отримується в результаті перероблення Звичайних предметів."
         },
 		{
             "type": "patchouli:spotlight",
 			"item": "apotheosis:uncommon_material",
 			"link_recipe": true,
-            "text": "An incredibly durable fabric, worn down by countless ages. It boasts not a single tear.$(p)Found when salvaging uncommon items."
+            "text": "Неймовірно міцна тканина, зношена незліченними століттями. На ній немає жодної дірки.$(p)Отримується в результаті перероблення Незвичайних предметів."
         },
 		{
             "type": "patchouli:spotlight",
 			"item": "apotheosis:rare_material",
 			"link_recipe": true,
-            "text": "A piece of the brightest crystal ever to exist. Though it is but a shard, it contains a strong magical power.$(p)Acquired from salvaging rare items."
+            "text": "Шматочок найяскравішого кришталю, який коли-небудь існував. Хоча це лише уламок, він містить потужну магічну силу. $(p)Отримується в результаті перероблення Рідкісних предметів."
         },
 		{
             "type": "patchouli:spotlight",
 			"item": "apotheosis:epic_material",
 			"link_recipe": true,
-            "text": "Grains of sand from a magical realm, where arcane magic warps all life.$(p)Salvaging an epic item reduces them to this form."
+            "text": "Піщинки з чарівного світу, де таємнича магія спотворює все живе. $(p)Перероблення Епічних предметів поверне їх до цієї форми."
         },
 		{
             "type": "patchouli:spotlight",
 			"item": "apotheosis:mythic_material",
 			"link_recipe": true,
-            "text": "A pearl of purified godlike energy. The immense power sealed within makes it quite volatile.$(p)These extraordinary creations may only be obtained through salvaging mythic items."
+            "text": "Перлина очищеної божественної енергії. Величезна сила, що міститься в ній, робить її досить нестабільною.$(p)Ці надзвичайні витвори можна отримати лише шляхом перероблення Міфічних предметів."
         }
 	]
 }

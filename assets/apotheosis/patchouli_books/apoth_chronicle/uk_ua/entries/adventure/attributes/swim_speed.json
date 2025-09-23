@@ -1,5 +1,5 @@
 {
-    "name": "Swim Speed",
+    "name": "Швидкість плавання",
     "icon": "minecraft:kelp",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Swim Speed$() is a modifier to your actual swim speed. If your swim speed was 200%, you would swim twice as fast.$(p)Only found on boots."
+            "text": "$(9)Швидкість плавання$() - це модифікатор вашої фактичної швидкости плавання. Маючи значення 200%, ви будете плисти вдвічі швидше ніж зазвичай.$(p)Притаманне лише чоботам."
         }
 	]
 }

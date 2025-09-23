@@ -1,5 +1,5 @@
 {
-    "name": "Max Health",
+    "name": "Максимальне здоров'я",
     "icon": "minecraft:apple",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Max Health$() controls the number of health points (HP) you have. One point is half a heart.$(p)Usually provided by armor or shields."
+            "text": "$(9)Максимальне здоров'я$() визначає кількість очок здоров'я (HP), яку ви можете мати. Одне очко дорівнює половині серця смужки здоров'я.$(p)Зазвичай забезпечується обладунками та щитами."
         }
 	]
 }

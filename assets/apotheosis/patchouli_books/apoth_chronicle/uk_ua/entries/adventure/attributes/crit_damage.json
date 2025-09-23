@@ -1,5 +1,5 @@
 {
-    "name": "Crit Damage",
+    "name": "Критична шкода",
     "icon": "minecraft:netherite_axe",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Crit Damage$() is the damage modifier for your critical strikes.$(p)Jump crits also use your Crit Damage value, instead of the usual 1.5x multiplier.$(p)Found on weapons."
+            "text": "$(9)Шкода від критичних атак$() - це модифікатор шкоди для ваших критичних атак.$(p)Критичні атаки у стрибку також застосовують цю характеристику замість звичайного множника 1.5.$(p)Притаманне зброї."
         }
 	]
 }

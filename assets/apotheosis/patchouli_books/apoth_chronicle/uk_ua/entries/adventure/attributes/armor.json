@@ -1,5 +1,5 @@
 {
-    "name": "Armor",
+    "name": "Захист",
     "icon": "minecraft:iron_chestplate",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,19 +7,19 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Armor$() is a measure of how resistant you are to physical damage.$(p)Usually provided by armor items, and shields.$(p)How much damage you take is a function of the incoming damage and your armor."
+            "text": "$(9)Захист$() - це показник вашої стійкості до фізичних ушкоджень.$(p)Зазвичай забезпечується предметами броні та щитами.$(p)Кількість отриманої шкоди залежить від сили удару та вашої броні."
         },
 		{
 			"type": "patchouli:text",
-			"text": "The first component of the formula is the $(br)A-value, equal to $(9)10 + (damage - 20) / 2$(), with a minimum value of $(9)10$().$(p)You then reduce damage equal to $(br)$(9)A / (A + armor)$().$(p)The aforementioned formula is not the one used by Vanilla Minecraft, as Apotheosis replaces it."
+			"text": "Першим компонентом формули є значення $(br)A, яке дорівнює $(9)10 + (шкода - 20) / 2$(), з мінімальним значенням $(9)10$().$ (p)Потім ви зменшуєте шкоду, рівну $(br)$(9)A / (A + захист)$().$(p)Вищезазначена формула не є тією, що використовується у звичайній грі, оскільки Apotheosis замінює її."
 		},
 		{
 			"type": "patchouli:text",
-			"text": "For vanilla armor and damage values, you will find yourself taking slightly less damage.$(p)For high armor and damage values, armor will be significantly less effective."
+			"text": "При стандартних значеннях броні та шкоди ви отримаєте трохи менше шкоди.$(p)При високих значеннях броні та шкоди броня буде значно менш ефективною."
 		},
 		{
 			"type": "patchouli:text",
-			"text": "The goal of this change is to reduce invulnerabilty at high levels, and make $(9)Protection$() and $(9)Resistance$() more impactful.$(p)It also makes fights where both parties are heavily armored significantly more active."
+			"text": "Метою цієї зміни є зменшення невразливості на високих рівнях та підвищення ефективности $(9)Захисту$() і $(9)Стійкости$().$(p)Це також робить бої, в яких обидві сторони мають сильні обладунки, значно активнішими."
 		}
 	]
 }
