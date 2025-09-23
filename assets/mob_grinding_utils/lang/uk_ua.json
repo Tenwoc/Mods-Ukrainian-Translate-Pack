@@ -22,7 +22,7 @@
   "block.mob_grinding_utils.dreadful_dirt": "Моторошний ґрунт",
   "block.mob_grinding_utils.solid_xp_block": "Твердий досвід",
   "block.mob_grinding_utils.delightful_dirt": "Дивовижний ґрунт",
-  "block.mob_grinding_utils.entity_spawner": "Спавнер сутностей",
+  "block.mob_grinding_utils.entity_spawner": "Породжувач сутностей",
 
   "_comment": "Рідини",
   "mob_grinding_utils.fluid_xp": "Рідкий досвід",
@@ -65,8 +65,8 @@
   "item.mob_grinding_utils.solid_xp_mould_baby": "Формова заготівля желейного дитя чарів",
   "item.mob_grinding_utils.solid_xp_baby": "Желейне дитя чарів",
   "item.mob_grinding_utils.xp_solidifier_upgrade": "Покращення швидкості твердіння досвіду",
-  "item.mob_grinding_utils.spawner_upgrade_width": "Покращення ширини спавнера сутностей",
-  "item.mob_grinding_utils.spawner_upgrade_height": "Покращення висоти спавнера сутностей",
+  "item.mob_grinding_utils.spawner_upgrade_width": "Покращення ширини породжувача сутностей",
+  "item.mob_grinding_utils.spawner_upgrade_height": "Покращення висоти породжувача сутностей",
   "item.mob_grinding_utils.monocle": "Монокль",
 
   "_comment": "Творча вкладка",
@@ -143,7 +143,7 @@
   "block.mob_grinding_utils.entity_spawner.tooltip_1": "Може створювати мобів у зоні 3x3x1.",
   "block.mob_grinding_utils.entity_spawner.tooltip_2": "Використовує яйце мобів у верхньому слоті.",
   "block.mob_grinding_utils.entity_spawner.tooltip_3": "Підживлюється желейними дитятами чарів.",
-  "block.mob_grinding_utils.entity_spawner.tooltip_4": "Покращений за рахунок поліпшення швидкості досвіду та збільшення висоти/ширини спавнерів.",
+  "block.mob_grinding_utils.entity_spawner.tooltip_4": "Покращений за рахунок поліпшення швидкості досвіду та збільшення висоти/ширини породжувачів.",
   "block.mob_grinding_utils.entity_spawner.tooltip_5": "Зону впливу можна перемикати у своїй грі.",
   "block.mob_grinding_utils.entity_spawner.tooltip_6": "Позицію можна змістити в його інтерфейсі.",
 

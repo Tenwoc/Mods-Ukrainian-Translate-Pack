@@ -1,5 +1,5 @@
 {
-  "block.easy_npc.easy_npc_spawner": "Спавнер EasyNPC",
+  "block.easy_npc.easy_npc_spawner": "Породжувач EasyNPC",
   "entity.easy_npc.allay": "Збирик",
   "entity.easy_npc.bogged": "Болотяник",
   "entity.easy_npc.cat": "Кіт",
@@ -316,7 +316,7 @@
   "text.easy_npc.config.yes_no_dialog": "Так/Ні",
   "text.easy_npc.config.yes_no_dialog.title": "Так/Ні діалог",
   "text.easy_npc.config.zombie_attack": "Атака зомбі",
-  "text.easy_npc.container.easy_npc_spawner_entity": "Спавнер EasyNPC",
+  "text.easy_npc.container.easy_npc_spawner_entity": "Породжувач EasyNPC",
   "text.easy_npc.invalid_remote_image": "Віддалений образ недійсний або недоступний!\nПеревірте URL-адресу та спробуйте ще раз.",
   "text.easy_npc.item.easy_npc_preset": "► Клацніть ПКМ у порожньому місці, щоб заспавнити ніпа НІПа.",
   "text.easy_npc.item.easy_npc_preset.custom_name": "Ім'я: %s",

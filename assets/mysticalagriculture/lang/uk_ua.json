@@ -72,7 +72,7 @@
   "block.mysticalagriculture.seed_reprocessor": "Переробник насіння",
   "block.mysticalagriculture.soul_extractor": "Витягач душ",
   "block.mysticalagriculture.harvester": "Комбайн",
-  "block.mysticalagriculture.soulium_spawner": "Соулієвий спавнер",
+  "block.mysticalagriculture.soulium_spawner": "Соулієвий породжувач",
   
   "block.mysticalagriculture.mystical_crop": "Посів %s",
 
@@ -261,7 +261,7 @@
   "container.mysticalagriculture.reprocessor": "Переробник насіння",
   "container.mysticalagriculture.soul_extractor": "Витягач душ",
   "container.mysticalagriculture.harvester": "Комбайн",
-  "container.mysticalagriculture.soulium_spawner": "Соулієвий спавнер",
+  "container.mysticalagriculture.soulium_spawner": "Соулієвий породжувач",
 
   "enchantment.mysticalagriculture.mystical_enlightenment": "Містичне просвітлення",
   "enchantment.mysticalagriculture.mystical_enlightenment.desc": "З Ендер-драконів і Візерів випадатиме Пил Знань, якщо вони були вбиті зброєю з есенції.",
@@ -315,7 +315,7 @@
   "jei.category.mysticalagriculture.enchanter": "Зачарувальник",
   "jei.category.mysticalagriculture.reprocessor": "Переробка насіння",
   "jei.category.mysticalagriculture.soul_extractor": "Витягування душ",
-  "jei.category.mysticalagriculture.soulium_spawner": "Соулієвий спавнер",
+  "jei.category.mysticalagriculture.soulium_spawner": "Соулієвий породжувач",
   "jei.category.mysticalagriculture.crux": "Основа",
 
 
@@ -726,9 +726,9 @@
   "book.mysticalagriculture.entry.harvester": "Комбайн",
   "book.mysticalagriculture.entry.harvester.page.1": "Комбайни використовуються для автоматичного збору посівів, що повністю виросли. Вони працюють на твердому паливі та мають внутрішній буфер для зберігання енергії. $(br2)Комбайн автоматично пересаджує зібрані культури. $(br2)Комбайн помістить усі ресурси у свій внутрішній інвентар. Якщо місця немає, предмети будуть залишені у місці збору.",
   "book.mysticalagriculture.entry.harvester.page.2": "Комбайн витрачатиме трохи енергії щоразу, коли перевірятиме чи виросли посіви. Збір посівів, що повністю виросли, споживає більше енергії. $(br2)Цю машину можна поліпшити за допомогою $(l:machines/machine_upgrades)Покращення для машин$().",
-  "book.mysticalagriculture.entry.soulium_spawner": "Соулієвий спавнер",
-  "book.mysticalagriculture.entry.soulium_spawner.page.1": "Соулієвий спавнер використовується для відродження як ворожих, так і пасивних мобів, що використовують есенції. Він працює на твердому паливі і має внутрішній буфер для зберігання енергії. $(br2)Спавнер має внутрішній інвентар, який може містити до 512 предметів. Кожна операція потребує певної кількості предметів та енергії для створення відповідного моба.",
-  "book.mysticalagriculture.entry.soulium_spawner.page.2": "Спавнер буде створювати мобів випадковим чином у радіусі 3 блоків навколо себе. $(br2)Його можна покращити за допомогою $(l:machines/machine_upgrades)машинного покращення$(). $(br2)Соулієвий спавнер можна деактивувати за допомогою редстоунового сигналу.",
+  "book.mysticalagriculture.entry.soulium_spawner": "Соулієвий породжувач",
+  "book.mysticalagriculture.entry.soulium_spawner.page.1": "Соулієвий породжувач використовується для відродження як ворожих, так і пасивних мобів, що використовують есенції. Він працює на твердому паливі і має внутрішній буфер для зберігання енергії. $(br2)Породжувач має внутрішній інвентар, який може містити до 512 предметів. Кожна операція потребує певної кількості предметів та енергії для створення відповідного моба.",
+  "book.mysticalagriculture.entry.soulium_spawner.page.2": "Породжувач буде створювати мобів випадковим чином у радіусі 3 блоків навколо себе. $(br2)Його можна покращити за допомогою $(l:machines/machine_upgrades)машинного покращення$(). $(br2)Соулієвий породжувач можна деактивувати за допомогою редстоунового сигналу.",
 
   "book.mysticalagriculture.entry.essence_tools": "Інструменти з есенції",
   "book.mysticalagriculture.entry.essence_tools.page.1": "Покращення діамантових інструментів за допомогою есенції підвищує їхню міцність та швидкість видобутку. Це також дозволить надягати на них $(l:tinkering/augments)Розширення$(). $(br2)Інструменти з есенції можна полагодити на ковадлі за допомогою відповідного злитка есенції. Кожен із цих інструментів має 1 слот для розширень.",

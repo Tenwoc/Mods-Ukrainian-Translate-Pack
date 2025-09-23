@@ -61,7 +61,7 @@
     "block.rftoolsutility.screen_controller": "Контролер екрану",
     "block.rftoolsutility.creative_screen": "Креативний екран",
     "block.rftoolsutility.matter_beamer": "Випромінювач матерії",
-    "block.rftoolsutility.spawner": "Спавнер",
+    "block.rftoolsutility.spawner": "Породжувач",
     "block.rftoolsutility.environmental_controller": "Контролер навколишнього середовища",
 
     "block.rftoolsutility.analog": "Аналоговий",
@@ -181,7 +181,7 @@
     "message.rftoolsutility.advanced_charged_porter.energy": "Енергія: ",
     "message.rftoolsutility.advanced_charged_porter.target": "Ціль: ",
 
-    "message.rftoolsutility.syringe.header": "Шприц можна використовувати на мобах, щоб захопити їхню сутність. Потім її можна використати для створення спавнера. Зверніть увагу, що шприц має бути повним",
+    "message.rftoolsutility.syringe.header": "Шприц можна використовувати на мобах, щоб захопити їхню сутність. Потім її можна використати для створення породжувача. Зверніть увагу, що шприц має бути повним",
     "message.rftoolsutility.syringe.level": "Рівень: ",
     "message.rftoolsutility.syringe.mob": "Ціль: ",
 
@@ -203,7 +203,7 @@
     "message.rftoolsutility.simple_dialer.receiver": "Приймач: ",
     "message.rftoolsutility.simple_dialer.once": "Один раз: ",
 
-    "message.rftoolsutility.matter_beamer.header": "Цей блок перетворює матерію на промінь енергії. Потім він може надіслати цей промінь до підключеного спавнера. Підключення за допомогою ключа",
+    "message.rftoolsutility.matter_beamer.header": "Цей блок перетворює матерію на промінь енергії. Потім він може надіслати цей промінь до підключеного породжувача. Підключення за допомогою ключа",
     "message.rftoolsutility.matter_beamer.gold": "Бонус від вливання: зменшується споживання енергії, збільшується швидкість і витрачається менше матеріалу",
 
     "message.rftoolsutility.spawner.header": "Цей блок може породжувати істот. Для цього потрібен шприц відповідного типу, радіочастотна енергія, а також промені зарядженої матерії",

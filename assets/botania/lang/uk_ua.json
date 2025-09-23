@@ -470,7 +470,7 @@
     "advancement.botania:dirtRodCraft": "Рокбелл",
     "advancement.botania:dirtRodCraft.desc": "Створіть брудну пали... ой... жезл земель",
     "advancement.botania:spawnerMoverUse": "Я можу зняти свій (відредаговано)",
-    "advancement.botania:spawnerMoverUse.desc": "Використовуйте агрегатор життя, щоб транспортувати спавнер монстрів",
+    "advancement.botania:spawnerMoverUse.desc": "Використовуйте агрегатор життя, щоб транспортувати породжувач монстрів",
     "advancement.botania:enderAirMake": "Імітація повітря",
     "advancement.botania:enderAirMake.desc": "Зберіть пляшку повітря Енду",
     "advancement.botania:corporeaCraft": "Кишеньковий герой",
@@ -2984,9 +2984,9 @@
     "botania.page.enderDagger2": "Удар мою душу",
 
     "botania.entry.spawnerClaw": "Насичувач життям",
-    "botania.tagline.spawnerClaw": "Підтримує спавнери за ману, навіть якщо нікого немає",
-    "botania.page.spawnerClaw0": "$(item)Спавнери$(0) — дивні пристрої. Вони мають здатність створювати життя з повітря, але лише тоді, коли хтось поруч є свідком їхніх дій.$(p)Таким чином, будь-хто, хто бажає використати одну з цих дивацтв, виявляється прив’язаним через потребу до навколишньої території.",
-    "botania.page.spawnerClaw1": "$(item)Насичувач життям$(0) є альтернативою: якщо його помістити на $(item)Спавнер$(0), він використовуватиме $(thing)Ману$(0) (подається з $(l:mana/spreader)$(item)Spreader$(0)$(/l)), щоб викликати появу за відсутності гравців.",
+    "botania.tagline.spawnerClaw": "Підтримує породжувачі за ману, навіть якщо нікого немає",
+    "botania.page.spawnerClaw0": "$(item)Породжувачі$(0) — дивні пристрої. Вони мають здатність створювати життя з повітря, але лише тоді, коли хтось поруч є свідком їхніх дій.$(p)Таким чином, будь-хто, хто бажає використати одну з цих дивацтв, виявляється прив’язаним через потребу до навколишньої території.",
+    "botania.page.spawnerClaw1": "$(item)Насичувач життям$(0) є альтернативою: якщо його помістити на $(item)Породжувач$(0), він використовуватиме $(thing)Ману$(0) (подається з $(l:mana/spreader)$(item)Spreader$(0)$(/l)), щоб викликати появу за відсутності гравців.",
     "botania.page.spawnerClaw2": "Просто трохи підштовхнути",
 
     "botania.entry.redString": "Червона нитка",
@@ -3075,9 +3075,9 @@
     "botania.page.corporeaRetainer4": "Використання $(l:basics/wand)$(item)Жезла лісу$(0)$(/l) на $(item)Фіксаторі$(0) перемикає його між запам’ятовуванням загальної кількості вихідного запиту або лише кількість відсутніх предметів.",
 
     "botania.entry.spawnerMover": "Агрегатор життя",
-    "botania.tagline.spawnerMover": "Можливість переміщення спавнерів",
-    "botania.page.spawnerMover0": "Коли $(l:alfhomancy/elf_resources)$(item)Дракон-камінь$(0)$(/l), $(l:alfhomancy/elf_resources)$(item)Елементій$(0)$(/l), $(l:ender/ender_air)$(item)Повітря Енду$(0)$(/l) і $(l:alfhomancy/gaia_ritual)$(item)Дух Ґаї$(0)$(/l) створено за певним зразком, вони дають пристрій, який може стримувати цікаву енергію $(item)Спавнерів$(0) і переносити їх в іншу точку простору.$(p)На жаль, пристрій розбивається після одного використання.",
-    "botania.page.spawnerMover1": "Посилка спавнера",
+    "botania.tagline.spawnerMover": "Можливість переміщення породжувачів",
+    "botania.page.spawnerMover0": "Коли $(l:alfhomancy/elf_resources)$(item)Дракон-камінь$(0)$(/l), $(l:alfhomancy/elf_resources)$(item)Елементій$(0)$(/l), $(l:ender/ender_air)$(item)Повітря Енду$(0)$(/l) і $(l:alfhomancy/gaia_ritual)$(item)Дух Ґаї$(0)$(/l) створено за певним зразком, вони дають пристрій, який може стримувати цікаву енергію $(item)Породжувачів$(0) і переносити їх в іншу точку простору.$(p)На жаль, пристрій розбивається після одного використання.",
+    "botania.page.spawnerMover1": "Посилка породжувача",
 
     "botania.entry.keepIvy": "Рішучий плющ",
     "botania.tagline.keepIvy": "Зберігайте речі після смерті",
