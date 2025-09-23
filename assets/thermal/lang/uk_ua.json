@@ -447,7 +447,7 @@
   "block.thermal.nuke_tnt.desc": "Не для використання на близькій відстані.",
   "block.thermal.phyto_tnt": "ФНТ",
   "block.thermal.phyto_tnt.desc": "Поширює фіто-гро на великій території. Не кидається.",
-  "block.thermal.redstone_tnt": "Червонокам'яний динаміт",
+  "block.thermal.redstone_tnt": "Редстоуновий динаміт",
   "block.thermal.redstone_tnt.desc": "Під час вибуху створює область сигналу червоного каменю.",
   "block.thermal.slime_tnt": "Слизнячий динаміт",
   "block.thermal.slime_tnt.desc": "Під час вибуху покриває слизом територію. Має високу віддачу.",
@@ -540,7 +540,7 @@
   "item.thermal.nuke_grenade.desc": "Не для використання на близькій відстані.",
   "item.thermal.phyto_grenade": "Фіто-граната",
   "item.thermal.phyto_grenade.desc": "Кидається фіто-гро зі збільшеною площею.",
-  "item.thermal.redstone_grenade": "Червонокам'яна граната",
+  "item.thermal.redstone_grenade": "Редстоунова граната",
   "item.thermal.redstone_grenade.desc": "Під час удару створює область сигналу червоного каменю.",
   "item.thermal.slime_grenade": "Слимацька граната",
   "item.thermal.slime_grenade.desc": "При ударі покриває слизом територію. Має високу віддачу.",
@@ -990,7 +990,7 @@
   "entity.thermal.lightning_tnt_minecart": "Вагонетка з блискавичним динамітом",
   "entity.thermal.nuke_tnt_minecart": "Вагонетка з ядерним динамітом",
   "entity.thermal.phyto_tnt_minecart": "Вагонетка з ФНТ",
-  "entity.thermal.redstone_tnt_minecart": "Вагонетка з червонокам'яним динамітом",
+  "entity.thermal.redstone_tnt_minecart": "Вагонетка з редстоуновим динамітом",
   "entity.thermal.slime_tnt_minecart": "Вагонетка зі слимаковим динамітом",
   "entity.thermal.energy_minecart": "Вагонетка з енергетичною коміркою",
   "entity.thermal.fluid_minecart": "Вагонетка з рідинним резервуаром",
@@ -1003,12 +1003,12 @@
   "item.thermal.lightning_tnt_minecart": "Вагонетка з блискавичним динамітом",
   "item.thermal.nuke_tnt_minecart": "Вагонетка з ядерним динамітом",
   "item.thermal.phyto_tnt_minecart": "Вагонетка з ФНТ",
-  "item.thermal.redstone_tnt_minecart": "Вагонетка з червонокам'яним динамітом",
+  "item.thermal.redstone_tnt_minecart": "Вагонетка з редстоуновим динамітом",
   "item.thermal.slime_tnt_minecart": "Вагонетка зі слимаковим динамітом",
   "item.thermal.energy_minecart": "Вагонетка з енергетичною коміркою",
   "item.thermal.fluid_minecart": "Вагонетка з рідинним резервуаром",
   "item.thermal.underwater_minecart": "Підводна вагонетка",
 
   "thermal.book.name": "Керівництво Thermal",
-  "thermal.book.landing_text": "Ласкаво просимо в посібник із серії Thermal! Від усіх нас, хто працював над ним, ми сподіваємося, що вам сподобається."
+  "thermal.book.landing_text": "Ласкаво просимо в посібник Thermal Series! Від усіх нас, хто працював над ним, ми сподіваємося, що вам сподобається."
 }
