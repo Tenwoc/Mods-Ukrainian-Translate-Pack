@@ -189,7 +189,7 @@
   "item.ars_additions.lost_codex_entry": "Втрачений запис кодексу",
   "chat.ars_additions.codex_entry.congratulations": "Вітаємо!",
   "chat.ars_additions.codex_entry.lore": "Відкриває випадковий гліф %s рівня",
-  "chat.ars_additions.codex_entry.no_glyphs": "Цей кодекс вже не містить для вас нічого нового",
+  "chat.ars_additions.codex_entry.no_glyphs": "Цей кодекс вже не навчить вас нічого нового",
 
   "item.ars_additions.unstable_reliquary": "Нестабільний релікварій",
   "tooltip.ars_additions.reliquary.marked": "%s",

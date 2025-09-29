@@ -2,10 +2,10 @@
   "block.advanced_ae.adv_pattern_provider": "Просунутий розширений постачальник шаблонів",
   "block.advanced_ae.data_entangler": "Квантовий заплутувач даних",
   "block.advanced_ae.quantum_accelerator": "Прискорювач квантового комп'ютера",
-  "block.advanced_ae.quantum_alloy_block": "Блок квантового стопу",
-  "block.advanced_ae.quantum_alloy_slab": "Плита з квантового стопу",
-  "block.advanced_ae.quantum_alloy_stairs": "Сходи з квантового стопу",
-  "block.advanced_ae.quantum_alloy_wall": "Стіна з квантового стопу",
+  "block.advanced_ae.quantum_alloy_block": "Блок квантового злитка",
+  "block.advanced_ae.quantum_alloy_slab": "Плита з квантового злитка",
+  "block.advanced_ae.quantum_alloy_stairs": "Сходи з квантового злитка",
+  "block.advanced_ae.quantum_alloy_wall": "Стіна з квантового злитка",
   "block.advanced_ae.quantum_core": "Ядро квантового комп'ютера",
   "block.advanced_ae.quantum_crafter": "Квантовий збирач",
   "block.advanced_ae.quantum_infusion_block": "Квантове злиття",
@@ -132,7 +132,7 @@
   "item.advanced_ae.pick_craft_card": "Картка запиту",
   "item.advanced_ae.portable_workbench_card": "Картка портативного верстака",
   "item.advanced_ae.printed_quantum_processor": "Друкована квантова схема",
-  "item.advanced_ae.quantum_alloy": "Квантовий стоп",
+  "item.advanced_ae.quantum_alloy": "Квантовий сплав",
   "item.advanced_ae.quantum_alloy_plate": "Квантова пластина",
   "item.advanced_ae.quantum_boots": "Квантові чоботи",
   "item.advanced_ae.quantum_chestplate": "Квантовий нагрудник",
@@ -166,5 +166,5 @@
   "key.advanced_ae.quantum_auto_stock_upgrade": "Перемикач автоматичного запасання квантової броні",
   "key.advanced_ae.quantum_magnet_upgrade": "Перемикач магніту квантової броні",
   "key.advanced_ae.quantum_night_vision_upgrade": "Перемикач нічного бачення квантової броні",
-  "material.advanced_ae.quantum_alloy": "Квантовий стоп"
+  "material.advanced_ae.quantum_alloy": "Квантовий сплав"
 }

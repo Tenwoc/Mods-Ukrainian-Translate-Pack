@@ -450,7 +450,7 @@
     "affix.apotheosis.cooldown": "[⌛ %s]",
     "affix.apotheosis.stacking": "[Накопичується]",
 
-    "affix.apotheosis:durable.desc": "Цей предмет втрачає на %s%% міцности.",
+    "affix.apotheosis:durable.desc": "Цей предмет втрачає на %s%% менше міцности.",
     "affix.apotheosis:socket.desc": "Інкрустовано (%s)",
 
     "socket.apotheosis.empty": "Порожній каст",
@@ -501,7 +501,7 @@
     "bonus.apotheosis:mageslayer.desc": "Ігнорує %s%% магічної шкоди та зцілює на відповідне значення.",
     "bonus.apotheosis:twilight_ore_magnet.desc": "Можна використовувати як рудний магніт ціною %s очок міцности.",
     "bonus.apotheosis:twilight_treasure_goblin.desc": "Атака сутностей має %s%% ймовірність викликати скарбничого гобліна. %s",
-    "bonus.apotheosis:twilight_fortification.desc": "Отримання шкоди має %s%% ймовірність  огорнути вас щитами сутінків. %s",
+    "bonus.apotheosis:twilight_fortification.desc": "Отримання шкоди має %s%% ймовірність огорнути вас щитами сутінків. %s",
     "bonus.apotheosis:frozen_drops.desc": "Вбивство ворога за допомогою: %s збільшує кількість дропу на %s%%.",
 
     "misc.apotheosis.level": "рівень",
