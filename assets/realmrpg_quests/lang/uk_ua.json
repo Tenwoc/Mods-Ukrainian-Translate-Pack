@@ -114,7 +114,7 @@
   "item.realmrpg_quests.potion_of_oblivion": "Зілля забуття",
   "item.realmrpg_quests.potion_of_oblivion_desc": "Змушує NPC забути поточне завдання і відразу ж почати наступне випадкове.",
   "item.realmrpg_quests.quest_book": "Журнал доручень",
-  "item.realmrpg_quests.quest_book.desc": "Вірний супутник авантюриста у формі предмета. Потрібен тим, хто не користується гарячою клавішею (за замовчуванням J, змінюється в налаштуваннях керування).",
+  "item.realmrpg_quests.quest_book.desc": "Вірний супутник авантюриста у формі предмета. Потрібен тим, хто не користується гарячою клавішею (усталено J, змінюється в налаштуваннях керування).",
   "item.realmrpg_quests.quest_item.desc": "Предмет квесту",
   "item.realmrpg_quests.ring_of_exp": "Кільце Малого Вогню",
   "item.realmrpg_quests.ring_of_fire": "Кільце полум'я",

@@ -178,9 +178,9 @@
   "effect.toughasnails.ice_resistance.description": "Запобігає замерзанню.",
   "effect.toughasnails.climate_clemency.description": "Нейтралізує температуру тіла при появі в новому світі.",
 
-  "effect.nutritionalbalance.nourished_effect.description": "За замовчуванням збільшує максимальне здоров'я, швидкість атаки, швидкість руху та шкоду від атаки.",
-  "effect.nutritionalbalance.malnourished_effect.description": "За замовчуванням зменшує максимальне здоров'я, швидкість руху та шкоду від атаки.",
-  "effect.nutritionalbalance.engorged_effect.description": "За замовчуванням зменшує швидкість атаки та швидкість руху.",
+  "effect.nutritionalbalance.nourished_effect.description": "Збільшує стале максимальне здоров'я, швидкість атаки, швидкість руху та шкоду від атаки.",
+  "effect.nutritionalbalance.malnourished_effect.description": "Зменшує стале максимальне здоров'я, швидкість руху та шкоду від атаки.",
+  "effect.nutritionalbalance.engorged_effect.description": "Зменшує сталу швидкість атаки та швидкість руху.",
 
   "effect.naturesaura.breathless.description": "Завдає шкоди через випадкові проміжки часу та значно ускладнює відновлення здоров'я.",
 

@@ -5,128 +5,127 @@ navigation:
   icon: pattern_provider
 ---
 
-# Autocrafting
+# Автовироблення
 
-### The Big One
+### Велика справа
 
 <GameScene zoom="4" interactive={true}>
   <ImportStructure src="../assets/assemblies/autocraft_setup_greebles.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Autocrafting is one of the primary functions of AE2. Instead of manually having to craft the correct number of each sub-ingredient
-and labor away like some sort of *plebian*, you can ask your ME system to do it for you. Or automatically craft items and export them somewhere.
-Or automatically keep certain amounts of items in stock through clever emergent behavior. It also works with fluids, and, if you have
-certain addons for extra mod material types, like Mekanism gasses, those materials too. It's pretty great.
+Автоматичне вироблення — одна з основних функцій AE2. Замість того, щоб вручну майструвати потрібну кількість кожного інгредієнта
+і працювати, як якийсь *плебей*, ви можете попросити свою систему ME зробити це за вас. Або автоматично виробляти предмети і експортувати їх кудись.
+Або автоматично зберігати певну кількість предметів на складі завдяки розумним механікам. Це також працює з 
+рідинами та певними аддонами для незвичайних типів модових матеріалів, таких як гази Mekanism. Це досить круто.
 
-It is quite a complex topic, so strap in and let's go.
+Це досить складна тема, тож пристебніться і поїхали!
 
-An autocrafting setup consists of 3 things:
-- The thing sending the crafting request
-- The crafting CPU
-- The <ItemLink id="pattern_provider" />.
+Установка для автовироблення складається з 3 речей:
+- Надсилач запитів на вироблення
+- Процесори вироблення
+- <ItemLink id="pattern_provider" />.
 
-Here is what happens:
+Ось як це відбувається:
 
-1.  Something creates a crafting request. This can be you in the terminal clicking on something autocraftable,
-    or an export bus or interface with a crafting card requesting one of the item they're set to export/stock.
+1.  Щось надсилає запит на вироблення. Це можете бути ви, коли натискаєте у терміналі на щось, що доступно до автовироблення,
+    або шина експорту чи інтерфейс із карткою вироблення, коли передають визначені для них предмети.
 
-*   (**IMPORTANT:** use whatever you have bound to "pick block" (usually middle-mouse) to request crafts of something you already have in stock, this can conflict with inventory sorting mods),
+*   (**ВАЖЛИВО:** ви можете надсилати запити за допомогою СКМ для предметів, що вже є у сховищі, проте це може конфліктувати із сортувальними модами (що також часто працюють через СКМ)),
 
-2.  The ME system calculates the required ingredients and prerequisite crafting steps to fulfill the request, and stores them in the selected crafting CPU
+2.  Система ME розраховує необхідні інгредієнти та попередні етапи вироблення для виконання запиту і зберігає їх у вибраному процесорі вироблення.
 
-3.  The <ItemLink id="pattern_provider" /> with the relevant [pattern](../items-blocks-machines/patterns.md) pushes the ingredients specified in the pattern to any adjacent inventory.
-    In the case of a crafting table recipe (a "crafting pattern") this will be a <ItemLink id="molecular_assembler" />.
-    In the case of a non-crafting recipe (a "processing pattern") this will be some other block or machine or elaborate redstone-controlled setup.
+3.  <ItemLink id="pattern_provider" /> із відповідним [шаблоном](../items-blocks-machines/patterns.md) виштовхує інгредієнти, зазначені шаблоном у прилегле містило.
+    У випадку із рецептами майстрування («шаблон майстрування») це повинен бути <ItemLink id="molecular_assembler" />.
+    У випадку із рецептами не майстрування («шаблон обробки») це повинен бути інший блок, машина, чи навіть редстоуновий механізм.
 
-4.  The result of the craft is returned to the system somehow, be it by import bus, interface, or pushing the result back into a pattern provider.
-    **Note that an "item entering system" event must occur, you can't just pipe the result into a chest with a <ItemLink id="storage_bus" /> on it.**
+4.  Результат вироблення повертається в систему якимось чином, хай то через шину імпорту, інтерфейс або повернення результату до постачальника шаблонів.
+    **Зверніть увагу, що повинна відбутися подія «введення предмета в систему», ви не можете просто перенаправити результат в скриню, до якої під'єднана <ItemLink id="storage_bus" />.**
 
-5.  If that craft is a prerequisite for another craft in the request, the items are stored in that crafting CPU and then used in that craft.
+5.  Якщо цей крафт є необхідною умовою для іншого крафта в запиті, предмети зберігаються у тому ж процесорі вироблення, а потім використовуються в цьому крафті.
 
-## Recursive Recipes
+## Рекурсивні рецепти
 
 <ItemImage id="minecraft:netherite_upgrade_smithing_template" scale="4" />
 
-One thing the autocrafting algorithm *cannot* handle is recursive recipes. For example, duplication recipes like
-"1 redstone dust = 2 redstone dust", from throwing redstone in a Botania manapool. Another example would be smithing templates
-in vanilla Minecraft. However, there is [a way to handle these recipes.](../example-setups/recursive-crafting-setup.md)
+Єдине, з чим автовироблення *не може* впоратись — це рекурсивні рецепти. До цього відносяться рецепти дублювання на кшталт
+«1 редстоуновий пил = 2 редстоунових пили» через кидання редстоуну у басейн мани Botania. Іншим прикладом є звичайні ковальські шаблони Minecraft. Однак навіть для них існує [метод виконання рецептів](../example-setups/recursive-crafting-setup.md).
 
-# Patterns
+# Шаблони
 
 <ItemImage id="crafting_pattern" scale="4" />
 
-Patterns are made in a <ItemLink id="pattern_encoding_terminal" /> out of blank patterns.
+Для створення шаблонів використовується <ItemLink id="pattern_encoding_terminal" />, який дозволяє перезаписувати пусті шаблони.
 
-There are several different types of pattern for different things:
+Існує кілька різних типів шаблонів для різних цілей:
 
-*   <ItemLink id="crafting_pattern" />s encode recipes made by a crafting table. They can be put directly in a <ItemLink id="molecular_assembler" /> to make it
-    craft the result whenever given the ingredients, but their main use is in a <ItemLink id="pattern_provider" /> next to a molecular assembler.
-    Pattern providers have special behavior in this case, and will send the relevant pattern along with the ingredients to adjacent assemblers.
-    Since assemblers auto-eject the results of crafts to adjacent inventories, an assembler on a pattern provider is all that is needed to automate crafting patterns.
-
-***
-
-*   <ItemLink id="smithing_table_pattern" />s are very similar to crafting patterns, but they encode smithing table recipes. They are also automated by a pattern
-    provider and molecular assembler, and function in the exact same way. In fact, crafting, smithing, and stonecutting patterns can be
-    used in the same setup.
+*   <ItemLink id="crafting_pattern" /> зберігає рецепт верстака. Його можна вставити напряму у <ItemLink id="molecular_assembler" />, щоб він
+    обробляв цей рецепт кожного разу, як отримуватиме інгредієнти, проте його основне використання відкривається, коли поряд з ним розміщено <ItemLink id="pattern_provider" />.
+    У цьому випадку постачальники шаблонів мають особливу поведінку і надсилають відповідний шаблон разом з інгредієнтами до прилеглих збирачів.
+    Оскільки збирачі автоматично вивантажують результати майстрування до сусідніх містил, для автоматизації шаблонів майстрування достатньо мати збирач на постачальнику шаблонів.
 
 ***
 
-*   <ItemLink id="stonecutting_pattern" />s are very similar to crafting patterns, but they encode stonecutter recipes. They are also automated by a pattern
-    provider and molecular assembler, and function in the exact same way. In fact, crafting, smithing, and stonecutting patterns can be
-    used in the same setup.
+*   <ItemLink id="smithing_table_pattern" /> дуже схожий на шаблон майстрування, але зберігає рецепти ковальського стола. Він також автоматизується
+    постачальником шаблоні та молекулярним збирачем, і функціонує так само. Насправді шаблони майстрування, кування та тесання можуть
+    використовуватися в єдиній конструкції.
 
 ***
 
-*   <ItemLink id="processing_pattern" />s are where a lot of flexibility in autocrafting comes from. They are the most generalized type, simply
-    saying "if a pattern provider pushes these ingredients to adjacent inventories, the ME system will receive these items at some point in the
-    near or distant future". They are how you will autocraft with almost any modded machine, or furnaces and the like. Because they are so
-    general in use and do not care what happens between pushing ingredients and receiving the result, you can do some really funky stuff, like inputting
-    the ingredients into an entire complex factory production chain which will sort out stuff, take in other ingredients from infinitely-producing
-    farms, print the entirety of the Bee Movie script, the ME system does not care as long as it gets the result the pattern specifies. In fact,
-    it doesn't even care if the ingredients are in any way related to the result. You could tell it "1 cherry wood planks = 1 nether star" and have
-    your wither farm kill a wither upon receiving a cherry wood planks and it would work.
+*   <ItemLink id="stonecutting_pattern" /> дуже схожий на шаблон майстрування, але зберігає рецепти каменеріза. Він також автоматизується
+    постачальником шаблоні та молекулярним збирачем, і функціонує так само. Насправді шаблони майстрування, кування та тесання можуть
+    використовуватися в єдиній конструкції.
 
-Multiple <ItemLink id="pattern_provider" />s with identical patterns are supported and work in parallel. Additionally, you can have a pattern say,
-for example, 8 cobblestone = 8 stone instead of 1 cobblestone = 1 stone, and the pattern provider will insert 8 cobblestone into
-your smelting setup every operation instead of one at a time.
+***
 
-## The Most General Form of "Pattern"
+*   <ITEMLINK id="processing_pattern" /> — це те, звідки береться велика гнучкість в автовироблення. Ці шаблони є найбільш узагальненим типом,
+    просто кажучи, «якщо постачальник шаблонів переніс ці інгредієнти кудись, система ME отримає результати в найближчому або віддаленому 
+    майбутньому». Саме так ви будете автовиробляти майже з будь-якою модифікованою машиною, піччю тощо. Оскільки вони є настільки загальними у 
+    використанні і не зважають на те, що відбувається між переміщенням інгредієнтів і отриманням результату, ви можете робити дійсно цікаві речі, 
+    наприклад, вводити інгредієнти в цілий складний виробничий ланцюг фабрики, який буде сортувати речі, приймати інші інгредієнти з ферм, що 
+    виробляють їх нескінченно, друкувати весь сценарій «Бі Муві» — система ME не зважає на це, поки отримує результат, що вказаний у 
+    шаблоні. Насправді йому навіть байдуже, чи пов'язані інгредієнти якимось чином з результатом. Ви можете вказати йому «1 вишнева дошка = 1 зірка Незеру»
+    і ваша ферма Візерів вбиватиме Візера після отримання вишневої дошки.
 
-There is actually an even more "general" form of "pattern" than a processing pattern. A <ItemLink id="level_emitter" /> with a crafting card can be set
-to emit a redstone signal in order to craft something. This "pattern" does not define, or even care about ingredients.
-All it says is "If you emit redstone from this level emitter, the ME system will receive this item at some point in the
-near or distant future". This is usually used to activate and deactivate infinite farms which require no input ingredients,
-or to activate a system that handles recursive recipes (which standard autocrafting cannot understand) like, for example, "1 cobblestone = 2 cobblestone"
-if you have a machine that duplicates cobblestone.
+Кілька постачальників шаблонів з однаковими шаблонами здатні працювати паралельно. Крім того, ви можете встановити шаблон,
+наприклад, 8 кругляків = 8 каменів замість 1 кругляк = 1 камінь, і постачальник шаблонів вставлятиме до вашої установки витоплення
+одразу 8 кругляків у кожний момент опрацювання замість 1.
 
-# The Crafting CPU
+## Найпримітивніша форма "шаблону"
+
+Насправді існує ще більш «загальна» форма «шаблону», ніж шаблон обробки. <ItemLink id="level_emitter" /> з карткою вироблення можна 
+налаштувати так, щоб він випромінював сигнал редстоуну для вироблення чогось. Цей «шаблон» не визначає і навіть не враховує 
+інгредієнти. Він лише говорить: «Якщо цей випромінювач рівня випромінює редстоуновий сигнал, система ME отримає цей предмет у 
+найближчому або віддаленому майбутньому». Зазвичай це використовується для активації та деактивації нескінченних ферм, які не 
+потребують вхідних інгредієнтів, або для активації системи, яка обробляє рекурсивні рецепти (які стандартне автомайстрування не може 
+зрозуміти), як, наприклад, «1 кругляк = 2 кругляки», якщо у вас є машина, яка дублює кругляк.
+
+# Процесори вироблення
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/crafting_cpus.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Crafting CPUs manage crafting requests/jobs. They store the intermediate ingredients while crafting jobs with multiple steps are
-being carried out, and affect how big jobs can be, and to some degree how fast they are completed. They are multiblocks, and
-must be rectangular prisms with at least 1 crafting storage.
+Процесори вироблення управляють запитами/завданнями на виготовлення. Вони зберігають Вони зберігають проміжні інгредієнти під час виконання багатоетапних завдань 
+і впливають на розмір завдань та, певною мірою, на швидкість їх виконання. Вони багатоблочні та повинні бути цільними паралелепіпедами 
+з щонайменше 1 сховищем для виготовлення.
 
-Crafting CPUs are made out of:
+Процесори вироблення складаються з:
 
-*   (Required) [Crafting storages](../items-blocks-machines/crafting_cpu_multiblock.md), available in all the standard cell sizes (1k, 4k, 16k, 64k, 256k). They store the ingredients and
-    intermediate ingredients involved in a craft, so larger or more storages are required for the CPU to handle crafting jobs
-    with more ingredients.
-*   (Optional) <ItemLink id="crafting_accelerator" />s, they make the system send out ingredient batches from pattern providers more often.
-    This allows, say, a pattern provider surrounded by 6 molecular assemblers to send ingredients to (and thus use) all 6 at once instead of just one.
-*   (Optional) <ItemLink id="crafting_monitor" />s, they display the job the CPU is handling at the moment. They can be colored via a <ItemLink id="color_applicator" />
-*   (Optional) <ItemLink id="crafting_unit" />s, they simply fill space in order to make the CPU a rectangular prism.
+*   (Необхідно) [Сховища для вироблення](../items-blocks-machines/crafting_cpu_multiblock.md), доступні в усіх стандартних розмірах комірок (1К, 4К, 16К, 64К, 256К). Вони зберігають інгредієнти та
+    проміжні інгредієнти, що потрібні у завданні вироблення, тому для обробки завдань з виготовлення, що вимагають більше інгредієнтів, процесору потрібні
+    більші або додаткові сховища.
+*   (Необов'язково) <ItemLink id="crafting_accelerator" />змушує систему частіше відправляти партії інгредієнтів від постачальників шаблонів.
+    Це дозволяє, наприклад, постачальнику шаблонів, оточеному 6 молекулярними складальниками, надсилати інгредієнти (і, таким чином, використовувати) всі 6 одночасно, а не тільки один.
+*   (Необов'язково) <ItemLink id="crafting_monitor" /> відображає завдання, яке в цей момент обробляє процесор. <ItemLink id="color_applicator" /> може забарвити іх.
+*   (Необов'язково) <ItemLink id="crafting_unit" /> використовується для заповнення простору, щоб зробити процесор прямокутним паралелепіпедом.
 
-Each crafting CPU handles 1 request or job, so if you want to request both a calculation processor and 256 smooth stone at once, you need 2 CPU multiblocks.
+Кожен процесор обробляє 1 запит або завдання, тому якщо ви хочете одночасно запросити обчислювальний процесор і 256 гладких каменів, вам знадобиться дві процесорних конструкції.
 
-They can be set to handle requests from players, automation (export busses and interfaces), or both.
+Їх можна налаштувати для обробки запитів від гравців, автоматизації (експортні шини та інтерфейси) або обох.
 
-# Pattern Providers
+# Постачальники шаблонів
 
 <Row>
 <BlockImage id="pattern_provider" scale="4" />
