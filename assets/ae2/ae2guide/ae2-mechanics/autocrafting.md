@@ -137,8 +137,8 @@ navigation:
 </GameScene>
 </Row>
 
-<ItemLink id="pattern_provider" />s are the primary way in which your autocrafting system interacts with the world. They push the ingredients in
-their [patterns](../items-blocks-machines/patterns.md) to adjacent inventories, and items can be inserted into them in order to insert them into the network. Often
+<ItemLink id="pattern_provider" /> - це основа для автоматизованих взаємодій зі світом. Вони передають інгредієнти через
+встановлені [шаблони](../items-blocks-machines/patterns.md) у прилеглі містила, а також можуть приймати предмети як спосіб отримання результату до системи. Often
 a channel can be saved by piping the output of a machine back into a nearby pattern provider (often the one that pushed the ingredients)
 instead of using an <ItemLink id="import_bus" /> to pull the output of the machine into the network.
 
