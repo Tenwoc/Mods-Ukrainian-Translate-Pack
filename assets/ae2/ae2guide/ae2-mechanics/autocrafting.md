@@ -107,14 +107,14 @@ navigation:
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Процесори вироблення управляють запитами/завданнями на виготовлення. Вони зберігають Вони зберігають проміжні інгредієнти під час виконання багатоетапних завдань 
+Процесори вироблення управляють запитами/завданнями на вироблення. Вони зберігають Вони зберігають проміжні інгредієнти під час виконання багатоетапних завдань 
 і впливають на розмір завдань та, певною мірою, на швидкість їх виконання. Вони багатоблочні та повинні бути цільними паралелепіпедами 
-з щонайменше 1 сховищем для виготовлення.
+з щонайменше 1 сховищем для вироблення.
 
 Процесори вироблення складаються з:
 
 *   (Необхідно) [Сховища для вироблення](../items-blocks-machines/crafting_cpu_multiblock.md), доступні в усіх стандартних розмірах комірок (1К, 4К, 16К, 64К, 256К). Вони зберігають інгредієнти та
-    проміжні інгредієнти, що потрібні у завданні вироблення, тому для обробки завдань з виготовлення, що вимагають більше інгредієнтів, процесору потрібні
+    проміжні інгредієнти, що потрібні у завданні вироблення, тому для обробки завдань з вироблення, що вимагають більше інгредієнтів, процесору потрібні
     більші або додаткові сховища.
 *   (Необов'язково) <ItemLink id="crafting_accelerator" />змушує систему частіше відправляти партії інгредієнтів від постачальників шаблонів.
     Це дозволяє, наприклад, постачальнику шаблонів, оточеному 6 молекулярними складальниками, надсилати інгредієнти (і, таким чином, використовувати) всі 6 одночасно, а не тільки один.
@@ -137,72 +137,49 @@ navigation:
 </GameScene>
 </Row>
 
-<ItemLink id="pattern_provider" /> - це основа для автоматизованих взаємодій зі світом. Вони передають інгредієнти через
-встановлені [шаблони](../items-blocks-machines/patterns.md) у прилеглі містила, а також можуть приймати предмети як спосіб отримання результату до системи. Often
-a channel can be saved by piping the output of a machine back into a nearby pattern provider (often the one that pushed the ingredients)
-instead of using an <ItemLink id="import_bus" /> to pull the output of the machine into the network.
+<ItemLink id="pattern_provider" /> — це основа для автоматизованих взаємодій зі світом. Вони передають інгредієнти через встановлені [шаблони](../items-blocks-machines/patterns.md) у прилеглі містила, а також можуть приймати предмети як спосіб отримання результату до системи. Часто результат обробки машини можна переносити назад до найближчого постачальника шаблонів (зазвичай того, який надіслав інгредієнти), щоб не витрачати канал на <ItemLink id="import_bus" />, який може витягати результати до мережі.
 
-Of note, since they push the ingredients directly from the [crafting storage](../items-blocks-machines/crafting_cpu_multiblock.md#crafting-storage) in a crafting CPU, they
-never actually contain the ingredients in their inventory, so you cannot pipe out from them. You have to have the provider push
-to another inventory (like a barrel) then pipe from that.
+Слід зазначити, що оскільки постачальники шаблонів виштовхують інгредієнти безпосередньо зі [сховища для вироблення](../items-blocks-machines/crafting_cpu_multiblock.md#crafting-storage) процесора вироблення, вони фактично ніколи не містять інгредієнтів у своєму інвентарі, тому ви не можете виводити їх звідти. Ви повинні змусити постачальника виштовхнути інгредієнти в інше містило напряму в обробну установку, або через буфер (наприклад, у діжку, щоб потім розподіляти предмети з неї).
 
-Also of note, the provider has to push ALL of the ingredients at once, it can't push half-batches. This is useful
-to exploit.
+Також враховуйте, що постачальник повинен постачати ВСІ інгредієнти одночасно, він не може розділяти партії.
 
-Pattern providers have a special interaction with interfaces on [subnets](../ae2-mechanics/subnetworks.md): if the interface is unmodified (nothing in the request slots)
-the provider will skip the interface entirely and push directly to that subnet's [storage](../ae2-mechanics/import-export-storage.md),
-skipping the interface and not filling it with recipe batches, and more importantly, not inserting the next batch until there's space in storage.
+Постачальники шаблонів мають особливу взаємодію з містилами у [підмережах](../ae2-mechanics/subnetworks.md): якщо інтерфейс не налаштовано (у слотах запиту нічого немає), постачальник повністю пропускає інтерфейс і надсилає дані безпосередньо до [сховища](../ae2-mechanics/import-export-storage.md) цієї підмережі, пропускаючи інтерфейс і не заповнюючи його партіями інгредієнтів, а що ще важливіше, не вставляючи наступну партію, доки у сховищі не з'явиться вільне місце.
 
-Multiple pattern providers with identical patterns are supported and work in parallel.
+Декілька постачальників шаблонів з однаковим шаблоном працюватимуть паралельно.
 
-Pattern providers will attempt to round-robin their batches to all of their faces, thus using all attached machines in parallel.
+Постачальники шаблонів намагатимуться циклічно розподілити свої партії між усіма своїми робочими сторонами, використовуючи паралельно всі прилеглі машини.
 
-## Variants
+## Варіанти
 
-Pattern Providers come in 3 different variants: normal, directional, and flat. This affects which specific sides they push
-ingredients to, receive items from, and provide a network connection to.
+Постачальники шаблонів бувають 3 різних типів: звичайні, спрямовані та пласкі. Це впливає на те, до яких конкретних сторін вони переміщують інгредієнти, від яких отримують предмети та якими надають мережеве з'єднання.
 
-*   Normal pattern providers push ingredients to all sides, receive inputs from all sides, and, like most AE2 machines, act
-    like a cable providing network connection to all sides.
+*   Звичайні постачальники шаблонів передають інгредієнти в усі боки, отримують результати з усіх боків і, як і більшість машин AE2, діють як кабель, що забезпечує мережеве з'єднання з усіма сторонами.
 
-*   Directional pattern providers are made by using a <ItemLink id="certus_quartz_wrench" /> on a normal pattern provider to change its
-    direction. They only push ingredients to the selected side, receive inputs from all sides, and specifically don't provide a network
-    connection on the selected side. This allows them to push to AE2 machines without connecting networks, if you want to make a subnetwork.
+*   Спрямовані постачальники шаблонів надсилають інгредієнти тільки на вибрану сторону, отримують вхідні дані з усіх боків і не забезпечують мережеве з'єднання на вихідній стороні. Це дозволяє їм надсилати дані на машини AE2 без підключення до мереж, якщо ви хочете створити підмережу. Застосувавши <ItemLink id="certus_quartz_wrench" /> на звичайному постачальнику шаблонів ви отримаєте його спрямований варіант, який можна обертати додатковим застосуванням ключа.
 
-*   Flat pattern providers are a [cable subpart](../ae2-mechanics/cable-subparts.md), and so multiple can be placed on the same cable, allowing for compact setups.
-    They act similar to the selected side on a directional pattern provider, providing patterns, receiving inputs, and not
-    providing a network connection on their face.
+*    Пласкі постачальники шаблонів є [кабельним компонентом](../ae2-mechanics/cable-subparts.md), тому на одному кабелі можна розмістити декілька, що дозволяє створювати компактні конфігурації. Вони діють подібно до вихідного боку спрямованого постачальника шаблонів, надаючи через нього шаблони, отримуючи результати та не надаючи мережевого з'єднання.
 
-Pattern providers can be swapped between normal and flat in a crafting grid.
+Постачальники шаблонів можна конвертувати між звичайними та пласкими в сітці майстрування.
 
-## Settings
+## Налаштування
 
-Pattern providers have a variety of modes:
+Постачальники шаблонів мають різні режими:
 
-*   **Blocking Mode** stops the provider from pushing a new batch of ingredients if there are already
-    ingredients in the machine.
-*   **Lock Crafting** can lock the provider under various redstone conditions, or until the result of the
-    previous craft is inserted into that specific pattern provider.
-*   The provider can be shown or hidden on <ItemLink id="pattern_access_terminal" />s.
+*   **Режим блокування** зупиняє постачальника від надсилання нової партії інгредієнтів, якщо в машині вже є інгредієнти.
+*   **Блокування вироблення** може заблокувати постачальника за різних умов редстоуну або доти, доки результат попереднього вироблення не буде вставлений у цей конкретний постачальник шаблонів.
+*   Постачальник може бути показаний або прихований для: <ItemLink id="pattern_access_terminal" />.
 
-## Priority
+## Пріоритет
 
-Priorities can be set by clicking the wrench in the top-right of the GUI. In the case of several [patterns](../items-blocks-machines/patterns.md)
-for the same item, patterns in providers with higher priority will be used over patterns in providers with lower priority,
-unless the network does not have the ingredients for the higher priority pattern.
+Пріоритети можна встановити, натиснувши на гайковий ключ у правому верхньому куті графічного інтерфейсу. У разі наявності декількох [шаблонів](../items-blocks-machines/patterns.md) для одного і того ж предмета, шаблони в постачальниках з вищим пріоритетом будуть використовуватися замість шаблонів в провайдерах з нижчим пріоритетом, за винятком випадків, коли в мережі відсутні інгредієнти для шаблону з вищим пріоритетом.
 
-# Molecular Assemblers
+# Молекулярні збирачі
 
 <BlockImage id="molecular_assembler" scale="4" />
 
-The <ItemLink id="molecular_assembler" /> takes items input into it and carries out the operation defined by an adjacent <ItemLink id="pattern_provider" />,
-or the inserted <ItemLink id="crafting_pattern" />, <ItemLink id="smithing_table_pattern" />, or <ItemLink id="stonecutting_pattern" />,
-then pushes the result to adjacent inventories.
+<ItemLink id="molecular_assembler" /> приймає введені в нього предмети та виконує майстрування, яке визначає для нього прилеглий <ItemLink id="pattern_provider" /> або вставлений <ItemLink id="crafting_pattern" />, <ItemLink id="smithing_table_pattern" />, чи <ItemLink id="stonecutting_pattern" />, а потім відправляє результат до прилеглих містил.
 
-Their main use is next to a <ItemLink id="pattern_provider" />. Pattern providers have special behavior in this case,
-and will send information about the relevant pattern along with the ingredients to adjacent assemblers. Since assemblers auto-eject the results of
-crafts to adjacent inventories (and thus into the return slots of the pattern provider), an assembler on a pattern provider
-is all that is needed to automate crafting patterns.
+Їх основне використання — поруч із: <ItemLink id="pattern_provider" />. Постачальники шаблонів мають особливу поведінку в цьому випадку і надсилають інформацію про відповідний шаблон разом з інгредієнтами до усіх прилеглих збирачів. Оскільки збирачі автоматично виштовхують результати майстрування до прилеглих містил (а отже, і до слотів повернення постачальника шаблонів), для автоматизації шаблонів майстрування достатньо лише розмістити збирач на постачальнику шаблонів.
 
 <GameScene zoom="4" background="transparent">
 <ImportStructure src="../assets/assemblies/assembler_tower.snbt" />

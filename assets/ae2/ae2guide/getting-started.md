@@ -124,7 +124,7 @@ navigation:
 
 </GameScene>
 
-*   Your ingredients list:
+*   Ваш список матеріалів:
     * 1x <ItemLink id="drive" />
     * 1x <ItemLink id="terminal" /> or <ItemLink id="crafting_terminal" />
     * 1x <ItemLink id="energy_acceptor" />
