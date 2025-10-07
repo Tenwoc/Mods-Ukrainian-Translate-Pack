@@ -1,31 +1,52 @@
 {
   "gui.ae2wtlib.creativetab": "AE2 Бездротові термінали (AE2WTLib)",
+
   "gui.ae2wtlib.trash": "Смітник",
+
   "item.ae2wtlib.quantum_bridge_card": "Картка квантового зв'язку",
   "item.ae2wtlib.quantum_bridge_card.desc": "Дозволяє бездротовим терміналам підключатися до квантового мосту, забезпечуючи необмежений радіус дії",
   "item.ae2wtlib.magnet_card": "Магнітна картка",
-  "item.ae2wtlib.magnet_card.desc": "Покращення магніту для бездротового термінала для крафтингу",
+  "item.ae2wtlib.magnet_card.desc": "Покращення магніта для бездротового термінала майстрування",
+
   "gui.ae2wtlib.magnetcard": "Магнітна картка",
   "gui.ae2wtlib.magnetcard.desc.off": "Вимкнути",
   "gui.ae2wtlib.magnetcard.desc.inv": "Підібрати до інвентарю",
   "gui.ae2wtlib.magnetcard.desc.me": "Підібрати до МЕ",
+  "gui.ae2wtlib.magnetcard.desc.me_no_magnet": "Вимкнути магніт, підбирати у мережу",
+  "gui.ae2wtlib.cycle_terminal.desc": "Відкрити %s",
+  "gui.ae2wtlib.cycle_terminal.desc1": "ПКМ, щоб відкрити %s",
   "gui.ae2wtlib.magnetcard.hotkey": "Магнітна картка: %s",
   "gui.ae2wtlib.restock": "Поповнити: %s",
   "gui.ae2wtlib.off": "Вимкнути",
   "gui.ae2wtlib.on": "Увімкнути",
   "gui.ae2wtlib.slot.magnetcard.desc": "Магнітна картка",
+
+  "gui.ae2wtlib.wireless_terminal_settings_title" : "Налаштування бездротового термінала",
+  "gui.ae2wtlib.magnet_settings_title" : "Налаштування магніту",
+  "gui.ae2wtlib.pick_block.text" : "Увімкнути запитування блока",
+  "gui.ae2wtlib.restock.text" : "Поповнювання",
+  "gui.ae2wtlib.magnet.text" : "Магніт",
+  "gui.ae2wtlib.pickup_to_me.text" : "Підбирати до МЕ системи",
+
   "gui.ae2wtlib.Magnet": "Магнітний фільтр",
+  "gui.ae2wtlib.allow": "Дозвіл",
+  "gui.ae2wtlib.deny": "Заборона",
   "gui.ae2wtlib.pickup_filter": "Підібрати Фільтр: %s",
   "gui.ae2wtlib.insert_filter": "Вставити Фільтр: %s",
-  "gui.ae2wtlib.copy_pickup": "Скопіювати до Підібрати",
-  "gui.ae2wtlib.copy_insert": "Скопіювати до Вставити",
+  "gui.ae2wtlib.copy_pickup": "Скопіювати до Підбирання",
+  "gui.ae2wtlib.copy_insert": "Скопіювати до Вставляння",
   "gui.ae2wtlib.switch": "Перемкнути фільтри",
+
   "item.ae2wtlib.wireless_pattern_encoding_terminal": "Бездротовий термінал кодування шаблонів",
   "item.ae2wtlib.wireless_pattern_access_terminal": "Бездротовий термінал доступу до шаблонів",
   "item.ae2wtlib.wireless_universal_terminal": "Універсальний бездротовий термінал",
   "item.ae2wtlib.wireless_universal_terminal.desc": "Встановлені термінали:",
+
   "key.ae2.wireless_pattern_access_terminal": "Відкрити бездротовий термінал доступу до шаблонів",
   "key.ae2.wireless_pattern_encoding_terminal": "Відкрити бездротовий термінал кодування шаблонів",
-  "key.ae2.ae2wtlib_restock": "Перемкнути поповнення",
-  "key.ae2.ae2wtlib_magnet": "Перемкнути магнітну картку"
+  "key.ae2.ae2wtlib_restock": "Перемкнути поповнювання",
+  "key.ae2.ae2wtlib_magnet": "Перемкнути магнітну картку",
+  "key.ae2.ae2wtlib_stow": "Скласти предмет у руці до ME системи",
+
+  "ae2wtlib.configuration.magnet_card_range": "Досяжність магнітної картки"
 }
