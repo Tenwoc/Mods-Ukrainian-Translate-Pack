@@ -237,5 +237,11 @@
   "emi.extendedae.category.fixer": "Відновлювач кристалів",
   "emi.extendedae.text.success_chance": "Ймовірність успіху: %s",
   "emi.extendedae.desc.entro_crystal": "Ентропійний кристал росте з родючого ентроїзованого флюїксу, подібно до того, як росте істинний кварц. Щоб отримати родючий ентроїзований флюїкс, створіть ентропійне насіння та клацніть ним ПКМ по блоку флюїксу.",
-  "emi.extendedae.desc.entro_seed": "Клацніть ПКМ ентропійним насінням по блоку флюїксу, щоб перетворити його у родючий ентроїзований флюїкс."
+  "emi.extendedae.desc.entro_seed": "Клацніть ПКМ ентропійним насінням по блоку флюїксу, щоб перетворити його у родючий ентроїзований флюїкс.",
+
+  "config.extendedae.option.busSpeed": "Швидкість розширених МЕ шин",
+  "config.extendedae.option.infCellCost": "Споживання енергії нескінченної комірки",
+  "config.extendedae.option.infCellTypeID": "Кількість типів нескінченної комірки",
+  "config.extendedae.option.wirelessConnectorMaxRange": "Досяжність бездротового сполучника",
+  "config.extendedae.option.tapeWhitelist": "Білий список МЕ пакувальної стрічки"
 }
