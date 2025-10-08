@@ -4732,7 +4732,7 @@
   "item.gtceu.tool.behavior.grass_path": "§eКаток:§f створює трав'яні доріжки",
   "item.gtceu.tool.behavior.ground_tilling": "§eФермер:§f оре ґрунт",
   "item.gtceu.tool.behavior.plunger": "§9Вантуз:§f викачує рідини",
-  "item.gtceu.tool.behavior.prospecting.air": "Знайдено повітряний карман",
+  "item.gtceu.tool.behavior.prospecting.air": "Знайдено повітряну кишеню",
   "item.gtceu.tool.behavior.prospecting.changing": "Виявлено зміну матеріала",
   "item.gtceu.tool.behavior.prospecting.lava": "Знайдено лаву",
   "item.gtceu.tool.behavior.prospecting.ore": "Знайдено руду: %s",
