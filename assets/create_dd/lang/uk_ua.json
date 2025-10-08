@@ -19,10 +19,10 @@
   "item.create_dd.tin_nugget": "Олов'яний самородок",
   "item.create_dd.raw_tin": "Необроблене олово",
 
-  "item.create_dd.lapis_alloy": "Лазуритовий стоп",
+  "item.create_dd.lapis_alloy": "Лазуритовий сплав",
   "item.create_dd.lapis_sheet": "Лазуритовий лист",
 
-  "item.create_dd.andesite_sheet": "Лист андезитового стопу",
+  "item.create_dd.andesite_sheet": "Лист андезитового сплаву",
   "item.create_dd.zinc_sheet": "Цинковий лист",
   "item.create_dd.tin_sheet": "Олов'яний лист",
 
@@ -70,7 +70,7 @@
   "item.create_dd.chromatic_compound": "Хроматична сполука",
   "item.create_dd.shadow_steel": "Тіньова сталь",
   "item.create_dd.refined_radiance": "Вишукане сяйво",
-  "item.create_dd.overcharge_alloy": "Перезаряджений стоп",
+  "item.create_dd.overcharge_alloy": "Перезаряджений сплав",
   "item.create_dd.blaze_gold": "Пломенева латунь",
   "item.create_dd.stargaze_singularity": "Зореочна сингулярність",
 
@@ -84,7 +84,7 @@
   "item.create_dd.experience_ingot": "Злиток досвіду",
   "item.create_dd.experience_mass": "Маса досвіду",
 
-  "item.create_dd.ember_alloy": "Бурштиновий стоп",
+  "item.create_dd.ember_alloy": "Бурштиновий сплав",
 
   "item.create_dd.forest_ravager": "Міфічний руйнівник лісу",
   "item.create_dd.deforester_saw": "Визеленювальна пила",
@@ -191,11 +191,11 @@
   "block.create_dd.hazard_block_r": "Небезпечний блок",
   "block.create_dd.horizontal_hazard_block_r": "Горизонтальний небезпечний блок",
 
-  "block.create_dd.lapis_alloy_block": "Блок лазуритового стопу",
-  "block.create_dd.ember_alloy_block": "Блок бурштинового стопу",
+  "block.create_dd.lapis_alloy_block": "Блок лазуритового сплаву",
+  "block.create_dd.ember_alloy_block": "Блок бурштинового сплаву",
   "block.create_dd.leather_block": "Шкіряний блок",
 
-  "block.create_dd.mossy_andesite_alloy_block": "Моховитий блок андезитового стопу",
+  "block.create_dd.mossy_andesite_alloy_block": "Моховитий блок андезитового сплаву",
   "block.create_dd.mossy_andesite_casing": "Моховитий андезитовий корпус",
 
   "block.create_dd.bronze_block": "Блок бронзи",
@@ -220,10 +220,10 @@
   "block.create_dd.steel_tiled_slab": "Плита зі сталевої кахлі",
   "block.create_dd.steel_tiled_stairs": "Сходи зі сталевої кахлі",
 
-  "block.create_dd.andesite_alloy_polished_block": "Полірований андезитовий стоп",
-  "block.create_dd.andesite_alloy_polished_slab": "Плита з полірованого андезитового стопу",
-  "block.create_dd.andesite_alloy_polished_stairs": "Сходи з полірованого андезитового стопу",
-  "block.create_dd.andesite_alloy_tiled_block": "Кахлі з андезитового стопу",
+  "block.create_dd.andesite_alloy_polished_block": "Полірований андезитовий сплав",
+  "block.create_dd.andesite_alloy_polished_slab": "Плита з полірованого андезитового сплаву",
+  "block.create_dd.andesite_alloy_polished_stairs": "Сходи з полірованого андезитового сплаву",
+  "block.create_dd.andesite_alloy_tiled_block": "Кахлі з андезитового сплаву",
   "block.create_dd.andesite_alloy_tiled_slab": "Плита з андезитової кахлі",
   "block.create_dd.andesite_alloy_tiled_stairs": "Сходи з андезитової кахлі",
 
@@ -262,7 +262,7 @@
   "block.create_dd.chromatic_block": "Блок хроматичної сполуки",
   "block.create_dd.refined_radiance_block": "Блок вишуканого сяйва",
   "block.create_dd.shadow_steel_block": "Блок тіньової сталі",
-  "block.create_dd.overcharged_alloy_block": "Блок перезарядженого стопу",
+  "block.create_dd.overcharged_alloy_block": "Блок перезарядженого сплаву",
   "block.create_dd.blaze_gold_block": "Блок пломеневої латуні",
   "block.create_dd.stargaze_singularity_block": "Блок зореочної сингулярності",
 
@@ -568,7 +568,7 @@
   "advancement.create_dd.overcharge_alloy": "Іскра уяви!",
   "advancement.create_dd.overcharge_alloy.desc": "(Ексклюзивно для Crafts & Additions) Величезна сила котушки Тесли!",
   "advancement.create_dd.overcharged_casing": "Шестигранна технологія",
-  "advancement.create_dd.overcharged_casing.desc": "Застосуйте перезаряджений стоп на окисненій міді, щоб виготовити корпус з чистої енергії!",
+  "advancement.create_dd.overcharged_casing.desc": "Застосуйте перезаряджений сплав на окисненій міді, щоб виготовити корпус з чистої енергії!",
   "advancement.create_dd.refined_radiance": "Яскравий і надихаючий",
   "advancement.create_dd.refined_radiance.desc": "Створіть вишукане сяйво, потужний сліпучий злиток, який захистить від зла!",
   "advancement.create_dd.refined_radiance_casing": "Духовна магія",
@@ -602,15 +602,15 @@
   "advancement.create_dd.overburden_casing": "Поховайте друга",
   "advancement.create_dd.overburden_casing.desc": "Застосуйте лазуритовий лист на андезитовому корпусі",
   "advancement.create_dd.lapis_alloy": "Брудостійкий камінь!",
-  "advancement.create_dd.lapis_alloy.desc": "Отримайте лазуритовий стоп",
+  "advancement.create_dd.lapis_alloy.desc": "Отримайте лазуритовий сплав",
   "advancement.create_dd.tin_ingot": "Залізний Дроворуб!",
   "advancement.create_dd.tin_ingot.desc": "Витопіть олов'яний злиток!",
   "advancement.create_dd.deforester_saw": "ДЕРЕВО!!!",
   "advancement.create_dd.deforester_saw.desc": "Отримайте визеленювальну... пилу?",
   "advancement.create_dd.excavation_drill": "БУР РОБЕ БРРРРРР!!!",
   "advancement.create_dd.excavation_drill.desc": "Отримайте землерийний бур!",
-  "advancement.create_dd.ember_alloy": "Димчастий стоп",
-  "advancement.create_dd.ember_alloy.desc": "Отримайте шурштиновий стоп!",
+  "advancement.create_dd.ember_alloy": "Димчастий сплав",
+  "advancement.create_dd.ember_alloy.desc": "Отримайте бурштиновий сп!",
   "advancement.create_dd.hydraulic_press": "Надпотужний снігоприбиральник!",
   "advancement.create_dd.hydraulic_press.desc": "Отримайте змогу масово обробляти кілька листів у гідравлічному пресі!",
   "advancement.create_dd.industrial_casing": "Індустріальна епоха",
@@ -707,7 +707,7 @@
   "item.create_dd.shadow_steel.tooltip.summary": "Хроматичний матеріал, вилитий _в Темряві Безодні_.",
   "item.create_dd.refined_radiance.tooltip": "ВИШУКАНЕ СЯЙВО",
   "item.create_dd.refined_radiance.tooltip.summary": "Хроматичний матеріал, вилитий _у Найчистішому Сяянні.",
-  "item.create_dd.overcharge_alloy.tooltip": "ПЕРЕЗАРЯДЖЕНИЙ СТОП",
+  "item.create_dd.overcharge_alloy.tooltip": "ПЕРЕЗАРЯДЖЕНИЙ СПЛАВ",
   "item.create_dd.overcharge_alloy.tooltip.summary": "Хроматичний матеріал, вилитий _у Безмежній Енергетичній Силі_.",
   "item.create_dd.blaze_gold.tooltip": "ПОЛУМ'ЯНА ЛАТУНЬ",
   "item.create_dd.blaze_gold.tooltip.summary": "Хроматичний матеріал, вилитий _душею Пекельного Захисника_.",

@@ -1,5 +1,5 @@
 {
-    "name": "Prot Pierce",
+    "name": "Пробиття захисту",
     "icon": "apothic_attributes:textures/mob_effect/sundering.png",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Prot Pierce$() allows you to ignore a flat amount of your target's protection points when attacking.$(p)Extra Prot Pierce does not cause your target to have negative protection."
+            "text": "$(9)Пробиття захисту$() дозволяє вам під час атаки ігнорувати фіксовану кількість очок захисту цілі.$(p)Перевищення цієї характеристики над бронею цілі не зробить її захист від'ємним."
         }
 	]
 }

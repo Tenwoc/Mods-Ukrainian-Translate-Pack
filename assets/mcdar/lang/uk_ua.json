@@ -11,7 +11,7 @@
   "item.mcdar.enchanters_tome": "Том чародія",
   "item.mcdar.flaming_quiver": "Палаючий сагайдак",
   "item.mcdar.ghost_cloak": "Примарний плащ",
-  "item.mcdar.golem_kit": "Комплект голема",
+  "item.mcdar.golem_kit": "Комплект ґолема",
   "item.mcdar.gong_of_weakening": "Гонг послаблення",
   "item.mcdar.harpoon_quiver": "Сагайдак гарпунів",
   "item.mcdar.harvester": "Жнець",
@@ -39,7 +39,7 @@
   "entity.mcdar.enchanted_blue_sheep": "Зачарована синя вівця",
   "entity.mcdar.enchanted_green_sheep": "Зачарована зелена вівця",
   "entity.mcdar.enchanted_red_sheep": "Зачарована червона вівця",
-  "entity.mcdar.golem_kit_golem": "Комплект голема залізний голем",
+  "entity.mcdar.golem_kit_golem": "Комплект ґолема залізний ґолем",
   "entity.mcdar.tasty_bone_wolf": "Смачна кістка вовк",
   "entity.mcdar.wonderful_wheat_llama": "Чудова пшениця лама",
 
@@ -102,7 +102,7 @@
   "tooltip_info_item.mcdar.ghost_cloak_2": "турботливі, але вони випромінюють почуття",
   "tooltip_info_item.mcdar.ghost_cloak_3": "меланхолії.",
 
-  "tooltip_info_item.mcdar.golem_kit_1": "Залізні големи завжди захищали",
+  "tooltip_info_item.mcdar.golem_kit_1": "Залізні ґолеми завжди захищали",
   "tooltip_info_item.mcdar.golem_kit_2": "Жителів цього світу. Їх ",
   "tooltip_info_item.mcdar.golem_kit_3": "кількість виснажується внаслідок",
   "tooltip_info_item.mcdar.golem_kit_4": "війни з розбійниками.",

@@ -10,7 +10,7 @@
   "death.attack.cofh.knife": "%1$s був зарізаний %2$s!",
   "death.attack.cofh.knife.item": "%1$s був зарізаний %2$s за допомогою %3$s!",
 
-  "forge.swimSpeed": "Швидкість плавання",
+  "forge.swimSpeed": "швидкости плавання",
 
   "commands.cofh.heal.success.single": "Зцілено %s",
   "commands.cofh.heal.success.multiple": "Зцілено %s сутностей",

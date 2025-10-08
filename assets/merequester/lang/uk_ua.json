@@ -2,29 +2,36 @@
   "itemGroup.merequester": "Запитувач ME",
 
   "item.merequester.requester_terminal": "Термінал запитувача ME",
+  "item.merequester.wireless_requester_terminal": "Бездротовий термінал запитувача",
   "block.merequester.requester": "Запитувач ME",
+
+  "key.ae2.wireless_requester_terminal": "Відкрити бездротовий термінал запитувача",
 
   "gui.merequester.requester_terminal": "Термінал зап. ME",
   "gui.merequester.no_requesters": "Не знайдено жодного запитувача ME!",
 
-  "tooltip.merequester.requester_desc": "Автоматично зберігає предмети та рідини у сховищі, запитуючи нові вироби за потреби. Має бути підключений до мережі ME і доступний з терміналу запитувачів ME. Втрачає свою конфігурацію в разі поломки. Налаштування можна скопіювати на карту пам'яті.",
+  "tooltip.merequester.requester_desc": "Автоматично відстежує предмети та рідини у сховищі, запитуючи нові вироби за потреби. Має бути підключений до мережі ME і може бути доступний з термінала ME запитувачів. Втрачає свою конфігурацію при добуванні, проте її можна скопіювати на карту пам'яті.",
 
-  "tooltip.merequester.shift_for_more": "%s щоб розгорнути",
-  "tooltip.merequester.enter_to_submit": "%s відправити",
+  "tooltip.merequester.shift_for_more": "%s, щоб розгорнути",
+  "tooltip.merequester.enter_to_submit": "%s, щоб підтвердити",
 
   "tooltip.merequester.whole_number": "Має бути ціле число!",
-  "tooltip.merequester.locked": "Закрито! Запит виконується.",
+  "tooltip.merequester.locked": "Заблоковано! Запит виконується.",
 
-  "tooltip.merequester.toggle": "Переключити запит",
-  "tooltip.merequester.amount": "Кількість на складі",
+  "tooltip.merequester.toggle": "Перемикнути запит",
+  "tooltip.merequester.amount": "Необхідний запас на складі",
   "tooltip.merequester.batch": "Розмір партії",
-  "tooltip.merequester.submit": "Відправити зміни",
-  "tooltip.merequester.status": "Запитати зміни",
+  "tooltip.merequester.submit": "Підтвердити зміни",
+  "tooltip.merequester.status": "Стан запитування",
 
   "tooltip.merequester.idle": "Простій",
-  "tooltip.merequester.idle_desc": "Запитувач простоює, коли запитувана кількість вже досягнута, для цього предмета або рідини немає шаблону крафта, або якщо не вистачає інгредієнтів для запиту нових крафтів..",
+  "tooltip.merequester.idle_desc": "Запитувач простоює, коли запитувана кількість вже досягнута, або для цього предмета чи рідини немає шаблона майстрування.",
+  "tooltip.merequester.missing": "Брак інгредієнтів",
+  "tooltip.merequester.missing_desc": "У системі недостатньо інгредієнтів для вироблення запитаного предмета чи рідини. Процес подовжиться, як тільки інгредієнти з'являться у системі.",
+  "tooltip.merequester.cpu": "Брак процесорів",
+  "tooltip.merequester.cpu_desc": "Система не може підібрати придатний процесор для запитаного завдання. Процес подовжиться, як тільки вільний/придатний процесор з'явиться у системі.",
   "tooltip.merequester.link": "Виготовлення",
-  "tooltip.merequester.link_desc": "Наразі система виготовляє запитуваний предмет або рідину.",
+  "tooltip.merequester.link_desc": "Наразі система виробляє запитуваний предмет або рідину.",
   "tooltip.merequester.export": "Експорт",
-  "tooltip.merequester.export_desc": "Запитувач намагається експортувати результати виготовлення до системи. Якщо запитувач має цей статус протягом тривалого часу, це означає, що немає вільного місця для експорту."
+  "tooltip.merequester.export_desc": "Запитувач очікує експорт результату виготовлення до системи. Якщо запитувач має цей статус протягом тривалого часу, це означає, що для експорту немає вільного місця."
 }

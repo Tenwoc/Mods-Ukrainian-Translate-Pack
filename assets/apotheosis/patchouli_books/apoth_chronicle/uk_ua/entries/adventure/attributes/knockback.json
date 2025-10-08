@@ -1,5 +1,5 @@
 {
-    "name": "Attack Knockback",
+    "name": "Відкидання від атак",
     "icon": "minecraft:piston",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Attack Knockback$() is how far you knockback enemies when you attack them.$(p)Each point will cause hit enemies to be pushed half a block away.$(p)Weapons and shields may provide this stat."
+            "text": "$(9)Відкидання від атак$() представляє відстань, на яку ви відкидаєте атаковану ціль.$(p)Кожне очко додає половину блока до підсумкового відкидання цілі.$(p)Забезпечити цю характеристику може зброя та щити."
         },
 		{
 			"type": "patchouli:text",
-			"text": "The Knockback enchantment provides a bonus equivalent to this stat, but it doesn't count towards the max value cap."
+			"text": "Чари Відкидання надають додатковий бонус, еквівалентний цій характеристиці, але не враховуються при розрахунку максимального значення."
 		}
 	]
 }

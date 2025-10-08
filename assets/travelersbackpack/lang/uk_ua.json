@@ -140,7 +140,7 @@
   "item.travelersbackpack.magnet_upgrade": "Покращення магніта",
   "item.travelersbackpack.void_upgrade": "Покращення видалення",
   "item.travelersbackpack.feeding_upgrade": "Покращення годування",
-  "item.travelersbackpack.blank_upgrade_tooltip": "Клацніть Shift на розміщеному наплічнику, щоб скинути налаштування за замовчуванням - видаляє зайву рідину в резервуарі та розкидає предмети та покращення навколо наплічника",
+  "item.travelersbackpack.blank_upgrade_tooltip": "Клацніть Shift на розміщеному наплічнику, щоб скинути усталені налаштування - видаляє зайву рідину в резервуарі та розкидає предмети та покращення навколо наплічника",
   "item.travelersbackpack.tier_upgrade_tooltip": "Використовуйте шкіру як шаблон і поєднайте з наплічником рівня: %s на ковальському столі, щоб застосувати покращення",
   "item.travelersbackpack.tanks_upgrade_tooltip": "Доповнює наплічник 2 рідинними резервуарами",
   "item.travelersbackpack.crafting_upgrade_tooltip": "Надає сітку майстрування наплічнику",

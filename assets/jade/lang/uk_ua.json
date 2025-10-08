@@ -252,7 +252,7 @@
   "jade.east": "Схід",
   "jade.west": "Захід",
   "config.jade.plugin_minecraft.furnace": "Вміст печі",
-  "config.jade.plugin_minecraft.mob_spawner": "Тип спавнера",
+  "config.jade.plugin_minecraft.mob_spawner": "Тип породжувача",
   "config.jade.plugin_minecraft.crop_progress": "Прогрес посіву",
   "config.jade.plugin_minecraft.redstone": "Редстоун-дані",
   "config.jade.plugin_minecraft.jukebox": "Активний запис",

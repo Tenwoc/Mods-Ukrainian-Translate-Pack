@@ -1,5 +1,5 @@
 {
-    "name": "Luck",
+    "name": "Везіння",
     "icon": "minecraft:rabbit_foot",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Luck$() makes you lucky!  Well, that is, it increases the likelihood you receive better loot drops.$(p)Everything can grant luck."
+            "text": "$(9)Везіння$() робить вас удачливим! Точніше, воно збільшує ймовірність того, що ви отримаєте кращу здобич.$(p)Що завгодно може забезпечити везіння."
         },
 		{
 			"type": "patchouli:text",
-			"text": "You can have negative luck, which makes better loot drops even harder to get."
+			"text": "Ви також можете отримати невезіння, яке робить рідкісну здобич недоступнішою."
 		}
 	]
 }

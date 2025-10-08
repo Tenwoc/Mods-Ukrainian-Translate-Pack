@@ -1,5 +1,5 @@
 {
-    "name": "Cold Damage",
+    "name": "Шкода від холоду",
     "icon": "minecraft:blue_ice",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Cold Damage$() is bonus magic damage applied to melee attacks. It also applies a slow dependent on the strength of the damage.$(p)Found on melee weapons."
+            "text": "$(9)Шкода від холоду$() - це додаткова магічна шкода, що застосовується до атак у ближньому бою. Вона також спричиняє уповільнення, яке залежить від сили шкоди.$(p)Притаманне зброї ближнього бою."
         }
 	]
 }

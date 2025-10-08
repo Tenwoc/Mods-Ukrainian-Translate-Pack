@@ -109,7 +109,7 @@
   "craftpresence.placeholders.biome.icon.description": "Іконка поточного біому",
   "craftpresence.placeholders.biome.message.description": "Дані відображення поточного біому у грі",
   "craftpresence.placeholders.biome.name.description": "Назва поточного біому",
-  "craftpresence.placeholders.capitalizeWords.description": "Піднімає слова з великої літери у вказаному рядку",
+  "craftpresence.placeholders.capitalizeWords.description": "Підіймає слова з великої літери у вказаному рядку",
   "craftpresence.placeholders.capitalizeWords.usage": "capitalizeWords(input, timesToCheck ?: -1)",
   "craftpresence.placeholders.cast.description": "Спроби приведення або перетворення об'єкта до вказаного цільового класу",
   "craftpresence.placeholders.cast.usage": "cast(castObject, classToAccess=Object|String|Class)",

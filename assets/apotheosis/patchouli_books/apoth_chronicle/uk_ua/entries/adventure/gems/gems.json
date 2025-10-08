@@ -1,5 +1,5 @@
 {
-    "name": "Gems",
+    "name": "Самоцвіти",
     "icon": "apotheosis:gem",
     "category": "apotheosis:adventure/gems",
 	"flag": "apotheosis:adventure",
@@ -7,33 +7,33 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "A $(9)Gem$() is a crystal of condensed strength.$(p)When socketed into an affix item, a Gem will provide a powerful bonus.$(p)Gems may give different bonuses in different items, and can be upgraded."
+            "text": "A $(9)Самоцвіт$() - це кристал конденсованої сили.$(p)Коли інкрустовано в афіксний предмет, самоцвіт надає потужні бонуси.$(p)Самоцвіти можуть забезпечувати різні сили для різних предметів, й можуть бути покращені."
         },
 		{
-			"title": "Purity",
+			"title": "Чистота",
             "type": "patchouli:text",
-            "text": "Each gem has a Purity, ranging from $(#808080)Cracked$() to $(6)Perfect$().$(p)The purity alone determines the strength of the gem, and higher purity gems are more expensive to upgrade.$(p)A $(6)Perfect$() Gem may no longer be upgraded."
+            "text": "Кожен самоцвіт має ступінь чистоти, що варіюється від $(#808080)Неотесаного$() до $(6)Бездоганного$().$(p)Саме ступінь чистоти визначає силу самоцвіту, і самоцвіти з вищим ступенем чистоти дорожчі у вдосконаленні.$(p)$(6)Бездоганний$() самоцвіт більше не можна покращити."
         },
 		{
 			"type": "patchouli:text",
-			"title": "Obtaining Gems",
-			"text": "Gems can be found in chest loot, and may rarely be found when killing mobs. Gem drops are more common for real players, but have a very small chance to drop from machines or other automation sources.$(p)Gems are more likely to drop from Bosses."
+			"title": "Отримання самоцвітів",
+			"text": "Самоцвіти можна знайти як здобич у скринях та іноді як дроп з мобів. Самоцвіти часто випадають від вбивства гравцем, і дуже рідко від машин чи інших автоматизацій.$(p)Самоцвіти найчастіше падають з босів."
 		},
 		{
 			"type": "patchouli:text",
-			"title": "Socketing Gems",
-			"text": "To socket a gem into an item, combine the two in a Smithing Table.$(p)Each gem states which items it may fit in.$(p)Some gems are $(#C73912)Unique$(), meaning that only one copy of that gem may be socketed in an item."
+			"title": "Інкрустація самоцвітів",
+			"text": "Щоб інкрустувати самоцвіт у предмет, поєднайте їх двох на ковальському столі.$(p)Кожний самоцвіт має опис того, у які предмети його можна інкрустувати.$(p)Деякі самоцвіти є $(#C73912)унікальними$(), що не дає можливості інкрустувати декілька таких в один предмет."
 		},
 		{
 			"type": "patchouli:text",
-			"title": "Removing Gems",
-			"text": "Removing gems from an item was a difficult process, but some clever alchemists figured out how to do it.$(p)Their notes are detailed on the next page."
+			"title": "Вилучення самоцвітів",
+			"text": "Видалення самоцвітів це складний процес, проте деякі кмітливі алхіміки з'ясували, як це зробити.$(p)Їхні нотатки детально викладені на наступній сторінці."
 		},
 		{
             "type": "patchouli:crafting",
 			"recipe": "apotheosis:sigil_of_withdrawal",
-			"title": "Sigil of Withdrawal",
-			"text": "Combine a socketed item with a $(9)Sigil of Withdrawal$() in a smithing table to remove the socketed gems from an item. The item and all gems will be returned."
+			"title": "Сигіл зняття",
+			"text": "Поєднання предмета з інкрустацією разом із $(9)сигілом зняття$() на ковальському столі вилучить самоцвіти з предмета. При цьому збережуться і предмет, і самоцвіти."
 		}
 	]
 }

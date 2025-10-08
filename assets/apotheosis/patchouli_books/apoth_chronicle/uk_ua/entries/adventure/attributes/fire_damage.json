@@ -1,5 +1,5 @@
 {
-    "name": "Fire Damage",
+    "name": "Шкода від вогню",
     "icon": "minecraft:blaze_powder",
     "category": "apotheosis:adventure/attributes",
 	"flag": "apotheosis:adventure",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Fire Damage$() is bonus magic damage applied to melee attacks. It also sets the target on fire for a short time. Higher damage increases the fire duration.$(p)Found on melee weapons."
+            "text": "$(9)Шкода від вогню$() -це це додаткова магічна шкода, що застосовується до атак у ближньому бою. Вона також підпалює ціль на нетривалий час, а більша шкода подовжує цей час.$(p)Притаманне зброї ближнього бою."
         }
 	]
 }

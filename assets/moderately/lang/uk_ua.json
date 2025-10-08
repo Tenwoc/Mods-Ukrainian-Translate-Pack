@@ -146,7 +146,7 @@
   "effect.enlightened_end.radiation_resistance.description": "Забезпечує стійкість до радіації.",
   "effect.enlightened_end.enderstride.description": "Випадково телепортує до місця, куди дивиться ціль.",
   "effect.enlightened_end.frigid.description": "Змушує замерзнути.",
-  "effect.enlightened_end.bubbling.description": "Огортає влучені цілі гігантською бульбашкою, яка піднімається вгору.",
+  "effect.enlightened_end.bubbling.description": "Огортає влучені цілі гігантською бульбашкою, яка підіймається вгору.",
   "effect.enlightened_end.rooted.description": "Змушує ціль постійно занурюватися на один блок у землю.",
   "effect.enlightened_end.dazed.description": "Засліплює весь екран.",
 
@@ -178,9 +178,9 @@
   "effect.toughasnails.ice_resistance.description": "Запобігає замерзанню.",
   "effect.toughasnails.climate_clemency.description": "Нейтралізує температуру тіла при появі в новому світі.",
 
-  "effect.nutritionalbalance.nourished_effect.description": "За замовчуванням збільшує максимальне здоров'я, швидкість атаки, швидкість руху та шкоду від атаки.",
-  "effect.nutritionalbalance.malnourished_effect.description": "За замовчуванням зменшує максимальне здоров'я, швидкість руху та шкоду від атаки.",
-  "effect.nutritionalbalance.engorged_effect.description": "За замовчуванням зменшує швидкість атаки та швидкість руху.",
+  "effect.nutritionalbalance.nourished_effect.description": "Збільшує стале максимальне здоров'я, швидкість атаки, швидкість руху та шкоду від атаки.",
+  "effect.nutritionalbalance.malnourished_effect.description": "Зменшує стале максимальне здоров'я, швидкість руху та шкоду від атаки.",
+  "effect.nutritionalbalance.engorged_effect.description": "Зменшує сталу швидкість атаки та швидкість руху.",
 
   "effect.naturesaura.breathless.description": "Завдає шкоди через випадкові проміжки часу та значно ускладнює відновлення здоров'я.",
 
@@ -339,7 +339,7 @@
   "effect.cold_sweat.ice_resistance.description": "Надає імунітет до шкоди від «заморожування».",
   "effect.cold_sweat.insulated.description": "Наближає температуру цілі до нейтральної.",
 
-  "effect.monobank.thief.description": "Запобігає торгівлі цілі з селянами і викликає поліцію на ціль (залізні големи будуть агресивні).",
+  "effect.monobank.thief.description": "Запобігає торгівлі цілі з селянами і викликає поліцію на ціль (залізні ґолеми будуть агресивні).",
 
   "effect.born_in_chaos_v1.magic_depletion.description": "Запобігає використанню ціллю певної магії.",
   "effect.born_in_chaos_v1.stun.description": "Знижує швидкість руху на 90% і зменшує шкоду від атак на 8.",
@@ -506,7 +506,7 @@
 
   "effect.mysticpotions.undying.description": "Запобігає смерті цілі. Діє як тотем після смерті, а потім зникає.",
   "effect.mysticpotions.air_swim.description": "Надає цілі здатність плавати в повітрі. (Утримуйте CTRL + W, щоб плавати, і «пробіл», щоб піднятися вгору)",
-  "effect.mysticpotions.warming.description": "Запобігає замерзанню цілі. Завдає шкоди сніговим големам.",
+  "effect.mysticpotions.warming.description": "Запобігає замерзанню цілі. Завдає шкоди сніговим ґолемам.",
   "effect.mysticpotions.homing.description": "Телепортує ціль до її точки відродження.",
   "effect.mysticpotions.recovery.description": "Телепортує ціль до місця її останньої смерті.",
   "effect.mysticpotions.teleportation.description": "Телепортує ціль у випадковому напрямку.",
@@ -515,7 +515,7 @@
   "effect.mysticpotions.explosive.description": "Миттєво підриває ціль.",
   "effect.mysticpotions.burning.description": "Підпалює ціль на час дії ефекту.",
   "effect.mysticpotions.freezing.description": "Заморожує ціль на час дії ефекту.",
-  "effect.mysticpotions.corrosive.description": "Знищує металеві предмети в інвентарі цілі (все, що виготовлено з заліза, міді або нетериту). Завдає шкоди залізним големам.",
+  "effect.mysticpotions.corrosive.description": "Знищує металеві предмети в інвентарі цілі (все, що виготовлено з заліза, міді або нетериту). Завдає шкоди залізним ґолемам.",
   "effect.mysticpotions.gravitation.description": "Перевертає гравітацію, коли ціль присідає.",
   "effect.mysticpotions.fatal_poison.description": "Завдає смертельну шкоду з часом.",
   "effect.mysticpotions.protection.description": "Збільшує захист броні.",

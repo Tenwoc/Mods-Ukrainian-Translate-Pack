@@ -12,7 +12,7 @@
 
   "container.alloy_forgery.forge_controller": "Контролер кузні",
 
-  "container.alloy_forgery.rei.title": "Витоплення стопів",
+  "container.alloy_forgery.rei.title": "Витоплення сплавів",
   "container.alloy_forgery.rei.min_tier": "Необхідний рівень: %d",
   "container.alloy_forgery.rei.fuel_per_tick": "Витрата палива на такт: %d",
   "container.alloy_forgery.rei.button": "Перемикання перевизначення рівнів",
@@ -24,7 +24,7 @@
   "itemGroup.alloy_forgery.alloy_forgery.button.modrinth": "Modrinth",
   "itemGroup.alloy_forgery.alloy_forgery.button.github": "GitHub",
 
-  "emi.category.alloy_forgery.alloy_forge": "Витоплення стопів",
+  "emi.category.alloy_forgery.alloy_forge": "Витоплення сплавів",
 
   "tag.item.c.copper_ores": "Мідні руди",
   "tag.item.c.iron_ores": "Залізні руди",

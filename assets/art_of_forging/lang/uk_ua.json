@@ -190,7 +190,7 @@
 
 	"item.art_of_forging.curious_artifact": "Артефакт Curious",
 
-	"item.art_of_forging.resonant_alloy": "Резонансний стоп",
+	"item.art_of_forging.resonant_alloy": "Резонансний сплав",
 	"item.art_of_forging.forged_steel_ingot": "Злиток кованої сталі",
 	"item.art_of_forging.vobrite_crystal": "Вобріючий кристал",
 	"item.art_of_forging.vobrivium_ingot": "Вобрієвий злиток",
@@ -1055,7 +1055,7 @@
 	"tetra.advancements.scrolls.root.description": "Знайдіть сувій, в якому записані схеми мистецтва ковальства",
 
 	"art_of_forging.advancements.materials.root.title": "Збірник матеріалів (§eAoF§r)",
-	"art_of_forging.advancements.materials.root.description": "Створіть резонансну суміш стопів, щоб почати кування нових матеріалів.",
+	"art_of_forging.advancements.materials.root.description": "Створіть резонансну суміш злитків, щоб почати кування нових матеріалів.",
 
 
 	"tetra.advancements.art_of_forging.rapier_upgrade.title": "Славетна голка",
@@ -1151,7 +1151,7 @@
 
 
 	"art_of_forging.advancements.materials.forged_steel.title": "Сталь древніх",
-	"art_of_forging.advancements.materials.forged_steel.description": "Витопіть резонансний стоп, щоб створити злиток кованої сталі",
+	"art_of_forging.advancements.materials.forged_steel.description": "Витопіть резонансний сплав, щоб створити злиток кованої сталі",
 
 	"art_of_forging.advancements.materials.vobrite_crystal.title": "Кристалізовані грозові хмари",
 	"art_of_forging.advancements.materials.vobrite_crystal.description": "Знайдіть вобріючий кристал в уламках корабля",

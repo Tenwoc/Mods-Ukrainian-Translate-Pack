@@ -1,5 +1,5 @@
 {
-    "name": "Gem Cutting",
+    "name": "Огранування самоцвітів",
     "icon": "apotheosis:gem_cutting_table",
     "category": "apotheosis:adventure/gems",
 	"flag": "apotheosis:adventure",
@@ -8,12 +8,12 @@
         {
             "type": "patchouli:crafting",
 			"recipe": "apotheosis:gem_cutting_table",
-			"text": "The $(9)Gem Cutting Table$() is used to upgrade $(l:apotheosis:adventure/gems/gems)Gems$().$(p)Upgrading a Gem usually costs $(9)Gem Dust$(), $(9)Rarity Materials$(), and a second Gem of the same purity."
+			"text": "$(9)Стіл огранування самоцвітів$() використовується для вдосконалення $(l:apotheosis:adventure/gems/gems)Самоцвітів$().$(p)Вдосконалення самоцвіту зазвичай вимагає $(9)пил самоцвіту$(), $(9)матеріали рідкості$() та другий самоцвіт тієї ж чистоти."
 		},
 		{
-			"title": "Upgrade Costs",
+			"title": "Вартість вдосконалення",
             "type": "patchouli:text",
-            "text": "The cost of upgrading a Gem increases with its Purity.$(p)Stronger gems require more $(9)Gem Dust$() and higher-tier $(9)Rarity Materials$().$(p)The exact cost to upgrade a gem can be seen in JEI."
+            "text": "Вартість вдосконалення самоцвіту росте з його чистотою.$(p)Сильніші самоцвіти вимагають більше $(9)пилу самоцвітів$() та якісніших $(9)матеріалів рідкості$().$(p)Точну вартість вдосконалення самоцвіту можна переглядати у JEI."
         }
 	]
 }

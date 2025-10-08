@@ -2,7 +2,7 @@
 
   "_": "->------------------------] Ігрові елементи [------------------------<-",
 
-  "block.create_mechanical_spawner.mechanical_spawner": "Механічний спавнер",
+  "block.create_mechanical_spawner.mechanical_spawner": "Механічний породжувач",
 
   "fluid.create_mechanical_spawner.spawn_fluid_blaze": "Рідина виклику пломеня",
   "fluid.create_mechanical_spawner.spawn_fluid_creeper": "Рідина виклику кріпера",
@@ -24,35 +24,35 @@
   "item.create_mechanical_spawner.spawn_fluid_spider_bucket": "Відро рідини виклику павука",
   "item.create_mechanical_spawner.spawn_fluid_zombie_bucket": "Відро рідини виклику зомбі",
 
-  "itemGroup.create_mechanical_spawner:main": "Створення механічного спавнера",
+  "itemGroup.create_mechanical_spawner:main": "Створення механічного породжувача",
 
-  "config.jade.plugin_create_mechanical_spawner.spawner_data": "Дані механічного спавнера",
+  "config.jade.plugin_create_mechanical_spawner.spawner_data": "Дані механічного породжувача",
 
-  "create_mechanical_spawner.recipe.spawner": "Рецепти спавнера",
+  "create_mechanical_spawner.recipe.spawner": "Рецепти породжувача",
 
   "create_mechanical_spawner.generic.biome_dependant": "Залежить від біома",
 
   "create_mechanical_spawner.spawner.tooltip.progress": "Прогрес: %d%%",
   "create_mechanical_spawner.spawner.scrollValue.label": "Спавн на висоті (у блоках)",
 
-  "block.create_mechanical_spawner.mechanical_spawner.tooltip": "МЕХАНІЧНИЙ СПАВНЕР",
+  "block.create_mechanical_spawner.mechanical_spawner.tooltip": "МЕХАНІЧНИЙ ПОРОДЖУВАЧ",
   "block.create_mechanical_spawner.mechanical_spawner.tooltip.summary": "Створює _мобів_ із рідини виклику.",
 
 
   "_": "->------------------------] ІНТЕРФЕЙС [------------------------<-",
 
-  "itemGroup.create_mechanical_spawner:main": "Створення механічного спавнера",
+  "itemGroup.create_mechanical_spawner:main": "Створення механічного породжувача",
 
-  "config.jade.plugin_create_mechanical_spawner.spawner_data": "Дані механічного спавнера",
+  "config.jade.plugin_create_mechanical_spawner.spawner_data": "Дані механічного породжувача",
 
-  "create_mechanical_spawner.recipe.spawner": "Рецепти спавнера",
+  "create_mechanical_spawner.recipe.spawner": "Рецепти породжувача",
 
   "create_mechanical_spawner.generic.biome_dependant": "Залежить від біома",
 
   "create_mechanical_spawner.spawner.tooltip.progress": "Прогрес: %d%%",
   "create_mechanical_spawner.spawner.scrollValue.label": "Спавн на висоті (у блоках)",
 
-  "block.create_mechanical_spawner.mechanical_spawner.tooltip": "МЕХАНІЧНИЙ СПАВНЕР",
+  "block.create_mechanical_spawner.mechanical_spawner.tooltip": "МЕХАНІЧНИЙ ПОРОДЖУВАЧ",
   "block.create_mechanical_spawner.mechanical_spawner.tooltip.summary": "Створює _мобів_ із рідини виклику.",
 
   "_": "Дякуємо за переклад Create Mechanical Spawner! --Будь ласка - Tenwoc"
