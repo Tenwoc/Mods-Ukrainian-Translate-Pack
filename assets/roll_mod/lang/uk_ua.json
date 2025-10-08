@@ -1,0 +1,75 @@
+{
+  "item.roll_mod.copper_gear": "Мідна шестерня",
+  "item.roll_mod.chemical_core": "Хімічне ядро",
+
+  "item.roll_mod.hazmat_helmet": "Сіркостійка маска",
+  "item.roll_mod.hazmat_chestplate": "Сіркостійкий костюм",
+  "item.roll_mod.hazmat_leggings": "Сіркостійкі наголінники",
+  "item.roll_mod.hazmat_boots": "Сіркостійкі чоботи",
+
+  "item.roll_mod.meteorite_helmet": "Метеоритний шолом",
+  "item.roll_mod.meteorite_chestplate": "Метеоритний нагрудник",
+  "item.roll_mod.meteorite_leggings": "Метеоритні наголінники",
+  "item.roll_mod.meteorite_boots": "Метеоритні чоботи",
+
+  "itemGroup.roll_mod.main": "Roll Mod",
+  "itemGroup.roll_mod.dev": "§сAllTheRoll",
+
+  "block.roll_mod.large_chemical_reactor": "Великий хімічний реактор",
+
+  "message.roll_mod.nether_storm.start": "У Незері насувається шторм - затримайте дихання, або помріть!",
+  "message.roll_mod.nether_storm.end": "Шторм зупинився, але чи надовго?",
+  "message.roll_mod.cb.no_access.creative": "Ролл не настільки тупий, що б дати вам доступ до цього)))",
+  "message.roll_mod.cb.no_access.survival": "Цей блок доступний тільки для адміністрації.",
+  "message.roll_mod.cb.no_access.other": "Цей блок недоступний.",
+  "message.roll_mod.cb.no_access.setblock": "Командні блоки ТІЛЬКИ для Ролла!",
+
+  "tag.item.roll_mod.storm_protective": "Захист від шторму",
+  "mi.condition.roll_mod.nether_storm.active": "Потрібен активний шторм у Незері",
+
+  "loreitem.roll_mod.hazmat_helmet.tooltip_line1": "Без цього не вижити в Незері в наші дні.",
+  "loreitem.roll_mod.hazmat_helmet.tooltip_line2": "Естетика покинула чат...",
+  "loreitem.roll_mod.hazmat_chestplate.tooltip_line1": "Надійний захист від сірчаної бурі.",
+  "loreitem.roll_mod.hazmat_chestplate.tooltip_line2": "3,6 рентгена. Не багато, але й не мало.",
+  "loreitem.roll_mod.hazmat_leggings.tooltip_line1": "Захищає ноги від незерського середовища.",
+  "loreitem.roll_mod.hazmat_boots.tooltip_line1": "Крокуй крізь Незер без страху.",
+  "loreitem.roll_mod.hazmat_boots.tooltip_line2": "Вони вже пахнуть погано, а ти їх навіть не надягав...",
+  "loreitem.roll_mod.meteorite_helmet.tooltip_line1": "Міцність, загартована космічним вогнем.",
+  "loreitem.roll_mod.meteorite_helmet.tooltip_line2": "Ти носиш уламок, що впав із небес.",
+  "loreitem.roll_mod.meteorite_chestplate.tooltip_line1": "Неймовірно міцна броня з космосу.",
+  "loreitem.roll_mod.meteorite_chestplate.tooltip_line2": "Супротивники відчувають вагу галактики.",
+  "loreitem.roll_mod.meteorite_leggings.tooltip_line1": "Броня, що витримує удари зірок.",
+  "loreitem.roll_mod.meteorite_leggings.tooltip_line2": "Совість завжди ходила в таких.",
+  "loreitem.roll_mod.meteorite_boots.tooltip_line1": "Космічні чоботи, що гартують кожен крок.",
+  "loreitem.roll_mod.meteorite_boots.tooltip_line2": "Земля під ногами трішки ревнує.",
+  "item.roll_mod.meteorite_metal_ingot": "Метеоритний злиток",
+  "loreitem.roll_mod.meteorite_metal_ingot.tooltip_line1": "Фрагмент, загартований космічним полум’ям.",
+  "loreitem.roll_mod.meteorite_metal_ingot.tooltip_line2": "Ледь відлунює сяйвом зір.",
+
+  "comment1": "just dev schizo shit down",
+  "item.roll_mod.supersteel_gear": "Суперсталевa шестерня",
+  "loreitem.roll_mod.supersteel_gear.tooltip_line1": "Кована під екстремальним тиском.",
+  "loreitem.roll_mod.supersteel_gear.tooltip_line2": "Розрахована на мегапаскалі.",
+
+  "item.roll_mod.super_circuit": "Суперсхема",
+  "loreitem.roll_mod.super_circuit.tooltip_line1": "Квантово-заблоковані тракти.",
+  "loreitem.roll_mod.super_circuit.tooltip_line2": "Екранування шуму 0.1 дБ.",
+  "loreitem.roll_mod.super_circuit.tooltip_line3": "Потребує калібрування перед використанням.",
+
+  "item.roll_mod.meteorite_sword": "Метеоритний меч",
+  "loreitem.roll_mod.meteorite_sword.tooltip_line1": "Викуваний зі впалих зірок",
+
+  "item.roll_mod.meteorite_pickaxe": "Метеоритне кайло",
+  "loreitem.roll_mod.meteorite_pickaxe.tooltip_line1": "Добуває навіть найтвердіший камінь",
+
+  "item.roll_mod.meteorite_axe": "Метеоритна сокира",
+  "loreitem.roll_mod.meteorite_axe.tooltip_line1": "Рубає з космічною силою",
+
+  "item.roll_mod.meteorite_shovel": "Метеоритна лопата",
+  "loreitem.roll_mod.meteorite_shovel.tooltip_line1": "Копає швидше за екскаватори",
+
+  "item.roll_mod.meteorite_hoe": "Метеоритна мотика",
+  "loreitem.roll_mod.meteorite_hoe.tooltip_line1": "Ґрунт схиляється перед її дотиком",
+
+  "material.roll_mod.meteorite_metal": "§9Метеоритний метал"
+}
