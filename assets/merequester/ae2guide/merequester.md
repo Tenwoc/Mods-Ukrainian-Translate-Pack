@@ -8,136 +8,117 @@ item_ids:
   - merequester:requester_terminal
 ---
 
-# ME Requester
+# ME Запитувач
 
 <Row>
   <ItemImage id="requester" scale="3"/>
   <ItemImage id="requester_terminal" scale="3"/>
 </Row>
 
-An add-on mod allowing you to keep items and fluids in your [ME System](ae2:getting-started.md#your-very-first-me-system) in stock.
+Мод-аддон, що дозволяє запасати предмети та рідини у вашій [МЕ системі](ae2:getting-started.md#your-very-first-me-system). Створено для людей, котрі не здатні приєднати шину зберігання до інтерфейсу із карткою вироблення.
 <br/>
 
-## Getting Started
+## Вступ
 
-To get started, place a <ItemLink id="requester"/> and connect it to your network. Make sure to connect it to the same network your
-[Autocrafting](ae2:ae2-mechanics/autocrafting.md) logic is located in. It should host your
-[Crafting CPU](ae2:ae2-mechanics/autocrafting.md#the-crafting-cpu)s and <ItemLink id="ae2:pattern_provider"/>s.
+Для початку розмістіть <ItemLink id="requester"/> та з'єднайте його зі своєю мережею. Переконайтеся, що він знаходиться в одній мережі разом із вашою [логістикою автовироблення](ae2:ae2-mechanics/autocrafting.md). Вона повинна включати [процесор вироблення](ae2:ae2-mechanics/autocrafting.md#the-crafting-cpu) та <ItemLink id="ae2:pattern_provider"/>.
 
 <RecipeFor id="requester"/>
 
-In order for the <ItemLink id="requester"/> to function, you need to make sure that items or fluids you want to keep in stock have a pattern
-and can also be crafted if you request them as a player. It will only automate the requesting itself. Crafting is handled by the
-[ME System](ae2:getting-started.md#your-very-first-me-system).
+Щоб <ItemLink id="requester"/> працював, потрібно переконатися, що предмети або рідини, які ви хочете зберігати у запасі, мають шаблон і можуть бути вироблені, якщо ви як гравець подасте на них запит. Запитувач автоматизує лише сам запит, а вироблення здійснюється [МЕ системою](ae2:getting-started.md#your-very-first-me-system), до якої він підключений.
 <br/>
 
 <FloatingImage src="assets/gui.png" align="right"/>
 
-## Configuration
+## Налаштування
 
-When opening the <ItemLink id="requester"/> for the first time, you will see an overview of request settings. The number of slots a single
-block can host is adjustable in the config. Each row of the GUI represents an individual request.
+При першому відкритті <ItemLink id="requester"/> відобразить огляд налаштувань запитів. Кількість слотів, які може вмістити один блок, налаштовуються в конфігурації, але усталено їх 5. Кожен рядок графічного інтерфейсу представляє окремий запит.
 <br/>
 
-### Toggle Switch
+### Перемикання
 
-The checkbox to the left toggles the request configured on that row. When a request is disabled, no checks will run and the stock of your
-request will not be maintained.<br/>
-This can be used to temporarily disable a specific request or to prevent the <ItemLink id="requester"/> from emitting crafting jobs while
-you are still making changes to a row.
+Перемикач зліва вмикає або вимикає запит, налаштований у цьому рядку. Коли запит вимкнено, перевірки не виконуються, а запас вашого запиту не підтримується.
+Це можна використовувати для тимчасового вимкнення конкретного запиту або щоб стримувати <ItemLink id="requester"/> від видачі завдань вироблення, поки ви все ще вносите зміни до рядка.
 <br/>
 
-### What to Stock
+### Предмет до запасання
 
-In the second column, you can specify what you want to keep in stock. The slots are ghost slots and will not hold actual items. When
-dragging an item to the slot, you can use right click to set the amount to 1 or left click to use the amount the stack you are dragging has.
-When dragging a bucket with a fluid to the slot, you can use right click to set the contained fluid or left click to set the bucket itself.
-You can also shift-click items to quickly set the item type. If you don't have the desired item in your inventory, you can also drag and
-drop it from recipe viewers that are supported by Applied Energistics.
+У другій колонці ви можете вказати, що ви хочете запасти. Слоти є віртуальними й не містять реальних предметів. Перетягуючи предмет до слоту, ви можете натиснути ПКМ, щоб встановити кількість 1, або ЛКМ, щоб використовувати кількість, яка міститься у перетягуваному предметі. Перетягуючи відро з рідиною до слоту, ви можете натиснути ПКМ, щоб встановити кількість рідини, або ЛКМ, щоб встановити саме відро. Ви також можете затиснути Shift і клацнути на предметі, щоб швидко встановити його тип. Якщо у вашому інвентарі немає потрібного предмета, ви також можете перетягнути його з переглядачів рецептів, які підтримуються Applied Energistics.
 <br/>
 
-### Amount to Stock
+### Обсяг запасання
 
-The Amount to Stock field indicates how much to stock. Specify what to stock first and then enter your desired value. For non-item requests,
-the field will adapt to the type. For example, showing a `B` to indicate buckets for fluid.<br/>
-When the current stock falls below the specified amount, the <ItemLink id="requester"/> will request more.
+Поле «Необхідний запас на складі» вказує, скільки потрібно предмета запасти на складі. Спочатку вкажіть, що потрібно запасати, а потім введіть бажане значення. Для запитів, що не є предметами, поле адаптується до типу. Наприклад, для позначення відер для рідини буде показано «В».<br/> Коли поточний запас на складі стане меншим за вказану кількість, <ItemLink id="requester"/> запросить додаткову кількість.
 <br/>
 
-### Batch Size
+### Розмір разового запиту
 
-The next input field specifies the batch size that will be requested once the current stock falls below the threshold specified in the
-Amount to Stock field.<br/>
-This can be used to put less stress on [Crafting CPU](ae2:ae2-mechanics/autocrafting.md#the-crafting-cpu)s and machines used in the craft
-since the full amount will be requested at once, rather than as many individual jobs.
+Наступне поле введення визначає розмір партії, яка буде замовлена, коли поточний запас впаде нижче порогу, зазначеного в полі обсягу запасання.<br/> Це можна використовувати, щоб зменшити навантаження на [процесори вироблення](ae2:ae2-mechanics/autocrafting.md#the-crafting-cpu) та машини, що використовуються у виробництві, оскільки повна кількість буде замовлена одразу, а не у вигляді багатьох окремих завдань.
 <br/>
 
-### Submit Button
+### Кнопка підтвердження
 
-To apply changes to the request, enter the desired values in the Amount to Stock and Batch Size fields and then either press Enter or click
-the submit button to the right on the current row. Clicking into any other row will reset the values to their previous state.
+Щоб застосувати зміни до запиту, введіть бажані значення в поля «Необхідний запас на складі» та «Розмір партії», а потім натисніть клавішу Enter або кнопку «Підтвердити зміни» праворуч від поточного рядка. Натискання на будь-який інший рядок призведе до скидання значень до попереднього стану.
 <br/>
 
-### Status Bar
+### Статусна смуга
 
-The bar below the input boxes and the submit button reflects the current status of the request.
+Смуга під полями введення та кнопкою підтвердження відображає поточний стан запиту.
 <br clear="all" />
 <br/>
 
-## Statuses
+## Статуси
 
-The following statuses are displayed in the status bar for each request.
+У рядку стану для кожного запиту відображаються такі статуси.
 <br/>
 
-### Gray - Empty
+### Сірий - Порожньо
 
-The current row is disabled or nothing to stock has been specified.
+Поточний рядок вимкнено або не вказано нічого для запасання.
 <br/>
 
-### Green - Idling
+### Зелений - Простій
 
-The target amount to stock is already reached or there is no pattern for the configured request.
+Цільова кількість запасів вже досягнута або немає шаблону для налаштованого запиту.
 <br/>
 
-### Red - Missing Ingredients
+### Червоний - Брак інгредієнтів
 
-The system is missing the required ingredients to emit the current job. It will continue as soon as enough ingredients are found in the
-system.
+У системі відсутні необхідні інгредієнти для виконання поточного завдання. Воно буде продовжено, як тільки в системі буде знайдено достатню кількість інгредієнтів.
 <br/>
 
-### Yellow - Crafting
+### Помаранчевий - Брак процесорів
 
-The desired request is currently being crafted. The requester is waiting for the job to finish.<br/>
-While this status is active, the settings for the respective request inside the <ItemLink id="requester"/> are locked and can't be changed.
+Система не може підібрати придатний процесор для запитаного завдання. Воно буде продовжено, як тільки в системі буде знайдено придатний вільний процесор.
 <br/>
 
-### Purple - Exporting
+### Жовтий - Вироблення
 
-The <ItemLink id="requester"/> received all results from the current job and is trying to export them into the storage system.<br/>
-This status is usually not visible. If it's active for too long, it means there is not enough space in your storage system.
+Запитуване завдання наразі виконується. Запитувач очікує на завершення роботи.<br/> Поки цей статус активний, налаштування відповідного запиту в <ItemLink id="requester"/>*і* заблоковані та не можуть бути змінені.
 <br/>
 
-### Block Appearance
+### Фіолетовий - Експорт
 
-If any request in a <ItemLink id="requester"/> has any status except idle or empty, it will change its appearance.
+<ItemLink id="requester"/> отримав усі результати поточного завдання і намагається експортувати їх у систему сховища.<br/> Цей статус зазвичай не відображається. Якщо він залишається активним надто довго, це означає, що у вашій системі сховища недостатньо місця.
+<br/>
+
+### Поведінка блока
+
+Коли <ItemLink id="requester"/> отримує будь-який стан предмета, крім Порожнього чи Простою, він змінює свій вигляд.
 
 <Row>
   <Column>
-    Inactive
+    Неактивний
     <BlockImage id="requester" scale="3" p:active="false"/>
   </Column>
   <Column>
-    Active
+    Активний
     <BlockImage id="requester" scale="3" p:active="true"/>
   </Column>
 </Row>
 <br/>
 
-## Terminal
+## Термінал
 
-The mod also provides a new terminal called the <ItemLink id="requester_terminal"/>. It allows you to access all <ItemLink id="requester"/>s
-in the same network from a central point.
+Мод також надає новий термінал — <ItemLink id="requester_terminal"/>. Він дозволяє отримати доступ до всіх <ItemLink id="requester"/>*ів* в одній мережі з центральної точки.
 
-The terminal has the same features as the <ItemLink id="ae2:pattern_access_terminal"/> and allows you to search for a specific request.
-Since all <ItemLink id="requester"/>s have the same name by default, all requests will be grouped under the
-same header. If you want a separate group of <ItemLink id="requester"/>s in the <ItemLink id="requester_terminal"/>, you can rename them in
-an anvil or with the <ItemLink id="ae2:name_press"/>.
+Термінал має ті ж функції, що і <ItemLink id="ae2:pattern_access_terminal"/>, і дозволяє шукати конкретний запит. Оскільки всі <ItemLink id="requester"/>*і* усталено мають однакову назву, всі запити будуть згруповані під одним заголовком. Якщо ви хочете створити окрему групу <ItemLink id="requester"/>*ів*, яку побачить <ItemLink id="requester_terminal"/>, ви можете перейменувати їх в ковадлі або використовуючи <ItemLink id="ae2:name_press"/>.

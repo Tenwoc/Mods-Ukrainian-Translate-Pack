@@ -1,18 +1,18 @@
 {
-  "itemGroup.merequester": "Запитувач ME",
+  "itemGroup.merequester": "ME Requester",
 
-  "item.merequester.requester_terminal": "Термінал запитувача ME",
-  "item.merequester.wireless_requester_terminal": "Бездротовий термінал запитувача",
-  "block.merequester.requester": "Запитувач ME",
+  "item.merequester.requester_terminal": "МЕ Термінал запитів",
+  "item.merequester.wireless_requester_terminal": "Бездротовий термінал запитів",
+  "block.merequester.requester": "МЕ Запитувач",
 
-  "key.ae2.wireless_requester_terminal": "Відкрити бездротовий термінал запитувача",
+  "key.ae2.wireless_requester_terminal": "Відкрити бездротовий термінал запитів",
 
-  "gui.merequester.requester_terminal": "Термінал зап. ME",
-  "gui.merequester.no_requesters": "Не знайдено жодного запитувача ME!",
+  "gui.merequester.requester_terminal": "МЕ Термінал зап.",
+  "gui.merequester.no_requesters": "Не знайдено жодного МЕ запитувача!",
 
-  "tooltip.merequester.requester_desc": "Автоматично відстежує предмети та рідини у сховищі, запитуючи нові вироби за потреби. Має бути підключений до мережі ME і може бути доступний з термінала ME запитувачів. Втрачає свою конфігурацію при добуванні, проте її можна скопіювати на карту пам'яті.",
+  "tooltip.merequester.requester_desc": "Автоматично відстежує предмети та рідини у сховищі, запитуючи нові вироби за потреби. Має бути підключений до мережі ME і може бути доступний з МЕ термінала запитів. Втрачає свою конфігурацію при добуванні, проте її можна скопіювати на карту пам'яті.",
 
-  "tooltip.merequester.shift_for_more": "%s, щоб розгорнути",
+  "tooltip.merequester.shift_for_more": "%s, щоб розгорнути підказку",
   "tooltip.merequester.enter_to_submit": "%s, щоб підтвердити",
 
   "tooltip.merequester.whole_number": "Має бути ціле число!",
@@ -30,8 +30,8 @@
   "tooltip.merequester.missing_desc": "У системі недостатньо інгредієнтів для вироблення запитаного предмета чи рідини. Процес подовжиться, як тільки інгредієнти з'являться у системі.",
   "tooltip.merequester.cpu": "Брак процесорів",
   "tooltip.merequester.cpu_desc": "Система не може підібрати придатний процесор для запитаного завдання. Процес подовжиться, як тільки вільний/придатний процесор з'явиться у системі.",
-  "tooltip.merequester.link": "Виготовлення",
+  "tooltip.merequester.link": "Вироблення",
   "tooltip.merequester.link_desc": "Наразі система виробляє запитуваний предмет або рідину.",
   "tooltip.merequester.export": "Експорт",
-  "tooltip.merequester.export_desc": "Запитувач очікує експорт результату виготовлення до системи. Якщо запитувач має цей статус протягом тривалого часу, це означає, що для експорту немає вільного місця."
+  "tooltip.merequester.export_desc": "Запитувач очікує експорт результату вироблення до системи. Якщо запитувач має цей статус протягом тривалого часу, це означає, що для експорту немає вільного місця."
 }

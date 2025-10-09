@@ -2,53 +2,50 @@
 navigation:
     parent: ae2:items-blocks-machines/items-blocks-machines-index.md
     icon: ae2netanalyser:network_analyser
-    title: ME Network Analyser
+    title: МЕ Аналізатор мережі
 categories:
 - tools
 item_ids:
 - ae2netanalyser:network_analyser
 ---
 
-# Analyse ME Network
+# Аналіз МЕ мережі
 
 <ItemImage id="ae2netanalyser:network_analyser" scale="4"></ItemImage>
 
-Have you ever suffered from finding out which device in your ME network is offline? Or just want to see how your network
-is working? Here is the ME Network Analyser!
+Ви коли-небудь стикалися з проблемою визначення, який пристрій у вашій мережі МЕ не підключений до неї? Або просто хочете подивитися, як працює ваша мережа? МЕ Аналізатор мережі вже тут як тут!
 
-## What is going on is my ME network?
+## Що коїться у моїй МЕ мережі?
 
-Click any block, cable or device that connect to the ME network, you will see every device's status and how they connect 
-to each other.
+Натисніть на будь-який блок, кабель або пристрій, що підключається до мережі МЕ, і ви побачите стан кожного пристрою та спосіб їх підключення один до одного.
 
-![overview](./pic/showoff.png)
+![перегляд](./pic/showoff.png)
 
-Different colors and shapes stand for different status.
-- Blue cube: Normal ME devices, they have enough channel and can pass 8 channels.
-- Yellow cube: Dense ME devices, they have enough channel and can pass 32 channels.
-- Red cube: Offline ME devices, they don't enough channel.
-- Blue link: This link can hold 8 channels at most.
-- Yellow link: This link can hold 32 channels at most.
-- Pink link: It is a ME P2P link.
-- Numbers: The number of channels that is carried by this link.
+Різні кольори та форми позначають різний статус.
+- Синій куб: звичайні пристрої МЕ, вони мають достатню кількість каналів і усталено можуть передавати до 8 з них.
+- Жовтий куб: щільні пристрої МЕ, вони мають достатню кількість каналів і усталено можуть передавати 32 з них.
+- Червоний куб: пристрої поза МЕ мережею, вони не мають достатньої кількості каналів.
+- Синє з'єднання: усталено це з'єднання може вмістити максимум 8 каналів.
+- Жовте з'єднання: усталено це з'єднання може вмістити максимум 32 канали.
+- Рожеве з'єднання: це з'єднання МЕ P2P.
+- Числа: кількість каналів, що передаються цим з'єднанням.
 
-Notice that the maximum channel number actually depends on your ME Channel Mode. Analyser won't show channel numbers when 
-Infinity Channel mode is on.
+Зверніть увагу, що максимальна кількість каналів фактично залежить від вашого режиму каналів МЕ. Аналізатор не показуватиме навантаженість каналів, коли увімкнено режим нескінченних каналів.
 
-## Custom Display
+## Налаштування відображення
 
-You can change the analysis mode and colors in Config GUI.
+Ви можете змінити режим аналізу та кольори в інтерфейсі конфігурації.
 
-![gui](./pic/gui.png)
+![інтерфейс](./pic/gui.png)
 
-ME Network Analyser has 5 modes.
-- Full: Display all network status.
-- Nodes: Only display node status.
-- Links: Only display link status.
-- No Number: Don't display channel numbers.
-- P2P: Only display ME P2P links.
+МЕ Аналізатор мережі має 5 режимів:
+- Повний: відображає весь стан мережі.
+- Вузли: відображає тільки стан вузлів.
+- З'єднання: відображає тільки стан зв'язків.
+- Без чисел: не відображає номери каналів.
+- P2P: відображає тільки МЕ P2P зв'язки.
 
-You also can change node or link color.
+Ви також можете змінювати колір вузлів або зв'язків.
 
-![gui2](./pic/color.png)
+![інтерфейс2](./pic/color.png)
 

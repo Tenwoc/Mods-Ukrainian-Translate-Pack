@@ -1,10 +1,10 @@
 ---
 navigation:
   parent: ae2-mechanics/ae2-mechanics-index.md
-  title: Quantum Bridge
+  title: Квантовий міст
   icon: quantum_ring
 ---
 
-# The Quantum Network Bridge
+# Квантовий мережевий міст
 
-See [Quantum Network Bridge](../items-blocks-machines/quantum_bridge.md)
+Дивіться [Квантовий мережевий міст](../items-blocks-machines/quantum_bridge.md)

@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Index/Table of Contents
+  title: Зміст контенту
   position: 0
 ---
 

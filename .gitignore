@@ -1,10 +1,8 @@
-# .vscode/ltex.dictionary.uk-UA.txt
-# .vscode/ltex.disabledRules.uk-UA.txt
-# .vscode/template.json
-# .vscode/template/lang/uk_ua.json
-assets/ae2/ae2guide/assets/
-assets/advanced_ae/ae2guide/pic/
-assets/extendedae/ae2guide/pic/
-assets/megacells/ae2guide/assets/
-assets/ae2netanalyser/ae2guide/pic/
-assets/merequester/ae2guide/assets/
+.vscode/
+.gitignore
+# assets/ae2/ae2guide/assets/
+# assets/advanced_ae/ae2guide/pic/
+# assets/extendedae/ae2guide/pic/
+# assets/megacells/ae2guide/assets/
+# assets/ae2netanalyser/ae2guide/pic/
+# assets/merequester/ae2guide/assets/

@@ -1,70 +1,61 @@
 ---
 navigation:
   parent: ae2-mechanics/ae2-mechanics-index.md
-  title: Subnetworks
+  title: Підмережі
 ---
 
-# Subnetworks
+# Підмережі
 
 <GameScene zoom="4" interactive={true}>
 <ImportStructure src="../assets/assemblies/subnet_demonstration.snbt" />
 
 <DiamondAnnotation pos="6.5 2.5 0.5" color="#00ff00">
-        Item Pipe Subnet
+        Підмережа предметної труби
     </DiamondAnnotation>
 
 <DiamondAnnotation pos="5.5 2.5 0.5" color="#00ff00">
-        Fluid Pipe Subnet
+        Підмережа рідинної труби
     </DiamondAnnotation>
 
 <DiamondAnnotation pos="4.5 2.5 0.5" color="#00ff00">
-        Filtered Annihilation Plane
+        Фільтрована площина анігіляції
     </DiamondAnnotation>
 
 <DiamondAnnotation pos="3.5 2.5 0.5" color="#00ff00">
-        Formation Plane Subnet
+        Підмережа площини формування
     </DiamondAnnotation>
 
 <DiamondAnnotation pos="2.5 2.5 0.5" color="#00ff00">
-        Subnet using the Interface-Storage Bus interaction to act as a local sub-storage that the main
-network can access
+        Підмережа, що використовує взаємодію між інтерфейсом і шиною зберігання для роботи в якості локального підсховища, до якого має доступ основна
+мережа
     </DiamondAnnotation>
 
 <DiamondAnnotation pos="1.5 1.5 0.5" color="#00ff00">
-        Another item pipe subnet, to return the charged items to the Pattern Provider
+        Ще одна підмережа предметної труби, яка повертає заряджені предмети до постачальника шаблонів
     </DiamondAnnotation>
 
 <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-"Subnetwork" is a rather loosely-defined term, but one might say that a subnetwork is any [network](../ae2-mechanics/me-network-connections.md) that supports your
-main network or does some small task. They are typically small enough to not require controllers. Their main 2 uses tend to be:
+«Підмережа» — це досить широко визначений термін, але можна сказати, що підмережа — це будь-яка [мережа](../ae2-mechanics/me-network-connections.md), яка підтримує вашу основну мережу або виконує деякі невеликі завдання. Зазвичай вони досить малі, щоб не потребувати контролерів. Їхні два основні використання, як правило, такі:
 
-* To restrict what [devices](../ae2-mechanics/devices.md) have access to what storage (you don't want the import bus on a "pipe" subnet to have access to your main net
-    storage, or it will put the items in your storage cells instead of in the destination inventory).
-* To save channels on your main network, like having a pattern provider output to an interface connected to several storage
-    busses on several machines, using 1 channel, instead of putting a pattern provider on each machine, using several channels.
+* Обмеження доступу [пристроїв](../ae2-mechanics/devices.md) до певного сховища (наприклад, ви не хочете, щоб шина імпорту в підмережі «трубопроводу» мала доступ до вашого основного мережевого сховища, інакше вона розмістить предмети у ваших комірках сховища, а не в інвентарі призначення).
+* Щоб заощадити канали у вашій основній мережі, наприклад, маючи вихід постачальника шаблонів на інтерфейс, підключений до декількох шин сховища на декількох машинах, можна витратити всього 1 канал, замість того, щоб розміщувати постачальника шаблонів на кожній машині, витрачаючи декілька каналів.
 
-Very important in making a subnet is keeping track of the [network connections](../ae2-mechanics/me-network-connections.md).
-Often, people put together some jumble of interfaces and busses and stuff and expect it to be a subnet when
-all the devices are still connected to the main network through various fullblock devices.
+Дуже важливо при створенні підмережі стежити за [мережевими з'єднаннями](../ae2-mechanics/me-network-connections.md). Часто люди збирають купу інтерфейсів, шин та іншого й очікують, що це буде підмережа, коли всі пристрої все ще підключені до основної мережі через різні блокоподібні пристрої.
 
-Cables with different colors have nothing to do with making a subnetwork other than that they won't connect to each other.
+Кабелі різних кольорів не мають нічого спільного зі створенням підмережі, окрім того, що вони не з'єднуються між собою.
 
-Some examples are:
+Ось декілька прикладів:
 
-* A setup to replace your Trash Can/Void Upgrade with an entire AE2 network that decides how to best utilize your garbage. Intelligently
-  route items to a composter array or some modded recycler depending on availability and demand.
-* Build abstractions. Manage all the details of a complex crafting operation from your subnetwork, so from the perspective
-  of your main net, the entire factory "looks like" one machine.
-* Parallelism. Replace a slow machine with 10 copies of the slow machine. From the perspective of your main net,
-  nothing's changed, and you aren't even using any more channels.
-* An import bus and storage bus set up to transfer items or fluids from one container to another like an item or fluid pipe.
-* An annihilation plane and storage bus, so that the only place the annihilation plane can put what it breaks is the storage bus, allowing you to filter the plane.
-* An interface and formation plane, so that whatever is inserted into the interface gets pushed to the formation plane and placed/dropped in the world.
-* A setup to automatically make certus quartz, regulated and controlled by a <ItemLink id="level_emitter" /> on the main network.
-* A specialized storage system accessible from the main network via the special storage-bus-on-interface interaction, in order to store the output of a farm without endlessly overflowing your main storage.
-* And so on
+* Установка для заміни смітника/картки знищення переповнення на цілу мережу AE2, яка вирішує, як найкраще використовувати ваше сміття. Розумно направляйте предмети до масиву компостерів або модового переробника залежно від наявності та попиту.
+* Відокремлення виробництва. Керуйте всіма частинами складної операції вироблення з вашої підмережі, так що відносно вашої основної мережі вся фабрика «виглядає» як одна машина.
+* Паралелізація. Замініть повільну машину 10 копіями повільної машини. З боку вашої основної мережі нічого не змінилося, і ви навіть не використовуєте більше каналів.
+* Шина імпорту та шина зберігання, налаштовані для передачі предметів або рідин з одного контейнера в інший, як труба для предметів або рідин.
+* Площина анігіляції та шина зберігання, щоб єдиним місцем, куди площина анігіляції може помістити те, що вона руйнує, була шина зберігання, що дозволяє вам фільтрувати площину.
+* Інтерфейс та площина формування, щоб все, що вставляється в інтерфейс, переносилося на площину формування та розміщувалося/скидалося у світі.
+* Налаштування для автоматичного отримання істинного кварцу, яке регулює та контролює <ItemLink id="level_emitter" /> в основній мережі.
+* Спеціалізована система зберігання, доступна з головної мережі через взаємодію шини зберігання на інтерфейсі, для зберігання вмісту виходу ферми без нескінченного переповнення вашого головного сховища.
+* І так далі й далі...
 
-Very useful for making subnetworks is the <ItemLink id="quartz_fiber" />. It transfers power between networks without
-connecting them, allowing you to power subnets without needing to put energy acceptors and power cables everywhere.
+Дуже корисним для створення підмереж є <ItemLink id="quartz_fiber" />. Воно передає енергію між мережами, не з'єднуючи їх, що дозволяє вам живити підмережі без необхідності розміщувати всюди приймачі енергії та кабелі із заживленням.

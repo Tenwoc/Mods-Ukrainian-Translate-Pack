@@ -1,179 +1,156 @@
 ---
 navigation:
   parent: ae2-mechanics/ae2-mechanics-index.md
-  title: Network Connections
+  title: Мережування
   icon: fluix_glass_cable
 ---
 
-# Network Connections
+# Мережування
 
-## What Does "Network" Mean?
+## Що означає «Мережа»?
 
-A "Network" is a group of [devices](../ae2-mechanics/devices.md) linked by blocks that can pass [channels](../ae2-mechanics/channels.md),
-like [cables](../items-blocks-machines/cables.md) or fullblock machines and [devices](../ae2-mechanics/devices.md). 
-(<ItemLink id="charger" />, <ItemLink id="interface" />, <ItemLink id="drive" />, etc.)
-Technically a single cable is a network, actually.
+«Мережа» — це група [пристроїв](../ae2-mechanics/devices.md), з'єднаних блоками, які можуть передавати [канали](../ae2-mechanics/channels.md), такі як [кабелі](../items-blocks-machines/cables.md) або блокоподібні машини та [пристрої](../ae2-mechanics/devices.md) (<ItemLink id="charger" />, <ItemLink id="interface" />, <ItemLink id="drive" /> тощо). Технічно один кабель вже є мережею, її найменшою одиницею.
 
-## An Aside On Device Positioning
+## Додаткова інформація про розміщування пристроїв
 
-For [devices](../ae2-mechanics/devices.md) which have some specific network function (like an <ItemLink id="interface" />
-pushing to and pulling from [network storage](../ae2-mechanics/import-export-storage.md), a <ItemLink id="level_emitter" />
-reading the contents of network storage, an <ItemLink id="drive" /> being network storage, etc.)
-the physical position of the device does not matter.
+Для [пристроїв](../ae2-mechanics/devices.md), які мають певну мережеву функцію (наприклад, <ItemLink id="interface" />, що передає та отримує речі з [мережевого сховища](../ae2-mechanics/import-export-storage.md), <ItemLink id="level_emitter" />, що зчитує вміст мережевого сховища, <ItemLink id="drive" />, що є мережевим сховищем тощо) фізичне розташування пристрою не має значення.
 
-Again, **the physical position of the device does not matter**. All that matters is that the device is connected to the network
-(and of course which network it's connected to).
+Повторюємо, **фізичне розташування пристрою не має значення**. Важливо лише те, що пристрій підключений до мережі (і, звичайно, до якої саме мережі).
 
-## Network Connections
+## Мережеві з'єднання
 
-An easy way of determining what's connected in a network is using a <ItemLink id="network_tool" />. It will show every
-component on the network, so if you see stuff you shouldn't or don't see stuff you should, you have a problem.
+Простий спосіб визначити, що приєднано до мережі — це використати <ItemLink id="network_tool" />. Він покаже всі компоненти в мережі, тож якщо ви бачите те, чого не повинні бачити, або не бачите те, що повинні бачити, у вас є проблема.
 
-For example, this is 2 separate networks.
+Наприклад, це 2 окремі мережі:
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/2_networks_1.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="1 2 2">
-        Network 1
+        Мережа 1
   </BoxAnnotation>
 
 <BoxAnnotation color="#5CA7CD" min="2 0 0" max="3 2 2">
-        Network 2
+        Мережа 2
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-This is also 2 separate networks, because the <ItemLink id="quartz_fiber" /> shares [energy](../ae2-mechanics/energy.md)
-without providing a network connection.
+Це також 2 окремі мережі, оскільки <ItemLink id="quartz_fiber" /> ділиться [енергією](../ae2-mechanics/energy.md) без надання мережевого з'єднання:
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/2_networks_2.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="1 2 2">
-        Network 1
+        Мережа 1
   </BoxAnnotation>
 
   <BoxAnnotation color="#5CA7CD" min="1.3 0 0" max="3 2 2">
-        Network 2
+        Мережа 2
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-However, this is just 1 network, not 2 separate ones. The [quantum bridge](../items-blocks-machines/quantum_bridge.md) acts like
-a wireless [dense cable](../items-blocks-machines/cables.md#dense-cable), so both ends are on the same network.
+Однак це лише 1 мережа, а не 2 окремі. [Квантовий міст](../items-blocks-machines/quantum_bridge.md) діє як бездротовий [щільний кабель](../items-blocks-machines/cables.md#dense-cable), тому обидва кінці знаходяться в одній мережі:
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/actually_1_network.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="7 3 3">
-        All 1 network
+        Єдина мережа
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-This is also just 1 network, as [cable](../items-blocks-machines/cables.md) color has nothing to do with network connections other than cables of different colors not
-connecting to each other. All colors connect to fluix (or "uncolored") cables.
+Це також лише 1 мережа, оскільки колір [кабелю](../items-blocks-machines/cables.md) не має нічого спільного з мережевими з'єднаннями, окрім того, що кабелі різних кольорів не з'єднуються між собою. При цьому всі кольори з'єднуються з флюїксовими кабелями (незабарвленими):
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/actually_1_network_2.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="4 2 2">
-        All 1 network
+        Єдина мережа
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Connections In The Context of Subnets
+## З'єднання в контексті підмереж
 
-[Subnetworks](../ae2-mechanics/subnetworks.md) take advantage of network connections (and specifically **NOT** being connected)
-to restrict what [devices](../ae2-mechanics/devices.md) have access to what other devices.
+[Підмережі](../ae2-mechanics/subnetworks.md) використовують мережеві з'єднання (а саме **відсутність** з'єднання) для обмеження доступу [пристроїв](../ae2-mechanics/devices.md) до інших пристроїв.
 
-All a subnet is, really, is a separate network.
+Насправді підмережа — це окрема мережа.
 
-For example, take the [Automatic Ore Fortuner](../example-setups/ore-fortuner.md). There are 3 separate networks here,
-all of which serve a specific purpose in the setup.
+Наприклад, візьмемо [автоматичний удачливий руйнівник руди](../example-setups/ore-fortuner.md). Тут є 3 окремі мережі, кожна з яких виконує певну функцію в цій конфігурації:
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/ore_fortuner.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 2" max="3 1 3">
-        Network 1, acts like a pipe subnet, restricts what the import bus has access to so it "stores" the ore blocks through the
-        formation planes.
+        Мережа 1, що діє як підмережа труб, обмежує доступ імпортної шини, щоб вона «зберігала» блоки руди через площини формування.
   </BoxAnnotation>
 
   <BoxAnnotation color="#5CA7CD" min="0 0 0" max="3 1 1">
-        Network 2, Acts like another pipe subnet, restricts what the annihilation planes have access to so they store
-        the fortuned ore chunks in the barrel and not in your main network. Also means they don't use up any channels on the
-        main network.
+        Мережа 2, діє як інша підмережа труби, обмежує доступ площин анігіляції, щоб вони зберігали шматки руди в бочці, а не в вашій основній мережі. Це також означає, що вони не використовують жодних каналів в основній мережі.
   </BoxAnnotation>
 
   <BoxAnnotation color="#82CD5C" min="2 0 1" max="4 1 2">
-        Network 3, The main network with all your storage and crafting on it. Just here to supply power, really, and specifically
-        *not* connected to the 2 subnets.
+        Мережа 3, основна мережа, на якій знаходиться все ваше сховище та крафти. Вона існує лише для постачання енергії і, зокрема, *не* підключена до 2 підмереж.
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Connections In The Context of P2P
+## З'єднання в контексті P2P
 
-One variant of [P2P Tunnel](../items-blocks-machines/p2p_tunnels.md) moves [Channels](channels.md) instead of items or fluids
-or redstone signal, and this confuses people for some reason. The network the tunnel is mounted to has nothing to do with the
-network the tunnel is carrying. they *can* be the same network, but they don't have to be, and usually aren't.
+Один з варіантів [P2P-тунелю](../items-blocks-machines/p2p_tunnels.md) переміщує [канали](channels.md) замість предметів, рідин або редстоунових сигналів, і це з якоїсь причини плутає людей. Мережа, до якої підключений тунель, не має нічого спільного з мережею, яку тунель передає. Вони *можуть* бути однією мережею, але це не обов'язково, і зазвичай не так:
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/p2p_channels_network_connection.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="1.98 2 1">
-        Network 1, the network being carried (usually your main network)
+        Мережа 1, мережа, що передається (зазвичай ваша основна мережа)
   </BoxAnnotation>
 
   <BoxAnnotation color="#5CA7CD" min="2.02 0 0" max="3.98 1 1">
-        Network 2, The network running the ME P2P tunnels (usually *not* your main network)
+        Мережа 2, мережа, що працює з ME P2P тунелями (зазвичай *не* ваша основна мережа)
   </BoxAnnotation>
 
   <BoxAnnotation color="#915dcd" min="4.02 0 0" max="6 1 1">
-        Network 1, the network being carried (usually your main network)
+        Мережа 1, мережа, що передається (зазвичай ваша основна мережа)
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Less Intuitive Connections
+## Менш інтуїтивні з'єднання
 
-In this case, this is just 1 network, because the <ItemLink id="pattern_provider" />, being a fullblock device, acts like
-a cable, and the <ItemLink id="inscriber" /> does similar. Thus, the network connection passes through
-the provider and inscriber.
+У цьому випадку це лише єдина мережа, оскільки <ItemLink id="pattern_provider" /> є блокоподібним пристроєм, він діє як кабель, та <ItemLink id="inscriber" /> виконує подібну функцію. Таким чином, мережеве з'єднання проходить через постачальника та штампувальника:
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/pattern_provider_network_connection_1.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="4 2 2">
-        All 1 network
+        Єдина мережа
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-To prevent this (useful for many autocrafting setups involving [subnetworks](../ae2-mechanics/subnetworks.md)),
-you can right-click the provider with a <ItemLink id="certus_quartz_wrench" /> to make it directional, in which case it will
-not pass channels through one side.
+Щоб запобігти цьому (корисно для багатьох налаштувань автовироблення, що включають [підмережі](../ae2-mechanics/subnetworks.md)), ви можете клацнути ПКМ по постачальнику, використовуючи <ItemLink id="certus_quartz_wrench" />, щоб зробити його спрямованим, і в цьому випадку він не буде пропускати канали через лицьовий бік.
 
 <Row gap="40">
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/pattern_provider_network_connection_2.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="1.98 2 2">
-        Network 1
+        Мережа 1
   </BoxAnnotation>
 
   <BoxAnnotation color="#5CA7CD" min="2.02 0 0" max="4 2 2">
-        Network 2
+        Мережа 2
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
@@ -183,16 +160,14 @@ not pass channels through one side.
   <ImportStructure src="../assets/assemblies/pattern_provider_directional_connection.snbt" />
 
   <BoxAnnotation color="#ee3333" min="1 .3 .3" max="1.3 .7 .7">
-        Observe how the cable does not connect
+        Зверніть увагу, що кабель не підключається
   </BoxAnnotation>
 
   <IsometricCamera yaw="255" pitch="30" />
 </GameScene>
 </Row>
 
-Other parts that do not provide directional network connections are most [subpart](../ae2-mechanics/cable-subparts.md)
-[devices](../ae2-mechanics/devices.md) like <ItemLink id="import_bus" />ses, <ItemLink id="storage_bus" />ses, and
-<ItemLink id="cable_interface" />s.
+Інші частини, які не забезпечують спрямовані мережеві з'єднання, є в основному [кабельними](../ae2-mechanics/cable-subparts.md) [пристроями](../ae2-mechanics/devices.md), як <ItemLink id="import_bus" />, <ItemLink id="storage_bus" />, та <ItemLink id="cable_interface" />.
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/subpart_no_connection.snbt" />

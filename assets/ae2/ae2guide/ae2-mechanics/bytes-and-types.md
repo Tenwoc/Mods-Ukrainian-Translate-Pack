@@ -1,11 +1,11 @@
 ---
 navigation:
   parent: ae2-mechanics/ae2-mechanics-index.md
-  title: Bytes and Types
+  title: Байти та типи
   icon: creative_storage_cell
 ---
 
-# Bytes and Types
+# Байти та типи
 
 <Row>
     <ItemImage id="item_storage_cell_1k" scale="4" />
@@ -19,41 +19,23 @@ navigation:
     <ItemImage id="item_storage_cell_256k" scale="4" />
   </Row>
 
-[Storage Cells](../items-blocks-machines/storage_cells.md) are defined by both *bytes* and *types*. Bytes, like in
-your actual computer, are a measure of the total amount of "stuff" in a storage cell. Types are a measure of how many different,
-well, *types* of things are stored in a cell. Each type represents a unique item, so 4,096 cobblestone is 1 type but 16 different
-swords with different enchantments are 16 types.
+[Комірки зберігання](../items-blocks-machines/storage_cells.md) визначаються як *байтами*, так і *типами*. Байти, як і у вашому комп'ютері, є мірою загальної кількості «речей» у сховищі. Типи є мірою того, скільки різних, так би мовити, *типів* речей зберігається у сховищі. Кожен тип представляє унікальний предмет, тому 4096 кругляків — це 1 тип, а 16 різних мечів з різними зачаруваннями — це 16 типів.
 
-Each storage cell can store a fixed amount
-of data. Each type consumes a number of bytes upfront (which varies with the cell
-size), and each item consumes one bit of storage, so eight items consume one
-byte, and a full stack of 64 consumes 8 bytes, regardless of how the item
-would stack outside an ME network. For instance, 64 identical saddles don't
-take up more space than 64 stone.
+Кожна комірка зберігання може зберігати фіксовану кількість даних. Кожен тип споживає певну кількість байтів (яка залежить від розміру комірки), а кожен предмет споживає один біт пам'яті, тому вісім предметів споживають один байт, а повний стос із 64 предметів споживає 8 байтів, незалежно від реальних обмежень складання предмета у стоси. Наприклад, 64 однакових сідла не займають більше місця, ніж 64 камені.
 
-Again, each item is 1 bit, so 8 items equals 1 byte. For fluid cells, this is 8 buckets per byte.
+Знову ж таки, кожен предмет займає 1 біт, тому 8 предметів дорівнюють 1 байту. Для рідинних комірок це 8 відер на байт.
 
-Many people complain about the limited number of types a cell can hold, but they are a ***necessary limitation***.
-Cells store their data in an NBT tag on the item itself, which makes them rather stable. However, this means putting too much
-data on a cell can cause too much data to be sent to a player, causing an effect similar to "Book Banning" in vanilla minecraft.
-Additionally, having too many different types in your system increases the load on sorting and item handling. However, this
-limitation does not end up being very restrictive. One <ItemLink id="drive" /> bay full of cells is 630 types which is actually
-quite a lot as long as you don't store loads of unique unstackable items.
+Багато людей скаржаться на обмежену кількість типів, які може вмістити комірка, але це ***необхідне обмеження***. Комірки зберігають свої дані в тезі NBT на самому предметі, що робить їх досить стабільними. Однак це означає, що розміщення занадто великого обсягу даних у комірці може призвести до надсилання занадто великого обсягу даних гравцеві, що спричинить ефект, схожий на «книгу бану» у базовій версії Minecraft. Крім того, наявність занадто багатьох різних типів у вашій системі збільшує навантаження на сортування та обробку предметів. Однак це обмеження не є дуже суворим. Один лише <ItemLink id="drive" />, заповнений комірками, вміщує 630 типів, що насправді є досить багато, якщо ви не зберігаєте велику кількість унікальних предметів, які не можна складати в стоси.
 
-For this reason, types exist to "firmly discourage" you from dumping the hundreds of randomly damaged armor and tools from
-a mob farm directly into your ME system. Each armor piece with unique damage and enchantments has to be stored as a separate entry,
-causing bloat. it is recommended to filter them out of the item stream before they touch your system.
+З цієї причини типи існують, щоб «рішуче відрадити» вас від скидання сотень випадково пошкоджених обладунків та інструментів з ферми мобів безпосередньо у вашу систему ME. Кожен елемент обладунку з унікальними пошкодженнями та зачаруваннями фігурує як окремий запис, що спричиняє перевантаження. Рекомендується відфільтрувати їх із потоку предметів, перш ніж вони потраплять у вашу систему.
 
-Gunning straight for top tier storage cells is generally not the best idea,
-since you use more resources but don't get any extra type storage. This means that all sizes of cell are still useful even
-lategame, as they have tradeoffs.
+Намагатися одразу створити найвищі рівні комірок для зберігання, як правило, не є найкращою ідеєю, оскільки ви витрачаєте більше ресурсів, але не отримуєте додаткового місця для зберігання. Це означає, що комірки всіх розмірів залишаються корисними навіть на пізніх етапах гри, оскільки вони мають свої переваги та недоліки.
 
-Below is a table comparing the different tiers of storage cells, how much they store, and
-a rough estimate of their cost.
+Нижче наведено таблицю, в якій порівняно різні рівні комірок для зберігання, їхню місткість та приблизну вартість.
 
-## Storage Cell Contents Vs Cost
+## Вміст комірки зберігання / Вартість
 
-| Cell                                     |   Bytes | Types | Bytes Per Type | Certus | Redstone | Gold | Glowstone |
+| Комірка                                     |   Байти | Типи | Байти на тип | Істинний кварц | Редстоун | Золото | Світлокамінь |
 | ---------------------------------------- | ------: | ----: | -------------: | -----: | -------: | ---: | --------: |
 | <ItemLink id="item_storage_cell_1k" />   |   1,024 |    63 |              8 |      4 |        5 |    1 |         0 |
 | <ItemLink id="item_storage_cell_4k" />   |   4,096 |    63 |             32 |  14.25 |       20 |    3 |         0 |
@@ -61,11 +43,11 @@ a rough estimate of their cost.
 | <ItemLink id="item_storage_cell_64k" />  |  65,536 |    63 |            512 | 137.25 |      184 |   27 |        16 |
 | <ItemLink id="item_storage_cell_256k" /> | 262,144 |    63 |           2048 |    414 |      553 |   81 |        48 |
 
-## Storage Capacity with Varying Type Count
+## Місткість сховища з різною кількістю типів
 
-The upfront cost of types is such that a cell holding 1 type can hold 2x as much as a cell with all 63 types in use.
+Початкова вартість типів така, що комірка, яка містить 1 тип, може вмістити у 2 рази більше, ніж комірка, в якій використовуються всі 63 типи.
 
-| Cell                                     | Total Capacity of Cell With 1 Type In Use | Total Capacity of Cell With 63 Types In Use |
+| Комірка                                     | Загальна місткість комірки з використанням 1 типу | Загальна місткість комірки з використанням 63 типів |
 | ---------------------------------------- | ----------------------------------------: | ------------------------------------------: |
 | <ItemLink id="item_storage_cell_1k" />   |                                     8,128 |                                       4,160 |
 | <ItemLink id="item_storage_cell_4k" />   |                                    32,512 |                                      16,640 |
@@ -73,6 +55,6 @@ The upfront cost of types is such that a cell holding 1 type can hold 2x as much
 | <ItemLink id="item_storage_cell_64k" />  |                                   520,192 |                                     266,240 |
 | <ItemLink id="item_storage_cell_256k" /> |                                 2,080,768 |                                   1,064,960 |
 
-![A Cell With 1 Type](../assets/diagrams/1_type_cell.png)
+![Комірка з 1 використаним типом](../assets/diagrams/1_type_cell.png)
 
-![A Cell With 63 Types](../assets/diagrams/63_type_cell.png)
+![Комірка з 63 використаними типами](../assets/diagrams/63_type_cell.png)
