@@ -40,7 +40,7 @@
   "hostilenetworks.gui.info": "Інформація",
   "hostilenetworks.gui.tier": "Рівень моделі: %s",
   "hostilenetworks.gui.accuracy": "Точність моделі: %s",
-  "hostilenetworks.gui.next_tier": "Наступний рівень: %s, через %s %s",
+  "hostilenetworks.gui.next_tier": "Далі: %s рівень через %s %s",
   "hostilenetworks.gui.kill": "вбивство",
   "hostilenetworks.gui.kills": "вбивств",
   "hostilenetworks.gui.stats": "Статистика",
@@ -58,7 +58,7 @@
   "hostilenetworks.gui.redstone.off_when_powered": "Редстоун: зупинятися при заживленні",
   "hostilenetworks.gui.redstone.on_when_powered": "Редстоун: працювати при заживленні",
 
-  "hostilenetworks.hud.model": "Модель",
+  "hostilenetworks.hud.model": " рівень",
   "hostilenetworks.hud.kills": "Залишилося: %s",
   
   "hostilenetworks.tier.faulty": "Несправний",

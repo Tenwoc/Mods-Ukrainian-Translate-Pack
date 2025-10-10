@@ -1,9 +1,9 @@
 {
   "block.silentgems.chaos_essence_block": "Блок есенції хаосу",
   "block.silentgems.chaos_ore": "Руда хаосу",
-  "block.silentgems.chiseled_gem_stone": "Різьблений камінь (%s)",
+  "block.silentgems.chiseled_gem_stone": "%sовий різьблений камінь",
   "block.silentgems.deepslate_chaos_ore": "Глибосланцева руда хаосу",
-  "block.silentgems.deepslate_gem_ore": "Глибосланцевий %s",
+  "block.silentgems.deepslate_gem_ore": "Глибосланцева %sова руда",
   "block.silentgems.deepslate_silver_ore": "Глибосланцева срібна руда",
   "block.silentgems.gem_block": "%sовий блок",
   "block.silentgems.gem_bricks": "%sова цегла",
@@ -83,7 +83,7 @@
 
   "itemGroup.silentgems": "Silent Gems",
 
-  "misc.silentgems.dropFromOre": "Вихід: %s",
+  "misc.silentgems.dropFromOre": "Містить: %s",
   "misc.silentgems.harvestLevel": "Рівень добування: %d (%s)",
   "misc.silentgems.harvestLevel.2": "Діамант",
   "misc.silentgems.harvestLevel.3": "Обсидіан",

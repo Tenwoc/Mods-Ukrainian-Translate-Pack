@@ -14,7 +14,7 @@
   ""
 ,
 
-  "block.stellaris.steel_ore": "Steel руда",
+  "block.stellaris.steel_ore": "Сталева руда",
   "block.stellaris.deepslate_steel_ore": "Глибосланцева сталева руда",
   "block.stellaris.moon_ice_shard_ore": "Місячна руда льодяних уламків",
   "block.stellaris.moon_iron_ore": "Місячна залізна руда",
@@ -215,8 +215,10 @@
 
   "block.stellaris.mercury_stone_stairs": "Меркурієві сходи",
   "block.stellaris.mercury_stone_slab": "Меркурієва плита",
+  "block.stellaris.marcury_stone_slab": "Меркурієва плита",
   "block.stellaris.mercury_polished_stone_stairs": "Сходи із полірованого меркурієвого каменю",
   "block.stellaris.mercury_polished_stone_slab": "Плита із полірованого меркурієвого каменю",
+  "block.stellaris.marcury_polished_stone_slab": "Плита із полірованого меркурієвого каменю",
   "block.stellaris.mercury_stone_brick_stairs": "Сходи із меркурієвої цегли",
   "block.stellaris.mercury_stone_brick_slab": "Плита із меркурієвої цегли",
 
@@ -641,7 +643,7 @@
   "tooltip.item.stellaris.rocket.model": "Розмір: %s",
   "tooltip.item.stellaris.energy": "⚡ Енергія: §e%s§r§f/§r§e%s§r FE",
   "tooltip.item.stellaris.oil_finder": "Клацніть ПКМ по блоку, щоб перевірити наявність нафти",
-  "tooltip.item.stellaris.open_tablet": "§7Для більше інформації натисніть §8[§c%s§8]",
+  "tooltip.item.stellaris.open_tablet": "§7Для більшої інформації натисніть §8[§c%s§8]",
   "tooltip.item.stellaris.diesel": "🌢 Дизель: %s",
 
   "stellaris.screen.tablet.rocket_launched": "Запущено ракет: %s",
