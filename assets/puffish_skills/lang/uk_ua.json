@@ -4,7 +4,7 @@
 
 	"tooltip.puffish_skills.current_level": "Рівень: %s",
 	"tooltip.puffish_skills.experience_progress": "Досвід: %s/%s (%s%%)",
-	"tooltip.puffish_skills.to_next_level": "Д нового рівня: %s",
+	"tooltip.puffish_skills.to_next_level": "До нового рівня: %s",
 	"tooltip.puffish_skills.earned_points": "Зібрано очок: %s",
 	"tooltip.puffish_skills.spent_points": "Витрачено очок: %s",
 
