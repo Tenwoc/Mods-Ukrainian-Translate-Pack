@@ -35,7 +35,7 @@
 
   "itemGroup.create_new_age_tab": "Create: New Age",
   "block.create_new_age.energiser_t1": "Базовий енерджайзер",
-  "block.create_new_age.energiser_t2": "Просунутий енерджайзер",
+  "block.create_new_age.energiser_t2": "Вдосконалений енерджайзер",
   "block.create_new_age.energiser_t3": "Посилений енерджайзер",
   "block.create_new_age.carbon_brushes": "Вугільні щітки",
   "block.create_new_age.heat_pipe": "Теплова труба",
@@ -56,7 +56,7 @@
   "block.create_new_age.reactor_fuel_acceptor": "Завантажувач палива для реактора",
   "block.create_new_age.reactor_heat_vent": "Тепловідвід реактора",
   "block.create_new_age.basic_solar_heating_plate": "Базова сонячна панель",
-  "block.create_new_age.advanced_solar_heating_plate": "Просунута сонячна панель",
+  "block.create_new_age.advanced_solar_heating_plate": "Вдосконалена сонячна панель",
   "block.create_new_age.electrical_connector": "Електричний роз'єм",
   "block.create_new_age.basic_motor": "Основний двигун",
   "block.create_new_age.advanced_motor": "Сильний двигун",

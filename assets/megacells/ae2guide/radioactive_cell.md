@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Radioactive Chemical Cell (AppMek-exclusive)
+  title: Радіоактивна комірка (ексклюзивно для AppMek)
   icon: radioactive_chemical_cell
   parent: index.md
   position: 050
@@ -11,46 +11,28 @@ item_ids:
   - radioactive_chemical_cell
 ---
 
-# MEGA Cells: Radioactive Chemical Cell
+# MEGA Cells: Радіоактивна комірка
 
-As part of its wider cross-add-on integration, MEGA features a second specialised cell exclusive to players also using
-*Mekanism* and the ***Applied Mekanistics*** add-on. If you're not using either of these and the recipes below are
-errored out instead, you can safely ignore this page and pretend this cell doesn't exist.
+В рамках ширшої інтеграції між доповненнями, MEGA пропонує другу спеціалізовану комірку, ексклюзивну для гравців, які також використовують *Mekanism* та доповнення ***Applied Mekanistics***. Якщо ви не використовуєте жодне з них, а рецепти нижче містять помилки, ви можете сміливо ігнорувати цю сторінку та вдавати, що цієї комірки не існує.
 
-## Radioactive Chemical Cell
+## Радіоактивна комірка
 
 <Row>
   <ItemImage id="radioactive_cell_component" scale="3" />
   <ItemImage id="radioactive_chemical_cell" scale="3" />
 </Row>
 
-The **MEGA Radioactive Chemical Cell**, as the name would imply, serves as a complement to the regular storage cells
-offered by *Applied Mekanistics* (and MEGA's own integration with this) to store *Mekanism*'s "chemicals". Normally,
-when using the regular chemical cells, one might have noticed that these come with a caveat: they will not store any
-chemical that is *radioactive*, which in Mekanism itself chiefly includes *Nuclear Waste*, *Polonium* and *Plutonium*.
-The Radioactive Cell, of course, stores nothing *but* the aforementioned chemicals.
+**MEGA Радіоактивна комірка**, як випливає з назви, служить доповненням до звичайних комірок зберігання, що пропонуються *Applied Mekanistics* (та власною інтеграцією MEGA з цим доповненням) для зберігання «хімікатів» *Mekanism*. Зазвичай, під час використання звичайних хімічних комірок можна було помітити, що вони мають одне застереження: вони не зберігають жодних *радіоактивних* хімічних речовин, які в самому Mekanism включають головним чином *ядерні відходи*, *полоній* та *плутоній*. Радіоактивна комірка, звичайно, не зберігає нічого *окрім* вищезгаданих хімічних речовин.
 
 <Row>
   <RecipeFor id="radioactive_cell_component" />
   <RecipeFor id="radioactive_chemical_cell" />
 </Row>
 
-The Radioactive Cell is not too dissimilar to the <ItemLink id="megacells:bulk_item_cell" /> in that it can only store
-one given type of radioactive chemical and it must be partitioned before it can operate. This where the similarities end
-between the two, however; the Radioactive Cell only stores a finite amount of this chemical, at a maximum of *256
-[bytes](ae2:ae2-mechanics/bytes-and-types.md)*. That is, however, the equivalent of *2048 buckets* — or 4 Nuclear Waste
-Barrels' worth of this radioactive chemical — in the space of a single cell.
+Радіоактивна комірка має ті ж особливості, що й <ItemLink id="megacells:bulk_item_cell" />, а саме те, що вона може зберігати лише один заданий тип радіоактивної хімічної речовини, і її необхідно розгалузити, перш ніж вона зможе працювати. Однак на цьому подібність між ними закінчується; радіоактивна комірка зберігає лише обмежену кількість цієї хімічної речовини, максимум *256 [байт](ae2:ae2-mechanics/bytes-and-types.md)*. Це еквівалентно *2048 відрам*, або 4 бочкам ядерних відходів цієї радіоактивної хімічної речовини, в просторі однієї комірки.
 
-![Radioactive Cell with polonium](assets/diagrams/radioactive_cell.png)
+![Радіоактивна комірка з полонієм](assets/diagrams/radioactive_cell.png)
 
-In order to contain and store such volatile substances, the cell does require a good amount more energy to (somehow!)
-keep these in a relatively stable state. Compared to the typical power draw of 0.5 AE/tick for the
-<ItemLink id="ae2:item_storage_cell_1k" />, 2.5 AE/t for the <ItemLink id="ae2:item_storage_cell_256k" /> and 5 AE/t
-for the <ItemLink id="megacells:item_storage_cell_256m" />, one Radioactive Cell draws a whopping **250 AE/tick** while
-within a connected ME Chest/Drive.
+Для того, щоб утримувати та зберігати такі леткі речовини, комірці потрібно значно більше енергії, щоб (якимось чином!) підтримувати їх у відносно стабільному стані. Порівняно з типовим споживанням енергії, де <ItemLink id="ae2:item_storage_cell_1k" /> витрачає 0,5 АЕ/т, <ItemLink id="ae2:item_storage_cell_256k" /> — 2,5 АЕ/т та <ItemLink id="megacells:item_storage_cell_256m" /> — 5 АЕ/т, одна радіоактивна комірка жере колосальні **250 АЕ/т**, перебуваючи в підключеній ME-скрині, приводі чи док-станції.
 
-Lastly, to encourage Mekanism players to continue properly managing their nuclear waste as intended, the Radioactive
-Cell still explicitly disallows ***Spent** Nuclear Waste* from being stored within it. *By default*, you're not getting
-off the hook that easily in keeping your nuclear reactor stations in check. For players who still just want to take the
-easy way out, however, this behaviour is configurable. *How* this behaviour is configured is left as an exercise for the
-reader.
+Нарешті, щоб заохотити гравців Mekanism продовжувати належним чином керувати своїми ядерними відходами, радіоактивна комірка все ще явно забороняє зберігання ***відпрацьованих** ядерних відходів* в ній. *Усталено* ви не можете так легко звільнятися від відповідальності за контроль своїх ядерних реакторних станцій. Однак для гравців, які все ще хочуть обрати легкий шлях, цю поведінку можна налаштувати. *Як* конфігурувати цю поведінку, залишимо на роздум читачу.

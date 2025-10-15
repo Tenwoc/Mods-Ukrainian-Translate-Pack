@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Energy Storage
+  title: Комірки енергії
   icon: greater_energy_card
   parent: index.md
   position: 030
@@ -11,31 +11,22 @@ item_ids:
   - greater_energy_card
 ---
 
-# MEGA Cells: Energy
+# MEGA Cells: Енергія
 
-It would be remiss, of course, for MEGA to not also provide any larger form of [energy](ae2:ae2-mechanics/energy.md)
-storage, so thankfully that base is also covered here.
+Звичайно, було б недбалістю з боку MEGA не запропонувати також більшу форму зберігання [енергії](ae2:ae2-mechanics/energy.md), тому, на щастя, ця основа також розглядається тут.
 
-## Superdense Energy Cell
+## Надщільна енергетична комірка
 
 <BlockImage id="mega_energy_cell" scale="4" />
 
-The *Superdense Energy Cell* holds 8 times as much energy as a <ItemLink id="ae2:dense_energy_cell" /> and 64 times as
-much as a standard <ItemLink id="ae2:energy_cell" />, for a total of up to 12.8 *million* AE per cell. Perfect for those
-especially large [Spatial IO](ae2:ae2-mechanics/spatial-io.md) setups and transfer operations requiring an immense
-energy buffer, now in a more compact block space!
+*Надщільна енергетична комірка* утримує у 8 разів більше енергії, ніж <ItemLink id="ae2:dense_energy_cell" />, і у 64 рази більше, ніж стандартна <ItemLink id="ae2:energy_cell" />, загалом до 12,8 *мільйона* AE на комірку. Ідеально підходить для особливо великих конструкцій [просторового зберігання](ae2:ae2-mechanics/spatial-io.md) та операцій передачі, що потребують величезного енергетичного буфера, тепер у більш компактному блочному просторі!
 
 <RecipeFor id="mega_energy_cell" />
 
-## Greater Energy Card
+## Розширена енергетична картка
 
 <ItemImage id="greater_energy_card" scale="3" />
 
-Further still, the Superdense Energy Cell can be used to craft a more souped up version of the
-<ItemLink id="ae2:energy_card" />, providing an even greater energy buffer to any wireless infrastructure such as
-portable storage cells and [wireless terminals](ae2:items-blocks-machines/wireless_terminals.md). AE2's own such devices
-will support it just as well as the regular Energy Card. However, the more demanding
-[MEGA portable cells](storage.md#portable-cells) will support *only* the Greater Energy Card to increase their battery
-capacity.
+Крім того, надщільну енергетичну комірку можна використовувати для створення більш вдосконаленої картки, ніж <ItemLink id="ae2:energy_card" />, забезпечуючи ще більший енергетичний буфер для будь-якої бездротової інфраструктури, такої як портативні комірки зберігання та [бездротові термінали](ae2:items-blocks-machines/wireless_terminals.md). Такі пристрої AE2 підтримуватимуть цю енергетичну картку так само добре, як і звичайну. Однак, більш вимогливі [МЕГА портативні комірки](storage.md#portable-cells) приймають *лише* розширену енергетичну картку для збільшення місткості свого акумулятора.
 
 <RecipeFor id="greater_energy_card" />

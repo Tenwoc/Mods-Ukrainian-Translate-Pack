@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Extras
+  title: Додаткове
   icon: mega_interface
   parent: index.md
   position: 060
@@ -12,12 +12,11 @@ item_ids:
   - portable_cell_workbench
 ---
 
-# MEGA Cells: Extras
+# MEGA Cells: Додаткове
 
-With the main premise of the add-on addressed, we now conclude with some of the smaller extra features and additions
-provided by MEGA for the sake of both completeness and a bit more experimentation.
+Оскільки основна передумова аддона розглянута, ми тепер завершуємо деякими меншими додатковими функціями та доповненнями, наданими MEGA, як для повноти, так і для трохи більшої експериментальності.
 
-## MEGA Interface
+## МЕГА Інтерфейс
 
 <Row>
   <BlockImage id="mega_interface" scale="4" />
@@ -26,62 +25,45 @@ provided by MEGA for the sake of both completeness and a bit more experimentatio
   </GameScene>
 </Row>
 
-As a complement to the <ItemLink id="megacells:mega_pattern_provider" />, the **MEGA Interface** serves as a
-double-capacity version of the <ItemLink id="ae2:interface" />. Twice the slots, twice the I/O and throughput, and twice
-the stock-keeping.
+Доповнюючи <ItemLink id="megacells:mega_pattern_provider" />, **МЕГА Інтерфейс** служить подвійною версією <ItemLink id="ae2:interface" />а. Вдвічі більше слотів, вдвічі більше логістики та пропускної здатності, а також вдвічі більше місткості на запасання.
 
 <RecipeFor id="mega_interface" />
 <RecipeFor id="cable_mega_interface" />
 
-## Portable Cell Workbench
+## Портативний верстак для комірок
 
 <ItemImage id="portable_cell_workbench" scale="4" />
 
-Somewhat out of character for the rest of the add-on, the **Portable Cell Workbench** is a... *smaller* version of
-the <ItemLink id="ae2:cell_workbench" />. Small enough, in fact, to fit just in the palm of your hand, while still
-capable of configuring any storage cell as normal.
+Дещо нетиповий для решти аддона, **Портативний верстак для комірок** доповнює звичайний <ItemLink id="ae2:cell_workbench" /> як його... менша версія. Насправді достатньо маленький, щоб поміститися на долоні, але водночас здатний налаштувати будь-яку комірку зберігання як нормальний.
 
-One can only wonder how a whole workbench could have fit into this thing.
+Можна лише дивуватися, як цілий верстак міг поміститися в цю штуку.
 
 <RecipeFor id="portable_cell_workbench" />
 
-## Cell Dock
+## Док-станція для комірок
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="assets/assemblies/cell_dock.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Finally, we have something else that's once again smaller rather than larger, which is why it seemed more out-of-place
-than anything to call it a "MEGA" item.
+Нарешті, у нас є ще дещо, що знову ж таки менше, ніж більше, тому називати її «МЕГА» предметом здавалося скоріше недоречним.
 
-The **ME Cell Dock** is, in some ways, like a more compact version of the <ItemLink id="ae2:chest" />, able to hold
-within itself one storage cell at a time. While it may lack  some of the extra functionality of the Chest — namely, its
-built-in terminal — it still makes for a fine compact storage provider. In particular, since it comes in the form of a
-"flat" [cable part](ae2:ae2-mechanics/cable-subparts.md), a single cable can hold multiple Cell Docks within the same
-one-block space. Perhaps one may find it useful in the case of a compact subnetwork requiring some kind of temporary
-buffer storage.
+**МЕ Док-станція для комірок**, у певному сенсі, працює як компактна <ItemLink id="ae2:chest" />, здатна вміщувати в собі одну комірку пам'яті за раз. Хоча їй може бракувати деяких додаткових функцій скрині, а саме вбудованого термінала, вона все ж є чудовим компактним сховищем. Зокрема, оскільки вона має форму «плаского» [кабельного компонента](ae2:ae2-mechanics/cable-subparts.md), один кабель може вмістити кілька док-станцій для комірок в одному блоці. Можливо, це буде корисно у випадку компактної підмережі, яка потребує тимчасового буферного сховища.
 
 <RecipeFor id="cell_dock" />
 
-## "Classic Cell Colours"
+## «Класичні кольори комірок»
 
-As an optional visual throwback, MEGA provides the following bundled resource pack which the user may choose to enable.
+Як додатковий візуальний ефект, MEGA пропонує наступний пакет ресурсів, який користувач може активувати.
 
-![Classic Cell Colours resource pack](assets/diagrams/cell_colours_pack.png)
+![Пакет ресурсів "Класичні кольори комірок"](assets/diagrams/cell_colours_pack.png)
 
-In releases of both AE2 and its add-ons prior to Minecraft 1.21, the old textures for any sets of storage cells followed
-a 5-point colour scheme, starting from a reddish brown for 1k cells and shifting through yellow, green and blue towards
-a final light violet/lavender hue for 256k. MEGA also followed this trend with its own cell tiers, starting from a deep
-red at 1M and ending with a deeper violet at 256M.
+У випусках AE2 та її доповнень до Minecraft 1.21 старі текстури для будь-яких наборів комірок зберігання дотримувалися 5-точкової кольорової схеми, починаючи з червонувато-коричневого для 1К комірок та переходячи через жовтий, зелений та синій до остаточного світло-фіолетового/лавандового відтінку для 256К. MEGA також наслідувала цю тенденцію зі своїми власними рівнями комірок, починаючи з насиченого червоного на 1М та закінчуючи глибшим фіолетовим на 256M.
 
-![Old cell textures](assets/diagrams/cell_colours_old.png)
+![Старі текстури комірок](assets/diagrams/cell_colours_old.png)
 
-With the wider texture overhaul introduced in AE2 post-1.20.x, storage cells were also adapted to follow a somewhat
-wider colour palette, with AE2's base storage cells following a blue-to-green hue shift along its tier progression and
-MEGA intending to continue the progression from yellow to red to pink. While this is also quite nice, it didn't seem
-like a bad idea to also include the option for the old colouring system for those who may have preferred it over the
-current one.
+Зі ширшим оновленням текстур, запровадженим в AE2 після версії 1.20.x, комірки зберігання також були адаптовані для дещо ширшої колірної палітри, причому базові комірки зберігання AE2 зміщуються від синього до зеленого відтінку вздовж свого рівня, а MEGA має намір продовжити прогресію від жовтого до червоного та рожевого. Хоча це також досить непогано, не здавалося б поганою ідеєю також включити опцію старої системи забарвлення для тих, хто, можливо, віддав би їй перевагу над попередньою.
 
-![AE2 cell colours](assets/diagrams/cell_colours_ae2.png)
-![MEGA cell colours](assets/diagrams/cell_colours_mega.png)
+![Кольори комірок AE2](assets/diagrams/cell_colours_ae2.png)
+![Кольори комірок MEGA](assets/diagrams/cell_colours_mega.png)

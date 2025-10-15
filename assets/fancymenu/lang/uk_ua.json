@@ -781,7 +781,7 @@
   "fancymenu.overlay.menu_bar.customization.hide_overlay.confirm": "Ви впевнені?\n\nЦе повністю приховає рядок меню!\n\nЩоб знову зробити його видимим, натисніть §xCTRL + ALT + C§r!\n\nВи хочете приховати рядок зараз?",
   "fancymenu.overlay.menu_bar.customization.settings": "Налаштування",
   "fancymenu.overlay.menu_bar.customization.settings.advanced_customization_mode": "Режим розширеного налаштування: %s",
-  "fancymenu.overlay.menu_bar.customization.settings.advanced_customization_mode.tooltip": "Це лише для просунутих користувачів! Ви можете зламати свою гру за допомогою цих речей!",
+  "fancymenu.overlay.menu_bar.customization.settings.advanced_customization_mode.tooltip": "Це лише для обізнаних користувачів! Ви можете зламати свою гру за допомогою цих речей!",
   "fancymenu.overlay.menu_bar.customization.settings.play_menu_music": "Відтворення ванільної музики на екранах: %s",
   "fancymenu.overlay.menu_bar.customization.settings.set_default_gui_scale": "Усталений масштаб графічного інтерфейсу",
   "fancymenu.overlay.menu_bar.customization.settings.set_default_gui_scale.tooltip": "Усталений масштаб графічного інтерфейсу встановлюється, коли користувач запускає гру вперше.\n\nЦе корисно для розробників модпаків.",

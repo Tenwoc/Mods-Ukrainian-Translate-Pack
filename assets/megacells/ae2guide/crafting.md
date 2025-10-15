@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: MEGA Auto-Crafting
+  title: Автовироблення MEGA
   icon: 256m_crafting_storage
   parent: index.md
   position: 020
@@ -19,14 +19,14 @@ item_ids:
   - cable_mega_pattern_provider
 ---
 
-# MEGA Cells: Auto-Crafting
+# MEGA Cells: Автовироблення
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="assets/assemblies/crafting_cpu.snbt" />
   <IsometricCamera yaw="195" pitch="10" />
 </GameScene>
 
-## MEGA [Crafting CPUs](ae2:items-blocks-machines/crafting_cpu_multiblock.md)
+## МЕГА [Процесори обробки](ae2:items-blocks-machines/crafting_cpu_multiblock.md)
 
 <Row>
   <BlockImage id="mega_crafting_unit" scale="4" />
@@ -37,10 +37,7 @@ item_ids:
   <BlockImage id="256m_crafting_storage" scale="4" />
 </Row>
 
-As with storage cells, MEGA also provides its larger tiers of storage for crafting CPUs. Although these, too, require
-their own dedicated version of the <ItemLink id="ae2:crafting_unit" /> to accommodate for their increase in power, they
-will still handle even the biggest crafting jobs easily with more memory, while also looking *pretty damn cool* in
-black.
+Як і у випадку з комірками зберігання даних, MEGA також надає свої більші рівні сховища для крафтових процесорів. Хоча вони також потребують власної спеціалізованої версії <ItemLink id="ae2:crafting_unit" /> для врахування збільшення їхньої потужності, вони все одно легко впораються навіть з найбільшими завданнями крафту завдяки більшій пам'яті, а також виглядатимуть *до біса круто* у чорному кольорі.
 
 <RecipeFor id="mega_crafting_unit" />
 <RecipeFor id="1m_crafting_storage" />
@@ -49,21 +46,17 @@ black.
 <RecipeFor id="64m_crafting_storage" />
 <RecipeFor id="256m_crafting_storage" />
 
-As an added bonus, MEGA also provides its own equivalent to the <ItemLink id="ae2:crafting_accelerator" />, though with
-the advantage of providing not one, but *FOUR* coprocessing threads in the space of each single added coprocessor block.
+Як додатковий бонус, MEGA також надає власний еквівалент <ItemLink id="ae2:crafting_accelerator" />, хоча з перевагою забезпечення не одного, а *ЧОТИРЬОХ* потоків співпроцесорної обробки в просторі кожного доданого блоку співпроцесора.
 
 <BlockImage id="mega_crafting_accelerator" scale="4" />
 <RecipeFor id="mega_crafting_accelerator" />
 
-And just for the sake of a full package, there is also a MEGA equivalent to the <ItemLink id="ae2:crafting_monitor" />.
-This one doesn't actually function any differently to the regular monitor at all, but it does serve as a complement to
-the aforementioned units for users looking to maintain some aesthetic consistency and retain the same sleek, dark
-look across their whole CPU multiblock.
+І просто заради повного пакету, існує також MEGA-еквівалент <ItemLink id="ae2:crafting_monitor" />. Він насправді нічим не відрізняється від звичайного монітора, але він служить доповненням до вищезгаданих пристроїв для користувачів, які хочуть зберегти певну естетичну узгодженість і зберегти той самий елегантний, темний вигляд усього свого мультиблоку процесора.
 
 <BlockImage id="mega_crafting_monitor" scale="4" />
 <RecipeFor id="mega_crafting_monitor" />
 
-## MEGA Pattern Provider
+## МЕГА Постачальник шаблонів
 
 <Row>
   <BlockImage id="mega_pattern_provider" scale="4" />
@@ -72,11 +65,7 @@ look across their whole CPU multiblock.
   </GameScene>
 </Row>
 
-Serving as a companion to the <ItemLink id="ae2:pattern_provider" />, the **MEGA Pattern Provider** maintains the
-trend of providing larger variants of appropriate AE2 devices by doubling the pattern capacity, allowing for a total of
-18 patterns to be held within and handled by it. This does, however, come with the trade-off of only being able to hold
-[**processing patterns**](ae2:items-blocks-machines/patterns.md), so it will not quite work with the
-<ItemLink id="ae2:molecular_assembler" />.
+Доповнюючи <ItemLink id="ae2:pattern_provider" />, **МЕГА Постачальник шаблонів** підтримує тенденцію надання більших варіантів відповідних пристроїв AE2, подвоюючи місткість шаблонів, що дозволяє зберігати та обробляти загалом 18 шаблонів. Однак це також пов'язано з компромісною можливістю зберігати лише [**шаблони обробки**](ae2:items-blocks-machines/patterns.md), тому <ItemLink id="ae2:molecular_assembler" /> не зможе напряму працювати з ним.
 
 <Row>
   <RecipeFor id="mega_pattern_provider" />

@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: MEGA Storage
+  title: Зберігання MEGA
   icon: item_storage_cell_256m
   parent: index.md
   position: 010
@@ -84,14 +84,14 @@ item_ids:
   - sky_osmium_block
 ---
 
-# MEGA Cells: Storage
+# MEGA Cells: Сховище
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="assets/assemblies/drive_cells.snbt" />
   <IsometricCamera yaw="195" pitch="10" />
 </GameScene>
 
-## MEGA [Storage Cells](ae2:items-blocks-machines/storage_cells.md)
+## МЕГА [комірки зберігання](ae2:items-blocks-machines/storage_cells.md)
 
 <Row>
   <ItemImage id="mega_item_cell_housing" scale="4" />
@@ -102,10 +102,7 @@ item_ids:
   <ItemImage id="item_storage_cell_256m" scale="4" />
 </Row>
 
-As mentioned earlier, the <ItemLink id="megacells:accumulation_processor" /> serves as the first step towards putting
-together any MEGA infrastructure, and this includes its own higher tiers of storage cells to start with. With this
-processor, a <ItemLink id="ae2:cell_component_256k" /> can be taken *even further beyond*, from **1M** (equivalent to
-"1024k") onwards to the highest M tier of **256M** — over *one thousand* times higher in capacity than 256k.
+Як згадувалося раніше, <ItemLink id="megacells:accumulation_processor" /> служить першим кроком до створення будь-якої інфраструктури MEGA, і це включає власні вищі рівні комірок зберігання. З цим процесором <ItemLink id="ae2:cell_component_256k" /> можна розширити *ще далі*, від **1М** (еквівалентно «1024К») до найвищого рівня **256М** — понад *тисячу* разів більшої місткості, ніж 256К.
 
 <RecipeFor id="cell_component_1m" />
 <RecipeFor id="cell_component_4m" />
@@ -113,8 +110,7 @@ processor, a <ItemLink id="ae2:cell_component_256k" /> can be taken *even furthe
 <RecipeFor id="cell_component_64m" />
 <RecipeFor id="cell_component_256m" />
 
-Of course, more capable storage will require a more capable housing to boot, which is where some more Sky Steel comes in
-to craft an item cell housing for your new M-tier components.
+Звичайно, для більш потужного сховища потрібен ще потужніший корпус, і саме тут знадобиться ще трохи небесної сталі для створення корпусу комірок для ваших нових компонентів рівня М.
 
 <Row>
   <RecipeFor id="mega_item_cell_housing" />
@@ -122,10 +118,7 @@ to craft an item cell housing for your new M-tier components.
   <Recipe id="cells/standard/item_storage_cell_1m_with_housing" />
 </Row>
 
-For fluids and everything beyond, there are also dedicated housings. As it turns out, Sky Stone is powerful enough that
-it can alloy with some other metals to also form the appropriate cells, such as copper to make fluid cell housings out
-of **Sky Bronze**. Even outside of this guide, whatever you can think of may be supported by MEGA and a dedicated cell
-with its own housing type.
+Для рідин та всього, що виходить за рамки цього, також існують спеціальні корпуси. Як виявилося, небесний камінь достатньо потужний, щоб сплавлятися з деякими іншими металами, такі як мідь, для виготовлення корпусів рідинних комірок з **небесної бронзи**. Навіть поза цим посібником, все, що ви можете собі уявити, може підтримуватися MEGA та виділеною коміркою з власним типом корпусу.
 
 <Row>
   <ItemImage id="sky_bronze_ingot" scale="4" />
@@ -142,16 +135,11 @@ with its own housing type.
   <RecipeFor id="mega_fluid_cell_housing" />
 </Row>
 
-## MEGA [Portable Cells](ae2:items-blocks-machines/storage_cells.md#portable-item-storage)
+## МЕГА [Портативні комірки](ae2:items-blocks-machines/storage_cells.md#portable-item-storage)
 
-MEGA also provides portable versions of all its cells just as AE2 itself does, though the increased capacity of these
-cells will demand a fair bit more energy. As such, note that these are crafted with a
-<ItemLink id="ae2:dense_energy_cell" /> as opposed to a regular <ItemLink id="ae2:energy_cell" />.
+MEGA також пропонує портативні версії всіх своїх комірок, як і сама AE2, хоча збільшена місткість цих комірок вимагатиме значно більше енергії. Таким чином, зверніть увагу, для їх створення використовується <ItemLink id="ae2:dense_energy_cell" />, а не <ItemLink id="ae2:energy_cell" /> як було б зазвичай.
 
-While these portable cells also support the full range of [upgrades](ae2:items-blocks-machines/upgrade_cards.md) that
-regular ME portable cells do, their increased battery and overall hunger for power means that the regular
-<ItemLink id="ae2:energy_card" /> is not *quite* strong enough to support them. For this purpose, only the
-<ItemLink id="megacells:greater_energy_card" /> will do.
+Хоча ці портативні комірки також підтримують повний спектр [модифікаторів](ae2:items-blocks-machines/upgrade_cards.md), що й звичайні МЕ портативні комірки, їхня збільшена місткість батареї та загальна потреба в енергії означають, що звичайна <ItemLink id="ae2:energy_card" /> *недостатньо* потужна, щоб їх підтримувати. Для цього підійде лише <ItemLink id="megacells:greater_energy_card" />.
 
 <Row>
   <RecipeFor id="portable_item_cell_1m" />

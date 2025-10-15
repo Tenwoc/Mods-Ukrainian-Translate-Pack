@@ -304,7 +304,7 @@
   "biome.ars_elemental.flashing_forest.desc": "Ліс золотих дерев, що світиться вночі і гримить під час грози.",
   "biome.ars_elemental.flourishing_forest": "Ліс квітучих архідерев",
   "biome.ars_elemental.flourishing_forest.desc": "Ліс земних дерев з квітучими і пишними печерами.",
-  "block.ars_elemental.advanced_prism": "Просунута чаклунська призма",
+  "block.ars_elemental.advanced_prism": "Вдосконалена чаклунська призма",
   "block.ars_elemental.air_turret": "Просякнута Повітрям турель",
   "block.ars_elemental.air_upstream": "Ліфт ковзаючого струму",
   "block.ars_elemental.earth_turret": "Просякнута Землею турель",
@@ -490,7 +490,7 @@
   "tooltip.ars_elemental.focus_element_mana.fire": "Дає Чаклунську шкоду II, коли власник перебуває у вогні або лаві.",
   "tooltip.ars_elemental.focus_element_mana.water": "Дає Регенерацію мани I, коли власник мокрий, Регенерацію мани II й Грацію дельфіна під час плавання.",
   "tooltip.ars_elemental.focus_malus": "Послаблює гліфи інших шкіл стихій.",
-  "tooltip.ars_elemental.lens": "Можна закріпити на просунутій чаклунській призмі.",
+  "tooltip.ars_elemental.lens": "Можна закріпити на вдосконаленій чаклунській призмі.",
   "tooltip.ars_elemental.prism_lens": "Встановлено: %s",
   "tooltip.ars_nouveau.blessed": "Захист 4-х стихій",
   "tooltip.siren_shards": "Отримується, якщо віддати морський огірок сирені."
