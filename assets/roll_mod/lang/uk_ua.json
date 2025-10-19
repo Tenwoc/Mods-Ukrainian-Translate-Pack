@@ -1,4 +1,7 @@
 {
+  "item.roll_mod.copper_gear": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
+  "item.roll_mod.chemical_core": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
+
   "itemGroup.roll_mod.main": "Roll Mod",
   "itemGroup.roll_mod.dev": "§сAllTheRoll",
 
@@ -34,7 +37,7 @@
   "loreitem.roll_mod.meteorite_chestplate.tooltip_line2": "Супротивники відчувають вагу галактики.",
   "item.roll_mod.meteorite_leggings": "Метеоритні наголінники",
   "loreitem.roll_mod.meteorite_leggings.tooltip_line1": "Броня, що витримує удари зірок.",
-  "loreitem.roll_mod.meteorite_leggings.tooltip_line2": "Совість завжди ходила в таких.",
+  "loreitem.roll_mod.meteorite_leggings.tooltip_line2": "Совість колись ходила в таких.",
   "item.roll_mod.meteorite_boots": "Метеоритні чоботи",
   "loreitem.roll_mod.meteorite_boots.tooltip_line1": "Космічні чоботи, що гартують кожен крок.",
   "loreitem.roll_mod.meteorite_boots.tooltip_line2": "Земля під ногами трішки ревнує.",
@@ -43,15 +46,14 @@
   "loreitem.roll_mod.meteorite_metal_ingot.tooltip_line1": "Фрагмент, загартований космічним полум’ям.",
   "loreitem.roll_mod.meteorite_metal_ingot.tooltip_line2": "Ледь відлунює сяйвом зір.",
 
-  "comment1": "just dev schizo shit down",
-  "item.roll_mod.supersteel_gear": "Суперсталевa шестерня",
+  "item.roll_mod.supersteel_gear": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
   "loreitem.roll_mod.supersteel_gear.tooltip_line1": "Кована під екстремальним тиском.",
   "loreitem.roll_mod.supersteel_gear.tooltip_line2": "Розрахована на мегапаскалі.",
 
-  "item.roll_mod.super_circuit": "Суперсхема",
-  "loreitem.roll_mod.super_circuit.tooltip_line1": "Квантово-заблоковані тракти.",
-  "loreitem.roll_mod.super_circuit.tooltip_line2": "Екранування шуму 0.1 дБ.",
-  "loreitem.roll_mod.super_circuit.tooltip_line3": "Потребує калібрування перед використанням.",
+  "item.roll_mod.super_circuit": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
+  "loreitem.roll_mod.super_circuit.tooltip_line1": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
+  "loreitem.roll_mod.super_circuit.tooltip_line2": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
+  "loreitem.roll_mod.super_circuit.tooltip_line3": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
 
   "item.roll_mod.meteorite_sword": "Метеоритний меч",
   "loreitem.roll_mod.meteorite_sword.tooltip_line1": "Викуваний зі впалих зірок",
@@ -196,9 +198,6 @@
   "item.roll_mod.superconducting_magnet": "Надпровідний магніт",
   "item.roll_mod.superconducting_module": "Модуль надпровідного магніту",
 
-  "item.roll_mod.copper_gear": "Мідна шестерня",
-  "item.roll_mod.chemical_core": "Хімічне ядро",
-
   "item.roll_mod.chunkloader_core": "Ядро провантажувача",
 
   "item.roll_mod.golden_baton": "Золотий батон",
@@ -226,8 +225,8 @@
   "item.roll_mod.nether_star_dust": "Пил зірки Незеру",
   "item.roll_mod.raw_sheldonite": "Необроблений шелдоніт",
   "item.roll_mod.platinum_group_sludge": "Осад платинової групи",
-  "item.roll_mod.raw_platinum_dust": "Необроблений пил платини",
-  "item.roll_mod.raw_palladium_dust": "Необроблений пил паладію",
+  "item.roll_mod.raw_platinum_dust": "Незбагачений платиновий пил",
+  "item.roll_mod.raw_palladium_dust": "Незбагачений паладієвий пил",
   "item.roll_mod.ammonium_chloride_dust": "Пил хлористого аміаку",
   "item.roll_mod.inert_metal_mixture": "Суміш інертних металів",
   "item.roll_mod.ruthenium_tetroxide_dust": "Пил тетроксиду рутенію",
@@ -242,12 +241,12 @@
   "item.roll_mod.raw_pyrochlore": "Необроблений пірохлор",
   "item.roll_mod.pyrochlore_dust": "Пірохлоровий пил",
   "item.roll_mod.sunnarium_glass": "Санарієве скло",
-  "item.roll_mod.minestar_logo": "Minestar лого",
+  "item.roll_mod.minestar_logo": "Лого Minestar",
   "item.roll_mod.enriched_sunnarium": "Збагачений санарій",
   "item.roll_mod.enriched_sunnarium_mk2": "Збагачений блокблінцієм санарій",
 
   "item.roll_mod.raw_crystal_chip": "Необроблений кристальний чіп",
-  "item.roll_mod.raw_crystal_chip_parts": "Деталі необробленого кристального чіпа",
+  "item.roll_mod.raw_crystal_chip_parts": "Запчастини необробленого кристального чіпа",
   "item.roll_mod.engraved_crystal_chip": "Кристальний процесор",
   "item.roll_mod.emitter": "Випромінювач",
   "item.roll_mod.quartz_lamp": "Кварцова лампа",
@@ -271,5 +270,25 @@
   "item.roll_mod.neuron_cells": "Скалкові нейрони",
 
   "item.roll_mod.sodium_sulfate": "Сульфат натрію",
-  "item.roll_mod.mining_drone": "Шахтарський дрон"
+  "item.roll_mod.mining_drone": "Шахтарський дрон",
+  "item.roll_mod.obsidian_dust": "Обсидіановий пил",
+  "item.roll_mod.quantum_star": "Квантова зірка",
+  "loreitem.roll_mod.quantum_star.tooltip_line1": "Стабілізована енергія незеру",
+
+  "item.roll_mod.enderium_prediction_matrix": "Ендерієва передбачувальна матриця",
+  "loreitem.roll_mod.enderium_prediction_matrix.tooltip_line1": "Неймовірно міцна матриця для симуляції сильних монстрів.",
+  "item.roll_mod.nether_star_prediction_matrix": "Незер-зіркова передбачувальна матриця",
+  "loreitem.roll_mod.nether_star_prediction_matrix.tooltip_line1": "Для подібних створінь недостатньо одних лише технологій.",
+  "item.roll_mod.nether_star_plate": "Незер-зіркова пластина",
+  "item.roll_mod.nether_star_large_plate": "Незер-зіркова велика пластина",
+  "item.roll_mod.nether_star_ring": "Незер-зіркове кільце",
+  "item.roll_mod.research_paper": "Пусте дослідження",
+  "item.roll_mod.carbon_mesh": "Вуглецева сітка",
+  "item.roll_mod.carbon_fiber": "Вуглецеве волокно",
+  "item.roll_mod.standard_wafer_soc": "Підкладка SoC",
+  "item.roll_mod.standard_wafer": "Підкладка",
+  "item.roll_mod.standard_wafer_not": "Підкладка NOT",
+  "item.roll_mod.standard_wafer_or": "Підкладка OR",
+  "item.roll_mod.standard_wafer_xor": "Підкладка XOR",
+  "item.roll_mod.standard_wafer_ram": "Підкладка RAM"
 }
