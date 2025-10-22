@@ -72,7 +72,7 @@ As previously stated, an interface is essentially a chest/tank with some super d
   <IsometricCamera yaw="195" pitch="15" />
 </GameScene>
 
-## Special Interactions
+## Особливі взаємодії
 
 Interfaces also have a few special functionalities with other AE2 [devices](../ae2-mechanics/devices.md):
 

@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: ae2wtlib/ae2wtlib-index.md
-  title: AE2WTLib Wireless Terminals
+  title: Бездротові термінали AE2WTLib
   icon: ae2wtlib:wireless_universal_terminal
   position: 10
 categories:
@@ -11,7 +11,7 @@ item_ids:
   - ae2wtlib:wireless_pattern_access_terminal
 ---
 
-# Wireless Terminals
+# Бездротові термінали
 
 <ItemGrid>
   <ItemIcon id="ae2wtlib:wireless_universal_terminal" />
@@ -20,49 +20,46 @@ item_ids:
   <ItemIcon id="ae2wtlib:wireless_pattern_access_terminal" />
 </ItemGrid>
 
-In addition to the <ItemLink id="ae2:energy_card" />, all AE2WTLib Wireless Terminals can be upgrade with the <ItemLink id="ae2wtlib:quantum_bridge_card" />
-and combined into a <ItemLink id="ae2wtlib:wireless_universal_terminal" />.
+Окрім [енергетичної картки](ae2:items-blocks-machines/upgrade_cards.md#енергетична-картка), усі бездротові термінали AE2WTLib можна модифікувати за допомогою [карти квантового зв'язку](quantum_bridge_card.md) та об'єднувати в єдиний <ItemLink id="ae2wtlib:wireless_universal_terminal" />.
 
-Like AE2's <ItemLink id="ae2:wireless_terminal" />, it can be accessed using a Keybind and be put in a curio slot
-(if any mod implementing the curio api is installed.)
+Як і <ItemLink id="ae2:wireless_terminal" /> від AE2, до нього можна отримати доступ за допомогою прив'язаної клавіши та зберігати в слоті аксесуарів (якщо встановлено будь-який мод, що реалізує API Curio).
 
-Wireless Terminals can also be linked like a normal <ItemLink id="ae2:wireless_terminal" />, using a <ItemLink id="ae2:wireless_access_point" />
+Бездротовий термінал також можна під'єднати як звичайний <ItemLink id="ae2:wireless_terminal" />, використовуючи [бездротову точку доступу](ae2:items-blocks-machines/wireless_access_point.md).
 
-## Wireless Universal Terminal
+## Універсальний бездротовий термінал
 
 <ItemImage id="ae2wtlib:wireless_universal_terminal" scale="3" />
 
-The <ItemLink id="ae2wtlib:wireless_universal_terminal" /> is a combination of multiple Wireless Terminals into one item.
+<ItemLink id="ae2wtlib:wireless_universal_terminal" /> — це поєднання кількох бездротових терміналів в єдиному предметі.
 
-## Wireless Crafting Terminal
+## Бездротовий термінал майстрування
 
 <ItemImage id="ae2:wireless_crafting_terminal" scale="3" />
 
-The <ItemLink id="ae2:wireless_crafting_terminal" /> is a wireless version of the crafting terminal.
-It has some [additional functionality](wireless_crafting_terminal.md) compared to vanilla AE2.
+<ItemLink id="ae2:wireless_crafting_terminal" /> — це бездротова версія термінала майстрування.
+Він має деякі [додаткові функції](wireless_crafting_terminal.md) порівняно з базовим терміналом AE2.
 
-## Wireless Pattern Encoding Terminal
+## Бездротовий термінал кодування шаблонів
 
 <ItemImage id="ae2wtlib:wireless_pattern_encoding_terminal" scale="3" />
 
-A wireless version of the <ItemLink id="ae2:pattern_encoding_terminal" />
+Бездротова версія цього термінала: <ItemLink id="ae2:pattern_encoding_terminal" />
 
 <RecipeFor id="ae2wtlib:wireless_pattern_encoding_terminal" />
 
-## Wireless Pattern Access Terminal
+## Бездротовий термінал доступу до шаблонів
 
 <ItemImage id="ae2wtlib:wireless_pattern_access_terminal" scale="3" />
 
-A wireless version of the <ItemLink id="ae2:pattern_access_terminal" />
+Бездротова версія цього термінала: <ItemLink id="ae2:pattern_access_terminal" />
 
 <RecipeFor id="ae2wtlib:wireless_pattern_access_terminal" />
 
-## Addon Terminals
+## Термінали аддонів
 
-Most wireless terminals from other Addons also work with the <ItemLink id="ae2wtlib:wireless_universal_terminal" />.
+Більшість бездротових терміналів з інших аддонів також можна об'єднати в <ItemLink id="ae2wtlib:wireless_universal_terminal" />.
 
-## Terminals that don't work in the universal terminal
+## Термінали, які не працюють в універсальному терміналі
 
-The <ItemLink id="ae2:wireless_terminal" /> can not be used in the <ItemLink id="ae2wtlib:wireless_universal_terminal" />,
-since it wouldn't provide any benefit over a <ItemLink id="ae2:wireless_crafting_terminal" />.
-It also can't use the <ItemLink id="ae2wtlib:quantum_bridge_card" />
+<ItemLink id="ae2:wireless_terminal" /> не можна об'єднати в <ItemLink id="ae2wtlib:wireless_universal_terminal" />, оскільки він не дасть жодної переваги порівняно з [бездротовим терміналом майстрування](ae2:items-blocks-machines/wireless_terminals.md#бездротовий-термінал-майстрування
+). <ItemLink id="ae2wtlib:quantum_bridge_card" /> також несумісна з ним.

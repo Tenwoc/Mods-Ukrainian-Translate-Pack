@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: "Аддон: MEGA Cells"
+  title: "MEGA Cells"
   position: 80
 item_ids:
   - accumulation_processor

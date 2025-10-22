@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Quartz Glass
+  title: Кварцове скло
   icon: quartz_glass
   position: 010
 categories:
@@ -11,16 +11,15 @@ item_ids:
 - ae2:quartz_vibrant_glass
 ---
 
-# Quartz Glass
+# Кварцове скло
 
 <BlockImage id="quartz_glass" scale="8" />
 
-Mostly clear glass made with <ItemLink id="certus_quartz_dust" />.
-Used to make many AE2 machines and items.
+Здебільшого прозоре скло, основою якого є <ItemLink id="certus_quartz_dust" />. Використовується для виготовлення багатьох машин та предметів AE2.
 
-There is a variant, vibrant quartz glass, that emits light.
+Також існує його варіація — яскраве кварцове скло, яке випромінює світло.
 
-## Recipes
+## Рецепти
 
 <RecipeFor id="quartz_glass" />
 

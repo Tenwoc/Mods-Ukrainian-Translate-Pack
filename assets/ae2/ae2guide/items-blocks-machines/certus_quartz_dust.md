@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Certus Quartz Dust
+  title: Пил істинного кварцу
   icon: certus_quartz_dust
   position: 010
 categories:
@@ -10,13 +10,12 @@ item_ids:
 - ae2:certus_quartz_dust
 ---
 
-# Certus Quartz Dust
+# Пил істинного кварцу
 
 <ItemImage id="certus_quartz_dust" scale="4" />
 
-A <ItemLink id="certus_quartz_crystal" /> that has been crushed by an <ItemLink id="inscriber" />. Used in the production of
-several AE2 materials and components.
+<ItemLink id="certus_quartz_crystal" />, подрібнений у [штампувальному пресі](inscriber.md). Використовується у виробництві кількох матеріалів та компонентів AE2.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="certus_quartz_dust" />

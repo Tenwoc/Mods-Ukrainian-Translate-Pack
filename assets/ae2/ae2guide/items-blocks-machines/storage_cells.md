@@ -161,7 +161,7 @@ Item storage cells can hold up to 63 distinct types of items, and are available 
   </Row>
 </Column>
 
-## Portable Item Storage
+## Портативне предметне сховище
 
 These act as a tiny <ItemLink id="chest" /> in your pocket, or like a form of backpack. They can be charged in a <ItemLink id="charger" />
 

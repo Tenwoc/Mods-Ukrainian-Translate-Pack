@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Formation and Annihilation Cores
+  title: Ядра формування та руйнування
   icon: formation_core
   position: 010
 categories:
@@ -11,7 +11,7 @@ item_ids:
 - ae2:annihilation_core
 ---
 
-# Formation and Annihilation Cores
+# Ядра формування та руйнування
 
 <Row>
   <ItemImage id="formation_core" scale="4" />
@@ -19,11 +19,9 @@ item_ids:
   <ItemImage id="annihilation_core" scale="4" />
 </Row>
 
-These are the primary components of AE2 input and output [devices](../ae2-mechanics/devices.md). Using the power of <ItemLink id="fluix_crystal" /> and
-a [logic processor](processors.md) it allows devices to input and output items, blocks, fluids, etc. (No actual function, just
-a crafting intermediate)
+Це основні компоненти AE2 для логістичних [пристроїв](../ae2-mechanics/devices.md). Використовуючи <ItemLink id="fluix_crystal" /> та [логічний процесор](processors.md) вони дозволяють пристроям вводити та виводити предмети, блоки, рідини тощо. (Фактичної функції немає, це лише проміжний елемент у майструванні)
 
-## Recipes
+## Рецепти
 
 <RecipeFor id="formation_core" />
 

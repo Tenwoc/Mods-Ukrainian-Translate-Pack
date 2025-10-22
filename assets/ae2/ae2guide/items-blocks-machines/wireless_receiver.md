@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Wireless Receiver
+  title: Бездротовий отримувач
   icon: wireless_receiver
   position: 010
 categories:
@@ -10,12 +10,12 @@ item_ids:
 - ae2:wireless_receiver
 ---
 
-# Wireless Receiver
+# Бездротовий отримувач
 
 <ItemImage id="wireless_receiver" scale="4" />
 
-A <ItemLink id="fluix_pearl" /> in a reflector dish, a component of short-range wireless ME technology.
+<ItemLink id="fluix_pearl" /> у рефлекторній антені, компонент бездротових технологій МЕ ближнього радіуса дії.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="wireless_receiver" />

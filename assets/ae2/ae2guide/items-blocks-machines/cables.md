@@ -162,7 +162,7 @@ redstone and glowstone to make <ItemLink id="fluix_covered_dense_cable" />.
 
 <RecipeFor id="blue_covered_cable" />
 
-## Dense Cable
+## Щільний кабель
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/fluix_covered_dense_cable.snbt" />
@@ -181,7 +181,7 @@ dense cable, and then the shortest path through that dense cable to a controller
 
 <RecipeFor id="blue_covered_dense_cable" />
 
-## Smart Cable
+## Розумний кабель
 
 <Row>
 <GameScene zoom="6" background="transparent">

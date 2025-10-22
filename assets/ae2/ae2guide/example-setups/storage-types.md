@@ -7,7 +7,7 @@ navigation:
 
 # Various Kinds of Storage and Keeping Your Network Organized
 
-Using filters, [partitions](../items-blocks-machines/cell_workbench.md), and [storage priority](../ae2-mechanics/import-export-storage.md#storage-priority),
+Using filters, [partitions](../items-blocks-machines/cell_workbench.md), and [storage priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ),
 you can set up several tiers of storage for various kinds of things.
 
 The kinds of storage tend to be:

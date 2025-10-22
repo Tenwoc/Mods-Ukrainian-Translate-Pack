@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Sky Stone
+  title: Небесний камінь
   icon: sky_stone_block
   position: 010
 categories:
@@ -11,16 +11,15 @@ item_ids:
 - ae2:smooth_sky_stone_block
 ---
 
-# Sky Stone
+# Небесний камінь
 
 <BlockImage id="sky_stone_block" scale="8" />
 
-The material [meteorites](../ae2-mechanics/meteorites.md) are made out of, used in the recipes of the <ItemLink id="sky_stone_tank" />, <ItemLink id="not_so_mysterious_cube" />,
-<ItemLink id="cell_component_256k" />, and most importantly, the <ItemLink id="controller" />.
+Матеріал, з якого складаються [метеорити](../ae2-mechanics/meteorites.md). З нього виготовляється <ItemLink id="sky_stone_tank" />, <ItemLink id="not_so_mysterious_cube" />, <ItemLink id="cell_component_256k" /> та найважливіше, <ItemLink id="controller" />.
 
-## Recipes
+## Рецепти
 
-place an annihilation plane facing up at max worldheight to get sky stone dust
+Розмістіть площину руйнування доверху на найвищій точці будування, щоб видобувати пил небесного каменю.
 
 <RecipeFor id="sky_stone_block" />
 

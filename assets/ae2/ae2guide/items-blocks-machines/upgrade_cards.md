@@ -160,7 +160,7 @@ filling the cell.
 
 <RecipeFor id="equal_distribution_card" />
 
-## Energy Card
+## Енергетична картка
 
 <ItemImage id="energy_card" scale="2" />
 

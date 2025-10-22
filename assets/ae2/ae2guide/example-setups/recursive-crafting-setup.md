@@ -75,13 +75,13 @@ to clone <ItemLink id="minecraft:netherite_upgrade_smithing_template" />s.
 * The <ItemLink id="interface" /> (1) is set to stock the required additional ingredients: diamond and netherrack.
 * The <ItemLink id="level_emitter" /> (2) is configured with "netherite smithing template", and set to "Emit Redstone to craft item".
 * The first <ItemLink id="import_bus" /> (3) is filtered to the items the Interface is stocking. It has a Redstone Card. The redstone mode is set to "Active with signal".
-* The first <ItemLink id="storage_bus" /> (4) is set to a *higher* [priority](../ae2-mechanics/import-export-storage.md#storage-priority) than the second storage bus.
+* The first <ItemLink id="storage_bus" /> (4) is set to a *higher* [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) than the second storage bus.
 * The <ItemLink id="molecular_assembler" /> (5) has the pattern for duplicating the smithing template, and one smithing template already inserted manually.
 
   ![Pattern](../assets/diagrams/smithing_template_pattern.png)
 
 * The second <ItemLink id="import_bus" /> (6) is in its default configuration.
-* The second <ItemLink id="storage_bus" /> (7) is filtered to "netherite smithing template". It has a *lower* [priority](../ae2-mechanics/import-export-storage.md#storage-priority) than the first storage bus.
+* The second <ItemLink id="storage_bus" /> (7) is filtered to "netherite smithing template". It has a *lower* [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) than the first storage bus.
 
 ## How It Works
 

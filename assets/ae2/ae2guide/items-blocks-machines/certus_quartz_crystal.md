@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Certus Quartz Crystal
+  title: Кристал істинного кварцу
   icon: certus_quartz_crystal
   position: 010
 categories:
@@ -10,15 +10,15 @@ item_ids:
 - ae2:certus_quartz_crystal
 ---
 
-# The Certus Quartz Crystal
+# Кристал істинного кварцу
 
 <ItemImage id="certus_quartz_crystal" scale="4" />
 
-*"Certus Quartz Crystals possess the unique trait of accepting large quantities of energy into their crystalline matrix"*
+*«Кристал істинного кварцу має унікальну властивість приймати велику кількість енергії у свою кристалічну решітку»*
 
-One of the primary ingredients for AE2 blocks, [devices](../ae2-mechanics/devices.md), and items. Made by growing it from [budding certus](../ae2-mechanics/certus-growth.md).
+Один з основних інгредієнтів для блоків AE2, [пристроїв](../ae2-mechanics/devices.md) та предметів. Отримується шляхом вирощування з [родючого істинного кварцу](../ae2-mechanics/certus-growth.md).
 
-## Some Alternate Recipes
+## Деякі альтернативні рецепти
 
 <Recipe id="misc/deconstruction_certus_quartz_block" />
 

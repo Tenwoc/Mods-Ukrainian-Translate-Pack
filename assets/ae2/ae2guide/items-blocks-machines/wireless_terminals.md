@@ -51,7 +51,7 @@ The Wireless Terminal supports the following [upgrades](upgrade_cards.md):
 
 <RecipeFor id="wireless_terminal" />
 
-# Wireless Crafting Terminal
+# Бездротовий термінал майстрування
 
 <ItemImage id="wireless_crafting_terminal" scale="4" />
 

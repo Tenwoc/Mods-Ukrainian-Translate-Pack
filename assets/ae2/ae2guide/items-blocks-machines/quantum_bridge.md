@@ -17,7 +17,7 @@ item_ids:
 
 Quantum Network Bridges can extend a [network](../ae2-mechanics/me-network-connections.md) over infinite distances and even between dimensions.
 They can carry 32 channels in total (regardless of how cables are connected to each face), essentially
-acting like a wireless [dense cable](cables.md#dense-cable).
+acting like a wireless [dense cable](cables.md#щільний-кабель).
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/quantum_bridge_internal_structure_1.snbt" />
@@ -50,7 +50,7 @@ the 4 corner blocks cannot connect to cables.
 
 <RecipeFor id="quantum_ring" />
 
-# Quantum Link Chamber
+# Камера квантового зв'язку
 
 <BlockImage id="quantum_link" scale="8" />
 

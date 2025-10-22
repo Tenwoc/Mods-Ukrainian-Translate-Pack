@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Certus Quartz Block
+  title: Блок істинного кварцу
   icon: quartz_block
   position: 010
 categories:
@@ -10,13 +10,13 @@ item_ids:
 - ae2:quartz_block
 ---
 
-# The Certus Quartz Block
+# Блок істинного кварцу
 
 <BlockImage id="quartz_block" scale="8" />
 
-The storage block for <ItemLink id="certus_quartz_crystal" />. Can be used to make [budding certus blocks](budding_certus.md)
-or [decorative certus blocks](decorative_certus.md).
+Блок, який компактно зберігає <ItemLink id="certus_quartz_crystal" />. Може бути використаний для створення [родючого істинного кварцу](budding_certus.md)
+або [декоративних істинних кварцових блоків](decorative_certus.md).
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="quartz_block" />

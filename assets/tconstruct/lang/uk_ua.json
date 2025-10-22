@@ -1015,7 +1015,7 @@
   "multiblock.tconstruct.generic.invalid_floor_frame": "Неприпустимий блок у кутках підлоги",
   "multiblock.tconstruct.generic.invalid_ceiling_frame": "Неприпустимий блок у кутках даху",
 
-  "multiblock.tconstruct.tiny.no_fuel_tank": "Має бути поставлено над паливним резервуаром або нагрівачем, щоб працювати",
+  "multiblock.tconstruct.tiny.no_fuel_tank": "Має бути поставлено над паливним резервуаром або топкою, щоб працювати",
 
 
   "_comment": "Tinkers Smeltery",
@@ -1083,15 +1083,15 @@
   "block.tconstruct.seared_table.tooltip": "Відливає предмети, використовуючи розплавлені метали з плавильні",
 
   "block.tconstruct.seared_melter": "Обпалений плавильник",
-  "block.tconstruct.seared_melter.tooltip": "Перша плавильня.\nРозмістіть над резервуаром чи нагрівачем, щоб розтопити.",
+  "block.tconstruct.seared_melter.tooltip": "Перша плавильня.\nРозмістіть над резервуаром чи топкою, щоб розтопити.",
   "gui.tconstruct.melter": "Плавильник",
   "gui.tconstruct.melting.capacity": "Місткість:",
   "gui.tconstruct.melting.available": "Вільно:",
   "gui.tconstruct.melting.used": "Використано:",
 
-  "block.tconstruct.seared_heater": "Обпалений нагрівач",
+  "block.tconstruct.seared_heater": "Обпалена топка",
   "block.tconstruct.seared_heater.tooltip": "Твердопаливне джерело тепла для плавильника.",
-  "gui.tconstruct.heater": "Нагрівач",
+  "gui.tconstruct.heater": "Топка",
 
   "block.tconstruct.smeltery_controller": "Контролер плавильні",
   "block.tconstruct.smeltery_controller.tooltip": "Мозок плавильні.",
@@ -1160,7 +1160,7 @@
   "block.tconstruct.scorched_channel.tooltip": "Розподіляє рідини, вилиті з крана над ним.",
 
   "block.tconstruct.scorched_alloyer": "Випалений плавильник",
-  "block.tconstruct.scorched_alloyer.tooltip": "Проста машина для стоплення.\nРозмістіть над резервуаром чи нагрівачем, щоб розтопити.",
+  "block.tconstruct.scorched_alloyer.tooltip": "Проста машина для стоплення.\nРозмістіть над резервуаром чи топкою, щоб розтопити.",
   "gui.tconstruct.alloyer": "Плавильник",
 
   "block.tconstruct.foundry_controller": "Контролер ливарні",
@@ -2854,7 +2854,7 @@
   "advancements.tconstruct.smeltery.puny_smelting.title": "Плавильний новобранець",
   "advancements.tconstruct.smeltery.puny_smelting.description": "Створіть мізерне топлення",
   "advancements.tconstruct.smeltery.melter.title": "Базовий плавильник",
-  "advancements.tconstruct.smeltery.melter.description": "Створіть базову систему топлення з плавильника, нагрівача чи паливного резервуара, ливарного резервуара, ливарного стола та крана",
+  "advancements.tconstruct.smeltery.melter.description": "Створіть базову систему топлення з плавильника, топки чи паливного резервуара, ливарного резервуара, ливарного стола та крана",
   "advancements.tconstruct.smeltery.sand_casting.title": "Піщане формування",
   "advancements.tconstruct.smeltery.sand_casting.description": "Створіть базові одноразові форми з піску",
   "advancements.tconstruct.smeltery.gold_casting.title": "Блискучі формочки",

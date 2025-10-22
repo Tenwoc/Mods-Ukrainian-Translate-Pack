@@ -86,7 +86,7 @@ In this example, 8 ME P2P inputs take 256 channels (8*32) from the main network'
 output them somewhere else. Observe how each P2P tunnel input or output takes 1 channel. We can thus run many channels 
 through a thin cable. And since our P2P tunnels are on a dedicated [subnetwork](../ae2-mechanics/subnetworks.md), we're not
 even using up any channels from the main network to do this! Also observe how while the P2P tunnels can be placed directly
-against a controller, a [dense smart cable](../items-blocks-machines/cables.md#smart-cable) can be placed in between to more easily visualize the channels.
+against a controller, a [dense smart cable](../items-blocks-machines/cables.md#розумний-кабель) can be placed in between to more easily visualize the channels.
 
 <GameScene zoom="4" interactive={true}>
   <ImportStructure src="../assets/assemblies/p2p_compact_channels.snbt" />

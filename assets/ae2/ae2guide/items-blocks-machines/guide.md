@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Guide
+  title: Довідник
   icon: guide
 categories:
 - tools
@@ -9,17 +9,15 @@ item_ids:
 - ae2:guide
 ---
 
-# The Guide
+# Довідник
 
 <ItemImage id="guide" scale="8" />
 
-### This guide that you are reading now, for all your AE2 guiding needs.
+### Цей гайдбук, який ви зараз читаєте, задовольнить всі ваші питання до AE2.
 
-* Access the sidebar on the left to find a table of contents
-* Many pages have interactive scenes. If a scene has ![Plus](../assets/diagrams/plus.png)
-  and ![Minus](../assets/diagrams/minus.png) (zoom) buttons next to it, you can rotate and move the camera.
-  Left click and drag to rotate, right click and drag to translate.
+* Зміст можна знайти на бічній панелі ліворуч.
+* Багато сторінок містять інтерактивні сцени. Якщо поруч зі сценою є кнопки ![Плюс](../assets/diagrams/plus.png) та ![Мінус](../assets/diagrams/minus.png) (масштабування), ви можете обертати та переміщувати камеру. Затисніть ЛКМ та перетягніть, щоб обертати, затисніть ПКМ та перетягніть, щоб переміщувати.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="guide" />

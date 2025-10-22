@@ -99,7 +99,7 @@ UI, allowing you to see the progress of your autocrafts and what each [crafting 
 
 <a name="crafting-terminal-ui"></a>
 
-# Crafting Terminal
+# Термінал майстрування
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/blocks/crafting_terminal.snbt" />
@@ -123,7 +123,7 @@ There are 2 additional buttons, to empty the crafting grid into network storage 
 
 <a name="pattern-encoding-terminal-ui"></a>
 
-# Pattern Encoding Terminal
+# Термінал кодування шаблонів
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/blocks/pattern_encoding_terminal.snbt" />

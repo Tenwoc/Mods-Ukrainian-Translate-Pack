@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Matter Ball
+  title: М'ячик матерії
   icon: matter_ball
   position: 010
 categories:
@@ -10,10 +10,10 @@ item_ids:
 - ae2:matter_ball
 ---
 
-# Matter Balls
+# М'ячики матерії
 
 <ItemImage id="matter_ball" scale="4" />
 
-A ball of generic matter, useful as ammunition for a <ItemLink id="matter_cannon" /> or for producing [paintballs](paintballs.md).
+Кулька звичайної матерії, корисна як боєприпас для [матеріальної пушки](matter_cannon.md) або для виробництва [фарбованих м'ячиків](paintballs.md).
 
-Made with 256 items or buckets in a <ItemLink id="condenser" /> in matter ball mode.
+Створюється з 256 предметів чи відер в [конденсаторі матерії](condenser.md) у режимі м'ячиків.

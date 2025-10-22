@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Processors
+  title: Процесори
   icon: logic_processor
   position: 010
 categories:
@@ -17,7 +17,7 @@ item_ids:
 - ae2:silicon
 ---
 
-# Processors
+# Процесори
 
 <Row>
   <ItemImage id="logic_processor" scale="4" />
@@ -27,21 +27,18 @@ item_ids:
   <ItemImage id="engineering_processor" scale="4" />
 </Row>
 
-Processors are one of the primary ingredients in AE2 [devices](../ae2-mechanics/devices.md) and machines. They are also one of your first
-big automation challenges. There are three types of processor, made with gold, <ItemLink id="certus_quartz_crystal" />,
-and diamond respectively. They are made using [presses](presses.md) in an <ItemLink id="inscriber" />, in a multi-step
-process (usually achieved via a series of inscribers and filtered piping).
+Процесори є одним з основних інгредієнтів у [пристроях](../ae2-mechanics/devices.md) та машинах AE2. Вони також є одним з ваших перших великих викликів автоматизації. Існує три типи процесорів, в основі яких іде золото, <ItemLink id="certus_quartz_crystal" />, та діамант відповідно. Вони виготовляються за допомогою [штампів](presses.md) через <ItemLink id="inscriber" />, у багатоетапному процесі (зазвичай автоматизація досягається за допомогою декількох штампувальних пресів та фільтрованих логістичних засобів).
 
-## Production Steps
+## Етапи виробництва
 
 <Column gap="5">
-  1.  Gather/make the required ingredients: silicon, redstone, gold, <ItemLink id="certus_quartz_crystal" />, diamond.
+  1.  Зберіть/виготовте необхідні інгредієнти: кремній, редстоун, золото, <ItemLink id="certus_quartz_crystal" /> та діамант.
 
   <RecipeFor id="silicon" />
 
   <br />
 
-  2.  Press the prerequisite printed circuit components
+  2.  Відштампуйте необхідні компоненти друкованої схеми
 
   <Row>
     <RecipeFor id="printed_silicon" />
@@ -57,7 +54,7 @@ process (usually achieved via a series of inscribers and filtered piping).
 
   <br />
 
-  3.  Final assembly
+  3.  Завершіть збирання
 
   <Row>
     <RecipeFor id="logic_processor" />

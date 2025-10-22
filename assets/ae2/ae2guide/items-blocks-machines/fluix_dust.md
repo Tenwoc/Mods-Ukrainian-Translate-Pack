@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Fluix Dust
+  title: Флюїксовий пил
   icon: fluix_dust
   position: 010
 categories:
@@ -11,13 +11,12 @@ item_ids:
 - ae2:fluix_dust
 ---
 
-# Fluix Dust
+# Флюїксовий пил
 
 <ItemImage id="fluix_dust" scale="4" />
 
-A <ItemLink id="fluix_crystal" /> that has been crushed by an <ItemLink id="inscriber" />. Used in the production of
-several AE2 machines and components.
+<ItemLink id="fluix_crystal" />, подрібнений у [штампувальному пресі](inscriber.md). Використовується у виробництві кількох матеріалів та компонентів AE2.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="fluix_dust" />

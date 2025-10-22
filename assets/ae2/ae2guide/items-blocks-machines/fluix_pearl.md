@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Fluix Pearl
+  title: Флюїксова перлина
   icon: fluix_pearl
   position: 010
 categories:
@@ -10,13 +10,12 @@ item_ids:
 - ae2:fluix_pearl
 ---
 
-# Fluix Pearl
+# Флюїксова перлина
 
 <ItemImage id="fluix_pearl" scale="4" />
 
-An ender pearl coated in <ItemLink id="fluix_crystal" />, used in the production of
-several AE2 components.
+Перлина Енду, покрита [флюїксом](fluix_crystal.md). Використовується у деяких компонентах AE2.
 
-## Recipe
+## Рецепти
 
 <RecipeFor id="fluix_pearl" />
