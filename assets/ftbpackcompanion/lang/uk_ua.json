@@ -1,0 +1,12 @@
+{
+  "ftbpackcompanion.pause.mods": "Моди (%s)",
+  "ftbpackcompanion.shaders_notice.no_shaders.description": "Шейдери включені до цього пакета, але за замовчуванням вимкнені. Бажаєте їх увімкнути? \nШейдери можуть бути ресурсомісткими, викликати проблеми з деякими модами та можуть бути несумісними з вашим обладнанням.",
+  "ftbpackcompanion.shaders_notice.no_shaders.title": "Без шейдерів",
+  "ftbpackcompanion.shaders_notice.shaders.description": "Якщо ви хочете використовувати шейдери, ви можете увімкнути їх тут, щоб відчути пак із яскравим виглядом та атмосферою. \nЯкщо виникнуть будь-які проблеми, ви завжди зможете вимкнути їх пізніше в налаштуваннях відео.",
+  "ftbpackcompanion.shaders_notice.shaders.title": "Шейдери",
+  "ftbpackcompanion.shaders_notice.shaders_btn.disable": "Вимкнути шейдери",
+  "ftbpackcompanion.shaders_notice.shaders_btn.enable": "Увімкнути шейдери",
+  "ftbpackcompanion.shaders_notice.title": "Бажаєте використовувати шейдери?",
+  "ftbpackcompanion.tooltip.support_discord": "Потрібна допомога? Приєднуйтесь до нашого Discord-сервера!",
+  "ftbpackcompanion.tooltip.support_github": "Знайшли баг? Повідомте про нього на GitHub!"
+}
