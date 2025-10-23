@@ -35,7 +35,7 @@
   "ftbteambases.gui.select_dimension": "Виберіть вимір",
   "ftbteambases.gui.by": "На: %s",
   "ftbteambases.gui.show_archived": "Показати архівовані",
-  "ftbteambases.gui.level_stats": "%s мс/тік (%s TPS) | Активні блокові сутності: %s | Сутності: %s | Завантажені чанки: %s",
+  "ftbteambases.gui.level_stats": "%s мс/такт (%s TPS) | Активні блокові сутності: %s | Сутності: %s | Завантажені чанки: %s",
   "ftbteambases.gui.block_entities": "Активні блокові сутності: %s",
   "ftbteambases.gui.entities": "Сутності: %s",
   "ftbteambases.gui.loaded_chunks": "Завантажені чанки: %s"
