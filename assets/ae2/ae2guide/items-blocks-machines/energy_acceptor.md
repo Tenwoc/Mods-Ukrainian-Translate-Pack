@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Energy Acceptor
+  title: Приймач енергії
   icon: energy_acceptor
   position: 110
 categories:
@@ -10,7 +10,7 @@ item_ids:
 - ae2:energy_acceptor
 ---
 
-# The Energy Acceptor
+# Приймач енергії
 
 <Row gap="20">
 <BlockImage id="energy_acceptor" scale="8" /> 
@@ -20,25 +20,22 @@ item_ids:
 </GameScene>
 </Row>
 
-The energy acceptor converts common forms of energy from other tech mods into AE2's internal form of [energy](../ae2-mechanics/energy.md),
-AE. While the <ItemLink id="controller" /> can also do this, controller faces are valuable so it's often better to use an energy
-acceptor instead.
+Приймач енергії перетворює поширені форми енергії з інших технічних модів у внутрішню форму AE2, [енергію](../ae2-mechanics/energy.md) AE. Хоча <ItemLink id="controller" /> також може це робити, грані контролера є цінними, тому часто краще використовувати приймач енергії.
 
-The ratios for conversion of Forge Energy and Techreborn Energy are
+Коефіцієнти для перетворення енергії Forge та Techreborn такі:
 
 *   2 FE = 1 AE (Forge)
 *   1 E  = 2 AE (Fabric)
 
-The speed of conversion is entirely dependent on how much AE your network can store, for reasons that are explained on
-[this page](../ae2-mechanics/energy.md).
+Швидкість перетворення повністю залежить від того, скільки AE може зберігати ваша мережа, з причин, які пояснюються на [цій сторінці](../ae2-mechanics/energy.md).
 
-## Variants
+## Варіанти
 
-Energy acceptors come in 2 different variants: normal and flat/[subpart](../ae2-mechanics/cable-subparts.md). This allows you to make some setups more compact.
+Приймачі енергії бувають 2 різних варіантів: звичайний та плаский/[кабельний](../ae2-mechanics/cable-subparts.md). Це дозволяє зробити деякі установки компактнішими.
 
-Energy acceptors can be swapped between normal and flat in a crafting grid.
+Приймачі енергії можна перемикати між звичайним та пласким у сітці майстрування.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="energy_acceptor" />
 

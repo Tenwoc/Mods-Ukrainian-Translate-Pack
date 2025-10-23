@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: aae_intro/aae_intro-index.md
-  title: Advanced Pattern Encoder
+  title: Покращений кодувальник шаблонів
   icon: advanced_ae:adv_pattern_encoder
 categories:
   - advanced items
@@ -10,22 +10,14 @@ item_ids:
   - advanced_ae:adv_processing_pattern
 ---
 
-# Advanced Pattern Encoder
+# Покращений кодувальник шаблонів
 
-In order to teach the ME Advanced Pattern Provider where to send your items, a special device is needed to encode that
-information. You can use a right-click with it in hand to open its GUI.
+Щоб вказати МЕ Покращеному постачальнику шаблонів, куди надсилати ваші інгредієнти, потрібен спеціальний пристрій для кодування цієї інформації. Ви можете клацнути ПКМ, тримаючи його в руці, щоб відкрити його графічний інтерфейс.
 
 <ItemImage id="advanced_ae:adv_pattern_encoder" scale="4"></ItemImage>
 
-Encoded Processing Patterns can be inserted into the left slot, which will be decoded and all raw ingredients then
-displayed in a list.
+Закодовані шаблони обробки можна вставити в лівий слот, де вони будуть декодовані, а всі інгредієнти відображатимуться у списку.
 
 ![PEGui1](../pic/ape_pattern.png)
 
-Each row contains a set of buttons that represent all possible block faces to which the ingredient
-can be sent to. Leaving the Selection in the "A" button will send it to whatever face is directly connected to the
-Pattern Provider, while choosing a specific face will force that to be where items will be inserted. It's important to
-note that advanced patterns can only be decoded properly by <ItemLink id="advanced_ae:adv_pattern_provider" /> and will
-behave like a normal pattern if used in other types of pattern provider.
-Additionally, if a single item cannot be inserted in the specified face, no items will be inserted directionally and
-standard pattern provider behaviour will be applied.
+Кожен рядок містить набір кнопок, які представляють усі можливі грані блоків, на які можна надіслати інгредієнт. Якщо залишити вибір у першій кнопці, його буде надіслано на будь-яку грань, безпосередньо підключену до постачальника шаблонів, тоді як вибір певної грані призведе до того, що з цього боку будуть вставлені інгредієнти. Важливо зазначити, що розширені шаблони можна правильно декодувати тільки використовуючи <ItemLink id="advanced_ae:adv_pattern_provider" />, і вони поводяться як звичайний шаблон, якщо їх використовувати в інших типах постачальників шаблонів. Крім того, якщо окремий інгредієнт не можна вставити у вказану грань, жодні інгредієнти не будуть вставлені спрямовано, і буде застосовано стандартну поведінку постачальника шаблонів.

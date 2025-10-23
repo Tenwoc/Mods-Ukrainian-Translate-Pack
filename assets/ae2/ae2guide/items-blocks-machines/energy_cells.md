@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Energy Cells
+  title: Енергетичні комірки
   icon: energy_cell
   position: 110
 categories:
@@ -12,7 +12,7 @@ item_ids:
 - ae2:creative_energy_cell
 ---
 
-# Energy Cells
+# Енергетичні комірки
 
 <Row gap="20">
   <BlockImage id="energy_cell" scale="8" p:fullness="4" />
@@ -22,12 +22,9 @@ item_ids:
   <BlockImage id="creative_energy_cell" scale="8" />
 </Row>
 
-Energy cells give a network more [energy](../ae2-mechanics/energy.md) storage. Some amount of energy buffer helps to smooth
-out spikes in energy draw when large amounts of items are inserted or extracted, and larger amounts of energy storage
-allow the network to run while energy isn't being generated (like at night with solar panels) or handle the massive instantaneous
-energy draw of [spatial storage](../ae2-mechanics/spatial-io.md).
+Енергетичні комірки надають мережі більшу місткість [енергії](../ae2-mechanics/energy.md). Деякий обсяг енергетичного буфера допомагає згладити сплески споживання енергії, коли велика кількість предметів вставляється або витягується, дозволяє мережі працювати, коли енергія не генерується (наприклад, вночі за допомогою сонячних панелей), або дає обробляти величезне миттєве споживання енергії [просторового зберігання](../ae2-mechanics/spatial-io.md).
 
-## Fill Bars
+## Смуги заповнення
 
 <Row>
 <BlockImage id="energy_cell" scale="4" p:fullness="0" />
@@ -37,23 +34,21 @@ energy draw of [spatial storage](../ae2-mechanics/spatial-io.md).
 <BlockImage id="energy_cell" scale="4" p:fullness="4" />
 </Row>
 
-The bars on the side of a cell correspond to how much energy it has.
+Смуги на текстурі комірки відповідають кількості енергії, яку вона має.
 
-*   0 when below 25% charge
-*   1 when between 25% and 50% charge
-*   2 when between 50% and 75% charge
-*   3 when between 75% and 99% charge
-*   4 when above 99% charge
+*   0 при заряді нижче 25%
+*   1 при заряді від 25% до 50%
+*   2 при заряді від 50% до 75%
+*   3 при заряді від 75% до 99%
+*   4 при заряді вище 99%
 
-## Types Of Cell
+## Типи комірок
 
-*   The <ItemLink id="energy_cell" /> can store 200k AE, and just one should be sufficient for most use cases, handling the power surges
-    of normal network use with ease.
-*   The <ItemLink id="dense_energy_cell" /> can store 1.6M AE and is for when you want to run a network off of stored power, or
-    handle the massive instantaneous energy draw of large [spatial storage](../ae2-mechanics/spatial-io.md) setups.
-*   The <ItemLink id="creative_energy_cell" /> is a creative item for testing, providing UNLIMITED POWAHHHH or whatever.
+*   <ItemLink id="energy_cell" /> може зберігати 200 тис. AE, і лише її однієї має бути достатньо для більшості випадків використання, легко справляючись зі стрибками напруги під час звичайного використання мережі.
+*   <ItemLink id="dense_energy_cell" /> може зберігати 1,6 млн AE і призначена для випадків, коли ви хочете запускати мережу від накопиченої енергії або обробляти величезне миттєве споживання енергії великими установками [просторового зберігання](../ae2-mechanics/spatial-io.md).
+*   <ItemLink id="creative_energy_cell" /> – це творчий предмет налаголдження, що забезпечує НЕСКІНЧЕННУ ПОТУЖНІСТЬ чи щось таке.
 
-## Recipes
+## Рецепти
 
 <Row>
   <RecipeFor id="energy_cell" />

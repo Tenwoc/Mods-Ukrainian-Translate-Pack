@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Cable Anchor
+  title: Кабельний анкер
   icon: cable_anchor
   position: 110
 categories:
@@ -10,20 +10,19 @@ item_ids:
 - ae2:cable_anchor
 ---
 
-# The Cable Anchor
+# Кабельний анкер
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/cable_anchor.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Small decorative cable-mounted spikes that you can use to prevent cables from connecting, create ladders with cables, or make the cable appear
-connected to the walls around it. Also used to craft <ItemLink id="facade" />.
+Невеликі декоративні шипи для кріплення на кабелі, які можна використовувати, щоб запобігти з'єднанню кабелів, створити драбини на них або зробити так, щоб кабель виглядав з'єднаним зі стінами навколо нього. Також з них створюється <ItemLink id="facade" />.
 
-Cable anchors prevent connections from forming on the side they're mounted on.
+Кабельні анкери запобігають утворенню з'єднань з того боку, на якому вони кріпляться.
 
-You can climb them like a ladder.
+Ви можете підійматися по них, як по драбині.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="cable_anchor" />

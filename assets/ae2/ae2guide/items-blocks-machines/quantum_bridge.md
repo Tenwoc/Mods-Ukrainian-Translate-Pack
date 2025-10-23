@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Quantum Bridge
+  title: Квантовий міст
   icon: quantum_ring
   position: 110
 categories:
@@ -11,13 +11,11 @@ item_ids:
 - ae2:quantum_ring
 ---
 
-# The Quantum Network Bridge
+# Квантовий мережевий міст
 
-![A formed Quantum Network Bridge](../assets/diagrams/quantum_bridge_demonstration.png)
+![Сформований квантовий мережевий міст](../assets/diagrams/quantum_bridge_demonstration.png)
 
-Quantum Network Bridges can extend a [network](../ae2-mechanics/me-network-connections.md) over infinite distances and even between dimensions.
-They can carry 32 channels in total (regardless of how cables are connected to each face), essentially
-acting like a wireless [dense cable](cables.md#щільний-кабель).
+Квантові мережеві мости можуть розширювати [мережу](../ae2-mechanics/me-network-connections.md) на нескінченні відстані й навіть між вимірами. Вони можуть передавати загалом 32 канали (незалежно від того, як кабелі підключені до кожної грані), в сутності діючи як бездротовий [щільний кабель](cables.md#щільний-кабель).
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/quantum_bridge_internal_structure_1.snbt" />
@@ -28,25 +26,21 @@ acting like a wireless [dense cable](cables.md#щільний-кабель).
   <ImportStructure src="../assets/assemblies/quantum_bridge_internal_structure_2.snbt" />
 
   <BoxAnnotation color="#33dd33" min="1 1 1" max="6 2 3">
-        An imaginary cable between the two endpoints
+        Уявний кабель між двома кінцевими точками
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Of note, **both sides must be chunkloaded** so a <ItemLink id="spatial_anchor" /> or other chunkloader must be used
-if the 2 sides are far apart.
+Зверніть увагу, що **обидві сторони мають перебувати у завантажених чанках**, тому необхідно використовувати <ItemLink id="spatial_anchor" /> або інший завантажувач чанків, якщо 2 сторони знаходяться далеко одна від одної.
 
-# Quantum Ring
+# Квантове кільце
 
 <BlockImage id="quantum_ring" scale="8" />
 
-Eight of these blocks placed around a <ItemLink id="quantum_link" /> will create a
-Quantum Network Bridge. Only the 4 <ItemLink id="quantum_ring" /> blocks adjacent to
-the <ItemLink id="quantum_link" /> will accept network connections,
-the 4 corner blocks cannot connect to cables.
+Вісім таких блоків, розміщених навколо камери квантового зв'язку створять квантовий мережевий міст. Тільки 4 блоки квантового кільця, що прилягають до камери квантового зв'язку прийматимуть мережеві з'єднання, 4 кутові блоки не можуть підключатися до кабелів.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="quantum_ring" />
 
@@ -54,13 +48,10 @@ the 4 corner blocks cannot connect to cables.
 
 <BlockImage id="quantum_link" scale="8" />
 
-One of these blocks surrounded by a <ItemLink id="quantum_ring" />
-will create a Quantum Network Bridge. This block doesn't connect to any cables and only registers
-as part of the network with the full bridge is made.
+Цей блок, оточений квантовим кільцем, створить квантовий мережевий міст. Цей блок не підключається до жодних кабелів і реєструється лише як частина мережі, коли створено повний міст.
 
-This block's inventory can only hold a single <ItemLink id="quantum_entangled_singularity" /> and is
-automation accessible.
+В інвентар цього блоку вміщується лише одна <ItemLink id="quantum_entangled_singularity" />. Цей слот також доступний для автоматизації.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="quantum_link" />

@@ -28,7 +28,7 @@
   "gui.tooltips.megacells.FilterChemicalUnsupported": "Хімічний фільтр не підтримується!",
   "gui.tooltips.megacells.MismatchedFilter": "Невідповідний фільтр!",
   "gui.tooltips.megacells.NotInstalled": "%s не встановлено.",
-  "gui.tooltips.megacells.NotPartitioned": "Не розбитий на розділи",
+  "gui.tooltips.megacells.NotPartitioned": "Не розгалужена",
   "gui.tooltips.megacells.NotYetAvailable": "Наразі недоступно.",
   "gui.tooltips.megacells.PartitionedFor": "Розбито на розділи для: %s",
   "gui.tooltips.megacells.ProcessingOnly": "Підтримуються лише шаблони обробки.",

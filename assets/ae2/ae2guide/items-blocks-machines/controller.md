@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Controller
+  title: Контролер
   icon: controller
   position: 110
 categories:
@@ -10,44 +10,40 @@ item_ids:
 - ae2:controller
 ---
 
-# The Controller
+# Контролер
 
 <BlockImage id="controller" p:state="online" scale="8" />
 
-The controller is the routing hub of a [ME Network](../ae2-mechanics/me-network-connections.md).
-Without it, a network is "ad-hoc" and can only have a max of 8 channel-using [devices](../ae2-mechanics/devices.md) total.
+Контролер є центром маршрутизації [МЕ мережі](../ae2-mechanics/me-network-connections.md). Без нього мережа стає «автономною» і може мати максимум 8 каналів, що використовують [пристрої](../ae2-mechanics/devices.md) total.
 
-It is not possible to have 2 controllers in one [ME Network](../ae2-mechanics/me-network-connections.md).
+Неможливо мати 2 контролери в одній [МЕ мережі](../ae2-mechanics/me-network-connections.md).
 
-The controller provides 32 [Channels](../ae2-mechanics/channels.md) per face.
+Контролер забезпечує 32 [канали](../ae2-mechanics/channels.md) на кожну грань.
 
-The controller requires 6 AE/t per controller block to
-function. Each controller block can store 8000 AE, so larger networks might require additional
-energy storage. See [energy](../ae2-mechanics/energy.md) for details.
+Для функціонування контролера потрібно 6 AE/т на блок контролера. Кожен блок контролера може зберігати 8000 AE, тому більші мережі можуть потребувати додаткового накопичення енергії. Дивіться розділ [енергії](../ae2-mechanics/energy.md) для отримання детальної інформації.
 
-Multiblock Controllers can be built in a fairly free form.
+Багатоблокові контролери можна створювати у достатньо вільній формі.
 
 <GameScene zoom="2" background="transparent">
   <ImportStructure src="../assets/assemblies/controllers.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-However, there are a few rules that must be followed:
+Однак, є кілька правил, яких необхідно дотримуватися:
 
-1.  All controller blocks on a [ME Network](../ae2-mechanics/me-network-connections.md) must be connected; else the blocks will turn red.
-2.  The size of the controller must be within 7x7x7; else it will turn red.
-3.  A controller can have 2 adjacent blocks in at most 1 axis; if a block violates this rule, it will disable and turn red.
+1.  Усі блоки контролера в [МЕ мережі](../ae2-mechanics/me-network-connections.md) мають бути з'єднані; інакше блоки стануть червоними.
+2.  Розмір контролера має бути в межах 7x7x7; інакше він стане червоним.
+3.  Контролер може мати 2 суміжні блоки тільки на 1 осі; якщо блок порушує це правило, він вимкнеться та стане червоним.
 
 <GameScene zoom="2" background="transparent">
   <ImportStructure src="../assets/assemblies/controller_rules.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-As long as all rules are followed and powered, the controller should glow and
-cycle colors.
+Якщо всі правила дотримано та ввімкнено, контролер повинен світитися та змінювати кольори.
 
-You can right-click on a controller to get the same GUI as a <ItemLink id="network_tool" />
+Ви можете клацнути ПКМ на контролері, щоб отримати той самий графічний інтерфейс, що й <ItemLink id="network_tool" />
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="controller" />

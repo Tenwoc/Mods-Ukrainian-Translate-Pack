@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: aae_intro/aae_intro-index.md
-  title: Advanced Pattern Provider Upgrade Items
+  title: Предмети вдосконалення покращених постачальників
   icon: advanced_ae:adv_pattern_provider_upgrade
 categories:
   - advanced items
@@ -10,22 +10,18 @@ item_ids:
   - advanced_ae:adv_pattern_provider_capacity_upgrade
 ---
 
-# Advanced Pattern Provider Upgrades
+# Предмети вдосконалення покращених постачальників
 
-AdvancedAE provider items that enable you to upgrade pattern providers without having to move all your patterns and
-upgrades.
+Предмети для постачальників AdvancedAE, які дозволяють вам покращувати постачальників шаблонів без необхідності переміщувати їх.
 
-## Advanced Pattern Provider Upgrade
+## Вдосконалення покращеного постачальника шаблонів
 
 <ItemImage id="advanced_ae:adv_pattern_provider_upgrade" scale="3"></ItemImage>
 
-These upgrades can be used on regular AE Pattern Providers and ExtendedAE's Extended Pattern Providers. Using it on
-these machines will upgrade them to the advanced version keeping the same amount of slots they had previously. This
-means you won't lose the materials used to upgrade regular providers to extended providers in the process.
+Ці покращення можна використовувати на звичайних постачальниках шаблонів AE та розширених постачальниках шаблонів ExtendedAE. Використання їх на цих машинах оновить їх до розширеної версії, зберігаючи ту саму кількість слотів, що й раніше. Це означає, що ви не втратите матеріали, використані для оновлення звичайних постачальників до розширених постачальників у процесі.
 
-## Advanced Pattern Provider Capacity Upgrade
+## Вдосконалення місткості для покращеного постачальника шаблонів
 
 <ItemImage id="advanced_ae:adv_pattern_provider_capacity_upgrade" scale="3"></ItemImage>
 
-Capacity upgrades are used to upgrade regular Pattern Providers directly to an Advanced Pattern Provider with 36 pattern
-slots.
+Покращення місткості використовується для оновлення звичайних постачальників шаблонів безпосередньо до розширеного постачальника шаблонів з 36 слотами для шаблонів.
