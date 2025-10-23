@@ -53,7 +53,7 @@ navigation:
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Однак це лише 1 мережа, а не 2 окремі. [Квантовий міст](../items-blocks-machines/quantum_bridge.md) діє як бездротовий [щільний кабель](../items-blocks-machines/cables.md#dense-cable), тому обидва кінці знаходяться в одній мережі:
+Однак це лише 1 мережа, а не 2 окремі. [Квантовий міст](../items-blocks-machines/quantum_bridge.md) діє як бездротовий [щільний кабель](../items-blocks-machines/cables.md#щільний-кабель), тому обидва кінці знаходяться в одній мережі:
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/actually_1_network.snbt" />

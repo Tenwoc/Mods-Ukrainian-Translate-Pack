@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Tiny TNT
+  title: Крихітний динаміт
   icon: tiny_tnt
   position: 010
 categories:
@@ -10,15 +10,14 @@ item_ids:
 - ae2:tiny_tnt
 ---
 
-# Tiny TNT
+# Крихітний динаміт
 
 <BlockImage id="tiny_tnt" scale="8" />
 
-Small TNT for small explosions. Useful for making <ItemLink id="quantum_entangled_singularity" /> pairs.
+Невеликий динаміт для невеликих вибухів. Корисно для створення пари <ItemLink id="quantum_entangled_singularity" />.
 
-It can have its block damage disabled in the config to allow making singularities without the possibility
-of griefing, if you want to disable TNT and creepers on your server.
+У конфігурації можна вимкнути руйнування блоків, щоб дозволити створення сингулярностей без можливості грифу, а також якщо ви хочете вимкнути динаміт та кріперів на своєму сервері.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="tiny_tnt" />

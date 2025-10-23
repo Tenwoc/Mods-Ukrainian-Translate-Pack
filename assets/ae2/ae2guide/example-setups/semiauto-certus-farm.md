@@ -108,7 +108,7 @@ See [Certus Growth](../ae2-mechanics/certus-growth.md) for estimated speeds.
 ### On Main Network:
 
 * The third <ItemLink id="storage_bus" /> (7) is filtered to <ItemLink id="certus_quartz_crystal" />, and has its
-  [priority](../ae2-mechanics/import-export-storage.md#storage-priority) set higher than your main storage.
+  [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) set higher than your main storage.
 
 ## How It Works
 
@@ -141,5 +141,5 @@ The budding block placer subnet serves to place a new <ItemLink id="flawed_buddi
 ### On the Main Network
 
 * The <ItemLink id="storage_bus" /> gives the main network (and also the [Charger Automation](charger-automation.md)) access to all of the certus quartz crystals in the barrel. It is set to
-  high [priority](../ae2-mechanics/import-export-storage.md#storage-priority) so that certus quartz crystals are preferentially
+  high [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) so that certus quartz crystals are preferentially
   put back in the barrel instead of in your main storage.

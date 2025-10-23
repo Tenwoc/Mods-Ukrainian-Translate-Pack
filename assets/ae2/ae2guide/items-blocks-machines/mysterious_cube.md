@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Mysterious Cube
+  title: Таємничий куб
   icon: mysterious_cube
   position: 010
 categories:
@@ -11,16 +11,16 @@ item_ids:
 - ae2:not_so_mysterious_cube
 ---
 
-# The Mysterious Cube
+# Таємничий куб
 
 <BlockImage id="mysterious_cube" scale="8" />
 
-Remember when you had to find a bunch of meteors to find all the presses? No more! Now meteorites come with a Mysterious Cube.
+Пам'ятаєте, як потрібно було обшукати купу метеорів, щоб знайти всі штампи? Більше ні! Тепер метеорити формуються з таємничим кубом.
 
-I wonder what happens when you break it (without silk touch)...
+Цікаво, що станеться, якщо його розбити (без Шовкового дотику)...
 
-You can also make a replica, the Not So Mysterious Cube
+Ви також можете зробити його декоративну копію, загальновідомий куб
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="not_so_mysterious_cube" />

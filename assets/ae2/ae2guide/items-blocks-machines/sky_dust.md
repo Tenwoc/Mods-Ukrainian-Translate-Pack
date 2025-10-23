@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Sky Stone Dust
+  title: Пил небесного каменю
   icon: sky_dust
   position: 010
 categories:
@@ -10,15 +10,15 @@ item_ids:
 - ae2:sky_dust
 ---
 
-# Sky Stone Dust
+# Пил небесного каменю
 
 <ItemImage id="sky_dust" scale="4" />
 
-A <ItemLink id="sky_stone_block" /> block that has been crushed by an <ItemLink id="inscriber" />. Used in the production of
-<ItemLink id="cell_component_256k" /> and <ItemLink id="sky_stone_block" />.
+<ItemLink id="sky_stone_block" />, який був подрібнений через <ItemLink id="inscriber" />. З нього виготовляється
+<ItemLink id="cell_component_256k" /> та <ItemLink id="sky_stone_block" />.
 
-Can also be obtained by pointing an <ItemLink id="annihilation_plane" /> upward at world height limit.
+<ItemLink id="annihilation_plane" /> також здатна отримувати його, коли направлена доверху на найвищій точці світу.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="sky_dust" />

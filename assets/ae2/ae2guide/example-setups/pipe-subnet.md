@@ -180,7 +180,7 @@ Of course, you don't have to use just one <ItemLink id="import_bus" /> or <ItemL
 <IsometricCamera yaw="185" pitch="30" />
 </GameScene>
 
-## Providing To Multiple Places
+## Постачання інгредієнтів у декілька місць
 
 From all this, we can derive a method to send ingredients from one <ItemLink id="pattern_provider" /> face to many different
 locations, like an array of machines, or several different faces of one machine.

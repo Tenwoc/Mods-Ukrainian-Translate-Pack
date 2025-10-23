@@ -75,12 +75,12 @@
   "hostilenetworks.fail.energy_mid_cycle": "Прогрес моделювання призупинено\nКритичний рівень енергії системи",
   "hostilenetworks.fail.redstone": "Прогрес моделювання призупинено\nНеправильний сигнал редстоуну",
   
-  "hostilenetworks.run.0": "> Запуск середовища виконання",
+  "hostilenetworks.run.0": "> Запуск ПЗ ",
   "hostilenetworks.run.1": "> Ітерація №%s розпочата",
-  "hostilenetworks.run.2": "> Завантаження моделі з пам'яті мікросхеми",
-  "hostilenetworks.run.3": "> Оцінка рівня загрози",
+  "hostilenetworks.run.2": "> Модель мікросхеми: Отримана",
+  "hostilenetworks.run.3": "> Рівень загрози: Оцінка",
   "hostilenetworks.run.4": "> Залучення ворога",
-  "hostilenetworks.run.5": "> Прогнозування послідовності",
+  "hostilenetworks.run.5": "> Передбачення: ",
   "hostilenetworks.run.6": "> Результати обробки...",
   
   "hostilenetworks.info.click_to_attune": "%s по сутності, щоби %s",
@@ -100,12 +100,12 @@
   "hostilenetworks.info.subtypes": "Варіанти:",
   "hostilenetworks.info.sub_list": "  - %s",
   
-  "hostilenetworks.color_text.build": "Створити модель даних",
+  "hostilenetworks.color_text.build": "створити модель даних",
   "hostilenetworks.color_text.shift": "Shift",
   "hostilenetworks.color_text.rclick": "ПКМ",
   "hostilenetworks.color_text.hud": "Інтерфейс",
-  "hostilenetworks.color_text.failed": "невдача",
-  "hostilenetworks.color_text.success": "успіх",
+  "hostilenetworks.color_text.failed": "Невдале",
+  "hostilenetworks.color_text.success": "Успішне",
   "hostilenetworks.color_text.true": "так",
   "hostilenetworks.color_text.false": "ні",
 

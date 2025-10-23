@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Ender Dust
+  title: Пил Енду
   icon: ender_dust
   position: 010
 categories:
@@ -10,13 +10,12 @@ item_ids:
 - ae2:ender_dust
 ---
 
-# Ender Dust
+# Пил Енду
 
 <ItemImage id="ender_dust" scale="4" />
 
-An ender pearl that has been crushed by an <ItemLink id="inscriber" />. Used in the production of <ItemLink id="wireless_booster" />s
-and <ItemLink id="quantum_entangled_singularity" /> pairs.
+Перлина Енду, подрібнена у [штампувальному пресі](inscriber.md). Використовується у виробництві [бездротових підсилювачів](wireless_access_point.md) та пар [квантових заплутаних сингулярностей](singularities.md).
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="ender_dust" />

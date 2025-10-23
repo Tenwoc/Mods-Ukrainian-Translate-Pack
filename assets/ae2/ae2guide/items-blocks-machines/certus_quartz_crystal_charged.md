@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Charged Certus Quartz Crystal
+  title: Заряджений кристал істинного кварцу
   icon: charged_certus_quartz_crystal
   position: 010
 categories:
@@ -10,13 +10,13 @@ item_ids:
 - ae2:charged_certus_quartz_crystal
 ---
 
-# The Charged Certus Quartz Crystal
+# Заряджений кристал істинного кварцу
 
 <ItemImage id="charged_certus_quartz_crystal" scale="4" />
 
-A <ItemLink id="certus_quartz_crystal" /> that has been run through a <ItemLink id="charger" />. Used in the production of
-<ItemLink id="fluix_crystal" /> and [budding certus blocks](../items-blocks-machines/budding_certus.md).
+<ItemLink id="certus_quartz_crystal" />, оброблений через <ItemLink id="charger" />. З нього виготовляється
+<ItemLink id="fluix_crystal" /> та [родючий істинний кварц](../items-blocks-machines/budding_certus.md).
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="charged_certus_quartz_crystal" />

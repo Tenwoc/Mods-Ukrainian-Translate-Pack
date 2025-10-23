@@ -54,7 +54,7 @@ navigation:
 * <ItemLink id="formation_plane" /> (2) відфільтрована на <ItemLink id="minecraft:amethyst_cluster" />.
 * Друга <ItemLink id="annihilation_plane" /> (3) не має інтерфейсу та не може бути налаштована, але може бути зачарована на Удачу.
 * Перша <ItemLink id="storage_bus" /> (4) відфільтрована на <ItemLink id="minecraft:amethyst_shard" />.
-* Друга <ItemLink id="storage_bus" /> (5) відфільтрована на <ItemLink id="minecraft:amethyst_shard" /> та має вищій [пріоритет](../ae2-mechanics/import-export-storage.md#storage-priority), ніж ваше основне сховище.
+* Друга <ItemLink id="storage_bus" /> (5) відфільтрована на <ItemLink id="minecraft:amethyst_shard" /> та має вищій [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ), ніж ваше основне сховище.
 
 ## Як це працює
 
@@ -62,4 +62,4 @@ navigation:
 2. <ItemLink id="formation_plane" /> розміщує друзи навпроти себе
 3. Друга <ItemLink id="annihilation_plane" /> руйнує друзу, отримуючи <ItemLink id="minecraft:amethyst_shard" />.
 4. Перша <ItemLink id="storage_bus" /> зберігає уламки у діжці. Технічно це не потрібно фільтрувати, оскільки єдине, з чим повинна стикатися друга площина анігіляції, — це повністю дозрілі друзи.
-5. Друга <ItemLink id="storage_bus" /> надає основній мережі доступ до всіх аметистових уламків в діжці. Вона встановлена на високий [пріоритет](../ae2-mechanics/import-export-storage.md#storage-priority), щоб аметистові уламки переважно поверталися в діжку, а не в основне сховище.
+5. Друга <ItemLink id="storage_bus" /> надає основній мережі доступ до всіх аметистових уламків в діжці. Вона встановлена на високий [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ), щоб аметистові уламки переважно поверталися в діжку, а не в основне сховище.

@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: ae2wtlib/ae2wtlib-index.md
-  title: Wireless Crafting Terminal
+  title: Бездротовий термінал майстрування
   icon: ae2:wireless_crafting_terminal
   position: 100
 categories:
@@ -10,31 +10,29 @@ item_ids:
   - ae2:wireless_crafting_terminal
 ---
 
-# Wireless Crafting Terminal
+# Бездротовий термінал майстрування
 
 <ItemImage id="ae2:wireless_crafting_terminal" scale="3" />
 
-The <ItemLink id="ae2:wireless_crafting_terminal" /> is a [wireless](wireless_terminals.md) version of the <ItemLink id="ae2:crafting_terminal" />.
-AE2WTLib adds automatic [restocking](restock.md) from the ME Network, and allows Pick Block to draw items from the ME Network.   
-With a <ItemLink id="ae2wtlib:magnet_card" /> it also acts as a magnet.
+<ItemLink id="ae2:wireless_crafting_terminal" /> — це [бездротова](wireless_terminals.md) версія [термінала майстрування](ae2:items-blocks-machines/terminals.md#термінал-майстрування
+). AE2WTLib додає автоматичне [запасання](restock.md) з МЕ мережі та дозволяє запитувати предмети з МЕ мережі клацанням СКМ. Коли встановлена <ItemLink id="ae2wtlib:magnet_card" />, він також діє як магніт.
 
-It can be combined with other [Wireless Terminals](wireless_terminals.md) into an <ItemLink id="ae2wtlib:wireless_universal_terminal" />
+Його можна поєднати з іншими [бездротовими терміналами](wireless_terminals.md) в <ItemLink id="ae2wtlib:wireless_universal_terminal" />.
 
-AE2WTLib enhances Minecrafts `Pick Block` functionality, it will draw items from the network if they can't be found in your inventory.
-(It will also try to store items if your current slot happens to be full)
+AE2WTLib покращує функціонал «запитування» блока базового Minecraft через клацання СКМ. Мод дозволяє витягувати предмети з мережі, якщо їх не можна знайти у вашому інвентарі. (Він також спробує зберегти предмети, якщо ваш поточний слот переповнюватиметься)
 
-## The UI
+## Інтерфейс користувача
 
-See [Terminals](ae2:items-blocks-machines/terminals.md)
+Дивіться [«Термінали»](ae2:items-blocks-machines/terminals.md)
 
-## Upgrades
+## Модифікатори
 
-The <ItemLink id="ae2:wireless_crafting_terminal" /> supports the following [upgrades](ae2:items-blocks-machines/upgrade_cards.md):
+<ItemLink id="ae2:wireless_crafting_terminal" /> підтримує такі [модифікатори](ae2:items-blocks-machines/upgrade_cards.md):
 
-*   <ItemLink id="ae2:energy_card" /> in order to increase the battery capacity
-*   <ItemLink id="ae2wtlib:quantum_bridge_card" /> which allows the terminal to have unlimited range, even across dimensions and automatically charges the terminal from the ME Network 
-*   <ItemLink id="ae2wtlib:magnet_card" /> to add magnet functionality
+* <ItemLink id="ae2:energy_card" /> збільшить місткість акумулятора
+* <ItemLink id="ae2wtlib:quantum_bridge_card" /> дозволить терміналу мати необмежений радіус дії, навіть у різних вимірах, та автоматично заряджатиме термінал від МЕ мережі
+* <ItemLink id="ae2wtlib:magnet_card" /> додасть функціонал магніту
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="ae2:wireless_crafting_terminal" />

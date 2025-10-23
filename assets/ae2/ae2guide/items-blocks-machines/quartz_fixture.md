@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Quartz Fixtures
+  title: Кварцові прикріплення
   icon: quartz_fixture
   position: 010
 categories:
@@ -11,7 +11,7 @@ item_ids:
 - ae2:light_detector
 ---
 
-# Quartz Fixtures
+# Кварцові прикріплення
 
 <Row>
 <BlockImage id="quartz_fixture" scale="8" />
@@ -19,11 +19,11 @@ item_ids:
 <BlockImage id="light_detector" scale="8" />
 </Row>
 
-The charged quartz fixture is a little greeble that emits light.
+Світильник з істинного кварцу — це невеликий кристалик, який випромінює світло.
 
-The light detecting fixture instead emits a redstone signal according to the light level of its block.
+Й на відміну від попередника, детектор світла випромінює редстоуновий сигнал відповідно до рівня освітленості свого блоку.
 
-## Recipes
+## Рецепти
 
 <RecipeFor id="quartz_fixture" />
 

@@ -49,7 +49,7 @@ See [Certus Growth](../ae2-mechanics/certus-growth.md) for estimated speeds.
 * The first <ItemLink id="annihilation_plane" /> (1) has no GUI and cannot be configured, but can be enchanted with fortune.
 * The first <ItemLink id="storage_bus" /> (2) is filtered to <ItemLink id="certus_quartz_crystal" />.
 * The second <ItemLink id="storage_bus" /> (3) is filtered to <ItemLink id="certus_quartz_crystal" />, and has its
-  [priority](../ae2-mechanics/import-export-storage.md#storage-priority) set higher than the main storage.
+  [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) set higher than the main storage.
 
 ## How It Works
 
@@ -57,5 +57,5 @@ See [Certus Growth](../ae2-mechanics/certus-growth.md) for estimated speeds.
    because the only storage on the subnet is the <ItemLink id="storage_bus" />, filtered to <ItemLink id="certus_quartz_crystal" />.
 4. The first <ItemLink id="storage_bus" /> stores the certus quartz crystals in the barrel.
 5. The second <ItemLink id="storage_bus" /> gives the main network access to all of the certus quartz crystals in the barrel. It is set to
-   high [priority](../ae2-mechanics/import-export-storage.md#storage-priority) so that certus quartz crystals are preferentially
+   high [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) so that certus quartz crystals are preferentially
    put back in the barrel instead of in your main storage.

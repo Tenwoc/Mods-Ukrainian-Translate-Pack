@@ -17,7 +17,7 @@ Sometimes, life is inconvenient and you need buckets of a fluid instead of the f
 vanilla Minecraft has a slightly-less-convenient way, the <ItemLink id="minecraft:dispenser" />.
 
 **Note that you often don't have to do this because Fluid Substitutions in a
-[Pattern Encoding Terminal](../items-blocks-machines/terminals.md#pattern-encoding-terminal) allow you to use the fluid itself in
+[Pattern Encoding Terminal](../items-blocks-machines/terminals.md#термінал-кодування-шаблонів) allow you to use the fluid itself in
 a crafting recipe instead of a bucket.**
 
 <GameScene zoom="6" interactive={true}>
@@ -80,7 +80,7 @@ a crafting recipe instead of a bucket.**
 
 1. The <ItemLink id="pattern_provider" /> pushes the ingredients into the <ItemLink id="interface" />.
    (Actually, as an optimization, it pushes directly through the storage bus and formation plane as if they were extensions of the provider's faces. The items never actually enter the interface.)
-2. Through mechanisms described in [pipe subnets](pipe-subnet.md#providing-to-multiple-places) and <ItemLink id="formation_plane" />,
+2. Through mechanisms described in [pipe subnets](pipe-subnet.md#постачання-інгредієнтів-у-декілька-місць) and <ItemLink id="formation_plane" />,
    the bucket ends up in the <ItemLink id="minecraft:dispenser" /> and the fluid is placed by the formation plane.
 3. The <ItemLink id="minecraft:comparator" /> detects the bucket in the dispenser and thus simultaneously powers the dispenser and locks
    the <ItemLink id="pattern_provider" />.

@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Presses
+  title: Штампи
   icon: silicon_press
   position: 010
 categories:
@@ -14,9 +14,9 @@ item_ids:
 - ae2:name_press
 ---
 
-# Presses
+# Штампи
 
-There are 5 different presses used in the <ItemLink id="inscriber" />.
+У AE2 існує 5 видів штампів, які використовує <ItemLink id="inscriber" />.
 
 <Row>
   <ItemImage id="silicon_press" scale="4" />
@@ -30,11 +30,9 @@ There are 5 different presses used in the <ItemLink id="inscriber" />.
 
 <ItemImage id="name_press" scale="4" />
 
-## Processor Presses
+## Штампи процесорів
 
-The Silicon, Logic, Calculation, and Engineering presses are used in the production of [processors](processors.md).
-These 4 presses are obtained by breaking a <ItemLink id="mysterious_cube" /> in a [meteorite](../ae2-mechanics/meteorites.md).
-They can also be duplicated in an <ItemLink id="inscriber" />.
+Кремнієвий, логічний, обчислювальний та інженерний штампи використовуються у виробництві [процесорів](processors.md). Один <ItemLink id="mysterious_cube" />, що знаходиться в [метеоритах](../ae2-mechanics/meteorites.md), містить в собі усі чотири. Отримавши штампи, ви зможете дублювати їх через <ItemLink id="inscriber" />.
 
 <Column>
   <Row>
@@ -50,11 +48,8 @@ They can also be duplicated in an <ItemLink id="inscriber" />.
   </Row>
 </Column>
 
-## Name Press
+## Штамп іменування
 
-The Name Press can be used in an inscriber to name items, similar to an anvil.
+Штамп іменування можна використовувати в штампувальному пресі для іменування предметів, подібно до ковадла.
 
-To craft, right click the <ItemLink id="certus_quartz_cutting_knife" /> or <ItemLink id="nether_quartz_cutting_knife" />
-and insert an ingot of metal, you will then have to type the name you
-wish to write onto the plate then simply extract the finished plate. You can use one or two plates at a time in the inscriber,
-if you use two plates, it will print the name using the combination of both names, top slot, then bottom slot.
+Щоб створити його, клацніть ПКМ, тримаючи в руках <ItemLink id="certus_quartz_cutting_knife" /> або <ItemLink id="nether_quartz_cutting_knife" /> та вставте злиток металу. Потім введіть текст у полі поряд, щоб визначити ім'я, яке буде штампуватися, а потім просто витягніть готовий штамп. Ви можете використовувати один або два штампи одночасно в штампувальному пресі. Якщо ви використовуєте два штампи, прес надрукує комбінацію обох іменувань, спочатку з верхнього слота, потім з нижнього.

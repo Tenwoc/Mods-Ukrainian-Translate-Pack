@@ -7,7 +7,7 @@ navigation:
 
 # Specialized Local Storage
 
-Utilizing one of the [special behaviors of the Interface](../items-blocks-machines/interface.md#special-interactions), a
+Utilizing one of the [special behaviors of the Interface](../items-blocks-machines/interface.md#особливі-взаємодії), a
 [subnetwork](../ae2-mechanics/subnetworks.md) can present the contents of its storage to the main network, without being able
 to see the main network's storage, and taking up only 1 [channel](../ae2-mechanics/channels.md).
 
@@ -56,14 +56,14 @@ This is useful for local storage at some farm, so that the items will not overfl
   [partitioned](../items-blocks-machines/cell_workbench.md) to whatever the farm outputs.
   The cells can have <ItemLink id="equal_distribution_card" />s and <ItemLink id="void_card" />s.
 * The second <ItemLink id="interface" /> (4) is in its default configuration.
-* The <ItemLink id="storage_bus" /> has its [priority](../ae2-mechanics/import-export-storage.md#storage-priority) set
+* The <ItemLink id="storage_bus" /> has its [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) set
   higher than the main storage. It can be filtered to whatever the farm outputs.
 
 ## How It Works
 
 * The <ItemLink id="interface" /> on the subnet shows the <ItemLink id="storage_bus" /> on the main network the contents of
 the <ItemLink id="drive" />. This means the storage bus can directly pull items from and push items to the cells in the drive.
-* The storage bus is set to high [priority](../ae2-mechanics/import-export-storage.md#storage-priority) so that items are preferentially
+* The storage bus is set to high [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) so that items are preferentially
   put back in the subnet instead of in your main storage.
 * Importantly, if the cells in the subnet fill up, the items will not overflow into the main network. If the farm is of a type
 that breaks if it backs up, <ItemLink id="void_card" />s can be used to delete the excess items instead. 

@@ -64,7 +64,7 @@ of the other components. They are also a base ingredient in the other components
 
 <RecipeFor id="crafting_unit" />
 
-# Crafting Storage
+# Сховище для вироблення
 
 <Row>
   <BlockImage id="1k_crafting_storage" scale="4" />

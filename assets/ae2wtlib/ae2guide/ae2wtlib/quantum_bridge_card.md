@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: ae2wtlib/ae2wtlib-index.md
-  title: Quantum Bridge Card
+  title: Картка квантового зв'язку
   icon: ae2wtlib:quantum_bridge_card
   position: 210
 categories:
@@ -10,20 +10,19 @@ item_ids:
 - ae2wtlib:quantum_bridge_card
 ---
 
-# Quantum Bridge Card
+# Картка квантового зв'язку
 
 <ItemImage id="ae2wtlib:quantum_bridge_card" scale="3" />
 
-The Quantum Bridge Card is an [Upgrade Card](ae2:items-blocks-machines/upgrade_cards.md) for [AE2wtlib Wireless Terminals](wireless_terminals.md).
-It allows linking your [Wireless Terminals](wireless_terminals.md) to a [Quantum Bridge](ae2:items-blocks-machines/quantum_bridge.md).
+Картка квантового зв'язку — це [модифікатор](ae2:items-blocks-machines/upgrade_cards.md) для [бездротових терміналів AE2WTLiB](wireless_terminals.md).
+Він дозволяє [бездротовим терміналам](wireless_terminals.md) створювати зв'язок із мережею через [квантовий міст](ae2:items-blocks-machines/quantum_bridge.md).
 
-Put a quantum Bridge Card and a <ItemLink id="ae2:quantum_entangled_singularity" /> in your wireless terminal,
-and put the other singularity in a [Quantum Bridge](ae2:items-blocks-machines/quantum_bridge.md) connected to your network.
+Вставте у бездротовий термінал картку квантового зв'язку та першу [квантову заплутану сингулярність](ae2:items-blocks-machines/singularities.md),
+другу вставте у [квантовий міст](ae2:items-blocks-machines/quantum_bridge.md) вашої мережі.
 
-Your Wireless Terminal is now Quantum Linked, can access your network from anywhere, even across dimensions (assuming the chunks containing the network are loaded, e.g. with a <ItemLink id="ae2:spatial_anchor" />),
-and will automatically recharge with energy from your network.
-(make sure your network has enough [energy storage](ae2:items-blocks-machines/energy_cells.md))
+Відтепер ваш бездротовий термінал матиме квантовий зв'язок — він зможе отримувати доступ до вашої мережі з будь-якого місця, навіть з різних вимірів (за умови, що чанки, що містять мережу, завантажені, наприклад, використовуючи <ItemLink id="ae2:spatial_anchor" />), і автоматично заряджатиметься енергією з вашої мережі.
+(переконайтеся, що ваша мережа має достатньо [збереженої енергії](ae2:items-blocks-machines/energy_cells.md))
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="ae2wtlib:quantum_bridge_card" />
