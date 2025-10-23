@@ -1,16 +1,15 @@
 ---
 navigation:
   parent: ae2-mechanics/ae2-mechanics-index.md
-  title: Devices
+  title: Пристрої
   icon: interface
 ---
 
-# Devices
+# Пристрої
 
-A "Device" refers to an AE2 network component that performs some function related to the network itself. They almost always
-require a channel, with the notable exception of [Level Emitters](../items-blocks-machines/level_emitter.md).
+«Пристрій» — це компонент мережі AE2, який виконує певну функцію, пов'язану з самою мережею. Майже завжди такі машини потребують каналу, за винятком [випромінювачів рівня](../items-blocks-machines/level_emitter.md).
 
-Some examples include:
+Ось декілька прикладів:
 
 *   <ItemLink id="interface" />
 *   <ItemLink id="import_bus" />

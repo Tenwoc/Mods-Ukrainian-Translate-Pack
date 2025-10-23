@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Tips and Tricks
+  title: Корисні поради
   position: 20
 ---
 

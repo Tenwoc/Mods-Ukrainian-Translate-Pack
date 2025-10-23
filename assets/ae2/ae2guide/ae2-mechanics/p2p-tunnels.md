@@ -1,10 +1,10 @@
 ---
 navigation:
   parent: ae2-mechanics/ae2-mechanics-index.md
-  title: P2P Tunnels
+  title: P2P тунелі
   icon: me_p2p_tunnel
 ---
 
-# P2P Tunnels
+# P2P тунелі
 
-See [P2P Tunnels](../items-blocks-machines/p2p_tunnels.md)
+Дивіться [P2P тунелі](../items-blocks-machines/p2p_tunnels.md)

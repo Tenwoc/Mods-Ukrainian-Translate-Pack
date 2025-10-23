@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: "Add-on: MEGA Cells"
+  title: "Аддон: MEGA Cells"
   position: 80
 item_ids:
   - accumulation_processor
@@ -12,34 +12,26 @@ item_ids:
 
 # MEGA Cells
 
-![MEGA Cells logo](assets/logo.png)
+![Логотип MEGA Cells](assets/logo.png)
 
-## Introduction
+## Вступ
 
-**MEGA Cells** is an add-on for Applied Energistics 2 providing higher tiers of storage, ranging in capacity from **1M**
-to as high as **256M**, while also providing some bespoke features such as more specialised storage cells and extra
-related tooling.
+**MEGA Cells** – це доповнення до Applied Energistics 2, яке забезпечує вищі рівні зберігання, місткості від **1М** до **256М**, а також пропонує деякі спеціальні функції, такі як більш спеціалізовані комірки зберігання та додаткові інструменти.
 
-## Getting Started
+## Початок
 
 <Row>
   <ItemImage id="sky_steel_ingot" scale="4" />
   <ItemImage id="accumulation_processor" scale="4" />
 </Row>
 
-To reach new heights on storage, new materials are needed. The most important resource you will need to gather in
-preparation for setting up MEGA infrastructure is plenty of <ItemLink id="ae2:sky_stone_block" />, as this will need to
-be transformed into **Sky Steel** alloy ingots together with Iron and a
-<ItemLink id="ae2:charged_certus_quartz_crystal" />. Water won't be enough for metalwork, however, so you'll need a much
-hotter fluid to melt these down and transform them with.
+Щоб досягти нових висот у зберіганні, потрібні нові матеріали. Найважливішим ресурсом, який вам потрібно буде зібрати для підготовки до створення інфраструктури MEGA, є <ItemLink id="ae2:sky_stone_block" /> у великих обсягах, оскільки його потрібно буде перетворити на злитки сплаву **небесної сталі**, додавши також залізо та <ItemLink id="ae2:charged_certus_quartz_crystal" />. Однак води буде недостатньо для сплавляння, тому вам знадобиться набагато гарячіша рідина, щоб розплавити їх та стопити.
 
 <Row>
   <Recipe id="transform/sky_steel_ingot" />
 </Row>
 
-Once you have some Sky Steel, you can use it to assemble a brand-new processor type, known as the **Accumulation
-Processor**. This processor serves as the distinct "backbone" of almost every MEGA device, be they the standard
-larger-capacity cells or any of the other specialised tools.
+Як тільки у вас з'явиться небесна сталь, ви зможете використати її для збирання абсолютно нового типу процесора, відомого як **скопичувальний процесор**. Цей процесор служить «хребтом» майже кожного пристрою MEGA, хай то стандартні комірки більшої місткості чи будь-які інші спеціалізовані інструменти.
 
 <Row>
   <RecipeFor id="accumulation_processor_press" />
@@ -47,9 +39,8 @@ larger-capacity cells or any of the other specialised tools.
   <RecipeFor id="accumulation_processor" />
 </Row>
 
-From this point on, you are ready to progress further with the offerings of "*MEGA Corp.*" and unlock the full potential
-of your ME storage and infrastructure.
+З цього моменту ви готові розвиватися далі з пропозиціями «*MEGA Corp.*» та розкрити весь потенціал вашого МЕ сховища та інфраструктури.
 
-## Further Reading
+## Також ознайомтеся
 
 <SubPages />

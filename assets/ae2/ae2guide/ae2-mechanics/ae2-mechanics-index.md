@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: AE2 Mechanics
+  title: Механіки AE2
   position: 30
 ---
 

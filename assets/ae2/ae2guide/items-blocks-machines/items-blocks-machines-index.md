@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Items, Blocks, and Machines
+  title: Предмети, блоки, та машини
   position: 50
 ---
 
@@ -8,22 +8,22 @@ navigation:
 
 Список елементів моду, на які можуть посилатися інші сторінки, та опис їх функцій.
 
-## Misc. Ingredients and Blocks
+## Різноманітні інгредієнти та блоки
 
 <CategoryIndex category="misc ingredients blocks" />
 
-## Network Infrastructure
+## Мережева інфраструктура
 
 <CategoryIndex category="network infrastructure" />
 
-## Devices
+## Прилади
 
 <CategoryIndex category="devices" />
 
-## Machines
+## Машини
 
 <CategoryIndex category="machines" />
 
-## Tools
+## Інструменти
 
 <CategoryIndex category="tools" />

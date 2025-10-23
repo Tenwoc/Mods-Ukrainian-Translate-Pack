@@ -17,8 +17,8 @@
 
   "item.dimdungeons.item_portal_key": "Чистий ключ портала",
   "item.dimdungeons.item_portal_key_basic": "Бзовий ключ портала",
-  "item.dimdungeons.item_portal_key_advanced": "Просунутий ключ портала",
-  "item.dimdungeons.item_blank_advanced_key": "Чистий просунутий ключ",
+  "item.dimdungeons.item_portal_key_advanced": "Вдосконалений ключ портала",
+  "item.dimdungeons.item_blank_advanced_key": "Чистий вдосконалений ключ",
   "item.dimdungeons.item_blank_theme_key": "Чистий тематичний ключ",
 	
   "item.dimdungeons.item_blank_build_key": "Чистий ключ персонального виміру",
@@ -192,7 +192,7 @@
   "book.dimdungeons.dangerous_message_7": "Minecraft має десятки надихаючих повідомлень про смерть.",
   "book.dimdungeons.dangerous_message_8": "Загадка з маяком складна і може стати нерозв'язною, якщо ви не будете обережні.",
 
-  "book.dimdungeons.advanced_message_1": "Вороги в просунутих підземеллях мають додаткове здоров'я і нечутливі до вогню. Я не міг зробити це занадто легким!",
+  "book.dimdungeons.advanced_message_1": "Вороги в вдосконалених підземеллях мають додаткове здоров'я і нечутливі до вогню. Я не міг зробити це занадто легким!",
   "book.dimdungeons.advanced_message_2": "Зілля вдачі можуть підвищити якість здобичі у певних скринях.",
   "book.dimdungeons.advanced_message_3": "Складні підземелля вдвічі більші за звичайні! Це вдвічі більше скарбів і вдвічі більше небезпеки!",
   "book.dimdungeons.advanced_message_4": "Скрині зі скарбами в складних підземеллях містять покращені трофеї!",
@@ -253,7 +253,7 @@
   "advancements.dimdungeons.dungeons.find_crown.title": "Король",
   "advancements.dimdungeons.dungeons.find_crown.description": "Знайдіть два блоки порталу-корони в підземеллі.",
   "advancements.dimdungeons.dungeons.find_advanced_key.title": "Чудовий ключ",
-  "advancements.dimdungeons.dungeons.find_advanced_key.description": "Знайдіть просунутий ключ порталу в підземеллі.",
+  "advancements.dimdungeons.dungeons.find_advanced_key.description": "Знайдіть вдосконалений ключ порталу в підземеллі.",
   "advancements.dimdungeons.dungeons.enter_advanced_dungeon.title": "Наступний рівень",
   "advancements.dimdungeons.dungeons.enter_advanced_dungeon.description": "Подвійна небезпека, подвійна здобич!",
   "advancements.dimdungeons.dungeons.all_trophies.title": "Колекціонер",

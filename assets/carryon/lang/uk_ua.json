@@ -1,8 +1,8 @@
 {
     "carryon.category.settings": "Налаштування",
     "carryon.category.blacklist": "Чорний лсписок",
-    "carryon.category.modeloverrides": "Перевизначення моделі (Просунуте)",
-    "carryon.category.custompickupconditions": "Умови індивідуального самовивозу (Просунуті)",
+    "carryon.category.modeloverrides": "Перевизначення моделі (Вдосконалене)",
+    "carryon.category.custompickupconditions": "Умови індивідуального самовивозу (Вдосконалені)",
     "carryon.category.whitelist": "Білий список",
 
     "carryon.general.modeloverrides.modeloverrides": "Перевизначення моделі",

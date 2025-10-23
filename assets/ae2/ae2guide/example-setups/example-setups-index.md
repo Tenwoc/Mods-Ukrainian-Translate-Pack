@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Example Setups
+  title: Приклади установок
   position: 40
 ---
 

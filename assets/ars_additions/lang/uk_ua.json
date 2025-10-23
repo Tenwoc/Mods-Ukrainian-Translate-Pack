@@ -173,7 +173,7 @@
   "tooltip.ars_additions.imbued_spell_parchment.scribing": "Переписування: %s",
   "tooltip.ars_additions.imbued_spell_parchment.scribing_progress": "Прогрес переписування: %s",
 
-  "item.ars_additions.advanced_dominion_wand": "Просунутий жезл панування",
+  "item.ars_additions.advanced_dominion_wand": "Вдосконалений жезл панування",
   "chat.ars_additions.advanced_dominion_wand.mode": "Встановлений режим: %s",
   "tooltip.ars_additions.advanced_dominion_wand.mode": "Режим: %s",
   "tooltip.ars_additions.advanced_dominion_wand.mode.first": "Закріпити перше",

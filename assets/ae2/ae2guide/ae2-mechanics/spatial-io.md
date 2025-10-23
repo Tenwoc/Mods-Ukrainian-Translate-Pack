@@ -1,86 +1,72 @@
 ---
 navigation:
   parent: ae2-mechanics/ae2-mechanics-index.md
-  title: Spatial IO
+  title: Просторове зберігання
   icon: spatial_storage_cell_2
 ---
 
-# Spatial IO
+# Зберігання простору
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/spatial_storage_1x1x1.snbt" />
 
   <BoxAnnotation color="#33dd33" min="1 1 1" max="2 2 2">
-        The volume to be moved
+        Простір, який буде зацифровано
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 
 </GameScene>
 
-Spatial IO is a way to cut-and-paste physical volumes of space in your world. It can be used to move <ItemLink id="flawless_budding_quartz" />,
-have a room in your base where you can swap out various interiors to use it for different purposes, or even move
-the end portal!
+Просторове зберігання — це спосіб вирізати та вставити фізичні обсяги простору у вашому світі. Його можна використовувати, щоб переміщувати <ItemLink id="flawless_budding_quartz" />, робити кімнати у вашій базі, що змінюють інтер'єр, використовувати зберігання для різних цілей, навіть щоби переміщати портал Енду!
 
-It works by *swapping* the defined volume with an identically-sized volume in the spatial storage dimension, sending whatever's
-in the pylon array to the spatial storage dimension, and whatever's in the dimension to the pylon array.
+Це працює шляхом *заміни* визначеного простору на простір ідентичного розміру в просторовому вимірі зберігання, відправлення всього, що знаходиться в масиві пілонів, до просторового виміру зберігання, і всього, що знаходиться у вимірі, до масиву пілонів.
 
-This means that if you have a way of travelling between dimensions (spatial IO *can* be used to make a teleporter,
-but doing it is very complex, a bit janky, and beyond the scope of the guide), you can use them like custom-sized compact machines or pocket
-dimensions.
+Це означає, що якщо у вас є спосіб подорожувати між вимірами (просторове зберігання *може* використовуватися для створення телепорта, але це дуже складно, трохи нестабільно і виходить за рамки цього посібника), ви можете використовувати їх як компактні машини нестандартного розміру або кишенькові виміри.
 
-# The Multiblock Setup
+# Багатоблочна конструкція
 
-Spatial IO requires a specific arrangement of its components in order to function, and define the volume to be cut-and-pasted.
+Просторове зберігання вимагає певного розташування своїх компонентів для функціонування та визначення обсягу, який потрібно вирізати та вставити.
 
-All of the components must be on the same [network](me-network-connections.md) in order to function, and you can have only one
-spatial IO setup on a network. Thus, a [subnetwork](subnetworks.md) is recommended.
+Для роботи всі компоненти повинні знаходитися в одній [мережі](me-network-connections.md), і відповідно в мережі може бути тільки одна конфігурація просторового зберігання. Тому рекомендується використовувати [підмережу](subnetworks.md).
 
-## The Spatial IO Port
+## Порт просторового зберігання
 
 <BlockImage id="spatial_io_port" p:powered="true" scale="4" />
 
-The <ItemLink id="spatial_io_port" /> controls the spatial IO operation. It shows stats on the multiblock setup, and holds
-the [spatial cells](../items-blocks-machines/spatial_cells.md)
+<ItemLink id="spatial_io_port" /> контролює операцію просторового вводу-виводу. Він показує статистику багатоблочної конструкції та уміщує [просторові комірки](../items-blocks-machines/spatial_cells.md)
 
-It shows
-- Stored and max [energy](energy.md) in the network
-- Required energy to perform the operation. This can be quite large and is used instantaneously, so make sure you have enough
-  [energy cells](../items-blocks-machines/energy_cells.md) to hold it all.
-- Efficiency of the pylon array
-- Size of the defined volume
+Він відображає:
+- Збережену та максимальну [енергію](energy.md) в мережі
+- Необхідну енергію для виконання операції. Вона може бути досить великою і використовується миттєво, тому переконайтеся, що у вас є достатньо [комірок енергії](../items-blocks-machines/energy_cells.md), щоб вмістити все.
+- Ефективність масиву пілонів
+- Розмір визначеного простору
 
-To perform a spatial IO operation, place a spatial storage cell in the input slot and give the spatial IO port a redstone pulse.
-It will then *swap* the volume in the pylons with the volume in the spatial storage dimension. This means that if you send some
-set of blocks to the spatial storage dimension, *then put another set of blocks in the pylons*, put the cell back in the input slot,
-and trigger the IO port again, the 2nd set of blocks will disappear and the 1st set of blcks will reappear.
+Щоб виконати операцію просторового вводу-виводу, розмістіть комірку зберігання простору у вхідному слоті та подайте на порт просторового зберігання редстоуновий імпульс. Після цього він *обміняє* простір у пілонах на простір у просторовому вимірі зберігання. Це означає, що якщо ви надішлете якийсь набір блоків у просторовий вимір зберігання, *потім розмістите інший набір блоків у пілони*, повернете комірку у вхідний слот і знову запустите порт зберігання, другий набір блоків зникне, а перший набір блоків з'явиться знову.
 
-**BE CAREFUL, Any entity in the defined volume, including you, will be carried along, and if you have no way of getting out, you will be trapped
-in the spatial storage dimension, in a dark, featureless box.** Use this to prank your friends!
+**БУДЬТЕ ОБЕРЕЖНІ, будь-яка істота в заданому просторі, включаючи вас, буде перенесена, і якщо у вас немає можливості вибратися, ви опинитеся в пастці просторового виміру зберігання, в темній, одноманітній коробці.** Використовуйте це, щоб розіграти своїх друзів!
 
-## Pylons
+## Пілони
 
 <BlockImage id="spatial_pylon" p:powered_on="true" scale="4" />
 
-<ItemLink id="spatial_pylon" />s are the main part of a spatial IO setup, and define the volume to be affected.
+<ItemLink id="spatial_pylon" /> є основною частиною конструкції просторового зберігання і визначають об'єм простору до збереження
 
-The volume is defined by the bounding box of the outside of the pylons, contracted in by 1 block in all directions.
+Об'єм визначається обмеженим пілонами паралелепіпедом, скороченим на 1 блок у всіх напрямках.
 
-The rules are:
-- Minimum size of 3x3x3 (which defines a 1x1x1 volume)
-- All spatial pylons must be in the outside bounding box
-- All spatial pylons must be on the same network
-- All pylons must be at least 2 blocks long
+Правила такі:
+- Мінімальний розмір 3x3x3 (що визначає простір 1x1x1)
+- Всі просторові пілони повинні знаходитися в зовнішній обмежувальній рамці
+- Всі просторові пілони повинні знаходитися в одній мережі
+- Всі пілони повинні мати довжину не менше 2 блоків
 
-For example, say you want to define a 3x3x3 volume. Following rule 2, all of the pylons must be within a 5x5x5 shell around
-the volume you want to define. They can be in almost any configuration, as long as they're contained within that 1-block-thick
-5x5x5 shell.
+Наприклад, припустимо, ви хочете визначити простір 3x3x3. Відповідно до правила 2, всі пілони повинні знаходитися в межах оболонки 5x5x5 навколо простору, який ви хочете визначити. Вони можуть бути в майже будь-якій конфігурації, якщо містяться в межах оболонки 5x5x5 товщиною 1 блок.
 
 <GameScene zoom="4" interactive={true}>
 <ImportStructure src="../assets/assemblies/spatial_storage_3x3x3_pylon_demonstration.snbt" />
 
 <BoxAnnotation color="#33dd33" min="1 1 1" max="4 4 4">
-        The volume to be moved
+        Простір, який буде зацифровано
   </BoxAnnotation>
 
 <BoxAnnotation color="#3333ff" min="5 5 0" max="0 0 5">
@@ -89,13 +75,13 @@ the volume you want to define. They can be in almost any configuration, as long 
 <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-A more reasonable setup is this:
+Більш раціональна конструкція виглядає так:
 
 <GameScene zoom="4" interactive={true}>
 <ImportStructure src="../assets/assemblies/better_spatial_storage_3x3x3.snbt" />
 
 <BoxAnnotation color="#33dd33" min="1 1 1" max="4 4 4">
-        The volume to be moved
+        Простір, який буде зацифровано
   </BoxAnnotation>
 
 <BoxAnnotation color="#3333ff" min="5 5 0" max="0 0 5">
@@ -104,20 +90,16 @@ A more reasonable setup is this:
 <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Efficiency
+## Ефективність
 
-The efficiency of the pylon array depends on the amount of the shell that you fill. Minimal setups around large volumes
-will be very inefficient and possibly require *billions* of AE.
+Ефективність масиву пілонів залежить від площі оболонки, яку ви заповнюєте. Мінімальні конструкції навколо великих просторів будуть дуже неефективними й, можливо, вимагатимуть *мільярди* AE.
 
-## Cell Dimensions
+## Розмірність комірок
 
-Once a [spatial cell](../items-blocks-machines/spatial_cells.md) has been used, it gains a permanently defined set of XYZ dimensions (eg, 3x4x2)
-and is linked to a volume of space in the spatial storage dimension. **YOU CANNOT RESET, REFORMAT, OR RESIZE A SPATIAL CELL AFTER
-IT HAS BEEN USED.** Make a new cell if you want to use different dimensions. 
+Після використання [просторові комірки](../items-blocks-machines/spatial_cells.md) вона отримує перманентну розмірність XYZ (наприклад, 3x4x2) і пов'язується з відповідним простором у вимірі просторового зберігання. **ВИ НЕ МОЖЕТЕ СКИНУТИ, ПЕРЕФОРМАТУВАТИ АБО ЗМІНИТИ РОЗМІР ПРОСТОРОВОЇ КОМІРКИ ПІСЛЯ ЇЇ ВИКОРИСТАННЯ.** Створіть нову комірку, якщо хочете використовувати інші розміри. 
 
-These are not the same dimensions in the name of a cell, a 16^3 cell can have any dimensions *up to* 16x16x16
+Описана розмірність у підказці комірки (на кшталт 16^3), це *не фактична* область для збереження, а лише *обмеження*. Визначений простір може бути яким завгодно паралелепіпедом, поки він не переходить обмеження комірки.
 
-Note that this volume is directional and cannot be rotated. A 2x2x3 volume is not the same as a 3x2x2 volume, even though they're the
-same size.
+Зверніть увагу, що зацифрований простір зберігає напрямок і не може бути обернутим. Простір 2x2x3 не є таким самим, як простір 3x2x2, навіть при тому, що вони мають однаковий об'єм.
 
-if the XYZ dimensions of a cell do not match the defined volume (seen in the IO port), the IO port will not operate.
+Якщо розмірність XYZ комірки не відповідає визначеному простору (відображеному в порті збереження), порт збереження не працюватиме.

@@ -1,0 +1,767 @@
+{
+  "Quick explanation on formatting":
+  "Comments are unable to be written in .json files, and can only be made in .jsonc files. This is a .json file, so comments are a little strange here.",
+
+  "How comments are made despite this limitation":
+  "Comments are written where the translation key is meant to be, and the translation should be left blank or have an explanation on them. Each part of the comment should be seperated a line down.",
+
+  "Comment spacing":
+  "Comments are written above a section. There should be three(3) lines of whitespace above a comment, as well as one(1) under the comment.",
+
+
+
+  "STELLARIS ORES":
+  ""
+,
+
+  "block.stellaris.steel_ore": "Сталева руда",
+  "block.stellaris.deepslate_steel_ore": "Глибосланцева сталева руда",
+  "block.stellaris.moon_ice_shard_ore": "Місячна руда льодяних уламків",
+  "block.stellaris.moon_iron_ore": "Місячна залізна руда",
+  "block.stellaris.moon_steel_ore": "Місячна сталева руда",
+  "block.stellaris.moon_desh_ore": "Місячна дешова руда",
+  "block.stellaris.mars_ice_shard_ore": "Марсіанська руда льодяних уламків",
+  "block.stellaris.mars_iron_ore": "Марсіанська залізна руда",
+  "block.stellaris.mars_diamond_ore": "Марсіанська діамантова руда",
+  "block.stellaris.mars_ostrum_ore": "Марсіанська острумова руда",
+  "block.stellaris.mars_plutonium_ore": "Марсіанська плутонієва руда",
+  "block.stellaris.mars_tharsite_ore": "Марсіанська тарзитова руда",
+  "block.stellaris.venus_coal_ore": "Венеріанська вугільна руда",
+  "block.stellaris.venus_gold_ore": "Венеріанська золота руда",
+  "block.stellaris.venus_diamond_ore": "Венеріанська діамантова руда",
+  "block.stellaris.venus_neptunium_ore": "Венеріанська нептунієва руда",
+  "block.stellaris.venus_corronium_ore": "Венеріанська коронієва руда",
+  "block.stellaris.mercury_iron_ore": "Меркурієва залізна руда",
+  "block.stellaris.mercury_uranium_ore": "Меркурієва уранієва руда",
+  "block.stellaris.mercury_solerium_ore": "Меркурієва солерієва руда",
+
+  "block.stellaris.raw_steel_block": "Блок необробленої сталі",
+  "block.stellaris.raw_desh_block": "Блок необробленого дешу",
+  "block.stellaris.raw_uranium_block": "Блок необробленого урану",
+
+  "item.stellaris.raw_neptunium": "Необроблений нептуній",
+
+  "block.stellaris.steel_block": "Блок сталі",
+  "block.stellaris.desh_block": "Блок дешу",
+  "block.stellaris.uranium_block": "Блок урану",
+  "block.stellaris.plutonium_block": "Блок плутонію",
+  "block.stellaris.neptunium_block": "Блок нептунію",
+
+  "item.stellaris.steel_ingot": "Сталевий злиток",
+  "item.stellaris.heavy_metal_ingot": "Важкий металічний злиток",
+  "item.stellaris.desh_ingot": "Дешовий злиток",
+  "item.stellaris.uranium_ingot": "Урановий злиток",
+  "item.stellaris.plutonium_ingot": "Плутонієвий злиток",
+  "item.stellaris.neptunium_ingot": "Нептунієвий злиток",
+  "item.stellaris.corronium_ingot": "Коронієвий злиток",
+  "item.stellaris.tharsite_ingot": "Тарзитовий злиток",
+  "item.stellaris.solerium": "Солерій",
+
+  "item.stellaris.raw_corronium": "Необроблений короній",
+  "item.stellaris.raw_tharsite": "Необроблений тарзит",
+  "item.stellaris.raw_solerium": "Необроблений солерій",
+
+  "item.stellaris.steel_nugget": "Сталевий самородок",
+  "item.stellaris.heavy_metal_nugget": "Важкий металічний самородок",
+  "item.stellaris.plutonium_nugget": "Плутонієвий самородок",
+  "item.stellaris.plutonium_piece": "Плутонієвий шматочок",
+  "item.stellaris.neptunium_piece": "Neptunium шматочок",
+  "item.stellaris.plutonium_grain": "Плутонієва крихта",
+
+
+
+  "STELLARIS METAL DECORATION BLOCKS":
+  ""
+,
+
+  "block.stellaris.iron_plating_block": "Залізне покриття",
+  "block.stellaris.iron_plating_stairs": "Сходи із залізного покриття",
+  "block.stellaris.iron_plating_slab": "Плита із залізного покриття",
+  "block.stellaris.iron_pillar": "Залізна колона",
+
+  "block.stellaris.steel_plating_block": "Сталеве покриття",
+  "block.stellaris.steel_plating_stairs": "Сходи зі сталевого покриття",
+  "block.stellaris.steel_plating_slab": "Плита зі сталевого покриття",
+  "block.stellaris.steel_pillar": "Сталева колона",
+  "block.stellaris.steel_slab": "Сталева плита",
+  "block.stellaris.steel_stairs": "Сталеві сходи",
+
+  "block.stellaris.heavy_metal_casing": "Важке металеве покриття",
+  "block.stellaris.heavy_metal_plate": "Пластина із важкого металевого покриття",
+  "block.stellaris.heavy_metal_stairs": "Сходи із важкого металевого покриття",
+  "block.stellaris.heavy_metal_slab": "Плита із важкого металевого покриття",
+
+  "block.stellaris.desh_plating_block": "Блок із дешового покриття",
+  "block.stellaris.desh_plating_stairs": "Сходи із дешового покриття",
+  "block.stellaris.desh_plating_slab": "Плита із дешового покриття",
+  "block.stellaris.desh_pillar": "Колона із дешового покриття",
+
+
+
+  "STELLARIS MOON WORLDGEN BLOCKS":
+  ""
+,
+
+  "block.stellaris.moon_sand": "Місячний пісок",
+  "block.stellaris.moon_stone": "Місячний камінь",
+  "block.stellaris.moon_cobblestone": "Місячний кругляк",
+  "block.stellaris.moon_stone_dust": "Пил місячного каменю",
+  "block.stellaris.chiseled_moon_stone": "Різьблений місячний камінь",
+  "block.stellaris.polished_moon_stone": "Полірований місячний камінь",
+  "block.stellaris.moon_stone_bricks": "Місячна цегла",
+  "block.stellaris.cracked_moon_stone_bricks": "Тріснута місячна цегла",
+  "block.stellaris.moon_stone_pillar": "Місячна кам'яна колона",
+  "block.stellaris.moon_pillar": "Місячна колона",
+  "block.stellaris.moon_deepslate": "Місячний глибосланець",
+
+  "block.stellaris.moon_stone_stairs": "Місячні сходи",
+  "block.stellaris.moon_stone_slab": "Місячна плита",
+  "block.stellaris.moon_polished_stone_brick_stairs": "Сходи із полірованого місячного каміння",
+  "block.stellaris.moon_polished_stone_brick_slab": "Плита із полірованого місячного каміння",
+  "block.stellaris.moon_stone_brick_stairs": "Сходи із місячної цегли",
+  "block.stellaris.moon_stone_brick_slab": "Плита із місячної цегли",
+
+
+
+  "STELLARIS MARS WORLDGEN BLOCKS":
+  ""
+,
+
+  "block.stellaris.mars_sand": "Марсіанський пісок",
+  "block.stellaris.mars_stone": "Марсіанський камінь",
+  "block.stellaris.mars_cobblestone": "Марсіанський кругляк",
+  "block.stellaris.mars_stone_dust": "Пил марсіанського каменю",
+  "block.stellaris.chiseled_mars_stone_bricks": "Різьблений марсіанський камінь",
+  "block.stellaris.polished_mars_stone": "Полірований марсіанський камінь",
+  "block.stellaris.mars_stone_bricks": "Марсіанська цегла",
+  "block.stellaris.cracked_mars_stone_bricks": "Тріснута марсіанська цегла",
+  "block.stellaris.mars_stone_pillar": "Марсіанська кам'яна колона",
+  "block.stellaris.mars_pillar": "Марсіанська колона",
+  "block.stellaris.mars_deepslate": "Марсіанський глибосланець",
+
+  "block.stellaris.conglomorate": "Конгломерат",
+  "block.stellaris.polished_conglomorate": "Полірований конгломерат",
+
+  "block.stellaris.mars_stone_stairs": "Сходи із місячного каменю",
+  "block.stellaris.mars_stone_slab": "Плита із місячного каменю",
+  "block.stellaris.mars_polished_stone_slab": "Плита із полірованого марсіанського каменю",
+  "block.stellaris.mars_polished_stone_stairs": "Сходи із полірованого марсіанського каменю",
+  "block.stellaris.mars_stone_brick_stairs": "Сходи із марсіанської цегли",
+  "block.stellaris.mars_stone_brick_slab": "Плита",
+
+  "block.stellaris.conglomorate_stairs": "Конгломератові сходи",
+  "block.stellaris.conglomorate_slab": "Конгломератова плита",
+  "block.stellaris.polished_conglomorate_stairs": "Поліровані конгломератові сходи",
+  "block.stellaris.polished_conglomorate_slab": "Полірована конгломератова плита",
+
+
+
+  "STELLARIS VENUS WORLDGEN BLOCKS":
+  ""
+,
+
+  "block.stellaris.venus_sand": "Венеріанський пісок",
+  "block.stellaris.venus_sandstone": "Венеріанський пісковик",
+  "block.stellaris.chiseled_venus_sandstone": "Різьблений венеріанський пісковик",
+  "block.stellaris.venus_smooth_sandstone": "Венеріанський гладкий пісковик",
+  "block.stellaris.venus_sandstone_bricks": "Венеріанська пісковикова цегла",
+  "block.stellaris.cracked_venus_sandstone_bricks": "Тріснута венеріанська пісковикова цегла",
+  "block.stellaris.venus_smooth_sandstone_brick": "Венеріанська гладка пісковикова цегла",
+  "block.stellaris.venus_sandstone_pillar": "Венеріанська пісковикова колона",
+
+  "block.stellaris.venus_sandstone_stairs": "Сходи із венеріанського пісковику",
+  "block.stellaris.venus_sandstone_slab": "Плита із венеріанського пісковику",
+  "block.stellaris.venus_smooth_sandstone_stairs": "Сходи із гладкого венеріанського пісковику",
+  "block.stellaris.venus_smooth_sandstone_slab": "Плита із гладкого венеріанського пісковику",
+  "block.stellaris.venus_sandstone_brick_stairs": "Сходи із венеріанської пісковикової цегли",
+  "block.stellaris.venus_sandstone_brick_slab": "Плита із венеріанської пісковикової цегли",
+  "block.stellaris.venus_smooth_sandstone_brick_stairs": "Сходи із гладкої венеріанської пісковикової цегли",
+  "block.stellaris.venus_smooth_sandstone_brick_slab": "Плита із гладкої венеріанської пісковикової цегли",
+
+  "block.stellaris.venus_stone": "Венеріанський камінь",
+  "block.stellaris.venus_cobblestone": "Венеріанський кругляк",
+  "block.stellaris.venus_stone_dust": "Венеріанський кам'яний пил",
+  "block.stellaris.chiseled_venus_stone": "Різьблений венеріанський камінь",
+  "block.stellaris.polished_venus_stone": "Полірований венеріанський камінь",
+  "block.stellaris.venus_stone_bricks": "Венеріанська цегла",
+  "block.stellaris.cracked_venus_stone_bricks": "Тріснута венеріанська цегла",
+  "block.stellaris.venus_stone_pillar": "Венеріанська кам'яна колона",
+  "block.stellaris.venus_pillar": "Венеріанська колона",
+  "block.stellaris.venus_deepslate": "Венеріанський глибосланець",
+
+  "block.stellaris.venus_stone_stairs": "Венеріанські сходи",
+  "block.stellaris.venus_stone_slab": "Венеріанська плита",
+  "block.stellaris.venus_polished_stone_stairs": "Сходи із полірованого венеріанського каменю",
+  "block.stellaris.venus_polished_stone_slab": "Плита із полірованого венеріанського каменю",
+  "block.stellaris.venus_stone_brick_stairs": "Сходи із венеріанської цегли",
+  "block.stellaris.venus_stone_brick_slab": "Плита із венеріанської цегли",
+
+
+
+  "STELLARIS MERCURY WORLDGEN BLOCKS":
+  ""
+,
+
+  "block.stellaris.mercury_stone": "Меркурієвий камінь",
+  "block.stellaris.mercury_cobblestone": "Меркурієвий кругляк",
+  "block.stellaris.mercury_stone_dust": "Меркурієвий кам'яний пил",
+  "block.stellaris.chiseled_mercury_stone": "Різьблений меркурієвий камінь",
+  "block.stellaris.polished_mercury_stone": "Полірований меркурієвий камінь",
+  "block.stellaris.mercury_stone_bricks": "Меркурієва цегла",
+  "block.stellaris.cracked_mercury_stone_bricks": "Тріснута меркурієва цегла",
+  "block.stellaris.mercury_stone_pillar": "Меркурієва кам'яна колона",
+  "block.stellaris.mercury_pillar": "Меркурієва колона",
+  "block.stellaris.mercury_deepslate": "Меркурієвий глибосланець",
+
+  "block.stellaris.mercury_stone_stairs": "Меркурієві сходи",
+  "block.stellaris.mercury_stone_slab": "Меркурієва плита",
+  "block.stellaris.marcury_stone_slab": "Меркурієва плита",
+  "block.stellaris.mercury_polished_stone_stairs": "Сходи із полірованого меркурієвого каменю",
+  "block.stellaris.mercury_polished_stone_slab": "Плита із полірованого меркурієвого каменю",
+  "block.stellaris.marcury_polished_stone_slab": "Плита із полірованого меркурієвого каменю",
+  "block.stellaris.mercury_stone_brick_stairs": "Сходи із меркурієвої цегли",
+  "block.stellaris.mercury_stone_brick_slab": "Плита із меркурієвої цегли",
+
+
+
+  "STELLARIS VERTICAL SLABS":
+  ""
+,
+
+  "block.stellaris.vertical_moon_slab": "Вертикальна місячна плита",
+  "block.stellaris.vertical_mars_slab": "Вертикальна марсіанська плита",
+  "block.stellaris.vertical_venus_slab": "Вертикальна венеріанська плита",
+  "block.stellaris.vertical_mercury_slab": "Вертикальна меркурієва плита",
+
+  "block.stellaris.vertical_steel_slab": "Вертикальна сталева плита",
+  "block.stellaris.vertical_heavy_metal_slab": "Вертикальна важка металева плита",
+  "block.stellaris.vertical_heavy_metal_plate_slab": "Вертикальна плита із важкого металевого покриття",
+  "block.stellaris.vertical_steel_plating_slab": "Вертикальна плита зі сталевого покриття",
+  "block.stellaris.vertical_iron_plating_slab": "Вертикальна плита із залізного покриття",
+  "block.stellaris.vertical_desh_plating_slab": "Вертикальна плита із дешового покриття",
+  "block.stellaris.vertical_desh_slab": "Вертикальна дешова плита",
+
+
+
+  "STELLARIS GLOBES":
+  ""
+,
+
+  "block.stellaris.earth_globe": "Глобус Землі",
+  "block.stellaris.moon_globe": "Глобус Місяця",
+  "block.stellaris.mars_globe": "Глобус Марса",
+  "block.stellaris.mercury_globe": "Глобус Меркурія",
+  "block.stellaris.venus_globe": "Глобус Венери",
+
+
+
+  "STELLARIS FLUIDS":
+  ""
+,
+
+  "fluid.stellaris.oil": "Нафта",
+  "fluid.stellaris.fuel": "Паливо",
+  "fluid.stellaris.hydrogen": "Водень",
+  "fluid.stellaris.oxygen": "Кисень",
+  "fluid.stellaris.diesel": "Дизель",
+
+  "block.stellaris.oil": "Нафта",
+  "block.stellaris.fuel": "Паливо",
+  "block.stellaris.hydrogen": "Водень",
+  "block.stellaris.oxygen": "Кисень",
+  "block.stellaris.diesel": "Дизель",
+
+  "item.stellaris.oil_bucket": "Відро нафти",
+  "item.stellaris.fuel_bucket": "Відро палива",
+  "item.stellaris.hydrogen_bucket": "Відро водню",
+  "item.stellaris.diesel_bucket": "Відро дизелю",
+
+
+
+  "STELLARIS MACHINERY":
+  ""
+,
+
+  "block.stellaris.cable": "Кабель 1 рівня",
+  "block.stellaris.cable_t2": "Кабель 2 рівня",
+  "block.stellaris.cable_t3": "Кабель 3 рівня",
+
+  "block.stellaris.pipe_t1": "Труба 1 рівня",
+  "block.stellaris.pipe_t2": "Труба 2 рівня",
+  "block.stellaris.pipe_t3": "Труба 3 рівня",
+
+  "block.stellaris.rocket_launch_pad": "Майданчик для запуску ракети",
+  "block.stellaris.rocket_station": "Ракетна станція",
+
+  "block.stellaris.coal_generator": "Вугільний генератор",
+  "block.stellaris.radioactive_generator": "Радіоактивний генератор",
+  "block.stellaris.solar_panel": "Сонячна панель",
+  "block.stellaris.water_pump": "Водяна помпа",
+  "block.stellaris.water_separator": "Водний сепаратор",
+  "block.stellaris.oxygen_distributor": "Розподільник кисню",
+  "block.stellaris.vacuumator": "Вакууматор",
+  "block.stellaris.pumpjack": "Видобувна качалка",
+  "block.stellaris.fuel_refinery": "Нафтопереробник",
+  "block.stellaris.upgrade_station": "Станція вдосконалення",
+  "block.stellaris.diesel_generator": "Дизельний генератор",
+  "block.stellaris.antenna": "Антенна",
+
+  "block.stellaris.t1_bank": "Енергетичний буфер 1 рівня",
+  "block.stellaris.t2_bank": "Енергетичний буфер 2 рівня",
+  "block.stellaris.t3_bank": "Енергетичний буфер 3 рівня",
+  "block.stellaris.t4_bank": "Енергетичний буфер 4 рівня",
+
+  "block.stellaris.t1_tank": "Рідинний бак 1 рівня",
+  "block.stellaris.t2_tank": "Рідинний бак 2 рівня",
+  "block.stellaris.t3_tank": "Рідинний бак 3 рівня",
+  "block.stellaris.t4_tank": "Рідинний бак 4 рівня",
+
+  "item.stellaris.oil_finder": "Шукач нафти",
+
+  "item.stellaris.tablet": "Планшет",
+
+  "item.stellaris.battery": "Батарея",
+  "item.stellaris.fluid_cell": "Рідинна комірка",
+
+
+
+  "STELLARIS VEHICLE STUFF":
+  ""
+,
+
+  "item.stellaris.rocket": "Ракета",
+  "item.stellaris.rocket_fin": "Ракетне крило",
+  "item.stellaris.engine_fan": "Вентилятор двигуна",
+  "item.stellaris.rocket_engine": "Ракетний двигун",
+  "item.stellaris.rocket_nose_cone": "Ракетний носовий конус",
+
+  "item.stellaris.tiny_rocket_upgrade": "Крихітна модель ракети",
+  "item.stellaris.small_rocket_upgrade": "Мала модель ракети",
+  "item.stellaris.normal_rocket_upgrade": "Звичайна модель ракети",
+  "item.stellaris.big_rocket_upgrade": "Велика модель ракети",
+
+  "item.stellaris.big_fuel_tank_upgrade": "Великий паливний бак",
+
+  "item.stellaris.hydrogen_motor": "Водневий двигун",
+  "item.stellaris.radioactive_motor": "Радіоактивний двигун",
+
+  "item.stellaris.skin_normal": "Звичайний стиль ракети",
+  "item.stellaris.skin_frozy": "Морозний стиль ракети",
+  "item.stellaris.skin_rusty": "Іржавий стиль ракети",
+  "item.stellaris.skin_military": "Військовий стиль ракети",
+  "item.stellaris.skin_galaxy": "Космічний стиль ракети",
+
+  "item.stellaris.rover": "Ровер",
+
+  "item.stellaris.speed_upgrade": "Покращення швидкості",
+
+
+
+  "STELLARIS ARMOR/SUITS":
+  ""
+,
+
+  "item.stellaris.space_suit_chestplate": "Нагрудник космічного скафандра",
+  "item.stellaris.space_suit_helmet": "Шолом космічного скафандра",
+  "item.stellaris.space_suit_leggings": "Штани космічного скафандра",
+  "item.stellaris.space_suit_boots": "Чоботи космічного скафандра",
+
+  "item.stellaris.jet_suit_boots": "Чоботи реактивного костюма",
+  "item.stellaris.jet_suit_leggings": "Штани реактивного костюма",
+  "item.stellaris.jet_suit_chestplate": "Нагрудник реактивного костюма",
+  "item.stellaris.jet_suit_helmet": "Шолом реактивного костюма",
+
+  "item.stellaris.jetsuit_helmet": "Шолом реактивного костюма",
+  "item.stellaris.jetsuit_leggings": "Штани реактивного костюма",
+  "item.stellaris.jetsuit_boots": "Чоботи реактивного костюма",
+  "item.stellaris.jetsuit_suit": "Нагрудник реактивного костюма",
+  "item.stellaris.base_module_tier_1": "Базовий модуль 1 рівня",
+  "item.stellaris.base_module_tier_2": "Базовий модуль 2 рівня",
+
+  "item.stellaris.fuel_module": "Паливний модуль",
+  "item.stellaris.oil_finder_module": "Модуль пошуку нафти",
+  "item.stellaris.auto_feeder_module": "Модуль автогодування",
+  "item.stellaris.gravity_normalizer_module": "Модуль нормалізації гравітації",
+  "item.stellaris.jet_module": "Реактивний модуль",
+  "item.stellaris.energy_module": "Енергетичний модуль",
+
+
+  "STELLARIS TOOLS/WEAPONS":
+  ""
+,
+
+  "item.stellaris.steel_sword": "Сталевий меч",
+  "item.stellaris.steel_axe": "Сталева сокира",
+  "item.stellaris.steel_pickaxe": "Сталеве кайло",
+  "item.stellaris.steel_hoe": "Сталева мотика",
+  "item.stellaris.steel_shovel": "Сталева лопата",
+
+  "item.stellaris.ice_shard_arrow": "Стріла із льодяного уламка",
+
+
+
+  "STELLARIS FOODS":
+  ""
+,
+
+  "item.stellaris.cannon_steak": "Консервований стейк",
+  "item.stellaris.cosmo_bread": "Консервований хліб",
+  "item.stellaris.cheese": "Сир",
+  "block.stellaris.cheese_block": "Блок сиру",
+  "item.stellaris.cosmo_coffee": "Космічна кава",
+  "item.stellaris.coffee_cup": "Чашка кави",
+  "item.stellaris.moon_fruit": "Місячний плід",
+  "item.stellaris.mars_fruit": "Марсіанський плід",
+
+  "item.stellaris.big_blue_can": "Синя банка",
+  "item.stellaris.big_green_can": "Зелена банка",
+  "item.stellaris.big_purple_can": "Фіолетова банка",
+  "item.stellaris.big_red_can": "Червона банка",
+  "item.stellaris.big_yellow_can": "Жовта банка",
+
+  "item.stellaris.small_blue_can": "Маленька синя банка",
+  "item.stellaris.small_green_can": "Маленька зелена банка",
+  "item.stellaris.small_purple_can": "Маленька фіолетова банка",
+  "item.stellaris.small_red_can": "Маленька червона банка",
+  "item.stellaris.small_yellow_can": "Маленька жовта банка",
+
+  "item.stellaris.moon_berries": "Місячна ягода",
+
+
+
+  "STELLARIS MISCELLANEOUS ITEMS AND BLOCKS":
+  ""
+,
+
+  "block.stellaris.flag": "Прапор",
+
+  "block.stellaris.meteorite": "Метеорит",
+
+  "block.stellaris.coal_lantern": "Вугільний ліхтар",
+  "block.stellaris.coal_torch": "Вугільний смолоскип",
+
+  "item.stellaris.oxygen_tank": "Кисневий балон",
+  "item.stellaris.big_oxygen_tank": "Великий кисневий балон",
+
+  "item.stellaris.pumpjack_drill": "Бур видобувної качалки",
+
+  "item.stellaris.raw_steel_ingot": "Злиток необробленої сталі",
+  "item.stellaris.raw_desh_ingot": "Злиток необробленого дешу",
+  "item.stellaris.ice_shard": "Льодяний уламок",
+  "item.stellaris.raw_uranium": "Необроблений уран",
+
+
+
+  "STELLARIS ENTITIES":
+  ""
+,
+
+  "item.stellaris.alien_spawn_egg": "Яйце виклику прибульця",
+  "item.stellaris.alien_zombie_spawn_egg": "Яйце виклику зомбованого прибульця",
+  "item.stellaris.star_crawler_spawn_egg": "Яйце виклику зоряного повзуна",
+  "item.stellaris.martian_raptor_spawn_egg": "Яйце виклику марсіанського хижака",
+  "item.stellaris.pygro_spawn_egg": "Яйце виклику піґро",
+  "item.stellaris.pygro_brute_spawn_egg": "Яйце виклику брутального піґро",
+  "item.stellaris.mogler_spawn_egg": "Яйце виклику моґлера",
+
+  "container.entity.stellaris.lander": "Посадковий апарат",
+  "container.entity.stellaris.rocket": "Ракета",
+  "entity.stellaris.cheese_boss": "Сирний Босс",
+  "entity.stellaris.lander": "Посадковий модуль",
+  "entity.stellaris.big_rocket": "Модуль ракети MK4",
+  "entity.stellaris.normal_rocket": "Модуль ракети MK3",
+  "entity.stellaris.tiny_rocket": "Модуль ракети MK1",
+  "entity.stellaris.small_rocket": "Модуль ракети MK2",
+  "entity.stellaris.ice_shard_arrow": "Стріла з крижаним уламком",
+  "entity.stellaris.cheese_spit": "Сирний плювок",
+  "entity.stellaris.alien": "Прибулець",
+  "entity.stellaris.alien_zombie": "Зомбі-прибулець",
+  "entity.stellaris.mogler": "Моґлер",
+  "entity.stellaris.martian_raptor": "Марсіанський хижак",
+  "entity.stellaris.pygro": "Піґро",
+  "entity.stellaris.pygro_brute": "Брутальний піґро",
+  "entity.stellaris.alien.none": "Alien",
+  "entity.stellaris.star_crawler": "Зоряний повзун",
+
+  "STELLARIS ADVANCEMENTS":
+  ""
+,
+
+  "advancements.moon.root.title": "Один маленький крок для людини...",
+  "advancements.moon.root.description": "Приземліться на Місяці",
+  "advancements.mars.root.title": "Червона пустеля",
+  "advancements.mars.root.description": "Приземліться на Марсі.",
+  "advancements.venus.root.title": "Венера, богиня кохання та краси",
+  "advancements.venus.root.description": "Приземліться на Венері.",
+  "advancements.mercury.root.title": "Занадто гаряче для мене!",
+  "advancements.mercury.root.description": "Приземліться на Меркурії.",
+
+  "advancements.stellaris.rocket_station.description": "Створіть ракетну станцію.",
+  "advancements.stellaris.rocket_station.title": "Верстак іншого типу",
+
+  "advancements.stellaris.oil.description": "Знайдіть нафту.",
+  "advancements.stellaris.oil.title": "Хтось сказав нафта?!",
+  "advancements.stellaris.root.title": "Якийсь дивний метал...",
+  "advancements.stellaris.root.description": "Знайдіть сталь.",
+  "advancements.stellaris.rocket.description": "Створіть ракету.",
+  "advancements.stellaris.rocket.title": "Унеси мене на Місяць!",
+
+
+
+  "STELLARIS EFFECTS":
+  ""
+,
+
+  "effect.stellaris.radioactive": "Радіоактивність",
+  "effect.stellaris.sandstorm": "Піщана буря",
+
+
+
+  "STELLARIS DAMAGE TYPES":
+  ""
+,
+
+  "death.attack.radiation": "%1$s отримав смертельну дозу радіації",
+  "death.attack.oxygen": "%1$s помер від нестачі кисню",
+
+
+
+  "STELLARIS PLANET SCREEN":
+  ""
+,
+
+  "solar_system": "Сонячна система",
+  "text.stellaris.planetscreen.sun": "Сонце",
+  "text.stellaris.planetscreen.mercury": "Меркурій",
+  "text.stellaris.planetscreen.venus": "Венера",
+  "text.stellaris.planetscreen.earth": "Земля",
+  "text.stellaris.planetscreen.moon": "Місяць",
+  "text.stellaris.planetscreen.mars": "Марс",
+  "text.stellaris.planetscreen.phobos": "Фобос",
+  "text.stellaris.planetscreen.deimos": "Деймос",
+  "text.stellaris.planetscreen.asteroid_belt": "Пояс астероїдів",
+  "text.stellaris.planetscreen.jupiter": "Юпітер",
+  "text.stellaris.planetscreen.saturn": "Сатурн",
+  "text.stellaris.planetscreen.uranus": "Уран",
+  "text.stellaris.planetscreen.neptune": "Нептун",
+  "text.stellaris.planetscreen.kuiper_belt": "Пояс Койпера",
+  "text.stellaris.planetscreen.space": "Натисніть [Space] для паузи",
+  "text.stellaris.planetscreen.returntogalaxy": "Змінити галактику",
+  "text.stellaris.galaxyscreen.milkyway": "Чумацький шлях",
+
+
+
+  "STELLARIS CATEGORIES":
+  ""
+,
+
+  "categorie.stellaris.main": "Stellaris: Головне",
+  "categorie.stellaris_blocks.main": "Stellaris: Блоки",
+  "category.stellaris.default": "Stellaris",
+  "key.stellaris.rocket_start": "Запустити ракету",
+  "key.stellaris.freeze_planet_menu": "Призупинити обертання планет",
+  "key.stellaris.jetsuit_mode": "Реактивний режим скафандра",
+  "key.stellaris.rocket_crafting_mode": "Режим конструювання ракети",
+  "key.stellaris.slow_lander": "Повільне приземлення",
+  "key.stellaris.tablet_info": "Інформація планшета",
+
+
+
+  "STELLARIS EVENTS":
+  ""
+,
+
+  "event.stellaris.cheeseboss": "Сирний бос",
+
+
+
+  "UNSORTED":
+  ""
+,
+
+  "jetsuit.stellaris.oxygen": "§7Кисень: §8%s",
+  "general.stellaris.jet_suit_mode": "Режим",
+  "general.stellaris.jet_suit_disabled_mode": "Відключено",
+  "general.stellaris.jet_suit_normal_mode": "Звичайний",
+  "general.stellaris.jet_suit_hover_mode": "Зависання",
+  "general.stellaris.jet_suit_elytra_mode": "Елітри",
+  "general.stellaris.jet_suit_fuel": "Паливо",
+
+  "text.stellaris.planetscreen.temperature": "Темп.",
+  "text.stellaris.planetscreen.gravity": "Гравітація",
+  "text.stellaris.planetscreen.oxygen": "Кисень",
+  "text.stellaris.planetscreen.launch": "Запустити!",
+  "text.stellaris.planetscreen.system": "Планетна Система",
+  "text.stellaris.planetscreen.error_message": "Ви не можете дістатися до цього небесного тіла",
+
+  "text.stellaris.rocketscreen.fuel": "Місткість палива",
+
+  "text.stellaris.planetscreen.press_space": "Для паузи натисніть Пробіл",
+  "text.stellaris.planetscreen.arrows": "Обирайте планети клавішами стрілок",
+  "text.stellaris.planetscreen.help": "Для приховання інформації натисніть H",
+  "text.stellaris.waitscreen": "Очікування, поки %s вибере місце!",
+
+  "gauge_text.stellaris.stored": "Збережено: %s",
+  "gauge_text.stellaris.capacity": "Місткість: %s",
+  "screen.stellaris.gauge": "Місткість: %1$s / %2$s",
+  "gauge_text.stellaris.max_generation": "Макс. генерація : %s Fe/такт",
+
+  "stellaris.screen.oil": "Нафта",
+  "stellaris.screen.fuel": "Паливо",
+  "stellaris.screen.water": "Вода",
+  "stellaris.screen.hydrogen": "Водень",
+  "stellaris.screen.oxygen": "Кисень",
+  "stellaris.screen.energy": "Енергія",
+  "stellaris.screen.energyContainer": "Енергія",
+  "stellaris.screen.diesel": "Дизель",
+  "stellaris.screen.empty_fluid": "Порожньо",
+
+  "screen.stellaris.power_bank": "Енергетичний буфер",
+  "screen.stellaris.fluid_tank": "Рідинний бак",
+
+  "stellaris.compat.rocket_crafting": "Конструювання ракети",
+  "general.stellaris.rocket_crafting_mode": "Режим",
+  "general.stellaris.rocket_crafting_fuel": "Паливо",
+  "general.stellaris.rocket_crafting_disabled_mode": "Вимкнено",
+  "general.stellaris.rocket_crafting_normal_mode": "Звичайний",
+
+  "message.stellaris.speed": "Швидкість: %s",
+  "text.stellaris.rocket.fuel": "Вам потрібно покласти %s в ракету, щоб мати можливість летіти",
+  "message.stellaris.lander": "§4⚠ Попередження §r | Натисніть пробіл, щоб уповільнитися!",
+  "message.stellaris.not_owner_of_launch_pad": "§4Ви не можете використовувати цей стартовий майданчик, ви не є його власником!",
+  "message.stellaris.launchpad_share_success": "Додано %s до білого списку стартового майданчика %s.",
+  "message.stellaris.launchpad_share_yourself": "Ви не можете ділитися своїм стартовим майданчиком із собою.",
+  "message.stellaris.launchpad_not_yours": "Цей стартовий майданчик не ваш.",
+  "message.stellaris.launchpad_dont_exist": "Цього стартового майданчика не існує.",
+
+  "tooltip.item.stellaris.can.empty": "Порожньо",
+  "tooltip.item.stellaris.can.nutrition": "Поживність: %s/%s",
+  "tooltip.item.stellaris.can.saturation": "Насиченість: %s",
+  "tooltip.item.stellaris.oxygen_tank": "🫧 Кисень: §e%s§r§f/§r§e%s§rмб",
+  "tooltip.item.stellaris.rocket.skin": "Стиль: %s",
+  "tooltip.item.stellaris.rocket.fuel": "🌢 Паливо: %s",
+  "tooltip.item.stellaris.rocket.model": "Розмір: %s",
+  "tooltip.item.stellaris.energy": "⚡ Енергія: §e%s§r§f/§r§e%s§r FE",
+  "tooltip.item.stellaris.oil_finder": "Клацніть ПКМ по блоку, щоб перевірити наявність нафти",
+  "tooltip.item.stellaris.open_tablet": "§7Для більшої інформації натисніть §8[§c%s§8]",
+  "tooltip.item.stellaris.diesel": "🌢 Дизель: %s",
+
+  "stellaris.screen.tablet.rocket_launched": "Запущено ракет: %s",
+  "stellaris.screen.tablet.space_traveled": "Кілометрів подолано: %s",
+  "stellaris.screen.tablet.boss_killed": "Босів вбито: %s",
+
+  "translatable.stellaris.registry.holdshift": "Утримуйте [↑ Shift] щоб відобразити деталі.",
+  "translatable.stellaris.registry.player": "Гравець",
+  "translatable.stellaris.registry.players": "гравець",
+  "translatable.stellaris.registry.moons": "§7§l☾ §r§7місяці",
+
+  "tag.item.c.axes": "Сокири",
+  "tag.item.c.arrows": "Стріли",
+  "tag.item.c.crops": "Культури",
+
+  "tag.item.c.raw_materials.desh": "Необроблений деш",
+  "tag.item.c.raw_materials.neptunium": "Необроблений нептуній",
+  "tag.item.c.raw_materials.steel": "Необроблена сталь",
+  "tag.item.c.raw_materials.uranium": "Необроблений уран",
+  "tag.item.c.ore_blocks.steel": "Блок сталі",
+  "tag.item.c.nuggets.steel": "Сталевий самородок",
+  "tag.item.c.nuggets.heavy_metal": "Важкий металевий самородок",
+  "tag.item.c.nuggets.plutonium": "Плутонієвий самородок",
+
+  "tag.item.c.ingots.steel": "Сталеві злитки",
+  "tag.item.c.ingots.heavy_metal": "Важкі металічні злитки",
+  "tag.item.c.ingots.plutonium": "Плутонієві злитки",
+  "tag.item.c.ingots.neptunium": "Нептунієві злитки",
+  "tag.item.c.ingots.uranium": "Уранові злитки",
+  "tag.item.c.ingots.desh": "Дешові злитки",
+  "tag.item.c.storage_blocks.raw_steel": "Блок необробленої сталі",
+  "tag.item.c.storage_blocks.raw_uranium": "Блок уранової сталі",
+
+  "tag.block.c.ores.desh": "Дешові руди",
+  "tag.block.c.ores.ostrum": "Острумові руди",
+  "tag.block.c.ores.uranium": "Уранові руди",
+  "tag.block.c.ores.steel": "Сталеві руди",
+  "tag.block.c.ores.neptunium": "Нептунієві руди",
+
+  "tag.item.stellaris.can": "Консерви",
+  "tag.item.stellaris.space_food": "Космічна їжа",
+  "tag.item.stellaris.rocket_skin": "Стилі ракет",
+  "tag.item.stellaris.coal_generator_fuel": "Паливо вугільного генератора",
+
+  "spacesuit.stellaris.auto_feeder": "Автогодувальник",
+  "spacesuit.stellaris.energy_module": "Енергетичний модуль",
+  "spacesuit.stellaris.fuel_module": "Паливний модуль",
+  "spacesuit.stellaris.jet_module": "Реактивний модуль",
+  "spacesuit.stellaris.gravity_normalizer": "Нормалізатор гравітації",
+  "spacesuit.stellaris.oil_finder": "Шукач нафти",
+  "spacesuit.stellaris.shift_for_modules": "Утримуйте Shift для списку модулів",
+  "spacesuit.stellaris.modules": "Модулі",
+  "container.stellaris.upgrade": "Вдосконалення",
+
+  "stat.minecraft.space_traveled": "Космічних подорожей",
+  "stat.minecraft.rocket_launched": "Запущено ракет",
+
+  "biome.stellaris.infernal_venus_barrens": "Пекельна венеріанська околиця",
+  "biome.stellaris.mars_desert": "Марсіанська пустеля",
+  "biome.stellaris.mars_ice_spikes": "Марсіанські крижані шпилі",
+  "biome.stellaris.mars_rocky_plains": "Марсіанські кам'янисті рівнини",
+  "biome.stellaris.mercury": "Меркурій",
+  "biome.stellaris.mercury_fire_land": "Вогненні землі Меркурія",
+  "biome.stellaris.moon_caves": "Місячні печери",
+  "biome.stellaris.moon_desert": "Місячна пустеля",
+  "biome.stellaris.venus_desert": "Венеріанська пустеля",
+
+  "station.stellaris.space_station_small": "Маленька космічна станція",
+  "station.stellaris.space_station_big": "Велика космічна станція",
+  "station.stellaris.space_station_medium": "Середня космічна станція",
+
+  "CONFIG": "",
+
+  "config.stellaris.oilConfig": "Налаштування нафти",
+
+  "config.stellaris.chunkOilChance": "Шанс нафти в чанку",
+  "config.stellaris.chunkOilChance.desc": "Шанс того, що в чанку буде нафта.",
+
+
+  "config.stellaris.minOil": "Мінімум нафти",
+  "config.stellaris.minOil.desc": "Мінімальна кількість нафти в нафтовому чанку. Буде помножено на 100.",
+
+  "config.stellaris.maxOil": "Максимум нафти",
+  "config.stellaris.maxOil.desc": "Максимальна кількість нафти в нафтовому чанку. Буде помножено на 100.",
+
+  "config.stellaris.gravityConfig": "Налаштування гравітації",
+
+  "config.stellaris.customEntityGravity": "Власна гравітація сутностей",
+  "config.stellaris.customEntityGravity.desc": "Чи повинні сутності піддаватися гравітації планет?",
+
+  "config.stellaris.customItemGravity": "Власна гравітація предметів",
+  "config.stellaris.customItemGravity.desc": "Чи повинні предмети піддаватися гравітації планет?",
+
+  "config.stellaris.oxygenConfig": "Налаштування кисню",
+
+  "config.stellaris.enableOxygenSystem": "Система кисню",
+  "config.stellaris.enableOxygenSystem.desc": "Увімкнення (true), або вимкнення (false) системи кисню. Усталено true.",
+
+  "config.stellaris.oxygenCheckInterval": "Інтервал перевірки кисню",
+  "config.stellaris.oxygenCheckInterval.desc": "Проміжок часу у тактах, через який відбувається перевірка кисню. Усталено 20 тактів (1 секунда).",
+
+  "config.stellaris.maxOxygenRoomSize": "Максимальний розмір окисненого приміщення",
+  "config.stellaris.maxOxygenRoomSize.desc": "Максимальний розмір приміщення, яке можна заповнити киснем. Усталено 32 блоки.",
+
+  "config.stellaris.oxygenDamage": "Шкода від кисню",
+  "config.stellaris.oxygenDamage.desc": "Шкода, яку отримують сутності кожну секунду, коли немає кисню. Усталено 2 (1 серце).",
+
+
+
+  "config.stellaris.dieselGeneratorFuelTime" : "Час роботи дизельного генератора",
+  "config.stellaris.dieselGeneratorFuelTime.desc": "Час у тактах, протягом якого дизельний генератор опрацьовує 10 мВ дизелю.",
+
+  "config.stellaris.rocketTpHeight": "Висота телепортації ракети",
+  "config.stellaris.rocketTpHeight.desc": "Висота, на якій ракета відкриває екран телепортації. Усталено 600 блоків.",
+
+  "config.stellaris.orbitTeleportationYCoord": "Координата Y телепортації на орбіті",
+  "config.stellaris.orbitTeleportationYCoord.desc": "Координата Y, на яку буде телепортовано гравця при використанні функції телепортації на орбіту.",
+
+  "config.stellaris.radiationCheckInterval": "Інтервал перевірки радіації",
+  "config.stellaris.radiationCheckInterval.desc": "Проміжок часу у тактах, через який відбувається перевірка радіації. Усталено 100 тактів (5 секунд)."
+}

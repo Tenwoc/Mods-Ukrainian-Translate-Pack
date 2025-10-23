@@ -1,10 +1,10 @@
 {
   "itemGroup.extradisks": "Extra Disks",
 
-  "item.extradisks.advanced_storage_housing": "Просунутий корпус диска",
+  "item.extradisks.advanced_storage_housing": "Вдосконалений корпус диска",
   "item.extradisks.raw_withering_processor": "Необроблений висушений процесор",
   "item.extradisks.withering_processor": "Висушений процесор",
-  "block.extradisks.advanced_machine_casing": "Просунутий корпус машини",
+  "block.extradisks.advanced_machine_casing": "Вдосконалений корпус машини",
 
   "_comment": "Предмети",
   "item.extradisks.256k_storage_part": "Компонент зберігання 256k",
