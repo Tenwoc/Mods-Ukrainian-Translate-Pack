@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: Extended Inscriber
+    title: Розширений штампувальний прес
     icon: extendedae:ex_inscriber
 categories:
 - extended devices
@@ -9,16 +9,16 @@ item_ids:
 - extendedae:ex_inscriber
 ---
 
-# Extended Inscriber
+# Розширений штампувальний прес
 
 <Row gap="20">
 <BlockImage id="extendedae:ex_inscriber" scale="8"></BlockImage>
 </Row>
 
-Extended Inscriber is an advanced <ItemLink id="ae2:inscriber" />.
+Розширений штампувальний прес — це розширений <ItemLink id="ae2:inscriber" />.
 
-It can run 4 inscribing jobs at the same time.
+Він може виконувати 4 обробки одночасно.
 
-There is button that allows you to change the max stack size of its inventory like the normal one.
+Є кнопка, яка дозволяє змінити максимальний розмір стосу інвентарю, як і у звичайному.
 
-It is suggested to set stack size to 1 when using it with <ItemLink id="ae2:pattern_provider" /> to avoid possible issues.
+Рекомендується встановити розмір стосу на 1, коли використовується <ItemLink id="ae2:pattern_provider" />, щоб уникнути можливих проблем.

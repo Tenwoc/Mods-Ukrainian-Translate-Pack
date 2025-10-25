@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Canner
+    title: ME Герметизатор
     icon: extendedae:caner
 categories:
 - extended devices
@@ -9,50 +9,50 @@ item_ids:
 - extendedae:caner
 ---
 
-# ME Canner
+# ME Герметизатор
 
 <BlockImage id="extendedae:caner" scale="8"></BlockImage>
 
-ME Canner is a machine that "canning" stuffs, including fluids, Mekanism gas, Botania mana and even Energy!
+ME Герметизатор – це машина, яка «консервує» речі, включаючи рідини, гази Mekanism, ману Botania та навіть енергію!
 
-The first slot is for what to fill, and the second slot is for what to be filled.
+Перший слот призначений для речовини до наповнення, а другий – для контейнера до цієї речовини.
 
-It needs energy to run and every operation costs 80 AE.
+Для роботи потрібна енергія, і кожна операція коштує 80 AE.
 
 ![GUI](../pic/caner_gui.png)
 
-It only fills fluids by default, you need to install corresponding addon to make it fill other stuffs.
+Усталено він наповнює лише рідини, але зі встановленням аддонів він буде здатний наповнювати й інші речовини.
 
-### Support addons:
+### Підтримувані аддони:
 - Applied Flux
 - Applied Mekanistics
 - Applied Botanics Addon
 
-## Autocrafting with ME Caner
+## Автовироблення із МЕ Герметизатором
 
-Only the top and bottom side can accept energy and connect to network.
+Тільки верхня та нижня сторони можуть приймати енергію та підключатися до мережі.
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../structure/caner_example.snbt"></ImportStructure>
 </GameScene>
 
-A simple setup for ME Canner. ME Canner will auto eject the filled item when it accepts the ingredients from <ItemLink id="ae2:pattern_provider" />.
+Проста установка для герметизатора. ME Герметизатор автоматично вилучить заповнений предмет, коли <ItemLink id="ae2:pattern_provider" /> передасть йому інгредієнти.
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../structure/caner_auto.snbt"></ImportStructure>
 </GameScene>
 
-The pattern must only contain the stuff to fill and the container to be filled. Here are some examples:
+Шаблон повинен містити лише речі до наповнення та контейнер, який потрібно наповнити. Ось кілька прикладів:
 
-Fill water bucket:
+Наповнення відра водою:
 
 ![P1](../pic/fill_water.png)
 
-Empower Energy Tablet (Need Applied Flux installed):
+Підзарядка планшета енергії (з аддоном Applied Flux):
 
 ![P1](../pic/fill_energy.png)
 
 
-## Uncanning
+## Спорожнення
 
-ME Canner also can drain stuffs from container in Empty mode. You need to switch the inputs and outputs in pattern.
+ME Герметизатор також може зливати речі з контейнерів в режимі спорожнювання — для цього вам потрібно у шаблоні поміняти місцями інгредієнти та результат.

@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Extended Pattern Provider
+    title: МЕ Розширений постачальник шаблонів
     icon: extendedae:ex_pattern_provider
 categories:
 - extended devices
@@ -10,7 +10,7 @@ item_ids:
 - extendedae:ex_pattern_provider_part
 ---
 
-# ME Extended Pattern Provider
+# МЕ Розширений постачальник шаблонів
 
 <Row gap="20">
 <BlockImage id="extendedae:ex_pattern_provider" scale="8"></BlockImage>
@@ -20,9 +20,8 @@ item_ids:
 </GameScene>
 </Row>
 
-ME Extended Pattern Provider is a <ItemLink id="ae2:pattern_provider" /> with a larger 
-pattern inventory.
+МЕ Розширений постачальник шаблонів - це <ItemLink id="ae2:pattern_provider" /> із більшою місткістю для шаблонів.
 
-*Who need subnet when you can put all patterns in one block.*
+*Кому потрібна підмережа, якщо можна помістити всі шаблони в один блок?*
 
 ![EPPGui](../pic/epp_gui.png)

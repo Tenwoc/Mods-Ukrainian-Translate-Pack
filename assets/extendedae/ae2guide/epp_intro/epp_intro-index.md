@@ -1,23 +1,23 @@
 ---
 navigation:
-    title: Extended AE Introduction
+    title: Extended AE
     position: 60
 ---
 
-# Extended Your AE setup!
+# Розширте свою AE мережу!
 
-Extended AE brings some 1.7.10/1.12.2 AE features back for modern AE.
+Extended AE повертає деякі функції з AE 1.7.10/1.12.2 назад у сучасний AE.
 
 [Extended AE GitHub](https://github.com/GlodBlock/ExtendedAE) 
 
-## Entro Crystal System
+## Система ентропійних кристалів
 <CategoryIndex category="entro system"></CategoryIndex>
 
-## Extended Foundation
+## Розширення основ
 <CategoryIndex category="extended foundation"></CategoryIndex>
 
-## Extended Devices
+## Розширені прилади
 <CategoryIndex category="extended devices"></CategoryIndex>
 
-## Extended Items
+## Розширені предмети
 <CategoryIndex category="extended items"></CategoryIndex>

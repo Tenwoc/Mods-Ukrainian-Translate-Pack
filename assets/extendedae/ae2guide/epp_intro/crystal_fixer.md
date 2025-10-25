@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Crystal Fixer
+    title: МЕ Відновлювач кристалів
     icon: extendedae:crystal_fixer
 categories:
 - extended devices
@@ -9,13 +9,13 @@ item_ids:
 - extendedae:crystal_fixer
 ---
 
-# ME Crystal Fixer
+# МЕ Відновлювач кристалів
 
 <BlockImage id="extendedae:crystal_fixer" scale="8"></BlockImage>
 
-ME Crystal Fixer can repair budding certus block and turn it to the upgraded one.
+МЕ Відновлювач кристалів може відновлювати родючі блоки кристалів, поступово підвищуючи їхню якість.
 
-It needs <ItemLink id="ae2:charged_certus_quartz_crystal" /> and power to work. Right-click it with <ItemLink id="ae2:charged_certus_quartz_crystal" /> to input.
+Для відновлення родючого істинного кварцу йому потрібен <ItemLink id="ae2:charged_certus_quartz_crystal" /> та заживлення енергією. Клацніть по ньому ПКМ, тримаючи <ItemLink id="ae2:charged_certus_quartz_crystal" /> для вставки.
 
 <Row gap="20">
 <GameScene zoom="4" background="transparent">

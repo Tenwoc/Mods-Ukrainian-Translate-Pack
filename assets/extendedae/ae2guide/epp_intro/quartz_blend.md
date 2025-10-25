@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: epp_intro/epp_intro-index.md
-  title: Quartz Blend
+  title: Кварцова суміш
   icon: extendedae:quartz_blend
 categories:
   - extended foundation
@@ -9,12 +9,11 @@ item_ids:
   - extendedae:quartz_blend
 ---
 
-# Quartz Blend
+# Кварцова суміш
 
 <Row>
 <ItemImage id="extendedae:quartz_blend" scale="4"></ItemImage>
 </Row>
 
-A mixture of quartz, coal and sands. It can be smelt into more <ItemLink id="ae2:silicon" />s than directly smelting 
-certus quartz dusts.
+Суміш кварцу, вугілля та піску. Її можна перетопити у <ItemLink id="ae2:silicon" /> у більших кількостях, ніж при прямому витопленні істинного кварцового пилу.
 

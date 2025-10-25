@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Extended Interface
+    title: МЕ Розширений інтерфейс
     icon: extendedae:ex_interface
 categories:
 - extended devices
@@ -10,7 +10,7 @@ item_ids:
 - extendedae:ex_interface_part
 ---
 
-# ME Extended Interface
+# МЕ Розширений інтерфейс
 
 <Row gap="20">
 <BlockImage id="extendedae:ex_interface" scale="8"></BlockImage>
@@ -19,8 +19,8 @@ item_ids:
 </GameScene>
 </Row>
 
-ME Extended Interface is a <ItemLink id="ae2:interface" /> with a larger config inventory.
+МЕ Розширений інтерфейс — це <ItemLink id="ae2:interface" /> із більшою місткістю.
 
-*Am I actually need this?*
+*Мені дійсно це потрібно?*
 
 ![EIGui](../pic/ei_gui.png)

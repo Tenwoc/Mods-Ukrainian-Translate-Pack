@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Active Formation Plane
+    title: ME Активна площина формування
     icon: extendedae:active_formation_plane
 categories:
 - extended devices
@@ -9,13 +9,12 @@ item_ids:
 - extendedae:active_formation_plane
 ---
 
-# ME Active Formation Plane
+# ME Активна площина формування
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../structure/cable_active_formation_plane.snbt"></ImportStructure>
 </GameScene>
 
-ME Active Formation Plane is a <ItemLink id="ae2:formation_plane" /> that can place block or drop items actively.
+ME Активна площина формування — це <ItemLink id="ae2:formation_plane" />, яка здатна розміщувати або скидати блоки самостійно.
 
-You don't need to set up a subnet for it. It works like an <ItemLink id="ae2:export_bus" /> but place block instead of
-outputting it to a chest.
+Для неї не потрібно встановлювати підмережу, вона працює як <ItemLink id="ae2:export_bus" />, просто «переміщує» речі шляхом їх розміщення чи скидання.

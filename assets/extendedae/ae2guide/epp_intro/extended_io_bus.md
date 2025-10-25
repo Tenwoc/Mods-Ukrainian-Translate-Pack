@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Extended Export/Import Bus
+    title: МЕ Розширена шина імпорту/експорту
     icon: extendedae:ex_import_bus_part
 categories:
 - extended devices
@@ -10,7 +10,7 @@ item_ids:
 - extendedae:ex_export_bus_part
 ---
 
-# ME Extended Import/Export Bus
+# МЕ Розширена шина імпорту/експорту
 
 <Row gap="20">
 <GameScene zoom="8" background="transparent">
@@ -21,8 +21,7 @@ item_ids:
 </GameScene>
 </Row>
 
-ME Extended Import/Export Bus works faster than the normal <ItemLink id="ae2:import_bus" />/<ItemLink id="ae2:export_bus" />
-(Default speed multiplier is 8. It is configurable).
+МЕ Розширена шина імпорту/експорту працює швидше, ніж звичайні <ItemLink id="ae2:import_bus" />/<ItemLink id="ae2:export_bus" />
+(Усталений множник швидкості - 8. Цей параметр можна конфігурувати).
 
-They also have more upgrade slots compared with the normal ones.
-
+Вона також має більше слотів для модифікаторів порівняно зі звичайними шинами.

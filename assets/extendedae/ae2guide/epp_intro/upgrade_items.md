@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Device Upgrades
+    title: Вдосконалення МЕ пристроїв
     icon: extendedae:pattern_provider_upgrade
 categories:
 - extended items
@@ -13,9 +13,9 @@ item_ids:
 - extendedae:drive_upgrade
 ---
 
-# ME Device Upgrades
+# Вдосконалення МЕ пристроїв
 
-These upgrades allow you to replace normal ME devices with their extended version without breaking them.
+Ці покращення дозволяють замінити звичайні пристрої ME на їх розширену версію, без потреби перерозміщувати їх.
 
 <Row>
 <ItemImage id="extendedae:pattern_provider_upgrade" scale="4"></ItemImage>
@@ -25,27 +25,26 @@ These upgrades allow you to replace normal ME devices with their extended versio
 <ItemImage id="extendedae:drive_upgrade" scale="4"></ItemImage>
 </Row>
 
-Sneak + Right Mouse Click on these devices, they will be turned into their extended version. All device settings and inventory
-will be kept.
+Клацніть ПКМ крадькома на цих пристроях, щоб перетворити їх на їхні розширені версії. При цьому усі конфігурації пристроїв та інвентар будуть збережені.
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../structure/upgrade_show_1.snbt"></ImportStructure>
   <BoxAnnotation color="#ffffff" min="1 0 0" max="4 1 1">
-        The normal Pattern Providers. You can upgrade them with Pattern Provider Upgrade.
+        Звичайні постачальники шаблонів. Ви можете оновити їх за допомогою вдосконалення постачальника шаблонів.
         <ItemImage id="extendedae:pattern_provider_upgrade" scale="2"></ItemImage>
   </BoxAnnotation>
 </GameScene>
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../structure/upgrade_show_2.snbt"></ImportStructure>
   <BoxAnnotation color="#ffffff" min="1 0 0" max="4 1 1">
-        The Extended Pattern Providers keep all settings and pattern inventory from origin Pattern Providers
+        Розширений постачальник шаблонів зберіг усі налаштування та інвентар шаблонів після модернізації
   </BoxAnnotation>
 </GameScene>
 
-## Upgrade List
+## Список покращень
 
-|                                      Upgrade                                      |                           Normal Device                            |                                  Extended Device                                  |
-|:---------------------------------------------------------------------------------:|:------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+|                                Вдосконалення                                |                        Цільовий пристрій                         |                             Розширений пристрій                             |
+|:--------------------------------------------------------------------------:|:------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
 | <ItemImage id="extendedae:pattern_provider_upgrade" scale="3"></ItemImage> |    <ItemImage id="ae2:pattern_provider" scale="3"></ItemImage>     |   <ItemImage id="extendedae:ex_pattern_provider" scale="3"></ItemImage>    |
 | <ItemImage id="extendedae:pattern_provider_upgrade" scale="3"></ItemImage> | <ItemImage id="ae2:cable_pattern_provider" scale="3"></ItemImage>  | <ItemImage id="extendedae:ex_pattern_provider_part" scale="3"></ItemImage> |
 |    <ItemImage id="extendedae:interface_upgrade" scale="3"></ItemImage>     |        <ItemImage id="ae2:interface" scale="3"></ItemImage>        |       <ItemImage id="extendedae:ex_interface" scale="3"></ItemImage>       |

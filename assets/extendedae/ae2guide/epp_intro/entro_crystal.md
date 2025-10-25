@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: Entro Crystal
+    title: Ентропійний кристал
     icon: extendedae:entro_crystal
 categories:
 - entro system
@@ -9,14 +9,12 @@ item_ids:
 - extendedae:entro_crystal
 ---
 
-# The Entro Crystal
+# Ентропійний кристал
 
 <Row>
 <ItemImage id="extendedae:entro_crystal" scale="4"></ItemImage>
 </Row>
 
-*"Entro Crystals show the extreme strong dimensional affinity after injecting Ender Dust to Fluix Crystals, and can resonate
-over space-time."*
+*«Ентропійні кристали демонструють надзвичайно сильну спорідненість між вимірами та можуть резонувати в просторі-часі після введення пилу Енду до флюїксових кристалів».*
 
-The main crafting ingredient for most ExtendedAE items and machines. You need to use <ItemLink id="extendedae:entro_seed" /> to turn
-<ItemLink id="ae2:fluix_block" /> into [Entroized Fluix Budding](./entro_budding.md), and harvest Entro Cluster to get Entro Crystals.
+Основний інгредієнт для створення більшості предметів та машин ExtendedAE. Вам потрібно використовувати <ItemLink id="extendedae:entro_seed" />, щоб перетворити <ItemLink id="ae2:fluix_block" /> на [ентроїзований родючий флюїкс](./entro_budding.md), та зібрати його друзи, щоб отримати ентропійні кристали.
