@@ -2993,6 +2993,7 @@
   "gtceu.machine.miner.multi.modes": "Має режими вирівнювання по чанку та шовкового дотику.",
   "gtceu.machine.miner.multi.production": "Виробляє в§f 3§7 рази більше руди, ніж§f дробарка§7.",
   "gtceu.machine.miner.per_block": "§7забирає§f %ds§7 за блок",
+  "gtceu.machine.miner.progress": "Прогрес: %d/%d",
   "gtceu.machine.miner.radius": "Радіус: %d",
   "gtceu.machine.miner.startx": "sX: %d",
   "gtceu.machine.miner.starty": "sY: %d",
