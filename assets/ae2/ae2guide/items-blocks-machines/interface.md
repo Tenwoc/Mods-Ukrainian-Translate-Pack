@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Interface
+  title: МЕ Інтерфейс
   icon: interface
   position: 210
 categories:
@@ -11,7 +11,7 @@ item_ids:
 - ae2:cable_interface
 ---
 
-# The Interface
+# Інтерфейс
 
 <Row gap="20">
 <BlockImage id="interface" scale="8" />
@@ -20,53 +20,47 @@ item_ids:
 </GameScene>
 </Row>
 
-Interfaces act like a small chest and fluid tank that fills itself from and empties to [network storage](../ae2-mechanics/import-export-storage.md)
-depending on what you set it to keep a stock of in its slots. It tries to complete this in a single gametick, so it can fill itself with
-or empty itself from up to 9 stacks per gametick, making it a fast method of import or export if you have fast item pipes.
+Інтерфейси діють як невелика скриня та резервуар для рідини, який наповнюється та спорожняється в [мережеве сховище](../ae2-mechanics/import-export-storage.md) залежно від того, що ви налаштували для запасання в її слотах. Він намагається виконати це за один ігровий такт, тому може наповнюватися або спорожнятися 9 стаками за ігровий такт, що робить його швидким методом імпорту або експорту, якщо у вас є швидкі зовнішні труби.
 
-Another useful trait is that while most fluid tanks can only store 1 type of fluid, interfaces can store up to 9, as well as items.
-They're essentially just chests/multi-fluid tanks with some extra functionality, and you can prevent that extra functionality by keeping
-them disconnected from any networks.
-Thus, they are useful in some niche cases where you want to store a small amount of a bunch of different stuff.
+Ще однією корисною особливістю є те, що хоча більшість резервуарів можуть зберігати лише 1 тип рідини, інтерфейси можуть зберігати до 9, а також предмети. Вони, по суті, є просто скринями/резервуарами для кількох рідин з деякими додатковими функціями, і ви можете запобігти цій додатковій функціональності, відключивши їх від будь-яких мереж. Таким чином, вони корисні в деяких нішевих випадках, коли ви хочете зберігати невелику кількість різних речей.
 
-## How An Interface Works Internally
+## Як інтерфейс працює внутрішньо
 
-As previously stated, an interface is essentially a chest/tank with some super duper <ItemLink id="import_bus" />ses and
-<ItemLink id="export_bus" />ses attached, with a bunch of <ItemLink id="level_emitter" />s.
+Як зазначалося раніше, інтерфейс — це, по суті, скриня/резервуар з деякими супер-пупер шинами <a href="import_bus.md">імпорту</a> та <a href="export_bus.md">експорту</a>, а також <a href="level_emitter.md">випромінювачами рівня</a> на кожен слот.
 
 <GameScene zoom="3" interactive={true}>
   <ImportStructure src="../assets/assemblies/interface_internals.snbt" />
 
   <BoxAnnotation color="#dddddd" min="1.3 0.3 1.3" max="9.7 1 1.7">
-        A bunch of level emitters to control the requested stocking quantity
+        Набір випромінювачів рівня для контролю запитуваної кількості запасів
         <GameScene zoom="4" background="transparent">
         <ImportStructure src="../assets/blocks/level_emitter.snbt" />
         </GameScene>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1.3 4 1.3" max="9.7 4.7 1.7">
-        A bunch of level emitters to control the requested stocking quantity
+        Набір випромінювачів рівня для контролю запитуваної кількості запасів
         <GameScene zoom="4" background="transparent">
         <ImportStructure src="../assets/blocks/level_emitter.snbt" />
         </GameScene>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1.3 1.3 1.3" max="9.7 2 1.7">
-        A bunch of super duper import busses that can transfer 1 stack per gametick
+        Купа супер-пупер шин імпорту, які можуть передавати 1 стос за ігровий такт
         <GameScene zoom="4" background="transparent">
         <ImportStructure src="../assets/blocks/import_bus.snbt" />
         </GameScene>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1.3 3 1.3" max="9.7 3.7 1.7">
-        A bunch of super duper export busses that can transfer 1 stack per gametick
+        Купа супер-пупер шин імпорту, які можуть передавати 1 стос за ігровий такт
         <GameScene zoom="4" background="transparent">
         <ImportStructure src="../assets/blocks/export_bus.snbt" />
         </GameScene>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1 2 1" max="10 3 2">
-        9 separate internal slots
+        9 окремих внутрішніх слотів
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="15" />
@@ -74,76 +68,65 @@ As previously stated, an interface is essentially a chest/tank with some super d
 
 ## Особливі взаємодії
 
-Interfaces also have a few special functionalities with other AE2 [devices](../ae2-mechanics/devices.md):
+Інтерфейси також мають кілька спеціальних функцій з іншими [пристроями](../ae2-mechanics/devices.md) AE2:
 
-A <ItemLink id="storage_bus" /> on an unconfigured interface will present the entirety of the [network storage](../ae2-mechanics/import-export-storage.md)
-of its network to the storage bus' network, as if the interface's network was one big chest the storage bus was placed on.
-Setting an item to be stocked in the interface's filter slots disables this.
+<ItemLink id="storage_bus" /> на неналаштованому інтерфейсі зчитуватиме вміст [мережевого сховища](../ae2-mechanics/import-export-storage.md), до якого цей інтерфейс належить, замість перевірки його внутрішніх слотів. Чистий інтерфейс дозволяє шині зберігання розглядати свою мережу як «одну велику скриню».
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/interface_storage.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Pattern providers have a special interaction with interfaces on [subnets](../ae2-mechanics/subnetworks.md): if the interface is unconfigured
-the provider will skip the interface entirely and push directly to that subnet's [storage](../ae2-mechanics/import-export-storage.md),
-skipping the interface and not filling it with recipe batches, and more importantly, not inserting the next batch until there's space in storage.
+Постачальники шаблонів мають спеціальну взаємодію з інтерфейсами в [підмережах](../ae2-mechanics/subnetworks.md): якщо інтерфейс не налаштовано, постачальник повністю пропустить інтерфейс і надішле дані безпосередньо до [сховища](../ae2-mechanics/import-export-storage.md), цієї підмережі, пропускаючи інтерфейс і не заповнюючи його пакетами рецептів, і, що ще важливіше, не вставляючи наступну партію, доки не звільниться місце у мережі інтерфейсу.
 
 <GameScene zoom="6" background="transparent">
 <ImportStructure src="../assets/assemblies/provider_interface_storage.snbt" />
 
 <BoxAnnotation color="#dddddd" min="2.7 0 1" max="3 1 2">
-        Interface (must be flat, not fullblock)
+        Інтерфейс (має бути пласким, не повнорозмірним)
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 0 0" max="1.3 1 4">
-        Storage Busses
+        Шини зберігання
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 0 0" max="1 1 4">
-        Places you want to pattern-provide to (multiple machines, or multiple faces of 1 machine)
+        Місця, куди ви хочете надати складники шаблона (кілька машин або кілька граней 1 машини)
   </BoxAnnotation>
 
 <IsometricCamera yaw="185" pitch="30" />
 </GameScene>
 
-## Variants
+## Варіанти
 
-Interfaces come in 2 different variants: normal and flat/[subpart](../ae2-mechanics/cable-subparts.md). This affects which specific sides their inventories can be accessed
-from and that they provide a network connection to.
+Інтерфейси бувають 2 різних варіантів: звичайний та плаский/[кабельний](../ae2-mechanics/cable-subparts.md). Це впливає на те, з яких саме сторін можна отримати доступ до їхнього інвентарю та до яких вони забезпечують мережеве з'єднання.
 
-*   Normal interfaces allow things to push to, pull from, and access their inventory from all sides and, like most AE2 machines, act
-    like a cable providing network connection to all sides.
+* Звичайні інтерфейси дозволяють надсилати, витягувати та отримувати доступ до свого інвентарю з усіх боків і, як і більшість машин AE2, діють як кабель, що забезпечує мережеве з'єднання з усіх боків.
 
-*   Flat interfaces are [cable subparts](../ae2-mechanics/cable-subparts.md), and so multiple can be placed on the same cable, allowing for compact setups.
-    They allow things to push to, pull from, and access their inventory from their face but do not provide a network connection on their face.
+* Пласкі інтерфейси — це [кабельні компоненти](../ae2-mechanics/cable-subparts.md) тому кілька інтерфейсів можна розмістити на одному кабелі, що дозволяє будувати компактні установки. Вони дозволяють надсилати, витягувати та отримувати доступ до свого інвентарю зі своєї грані, але не забезпечують мережеве з'єднання через неї.
 
-Interfaces can be swapped between normal and flat in a crafting grid.
+Інтерфейси можна перемикати між звичайним та пласким у сітці майстрування.
 
-## Settings
+## Налаштування
 
-The upper slots in the interface determine what the interface is set to stock inside itself. When something is placed in
-them or dragged from JEI/REI, a wrench appears that lets you set the quantity.
+Верхні слоти в інтерфейсі визначають, що інтерфейс зберігатиме всередині себе. Коли щось поміщається в них або перетягується з JEI/REI, з'являється кнопка налаштування, яка дозволяє встановити кількість.
 
-Right-click with a fluid container (like a bucket or fluid tank) to set that fluid as a filter instead of the bucket or tank item.
+Клацніть ПКМ за допомогою місткости з рідиною (наприклад, відром або резервуаром), щоб встановити цю рідину як фільтр замість конкретно предмета відра або резервуара.
 
-When you set a slot to stocking mode, it will also prevent external machines from inserting anything else into that slot.
+Коли ви встановлюєте слот у режим зберігання, це також запобігає зовнішнім машинам вставляти щось інше в цей слот.
 
-## Upgrades
+## Модифікатори
 
-The interface supports the following [upgrades](upgrade_cards.md):
+Інтерфейс підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="fuzzy_card" /> lets the bus filter by damage level and/or ignore item NBT
-*   <ItemLink id="crafting_card" /> lets the interface send crafting requests to your [autocrafting](../ae2-mechanics/autocrafting.md)
-    system to get the items it desires. It will pull the items from storage if possible, before making a request
-    for a new item to be crafted.
+*   <ItemLink id="fuzzy_card" /> дозволяє інтерфейсу фільтрувати за рівнем пошкодження та/або ігнорувати будь-які NBT предметів
+*   <ItemLink id="crafting_card" /> дозволяє інтерфейсу відправляти виробничі запити до вашої системи [автовироблення](../ae2-mechanics/autocrafting.md) для отримання речей у фільтрі. Він намагатиметься витягувати предмети зі сховища, перш ніж починати надсилати запити на створення необхідної кількості предметів.
 
-## Priority
+## Пріоритет
 
-Priorities can be set by clicking the wrench in the top-right of the GUI. Interfaces with higher priority will get their items
-before those with lower priority,
+Пріоритети можна встановити, натиснувши на кнопку налаштування у правому верхньому куті інтерфейсу. Предмети, що надходять у мережу, спочатку потрапляють у сховище з найвищим пріоритетом.
 
-## Recipes
+## Рецепти
 
 <Recipe id="network/blocks/interfaces_interface" />
 

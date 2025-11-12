@@ -53,7 +53,7 @@ This setup is meant to be used in combination with [charger automation](charger-
   <IsometricCamera yaw="180" pitch="0" />
 </GameScene>
 
-## Configurations and Patterns
+## Конфігурації and Patterns
 
 * The <ItemLink id="pattern_provider" /> (1) is in its default configuration, with the relevant <ItemLink id="processing_pattern" />s
   * For <ItemLink id="fluix_crystal" /> the default recipe from JEI/REI works fine:
@@ -70,7 +70,7 @@ This setup is meant to be used in combination with [charger automation](charger-
 * The <ItemLink id="annihilation_plane" /> (4) has no GUI and cannot be configured.
 * The <ItemLink id="storage_bus" /> (5) is filtered to the outputs of the patterns.
 
-## How It Works
+## Як це працює
 
 1.  The <ItemLink id="pattern_provider" /> pushes the ingredients into the <ItemLink id="interface" /> on its side, on the green subnet
 2.  The interface (being configured to not store anything by default) attempts to push its contents into [network storage](../ae2-mechanics/import-export-storage.md)

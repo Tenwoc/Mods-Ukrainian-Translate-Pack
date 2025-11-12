@@ -147,7 +147,7 @@ inputs the raw resources and outputs the completed processor, and since the pres
   <IsometricCamera yaw="185" pitch="5" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
 * The <ItemLink id="pattern_provider" /> (1) is in its default configuration, with the relevant <ItemLink id="processing_pattern" />s.
   Note that the patterns go direct from raw resources to the completed processor, and do **NOT** include the [press](../items-blocks-machines/presses.md).
@@ -175,7 +175,7 @@ inputs the raw resources and outputs the completed processor, and since the pres
      <ItemImage id="engineering_processor_press" scale="2" />
    </Row>
 
-## How It Works
+## Як це працює
 
 1. The <ItemLink id="pattern_provider" /> pushes the ingredients into the barrel.
 2. The first [pipe subnet](pipe-subnet.md) (orange) pulls the silicon, redstone dust, and the relevant processor's ingredient

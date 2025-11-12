@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Terminals
+  title: Термінали
   icon: crafting_terminal
   position: 210
 categories:
@@ -13,25 +13,22 @@ item_ids:
 - ae2:pattern_access_terminal
 ---
 
-# Terminals
+# Термінали
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/terminals.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-While <ItemLink id="pattern_provider" />s, <ItemLink id="import_bus" />ses, <ItemLink id="storage_bus" />ses, and the et cetera
-are the primary method by which an AE2 network interacts with the world, Terminals are the primary method by which an AE2
-network interacts with *you*. There are several variants with differing functions.
+Хоча <ItemLink id="pattern_provider" />, <ItemLink id="import_bus" />, <ItemLink id="storage_bus" /> тощо є основним методом взаємодії мережі AE2 зі світом, термінали є основним методом взаємодії мережі AE2 з *вами*. Існує кілька варіантів з різними функціями.
 
-Terminals will inherit the color of the [cable](cables.md) they are mounted on.
+Термінали успадковують колір [кабелю](cables.md), на якому вони монтуються.
 
-They are [cable subparts](../ae2-mechanics/cable-subparts.md).
+Вони є [кабельними компонентами](../ae2-mechanics/cable-subparts.md).
 
-## Terminal Placement
+## Розміщення терміналів
 
-As a terminal is often the first [subpart](../ae2-mechanics/cable-subparts.md) someone might place,
-it is common to get it wrong and place the terminal backwards. Here is an example of what to do and what not to do:
+Оскільки термінал часто є першим [компонентом](../ae2-mechanics/cable-subparts.md), який початківець може розмістити, часто трапляється помилка та розміщення термінала навпаки. Ось приклад того, що робити й чого не робити:
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/terminal_placement.snbt" />
@@ -44,56 +41,48 @@ it is common to get it wrong and place the terminal backwards. Here is an exampl
   <LineAnnotation color="#33ff33" from="1 .5 .5" to="1.5 1 .5" alwaysOnTop={true} thickness="0.05"/>
 </GameScene>
 
-You still have a terminal and an energy acceptor, except now the terminal is the right way around and actually
-connected to the network, and it all fits in a smaller space too.
+У вас все ще є термінал та приймач енергії, але тепер термінал розташований правильно та фактично підключений до мережі, і все це також поміщається в меншому просторі.
 
 <a name="terminal-ui"></a>
 
-# Terminal Search
+# Пошук у терміналі
 
-The searchbox accepts Regex terms, so you can, for example, write "gtceu:.*ore" to get all ores from Gregtech. Learning
-Regex is left as an exercise for the reader.
+Поле пошуку приймає регулярні вирази, тому ви можете, наприклад, написати "gtceu:.*ore", щоб отримати всі руди з Gregtech. Вивчення регулярних виразів залишається як вправа для читача.
 
-# Terminal
+# Термінал
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/blocks/terminal.snbt" />
   <IsometricCamera yaw="180" />
 </GameScene>
 
-Your basic terminal, allowing you to view and access the contents of your [network's storage](../ae2-mechanics/import-export-storage.md)
-and request things from your [autocrafting](../ae2-mechanics/autocrafting.md) setup.
+Ваш базовий термінал, що дозволяє вам переглядати та отримувати доступ до вмісту вашого [мережевого сховища](../ae2-mechanics/import-export-storage.md) та запитувати речі з вашої установки [автовироблення](../ae2-mechanics/autocrafting.md).
 
-## The UI
+## Інтерфейс
 
-There are several sections of a basic terminal's UI
+Інтерфейс базового термінала має кілька розділів
 
-The center section gives access to your network's storage. You can put things in and take things out. There are several
-mouse/key shortcuts:
+Центральний розділ надає доступ до мережевого сховища. Через нього ви можете додавати та виймати речі. Існує кілька комбінацій клавіш/миші:
 
-*   Left-click grabs a stack, right-click grabs half a stack.
-*   If an item or fluid or etc. is able to be [autocrafted](../ae2-mechanics/autocrafting.md),
-    whatever you have bound to "pick block" (usually middle-click) brings up a UI to specify the amount to be crafted. You can also input formulas like `3*64/2`,
-    or type `=32` to only craft the number of items needed to reach 32 in your storage.
-*   Holding shift will freeze the displayed items in-place, stopping them from re-organizing themselves when quantities change or new items enter the system.
-*   Right-clicking with a bucket or other fluid container will deposit the fluid, left-clicking a fluid in the terminal with
-    an empty fluid container will withdraw the fluid.
+* Клацання ЛКМ бере стак, клацання ПКМ бере половину стака.
+*   Якщо предмет, рідину тощо можна [автовиробити](../ae2-mechanics/autocrafting.md), клавіша виконання «вибору блоку» (зазвичай клацання СКМ), відкриває інтерфейс для визначення кількості предметів, які потрібно створити. Ви також можете ввести формули, такі як `3*64/2`, або ввести `=32`, щоб створити лише ту кількість предметів, яка потрібна для досягнення 32 у вашому сховищі.
+* Утримання Shift заморозить відображені предмети на місці, запобігаючи їх реорганізації, коли кількість змінюється або нові предмети потрапляють у систему.
+* Клацання ПКМ відром або іншим контейнером з рідиною призведе до скидання рідини у мережу, клацання ЛКМ на рідині в терміналі з порожнім контейнером з рідиною призведе до наповнення цього контейнера рідиною.
 
-The left section has settings buttons to:
+Ліва частина містить кнопки налаштувань для:
 
-*   Sort by different attributes like name, mod, and quantity
-*   View stored, craftable, or both
-*   View items, fluids, or both
-*   Change the sort order
-*   Open the detailed terminal settings window
-*   Change the height of the terminal UI
+* Сортування за різними атрибутами, такими як назва, мод та кількість
+* Перегляд збережених, придатних для вироблення або обох
+* Перемикання відображення типів речей
+* Зміна порядку сортування
+* Відкриття вікна детальних налаштувань термінала
+* Зміна висоти інтерфейсу термінала
 
-On the right there are slots for <ItemLink id="view_cell" />s
+У слоти праворуч поміщається <ItemLink id="view_cell" />
 
-The top-right of the center section (hammer button) brings up the [autocrafting](../ae2-mechanics/autocrafting.md) status
-UI, allowing you to see the progress of your autocrafts and what each [crafting CPU](crafting_cpu_multiblock.md) is doing.
+У верхньому правому куті центральної частини (кнопка молотка) відображається інтерфейс стану [автовироблення](../ae2-mechanics/autocrafting.md), що дозволяє бачити прогрес ваших автовироблень та що робить кожен [процесор вироблення](crafting_cpu_multiblock.md).
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="terminal" />
 
@@ -106,18 +95,17 @@ UI, allowing you to see the progress of your autocrafts and what each [crafting 
   <IsometricCamera yaw="180" />
 </GameScene>
 
-The Crafting Terminal is similar to a regular terminal, with all the same settings and sections, but with an added crafting grid that will be automatically
-refilled from [network storage](../ae2-mechanics/import-export-storage.md). Be careful when shift-clicking the output!
+Термінал майстрування схожий на звичайний термінал, з усіма тими ж налаштуваннями та розділами, але з доданою сіткою майстрування, яка буде автоматично поповнюватися з [мережевого сховища](../ae2-mechanics/import-export-storage.md). Будьте обережні, коли натискаєте на вивід, утримуючи клавішу Shift!
 
-You should upgrade your terminal into a crafting terminal ASAP.
+Вам слід якомога скоріше оновити свій термінал до термінала майстрування.
 
-## The UI
+## Інтерфейс
 
-The crafting terminal has the same UI as the regular terminal, but with an added crafting grid in the middle.
+Термінал майстрування має такий самий інтерфейс, як і звичайний термінал, але з доданою сіткою майстрування посередині.
 
-There are 2 additional buttons, to empty the crafting grid into network storage or your inventory.
+Є 2 додаткові кнопки, щоб очистити сітку майстрування в мережеве сховище або ваш інвентар.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="crafting_terminal" />
 
@@ -130,81 +118,72 @@ There are 2 additional buttons, to empty the crafting grid into network storage 
   <IsometricCamera yaw="180" />
 </GameScene>
 
-The Pattern Encoding Terminal is similar to a regular terminal, with all the same settings and sections, but with an added
-[pattern](patterns.md) encoding interface. It looks similar to a crafting terminal's UI but this crafting grid doesn't actually
-perform crafts.
+Термінал кодування шаблонів схожий на звичайний термінал, з усіма тими ж налаштуваннями та розділами, але з доданим інтерфейсом кодування [шаблонів](patterns.md). Він схожий на інтерфейс термінала майстрування, але ця сітка майстрування насправді слугує іншій цілі.
 
-You should have one of these in addition to a crafting terminal.
+У вас повинен бути принаймні один такий на додаток до термінала майстрування.
 
-## The UI
+## Інтерфейс
 
-The crafting terminal has the same UI as the regular terminal, added [pattern](patterns.md) encoding interface.
+Термінал кодування шаблонів має такий самий інтерфейс, як і звичайний термінал, але з доданим інтерфейсом кодування [шаблонів](patterns.md).
 
-The pattern encoding interface has several sections:
+Інтерфейс кодування шаблонів має кілька розділів:
 
-A slot to insert <ItemLink id="blank_pattern" />s.
+Слот, в якому зберігається <ItemLink id="blank_pattern" />.
 
-A big arrow to encode the pattern.
+Велика стрілка для кодування шаблона.
 
-A slot for encoded patterns. Place a pattern that has already been encoded in this slot in order to edit it, then click the "encode" arrow.
+Слот для закодованих шаблонів. Помістіть шаблон, який вже закодовано, у цей слот, щоб редагувати його, а потім натисніть стрілку «кодувати».
 
-4 tabs on the right to swap the type of pattern to be encoded between
+4 вкладки праворуч визначають тип шаблона, який потрібно закодувати:
 
-*   Crafting
-*   Processing
-*   Smithing
-*   Stonecutting
+* Майстрування
+* Обробка
+* Ковальство
+* Тесання
 
-The central UI changes depending on the type of pattern to be encoded:
+Центральний інтерфейс змінюється залежно від типу шаблона, який потрібно закодувати:
 
-*   In crafting mode:
-    *   Left-click in or drag from JEI/REI the ingredients to form the recipe. Right-click to remove the ingredient.
-    *   Enabling substitiutions allows things like crafting sticks from any plank type. This should only be used
-        when absolutely necessary.
-    *   Fluid substitutions allows using stored fluids in place of buckets of fluids.
-    *   You can also directly encode a pattern from the JEI/REI recipe screen.
+* У режимі майстрування:
+    * Клацніть ЛКМ або перетягніть складники з JEI/REI для формування рецепта. Клацніть ПКМ, щоб видалити складник.
+    * Увімкнення замін дозволяє такі речі, як створення паличок з будь-якого типу дощок. Це слід використовувати лише за крайньої необхідності.
+    * Заміна рідин дозволяє використовувати збережені рідини замість відер рідин.
+    * Ви також можете безпосередньо закодувати шаблон з екрана рецептів JEI/REI.
 
-*   In processing mode:
-    * Left-click or right-click in or drag from JEI/REI the ingredients to specify the inputs and outputs of the recipe.
-    * Right-click with a fluid container (like a bucket or fluid tank) to set that fluid as an ingredient instead of the bucket or tank item.
-    * When holding a stack, left-click places the whole stack, right-click places one item. Left-click on an existing ingredient stack to
-        remove the whole stack and right-click to decrement the stack by 1. Whatever you have bound to "pick block" (usually middle-click)
-        lets you specify a precise amount of the item or fluid.
-    * The output slots have a primary output and space for any secondary outputs you might want the autocrafting algorithm to know about.
-    * Both input and output slots scroll, so you can have 81 different ingredients and 26 secondary outputs
-    * You can also directly encode a pattern from the JEI/REI recipe screen.
+* У режимі обробки:
+    * Клацніть ЛКМ або ПКМ або перетягніть складники з JEI/REI, щоб вказати вхідні та вихідні речі рецепта.
+    * Клацніть ПКМ на контейнері з рідиною (наприклад, відро або резервуар з рідиною), щоб встановити цю рідину як складник замість самого предмета відра або резервуара.
+    * Під час утримання якоїсь кількості предмета клацання ЛКМ розміщує весь стос, клацання ПКМ розміщує один предмет. Клацніть ЛКМ на встановленому стосу складників, щоб видалити предмет, або клацніть ПКМ, щоб зменшити стос на 1. Клавішею «вибору блоку» (зазвичай клацання СКМ), ви можете вказати точну кількість предмета або рідини.
+    * Слоти виводу мають основний вихід та місце для будь-яких вторинних виводів, про які ви можете дати знати алгоритму автовироблення.
+    * Як вхідні, так і вихідні слоти прокручуються, тому ви можете мати 81 окремий складник та 26 вторинних виводів.
+    * Ви також можете безпосередньо закодувати шаблон з екрана рецептів JEI/REI.
 
-*   The smithing and stonecutting mode UIs work similarly to a smithing table and stonecutter respectively.
+* Інтерфейси режимів коваля та каменеріза працюють аналогічно до ковальського столу та каменеріза відповідно.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="pattern_encoding_terminal" />
 
 <a name="pattern-access-terminal-ui"></a>
 
-# Pattern Access Terminal
+# Термінал доступу до шаблонів
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/blocks/pattern_access_terminal.snbt" />
   <IsometricCamera yaw="180" />
 </GameScene>
 
-The Pattern Access Terminal serves to solve a specific issue: in a dense tower of <ItemLink id="pattern_provider" />s
-and <ItemLink id="molecular_assembler" />s, you can't physically access the providers to insert new patterns. Additionally,
-perhaps you're lazy and don't want to walk across your base to insert a [pattern](patterns.md). The pattern access terminal
-allows access to all pattern providers on the network.
+Термінал доступу до шаблонів служить для розв'язання конкретної проблеми: у щільній вежі з <a href="pattern_provider.md">постачальників шаблонів</a> та <a href="molecular_assembler.md">молекулярних збирачів</a> ви не можете фізично отримати доступ до постачальників, щоб вставити нові шаблони. Крім того, можливо, ви ліниві та не хочете ходити по своїй базі, щоб вставити [шаблон](patterns.md). Термінал доступу до шаблонів надає доступ до всіх постачальників шаблонів у мережі.
 
-## The UI
+## Інтерфейс
 
-This terminal has a different UI to all the other terminals.
+Цей термінал має інший інтерфейс, ніж усі інші термінали.
 
-It has settings for terminal height and which pattern providers to show.
+Він має налаштування висоти термінала та того, які постачальники шаблонів відображати.
 
-Each row in the terminal corresponds to a specific pattern provider.
+Кожен рядок у терміналі відповідає певному постачальнику шаблонів.
 
-Pattern providers in the terminal are sorted by what blocks they are connected to, or what name you have given them (in an anvil or
-with a <ItemLink id="name_press" />).
+Постачальники шаблонів у терміналі сортуються за блоками, до яких вони підключені, або за назвою, яку ви їм дали (у ковадлі або використовуючи <ItemLink id="name_press" />).
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="pattern_access_terminal" />

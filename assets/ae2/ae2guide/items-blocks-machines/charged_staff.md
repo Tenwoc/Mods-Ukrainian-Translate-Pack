@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Charged Staff
+  title: Заряджений жезл
   icon: charged_staff
   position: 410
 categories:
@@ -10,15 +10,14 @@ item_ids:
 - ae2:charged_staff
 ---
 
-# The Charged Staff
+# Заряджений жезл
 
 <ItemImage id="charged_staff" scale="4" />
 
-The Charged Staff is a stick with a <ItemLink id="charged_certus_quartz_crystal" /> on the end. It does 6 damage, using 300 AE
-per attack.
+Заряджений жезл — це палиця із зарядженим істинним кварцом на кінці. Вона завдає 6 шкоди, споживаючи 300 AE за атаку.
 
-Its energy can be recharged in a <ItemLink id="charger" />.
+Її заряд можна відновити через <ItemLink id="charger" />.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="charged_staff" />

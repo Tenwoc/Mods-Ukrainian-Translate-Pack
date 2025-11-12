@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Sky Stone Tank
+  title: Резервуар з небесного каменю
   icon: sky_stone_tank
   position: 310
 categories:
@@ -10,12 +10,12 @@ item_ids:
 - ae2:sky_stone_tank
 ---
 
-# The Sky Stone Tank
+# Резервуар з небесного каменю
 
 <BlockImage id="sky_stone_tank" scale="8" />
 
-It's a fluid tank that stores 16 buckets of fluid. Does not retain its contents when picked up. Not much else to say.
+Це рідинний резервуар, який вміщує 16 відер. Не зберігає свій вміст, якщо його зламати. Та й все на цьому.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="sky_stone_tank" />

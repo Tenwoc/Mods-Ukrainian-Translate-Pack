@@ -88,7 +88,7 @@ See [Certus Growth](../ae2-mechanics/certus-growth.md) for estimated speeds.
   <IsometricCamera yaw="165" pitch="5" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
 ### Cluster Breaker:
 
@@ -111,7 +111,7 @@ See [Certus Growth](../ae2-mechanics/certus-growth.md) for estimated speeds.
   [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) set higher than your main storage.
 * The <ItemLink id="interface" /> (8) is set to keep 1 Flawed Budding Certus Quartz in itself, and has a <ItemLink id="crafting_card" />.
 
-## How It Works
+## Як це працює
 
 ### Cluster Breaker:
 

@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Fluix Smithing Template
+  title: Флюїксовий ковальський шаблон
   icon: fluix_upgrade_smithing_template
   position: 410
 categories:
@@ -12,12 +12,12 @@ item_ids:
 
 <ItemImage id="fluix_upgrade_smithing_template" scale="8" />
 
-# Fluix Smithing Template
+# Флюїксовий ковальський шаблон
 
-Unlike the vanilla smithing template, you can make this one from scratch.
+На відміну від класичного ковальського шаблона, це ви можете зробити з нуля.
 
-Required for [fluix tools](fluix_tools.md)
+Необхідне для створення [флюїксових інструментів](fluix_tools.md)
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="fluix_upgrade_smithing_template" />

@@ -89,7 +89,7 @@
   "gui.tooltips.advanced_ae.MeExport": "МЕ Експорт",
   "gui.tooltips.advanced_ae.MeExportOff": "Вироблені предмети будуть експортовані до дозволених контейнерів поблизу",
   "gui.tooltips.advanced_ae.MeExportOn": "Вироблені предмети будуть експортовані до МЕ мережі.",
-  "gui.tooltips.advanced_ae.MultiThreaderMultiplication": "Множить обсяг сумісної обробки у конструкції квантового комп'ютера на %d. Обмежено до %d на конструкцію.",
+  "gui.tooltips.advanced_ae.MultiThreaderMultiplication": "Множить обсяг спільної обробки у конструкції квантового комп'ютера на %d. Обмежено до %d на конструкцію.",
   "gui.tooltips.advanced_ae.NightVisionTooltip": "Вмикає нічне бачення.",
   "gui.tooltips.advanced_ae.NorthButton": "Націлити на ПІВНІЧНИЙ бік машини.",
   "gui.tooltips.advanced_ae.NumberTextFieldInputHint": "Підтвердьте введення клавішею %s.",

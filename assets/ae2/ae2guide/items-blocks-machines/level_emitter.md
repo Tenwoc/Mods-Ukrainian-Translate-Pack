@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Level Emitter
+  title: МЕ Випромінювач рівня
   icon: level_emitter
   position: 220
 categories:
@@ -11,62 +11,49 @@ item_ids:
 - ae2:energy_level_emitter
 ---
 
-# The Level Emitter
+# Випромінювач рівня
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../assets/blocks/level_emitter.snbt" />
 </GameScene>
 
-The Level Emitter emits a redstone signal depending on the quantity of an item in
-[network storage](../ae2-mechanics/import-export-storage.md).
+Випромінювач рівня випромінює редстоуновий сигнал залежно від кількості предмета в [мережевому сховищі](../ae2-mechanics/import-export-storage.md).
 
-There is also a version that emits a redstone signal depending on the [energy](../ae2-mechanics/energy.md) stored
-in your network.
+Існує також версія, яка випромінює редстоуновий сигнал залежно від рівня [енергії](../ae2-mechanics/energy.md), збереженої у вашій мережі.
 
-Items and fluids can be dragged into the slot from JEI/REI even if you don't actually have any of that item.
+Предмети та рідини можна перетягувати в слот із JEI/REI, навіть якщо у вас насправді немає жодного з цих предметів.
 
-Right-click with a fluid container (like a bucket or fluid tank) to set that fluid as a filter instead of the bucket or tank item.
+Клацніть ПКМ за допомогою місткости з рідиною (наприклад, відром або резервуаром), щоб встановити цю рідину як фільтр замість конкретно предмета відра або резервуара.
 
-They are [cable subparts](../ae2-mechanics/cable-subparts.md).
+Випромінювачі є [кабельними компонентами](../ae2-mechanics/cable-subparts.md).
 
-Unlike other [devices](../ae2-mechanics/devices.md), level emitters *do not* require a [channel](../ae2-mechanics/channels.md).
+На відміну від інших [пристроїв](../ae2-mechanics/devices.md), випромінювачі рівня *не* займають [каналів](../ae2-mechanics/channels.md).
 
-## Settings
+## Налаштування
 
-*   The Level Emitter can be set to either "greater than/equal to" or "less than" mode
-*   When a <ItemLink id="crafting_card" /> is inserted, it can be set to "emit redstone while item is crafting" or
-    "emit redstone to craft item"
+*   Для випромінювача рівня можна встановити режим «більше/дорівнює» або «менше»
+*   Коли вставлена <ItemLink id="crafting_card" />, випромінювач можна налаштувати на «випромінювати редстоуновий сигнал під час створення предмета» або «випромінювати редстоуновий сигнал для створення предмета»
 
-## Upgrades
+## Модифікатори
 
-The level emitter supports the following [upgrades](upgrade_cards.md):
+Випромінювач рівня підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="fuzzy_card" /> lets the emitter filter by damage level and/or ignore item NBT
-*   <ItemLink id="crafting_card" /> enables the crafting functionality
+*   <ItemLink id="fuzzy_card" /> дозволяє випромінювачу фільтрувати за рівнем пошкодження та/або ігнорувати будь-які NBT предметів
+*   <ItemLink id="crafting_card" /> відкриває функціонал вироблення
 
-## Crafting Functionality
+## Функціонал вироблення
 
-If a <ItemLink id="crafting_card" /> is inserted, the emitter will be switched into crafting mode.
+Якщо вставлена <ItemLink id="crafting_card" />, випромінювач буде перекпереведенолючено у режим вироблення.
 
-This enables two options:
+Це дає змогу використовувати дві нові поведінки:
 
-The first option, "emit redstone while item is crafting", makes the emitter emit a redstone signal while your [autocrafting](../ae2-mechanics/autocrafting.md)
-is crafting some specific item through <ItemLink id="pattern_provider" />s. This is useful for only turning on specific
-power-hungry automation setups while they are actually being used.
+Перший варіант, «випромінювати редстоуновий сигнал під час створення предмета», змушує випромінювач випромінювати редстоуновий сигнал, поки ваша установка [автовироблення](../ae2-mechanics/autocrafting.md) створює певний предмет через <ItemLink id="pattern_provider" />. Це корисно для увімкнення лише певних енергозатратних установок автоматизації під час їх фактичного використання.
 
-The second option, "emit redstone to craft item", is extremely useful for specific use cases like infinite farms and
-automation setups that only have a chance of making an output, instead of a guaranteed output.
-This setting creates a virtual [pattern](patterns.md) for [autocrafting](../ae2-mechanics/autocrafting.md) to use, for whatever item
-is in the emitter's filter slot.
-(For correct functionality, an actual pattern for the same item **should not exist** in your <ItemLink id="pattern_provider" />s)
+Другий варіант, «випромінювати редстоуновий сигнал для створення предмета», надзвичайно корисний для певних випадків, таких як нескінченні ферми та налаштування автоматизації, яка має лише шанс створити вихідний результат, а не гарантований. Цей параметр створює віртуальний [шаблон](patterns.md) для [автовироблення](../ae2-mechanics/autocrafting.md) будь-якого налаштованого у випромінювачі предмета. (Для коректної роботи фактичний шаблон для того самого предмета **не повинен бути присутнім** десь іще)
 
-This "pattern" does not define, or even care about ingredients.
-All it says is "If you emit redstone from this level emitter, the ME system will receive this item at some point in the
-near or distant future". This is usually used to activate and deactivate infinite farms which require no input ingredients,
-or to activate [a system that handles recursive recipes](../example-setups/recursive-crafting-setup.md) (which standard autocafting cannot understand)
-like, for example, "1 cobblestone = 2 cobblestone" if you have a machine that duplicates cobblestone.
+Цей «шаблон» не визначає складники й навіть не звертає на них уваги. Все, що він говорить, це «Поки з цього випромінювача рівня йде сигнал, МЕ система отримуватиме цей предмет у найближчому чи віддаленому майбутньому». Зазвичай це використовується для активації та деактивації нескінченних ферм, які не потребують введення складників, або для активації [системи, яка обробляє рекурсивні рецепти](../example-setups/recursive-crafting-setup.md) (які стандартне автовироблення не може зрозуміти), наприклад, «1 кругляк = 2 кругляки», якщо у вас є машина, яка дублює кругляк.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="level_emitter" />
 

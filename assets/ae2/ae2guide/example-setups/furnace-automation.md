@@ -1,72 +1,64 @@
 ---
 navigation:
   parent: example-setups/example-setups-index.md
-  title: Furnace Automation
+  title: Автоматизація печі
   icon: minecraft:furnace
 ---
 
-# Furnace Automation
+# Автоматизація печі
 
-Note that since this uses a <ItemLink id="pattern_provider" />, it is meant to integrate into your [autocrafting](../ae2-mechanics/autocrafting.md)
-setup. If you just want to automate a furnace standalone, use hoppers and chests and stuff.
+Зверніть увагу, що оскільки тут використовується <ItemLink id="pattern_provider" />, він призначений для інтеграції у вашу систему [автовироблення](../ae2-mechanics/autocrafting.md). Якщо ви просто хочете автоматизувати окрему піч, використовуйте лійки, скрині тощо.
 
-Automation of a <ItemLink id="minecraft:furnace" /> is a bit more complex than automation of simpler machines like a [charger](../example-setups/charger-automation.md).
-A furnace requires input from two separate sides, and extraction from a third. The item to be smelted must be pushed in the top face,
-the fuel must be pushed in a side face, and the result must be pulled out the bottom. 
+Автоматизація <ItemLink id="minecraft:furnace" /> трохи складніша, ніж автоматизація простіших машин, таких як [зарядний пристрій](../example-setups/charger-automation.md). Піч вимагає введення з двох окремих сторін та вилучення з третьої. Предмет, який потрібно витопити, потрібно проштовхнути у верхню грань, паливо потрібно проштовхнути в бічну грань, а результат потрібно витягнути знизу.
 
-This could be done via a <ItemLink id="pattern_provider" />
-on the top, an <ItemLink id="export_bus" /> on the side to constantly push in fuel, and an <ItemLink id="import_bus" /> on
-the bottom to import the results into the network. However, this uses 3 [channels](../ae2-mechanics/channels.md).
+Це можна зробити, використовуючи <ItemLink id="pattern_provider" /> зверху, <ItemLink id="export_bus" /> збоку для постійної подачі палива та <ItemLink id="import_bus" /> знизу для імпорту результатів у мережу. Однак, це займе 3 [канали](../ae2-mechanics/channels.md).
 
-Here's how you can do it with just 1 channel:
+Ось як це можна зробити лише з 1 каналом:
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/furnace_automation.snbt" />
 
 <BoxAnnotation color="#dddddd" min="1 0 0" max="2 1 1">
-        (1) Pattern Provider: The directional variant, via use of a certus quartz wrench, with the relevant processing patterns.
+        (1) Постачальник шаблонів: Спрямований варіант, що отримується застосуванням кварцового ключа, з відповідними шаблонами обробки.
 
         ![Iron Pattern](../assets/diagrams/furnace_pattern_small.png)
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 1 0" max="2 1.3 1">
-        (2) Interface: In its default configuration.
+        (2) Interface: Без налаштувань.
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 1 0" max="1.3 2 1">
-        (3) Storage Bus #1: Filtered to coal.
+        (3) Шина зберігання #1: Відфільтрована на вугілля.
         <ItemImage id="minecraft:coal" scale="2" />
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 2 0" max="1 2.3 1">
-        (4) Storage Bus #2: Filtered to blacklist coal, using an inverter card.
+        (4) Шина зберігання #2: Відфільтрована на НЕ вугілля за допомогою картки інвертора.
         <Row><ItemImage id="minecraft:coal" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
   </BoxAnnotation>
 
 <DiamondAnnotation pos="4 0.5 0.5" color="#00ff00">
-        To Main Network
+        До основної мережі
     </DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
-* The <ItemLink id="pattern_provider" /> (1) is in its default configuration, with the relevant <ItemLink id="processing_pattern" />s.
-    It is made directional by using a <ItemLink id="certus_quartz_wrench" /> on it.
+* <ItemLink id="pattern_provider" /> (1) не має налаштувань, з відповідними <ItemLink id="processing_pattern" />. Його напрямок визначається застосуванням <ItemLink id="certus_quartz_wrench" />.
 
   ![Iron Pattern](../assets/diagrams/furnace_pattern.png)
 
-* The <ItemLink id="interface" /> (2) is in its default configuration.
-* The first <ItemLink id="storage_bus" /> (3) is filtered to coal, or whatever fuel you want to use.
-* The second <ItemLink id="storage_bus" /> (4) is filtered to blacklist the fuel you're using, using an <ItemLink id="inverter_card" />.
+* <ItemLink id="interface" /> (2) не має налаштувань.
+* first <ItemLink id="storage_bus" /> (3) відфільтрована на вугілля або будь-яке інше паливо, яке ви хочете використовувати.
+* second <ItemLink id="storage_bus" /> (4) відфільтрована на усе, що не є паливом за допомогою <ItemLink id="inverter_card" />.
 
-## How It Works
+## Як це працює
 
-1. The <ItemLink id="pattern_provider" /> pushes the ingredients into the <ItemLink id="interface" />.
-   (Actually, as an optimization, it pushes directly through the storage busses as if they were extensions of the provider's faces. The items never actually enter the interface.)
-2. The interface is set to store nothing, so it tries to push the ingredients into [network storage](../ae2-mechanics/import-export-storage.md).
-3. The only storage on the green subnet is the <ItemLink id="storage_bus" />ses. The bus filtered to coal places the coal in the furnace's fuel slot through the side face.
-    The bus filtered to NOT coal places the items to be smelted in the top slot, through the top face.
-4. The furnace does its furnacey thing
-5. The hopper pulls the results out the furnace's bottom, and places them in the provider's return slots, returning them to the main network.
+1. <ItemLink id="pattern_provider" /> передає складники в <ItemLink id="interface" />. (Насправді, як оптимізація, він ігнорує порожній інтерфейс та передає складники одразу до шини зберігання, яка належить до однієї з інтерфейсом мережі)
+2. Інтерфейс налаштовано так, щоб нічого не зберігати, тому він намагається завантажувати складники в [мережеве сховище](../ae2-mechanics/import-export-storage.md).
+3. Єдиним сховищем у зеленій підмережі є <ItemLink id="storage_bus" />. Шина, відфільтрована до вугілля, передає вугілля в паливний слот печі через бічну грань. Шина, відфільтрована до НЕ вугілля, передає предмети, що підлягають витопленню, у верхньому слоті, через верхню грань.
+4. Піч робить свою пічкову штуку.
+5. Лійка витягує результати з дна печі та передає їх у слоти повернення постачальника, тим самим повертаючи їх до основної мережі.

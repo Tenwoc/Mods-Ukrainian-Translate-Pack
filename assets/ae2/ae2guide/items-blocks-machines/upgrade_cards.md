@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Upgrade Cards
+  title: Модифікатори
   icon: speed_card
   position: 410
 categories:
@@ -20,7 +20,7 @@ item_ids:
 - ae2:energy_card
 ---
 
-# Upgrade Cards
+# Модифікатори
 
 <Row>
   <ItemImage id="redstone_card" scale="2" />
@@ -42,10 +42,9 @@ item_ids:
   <ItemImage id="energy_card" scale="2" />
 </Row>
 
-Upgrade cards change the behavior of AE2 [devices](../ae2-mechanics/devices.md) and machines, increasing their speed, improving their
-filter capacity, enabling redstone control, etc.
+Картки-модифікатори змінюють поведінку AE2 [пристроїв](../ae2-mechanics/devices.md) та машин, збільшуючи їхню швидкість, покращуючи їхню фільтрувальну здатність, дозволяючи контролюватися редстоуном тощо.
 
-## Card Components
+## Компоненти карток
 
 <Row>
   <ItemImage id="basic_card" scale="2" />
@@ -53,7 +52,7 @@ filter capacity, enabling redstone control, etc.
   <ItemImage id="advanced_card" scale="2" />
 </Row>
 
-Cards are crafted with either basic or advanced card bases
+Картки створюються з базової або вдосконаленої основ карток
 
 <Row>
   <RecipeFor id="basic_card" />
@@ -61,102 +60,94 @@ Cards are crafted with either basic or advanced card bases
   <RecipeFor id="advanced_card" />
 </Row>
 
-## Redstone Card
+## Карта редстоуну
 
 <ItemImage id="redstone_card" scale="2" />
 
-Redstone cards add redstone control, adding a toggle button in the device's GUI to swap between various redstone conditions.
+Картки редстоуну забезпечують контроль редстоуном, додаючи кнопку перемикання в графічному інтерфейсі пристрою для перемикання між різними станами редстоуну.
 
 <RecipeFor id="redstone_card" />
 
-## Capacity Card
+## Картка місткості
 
 <ItemImage id="capacity_card" scale="2" />
 
-Capacity cards increase the amount of filter slots in import, export, and storage busses, and formation planes.
+Картки місткості збільшують кількість слотів фільтрів в шинах імпорту, експорту та зберігання, а також у площинах формування.
 
 <RecipeFor id="capacity_card" />
 
-## Overflow Destruction Card
+## Картка знищення переповнення
 
 <ItemImage id="void_card" scale="2" />
 
-Overflow destruction cards can be applied to [storage cells](storage_cells.md) in a <ItemLink id="cell_workbench" />
-and will delete incoming items if the cell is full. (make sure to [partition](cell_workbench.md) your cells!) Combined with an equal distribution card,
-items will be voided if that specific item's section of the cell is full, even if other items' sections are empty.
+Картки знищення переповнення можна застосовувати до [комірок зберігання](storage_cells.md) через <ItemLink id="cell_workbench" />, що дозволить видаляти вхідні речі, якщо комірка заповнена. (обов'язково [розгалужуйте](cell_workbench.md) свої комірки!) У поєднанні з карткою рівного розподілу, предмети будуть знищені, якщо секція цього конкретного предмета в комірці заповнена, навіть якщо секції інших предметів порожні.
 
 <RecipeFor id="void_card" />
 
-## Fuzzy Card
+## Картка нечіткості
 
 <ItemImage id="fuzzy_card" scale="2" />
 
-Fuzzy cards let devices and tools with filters filter by damage level and/or ignore item NBT, allowing you to export
-all iron axes no matter the damage level and enchantments, or only export damaged diamond swords, not fully repaired ones.
+Картки нечіткості дозволяють пристроям та інструментам з фільтрами фільтрувати за рівнем пошкодження та/або ігнорувати будь-які NBT предметів, що дозволяє, наприклад, експортувати всі залізні сокири незалежно від рівня пошкодження та чарів, або експортувати лише пошкоджені діамантові мечі, а не повністю цілі.
 
-Below is an example of how Fuzzy Damage comparison mods work, left side is the
-bus config, top is the compared item.
+Нижче наведено приклад того, як працюють режими нечіткого порівняння пошкоджень, ліворуч — конфігурація шини, зверху — порівнюваний предмет.
 
-| 25%                    | 10% Damaged Pickaxe | 30% Damaged Pickaxe | 80% Damaged Pickaxe | Full Repair Pickaxe |
+| 25%                    | Пошкоджене на 10% кайло | Пошкоджене на 30% кайло | Пошкоджене на 80% кайло | Ціле кайло |
 | ---------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| Nearly Broken Pickaxe  | ✅                   | \*\*\*\*            | \*\*\*\*            | \*\*\*\*            |
-| Fully Repaired Pickaxe | \*\*\*\*            | ✅                   | ✅                   | ✅                   |
+| Майже зламане кайло    | ✅                  | \*\*\*\*            | \*\*\*\*            | \*\*\*\*            |
+| Ціле кайло             | \*\*\*\*            | ✅                   | ✅                   | ✅                   |
 
-| 50%                    | 10% Damaged Pickaxe | 30% Damaged Pickaxe | 80% Damaged Pickaxe | Full Repair Pickaxe |
+| 50%                    | Пошкоджене на 10% кайло | Пошкоджене на 30% кайло | Пошкоджене на 80% кайло | Ціле кайло |
 | ---------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| Nearly Broken Pickaxe  | ✅                   | ✅                   | \*\*\*\*            | \*\*\*\*            |
-| Fully Repaired Pickaxe | \*\*\*\*            | \*\*\*\*            | ✅                   | ✅                   |
+| Майже зламане кайло    | ✅                  | ✅                   | \*\*\*\*            | \*\*\*\*            |
+| Ціле кайло             | \*\*\*\*            | \*\*\*\*            | ✅                   | ✅                   |
 
-| 75%                    | 10% Damaged Pickaxe | 30% Damaged Pickaxe | 80% Damaged Pickaxe | Full Repair Pickaxe |
+| 75%                    | Пошкоджене на 10% кайло | Пошкоджене на 30% кайло | Пошкоджене на 80% кайло | Ціле кайло |
 | ---------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| Nearly Broken Pickaxe  | ✅                   | ✅                   | \*\*\*\*            | \*\*\*\*            |
-| Fully Repaired Pickaxe | \*\*\*\*            |                     | ✅                   | ✅                   |
+| Майже зламане кайло    | ✅                  | ✅                   | \*\*\*\*            | \*\*\*\*            |
+| Ціле кайло             | \*\*\*\*            |                     | ✅                   | ✅                   |
 
-| 99%                    | 10% Damaged Pickaxe | 30% Damaged Pickaxe | 80% Damaged Pickaxe | Full Repair Pickaxe |
+| 99%                    | Пошкоджене на 10% кайло | Пошкоджене на 30% кайло | Пошкоджене на 80% кайло | Ціле кайло |
 | ---------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| Nearly Broken Pickaxe  | ✅                   | ✅                   | ✅                   | \*\*\*\*            |
-| Fully Repaired Pickaxe | \*\*\*\*            | \*\*\*\*            | \*\*\*\*            | ✅                   |
+| Майже зламане кайло    | ✅                  | ✅                   | ✅                   | \*\*\*\*            |
+| Ціле кайло             | \*\*\*\*            | \*\*\*\*            | \*\*\*\*            | ✅                   |
 
-| Ignore                 | 10% Damaged Pickaxe | 30% Damaged Pickaxe | 80% Damaged Pickaxe | Full Repair Pickaxe |
+| Ігнорування            | Пошкоджене на 10% кайло | Пошкоджене на 30% кайло | Пошкоджене на 80% кайло | Ціле кайло |
 | ---------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| Nearly Broken Pickaxe  | ✅                   | ✅                   | ✅                   | **✅**               |
-| Fully Repaired Pickaxe | **✅**               | **✅**               | **✅**               | ✅                   |
+| Майже зламане кайло    | ✅                  | ✅                   | ✅                   | **✅**               |
+| Ціле кайло             | **✅**              | **✅**               | **✅**               | ✅                   |
 
 <RecipeFor id="fuzzy_card" />
 
-## Acceleration Card
+## Картка прискорення
 
 <ItemImage id="speed_card" scale="2" />
 
-Acceleration cards make stuff go faster, making import and export busses move more items per operation, and making inscribers
-and assemblers work faster.
+Карти прискорення пришвидшують роботу, змушуючи шини імпорту та експорту переміщувати більше предметів за операцію, а також пришвидшуючи роботу пресів та збирачів.
 
 <RecipeFor id="speed_card" />
 
-## Inverter Card
+## Картка інвертора
 
 <ItemImage id="inverter_card" scale="2" />
 
-Inverter cards swap filters in devices and tools from whitelist to blacklist.
+Картки інвертора змінюють фільтри в пристроях та інструментах з білого списку на чорний.
 
 <RecipeFor id="inverter_card" />
 
-## Crafting Card
+## Картка вироблення
 
 <ItemImage id="crafting_card" scale="2" />
 
-Crafting cards let the device send crafting requests to your [autocrafting](../ae2-mechanics/autocrafting.md)
-system to get the items it desires.
+Картки вироблення дозволяють пристрою надсилати запити на вироблення до вашої системи [автовироблення](../ae2-mechanics/autocrafting.md), щоб отримати потрібні предмети.
 
 <RecipeFor id="crafting_card" />
 
-## Equal Distribution Card
+## Картка рівного розподілу
 
 <ItemImage id="equal_distribution_card" scale="2" />
 
-Equal distribution cards can be applied to [storage cells](storage_cells.md) in a <ItemLink id="cell_workbench" /> and
-split the cell into equally-sized sections based on what the card is [partitioned](cell_workbench.md) to. This prevents one item type from completely
-filling the cell.
+Картки рівного розподілу можна застосовувати до [комірок зберігання](storage_cells.md) через <ItemLink id="cell_workbench" /> та розділяти комірку на секції однакового розміру залежно від того, на що [розгалужена](cell_workbench.md) комірка. Це запобігає повному заповненню комірки одним типом предмета.
 
 <RecipeFor id="equal_distribution_card" />
 
@@ -164,7 +155,6 @@ filling the cell.
 
 <ItemImage id="energy_card" scale="2" />
 
-Energy cards add more energy storage to certain tools like portable terminals, and make <ItemLink id="vibration_chamber" />s
-more efficient.
+Енергетичні карти додають більше енергії до певних інструментів, таких як портативні термінали, та роблять <a href="vibration_chamber.md">вібраційну камеру</a> ефективнішою.
 
 <RecipeFor id="energy_card" />

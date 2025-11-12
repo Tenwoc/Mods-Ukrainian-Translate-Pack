@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Network Tool
+  title: Мережевий інструмент
   icon: network_tool
   position: 410
 categories:
@@ -10,35 +10,31 @@ item_ids:
 - ae2:network_tool
 ---
 
-# Network Tool
+# Мережевий інструмент
 
 <ItemImage id="network_tool" scale="4" />
 
-The Network Tool is a modified [wrench](wrench.md) that also shows network diagnostic information and can store [upgrade cards](upgrade_cards.md).
-While it retains the wrench's ability to quickly disassemble things and pull [subparts](../ae2-mechanics/cable-subparts.md)
-off of a cable, it cannot rotate things.
+Мережевий інструмент — це модифікований [ключ](wrench.md) який також показує діагностичну інформацію мережі та може зберігати [модифікатори](upgrade_cards.md). Хоча він зберігає здатність ключа швидко розбирати речі та знімати [компоненти](../ae2-mechanics/cable-subparts.md) з кабелів, він не може їх обертати.
 
-It has 9 slots in which to store [upgrade cards](upgrade_cards.md), and they will be available in any AE2 device UI if the tool
-is anywhere in your inventory.
+Він має 9 слотів для зберігання [модифікаторів](upgrade_cards.md), і вони будуть доступні в будь-якому інтерфейсі пристрою AE2, якщо інструмент є десь у вашому інвентарі.
 
-Right-clicking any part of a network will show a diagnostic info window, similar to right-clicking a <ItemLink id="controller" />.
-This window shows
+Клацання ПКМ на будь-якій частині мережі відобразить вікно діагностичної інформації, подібно до клацання ПКМ по <ItemLink id="controller" />у.
+Це вікно показує
 
-*   The amount of channels in-use on the network
-*   A toggle for the global setting to view energy in AE or E/FE
-*   The amount of [energy](../ae2-mechanics/energy.md) stored in the network, and the network's maximum energy capacity
-*   The amount of energy entering and being used by the network
-*   A list of all the [devices](../ae2-mechanics/devices.md) and components on the network
+* Кількість каналів, що використовуються в мережі
+* Перемикач для глобального налаштування перегляду енергії в AE або E/FE
+* Кількість [енергії](../ae2-mechanics/energy.md) що зберігається в мережі, та максимальну енергетичну потужність мережі
+* Кількість енергії, що надходить і використовується мережею
+* Список усіх [пристроїв](../ae2-mechanics/devices.md) та компонентів у мережі
 
-This window is also helpful for figuring out if two different cables or devices are part of the same network when messing around with
-[Subnetworks](../ae2-mechanics/subnetworks.md).
+Це вікно також корисне для визначення того, чи є два різні кабелі або пристрої частиною однієї мережі, під час роботи з [підмережами](../ae2-mechanics/subnetworks.md).
 
-## Hiding Facades
+## Приховування фасадів
 
-<a href="facades.md">Facades</a> will be hidden while holding a network tool in either hand.
+<a href="facades.md">Фасади</a> будуть приховані, якщо тримати мережевий інструмент в будь-якій руці.
 
-You can interact with blocks behind hidden facades without having to remove the facades first.
+У цьому режимі ви можете взаємодіяти з блоками за прихованими фасадами напряму.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="network_tool" />

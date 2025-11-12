@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Quartz Tools
+  title: Кварцові інструменти
   icon: certus_quartz_pickaxe
   position: 410
 categories:
@@ -19,7 +19,7 @@ item_ids:
 - ae2:nether_quartz_sword
 ---
 
-# Quartz Tools
+# Кварцові інструменти
 
 <Row>
   <ItemImage id="certus_quartz_axe" scale="4" />
@@ -45,10 +45,9 @@ item_ids:
   <ItemImage id="nether_quartz_sword" scale="4" />
 </Row>
 
-Quartz tools are functionally identical to iron tools, with the same damage, durability, mining speed, etc.
-There are nether quartz and [certus quartz](fluix_crystal.md) variants.
+Кварцові інструменти функціонально ідентичні залізним інструментам, з однаковою шкодою, міцністю, швидкістю видобутку тощо. Існують варіанти з незерського та [істинного кварцу](fluix_crystal.md).
 
-## Recipes
+## Рецепти
 
 <Column>
   <Row>

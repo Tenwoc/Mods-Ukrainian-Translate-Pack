@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Formation Plane
+  title: МЕ Площина формування
   icon: formation_plane
   position: 210
 categories:
@@ -10,22 +10,20 @@ item_ids:
 - ae2:formation_plane
 ---
 
-# The Formation Plane
+# Площина формування
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../assets/blocks/formation_plane.snbt" />
 </GameScene>
 
-The Formation Plane places blocks and drops items. It works similarly to an insert-only <ItemLink id="storage_bus" />,
-placing/dropping when things are "stored" in it by [devices](../ae2-mechanics/devices.md) inserting into [network storage](../ae2-mechanics/import-export-storage.md),
-like <ItemLink id="import_bus" />ses and <ItemLink id="interface" />s.
+Площина формування розміщує блоки та скидає предмети. Вона працює як <ItemLink id="storage_bus" />, налаштована тільки на вставляння, й замість фактичного «зберігання» предметів, вона розміщує їх або скидає у світі. 
 
 <GameScene zoom="8" interactive={true}>
   <ImportStructure src="../assets/assemblies/formation_plane_demonstration.snbt" />
   <IsometricCamera yaw="255" pitch="30" />
 </GameScene>
 
-Notice that these are similar to the import bus -> storage bus and interface -> storage bus pipes in [pipe subnets](../example-setups/pipe-subnet.md).
+Зверніть увагу, що її поведінка схожа на «шина імпорту -> шина зберігання» та «інтерфейс -> шина зберігання» в [трубних підмережах](../example-setups/pipe-subnet.md).
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/import_storage_pipe.snbt" />
@@ -37,39 +35,36 @@ Notice that these are similar to the import bus -> storage bus and interface -> 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-This [device](../ae2-mechanics/devices.md) makes use of the mechanics used by storage busses in things like [pipe subnets](../example-setups/pipe-subnet.md),
-and can replace storage busses in those setups if you want to drop items/place blocks instead of transport items.
+Цей [пристрій](../ae2-mechanics/devices.md) використовує механіку, що використовується шинами зберігання в таких речах, як [трубні підмережі](../example-setups/pipe-subnet.md), і може замінити шини зберігання в цих установках, якщо ви хочете скидати предмети/розміщувати блоки замість транспортування предметів.
 
-They are [cable subparts](../ae2-mechanics/cable-subparts.md).
+Площини є [кабельними компонентами](../ae2-mechanics/cable-subparts.md).
 
-**REMEMBER TO ENABLE FAKE PLAYERS IN YOUR CHUNK CLAIM**
+**ПЕРЕКОНАЙТЕСЯ, ЩО FAKE PLAYER УВІМКНЕНО НА ВАШІЙ ПРИВЛАСНЕНІЙ ДІЛЯНЦІ**
 
-## Filtering
+## Фільтрація
 
-By default the plane will place/drop anything. Items inserted into its filter slots will act as a whitelist, only
-allowing those specific items to be placed.
+Усталено площина розміщуватиме/скидатиме будь-що. Предмети, вставлені в її слоти фільтрів, діятимуть як білий список, дозволяючи розміщувати лише їх.
 
-Items and fluids can be dragged into the slots from JEI/REI even if you don't actually have any of that item.
+Предмети та рідини можна перетягувати в слоти з JEI/REI, навіть якщо у вас насправді немає жодного з цих предметів.
 
-Right-click with a fluid container (like a bucket or fluid tank) to set that fluid as a filter instead of the bucket or tank item.
+Клацніть ПКМ за допомогою місткости з рідиною (наприклад, відром або резервуаром), щоб встановити цю рідину як фільтр замість конкретно предмета відра або резервуара.
 
-## Priority
+## Пріоритет
 
-Priorities can be set by clicking the wrench in the top-right of the GUI.
-Items entering the network will start at the highest priority storage.
+Пріоритети можна встановити, натиснувши на кнопку налаштування у правому верхньому куті інтерфейсу. Предмети, що надходять у мережу, спочатку потрапляють у сховище з найвищим пріоритетом.
 
-## Settings
+## Налаштування
 
-*   The plane can be set to place blocks in-world or drop items
+* Площина має налаштування для розміщення блоків у світі або скидання предметів
 
-## Upgrades
+## Модифікатори
 
-The formation plane supports the following [upgrades](upgrade_cards.md):
+Площина формування підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="capacity_card" /> increases the amount of filter slots
-*   <ItemLink id="fuzzy_card" /> lets the plane filter by damage level and/or ignore item NBT
-*   <ItemLink id="inverter_card" /> switches the filter from a whitelist to a blacklist
+*   <ItemLink id="capacity_card" /> збільшує кількість слотів для фільтрування
+*   <ItemLink id="fuzzy_card" /> lets the plane фільтрувати за рівнем пошкодження та/або ігнорувати будь-які NBT предметів
+*   <ItemLink id="inverter_card" /> перемикає фільтр з білого списку на чорний список
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="formation_plane" />

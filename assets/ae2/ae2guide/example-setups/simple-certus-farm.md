@@ -44,14 +44,14 @@ See [Certus Growth](../ae2-mechanics/certus-growth.md) for estimated speeds.
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
 * The first <ItemLink id="annihilation_plane" /> (1) has no GUI and cannot be configured, but can be enchanted with fortune.
 * The first <ItemLink id="storage_bus" /> (2) is filtered to <ItemLink id="certus_quartz_crystal" />.
 * The second <ItemLink id="storage_bus" /> (3) is filtered to <ItemLink id="certus_quartz_crystal" />, and has its
   [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) set higher than the main storage.
 
-## How It Works
+## Як це працює
 
 1. The <ItemLink id="annihilation_plane" /> attempts to break what is in front of it, but can only break <ItemLink id="quartz_cluster" />
    because the only storage on the subnet is the <ItemLink id="storage_bus" />, filtered to <ItemLink id="certus_quartz_crystal" />.

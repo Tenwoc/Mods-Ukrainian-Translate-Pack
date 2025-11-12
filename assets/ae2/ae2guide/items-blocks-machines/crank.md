@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Crank
+  title: Дерев'яний кривошип
   icon: crank
   position: 310
 categories:
@@ -10,15 +10,15 @@ item_ids:
 - ae2:crank
 ---
 
-# The Crank
+# Кривошип
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/crank_on_stuff.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-The crank is used to power machines when you don't otherwise have access to power (or an <ItemLink id="energy_acceptor" />). Early-game struggles, am I right?
+Кривошип використовується для живлення машин, коли у вас немає доступу до кращих методів живлення (або <a href="energy_acceptor.md">приймача енергії</a>). Труднощі на початку гри, чи не так?
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="crank" />

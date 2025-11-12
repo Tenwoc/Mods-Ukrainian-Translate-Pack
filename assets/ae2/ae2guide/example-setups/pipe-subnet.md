@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: example-setups/example-setups-index.md
-  title: Item/Fluid "Pipe" Subnet
+  title: Трубні преметні/рідинні підмережі
   icon: storage_bus
 ---
 
@@ -180,7 +180,7 @@ Of course, you don't have to use just one <ItemLink id="import_bus" /> or <ItemL
 <IsometricCamera yaw="185" pitch="30" />
 </GameScene>
 
-## Постачання інгредієнтів у декілька місць
+## Постачання складників у декілька місць
 
 From all this, we can derive a method to send ingredients from one <ItemLink id="pattern_provider" /> face to many different
 locations, like an array of machines, or several different faces of one machine.

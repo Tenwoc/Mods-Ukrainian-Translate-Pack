@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Cell Workbench
+  title: Верстак для комірок
   icon: cell_workbench
   position: 310
 categories:
@@ -10,26 +10,26 @@ item_ids:
 - ae2:cell_workbench
 ---
 
-# The Cell Workbench
+# Верстак для комірок
 
 <BlockImage id="cell_workbench" scale="8" />
 
-The Cell Workbench allows you to configure [storage cells](storage_cells.md) and <ItemLink id="view_cell" />s.
+Верстак для комірок дозволяє налаштовувати [комірки сховища](storage_cells.md) та <ItemLink id="view_cell" />.
 
-You can add [upgrade cards](upgrade_cards.md) and configure "partitions" to filter what the cell will store.
+Ви можете додати [модифікатори](upgrade_cards.md) та «розгалудити» вміст, щоб фільтрувати те, що зберігатиметься в комірці.
 
-Items and fluids can be dragged into the slots from JEI/REI even if you don't actually have any of that item.
+Предмети та рідини можна перетягувати в слоти з JEI, навіть якщо у вас насправді немає жодного з цих предметів.
 
-Right-click with a fluid container (like a bucket or fluid tank) to set that fluid as a filter instead of the bucket or tank item.
+Клацніть ПКМ контейнером з рідиною (наприклад, відром або резервуаром для рідини), щоб встановити цю рідину як фільтр замість предмета відра або резервуара.
 
-## Settings
+## Налаштування
 
-The cell workbench has a few buttons on the top-left:
+Верстак для комірок має кілька кнопок у верхньому лівому куті:
 
-*   You can partition a cell based on its existing contents
-*   You can clear the cell's partitioning
-*   The workbench can be set to retain the partition settings when the cell is removed, allowing you to copy settings between cells.
+* Ви можете розгалузити комірку на основі її поточного вмісту
+* Ви можете очистити фільтри комірки
+* Робочий стіл можна налаштувати так, щоб він зберігав налаштування розгалуження після видалення комірки, що дозволяє копіювати налаштування між комірками.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="cell_workbench" />

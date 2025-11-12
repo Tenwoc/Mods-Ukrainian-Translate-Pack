@@ -1,48 +1,43 @@
 ---
 navigation:
   parent: example-setups/example-setups-index.md
-  title: Interface Autostocking
+  title: Інтерфейсне автозапасання
   icon: interface
 ---
 
-# Interface Autostocking
+# Інтерфейсне автозапасання
 
-One might ask "How do I keep a certain amount of various items in stock, crafting more as needed?"
+Хтось може запитати: «Як мені зберігати певну кількість різних предметів про запас, виготовляючи більше за потреби?»
 
-One solution is use of an <ItemLink id="interface" /> and <ItemLink id="crafting_card" /> to automatically request new items
-from your network's [autocrafting](../ae2-mechanics/autocrafting.md). This setup is more suited to maintaining a small quantity of a wide
-variety of items.
+Одним із рішень є поєднання <ItemLink id="interface" /> та <ItemLink id="crafting_card" /> для автоматичного запиту нових предметів з вашої системи [автовироблення](../ae2-mechanics/autocrafting.md) вашої мережі. Ця схема більше підходить для підтримки невеликої кількості широкого спектра предметів.
 
-This demonstration setup is cut short so it isn't too wide, it is likely most optimal to use 4 <ItemLink id="interface" />s and 4 <ItemLink id="storage_bus" />ses,
-to use all 8 [channels](../ae2-mechanics/channels.md) in a regular [cable](../items-blocks-machines/cables.md).
+Ця демонстраційна схема скорочена, щоб не бути надто широкою. Ймовірно, оптимальніше використовувати 4 <ItemLink id="interface" /> та 4 <ItemLink id="storage_bus" />, щоб використовувати всі 8 [каналів](../ae2-mechanics/channels.md) у звичайному [кабелі](../items-blocks-machines/cables.md).
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/interface_autostocking.snbt" />
 
 <BoxAnnotation color="#dddddd" min="0 0 0" max="2 1 1">
-        (1) Interfaces: Set to keep the desired items in themselves. They have Crafting Cards.
+        (1) Інтерфейси: Налаштовано так, щоб потрібні предмети залишалися всередині. Вони мають картки вироблення.
         <ItemImage id="crafting_card" scale="2" />
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 1 0" max="2 1.3 1">
-        (2) Storage Busses: "Input/Output Mode" set to "Extract Only".
+        (2) Шини зберігання: «Режим логістики» встановлено на «вихідний».
   </BoxAnnotation>
 
 <DiamondAnnotation pos="4 0.5 0.5" color="#00ff00">
-        To Main Network
+        До основної мережі
     </DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
-* The <ItemLink id="interface" />s (1) are set to keep the desired items in themselves, by clicking the desired item into their
-   top slots or dragging into the top slots from JEI, then clicking on the wrench icon above the slots to set the amount. They have <ItemLink id="crafting_card" />s.
-* The <ItemLink id="storage_bus" />ses (2) are set such that "Input/Output Mode" is set to "Extract Only".
+* <ItemLink id="interface" /> (1) налаштовані на збереження потрібних предметів, що робиться клацанням потрібного предмета у верхні слоти або перетягуванням їхні у верхні слоти з JEI. Над налаштованими предметами з'являється кнопка налаштування, де можна точно вказати їхню кількість. Вони також мають <ItemLink id="crafting_card" />.
+* <ItemLink id="storage_bus" /> налаштовані таким чином, що «режим логістики» встановлено на «вихідний».
 
-## How It Works
+## Як це працює
 
-1. If an <ItemLink id="interface" /> cannot retrieve enough of a configured item from [network storage](../ae2-mechanics/import-export-storage.md),
-   (and it has a <ItemLink id="crafting_card" />), it will request that the network's [autocrafting](../ae2-mechanics/autocrafting.md) craft more of that item.
-2. The <ItemLink id="storage_bus" />ses allow the network to access the contents of the interfaces.
+1. Якщо <ItemLink id="interface" /> не може отримати достатню кількість налаштованого предмета з [мережевого сховища](../ae2-mechanics/import-export-storage.md), (і він має <ItemLink id="crafting_card" />), він зробить запит до системи [автовироблення](../ae2-mechanics/autocrafting.md) цієї мережі для отримання достатньої кількості предмета.
+2. <ItemLink id="storage_bus" /> дозволяють мережі отримувати доступ до вмісту інтерфейсів.

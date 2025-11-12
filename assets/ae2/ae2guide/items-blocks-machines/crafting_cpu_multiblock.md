@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Crafting CPU Multiblock (Storage, Coprocessor, Monitor, Unit)
+  title: Конструкція процесора вироблення (сховище, співпроцесор, монітор, блок)
   icon: 1k_crafting_storage
   position: 210
 categories:
@@ -17,7 +17,7 @@ item_ids:
 - ae2:crafting_unit
 ---
 
-# The Crafting CPU
+# Процесор вироблення
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/crafting_cpus.snbt" />
@@ -34,37 +34,33 @@ item_ids:
   <BlockImage id="crafting_unit" scale="4" />
 </Row>
 
-Crafting CPUs manage crafting requests/jobs. They store the intermediate ingredients while crafting jobs with multiple steps are
-being carried out, and affect how big jobs can be, and to some degree how fast they are completed. See [autocrafting](../ae2-mechanics/autocrafting.md)
-for more details.
+Процесори вироблення керують запитами/завданнями на вироблення. Вони зберігають проміжні складники під час виконання завдань з кількома кроками та впливають на те, наскільки великими можуть бути завдання, і певною мірою на швидкість їх виконання. Дивіться розділ [автовироблення](../ae2-mechanics/autocrafting.md) для отримання додаткової інформації.
 
-Each crafting CPU handles 1 request or job, so if you want to request both a calculation processor and 256 smooth stone at once, you need 2 CPU multiblocks.
+Кожен процесор вироблення обробляє 1 запит або завдання, тому, якщо ви хочете запросити одночасно *обчислювальний процесор* та *256 гладких каменів*, вам потрібно мати 2 конструкції процесора.
 
-They can be set to handle requests from players, automation (export busses and interfaces), or both.
+Їх можна налаштувати на обробку запитів від гравців, автоматизації (експорт шин та інтерфейсів) або обох.
 
-Right-clicking one brings up a crafting status UI where you can check the progress on the crafting job the CPU is handling.
+Клацання ПКМ по процесору вироблення викликає інтерфейс стану вироблення, де ви можете перевірити прогрес завдання, яке він обробляє.
 
-## Settings
+## Налаштування
 
-*   The CPU can be set to accept requests from just players, just automation (like <ItemLink id="export_bus" />ses with
-    <ItemLink id="crafting_card" />s), or both.
+*   Процесор можна налаштувати на прийняття запитів лише від гравців, лише від автоматизації (наприклад <ItemLink id="export_bus" />, в яку встановлена <ItemLink id="crafting_card" />s) або обох.
 
-## Construction
+## Конструкція
 
-Crafting CPUs are multiblocks, and must be solid rectangular prisms with no gaps. They are made out of several components.
+Процесори вироблення – це конструкції, які повинні бути суцільними прямокутними паралелепіпедами без проміжків. Вони складаються з кількох компонентів.
 
-Each CPU must contain at least 1 crafting storage block (and the minimum viable CPU is in fact just a single 1k crafting storage).
+Кожен процесор повинен містити щонайменше 1 блок сховища вироблення (і мінімально життєздатний процесор насправді є лише розміром в одне 1К сховище вироблення).
 
-# Crafting Unit
+# Блок вироблення
 
 <BlockImage id="crafting_unit" scale="4" />
 
-(Optional) Crafting units simply fill space in a CPU in order to make it a solid rectangular prism, if you don't have enough
-of the other components. They are also a base ingredient in the other components.
+(Необов'язково) Блоки вироблення просто заповнюють простір у процесорі, щоб зробити його суцільним прямокутним паралелепіпедом, якщо у вас недостатньо інших компонентів. Вони також є базовим складником в інших компонентах цієї конструкції.
 
 <RecipeFor id="crafting_unit" />
 
-# Сховище для вироблення
+# Сховище вироблення
 
 <Row>
   <BlockImage id="1k_crafting_storage" scale="4" />
@@ -78,9 +74,7 @@ of the other components. They are also a base ingredient in the other components
   <BlockImage id="256k_crafting_storage" scale="4" />
 </Row>
 
-(Required) Crafting storages are available in all the standard cell sizes (1k, 4k, 16k, 64k, 256k). They store the ingredients and
-intermediate ingredients involved in a craft, so larger or more storages are required for the CPU to handle crafting jobs
-with more ingredients.
+(Обов'язково) Сховища вироблення доступні у всіх стандартних розмірах комірок (1К, 4К, 16К, 64К, 256К). Вони зберігають складники та проміжні складники, що беруть участь у виробленні, тому для обробки завдань вироблення з більшою кількістю складників процесору потрібні більші розміри або більша кількість сховищ.
 
 <Column>
   <Row>
@@ -98,28 +92,20 @@ with more ingredients.
   </Row>
 </Column>
 
-# Crafting Co-Processing Unit
+# Блок спільної обробки
 
 <BlockImage id="crafting_accelerator" scale="4" />
 
-(Optional) Crafting co-processors make the system send out ingredient batches from <ItemLink id="pattern_provider" />s more often
-by making the CPU tick faster.
-This allows them to keep up with machines that process quickly. An example of this is a pattern provider surrounded by
-<ItemLink id="molecular_assembler" />s being able to push ingredients faster than a single assembler can process, and thus
-distributing the ingredient batches between the surrounding assemblers.
+(Необов'язково) Блоки спільної обробки (також відомі як співпроцесори) змушують систему частіше надсилати партії складників через <ItemLink id="pattern_provider" />, пришвидшуючи роботу процесора. Це дозволяє їм встигати за машинами, які дуже швидко обробляють рецепти. Прикладом цього є постачальник шаблонів, оточений <a href="molecular_assembler.md">молекулярними збирачами</a>, який може надсилати складники швидше, ніж може обробити один збирач, і таким чином розподіляти партії складників між усіма прилеглими збирачами.
 
-Some complex recipes have multiple steps that can be done in parallel, like making planks and books simultaneously for making bookshelves.
-In the crafting status screen (visible by right clicking a CPU or with the hammer icon in a [terminal](terminals.md)), these
-steps will all show up as "scheduled". Each extra coprocessor allows one more of these steps to be done in parallel (and thus show up as "crafting").
-However, this is not as relevant because you'll typically have more coprocessors purely for the insertion speed than a recipe has steps that could conceivably be done in parallel.
+Деякі складні рецепти мають кілька кроків, які можна виконувати паралельно, наприклад, одночасне створення дощок і книг для майстрування книжкових полиць. На екрані стану вироблення (який можна побачити, клацнувши ПКМ на процесорі або за допомогою значка молотка в [терміналі](terminals.md)) ці кроки відображатимуться як «заплановані». Кожен додатковий співпроцесор дозволяє виконувати ще один із цих кроків паралельно (і таким чином відображати його як «вироблення»). Однак це не так важливо, оскільки зазвичай у вас буде більше співпроцесорів виключно для швидкості вставки, ніж рецепт має кроків, які можна було б виконати паралельно.
 
 <RecipeFor id="crafting_accelerator" />
 
-# Crafting Monitor
+# Монітор вироблення
 
 <BlockImage id="crafting_monitor" scale="4" />
 
-(Optional) The crafting monitor displays the job the CPU is handling at the moment.
-The screen can be colored with a <ItemLink id="color_applicator" />.
+(Необов'язково) Монітор вироблення відображає завдання, яке процесор обробляє на цей момент. Екран можна розфарбувати, використовуючи <ItemLink id="color_applicator" />.
 
 <RecipeFor id="crafting_monitor" />

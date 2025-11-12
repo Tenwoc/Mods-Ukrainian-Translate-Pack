@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Cutting Knives
+  title: Ножі
   icon: certus_quartz_cutting_knife
   position: 410
 categories:
@@ -11,7 +11,7 @@ item_ids:
 - ae2:nether_quartz_cutting_knife
 ---
 
-# Quartz Tools
+# Кварцові ножі
 
 <Row>
   <ItemImage id="certus_quartz_cutting_knife" scale="4" />
@@ -19,12 +19,11 @@ item_ids:
   <ItemImage id="nether_quartz_cutting_knife" scale="4" />
 </Row>
 
-Cutting knives are used to make <ItemLink id="name_press" />es and <ItemLink id="cable_anchor" />s.
+Ножі потрібні для створення двох предметів: <ItemLink id="name_press" /> та <ItemLink id="cable_anchor" />.
 
-To craft a name press, right click the cutting knife and insert an ingot of metal, you will then have to type the name you
-wish to write onto the plate then simply extract the finished plate.
+Щоб створити штамп іменування, застосуйте ніж та вставте металевий злиток. Потім вам потрібно буде ввести ім'я, яке ви хочете штампувати, на пластині, а потім просто вийміть готовий штамп.
 
-## Recipes
+## Рецепти
 
 <Row>
   <RecipeFor id="certus_quartz_cutting_knife" />

@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: ME Storage Bus
+  title: МЕ Шина зберігання
   icon: storage_bus
   position: 220
 categories:
@@ -10,65 +10,50 @@ item_ids:
 - ae2:storage_bus
 ---
 
-# The Storage Bus
+# Шина зберігання
 
 <GameScene zoom="8" background="transparent">
 <ImportStructure src="../assets/blocks/storage_bus.snbt" />
 </GameScene>
 
-Ever wanted to *keep* your chest monster instead of replacing it with something sensible? We present the Storage Bus!
+Ви коли-небудь хотіли *залишити* свою монструозну скриню, замість того, щоб замінити її чимось розумним? Представляємо Шину зберігання!
 
-The storage bus turns the inventory it's touching into [network storage](../ae2-mechanics/import-export-storage.md).
-It does this by allowing the network to see the contents of that inventory, and by pushing to and pulling from that
-inventory in order to fulfill [devices](../ae2-mechanics/devices.md) pushing to and pulling from network storage.
+Шина зберігання перетворює містило, якого вона торкається, на [мережеве сховище](../ae2-mechanics/import-export-storage.md). Вона робить це, дозволяючи мережі бачити вміст цього містила, а також надсилати та витягувати речі з нього за допомогою логістичних [пристроїв](../ae2-mechanics/devices.md).
 
-Due to AE2's philosophy of emergent mechanics through interaction of the functions of the [devices](../ae2-mechanics/devices.md), you don't
-necessarily *have* to use a storage bus for *storage*. By using [subnetworks](../ae2-mechanics/subnetworks.md)
-to make a storage bus (or handful of storage busses) the *only* storage on a network, you can use it as a source or destination
-for item transfer. (see ["pipe subnet"](../example-setups/pipe-subnet.md))
+Завдяки філософії емерджентної механіки AE2 через взаємодію функцій [пристроїв](../ae2-mechanics/devices.md), вам не обов'язково *використовувати* шину зберігання для, саме, *зберігання*. Використовуючи [підмережі](../ae2-mechanics/subnetworks.md), щоб зробити одну або кілька шин зберігання *єдиним* сховищем у мережі, ви можете використовувати її як джерело або місце призначення для передачі предметів. (див. [«трубні підмережі»](../example-setups/pipe-subnet.md))
 
-IMPORTANT NOTE: Big optimized inventories like drawers are fine, but big *un*optimized inventories with many slots, like
-colossal chests, are terrible for performance when used with storage busses.
+ВАЖЛИВА ПРИМІТКА: Великі оптимізовані містила, такі як storage drawers, підійдуть, але великі *не*оптимізовані містила з багатьма слотами, такі як colossal chests, жахливо працюють з шинами зберігання.
 
-They are [cable subparts](../ae2-mechanics/cable-subparts.md).
+Шини є [кабельними компонентами](../ae2-mechanics/cable-subparts.md).
 
-## Filtering
+## Фільтрація
 
-By default the bus will store everything. Items inserted into its filter slots will act as a whitelist, only
-allowing those specific items to be stored.
+Усталено шина зберігатиме все. Речі, вставлені в її слоти фільтрів, діятимуть як білий список, дозволяючи зберігати лише їх.
 
-Items and fluids can be dragged into the slots from JEI/REI even if you don't actually have any of that item.
+Предмети та рідини можна перетягувати в слоти з JEI/REI, навіть якщо у вас насправді немає жодного з цих елементів.
 
-Right-click with a fluid container (like a bucket or fluid tank) to set that fluid as a filter instead of the bucket or tank item.
+Клацніть ПКМ за допомогою місткости з рідиною (наприклад, відром або резервуаром), щоб встановити цю рідину як фільтр замість конкретно предмета відра або резервуара.
 
-## Priority
+## Пріоритет
 
-Priorities can be set by clicking the wrench in the top-right of the GUI.
-Items entering the network will start at the highest priority storage as
-their first destination. In the case of two storages have the same priority,
-if one already contains the item, they will prefer that storage over any
-other. Any filtered storages will be treated as already containing the item
-when in the same priority group as other storages. Items being removed from storage will
-be removed from the storage with the lowest priority. This priority system means as items are inserted and removed
-from network storage, higher priority storages will be filled and lower priority storages will be emptied.
+Пріоритети можна встановити, натиснувши на кнопку налаштування у правому верхньому куті графічного інтерфейсу. Речі, що надходять у мережу, спочатку потрапляють у сховище з найвищим пріоритетом, яке є їхнім першим пунктом призначення. У разі, якщо два сховища мають однаковий пріоритет, але одне з них вже містить предмет, воно буде мати перевагу над іншими сховищами. Будь-які відфільтровані сховища будуть розглядатися як такі, що вже містять предмет, якщо вони знаходяться в одній групі пріоритетів з іншими сховищами. Предмети, що видаляються зі сховища, спершу будуть вилучені зі сховища з найнижчим пріоритетом. Ця система пріоритетів означає, що при вставці та видаленні речей сховища з вищим пріоритетом першими будуть заповнюватися, а сховища з нижчим пріоритетом першими будуть порожніти.
 
-## Settings
+## Налаштування
 
-*   The bus can be partitioned (filtered) to what is currently in the adjacent inventory
-*   The network can be disallowed or allowed to see items in the adjacent inventory that the bus cannot extract
-    (for example, a storage bus cannot extract items from the middle input slot of an <ItemLink id="inscriber" />)
-*   The bus can filter on both insertion and extraction or just insertion
-*   The bus can be bi-directional, insert-only, or extract-only
+* Шину можна розгалузити (фільтрувати) на те, що зараз знаходиться в приєднаному містилі
+* Мережі можна заборонити або дозволити переглядати речі в приєднаному містилі, які шина не може витягти (наприклад, шина зберігання не може витягувати предмети із середнього вхідного слота штампувального преса)
+* Шина може фільтрувати як вставляння, так і витяг, або лише вставляння
+* Шина може діяти двонаправлено, або лише для вводу чи виводу
 
-## Upgrades
+## Модифікатори
 
-The storage bus supports the following [upgrades](upgrade_cards.md):
+Шина зберігання підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="capacity_card" /> increases the amount of filter slots
-*   <ItemLink id="fuzzy_card" /> lets the bus filter by damage level and/or ignore item NBT
-*   <ItemLink id="inverter_card" /> switches the filter from a whitelist to a blacklist
-*   <ItemLink id="void_card" /> voids items inserted if the attached inventory is full, useful for stopping farms from backing up. Be careful to partition this!
+*   <ItemLink id="capacity_card" /> збільшує кількість слотів для фільтрування
+*   <ItemLink id="fuzzy_card" /> дозволяє шині фільтрувати за рівнем пошкодження та/або ігнорувати будь-які NBT предметів
+*   <ItemLink id="inverter_card" /> перемикає фільтр з білого списку на чорний список
+*   <ItemLink id="void_card" /> знищує предмети, що вводяться, якщо приєднане містило повне, корисно для зупинки переповнення автоферм. Будьте обережні з розгалужуванням цього!
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="storage_bus" />

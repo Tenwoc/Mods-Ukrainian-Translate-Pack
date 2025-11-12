@@ -1,0 +1,19 @@
+{
+  "gui.ae2ct.CraftingTreeTitle": "Дерево вироблення",
+  "gui.ae2ct.ShowTree": "Показати дерево вироблення",
+  "gui.ae2ct.OutputAmount": "вироблення: %s",
+  "gui.ae2ct.InputAmount": "необхідно: %s",
+  "gui.ae2ct.MiddenAmount": "використовується: %s",
+  "gui.ae2ct.Info": "Інфо:",
+  "gui.ae2ct.CraftingAmount": "вироблення: %s",
+  "gui.ae2ct.MissingAmount": "не вистачає: %s",
+  "gui.ae2ct.StoredAmount": "збережено: %s",
+  "gui.ae2ct.Screenshot": "Скриншот",
+  "gui.ae2ct.CraftingTreeSettingTitle": "Налаштування",
+  "gui.ae2ct.Setting": "Налаштування",
+  "gui.ae2ct.UseCompactTreeCheckbox": "використовувати компактне дерево вироблення (beta)",
+  "gui.ae2ct.ScreenShotShowCountCheckbox": "Скриншот показує кількість",
+  "ae2ct.screenshot.noready": "скриншот ще не готовий, спробуйте ще пізніше",
+  "ae2ct.screenshot.exception": "не вдалося зробити скриншоти, причина: %s",
+  "ae2ct.openscreen.plannull": "Очікуємо завершення підрахунку вироблення"
+}

@@ -49,7 +49,7 @@ This is useful for local storage at some farm, so that the items will not overfl
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
 * The first <ItemLink id="interface" /> (1) simply accepts items from whatever farm you have and pushes them into the subnet.
 * The <ItemLink id="drive" /> (2) has some [cells](../items-blocks-machines/storage_cells.md) in it. The cells should be
@@ -59,7 +59,7 @@ This is useful for local storage at some farm, so that the items will not overfl
 * The <ItemLink id="storage_bus" /> has its [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) set
   higher than the main storage. It can be filtered to whatever the farm outputs.
 
-## How It Works
+## Як це працює
 
 * The <ItemLink id="interface" /> on the subnet shows the <ItemLink id="storage_bus" /> on the main network the contents of
 the <ItemLink id="drive" />. This means the storage bus can directly pull items from and push items to the cells in the drive.

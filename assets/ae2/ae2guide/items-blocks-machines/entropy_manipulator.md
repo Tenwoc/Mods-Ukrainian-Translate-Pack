@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Entropy Manipulator
+  title: Маніпулятор ентропії
   icon: entropy_manipulator
   position: 410
 categories:
@@ -10,17 +10,16 @@ item_ids:
 - ae2:entropy_manipulator
 ---
 
-# The Entropy Manipulator
+# Маніпулятор ентропії
 
 <ItemImage id="entropy_manipulator" scale="4" />
 
-The Entropy Manipulator allows you to heat and cool things by right-clicking and shift-right-clicking respectively. It can't do much,
-just things like evaporating or freezing water, solidifying lava to obsidian, smelting logs to charcoal, and smelting cobble to stone in-world.
+Маніпулятор ентропії дозволяє нагрівати та охолоджувати об'єкти, клацаючи ПКМ та Shift+ПКМ відповідно. Він не може багато чого робити, лише такі речі, як випаровування або заморожування води, затвердіння лави в обсидіан, плавлення колод у деревне вугілля та плавлення кругляка в камінь у світі.
 
-If there is not a specific thing it can do to a block, it will act as a flint-and-steel.
+Якщо немає конкретної дії, яку він може зробити з блоком, він діятиме як кресало.
 
-Its energy can be recharged in a <ItemLink id="charger" />.
+Його можна зарядити, використовуючи <ItemLink id="charger" />.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="entropy_manipulator" />

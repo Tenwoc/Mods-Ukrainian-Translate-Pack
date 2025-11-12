@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: ME Chest
+  title: МЕ Скриня
   icon: chest
   position: 210
 categories:
@@ -10,64 +10,49 @@ item_ids:
 - ae2:chest
 ---
 
-# The ME Chest
+# МЕ Скриня
 
 <GameScene zoom="8" background="transparent">
 <ImportStructure src="../assets/blocks/chest.snbt" />
 </GameScene>
 
-The ME Chest acts like a miniature network with a <ItemLink id="terminal" />, <ItemLink id="drive" />, and <ItemLink id="energy_acceptor" />.
-While it can be used as a tiny storage network, its capacity for just one single [storage cell](../items-blocks-machines/storage_cells.md)
-means it has limited utility as such.
+МЕ Скриня діє як мініатюрна мережа, що має <ItemLink id="terminal" />, <ItemLink id="drive" />, та <ItemLink id="energy_acceptor" />. Хоча її можна використовувати як крихітну мережу зберігання, її місткість лише для однієї [комірки зберігання](../items-blocks-machines/storage_cells.md) означає, що вона має обмежену корисність у цьому напрямку.
 
-Instead, it is useful for interacting with specifically the storage cell mounted inside it. Its integrated terminal can only see and access
-the items in the mounted drive, while [devices](../ae2-mechanics/devices.md) on the general network can access items in any [network storage](../ae2-mechanics/import-export-storage.md),
-including ME chests.
+Натомість вона корисна для взаємодії саме з коміркою зберігання, встановленою всередині неї. Її інтегрований термінал може бачити та отримувати доступ лише до речей на встановленій комірці, тоді як [пристрої](../ae2-mechanics/devices.md) у загальній мережі можуть отримувати доступ до речей у будь-якому [мережевому сховищі](../ae2-mechanics/import-export-storage.md), включно з МЕ скринями.
 
-It has 2 different GUIs and is sided for item transport. Interacting with the top terminal opens the integrated terminal. Items can be inserted into
-the mounted storage cell through this face, but not extracted. Interacting with any other face opens the GUI with the slot for the storage cell
-and the priority settings. The cell can be inserted and removed by item logistics only through the face with the cell slot.
+Вона має 2 різних графічних інтерфейси та призначена для транспортування предметів. Взаємодія з верхнім терміналом відкриває інтегрований термінал. Предмети можна класти у встановлену комірку зберігання через цю грань, але не витягувати. Взаємодія з будь-якою іншою гранню відкриває графічний інтерфейс зі слотом для комірки зберігання та налаштуваннями пріоритету. Комірку можна вставляти та видаляти за допомогою предметної логістики лише через грань зі слотом для комірки.
 
-It can be rotated with a <ItemLink id="certus_quartz_wrench" />.
+Скриню можна обертати, використовуючи <ItemLink id="certus_quartz_wrench" />.
 
-It has a small AE energy storage buffer, so if not on a network with an [energy cell](../items-blocks-machines/energy_cells.md),
-inserting or extracting too many items at once may cause it to brown out.
+МЕ Скриня має невеликий буфер зберігання енергії AE, тому, якщо вона не в мережі з [енергетичною коміркою](../items-blocks-machines/energy_cells.md), вставка або вилучення занадто великої кількості предметів одночасно може призвести до її відключення.
 
-The terminal can be colored with a <ItemLink id="color_applicator" />.
+Термінал скрині можна забарвити, використовуючи <ItemLink id="color_applicator" />.
 
 <GameScene zoom="6" background="transparent">
 <ImportStructure src="../assets/assemblies/chest_color.snbt" />
 <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Settings
+## Налаштування
 
-The ME Chest has all the same settings as a <ItemLink id="terminal" /> or <ItemLink id="crafting_terminal" />.
-It, however, does not support <ItemLink id="view_cell" />s.
+МЕ Скриня має всі ті ж налаштування, що й <ItemLink id="terminal" /> чи <ItemLink id="crafting_terminal" />. Однак <ItemLink id="view_cell" /> все ж не може бути додана у неї.
 
-## Cell Status LEDs
+## Покажчики стану комірки
 
-The cells in the chest have an LED on them which shows their status:
+Комірки в скрині мають світлодіод, який показує їхній стан:
 
-| Color  | Status                                                                           |
-| :----- | :------------------------------------------------------------------------------- |
-| Green  | Empty                                                                            |
-| Blue   | Has some contents                                                                |
-| Orange | [Types](../ae2-mechanics/bytes-and-types.md) full, no new types can be added     |
-| Red    | [Bytes](../ae2-mechanics/bytes-and-types.md) full, no more items can be inserted |
-| Black  | No power or drive has no [channel](../ae2-mechanics/channels.md)                 |
+| Колір        | Стан                                                                                         |
+| :-----       | :------------------------------------------------------------------------------------------- |
+| Зелений      | Порожньо                                                                                     |
+| Синій        | Має деякий вміст                                                                             |
+| Помаранчевий | Усі [типи](../ae2-mechanics/bytes-and-types.md) зайняті, неможливо додати новий тип предмета |
+| Червоний     | Усі [байти](../ae2-mechanics/bytes-and-types.md) зайняті, неможливо додати більше нічого     |
+| Чорний       | Немає живлення, або приводу не надано [канал](../ae2-mechanics/channels.md)                  |
 
-## Priority
+## Пріоритет
 
-Priorities can be set by clicking the wrench in the top-right of the cell slot GUI.
-Items entering the network will start at the highest priority storage as
-their first destination. In the case of two storages or cells have the same priority,
-if one already contains the item, they will prefer that storage over any
-other. Any [partitioned](cell_workbench.md) cells will be treated as already containing the item
-when in the same priority group as other storages. Items being removed from storage will
-be removed from the storage with the lowest priority. This priority system means as items are inserted and removed
-from network storage, higher priority storages will be filled and lower priority storages will be emptied.
+Пріоритети можна встановити, натиснувши на кнопку налаштування у правому верхньому куті інтерфейсу. Предмети, що надходять у мережу, спочатку потрапляють у сховище з найвищим пріоритетом, яке є їхнім першим пунктом призначення. У разі, якщо два сховища мають однаковий пріоритет, але одне з них вже містить предмет, воно буде мати перевагу над іншими сховищами. Будь-які [розгалужені](cell_workbench.md) комірки будуть розглядатися як такі, що вже містять предмет, якщо вони знаходяться в одній групі пріоритетів з іншими сховищами. Предмети, що видаляються зі сховища, спершу будуть вилучені зі сховища з найнижчим пріоритетом. Ця система пріоритетів означає, що при вставці та видаленні речей сховища з вищим пріоритетом першими будуть заповнюватися, а сховища з нижчим пріоритетом першими будуть порожніти.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="chest" />

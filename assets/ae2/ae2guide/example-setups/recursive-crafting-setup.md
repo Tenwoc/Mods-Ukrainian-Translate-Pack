@@ -70,7 +70,7 @@ to clone <ItemLink id="minecraft:netherite_upgrade_smithing_template" />s.
   <IsometricCamera yaw="15" pitch="30" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
 * The <ItemLink id="interface" /> (1) is set to stock the required additional ingredients: diamond and netherrack.
 * The <ItemLink id="level_emitter" /> (2) is configured with "netherite smithing template", and set to "Emit Redstone to craft item".
@@ -83,7 +83,7 @@ to clone <ItemLink id="minecraft:netherite_upgrade_smithing_template" />s.
 * The second <ItemLink id="import_bus" /> (6) is in its default configuration.
 * The second <ItemLink id="storage_bus" /> (7) is filtered to "netherite smithing template". It has a *lower* [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) than the first storage bus.
 
-## How It Works
+## Як це працює
 
 1. The <ItemLink id="level_emitter" /> pretends to be a [pattern](../items-blocks-machines/patterns.md) due to the inserted
    <ItemLink id="crafting_card" /> and being set to "Emit Redstone to craft item". Thus, "netherite smithing template" shows up in

@@ -88,7 +88,7 @@ See [Certus Growth](../ae2-mechanics/certus-growth.md) for estimated speeds.
   <IsometricCamera yaw="165" pitch="5" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
 ### Cluster Breaker:
 
@@ -110,7 +110,7 @@ See [Certus Growth](../ae2-mechanics/certus-growth.md) for estimated speeds.
 * The third <ItemLink id="storage_bus" /> (7) is filtered to <ItemLink id="certus_quartz_crystal" />, and has its
   [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) set higher than your main storage.
 
-## How It Works
+## Як це працює
 
 ### Cluster Breaker:
 

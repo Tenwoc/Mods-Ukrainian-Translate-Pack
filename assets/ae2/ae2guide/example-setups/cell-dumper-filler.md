@@ -1,66 +1,58 @@
 ---
 navigation:
   parent: example-setups/example-setups-index.md
-  title: Cell Dumper or Filler
+  title: Спорожнювач/заповнювач комірок
   icon: io_port
 ---
 
-# Cell Dumper Or Filler
+# Спорожнювач/заповнювач комірок
 
-One might ask "How do I quickly empty a cell into a chest or drawer array or backpack, or, inversely, fill a cell from the same?"
+Хтось може запитати: «Як швидко очистити комірку в скриню, шухляду чи рюкзак, або, навпаки, заповнити комірку звідти?»
 
-The answer is use of an <ItemLink id="io_port" /> and some subnetting to restrict where it can put the items, or pull items from.
+Відповідь полягає у використанні <ItemLink id="io_port" /> та невеликої підмережі, щоб обмежити місце, де він може складати речі або звідки їх витягувати.
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/cell_dumper_filler.snbt" />
 
 <BoxAnnotation color="#dddddd" min="1 1 0" max="2 2 1">
-        (1) IO Port: Can be set to either "Transfer data to Network" or "Transfer data to Storage Cell" using the arrow button
-        in the middle of the GUI. Has 3 Acceleration Cards.
+        (1) Порт зберігання: Можна встановити на «передачу до мережі» або «передачу до комірки зберігання» за допомогою кнопки зі стрілкою посередині інтерфейсу. Має 3 карти прискорення.
         <ItemImage id="speed_card" scale="2" />
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 0.7 0" max="1 1 1">
-        (2) Storage Bus: In its default configuration.
+        (2) Шина зберігання: Без налаштувань.
   </BoxAnnotation>
 
 <BoxAnnotation color="#33dd33" min="0 1 0" max="1 2 1">
-        Place whatever you want to fill or empty here.
+        Помістіть сюди все, що ви хочете заповнити або спорожнити.
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="2 0.35 0.35" max="2.3 0.65 0.65">
-        Quartz Fiber: Only needed if the energy source is another network.
+        Кварцове волокно: Потрібне лише якщо джерелом енергії є інша мережа.
   </BoxAnnotation>
 
 <DiamondAnnotation pos="3 0.5 0.5" color="#00ff00">
-        To some energy source, like another network, or an energy acceptor.
+        До певного джерела енергії, наприклад, іншої мережі або приймача енергії.
     </DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
-* The <ItemLink id="io_port" /> (1) can be set to either "Transfer data to Network" or "Transfer data to Storage Cell" using the arrow button
-  in the middle of the GUI. It has 3 acceleration cards for maximum speed.
-* The <ItemLink id="storage_bus" /> (2) is in its default configuration.
+* <ItemLink id="io_port" /> (1) можна налаштувати на «передачу до мережі» або «передачу до комірки сховища» за допомогою кнопки зі стрілкою посередині інтерфейсу. Він має 3 слоти для карток прискорення для досягнення максимальної швидкості.
+* The <ItemLink id="storage_bus" /> (2) без налаштувань.
 
-## How It Works
+## Як це працює
 
-### In "Transfer To Network" Mode
+### У режимі «Передача до мережі»
 
-1. The <ItemLink id="io_port" /> attempts to dump the contents of the inserted [storage cell](../items-blocks-machines/storage_cells.md).
-    into [network storage](../ae2-mechanics/import-export-storage.md).
-2. The only storage on the subnet is the <ItemLink id="storage_bus" />, which stores the items or fluids or etc. in whatever
-    you put in front of it.
-* The <ItemLink id="energy_cell" /> provides a large enough buffer of [energy](../ae2-mechanics/energy.md) that the network does
-    not run out from the power draw of transferring so many items per gametick.
+1. <ItemLink id="io_port" /> намагається вивести вміст вставленої [комірки зберігання](../items-blocks-machines/storage_cells.md) у [мережеве сховище](../ae2-mechanics/import-export-storage.md).
+2. Єдиним сховищем у підмережі є <ItemLink id="storage_bus" />, яке зберігає предмети, рідини тощо у тому, що ви розмістите перед ним.
+* <ItemLink id="energy_cell" /> забезпечує достатньо великий буфер [енергії](../ae2-mechanics/energy.md), щоб мережа не відключалася через споживання енергії для передачі такої кількості предметів за ігровий такт.
 
-### In "Transfer To Storage Cell" Mode
+### У режимі «Передача до комірки зберігання»
 
-1. The <ItemLink id="io_port" /> attempts to dump the contents of the [network's storage](../ae2-mechanics/import-export-storage.md)
-   into the inserted [storage cell](../items-blocks-machines/storage_cells.md).
-2. The only storage on the subnet is the <ItemLink id="storage_bus" />, which pulls the items or fluids or etc. out of whatever
-   you put in front of it.
-* The <ItemLink id="energy_cell" /> provides a large enough buffer of [energy](../ae2-mechanics/energy.md) that the network does
-  not run out from the power draw of transferring so many items per gametick.
+1. <ItemLink id="io_port" /> намагається вивести вміст [мережевого сховища](../ae2-mechanics/import-export-storage.md) у вставлену [комірку зберігання](../items-blocks-machines/storage_cells.md).
+2. Єдиним сховищем у підмережі є <ItemLink id="storage_bus" />, яке витягує предмети, рідини тощо з того, що ви розмістите перед ним.
+* <ItemLink id="energy_cell" /> забезпечує достатньо великий буфер [енергії](../ae2-mechanics/energy.md), щоб мережа не відключалася через споживання енергії для передачі такої кількості предметів за ігровий такт.

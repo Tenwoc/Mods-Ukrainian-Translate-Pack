@@ -74,7 +74,7 @@ item_ids:
 
 <ItemImage id="advanced_ae:quantum_upgrade_base" scale="2"></ItemImage>
 
-<ItemLink id="advanced_ae:quantum_upgrade_base" /> сама по собі нічого особливого не робить, але використовується як інгредієнт для крафту для всіх карт покращень.
+<ItemLink id="advanced_ae:quantum_upgrade_base" /> сама по собі нічого особливого не робить, але використовується як складник для створення для всіх карт покращень.
 
 <br/>
 

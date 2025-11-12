@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Matter Cannon
+  title: Матеріальна пушка
   icon: matter_cannon
   position: 410
 categories:
@@ -10,32 +10,28 @@ item_ids:
 - ae2:matter_cannon
 ---
 
-# The Matter Cannon
+# Матеріальна пушка
 
 <ItemImage id="matter_cannon" scale="4" />
 
-The matter cannon is a portable railgun that can fire small items as projectiles, like <ItemLink id="matter_ball" />s and metal nuggets. The damage
-depends on the item being fired, with "heavier" items like gold nuggets (10 damage) doing more damage than light items like matter balls (2 damage).
-It consumes a base energy of 1600 AE per shot.
+Матеріальна пушка — це портативна рейкова гармата, яка може стріляти невеликими предметами як снарядами, такими як <ItemLink id="matter_ball" /> та металеві самородки. Шкода залежить від предмета, який стріляє, причому «важчі» предмети, такі як золоті самородки (10 одиниць шкоди), завдають більше шкоди, ніж легкі предмети, такі як кульки матерії (2 одиниці шкоди). Вона споживає базову енергію 1600 AE за постріл.
 
-When the config option "matterCannonBlockDamage" is true, the cannon will break blocks depending on their hardness and
-the damage of the ammunition.
+Коли параметр конфігурації "matterCannonBlockDamage" має значення "true", пушка розбиватиме блоки залежно від їхньої твердості та шкоди боєприпасів.
 
-Its energy can be recharged in a <ItemLink id="charger" />.
+Її можна заряджати, використовуючи <ItemLink id="charger" />.
 
-Matter cannons act like [storage cells](storage_cells.md), and their ammunition magazine can most easily be filled by sticking
-the cannon in the storage cell slot in a <ItemLink id="chest" />
+Матеріальні пушки діють як [комірки зберігання](storage_cells.md), а їхній магазин боєприпасів найлегше заповнити, вставивши пушку в слот комірки зберігання в <a href="chest.md">МЕ Скрині</a>.
 
-## Upgrades
+## Модифікатори
 
-Matter cannons support the following [upgrades](upgrade_cards.md), inserted via a <ItemLink id="cell_workbench" />:
+Матеріальні пушки підтримують наступні [модифікатори](upgrade_cards.md), які вставляються через <ItemLink id="cell_workbench" />:
 
-*   <ItemLink id="fuzzy_card" /> lets the cell be partitioned by damage level and/or ignore item NBT
-*   <ItemLink id="inverter_card" /> switches the filter from a whitelist to a blacklist
-*   <ItemLink id="speed_card" /> increases the energy used each shot, making it fire with more power.
-*   <ItemLink id="void_card" /> voids items inserted if the cell is full. Be careful to partition this!
-*   <ItemLink id="energy_card" /> in order to increase the battery capacity
+*   <ItemLink id="fuzzy_card" /> дозволяє розгалузити комірку за рівнем пошкодження та/або ігнорувати пошкодження предметів
+*   <ItemLink id="inverter_card" /> перемикає фільтр з білого списку на чорний список
+*   <ItemLink id="speed_card" /> збільшує енергію, що використовується для кожного пострілу, завдяки чому пушка стрілятиме з більшою потужністю
+*   <ItemLink id="void_card" /> знищує вставлені предмети, якщо комірка повна. Будьте обережні при її розгалужуванні!
+*   <ItemLink id="energy_card" /> збільшує місткість акумулятора
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="matter_cannon" />

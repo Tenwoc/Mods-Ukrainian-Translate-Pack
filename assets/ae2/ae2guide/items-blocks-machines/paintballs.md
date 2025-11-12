@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Paintballs
+  title: Фарбові кульки
   icon: green_lumen_paint_ball
   position: 410
 categories:
@@ -41,7 +41,7 @@ item_ids:
 - ae2:black_lumen_paint_ball
 ---
 
-# Paintballs
+# Фарбові кульки
 
 <Row gap="-8">
   <ItemImage id="white_paint_ball" scale="4" />
@@ -55,12 +55,11 @@ item_ids:
   <ItemImage id="red_paint_ball" scale="4" />
 </Row>
 
-Paintballs are used in a <ItemLink id="color_applicator" /> in order to paint colorable blocks like [cables](cables.md),
-wool, terracotta, glass, and concrete. They can also be used in a <ItemLink id="matter_cannon" /> to shoot little splotches of paint.
+<ItemLink id="color_applicator" /> може використовувати фарбові кульки замість барвників для розфарбовування блоків, таких як [кабелі](cables.md), вовну, кераміку, скло та бетон <ItemLink id="matter_cannon" /> може використовувати їх як патрони, що залишають після себе кольорові плями.
 
-## Recipes
+## Рецепти
 
-8 matter balls around a dye
+8 матеріальних кульок навколо барвника
 
 <Column>
   <Row>
@@ -82,7 +81,7 @@ wool, terracotta, glass, and concrete. They can also be used in a <ItemLink id="
   <br />
 </Column>
 
-# Lumen Paintballs
+# Сяйні фарбові кульки
 
 <Row gap="-8">
   <ItemImage id="white_lumen_paint_ball" scale="4" />
@@ -96,12 +95,11 @@ wool, terracotta, glass, and concrete. They can also be used in a <ItemLink id="
   <ItemImage id="red_lumen_paint_ball" scale="4" />
 </Row>
 
-They act identically to regular paintballs but the splotches emit light when shot out of a <ItemLink id="matter_cannon" />.
-Useful as a sort of flaregun I guess.
+Вони працюють так само як і звичайні фарбові кульки, але коли <ItemLink id="matter_cannon" /> влучає ними у якусь поверхню, вони залишають після себе кольорову пляму, яка випромінює світло. Корисно, мабуть, як своєрідна сигнальна ракета.
 
-## Recipes
+## Рецепти
 
-8 paintballs around a glowstone dust
+8 матеріальних кульок навколо свтілокам'яного пилу
 
 <Column>
   <Row>

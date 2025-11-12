@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: ME Drive
+  title: МЕ Привід
   icon: drive
   position: 210
 categories:
@@ -10,42 +10,34 @@ item_ids:
 - ae2:drive
 ---
 
-# The ME Drive
+# Привід
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../assets/blocks/drive.snbt" />
 </GameScene>
 
-The Drive is the [device](../ae2-mechanics/devices.md) you plug your [storage cells](storage_cells.md) into in order to use them for
-[network storage](../ae2-mechanics/import-export-storage.md). It has 10 slots which each accept a cell.
+Привід – це [пристрій](../ae2-mechanics/devices.md), до якого ви підключаєте свої [комірки зберігання](storage_cells.md), щоб використовувати їх для [сховища мережі](../ae2-mechanics/import-export-storage.md). Він має 10 слотів, кожен з яких приймає одну комірку.
 
-If for some reason you want to, you can push and pull the cells from its inventory with any item logistics like hoppers or ae2 busses.
+Якщо з якоїсь причини вам це знадобиться, ви можете витягувати комірки з привода за допомогою будь-яких засобів предметної логістики, наприклад, лійок або шин AE2.
 
-It can be rotated with a <ItemLink id="certus_quartz_wrench" />.
+Його можна обертати, використовуючи <ItemLink id="certus_quartz_wrench" />.
 
-## Cell Status LEDs
+## Покажчики стану комірок
 
-The cells in the drive have an LED on them which shows their status:
+Комірки в приводі мають світлодіод, який показує їхній стан:
 
-| Color  | Status                                                                           |
-| :----- | :------------------------------------------------------------------------------- |
-| Green  | Empty                                                                            |
-| Blue   | Has some contents                                                                |
-| Orange | [Types](../ae2-mechanics/bytes-and-types.md) full, no new types can be added     |
-| Red    | [Bytes](../ae2-mechanics/bytes-and-types.md) full, no more items can be inserted |
-| Black  | No power or drive has no [channel](../ae2-mechanics/channels.md)                 |
+| Колір        | Стан                                                                             |
+| :-----       | :------------------------------------------------------------------------------- |
+| Зелений      | Порожньо                                                                         |
+| Синій        | Має деякий вміст                                                                 |
+| Помаранчевий | Усі [типи](../ae2-mechanics/bytes-and-types.md) зайняті, неможливо додати новий тип предмета |
+| Червоний     | Усі [байти](../ae2-mechanics/bytes-and-types.md) зайняті, неможливо додати більше нічого |
+| Чорний       | Немає живлення, або приводу не надано [канал](../ae2-mechanics/channels.md)      |
 
-## Priority
+## Пріоритет
 
-Priorities can be set by clicking the wrench in the top-right of the GUI.
-Items entering the network will start at the highest priority storage as
-their first destination. In the case of two storages or cells have the same priority,
-if one already contains the item, they will prefer that storage over any
-other. Any [partitioned](cell_workbench.md) cells will be treated as already containing the item
-when in the same priority group as other storages. Items being removed from storage will
-be removed from the storage with the lowest priority. This priority system means as items are inserted and removed
-from network storage, higher priority storages will be filled and lower priority storages will be emptied.
+Пріоритети можна встановити, натиснувши на кнопку налаштування у правому верхньому куті інтерфейсу. Предмети, що надходять у мережу, спочатку потрапляють у сховище з найвищим пріоритетом, яке є їхнім першим пунктом призначення. У разі, якщо два сховища мають однаковий пріоритет, але одне з них вже містить предмет, воно буде мати перевагу над іншими сховищами. Будь-які [розгалужені](cell_workbench.md) комірки будуть розглядатися як такі, що вже містять предмет, якщо вони знаходяться в одній групі пріоритетів з іншими сховищами. Предмети, що видаляються зі сховища, спершу будуть вилучені зі сховища з найнижчим пріоритетом. Ця система пріоритетів означає, що при вставці та видаленні речей сховища з вищим пріоритетом першими будуть заповнюватися, а сховища з нижчим пріоритетом першими будуть порожніти.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="drive" />

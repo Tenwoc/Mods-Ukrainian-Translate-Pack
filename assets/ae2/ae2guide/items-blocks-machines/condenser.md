@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Matter Condenser
+  title: Конденсатор матерії
   icon: condenser
   position: 310
 categories:
@@ -10,26 +10,21 @@ item_ids:
 - ae2:condenser
 ---
 
-# The Matter Condenser
+# Конденсатор матерії
 
 <BlockImage id="condenser" scale="8" />
 
-The matter condenser can be used as either a trash can or to create <ItemLink id="matter_ball" />s and
-[singularities](singularities.md). It can take any item or fluid or etc. a storage cell can store.
+Конденсатор матерії можна використовувати як сміттєвий бак або як джерело таких предметів як <ItemLink id="matter_ball" /> та [сингулярніть](singularities.md). Він може приймати будь-який предмет, рідину тощо, які можуть уміщувати комірки зберігання.
 
-## Settings/Recipes
+## Налаштування/Рецепти
 
-*   In trash can mode, the matter condenser just voids everything that enters it
-*   In matter ball mode the condenser makes <ItemLink id="matter_ball" />s out of whatever you put in it.
-    This mode requires that you put a storage component in the top slot of the condenser. Matter balls take 256 items or buckets
-    each, so a <ItemLink id="cell_component_1k" /> (which provides 8192 bits of capacity) is more than enough.
-*   In matter singularity mode the condenser makes [singularities](singularities.md) out of whatever you put in it.
-    This mode requires that you put a storage component in the top slot of the condenser. Singularities take 256,000 items or buckets
-    each, so a <ItemLink id="cell_component_64k" /> (which provides 524,288 bits of capacity) is more than enough.
+* У режимі сміттєвого бака конденсатор матерії просто знищує все, що в нього потрапляє
 
-Note that in the latter two modes where some resource is produced, the Matter Condenser *can* back up and will
-not accept any further input if both the energy and output item buffers are completely filled up.
+* У режимі кульок матерії конденсатор створює <ItemLink id="matter_ball" /> з того, що ви в нього покладете. У цьому режимі потрібно помістити компонент зберігання у верхній слот конденсатора. кульки матерії вміщують 256 предметів або відер кожен, тому достатньо буде встановити <ItemLink id="cell_component_1k" /> (що забезпечує 8192 біти місткості).
+* У режимі сингулярності матерії конденсатор створює [сингулярності](singularities.md) з того, що ви в нього покладете. У цьому режимі потрібно помістити компонент зберігання у верхній слот конденсатора. Сингулярності вміщують 256 000 предметів або відер кожна, тому достатньо буде встановити <ItemLink id="cell_component_64k" /> (який забезпечує 524 288 біт місткості).
 
-## Recipe
+Зауважте, що у двох останніх режимах, де виробляється певний ресурс, конденсатор матерії *може* перестати приймати жодні подальші вхідні речі, якщо буфери енергії та виходу повністю заповнені.
+
+## Рецепт
 
 <RecipeFor id="condenser" />
