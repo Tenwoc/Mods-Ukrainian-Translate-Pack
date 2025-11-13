@@ -2425,10 +2425,10 @@
   "gtceu.gui.me_bus.auto_pull_button": "Натисніть, щоб увімкнути автоматичне витягування предметів з ME",
   "gtceu.gui.me_network.offline": "Стан мережі:§4 Офлайн§r",
   "gtceu.gui.me_network.online": "Стан мережі:§2 Онлайн§r",
+  "gtceu.gui.multiblock_all_voiding.0": "Режим видалення",
+  "gtceu.gui.multiblock_all_voiding.1": "§7Видалення усього",
   "gtceu.gui.multiblock_fluid_voiding.0": "Режим видалення",
   "gtceu.gui.multiblock_fluid_voiding.1": "§7Видалення§9 рідин",
-  "gtceu.gui.multiblock_item_fluid_voiding.0": "Режим видалення",
-  "gtceu.gui.multiblock_item_fluid_voiding.1": "§7Видалення§6 предметів§7 та§9 рідин",
   "gtceu.gui.multiblock_item_voiding.0": "Режим видалення",
   "gtceu.gui.multiblock_item_voiding.1": "§7Видалення§6 предметів",
   "gtceu.gui.multiblock_no_voiding.0": "Режим видалення",
@@ -5935,5 +5935,7 @@
   "material.gtceu.hot_debrominated_brine": "Гаряча дебромована ропа",
   "material.gtceu.hydrogen_iodide": "Йодоводень",
   "material.gtceu.raw_brine": "Неочищена ропа",
-  "message.gtceu.new_veins": "Виявлено %d нових жил!"
+  "message.gtceu.new_veins": "Виявлено %d нових жил!",
+  "gtceu.gui.multiblock_item_fluid_voiding.0": "Режим видалення",
+  "gtceu.gui.multiblock_item_fluid_voiding.1": "§7Видалення§6 предметів§7 та§9 рідин"
 }

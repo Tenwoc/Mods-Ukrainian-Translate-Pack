@@ -21,8 +21,8 @@
 	"createaddition.tooltip.relay.info": "Інформація про реле:",
 	"createaddition.tooltip.connector.info": "Інформація про з'єднувач:",
 
-	"createaddition.recipe.rolling": "Прокатка",
-	"createaddition.recipe.rolling.sequence": "Прокатний стан",
+	"createaddition.recipe.rolling": "Вальцювання",
+	"createaddition.recipe.rolling.sequence": "Вальцівниця",
 	"createaddition.recipe.charging": "Заряджання",
 	"createaddition.recipe.liquid_burning": "Спалювання рідини",
 
@@ -155,7 +155,7 @@
 	"block.createaddition.creative_energy.tooltip": "ТВОРЧИЙ ГЕНЕРАТОР",
 	"block.createaddition.creative_energy.tooltip.summary": "Генерує нескінченний запас _FE_.",
 
-	"block.createaddition.rolling_mill": "Прокатний стан",
+	"block.createaddition.rolling_mill": "Вальцівниця",
 
 	"block.createaddition.accumulator": "Акумулятор",
 	"block.createaddition.accumulator.tooltip": "АКУМУЛЯТОР",
@@ -245,13 +245,13 @@
 	"createaddition.ponder.alternator.text_2": "Він генерує електричну енергію (FE) за рахунок сили обертання",
 	"createaddition.ponder.alternator.text_3": "Виробництво енергії визначається вхідними обертами",
 
-	"createaddition.ponder.rolling_mill.header": "Прокатка металів в стрижні та дроти",
-	"createaddition.ponder.rolling_mill.text_1": "Прокатний стан використовує силу обертання, щоб прокатувати метали в стрижені та дроти",
-	"createaddition.ponder.rolling_mill.text_2": "Щоб ввести предмети вручну, опустіть злитки або пластини на верхню частину прокатного стану",
-	"createaddition.ponder.rolling_mill.text_3": "Клацніть ПКМ по прокатному стану, щоб вручну отримати результат",
+	"createaddition.ponder.rolling_mill.header": "Вальцювання металів в стрижні та дроти",
+	"createaddition.ponder.rolling_mill.text_1": "Вальцівниця використовує силу обертання, щоб валбювати метали в стрижні та дроти",
+	"createaddition.ponder.rolling_mill.text_2": "Щоб ввести предмети вручну, опустіть злитки або пластини на верхню частину вальцівниці",
+	"createaddition.ponder.rolling_mill.text_3": "Клацніть ПКМ по вальцівниці, щоб вручну отримати результат",
 
-	"createaddition.ponder.automated_rolling_mill.header": "Автоматизація прокатного стану",
-	"createaddition.ponder.automated_rolling_mill.text_1": "Прокатний стан можна автоматизувати за допомогою стрічки та двох лійок",
+	"createaddition.ponder.automated_rolling_mill.header": "Автоматизація вальцівниці",
+	"createaddition.ponder.automated_rolling_mill.text_1": "Вальцівницю можна автоматизувати за допомогою стрічки та двох лійок",
 	"createaddition.ponder.automated_rolling_mill.text_2": "Вхідна лійка",
 	"createaddition.ponder.automated_rolling_mill.text_3": "Виідна лійка",
 
