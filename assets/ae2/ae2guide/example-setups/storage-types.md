@@ -1,85 +1,58 @@
 ---
 navigation:
   parent: example-setups/example-setups-index.md
-  title: Types of Storage and Network Cleanliness
+  title: Типи сховищ та чистота мережі
   icon: drive
 ---
 
-# Various Kinds of Storage and Keeping Your Network Organized
+# Різні види сховищ та підтримка порядку вашої мережі
 
-Using filters, [partitions](../items-blocks-machines/cell_workbench.md), and [storage priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ),
-you can set up several tiers of storage for various kinds of things.
+Використовуючи фільтри, [розгалуження](../items-blocks-machines/cell_workbench.md), та [пріоритети сховища](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ), ви можете налаштувати кілька рівнів сховища для різних типів речей.
 
-The kinds of storage tend to be:
-* General storage, for all the random stuff you have a few to a few thousand of. This uses small [cells](../items-blocks-machines/storage_cells.md),
-like 4k or 16k.
-* Bulk storage, for all the stuff you have more than a few thousand of, like cobble or iron. This uses big cells like 256k
-or the cells from the MEGA addon.
-* Local storage at farms, as described in [Specialized Local Storage](specialized-local-storage.md) and the 
-[various](simple-certus-farm.md) [certus](semiauto-certus-farm.md) [farms](advanced-certus-farm.md).
+Види сховищ зазвичай такі:
+* Загальне сховище, для всіх випадкових речей, яких у вас є від кількох одиниць до кількох тисяч. Тут використовуються невеликі [комірки](../items-blocks-machines/storage_cells.md), такі як 4К або 16К.
+* Масове сховище, для всіх речей, яких у вас є більше кількох тисяч, таких як кругляк або залізо. Тут використовуються великі комірки, такі як 256К або комірки з аддону MEGA.
+* Локальне сховище на фермах, як описано в [спеціалізованому локальному сховищі](specialized-local-storage.md) та кількох [фермах](simple-certus-farm.md) [істинного](semiauto-certus-farm.md) [кварцу](advanced-certus-farm.md).
 
-The priorities are set up so that when items are dumped into the main network, it first tries to store them in the specialized
-bulk or local storage, and if that can't be done (due to filters and partitions), it then puts the items in general storage.
-This means that items WILL NOT ACTIVELY MOVE from one storage ot the other, but will "migrate" as they enter and leave the network.
-To actively move items, use an <ItemLink id="io_port" />.
+Пріоритети налаштовано таким чином, що коли речі вивантажуються в основну мережу, система спочатку намагається зберегти їх у спеціалізованому масовому або локальному сховищі, а якщо це неможливо (через фільтри та розгалуження), то речі поміщаються в загальне сховище. Це означає, що речі НЕ БУДУТЬ АКТИВНО ПЕРЕМІЩУВАТИСЯ з одного сховища в інше, а будуть «мігрувати» під час вводу та виводу з мережі. Для активного переміщення речей використовуйте <ItemLink id="io_port" />.
 
 <GameScene zoom="3" interactive={true}>
   <ImportStructure src="../assets/assemblies/network_storage_types.snbt" />
 
     <BoxAnnotation color="#33dd33" min="11 0 1" max="12 1.3 2" thickness="0.05">
-        Bulk Storage. In this case a filtered storage bus on a large capacity storage like a drawer. This storage bus is filtered to
-        coal. It has a high priority so whenever coal enters the network, it goes to this storage bus, and whenever coal is 
-        pulled from the network, it is pulled from *evere except here*, so coal "migrates" to this drawer.
+        Масове сховище. У цьому випадку фільтрована шина зберігання встановлена на сховищі великої місткості, такому як шухляди. Ця шина зберігання відфільтрована на вугілля. Вона має високий пріоритет, тому щоразу, коли вугілля потрапляє в мережу, воно переходить на цю шину зберігання, а щоразу, коли вугілля витягується з мережі, то спочатку витягується з *усіх, крім цього*, тому вугілля «мігрує» до цієї шухляди.
 
-        IMPORTANT NOTE: Big optimized inventories like drawers are fine for this, but big *un*optimized inventories with many slots, like
-        colossal chests, are terrible for performance when used with storage busses.
+        ВАЖЛИВА ПРИМІТКА: Великі оптимізовані інвентарі, такі як шухляди, добре підходять для цього, але великі *не*оптимізовані інвентарі з багатьма слотами, такі як колосальні скрині, жахливо впливають на продуктивність при використанні з шинами зберігання.
     </BoxAnnotation>
 
     <BoxAnnotation color="#33dd33" min="11 0 3" max="12 1 4" thickness="0.05">
-        Bulk Storage. In this case a partitioned 256k cell in a drive with high priority. This cell is partitioned to
-        cobblestone and iron. It has an Equal Distribution Card, so it won't be completely filled with cobblestone, leaving
-        no space for iron. The drive has a high priority so whenever cobble or iron enters the network, it goes to this storage bus,
-        and whenever cobble or iron is pulled from the network, it is pulled from *evere except here*, so cobble and iron "migrate" to this cell.
+        Масове сховище. У цьому випадку це розгалузені комірки на 256К у приводі з високим пріоритетом. Ця комірка розгалузена на кругляк та залізо. Вона має карту рівного розподілу, тому не буде повністю заповнена кругляком, не залишаючи місця для заліза. Привід має високий пріоритет, тому щоразу, коли кругляк або залізо потрапляє в мережу, воно переходить на цю шину зберігання, а щоразу, коли кругляк або залізо витягується з мережі, то спочатку витягується з *усюди, крім звідси*, тому кругляк та залізо «мігрують» до цієї комірки.
     </BoxAnnotation>
 
     <BoxAnnotation color="#33dddd" min="11 0 5" max="12 1 6" thickness="0.05">
-        General Storage. In this case a drive full of 16k cells. These cells are not partitioned. The drive has a neutral priority
-        (in this case 0) so whenever something enters the network, it goes to the specialized bulk or local storage first,
-        and whenever something is pulled from the network, it is pulled from here first, so items that have specialized storage naturally
-        "migrate" out of general storage.
+        Загальне сховище. У цьому випадку привід, заповнений комірками на 16К. Ці комірки не розгалужені. Привід має нейтральний пріоритет (у цьому випадку 0), тому щоразу, коли щось потрапляє в мережу, воно спочатку потрапляє до спеціалізованого масового або локального сховища, а щоразу, коли щось витягується з мережі, воно спочатку витягується звідси, тому речі, які мають спеціалізоване сховище, природно «мігрують» із загального сховища.
     </BoxAnnotation>
 
     <BoxAnnotation color="#88ff88" min="11 0 8" max="12 1 9" thickness="0.05">
-        This IO Port plays an important role in keeping the network organized. Because storage priority does not *actively*
-        move items, cells used in General Gtorage should be periodically "shuffled" through an IO port to move items that have a
-        place in specialized storage into that specialized storage. This "defragments" the storage, making sure things aren't
-        being stored in multiple places.
+        Цей порт зберігання відіграє важливу роль у підтримці організації мережі. Оскільки пріоритет сховища *активно* не переміщує речі, комірки, що використовуються в загальному сховищі, повинні періодично «перетасовуватися» через порт зберігання, щоб переміщувати речі, які мають місце в спеціалізованому сховищі, до цього спеціалізованого сховища. Це «дефрагментує» сховище, гарантуючи, що однакові речі не зберігатимуться в кількох місцях.
     </BoxAnnotation>
 
     <BoxAnnotation color="#dd3333" min="14 0 11" max="15 1 12" thickness="0.05">
-        Local Storage at a mob farm. This drive has cells partitioned to the drops you want to keep, like bones and arrows.
-        The drive itself is not given priority, because the thing that affects the priority is the storage bus accessing the subnet
-        from the main net. The cells have equal distribution cards and overflow destruction cards.
+        Локальне сховище на мобофермі. Цей привід має комірки, розгалужені на дропи, які ви хочете зберегти, такі як кістки та стріли. Самому приводу не надається пріоритет, оскільки на пріоритет впливає шина зберігання, яка надає доступ до підмережі для основної мережі. Комірки мають картки рівного розподілу та картки знищення переповнення.
     </BoxAnnotation>
 
     <BoxAnnotation color="#dd3333" min="14 1 10" max="15 2.3 11" thickness="0.05">
-        Local Storage at a mob farm. This storage bus - interface setup allows the main network to acces this subnet's storage.
-        The storage bus is given a high priority and filtered to the things stored in the cells on the subnet.
+        Локальне сховище на мобофермі. Ця конфігурація інтерфейсу шини зберігання дозволяє основній мережі отримувати доступ до сховища цієї підмережі. Шині зберігання надається високий пріоритет і вона відфільтрована на ресурси, що зберігаються в комірках підмережі.
 
-        IMPORTANT: Due to the trash can setup on the subnet, make sure to filter this storage bus or it will start trashing
-        *every single item, fluid, etc. that enters the network*!
+        ВАЖЛИВО: Через те, що в підмережі встановлено кошик, обов'язково фільтруйте цю шину зберігання, інакше вона почне знищувати *кожен предмет, рідину тощо, що потрапляє в мережу*!
     </BoxAnnotation>
 
     <BoxAnnotation color="#dd3333" min="14 0 9" max="15 1.3 10" thickness="0.05">
-        Local Storage at a mob farm. This storage bus on a matter condenser is set to a lower priority than the drive. This means
-        that mob drops that cannot enter the cells in the drive will overflow to here, and be disposed of. This is important,
-        in order to prevent the subnet from being jammed full of random junk like mostly-broken bows.
+        Локальне сховище на мобофермі. Ця шина зберігання на конденсаторі матерії має нижчий пріоритет, ніж привід. Це означає, що дроп мобів, який не може потрапити в комірки привода, потраплятимуть сюди як переповнені та будуть утилізовані. Це важливо, щоб запобігти заповненню підмережі випадковим сміттям, таким як частково зламані луки.
     </BoxAnnotation>
 
     <BoxAnnotation color="#dd33dd" min="8 1 11.7" max="9 2.3 13" thickness="0.05">
-        Local Storage at a melon farm. This setup uses a similar method used in the various certus farm examples. A storage bus
-        on the subnet inserts the thing being farmed into a barrel. Another storage bus on the main network (filtered to melon
-        slices and with a high priority) gives the main network access to the things being farmed.
+        Локальне сховище на фермі кавунів. Ця конфігурація використовує подібний метод, що використовується в різних прикладах ферм істинного кварцу. Шина зберігання в підмережі вставляє ресурс ферми в діжку. Інша шина зберігання в основній мережі (відфільтрована на скибки кавуна з високим пріоритетом) надає основній мережі доступ до ресурсів ферми.
     </BoxAnnotation>
 
   <IsometricCamera yaw="270" pitch="30" />

@@ -39,16 +39,18 @@ item_ids:
 # Квантовий добір
 
 <Row gap="10">
-<ItemImage id="advanced_ae:quantum_helmet" scale="4"></ItemImage>
-<ItemImage id="advanced_ae:quantum_chestplate" scale="4"></ItemImage>
-<ItemImage id="advanced_ae:quantum_leggings" scale="4"></ItemImage>
-<ItemImage id="advanced_ae:quantum_boots" scale="4"></ItemImage>
+<ItemImage id="advanced_ae:quantum_helmet" components="ae2:stored_energy=2.0E8d" scale="4"></ItemImage>
+<ItemImage id="advanced_ae:quantum_chestplate" components="ae2:stored_energy=3.0E8d" scale="4"></ItemImage>
+<ItemImage id="advanced_ae:quantum_leggings" components="ae2:stored_energy=2.5E8d" scale="4"></ItemImage>
+<ItemImage id="advanced_ae:quantum_boots" components="ae2:stored_energy=2.0E8d" scale="4"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:quantum_helmet" />
-* <ItemLink id="advanced_ae:quantum_chestplate" />
-* <ItemLink id="advanced_ae:quantum_leggings" />
-* <ItemLink id="advanced_ae:quantum_boots" />
+<ItemGrid>
+<ItemIcon id="advanced_ae:quantum_helmet" components="ae2:stored_energy=2.0E8d"></ItemIcon>
+<ItemIcon id="advanced_ae:quantum_chestplate" components="ae2:stored_energy=3.0E8d"></ItemIcon>
+<ItemIcon id="advanced_ae:quantum_leggings" components="ae2:stored_energy=2.5E8d"></ItemIcon>
+<ItemIcon id="advanced_ae:quantum_boots" components="ae2:stored_energy=2.0E8d"></ItemIcon>
+</ItemGrid>
 
 Ви коли-небудь замислювалися, як би це було — носити AE систему на собі? Що ж, вам більше не потрібно гадати. Комплект квантової броні — це високотехнологічний приховуючий одяг, який підключається до системи AE2, щоб забезпечити зручний доступ до всього в дорозі! Усталено це костюм, що живиться енергією, із захистом, порівнянним з незеритовим спорядженням. Він здатний використовувати свій буфер для створення енергетичного щита, забезпечуючи значний обсяг поглинання шкоди. Чоботи також забезпечують нейтралізацію шкоди від падіння, а нагрудник може усунути штрафи на добування у польоті. Однак справжня сила цього костюма розблоковується лише тоді, коли ви наповнюєте його покращеннями!
 
@@ -102,9 +104,9 @@ item_ids:
 <ItemImage id="advanced_ae:swim_speed_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:walk_speed_card" />
-* <ItemLink id="advanced_ae:sprint_speed_card" />
-* <ItemLink id="advanced_ae:swim_speed_card" />
+- <ItemLink id="advanced_ae:walk_speed_card" />
+- <ItemLink id="advanced_ae:sprint_speed_card" />
+- <ItemLink id="advanced_ae:swim_speed_card" />
 
 Ці картки покращень покращують швидкість пересування власника добіру. Усі вони мають налаштовувані значення швидкості, з якою ви хочете рухатися, а також впливають на рух під час підкрадання та польоту. Важливо зазначити, що ці покращення також можна використовувати для зменшення швидкості, щоб забезпечити більше контролю, коли діють інші ефекти прискорення.
 
@@ -117,8 +119,8 @@ item_ids:
 <ItemImage id="advanced_ae:step_assist_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:jump_height_card" />
-* <ItemLink id="advanced_ae:step_assist_card" />
+- <ItemLink id="advanced_ae:jump_height_card" />
+- <ItemLink id="advanced_ae:step_assist_card" />
 
 Ці покращення змінюють вертикальний рух, дозволяючи налаштовувати більшу висоту стрибка або допомогу при стрибках.
 
@@ -172,12 +174,14 @@ item_ids:
 <ItemImage id="advanced_ae:lava_immunity_card" scale="2"></ItemImage>
 <ItemImage id="advanced_ae:water_breathing_card" scale="2"></ItemImage>
 <ItemImage id="advanced_ae:magnet_card" scale="2"></ItemImage>
+<ItemImage id="advanced_ae:camo_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:night_vision_card" />
-* <ItemLink id="advanced_ae:lava_immunity_card" />
-* <ItemLink id="advanced_ae:water_breathing_card" />
-* <ItemLink id="advanced_ae:magnet_card" />
+- <ItemLink id="advanced_ae:night_vision_card" />
+- <ItemLink id="advanced_ae:lava_immunity_card" />
+- <ItemLink id="advanced_ae:water_breathing_card" />
+- <ItemLink id="advanced_ae:magnet_card" />
+- <ItemLink id="advanced_ae:camo_card" />
 
 Ці картки надають кілька утиліт для власника добіру, надаючи імунітет до деяких видів шкоди та надаючи нічний зір. Зокрема, картка магнетизму має екран конфігурації, де можна встановити фільтри для того, що підбирати, а що ні, та налаштувати дальність підбирання.
 
@@ -191,11 +195,11 @@ item_ids:
 <ItemImage id="advanced_ae:evasion_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:hp_buffer_card" />
-* <ItemLink id="advanced_ae:regeneration_card" />
-* <ItemLink id="advanced_ae:evasion_card" />
+- <ItemLink id="advanced_ae:hp_buffer_card" />
+- <ItemLink id="advanced_ae:regeneration_card" />
+- <ItemLink id="advanced_ae:evasion_card" />
 
-Ці покращення надають захисні переваги власнику добіру в різних формах. Картка буферу здоров'я збільшить максимальний запас здоров'я, а картка регенерації збільшить швидкість його відновлення. Картка ухилення випадково забезпечує повний імунітет до будь-якої вхідної шкоди.
+Ці покращення надають захисні переваги власнику добіру в різних формах. Картка буфера здоров'я збільшить максимальний запас здоров'я, а картка регенерації збільшить швидкість його відновлення. Картка ухилення випадково забезпечує повний імунітет до будь-якої вхідної шкоди.
 
 <br/>
 
@@ -206,8 +210,8 @@ item_ids:
 <ItemImage id="advanced_ae:attack_speed_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:strength_card" />
-* <ItemLink id="advanced_ae:attack_speed_card" />
+- <ItemLink id="advanced_ae:strength_card" />
+- <ItemLink id="advanced_ae:attack_speed_card" />
 
 Ці покращення збільшують наступальні можливості власника. Вони забезпечують збільшення шкоди та швидкості атаки.
 
@@ -220,8 +224,8 @@ item_ids:
 <ItemImage id="advanced_ae:reach_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:luck_card" />
-* <ItemLink id="advanced_ae:reach_card" />
+- <ItemLink id="advanced_ae:luck_card" />
+- <ItemLink id="advanced_ae:reach_card" />
 
 Ці картки покращення забезпечують власнику фіксоване збільшення характеристик, впливаючи на удачу для кращих результатів здобичі та досяжність до блоків. Картку досяжності можна налаштувати на певне бажане значення.
 

@@ -25,7 +25,7 @@ navigation:
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 1 0" max="2 1.3 1">
-        (2) Interface: Без налаштувань.
+        (2) Інтерфейс: Без налаштувань.
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 1 0" max="1.3 2 1">
@@ -52,8 +52,8 @@ navigation:
   ![Iron Pattern](../assets/diagrams/furnace_pattern.png)
 
 * <ItemLink id="interface" /> (2) не має налаштувань.
-* first <ItemLink id="storage_bus" /> (3) відфільтрована на вугілля або будь-яке інше паливо, яке ви хочете використовувати.
-* second <ItemLink id="storage_bus" /> (4) відфільтрована на усе, що не є паливом за допомогою <ItemLink id="inverter_card" />.
+* Перша <ItemLink id="storage_bus" /> (3) відфільтрована на вугілля або будь-яке інше паливо, яке ви хочете використовувати.
+* Друга <ItemLink id="storage_bus" /> (4) відфільтрована на усе, що не є паливом за допомогою <ItemLink id="inverter_card" />.
 
 ## Як це працює
 
