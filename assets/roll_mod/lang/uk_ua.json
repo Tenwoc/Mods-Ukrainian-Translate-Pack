@@ -1,13 +1,13 @@
 {
-  "item.roll_mod.copper_gear": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
-  "item.roll_mod.chemical_core": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
+  "item.roll_mod.copper_gear": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "item.roll_mod.chemical_core": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
 
   "itemGroup.roll_mod.main": "Roll Mod",
   "itemGroup.roll_mod.dev": "§сAllTheRoll",
 
   "block.roll_mod.large_chemical_reactor": "Великий хімічний реактор",
 
-  "message.roll_mod.nether_storm.start": "У Незері насувається шторм - затримайте дихання, або помріть!",
+  "message.roll_mod.nether_storm.start": "У Незері насувається шторм — затримайте дихання, або помріть!",
   "message.roll_mod.nether_storm.end": "Шторм зупинився, але чи надовго?",
   "message.roll_mod.cb.no_access.creative": "Ролл не настільки тупий, що б дати вам доступ до цього)))",
   "message.roll_mod.cb.no_access.survival": "Цей блок доступний тільки для адміністрації.",
@@ -46,14 +46,14 @@
   "loreitem.roll_mod.meteorite_metal_ingot.tooltip_line1": "Фрагмент, загартований космічним полум’ям.",
   "loreitem.roll_mod.meteorite_metal_ingot.tooltip_line2": "Ледь відлунює сяйвом зір.",
 
-  "item.roll_mod.supersteel_gear": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
-  "loreitem.roll_mod.supersteel_gear.tooltip_line1": "Кована під екстремальним тиском.",
-  "loreitem.roll_mod.supersteel_gear.tooltip_line2": "Розрахована на мегапаскалі.",
+  "item.roll_mod.supersteel_gear": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "loreitem.roll_mod.supersteel_gear.tooltip_line1": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "loreitem.roll_mod.supersteel_gear.tooltip_line2": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
 
-  "item.roll_mod.super_circuit": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
-  "loreitem.roll_mod.super_circuit.tooltip_line1": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
-  "loreitem.roll_mod.super_circuit.tooltip_line2": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
-  "loreitem.roll_mod.super_circuit.tooltip_line3": "Цей предмет не повинен мати текстури чи моделі бо є розробницьким!",
+  "item.roll_mod.super_circuit": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "loreitem.roll_mod.super_circuit.tooltip_line1": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "loreitem.roll_mod.super_circuit.tooltip_line2": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "loreitem.roll_mod.super_circuit.tooltip_line3": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
 
   "item.roll_mod.meteorite_sword": "Метеоритний меч",
   "loreitem.roll_mod.meteorite_sword.tooltip_line1": "Викуваний зі впалих зірок",
@@ -264,7 +264,7 @@
   "item.roll_mod.neuron_cells": "Скалкові нейрони",
 
   "item.roll_mod.sodium_sulfate": "Сульфат натрію",
-  "item.roll_mod.mining_drone": "Шахтарський дрон",
+  "item.roll_mod.mining_drone": "Рудокопний дрон",
   "item.roll_mod.obsidian_dust": "Обсидіановий пил",
   "item.roll_mod.quantum_star": "Квантова зірка",
   "loreitem.roll_mod.quantum_star.tooltip_line1": "Стабілізована енергія незеру",
@@ -285,6 +285,84 @@
   "item.roll_mod.standard_wafer_or": "Підкладка OR",
   "item.roll_mod.standard_wafer_xor": "Підкладка XOR",
   "item.roll_mod.standard_wafer_ram": "Підкладка RAM",
+  "block.roll_mod.latex_dandelion": "Латексна кульбаба",
+  "item.roll_mod.latex_dandelion_seed": "Насіння латексної кульбаби",
+  "item.roll_mod.latex_dandelion_stem": "Стебло латексної кульбаби",
+  "item.roll_mod.latex_dandelion_flower": "Квітка латексної кульбаби",
+
+  "item.roll_mod.transmission": "Трансмісія",
+  "loreitem.roll_mod.transmission.tooltip_line1": "Серце кожного механізму, що передає потужність далі.",
+
+  "item.roll_mod.magnalium_engine": "Магналієвий двигун",
+  "loreitem.roll_mod.magnalium_engine.tooltip_line1": "Легкий, але міцний — витвір інженерної елегантності.",
+  "loreitem.roll_mod.magnalium_engine.tooltip_line2": "Обертайся, світе, бо цей двигун не зупиняється.",
+
+  "item.roll_mod.soap_stone_dust": "Стеатитовий пил",
+  "item.roll_mod.manganese_oxide": "Оксид марганцю",
+  "item.roll_mod.treated_plate": "Консервована пластина",
+
+  "item.roll_mod.sulfur_jam": "Сірчане варення",
+  "item.roll_mod.sulfur_berry_pie": "Пиріг із сірчаних ягід",
+
+  "item.roll_mod.raw_latex": "Сирий латекс",
+  "item.roll_mod.raw_rubber": "Сира гума",
+  "item.roll_mod.rubber_ingot": "Гумовий злиток",
+
+  "item.roll_mod.sulfur_berry": "Сірчана ягода",
+
+  "block.roll_mod.treated_planks": "Консервовані дошки",
+  "block.roll_mod.treated_log": "Консервована колода",
+
+  "block.roll_mod.sulfur_berry_block": "Сірчана ягода",
+
+  "block.roll_mod.roll_plush": "Плюшевий Roll",
+  "block.roll_mod.yan_plush": "Плюшевий Yan",
+  "block.roll_mod.ledok_plush": "Плюшевий LeDok",
+  "block.roll_mod.lorp_ooo_plush": "Плюшевий Lorp_OOO",
+
+  "message.roll_mod.storm_scanner.storm_active": "Шторм активний!",
+  "message.roll_mod.storm_scanner.storm_not_active": "Шторм неактивний.",
+  "message.roll_mod.storm_scanner.status_active": "Стан шторму: §cАктивний",
+  "message.roll_mod.storm_scanner.status_inactive": "Стан шторму: §aСпокійний",
+  "message.roll_mod.storm_scanner.time_until_end": "До кінця шторму: %s",
+  "message.roll_mod.storm_scanner.time_until_start": "До початку шторму: %s",
+  "message.roll_mod.storm_scanner.detailed_info": "Детальніша інформація виведена в чат,",
+  "message.roll_mod.storm_scanner.not_enough_energy": "⚠ Недостатньо енергії (%s / %s EU) для сканування!",
+  "item.roll_mod.lv_storm_scanner":"LV Сканер шторму",
+  "item.roll_mod.hv_storm_scanner":"HV Сканер шторму",
+  "tooltip.roll_mod.storm_hint.1": "Клацніть ПКМ, Щоб просканувати стан шторму",
+  "tooltip.roll_mod.hv_storm_hint.2": "Покращена версія сканера, яка виводить час до початку або закінчення шторму",
+
+  "item.roll_mod.redstone_battery": "Редстоунова батарея",
+  "item.roll_mod.energium_battery": "Енергієвий кристал",
+  "item.roll_mod.lapotron_battery_t1": "Лапотронний кристал",
+  "item.roll_mod.lapotron_battery_t2": "Лапотронний кластер",
+  "item.roll_mod.lapotron_battery_t3": "Лапотронне скупчення",
+  "item.roll_mod.ultra_battery": "Ультимативна батарея",
+
+  "message.roll_mod.gravity_chestplate.warning": "⚡ Недостатньо енергії для польоту!",
+
+  "item.roll_mod.moon_phase_clock": "Місячний годинник",
+  "tooltip.roll_mod.lunar_clock.no_energy": "⚡ Недостатньо енергії!",
+  "tooltip.roll_mod.lunar_clock.phase.0": "Повний Місяць",
+  "tooltip.roll_mod.lunar_clock.phase.1": "Спадний Місяць",
+  "tooltip.roll_mod.lunar_clock.phase.2": "Остання чверть",
+  "tooltip.roll_mod.lunar_clock.phase.3": "Старий Місяць",
+  "tooltip.roll_mod.lunar_clock.phase.4": "Новий Місяць",
+  "tooltip.roll_mod.lunar_clock.phase.5": "Молодий місяць",
+  "tooltip.roll_mod.lunar_clock.phase.6": "Перша чверть",
+  "tooltip.roll_mod.lunar_clock.phase.7": "Зростальний Місяць",
+  "tooltip.roll_mod.lunar_clock.desc": "Клацніть ПКМ, щоб дізнатись поточну фазу місяця",
+
+  "tooltip.roll_mod.energy": "Енергія: %s / %s EU",
+  "tooltip.roll_mod.mode": "Режим: %s",
+  "tooltip.roll_mod.toggle_hint": "Клацніть ПКМ, щоб перемкнути",
+  "tooltip.roll_mod.on": "УВІМК.",
+  "tooltip.roll_mod.off": "ВИМК.",
+  "tooltip.roll_mod.battery_toggled": "Стан батареї: %s",
+
+  "itemGroup.roll_mod.py_datagen": "Згенеровані предмети",
+
 
   "item.roll_mod.raw_mica": "Необроблена слюда",
   "item.roll_mod.mica_dust": "Пил слюди",
