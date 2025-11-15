@@ -299,7 +299,7 @@
 
   "item.roll_mod.soap_stone_dust": "Стеатитовий пил",
   "item.roll_mod.manganese_oxide": "Оксид марганцю",
-  "item.roll_mod.treated_plate": "Консервована пластина",
+  "item.roll_mod.treated_plate": "Інженерна пластина",
 
   "item.roll_mod.sulfur_jam": "Сірчане варення",
   "item.roll_mod.sulfur_berry_pie": "Пиріг із сірчаних ягід",
@@ -310,8 +310,8 @@
 
   "item.roll_mod.sulfur_berry": "Сірчана ягода",
 
-  "block.roll_mod.treated_planks": "Консервовані дошки",
-  "block.roll_mod.treated_log": "Консервована колода",
+  "block.roll_mod.treated_planks": "Інженерні дошки",
+  "block.roll_mod.treated_log": "Інженерна колода",
 
   "block.roll_mod.sulfur_berry_block": "Сірчана ягода",
 
