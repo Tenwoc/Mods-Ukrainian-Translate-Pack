@@ -363,7 +363,7 @@
   "tooltip.roll_mod.battery_toggled": "Стан батареї: %s",
 
   "item.roll_mod.vanadium_slag_dust": "Ванадій-магнетитова жужіль",
-  "loreitem.roll_mod.vanadium_slag_dust.tooltip_line1": "Де мій ванадій?! Що це чорт забирай таке!",
+  "loreitem.roll_mod.vanadium_slag_dust.tooltip_line1": "Де мій ванадій?! Що це, чорт забирай, таке!",
 
   "item.roll_mod.iron_iii_vanadate": "Ванадат заліза(III)",
   "item.roll_mod.calcium_metavanadate": "Метаванадат кальцію",
@@ -388,10 +388,10 @@
   "loreitem.roll_mod.error_item.tooltip_line2": "ЯКЩО ЦЕ З'ЯВИЛОСЯ У ІНВЕНТАРІ — НЕГАЙНО ПОВІДОМТЕ МОДЕРАЦІЮ",
   
   "item.roll_mod.autogive_hint": "Ви можете вимкнути автодоваваня цієї книжки командою",
-  "item.roll_mod.autogive_line_1": "Це книга завдань із усіма знаннями сервера",
+  "item.roll_mod.autogive_line_1": "Це книга завдань з усіма знаннями сервера",
   "item.roll_mod.autogive_line_2": "Використай команду /rollmod autogive false, щоб вимкнути автодовидачу",
 
-  "block.roll_mod.lapotronic_laser_block": "Лапотронова фокусуюча лазерна лінза",
+  "block.roll_mod.lapotronic_laser_block": "Лапотронна фокусувальна лазерна лінза",
   "itemGroup.roll_mod.py_datagen": "Згенеровані предмети",
 
 
