@@ -148,7 +148,7 @@
   "create_central_kitchen.ponder.blaze_stove.automation.text_2": "Клацніть ПКМ по плиті пломеня, щоб відкрити меню кулінарного посібника.",
   "create_central_kitchen.ponder.blaze_stove.automation.text_3": "Ви також можете клацнути ПКМ по плиті пломеня разом із будь-яким посібником, щоб поміняти їх місцями.",
   "create_central_kitchen.ponder.blaze_stove.automation.text_4": "Після того, як ви призначили правильний рецепт для кулінарного посібника, каструля над нею стане інтерактивною для механічної руки.",
-  "create_central_kitchen.ponder.blaze_stove.automation.text_5": "У якості вхідних матеріалів механічна рука вставлятиме ємності та визначені інгредієнти.",
+  "create_central_kitchen.ponder.blaze_stove.automation.text_5": "У якості вхідних матеріалів механічна рука вставлятиме місткості та визначені інгредієнти.",
   "create_central_kitchen.ponder.blaze_stove.automation.text_6": "На виході механічна рука витягне результат і недійсні інгредієнти.",
 
   "create_central_kitchen.ponder.blaze_stove.heat_source.header": "Використання плити пломеня як джерела тепла",

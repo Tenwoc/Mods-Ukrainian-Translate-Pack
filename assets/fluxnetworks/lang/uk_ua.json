@@ -19,7 +19,7 @@
   "tooltip.fluxnetworks.flux_plug": "Витягує енергію з сусідніх блоків. Додає енергію у вашу флаксову мережу",
   "tooltip.fluxnetworks.flux_point": "Передає енергію в сусідні блоки. Видаляє енергію з вашої флаксової мережі",
   "tooltip.fluxnetworks.flux_storage": "Зберігає енергію для вашої флаксової мережі",
-  "tooltip.fluxnetworks.flux_storage_2": "Енергетична ємність: %s",
+  "tooltip.fluxnetworks.flux_storage_2": "Енергетична місткість: %s",
 
   "gui.fluxnetworks.tab.home": "Дім",
   "gui.fluxnetworks.tab.selection": "Вибір мережі",

@@ -92,7 +92,7 @@
   "gui.tooltips.advanced_ae.CrafterTerminalSetting": "Термінал квантового збирання",
   "gui.tooltips.advanced_ae.DataEntanglerMultiplication": "Множить загальний обсяг сховища в конструкції квантового комп'ютера на %d. Обмежено до %d на конструкцію.",
   "gui.tooltips.advanced_ae.DirectionOutputHint": "Налаштування дозволених напрямків для виводу автоматичного експорту",
-  "gui.tooltips.advanced_ae.DirectionalOutput": "Спрямований вихід",
+  "gui.tooltips.advanced_ae.DirectionalOutput": "Спрямований вивід",
   "gui.tooltips.advanced_ae.Disabled": "Вимкнено",
   "gui.tooltips.advanced_ae.DownButton": "Націлити на НИЖНІЙ бік машини.",
   "gui.tooltips.advanced_ae.EastButton": "Націлити на СХІДНИЙ бік машини.",

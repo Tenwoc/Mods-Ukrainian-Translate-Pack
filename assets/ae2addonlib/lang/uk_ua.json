@@ -1,0 +1,13 @@
+{
+  "gui.ae2addonlib.SetAmount": "Встановити кількість",
+  "gui.tooltips.ae2addonlib.ClearButton": "Очистити",
+  "gui.tooltips.ae2addonlib.ClearFluidButtonHint": "Злити наявну рідину з машини.",
+  "gui.tooltips.ae2addonlib.ClearSidesButtonHint": "Вимкнути виведення з усіх боків машини.",
+  "gui.tooltips.ae2addonlib.DirectionalOutput": "Спрямований вивід",
+  "gui.tooltips.ae2addonlib.DirectionalOutputHint": "Налаштування дозволених напрямків для виводу автоматичного експорту",
+  "gui.tooltips.ae2addonlib.Disabled": "Вимкнено",
+  "gui.tooltips.ae2addonlib.Enabled": "Увімкнено",
+  "gui.tooltips.ae2addonlib.InvalidHexInput": "Неправильно введений код hex",
+  "gui.tooltips.ae2addonlib.TankAmount": "%s / %s В",
+  "gui.tooltips.ae2addonlib.TankEmpty": "Порожньо"
+}
