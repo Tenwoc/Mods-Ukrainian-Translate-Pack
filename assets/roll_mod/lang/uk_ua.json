@@ -343,7 +343,7 @@
 
   "message.roll_mod.gravity_chestplate.warning": "⚡ Недостатньо енергії для польоту!",
 
-  "item.roll_mod.moon_phase_clock": "Місячна годинникова руда",
+  "item.roll_mod.moon_phase_clock": "Місячний годинник",
   "tooltip.roll_mod.lunar_clock.no_energy": "⚡ Недостатньо енергії!",
   "tooltip.roll_mod.lunar_clock.phase.0": "Повний Місяць",
   "tooltip.roll_mod.lunar_clock.phase.1": "Спадний Місяць",
@@ -382,7 +382,7 @@
   "item.roll_mod.sodium_tungstate_dust": "Вольфрамат натрію",
   "item.roll_mod.tungstic_acid_dust": "Вольфраматова кислота",
   "item.roll_mod.tungsten_trioxide": "Триоксид вольфраму",
- 
+
   "item.roll_mod.error_item": "Помилковий предмет",
   "loreitem.roll_mod.error_item.tooltip_line1": "Ролл щось напартачив...",
   "loreitem.roll_mod.error_item.tooltip_line2": "ЯКЩО ЦЕ З'ЯВИЛОСЯ У ІНВЕНТАРІ — НЕГАЙНО ПОВІДОМТЕ МОДЕРАЦІЮ",

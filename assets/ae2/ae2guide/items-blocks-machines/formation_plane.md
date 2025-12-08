@@ -5,9 +5,9 @@ navigation:
   icon: formation_plane
   position: 210
 categories:
-- devices
+  - devices
 item_ids:
-- ae2:formation_plane
+  - ae2:formation_plane
 ---
 
 # Площина формування
@@ -16,7 +16,7 @@ item_ids:
   <ImportStructure src="../assets/blocks/formation_plane.snbt" />
 </GameScene>
 
-Площина формування розміщує блоки та скидає предмети. Вона працює як <ItemLink id="storage_bus" />, налаштована тільки на вставляння, й замість фактичного «зберігання» предметів, вона розміщує їх або скидає у світі. 
+Площина формування розміщує блоки та скидає предмети. Вона працює як <ItemLink id="storage_bus" />, налаштована тільки на вставляння, й замість фактичного «зберігання» предметів, вона розміщує їх або скидає у світі.
 
 <GameScene zoom="8" interactive={true}>
   <ImportStructure src="../assets/assemblies/formation_plane_demonstration.snbt" />
@@ -55,15 +55,15 @@ item_ids:
 
 ## Налаштування
 
-* Площина має налаштування для розміщення блоків у світі або скидання предметів
+- Площина має налаштування для розміщення блоків у світі або скидання предметів
 
 ## Модифікатори
 
 Площина формування підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="capacity_card" /> збільшує кількість слотів для фільтрування
-*   <ItemLink id="fuzzy_card" /> lets the plane фільтрувати за рівнем пошкодження та/або ігнорувати будь-які NBT предметів
-*   <ItemLink id="inverter_card" /> перемикає фільтр з білого списку на чорний список
+- <ItemLink id="capacity_card" /> збільшує кількість слотів для фільтрування
+- <ItemLink id="fuzzy_card" /> дозволяє площині фільтрувати за рівнем пошкодження та/або ігнорувати будь-які NBT предметів
+- <ItemLink id="inverter_card" /> перемикає фільтр з білого списку на чорний список
 
 ## Рецепт
 

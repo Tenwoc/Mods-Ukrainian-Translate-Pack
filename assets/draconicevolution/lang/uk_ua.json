@@ -590,7 +590,7 @@
   "module.draconicevolution.auto_feed.stored": "Збережено їжі:",
   "module.draconicevolution.auto_feed.stored.value": "%s очок голоду",
   "module.draconicevolution.auto_feed.value": "%s очок голоду",
-  "module.draconicevolution.damage.attack": "+%s шкоди від атаки",
+  "module.draconicevolution.damage.attack": "+%s шкоди при атаці",
   "module.draconicevolution.damage.name": "Шкода",
   "module.draconicevolution.ender_storage.about": "Переносить зібрані предмети до вашої особистої скрині Енду.",
   "module.draconicevolution.ender_storage.about_compat": "Можна прив'язати до скрині Енду.",
@@ -731,6 +731,6 @@
   "tech_level.draconicevolution.draconium": "Драконієвий рівень",
   "tech_level.draconicevolution.wyvern": "Рівень виверни",
   "tile.draconicevolution.dislocation_inhibitor.info": "Запобігає збиранню предметів предметним телепортером, що впали в радіусі 5 блоків від нього.",
-  "tooltip.draconicevolution.bow.damage": "%s максимальної шкоди від атаки",
+  "tooltip.draconicevolution.bow.damage": "%s максимальної шкоди при атаці",
   "tooltip.draconicevolution.bow.energy_per_shot": "%s OP/постріл"
 }

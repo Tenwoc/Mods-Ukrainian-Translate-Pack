@@ -79,7 +79,7 @@
   "tooltip.relics.crowbar.leveling_source.heavy_hitter.title": "Важкий ударник",
   "tooltip.relics.crowbar.leveling_source.heavy_hitter.description": "Ця реліквія отримує 1 очко досвіду за кожний посилений удар",
   "tooltip.relicsofrain.crowbar.damage_tip": "Коли здоров'я ворога вище за %1$s%%:",
-  "tooltip.relicsofrain.crowbar.damage": " +%1$s%% шкоди від атаки",
+  "tooltip.relicsofrain.crowbar.damage": " +%1$s%% шкоди при атаці",
 
   "item.relicsofrain.irradiant_pearl": "Промениста перлина",
   "tooltip.relics.irradiant_pearl.description": "Збільшує ваші характеристики.",

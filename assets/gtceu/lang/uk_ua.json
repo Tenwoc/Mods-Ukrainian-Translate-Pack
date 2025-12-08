@@ -4807,7 +4807,7 @@
   "item.gtceu.tool.spade": "Заступ (%s)",
   "item.gtceu.tool.spade.tooltip": "§8Добуває більшою площею (поки ви не крадетесь)",
   "item.gtceu.tool.sword": "Меч (%s)",
-  "item.gtceu.tool.tooltip.attack_damage": "%s§c шкоди від атаки",
+  "item.gtceu.tool.tooltip.attack_damage": "%s§c шкоди при атаці",
   "item.gtceu.tool.tooltip.attack_speed": "%s§9 швидкости атаки",
   "item.gtceu.tool.tooltip.crafting_uses": "%s§a використань у майструванні",
   "item.gtceu.tool.tooltip.default_enchantments": "§5Усталені чари:",

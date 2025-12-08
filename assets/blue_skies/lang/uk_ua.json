@@ -1177,7 +1177,7 @@
 
   "gui.blue_skies.item.falsite_uses": "Фальзит використовує: %s / %s",
   "gui.blue_skies.item.spear.when_thrown": "Коли кинуто:",
-  "gui.blue_skies.item.spear.thrown_damage": " %s шкоди від атаки",
+  "gui.blue_skies.item.spear.thrown_damage": " %s шкоди при атаці",
   "gui.blue_skies.item.valid_materials": "Матеріали",
   
   "gui.blue_skies.item.ability": "Здібність",
