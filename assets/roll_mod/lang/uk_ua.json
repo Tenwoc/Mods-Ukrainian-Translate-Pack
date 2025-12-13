@@ -1,9 +1,16 @@
 {
-  "item.roll_mod.copper_gear": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
-  "item.roll_mod.chemical_core": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
-
   "itemGroup.roll_mod.main": "Roll Mod",
   "itemGroup.roll_mod.dev": "§сAllTheRoll",
+
+  "item.roll_mod.copper_gear": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "item.roll_mod.chemical_core": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "item.roll_mod.supersteel_gear": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "loreitem.roll_mod.supersteel_gear.tooltip_line1": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "loreitem.roll_mod.supersteel_gear.tooltip_line2": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "item.roll_mod.super_circuit": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "loreitem.roll_mod.super_circuit.tooltip_line1": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "loreitem.roll_mod.super_circuit.tooltip_line2": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
+  "loreitem.roll_mod.super_circuit.tooltip_line3": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
 
   "block.roll_mod.large_chemical_reactor": "Великий хімічний реактор",
 
@@ -27,7 +34,7 @@
   "loreitem.roll_mod.hazmat_leggings.tooltip_line1": "Захищає ноги від незерського середовища.",
   "item.roll_mod.hazmat_boots": "Сіркостійкі чоботи",
   "loreitem.roll_mod.hazmat_boots.tooltip_line1": "Крокуй крізь Незер без страху.",
-  "loreitem.roll_mod.hazmat_boots.tooltip_line2": "Вони вже пахнуть погано, а ти їх навіть не надягав...",
+  "loreitem.roll_mod.hazmat_boots.tooltip_line2": "Вони вже пахнуть погано, а ви їх навіть не надягали...",
 
   "item.roll_mod.meteorite_helmet": "Метеоритний шолом",
   "loreitem.roll_mod.meteorite_helmet.tooltip_line1": "Міцність, загартована космічним вогнем.",
@@ -43,17 +50,9 @@
   "loreitem.roll_mod.meteorite_boots.tooltip_line2": "Земля під ногами трішки ревнує.",
 
   "item.roll_mod.meteorite_metal_ingot": "Метеоритний злиток",
-  "loreitem.roll_mod.meteorite_metal_ingot.tooltip_line1": "Фрагмент, загартований космічним полум’ям.",
+  "loreitem.roll_mod.meteorite_metal_ingot.tooltip_line1": "Фрагмент, загартований космічним полум'ям.",
   "loreitem.roll_mod.meteorite_metal_ingot.tooltip_line2": "Ледь відлунює сяйвом зір.",
 
-  "item.roll_mod.supersteel_gear": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
-  "loreitem.roll_mod.supersteel_gear.tooltip_line1": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
-  "loreitem.roll_mod.supersteel_gear.tooltip_line2": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
-
-  "item.roll_mod.super_circuit": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
-  "loreitem.roll_mod.super_circuit.tooltip_line1": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
-  "loreitem.roll_mod.super_circuit.tooltip_line2": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
-  "loreitem.roll_mod.super_circuit.tooltip_line3": "Цей предмет не повинен мати текстури чи моделі, бо є розробницьким!",
 
   "item.roll_mod.meteorite_sword": "Метеоритний меч",
   "loreitem.roll_mod.meteorite_sword.tooltip_line1": "Викуваний зі впалих зірок",
@@ -260,7 +259,7 @@
   "item.roll_mod.agar_gel": "Агаровий гель",
   "item.roll_mod.agar_dust": "Агаровий пил",
   "item.roll_mod.petri_dish_skulk": "Чашка Петрі з культивованим скалком",
-  "loreitem.roll_mod.petri_dish_skulk.tooltip_line1": "Сподіваюсь, воно не викличе Боронителя...",
+  "loreitem.roll_mod.petri_dish_skulk.tooltip_line1": "Воно не викличе Боронителя, можливо...",
   "item.roll_mod.stem_cells": "Стовбурові клітини",
   "item.roll_mod.neuron_cells": "Скалкові нейрони",
 
@@ -268,7 +267,7 @@
   "item.roll_mod.mining_drone": "Рудокопний дрон",
   "item.roll_mod.obsidian_dust": "Обсидіановий пил",
   "item.roll_mod.quantum_star": "Квантова зірка",
-  "loreitem.roll_mod.quantum_star.tooltip_line1": "Стабілізована енергія незеру",
+  "loreitem.roll_mod.quantum_star.tooltip_line1": "Стабілізована енергія Незеру",
 
   "item.roll_mod.enderium_prediction_matrix": "Ендерієва передбачувальна матриця",
   "loreitem.roll_mod.enderium_prediction_matrix.tooltip_line1": "Неймовірно міцна матриця для симуляції сильних монстрів.",
@@ -387,9 +386,9 @@
   "loreitem.roll_mod.error_item.tooltip_line1": "Ролл щось напартачив...",
   "loreitem.roll_mod.error_item.tooltip_line2": "ЯКЩО ЦЕ З'ЯВИЛОСЯ У ІНВЕНТАРІ — НЕГАЙНО ПОВІДОМТЕ МОДЕРАЦІЮ",
   
-  "item.roll_mod.autogive_hint": "Ви можете вимкнути автодоваваня цієї книжки командою",
+  "item.roll_mod.autogive_hint": "Ви можете вимкнути автовидачу цієї книжки командою",
   "item.roll_mod.autogive_line_1": "Це книга завдань з усіма знаннями сервера",
-  "item.roll_mod.autogive_line_2": "Використай команду /rollmod autogive false, щоб вимкнути автодовидачу",
+  "item.roll_mod.autogive_line_2": "Використайте команду /rollmod autogive false, щоб вимкнути автовидачу",
 
   "block.roll_mod.lapotronic_laser_block": "Лапотронна фокусувальна лазерна лінза",
   "itemGroup.roll_mod.py_datagen": "Згенеровані предмети",
@@ -572,9 +571,9 @@
   "item.roll_mod.impure_ilmenite_dust": "Неочищений ільменітовий пил",
   "item.roll_mod.raw_blue_topaz": "Необроблений блакитний топаз",
   "item.roll_mod.blue_topaz_dust": "Пил блакитного топазу",
-  "item.roll_mod.crushed_blue_topaz_ore": "Дроблена бакитно-топазова руда",
-  "item.roll_mod.refined_blue_topaz_ore": "Рафінована бакитно-топазова руда",
-  "item.roll_mod.purified_blue_topaz_ore": "Очищена бакитно-топазова руда",
+  "item.roll_mod.crushed_blue_topaz_ore": "Дроблена блакитно-топазова руда",
+  "item.roll_mod.refined_blue_topaz_ore": "Рафінована блакитно-топазова руда",
+  "item.roll_mod.purified_blue_topaz_ore": "Очищена блакитно-топазова руда",
   "item.roll_mod.pure_blue_topaz_dust": "Промитий пил блакитного топазу",
   "item.roll_mod.impure_blue_topaz_dust": "Неочищений пил блакитного топазу",
   "item.roll_mod.raw_topaz": "Необроблений топаз",
@@ -822,7 +821,7 @@
   "item.roll_mod.purified_lead_ore": "Очищена свинцева руда",
   "item.roll_mod.pure_lead_dust": "Промитий свинцевий пил",
   "item.roll_mod.impure_lead_dust": "Неочищений свинцевий пил",
-  "block.roll_mod.stone_mica": "Кам'яна руда слюди",
+  "block.roll_mod.stone_mica": "Руда слюди",
   "block.roll_mod.deepslate_mica": "Глибосланцева руда слюди",
   "block.roll_mod.netherrack_mica": "Незеракова руда слюди",
   "block.roll_mod.stone_kyanite": "Кіанітова руда",
@@ -918,7 +917,7 @@
   "block.roll_mod.netherrack_redstone": "Незеракова редстоунова руда",
   "block.roll_mod.stone_redstone": "Редстоунова руда",
   "block.roll_mod.deepslate_redstone": "Глибосланцева редстоунова руда",
-  "block.roll_mod.stone_saltpeter": "Селітраова руда",
+  "block.roll_mod.stone_saltpeter": "Селітрова руда",
   "block.roll_mod.netherrack_saltpeter": "Незеракова селітрова руда",
   "block.roll_mod.venus_emerald": "Венеріанська смарагдова руда",
   "block.roll_mod.netherrack_emerald": "Незеракова смарагдова руда",

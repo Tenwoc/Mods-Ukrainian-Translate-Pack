@@ -69,7 +69,7 @@
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks": "Дозволити блоки Незеру в підземеллях",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[0]": "Підземелля інколи зможуть мати блоки пов'язані з §4Незером§f, такі як: §bпісок, багаття, ліхтар душ§f.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[1]": "Зауважте, що блоки будуть декоративними — нічого такого, що порушить прогрес, такі як: стародавні залишки.",
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[2]": "Встановіть §6Негативне значення§f, щоб запобігти появі будь-яких блоків, пов’язаних з §4Незером§f, у підземеллях.",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[2]": "Встановіть §6Негативне значення§f, щоб запобігти появі будь-яких блоків, пов'язаних з §4Незером§f, у підземеллях.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[3]": "Ця опція може бути корисною для деяких творців мод-паків.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[4]": "Усталено: §2true",
 
@@ -79,19 +79,19 @@
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.zombieDungeon.zombieDungeonMaxSurfaceStaircaseLength.@Tooltip[2]": "Усталено: §220",
 
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.bannerMaxCount": "Макс. кількість стягів у малому підземеллі",
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.bannerMaxCount.@Tooltip[0]": "Максимальна кількість стягів, які можуть з’явитися в одному маленькому підземеллі.",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.bannerMaxCount.@Tooltip[0]": "Максимальна кількість стягів, які можуть з'явитися в одному маленькому підземеллі.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.bannerMaxCount.@Tooltip[1]": "Усталено: §22",
 
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.chestMinCount": "Мін. кількість скринь у малому підземеллі",
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.chestMinCount.@Tooltip[0]": "Мінімальна кількість скринь, які гарантовано з’являться в одному маленькому підземеллі.",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.chestMinCount.@Tooltip[0]": "Мінімальна кількість скринь, які гарантовано з'являться в одному маленькому підземеллі.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.chestMinCount.@Tooltip[1]": "Усталено: §21",
 
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.chestMaxCount": "Макс. кількість скринь у малому підземеллі",
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.chestMaxCount.@Tooltip[0]": "Максимальна кількість скринь, які гарантовано з’являться в одному маленькому підземеллі.",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.chestMaxCount.@Tooltip[0]": "Максимальна кількість скринь, які гарантовано з'являться в одному маленькому підземеллі.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.chestMaxCount.@Tooltip[1]": "Усталено: §22",
 
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.enableOreProps": "Дозволити рудні блоки у кутках",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.enableOreProps.@Tooltip[0]": "Чи можуть маленькі підземелля де-інколи розміщувати рудні блоки в кутках підземелля.",
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.enableOreProps.@Tooltip[1]": "Якщо false, будь-які рудні блоки, що з’являються як частина кутової опори - будуть замінені повітрям.",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.enableOreProps.@Tooltip[1]": "Якщо false, будь-які рудні блоки, що з'являються як частина кутової опори - будуть замінені повітрям.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.enableOreProps.@Tooltip[2]": "Усталено: §2true"
 }

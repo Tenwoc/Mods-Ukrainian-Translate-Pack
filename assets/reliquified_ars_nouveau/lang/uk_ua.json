@@ -12,7 +12,7 @@
   "item.reliquified_ars_nouveau.flaming_bracer": "Полум'яний наруч",
   "tooltip.relics.flaming_bracer.description": "Частина легендарного полум'яного обладунку, що навіть без інших його частин здатна висікати з тіла жертви язики магічного полум'я.",
   "tooltip.relics.flaming_bracer.ability.pyroclastic": "Пірокінез",
-  "tooltip.relics.flaming_bracer.ability.pyroclastic.description": "При заподіюванні шкоди в ближньому бою по цілі в полум’ї з шансом у %1$s%% викидає з неї магічний вогонь. Якщо спрацьовування успішне, здатність повторюється, викидаючи додаткову одиницю магічного вогню і продовжуючи процес доти, доки ймовірність не перестане спрацьовувати. Максимальне число спрацьовувань - %2$s.",
+  "tooltip.relics.flaming_bracer.ability.pyroclastic.description": "При заподіюванні шкоди в ближньому бою по цілі в полум'ї з шансом у %1$s%% викидає з неї магічний вогонь. Якщо спрацьовування успішне, здатність повторюється, викидаючи додаткову одиницю магічного вогню і продовжуючи процес доти, доки ймовірність не перестане спрацьовувати. Максимальне число спрацьовувань - %2$s.",
   "tooltip.relics.flaming_bracer.ability.resistance": "Пірофагія",
   "tooltip.relics.flaming_bracer.ability.resistance.description": "Наділяє гравця повною стійкістю до шкоди від магічного вогню.",
   "tooltip.relics.flaming_bracer.leveling_source.pyroclastic.title": "Пірокінез",

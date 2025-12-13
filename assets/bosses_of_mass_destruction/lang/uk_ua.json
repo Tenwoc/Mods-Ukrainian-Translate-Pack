@@ -42,7 +42,7 @@
   "item.bosses_of_mass_destruction.earthdive_spear": "Спис пірнання в землю",
   "item.bosses_of_mass_destruction.earthdive_spear.tooltip": "Дає телепорт на невелику відстань крізь тверді блоки",
   "item.bosses_of_mass_destruction.levitation_block.tooltip": "Коли розміщено, дає творчий політ у колоні 7x7",
-  "item.bosses_of_mass_destruction.mob_ward.tooltip": "Коли розміщено, моби не з’являться в будь-якому напрямку 64 блоків",
+  "item.bosses_of_mass_destruction.mob_ward.tooltip": "Коли розміщено, моби не з'являться в будь-якому напрямку 64 блоків",
   "item.bosses_of_mass_destruction.monolith_block.tooltip_0": "Коли розміщено, збільшує силу вибуху на 30% у будь-якому",
   "item.bosses_of_mass_destruction.monolith_block.tooltip_1": "напрямку 64 блоків. Цей ефект не сумується",
   "item.bosses_of_mass_destruction.obsidian_heart": "Обсидіанове серце",

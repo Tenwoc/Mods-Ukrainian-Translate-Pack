@@ -112,7 +112,7 @@
   "ars_nouveau.page.book_threads": "Книжкові пряжі",
   "ars_nouveau.page.focus_threads": "Книжкова пряжа: Фокус",
   "ars_nouveau.page.focus_threads.desc": "Вшиття цих пряж у переплітник дозволить йому впливати на свої закляття силою відповідного фокусу.",
-  "ars_nouveau.particle_config.ray": "Луч",
+  "ars_nouveau.particle_config.ray": "Промінь",
   "ars_nouveau.perk_desc.thread_air_focus": "Пряжа для чарівного переплітника. Дозволяє виконувати закляття так, ніби одягнуто фокус Повітря.",
   "ars_nouveau.perk_desc.thread_cheap_damage": "Пряжа для чарівного переплітника. Значно зменшує ціну та шкоду заклять книги.",
   "ars_nouveau.perk_desc.thread_earth_focus": "Пряжа для чарівного переплітника. Дозволяє виконувати закляття так, ніби одягнуто фокус Землі.",
@@ -221,7 +221,7 @@
   "toomanyglyphs.glyph_name.glyph_filter_living_not_player": "Фільтр: Не гравець",
   "toomanyglyphs.glyph_name.glyph_filter_monster": "Фільтр: Монстр",
   "toomanyglyphs.glyph_name.glyph_filter_player": "Фільтр: Гравець",
-  "toomanyglyphs.glyph_name.glyph_ray": "Луч",
+  "toomanyglyphs.glyph_name.glyph_ray": "Промінь",
   "toomanyglyphs.glyph_name.glyph_reverse_direction": "Зворотний напрямок",
   
   "ars_nouveau.page.spell_binder": "Чарівний переплітник - альтернатива традиційному чаклуванню, яка дозволяє виконувати закляття з вкладених пергаментів заклять та чаклунських томів. Ліва сторона інтерфейсу вміщує до 10 різних заклять, доступних через радіальне меню (V), а права є сховищем для 15 додаткових заклять."

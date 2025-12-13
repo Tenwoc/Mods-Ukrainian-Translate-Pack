@@ -193,7 +193,7 @@
   "effect.tetra.howling.description": "Надає 12,5% шансу відбити снаряд за кожен рівень ефекту, уповільнює швидкість руху на -5% і дає 2,5% шансу відправити снаряди назад туди, звідки вони прилетіли.",
   "effect.tetra.punctured.description": "Знижує броню на 10% за кожен рівень.",
   "effect.tetra.severed.description": "Знижує максимальне здоров'я і шкоду від атак.",
-  "effect.tetra.small_health.description": "Менш потужна версія Припливу здоров’я.",
+  "effect.tetra.small_health.description": "Менш потужна версія Припливу здоров'я.",
   "effect.tetra.small_strength.description": "Менш потужна версія Сили.",
   "effect.tetra.steeled.description": "<Невідомо>",
   "effect.tetra.stun.description": "Оглушує ціль, перешкоджаючи її руху, не даючи їй завдавати шкоди під час атаки та надаючи їй нескінченний час відновлення атаки.",

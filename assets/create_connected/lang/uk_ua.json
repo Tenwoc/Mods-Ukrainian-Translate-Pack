@@ -186,7 +186,7 @@
   "create_connected.ponder.chain_cogwheel_relay.header": "Передача сили обертання за допомогою ланцюгових шестерень",
   "create_connected.ponder.chain_cogwheel_relay.text_1": "Ланцюгові шестерні - це ланцюгові приводи з додатковою шестірнею",
   "create_connected.ponder.chain_cogwheel_relay.text_2": "Вони з'єднуються з іншими ланцюговими пристроями в ряд",
-  "create_connected.ponder.chain_cogwheel_relay.text_3": "Усі вали, з’єднані таким чином, обертатимуться в одному напрямку",
+  "create_connected.ponder.chain_cogwheel_relay.text_3": "Усі вали, з'єднані таким чином, обертатимуться в одному напрямку",
   "create_connected.ponder.chain_cogwheel_relay.text_4": "Шестерні можуть з'єднуватися з ланцюговими шестернями в будь-якому місці ряду",
   "create_connected.ponder.chain_cogwheel_relay.text_5": "Будь-яка частина ряду може бути повернута на 90 градусів",
   "create_connected.ponder.crank_wheel.header": "Генерація сили обертання ручними колісними корбами",
