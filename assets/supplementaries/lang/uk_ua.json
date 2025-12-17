@@ -224,7 +224,7 @@
   "death.attack.supplementaries.xp_extracting": "%1$s зрештою, не був достатньо досвідченим",
   "death.attack.supplementaries.xp_extracting.player": "%1$s витягнув надто багато під час битви %2$s",
   "effect.supplementaries.overencumbered": "Перевантаження",
-  "effect.supplementaries.overencumbered.description": "Запобігає швидкому бігу. Подальші рівні відповідно зменшують висоту стрибка та перешкоджають швидкості ходьби",
+  "effect.supplementaries.overencumbered.description": "Запобігає швидкому бігу. Подальші рівні відповідно зменшують висоту стрибка та перешкоджають швидкости ходьби",
   "enchantment.supplementaries.stasis": "Рівновага",
   "enchantment.supplementaries.stasis.desc": "Дозволяє снарядам рогатки ігнорувати гравітацію",
   "entity.supplementaries.brick_projectile": "Цеглина",

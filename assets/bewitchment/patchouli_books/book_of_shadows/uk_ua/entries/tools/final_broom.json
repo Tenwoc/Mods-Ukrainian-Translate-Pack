@@ -13,7 +13,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "besmirchment:final_broom",
-      "text": "Окрім швидкості, ця мітла також чинить опір тому, хто на ній їде.$(br)$(l:bewitchment:sigils/using_sigils)Символи$() також можуть бути нанесені на нього."
+      "text": "Окрім швидкости, ця мітла також чинить опір тому, хто на ній їде.$(br)$(l:bewitchment:sigils/using_sigils)Символи$() також можуть бути нанесені на нього."
     }
   ]
 }

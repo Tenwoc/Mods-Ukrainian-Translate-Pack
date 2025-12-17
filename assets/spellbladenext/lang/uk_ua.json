@@ -160,7 +160,7 @@
   "spell.spellbladenext.fireoverdrive.name": "Полум'яний овердрайв",
   "spell.spellbladenext.flameslash.description": "{damage} полум'яної шкоди за секунду. Дико розмахуйте зброєю, стріляючи палючими снарядами, що вибухають.",
   "spell.spellbladenext.flameslash.name": "Полум'яна рана",
-  "spell.spellbladenext.flicker_strike.description": "Стрибайте на найближчих ворогів рівномірно, завдаючи одного удару в секунду в ближньому бою й {damage} додаткової полум'яної шкоди, залежно від швидкості атаки. Зосереджується на одній цілі, якщо навколо більше нікого.",
+  "spell.spellbladenext.flicker_strike.description": "Стрибайте на найближчих ворогів рівномірно, завдаючи одного удару в секунду в ближньому бою й {damage} додаткової полум'яної шкоди, залежно від швидкости атаки. Зосереджується на одній цілі, якщо навколо більше нікого.",
   "spell.spellbladenext.flicker_strike.name": "Мерехтливе полум'я",
   "spell.spellbladenext.frostblink.description": "Телепортуйтеся за спину ворога, завдаючи 1,5-кратної шкоди в ближньому бою й {damage} додаткової таємничої шкоди.",
   "spell.spellbladenext.frostblink.name": "Таємне мерехтіння",
@@ -202,7 +202,7 @@
   "spell.spellbladenext.whirlingblades.name": "Розривна течія",
   "spell.spellbladenext.whirlwind.description": "Обертайтеся безперервно, завдаючи 1,5-кратної шкоди від вашої атаки.",
   "spell.spellbladenext.whirlwind.name": "Вихор",
-  "spellbladenext.spellbladetext": "При використанні заклинання з цим чаромечом ви отримуєте Силу і Швидкість, що дорівнюють чверті вашої сили, пов'язаної зі школою заклинання, на час, що не перевищує тривалості перезарядження заклинання.",
+  "spellbladenext.spellbladetext": "При використанні заклинання з цим чаромечом ви отримуєте Силу і Швидкість, що дорівнюють чверті вашої сили, пов'язаної зі школою заклинання, на час, що не перевищує тривалости перезарядження заклинання.",
   "stat.spellbladenext.hex": "Прокляття",
   "stat.spellbladenext.threat": "Загроза"
 }

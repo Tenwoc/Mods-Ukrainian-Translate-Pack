@@ -1186,10 +1186,10 @@
 
   "gui.blue_skies.item.ability.runic.0": "Збільшує рівень рідкісності усіх одягнутих дуг на 1.",
 
-  "gui.blue_skies.item.ability.ethereal.0": "Додає 10%% до швидкості пересування.",
-  "gui.blue_skies.item.ability.ethereal.1": "Додає 15%% до швидкості пересування.",
-  "gui.blue_skies.item.ability.ethereal.2": "Додає 20%% до швидкості пересування.",
-  "gui.blue_skies.item.ability.ethereal.3": "Додає 25%% до швидкості пересування.",
+  "gui.blue_skies.item.ability.ethereal.0": "Додає 10%% до швидкости пересування.",
+  "gui.blue_skies.item.ability.ethereal.1": "Додає 15%% до швидкости пересування.",
+  "gui.blue_skies.item.ability.ethereal.2": "Додає 20%% до швидкости пересування.",
+  "gui.blue_skies.item.ability.ethereal.3": "Додає 25%% до швидкости пересування.",
 
   "gui.blue_skies.item.ability.dusk.0": "Дає невидимість при підкраданні та виділяє дим.",
   "gui.blue_skies.item.ability.dusk.1": "Дає невидимість при підкраданні та виділяє трохи диму.",
@@ -1206,10 +1206,10 @@
   "gui.blue_skies.item.ability.poison.2": "Збільшує шкоду на 3 при отруєнні.",
   "gui.blue_skies.item.ability.poison.3": "Збільшує шкоду на 4 при отруєнні.",
 
-  "gui.blue_skies.item.ability.aquatic.0": "Додає 10%% до швидкості плавання.",
-  "gui.blue_skies.item.ability.aquatic.1": "Додає 20%% до швидкості плавання.",
-  "gui.blue_skies.item.ability.aquatic.2": "Додає 20%% до швидкості плавання, та вдвічі зменшує час горіння.",
-  "gui.blue_skies.item.ability.aquatic.3": "Додає 20%% до швидкості плавання, та втричі зменшує час горіння.",
+  "gui.blue_skies.item.ability.aquatic.0": "Додає 10%% до швидкости плавання.",
+  "gui.blue_skies.item.ability.aquatic.1": "Додає 20%% до швидкости плавання.",
+  "gui.blue_skies.item.ability.aquatic.2": "Додає 20%% до швидкости плавання, та вдвічі зменшує час горіння.",
+  "gui.blue_skies.item.ability.aquatic.3": "Додає 20%% до швидкости плавання, та втричі зменшує час горіння.",
 
   "gui.blue_skies.item.ability.life.0": "Зменшує шкоду від вогню при 2 серцях або менше.",
   "gui.blue_skies.item.ability.life.1": "Зменшує шкоду від вогню при 4 серцях або менше.",

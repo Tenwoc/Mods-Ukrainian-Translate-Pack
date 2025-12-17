@@ -1736,7 +1736,7 @@
 
   "material.tconstruct.seared_stone": "Обпалений камінь",
   "material.tconstruct.seared_stone.flavor": "Гарячіший мент",
-  "material.tconstruct.seared_stone.encyclopedia": "Надає +6 швидкості добування для блоків, які можна розтопити в плавильнику",
+  "material.tconstruct.seared_stone.encyclopedia": "Надає +6 швидкости добування для блоків, які можна розтопити в плавильнику",
   "material.tconstruct.seared_stone.armor": "Зменшує отримувану шкоду від вогню на 10% на рівень та скорочує час горіння",
 
   "material.tconstruct.scorched_stone": "Випалений камінь",
@@ -1747,7 +1747,7 @@
   "material.tconstruct.copper": "Мідь",
   "material.tconstruct.copper.oxidized": "Окиснена мідь",
   "material.tconstruct.copper.flavor": "Нехай це не робить вам в житті погоди.",
-  "material.tconstruct.copper.encyclopedia": "Надає більше швидкості добування на нижчих глибинах, +6 за кожні 64 блоки під рівнем 64",
+  "material.tconstruct.copper.encyclopedia": "Надає більше швидкости добування на нижчих глибинах, +6 за кожні 64 блоки під рівнем 64",
   "material.tconstruct.copper.ranged": "Надає додаткову швидкість на нижчій глибині, +0.05 за кожні 64 блоки під рівнем 64",
   "material.tconstruct.copper.armor": "Надає додатковий захист зі зниженням глибини, +5% за кожні 64 блоки під рівнем 64",
   "material.tconstruct.copper.skull_flavor": "Залишає вітер лише в макітрі",
@@ -1780,7 +1780,7 @@
   "material.tconstruct.skyslime_vine": "Слизуваті лози",
   "material.tconstruct.skyslime_vine.slimeskin": "Слизошкіра",
   "material.tconstruct.skyslime_vine.flavor": "Літай як метелик, жаль як бджола.",
-  "material.tconstruct.skyslime_vine.encyclopedia": "Скасовує зменшення швидкості добування, коли ви не на землі",
+  "material.tconstruct.skyslime_vine.encyclopedia": "Скасовує зменшення швидкости добування, коли ви не на землі",
   "material.tconstruct.skyslime_vine.ranged": "Надає +0.5 точності, коли не на землі або драбині",
   "material.tconstruct.skyslime_vine.armor": "Зменшує силу тяжіння на 20% за кожен елемент обладунку",
 
@@ -1792,8 +1792,8 @@
 
   "material.tconstruct.twisting_vine": "Кручені лози",
   "material.tconstruct.twisting_vine.flavor": "Не сперечайся та їж!",
-  "material.tconstruct.twisting_vine.encyclopedia": "Надає +6 до швидкості видобутку, але втрачає 1 міцність, коли ви опускаєте інструмент",
-  "material.tconstruct.twisting_vine.ranged": "Надає +15% до швидкості натягування лука, але втрачає 1 міцність, коли ви опускаєте інструмент",
+  "material.tconstruct.twisting_vine.encyclopedia": "Надає +6 до швидкости видобутку, але втрачає 1 міцність, коли ви опускаєте інструмент",
+  "material.tconstruct.twisting_vine.ranged": "Надає +15% до швидкости натягування лука, але втрачає 1 міцність, коли ви опускаєте інструмент",
   "material.tconstruct.twisting_vine.armor": "Надає +10% до стійкості до відкидань, але втрачає 2 міцності, коли ви знімаєте обладунок",
 
 
@@ -1809,9 +1809,9 @@
 
   "material.tconstruct.amethyst_bronze": "Аметистова бронза",
   "material.tconstruct.amethyst_bronze.flavor": "Не плутати з бронзою.",
-  "material.tconstruct.amethyst_bronze.encyclopedia": "Надає +0.25 швидкості добування на рівень для блоків, які не потребують інструмента, навіть якщо бронзовий інструмент неефективний проти них",
-  "material.tconstruct.amethyst_bronze.ranged": "Додає +0.1 до швидкості на рівень, але при цьому обмежує кути стріл до 32, 16 або 8 напрямків на перших 3 рівнях відповідно",
-  "material.tconstruct.amethyst_bronze.armor": "Надає +2,5% до швидкості атаки на рівень, але обмежує кути відкидання до 32, 16, 8 або 4 напрямків",
+  "material.tconstruct.amethyst_bronze.encyclopedia": "Надає +0.25 швидкости добування на рівень для блоків, які не потребують інструмента, навіть якщо бронзовий інструмент неефективний проти них",
+  "material.tconstruct.amethyst_bronze.ranged": "Додає +0.1 до швидкости на рівень, але при цьому обмежує кути стріл до 32, 16 або 8 напрямків на перших 3 рівнях відповідно",
+  "material.tconstruct.amethyst_bronze.armor": "Надає +2,5% до швидкости атаки на рівень, але обмежує кути відкидання до 32, 16, 8 або 4 напрямків",
 
   "material.tconstruct.pig_iron": "Свинозалізо",
   "material.tconstruct.pig_iron.flavor": "Кращий матеріал, це не обговорюється.",
@@ -1838,7 +1838,7 @@
   "material.tconstruct.manyullyn": "Маньюлін",
   "material.tconstruct.manyullyn.flavor": "Метал, назву якого більшість інженерів ніколи правильно не вимовить. Також відомий як зореріжучий матеріал.",
   "material.tconstruct.manyullyn.encyclopedia": "Надає +2 шкоди на рівень після 8 послідовних ударів",
-  "material.tconstruct.manyullyn.ranged": "Стріли отримують +1 шкоду на рівень (до швидкості) після 8 послідовних влучень",
+  "material.tconstruct.manyullyn.ranged": "Стріли отримують +1 шкоду на рівень (до швидкости) після 8 послідовних влучень",
   "material.tconstruct.manyullyn.armor": "Тимчасово збільшує шкоду ближнього бою на 1 після отримання шкоди, обмежуючись загальним рівнем всієї броні",
 
   "material.tconstruct.hepatizon": "Гепатизон",
@@ -1912,9 +1912,9 @@
   "material.tconstruct.obsidian.armor": "Надає 10% захисту від вибухів за кожен рівень та зменшує відкидання від вибуху.",
   "material.tconstruct.ancient":     "Стародавень",
   "material.tconstruct.ancient.flavor": "Вже не такий як раніше.",
-  "material.tconstruct.ancient.encyclopedia": "Застосовується у бойових кайлах, водяних бластерах та бойових табличках, а також в результаті бартеру. Кожен рівень надає +1 слот здібностей коштом -10% швидкості атаки, -10% швидкості видобутку корисних копалин та +10% сили тяжіння.",
-  "material.tconstruct.ancient.ranged": "Можна отримати зі сковорідок, бойових кайл та в результаті бартеру. Кожен рівень надає +1 слот здібностей та +10% до сили тяжіння ціною -10% до швидкості натягування.",
-  "material.tconstruct.ancient.armor": "Здобувається з пластинчастих обладунків в бастіонах, бойових табличок, сковорідок та в результаті бартеру. Кожен рівень дає +1 слот здібностей та +10% до сили тяжіння коштом -10% до швидкості пересування або -10% до швидкості атаки щитом.",
+  "material.tconstruct.ancient.encyclopedia": "Застосовується у бойових кайлах, водяних бластерах та бойових табличках, а також в результаті бартеру. Кожен рівень надає +1 слот здібностей коштом -10% швидкости атаки, -10% швидкости видобутку корисних копалин та +10% сили тяжіння.",
+  "material.tconstruct.ancient.ranged": "Можна отримати зі сковорідок, бойових кайл та в результаті бартеру. Кожен рівень надає +1 слот здібностей та +10% до сили тяжіння ціною -10% до швидкости натягування.",
+  "material.tconstruct.ancient.armor": "Здобувається з пластинчастих обладунків в бастіонах, бойових табличок, сковорідок та в результаті бартеру. Кожен рівень дає +1 слот здібностей та +10% до сили тяжіння коштом -10% до швидкости пересування або -10% до швидкости атаки щитом.",
   "material.tconstruct.netherite":  "Незерит",
   "material.tconstruct.earthslime": "Слиз",
   "material.tconstruct.skyslime":   "Небослиз",
@@ -1941,20 +1941,20 @@
 
   "material.tconstruct.tungsten": "Вольфрам",
   "material.tconstruct.tungsten.flavor": "Чи ви подумували про створення гурту важкого металу?",
-  "material.tconstruct.tungsten.encyclopedia": "Надає +10% швидкості добування і -10% швидкості руху на рівень",
-  "material.tconstruct.tungsten.ranged": "Дає +15% до швидкості витягування та -10% до швидкості пересування на рівень",
-  "material.tconstruct.tungsten.armor": "Дає +2 до твердості, -10% до швидкості пересування та +5% до сили тяжіння на рівень",
+  "material.tconstruct.tungsten.encyclopedia": "Надає +10% швидкости добування і -10% швидкости руху на рівень",
+  "material.tconstruct.tungsten.ranged": "Дає +15% до швидкости витягування та -10% до швидкости пересування на рівень",
+  "material.tconstruct.tungsten.armor": "Дає +2 до твердості, -10% до швидкости пересування та +5% до сили тяжіння на рівень",
 
   "material.tconstruct.platinum": "Платина",
   "material.tconstruct.platinum.flavor": "Її використовують переможці!",
-  "material.tconstruct.platinum.encyclopedia": "Дає +8 швидкості добування для руд.",
+  "material.tconstruct.platinum.encyclopedia": "Дає +8 швидкости добування для руд.",
   "material.tconstruct.platinum.ranged": "Влучання у монстра поодалік має 5% шанс на рівень випадання самородків. 50 блоків або більше - платина, 40 блоків - золото, 30 блоків - залізо, 20 блоків - мідь.",
 
   "material.tconstruct.lead": "Свинець",
   "material.tconstruct.lead.flavor": "Можна спробувати зробити салець з цього",
-  "material.tconstruct.lead.encyclopedia": "Надає +10% шкоди й -10% швидкості руху на рівень",
-  "material.tconstruct.lead.ranged": "Дає +10% шкоди від снарядів і -10% швидкості пересування на рівень",
-  "material.tconstruct.lead.armor": "Надає +15% стійкості до відкидання, -10% до швидкості пересування та +5% до сили тяжіння на рівень",
+  "material.tconstruct.lead.encyclopedia": "Надає +10% шкоди й -10% швидкости руху на рівень",
+  "material.tconstruct.lead.ranged": "Дає +10% шкоди від снарядів і -10% швидкости пересування на рівень",
+  "material.tconstruct.lead.armor": "Надає +15% стійкості до відкидання, -10% до швидкости пересування та +5% до сили тяжіння на рівень",
 
   "material.tconstruct.silver": "Срібло",
   "material.tconstruct.silver.flavor": "Знаєш, цей інструмент не буде таким же яскравим через кілька днів.",
@@ -1971,8 +1971,8 @@
 
   "material.tconstruct.aluminum": "Алюміній",
   "material.tconstruct.aluminum.flavor": "Найчастіше зустрічається в курганах.",
-  "material.tconstruct.aluminum.ranged": "Дає +7% швидкості та точності стрільби",
-  "material.tconstruct.aluminum.armor": "Надає +5% до швидкості використання предметів ціню -5% захисту.",
+  "material.tconstruct.aluminum.ranged": "Дає +7% швидкости та точності стрільби",
+  "material.tconstruct.aluminum.armor": "Надає +5% до швидкости використання предметів ціню -5% захисту.",
 
   "material.tconstruct.treated_wood": "Інженерне дерево",
   "material.tconstruct.treated_wood.flavor": "«Нехай щастить»",
@@ -1982,20 +1982,20 @@
   "__comment": "Tier 3 Integration Materials",
   "material.tconstruct.steel": "Сталь",
   "material.tconstruct.steel.flavor": "По суті 90% матеріалознавства",
-  "material.tconstruct.steel.encyclopedia": "Надає +4% міцності, шкоди та швидкості на рівень",
-  "material.tconstruct.steel.ranged": "Дає +4% міцності, +3% швидкості та +3% шкоди від снарядів на рівень",
+  "material.tconstruct.steel.encyclopedia": "Надає +4% міцності, шкоди та швидкости на рівень",
+  "material.tconstruct.steel.ranged": "Дає +4% міцності, +3% швидкости та +3% шкоди від снарядів на рівень",
   "material.tconstruct.steel.armor": "Надає +10% до міцності та +1 до твердості на рівень",
 
   "material.tconstruct.bronze": "Бронза",
   "material.tconstruct.bronze.flavor": "Не плутати з аметистовою бронзою.",
-  "material.tconstruct.bronze.encyclopedia": "Надає +6 швидкості добування на рівень при повній міцності, збільшення нульове нижче половини міцності",
-  "material.tconstruct.bronze.ranged": "Дає +0,05 швидкості на рівень при повній міцності, 0 при повній міцності нижче 50% міцності",
+  "material.tconstruct.bronze.encyclopedia": "Надає +6 швидкости добування на рівень при повній міцності, збільшення нульове нижче половини міцності",
+  "material.tconstruct.bronze.ranged": "Дає +0,05 швидкости на рівень при повній міцності, 0 при повній міцності нижче 50% міцності",
   "material.tconstruct.bronze.armor": "Збільшує витривалість на 2 на рівень при повній міцності, але підвищення падає до 0 нижче 50% міцності",
 
   "material.tconstruct.constantan": "Константан",
   "material.tconstruct.constantan.flavor": "Шіканоко-ноконоко-константан... вибачте",
-  "material.tconstruct.constantan.encyclopedia": "Надає +7.5 швидкості добування в екстремальному теплі чи холоді",
-  "material.tconstruct.constantan.ranged": "Дає +0,15 швидкості в екстремальному холоді та вдвічі посилюється в екстремальній спеці",
+  "material.tconstruct.constantan.encyclopedia": "Надає +7.5 швидкости добування в екстремальному теплі чи холоді",
+  "material.tconstruct.constantan.ranged": "Дає +0,15 швидкости в екстремальному холоді та вдвічі посилюється в екстремальній спеці",
   "material.tconstruct.constantan.armor": "Забезпечує 5% захисту від сильного холоду та подвійне посилення від сильної спеки",
 
   "material.tconstruct.invar": "Інвар",
@@ -2325,7 +2325,7 @@
   "modifier.tconstruct.slurping.description": "Дозволяє пити рідину в шоломі при взаємодії",
   "modifier.tconstruct.aqua_affinity": "Рідність води",
   "modifier.tconstruct.aqua_affinity.flavor": "Поєднайся з морем!",
-  "modifier.tconstruct.aqua_affinity.description": "Прибирає зменшення швидкості добування під водою",
+  "modifier.tconstruct.aqua_affinity.description": "Прибирає зменшення швидкости добування під водою",
   "modifier.tconstruct.item_frame": "Рамка",
   "modifier.tconstruct.item_frame.flavor": "Я все бачу",
   "modifier.tconstruct.item_frame.description": "Додає слоти інвентаря до шолома для спостереження за предметами. Ідеально для годинників та компасів",
@@ -3005,11 +3005,11 @@
   "_comment": "Stats",
 
   "tool_stat.tconstruct.attack_speed": "Швидкість атаки: ",
-  "tool_stat.tconstruct.attack_speed.description": "Базове значення для обчислень швидкості атаки.\nПриблизно дорівнює повністю зарядженим атакам за секунду.",
+  "tool_stat.tconstruct.attack_speed.description": "Базове значення для обчислень швидкости атаки.\nПриблизно дорівнює повністю зарядженим атакам за секунду.",
   "tool_stat.tconstruct.durability": "Міцність: ",
   "tool_stat.tconstruct.durability.description": "Базове значення для обчислень міцності.\nЗазвичай основна частина повної міцності інструмента.",
   "tool_stat.tconstruct.use_item_speed": "Швидкість використання предмета: ",
-  "tool_stat.tconstruct.use_item_speed.description": "Множник швидкості пересування при використанні предмета, наприклад, лука або щита.",
+  "tool_stat.tconstruct.use_item_speed.description": "Множник швидкости пересування при використанні предмета, наприклад, лука або щита.",
 
   "stat.tconstruct.head": "Наконечник",
   "tool_stat.tconstruct.mining_speed": "Швидкість добування: ",
@@ -3105,8 +3105,8 @@
   "armor_stat.tconstruct.use_item_speed": "Швидкости користання предмета",
   "armor_stat.tconstruct.experience": "Досвіду",
   "armor_stat.tconstruct.critical_damage": "Критичної шкоди",
-  "armor_stat.tconstruct.good_effect_duration": "Тривалості корисних зілль",
-  "armor_stat.tconstruct.bad_effect_duration": "Тривалості шкідливих зілль",
+  "armor_stat.tconstruct.good_effect_duration": "Тривалости корисних зілль",
+  "armor_stat.tconstruct.bad_effect_duration": "Тривалости шкідливих зілль",
   "armor_stat.tconstruct.crouch_damage": "Шкоди у підкраданні",
   "armor_stat.tconstruct.knockback": "Відкидання",
 
@@ -3121,8 +3121,8 @@
   "attribute.name.tconstruct.generic.safe_fall_distance": "Безпечної висоти падіня",
   "attribute.name.tconstruct.generic.crouch_damage_multiplier": "Шкоди у підкраданні",
   "attribute.name.tconstruct.generic.knockback_multiplier": "Відкидання",
-  "attribute.name.tconstruct.generic.good_effect_duration_multiplier": "Тривалості корисних зілль",
-  "attribute.name.tconstruct.generic.bad_effect_duration_multiplier": "Тривалості шкідливих зілль",
+  "attribute.name.tconstruct.generic.good_effect_duration_multiplier": "Тривалости корисних зілль",
+  "attribute.name.tconstruct.generic.bad_effect_duration_multiplier": "Тривалости шкідливих зілль",
 
 
   "_comment": "Tooltips",
@@ -3402,7 +3402,7 @@
   "jei.tconstruct.molding.pattern_consumed": "Шаблон витрачається при створенні",
 
   "jei.tconstruct.melting.title": "Розтоплення",
-  "jei.tconstruct.melting.multiplier": "Множник швидкості: %sx",
+  "jei.tconstruct.melting.multiplier": "Множник швидкости: %sx",
   "jei.tconstruct.melting.ore": "Вихід рецепта збільшується залежно від типу контролера",
   "jei.tconstruct.melting.time": "Час розтоплення: %s с",
   "jei.tconstruct.melting.smeltery": "У плавильні:",

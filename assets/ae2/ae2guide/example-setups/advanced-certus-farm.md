@@ -12,7 +12,7 @@ navigation:
 
 Замість того щоб мати великий запас родючих блоків, та оновлювати їх вручну час від часу, ця система використовує [автоматизоване заряджання](charger-automation.md) та [автоматизовану трансформацію](throw-in-water-automation.md) для довершення автоматизації ферми.
 
-Дивіться [Вирощування істинного кварцу](../ae2-mechanics/certus-growth.md) для отримання орієнтовної швидкості ферми.
+Дивіться [Вирощування істинного кварцу](../ae2-mechanics/certus-growth.md) для отримання орієнтовної швидкости ферми.
 
 **ЦЕ СКЛАДНА КОНСТРУКЦІЯ З РЕЧАМИ, ЩО СКЛАДАЮТЬСЯ ОДНА НА ОДНУ, ОБЕРТАЙТЕ СХЕМУ, ЩОБ РОЗГЛЯНУТИ ЇЇ З УСІХ КУТІВ**
 
@@ -89,23 +89,23 @@ navigation:
 
 ### Добувач друз:
 
-* Перша <ItemLink id="annihilation_plane" /> (1) не має інтерфейсу для налаштування, але може бути зачарована Удачею.
-* Перша <ItemLink id="storage_bus" /> (2) відфільтрована на <ItemLink id="certus_quartz_crystal" />.
+- Перша <ItemLink id="annihilation_plane" /> (1) не має інтерфейсу для налаштування, але може бути зачарована Удачею.
+- Перша <ItemLink id="storage_bus" /> (2) відфільтрована на <ItemLink id="certus_quartz_crystal" />.
 
 ### Забирач блоку істинного кварцу:
 
-* Друга <ItemLink id="annihilation_plane" /> (3) не має інтерфейсу для налаштування, але може бути зачарована Шовковим дотиком.
-* Друга <ItemLink id="storage_bus" /> (4) відфільтрована на <ItemLink id="quartz_block" />.
+- Друга <ItemLink id="annihilation_plane" /> (3) не має інтерфейсу для налаштування, але може бути зачарована Шовковим дотиком.
+- Друга <ItemLink id="storage_bus" /> (4) відфільтрована на <ItemLink id="quartz_block" />.
 
 ### Розміщувач родючого кварцу:
 
-* <ItemLink id="formation_plane" /> (5) без налаштувань.
-* <ItemLink id="import_bus" /> (6) відфільтрована на <ItemLink id="flawed_budding_quartz" />.
+- <ItemLink id="formation_plane" /> (5) без налаштувань.
+- <ItemLink id="import_bus" /> (6) відфільтрована на <ItemLink id="flawed_budding_quartz" />.
 
 ### В основній мережі:
 
-* Третя <ItemLink id="storage_bus" /> (7) відфільтрована на <ItemLink id="certus_quartz_crystal" />, та має [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) вище, ніж ваше основне сховище.
-* <ItemLink id="interface" /> (8) налаштована запасати 1 надщерблений родючий кварц, а також має встановлену <ItemLink id="crafting_card" />.
+- Третя <ItemLink id="storage_bus" /> (7) відфільтрована на <ItemLink id="certus_quartz_crystal" />, та має [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) вище, ніж ваше основне сховище.
+- <ItemLink id="interface" /> (8) налаштована запасати 1 надщерблений родючий кварц, а також має встановлену <ItemLink id="crafting_card" />.
 
 ## Як це працює
 
@@ -133,5 +133,5 @@ navigation:
 
 ### В основній мережі
 
-* <ItemLink id="storage_bus" /> надає головній мережі (а також [автоматизованому заряднику](charger-automation.md)) доступ до всіх кристалів істинного кварцу у діжці. Їй встановлено високий [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) щоб кристали істинного кварцу переважно поверталися назад у діжку, а не до вашого основного сховища.
-* <ItemLink id="interface" /> надає підмережі розміщувача родючого кварцу доступ до <ItemLink id="flawed_budding_quartz" />, а підмережі забирача блоку істинного кварцу — спосіб повернути виснажені блоки назад у головну мережу. <ItemLink id="crafting_card" /> дозволяє інтерфейсу запитувати нові родючі блоки у системи [автовироблення](../ae2-mechanics/autocrafting.md).
+- <ItemLink id="storage_bus" /> надає головній мережі (а також [автоматизованому заряднику](charger-automation.md)) доступ до всіх кристалів істинного кварцу у діжці. Їй встановлено високий [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) щоб кристали істинного кварцу переважно поверталися назад у діжку, а не до вашого основного сховища.
+- <ItemLink id="interface" /> надає підмережі розміщувача родючого кварцу доступ до <ItemLink id="flawed_budding_quartz" />, а підмережі забирача блоку істинного кварцу — спосіб повернути виснажені блоки назад у головну мережу. <ItemLink id="crafting_card" /> дозволяє інтерфейсу запитувати нові родючі блоки у системи [автовироблення](../ae2-mechanics/autocrafting.md).

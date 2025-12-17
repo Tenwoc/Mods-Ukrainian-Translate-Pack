@@ -1,13 +1,13 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: МЕ Розширена шина імпорту/експорту
-    icon: extendedae:ex_import_bus_part
+  parent: epp_intro/epp_intro-index.md
+  title: МЕ Розширена шина імпорту/експорту
+  icon: extendedae:ex_import_bus_part
 categories:
-- extended devices
+  - extended devices
 item_ids:
-- extendedae:ex_import_bus_part
-- extendedae:ex_export_bus_part
+  - extendedae:ex_import_bus_part
+  - extendedae:ex_export_bus_part
 ---
 
 # МЕ Розширена шина імпорту/експорту
@@ -22,6 +22,6 @@ item_ids:
 </Row>
 
 МЕ Розширена шина імпорту/експорту працює швидше, ніж звичайні <ItemLink id="ae2:import_bus" />/<ItemLink id="ae2:export_bus" />
-(Усталений множник швидкості - 8. Цей параметр можна конфігурувати).
+(Усталений множник швидкости - 8. Цей параметр можна конфігурувати).
 
 Вона також має більше слотів для модифікаторів порівняно зі звичайними шинами.

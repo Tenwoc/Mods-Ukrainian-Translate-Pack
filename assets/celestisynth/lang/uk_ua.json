@@ -133,7 +133,7 @@
   "item.celestisynth.breezebreaker.passive_desc_1": "Гравець отримує величезний імунітет до стрибків і падінь, поки тримає предмет, але отримує у 2.3 рази більше шкоди від усіх інших джерел шкоди.",
 
   "item.celestisynth.breezebreaker.passive_2": "Доброзичлива душа",
-  "item.celestisynth.breezebreaker.passive_desc_2": "Кожні 15 застосувань вмінь активують або деактивують цей ефект. Під час активації гравець отримує прибавку до швидкості і вдвічі зменшує час перезарядки вмінь. Ефект зникає через 8 секунд.",
+  "item.celestisynth.breezebreaker.passive_desc_2": "Кожні 15 застосувань вмінь активують або деактивують цей ефект. Під час активації гравець отримує прибавку до швидкости і вдвічі зменшує час перезарядки вмінь. Ефект зникає через 8 секунд.",
 
   "item.celestisynth.breezebreaker.skill_1": "Штормовий вітер",
   "item.celestisynth.breezebreaker.condition_1": "Активація: ПКМ",
@@ -179,7 +179,7 @@
   "advancement.celestisynth.obtain_aquaflora.description": "Отримайте Аквафлору",
 
   "item.celestisynth.aquaflora.passive_1": "Прокрутка",
-  "item.celestisynth.aquaflora.passive_desc_1": "Кожне застосоване вміння додає 3 секунди швидкості гравцеві.",
+  "item.celestisynth.aquaflora.passive_desc_1": "Кожне застосоване вміння додає 3 секунди швидкости гравцеві.",
 
   "item.celestisynth.aquaflora.skill_1": "Пелюстковий прокол",
   "item.celestisynth.aquaflora.condition_1": "Активація: ПКМ",
@@ -292,7 +292,7 @@
   "item.celestisynth.armor_stun_immune": "> Імунітет до переривання під час використання вміння зброї",
   "item.celestisynth.armor_damage_reflection_percent": "+%s% повернення шкоди ворогу",
   "item.celestisynth.armor_damage_reflection_addition": "+%s повернення шкоди ворогу",
-  "item.celestisynth.armor_mob_effect_duration_multiplier": "x%s отриманої тривалості ефекту моба",
+  "item.celestisynth.armor_mob_effect_duration_multiplier": "x%s отриманої тривалости ефекту моба",
   "item.celestisynth.armor_skill_damage_multiplier": "x%s шкоди від навичок зброї",
 
   "gui.celestisynth.celestial_crafting": "Небесний верстак"

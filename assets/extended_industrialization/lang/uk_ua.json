@@ -171,7 +171,7 @@
   "text.extended_industrialization.electric_tool_help_2_fortune_looting": "- Натисніть %s + %s для перемикання між Фортуною/Грабунком та Шовковим дотиком.", 
   "text.extended_industrialization.electric_tool_help_2_fortune_silk_touch": "- Натисніть %s + %s для перемикання між Фортуною та Шовковим дотиком.", 
   "text.extended_industrialization.electric_tool_help_2_looting_beheading": "- Натисніть %s + %s для перемикання між Грабунком та Обезголовленням.", 
-  "text.extended_industrialization.electric_tool_help_3": "- Використовуйте %s + %s для зміни швидкості видобутку.", 
+  "text.extended_industrialization.electric_tool_help_3": "- Використовуйте %s + %s для зміни швидкости видобутку.", 
   "text.extended_industrialization.electric_tool_help_4": "- Натисніть %s, тримаючи, або %s, наводячи, щоб увімкнути/вимкнути видобуток 3x3.", 
   "text.extended_industrialization.enchantment_module_input": "Вставте модуль зачарування, щоб машина використовувала зачарування.", 
   "text.extended_industrialization.enchantment_module_machine": "Може використовуватися в %s.", 

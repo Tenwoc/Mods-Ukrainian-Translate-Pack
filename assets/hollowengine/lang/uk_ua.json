@@ -97,7 +97,7 @@
   "nodes.hollowengine.npcs.throw_item": "Кинути предмет",
   "nodes.hollowengine.npcs.throw_item.desc": "Кидає вказаний предмет у напрямку, в якому він дивиться.",
   "nodes.hollowengine.npcs.cause": "NPC «%s» викликає помилку в скрипті! Скрипт зупинено, дивіться додаткову інформацію в журналах.",
-  "nodes.hollowengine.npcs.speed_modifier": "Модифікатор швидкості",
+  "nodes.hollowengine.npcs.speed_modifier": "Модифікатор швидкости",
 
   "nodes.hollowengine.server.command": "Команда",
   "nodes.hollowengine.server.command.desc": "Виконує вказану команду від імені сервера.",

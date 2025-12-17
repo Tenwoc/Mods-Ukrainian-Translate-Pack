@@ -10,14 +10,14 @@
   "attribute.name.extraspellattributes.glancingblow": "шансу отримати ковзний удар",
   "attribute.name.extraspellattributes.spellsuppression": "шансу шкоди закляття придушення",
   "attribute.name.extraspellattributes.serenity": "спокою",
-  "attribute.name.extraspellattributes.endu": "витривалості",
+  "attribute.name.extraspellattributes.endu": "витривалости",
   "attribute.name.extraspellattributes.determination": "рішучості",
 
   "desc.extraspellattributes.glance": "Побіжний удар завдає лише 65% шкоди. Ви не можете отримати Удар погляду від атак, які не походять від істот (наприклад, Вогню та Отрути).",
 
   "desc.extraspellattributes.supp": "Пригнічене заклинання завдає лише 50% шкоди.",
 
-  "desc.extraspellattributes.endu": "Ваш % витривалості - це кількість здоров'я, що віднімається від максимальної шкоди, яку могли б завдати ковзаючі удари.",
+  "desc.extraspellattributes.endu": "Ваш % витривалости - це кількість здоров'я, що віднімається від максимальної шкоди, яку могли б завдати ковзаючі удари.",
   "desc.extraspellattributes.acro":"Ваш % Спокою - це ймовірність того, що пригнічене заклинання не завдасть шкоди.",
   "desc.extraspellattributes.determination":"Ваш % Рішучості - це частка втраченого здоров'я, яка відновлюється як здоров'я протягом наступних чотирьох секунд.",
   "desc.extraspellattributes.reabsorption":"Поглинання (жовті серця) відновлюється до максимального рівня поступово після того, як ви не отримували ударів протягом 2 секунд.",

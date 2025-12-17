@@ -22,7 +22,7 @@
   "tooltip.relics.researching.badge.ability.toggleable.title": "Застосування із перемиканням",
   "tooltip.relics.researching.badge.ability.toggleable.description": "Здібність може бути ввімкнена/вимкнена під час використання.",
   "tooltip.relics.researching.badge.ability.chargeable.title": "Застосування із зарядженням",
-  "tooltip.relics.researching.badge.ability.chargeable.description": "Здібність спрацьовує миттєво через деякий час циклічного використання. Результат спрацьовування може залежати від тривалості використання.",
+  "tooltip.relics.researching.badge.ability.chargeable.description": "Здібність спрацьовує миттєво через деякий час циклічного використання. Результат спрацьовування може залежати від тривалости використання.",
   "tooltip.relics.researching.badge.ability.stated.title": "Режимне застосування",
   "tooltip.relics.researching.badge.ability.stated.description": "Здібність має кілька режимів, що циклічно перемикаються її використанням.",
 

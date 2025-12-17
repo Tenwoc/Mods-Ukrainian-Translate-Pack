@@ -229,11 +229,11 @@
   "createcasing.ponder.chain_drive.text_2": "Усі вали, з'єднані таким чином, обертатимуться в одному напрямку",
   "createcasing.ponder.chain_drive.text_3": "Будь-яка частина ряду може бути повернена на 90 градусів",
 
-  "createcasing.ponder.chain_gearshift.header": "Регулюванням швидкості обертання за допомогою ланцюгових коробок передач",
+  "createcasing.ponder.chain_gearshift.header": "Регулюванням швидкости обертання за допомогою ланцюгових коробок передач",
   "createcasing.ponder.chain_gearshift.text_1": "Неактивні ланцюгові коробки передач поводяться так само, як ланцюгові приводи",
   "createcasing.ponder.chain_gearshift.text_2": "Коли заживлена, передавана швидкість іншим ланцюговим приводам у ряді подвоюється",
   "createcasing.ponder.chain_gearshift.text_3": "Коли заживлена коробка передач не є джерелом, її швидкість зменшиться вдвічі",
-  "createcasing.ponder.chain_gearshift.text_4": "В обох випадках ланцюгові приводи в ряді завжди обертатимуться зі швидкістю вдвічі більшою від швидкості заживленої коробки передач",
+  "createcasing.ponder.chain_gearshift.text_4": "В обох випадках ланцюгові приводи в ряді завжди обертатимуться зі швидкістю вдвічі більшою від швидкости заживленої коробки передач",
   "createcasing.ponder.chain_gearshift.text_5": "Використовуючи аналогові сигнали можна точніше налаштувати коефіцієнт між 1 і 2",
   "createcasing.ponder.chain_gearshift.text_6": "12 об/хв",
 

@@ -167,7 +167,7 @@
   "effect.neapolitan.berserking.description": "Вбивство мобів підвищує ефект на 1 рівень кожного разу, кожен рівень додає сили та захисту.",
   "effect.neapolitan.harmony.description": "Змушує більшість ворожих мобів тікати від користувача.",
   "effect.neapolitan.slipping.description": "Змушує користувача рухатися по землі у випадкових напрямках.",
-  "effect.neapolitan.sugar_rush.description": "Надає швидкість протягом перших трьох чвертей тривалості ефекту, а протягом останньої чверті — уповільнення.",
+  "effect.neapolitan.sugar_rush.description": "Надає швидкість протягом перших трьох чвертей тривалости ефекту, а протягом останньої чверті — уповільнення.",
   "effect.neapolitan.vanilla_scent.description": "Блокує вхідні ефекти.",
 
   "effect.nether_extension.gentle.description": "Зменшує завдане відкидання.",

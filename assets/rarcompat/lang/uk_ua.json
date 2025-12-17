@@ -118,7 +118,7 @@
 
   "tooltip.relics.cross_necklace.description": "Огортає власника реліквії захисною аурою, наділяючи його тимчасовою невразливістю після кожного отриманого удару.",
   "tooltip.relics.cross_necklace.ability.invulnerability": "Недоторканність",
-  "tooltip.relics.cross_necklace.ability.invulnerability.description": "Збільшує тривалість невразливості після отримання шкоди на %1$s секунд.",
+  "tooltip.relics.cross_necklace.ability.invulnerability.description": "Збільшує тривалість невразливости після отримання шкоди на %1$s секунд.",
   "tooltip.relics.cross_necklace.leveling_source.invulnerability.title": "Недоторканність",
   "tooltip.relics.cross_necklace.leveling_source.invulnerability.description": "+%1$s одиниць досвіду за кожне отримання шкоди.",
 
@@ -166,7 +166,7 @@
 
   "tooltip.relics.feral_claws.description": "Пробуджує в носії реліквії спрагу крові, змушуючи його битися швидше з кожною наступною атакою.",
   "tooltip.relics.feral_claws.ability.claws": "Лють звіра",
-  "tooltip.relics.feral_claws.ability.claws.description": "Збільшує швидкість атаки гравця на %1$s%% за кожну наступну атаку, здійснену не пізніше 3 секунд після останньої. В іншому випадку починає втрачати по 1 заряду щосекунди. Атака з незаповненою шкалою швидкості атаки занулить кількість накопичених зарядів.",
+  "tooltip.relics.feral_claws.ability.claws.description": "Збільшує швидкість атаки гравця на %1$s%% за кожну наступну атаку, здійснену не пізніше 3 секунд після останньої. В іншому випадку починає втрачати по 1 заряду щосекунди. Атака з незаповненою шкалою швидкости атаки занулить кількість накопичених зарядів.",
   "tooltip.relics.feral_claws.leveling_source.claws.title": "Лють звіра",
   "tooltip.relics.feral_claws.leveling_source.claws.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s.",
 
@@ -269,7 +269,7 @@
 
   "tooltip.relics.helium_flamingo.description": "На деякий час дозволяє носію реліквії розсікати повітря так само, як він розсікає воду.",
   "tooltip.relics.helium_flamingo.ability.flying": "Повітряний плавець",
-  "tooltip.relics.helium_flamingo.ability.flying.description": "При здійсненні подвійного стрибка дозволяє гравцеві плавати в повітрі на час до %1$s секунд. Швидкість пересування в повітрі пропорційна швидкості плавання гравця з бонусом у додаткові %2$s%%.",
+  "tooltip.relics.helium_flamingo.ability.flying.description": "При здійсненні подвійного стрибка дозволяє гравцеві плавати в повітрі на час до %1$s секунд. Швидкість пересування в повітрі пропорційна швидкости плавання гравця з бонусом у додаткові %2$s%%.",
   "tooltip.relics.helium_flamingo.leveling_source.flying.title": "Повітряний плавець",
   "tooltip.relics.helium_flamingo.leveling_source.flying.description": "+%1$s одиниць досвіду за кожну секунду плавання в повітрі від здібності %2$s.",
 

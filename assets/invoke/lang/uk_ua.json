@@ -76,7 +76,7 @@
   "spell.invoke.hijack.name": "Викрадення",
   "spell.invoke.hijack.description": "Жбурляє перлину на поточну ціль.",
   "spell.invoke.arcaneoverdrive.name": "Таємничий Шиллелаг",
-  "spell.invoke.arcaneoverdrive.description": "Активує заклинання, яке завдає {damage} таємничої шкоди ворогам навколо вас, а вам додає баф до швидкості атаки, що накопичується. Спрацьовує при попаданні.",
+  "spell.invoke.arcaneoverdrive.description": "Активує заклинання, яке завдає {damage} таємничої шкоди ворогам навколо вас, а вам додає баф до швидкости атаки, що накопичується. Спрацьовує при попаданні.",
   "spell.invoke.sonicboom.name": "Звуковий бум",
   "spell.invoke.sonicboom.description": "Запускає Звуковий вибух у вказаному напрямку, наносячи {damage} таємничої шкоди першому враженому супротивнику.",
   "spell.invoke.nullinvoke.name": "Заклик: Нуль",

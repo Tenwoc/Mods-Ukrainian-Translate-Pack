@@ -1,17 +1,17 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: Матричний збирач
-    icon: extendedae:assembler_matrix_frame
+  parent: epp_intro/epp_intro-index.md
+  title: Матричний збирач
+  icon: extendedae:assembler_matrix_frame
 categories:
-- extended devices
+  - extended devices
 item_ids:
-- extendedae:assembler_matrix_frame
-- extendedae:assembler_matrix_wall
-- extendedae:assembler_matrix_glass
-- extendedae:assembler_matrix_pattern
-- extendedae:assembler_matrix_crafter
-- extendedae:assembler_matrix_speed
+  - extendedae:assembler_matrix_frame
+  - extendedae:assembler_matrix_wall
+  - extendedae:assembler_matrix_glass
+  - extendedae:assembler_matrix_pattern
+  - extendedae:assembler_matrix_crafter
+  - extendedae:assembler_matrix_speed
 ---
 
 # Матричний збирач
@@ -37,6 +37,7 @@ item_ids:
 </GameScene>
 
 Це повинен бути паралелепіпед з довжиною ребра від 3 до 7.
+
 - Краї повинні складатися з каркаса матричного збирача.
 - Грані повинні складатися зі стін/скла матричного збирача.
 - Усередині конструкція повинна бути заповнена ядрами шаблонів/вироблення/прискорення матричного збирача.
@@ -59,8 +60,8 @@ item_ids:
 
 - Ядро прискорення матричного збирача
 
-Та ж <ItemLink id="ae2:speed_card" />, тільки для матричного збирача. 5 ядер прискорення дозволяють матричному збирачу працювати на повній швидкості.
-Встановлення понад 5 ядер прискорення не дасть додаткового приросту швидкості.
+Та ж <ItemLink id="ae2:speed_card" />, тільки для матричного збирача. 5 ядер прискорення дозволяють матричному збирачу працювати на повній швидкости.
+Встановлення понад 5 ядер прискорення не дасть додаткового приросту швидкости.
 
 ## Інтерфейс
 

@@ -14,7 +14,7 @@
     "origin.rpg_origins.thief.name": "Злодій",
     "origin.rpg_origins.thief.description": "Ви підступні і швидкі, та завжди готові вкрасти у тих, кого не любите.",
     "power.rpg_origins.better_unnoticed.name": "Покращена непомітність",
-    "power.rpg_origins.better_unnoticed.description": "Ви не хочете, щоб вас бачили, тому жертвуєте здоров'ям заради швидкості. У вас на 2 серця менше.",
+    "power.rpg_origins.better_unnoticed.description": "Ви не хочете, щоб вас бачили, тому жертвуєте здоров'ям заради швидкости. У вас на 2 серця менше.",
     "power.rpg_origins.brewer_jumpboost.name": "Посилення зіллєвара",
     "power.rpg_origins.brewer_jumpboost.description": "Ви маєте досвід у варінні зілля, тому швидкість, регенерація, прискорення стрибків і сила зберігаються довше.",
     "power.rpg_origins.charismatic_toggle.name": "Харизматичність",

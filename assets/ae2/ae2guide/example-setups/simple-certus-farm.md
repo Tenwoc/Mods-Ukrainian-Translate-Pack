@@ -12,7 +12,7 @@ navigation:
 
 Ця ферма працює повністю автоматично з <ItemLink id="flawless_budding_quartz" />, але у випадку з надщербленим, пошкодженим та дефектним джерелами кварцу, вам доведеться замінювати родючий блок вручну. Або автоматично, як це описано в розділах [Напівавтоматичної ферми істинного кварцу](semiauto-certus-farm.md) та [Вдосконаленої ферми істинного кварцу](advanced-certus-farm.md).
 
-Дивіться [Вирощування істинного кварцу](../ae2-mechanics/certus-growth.md) для отримання орієнтовної швидкості ферми.
+Дивіться [Вирощування істинного кварцу](../ae2-mechanics/certus-growth.md) для отримання орієнтовної швидкости ферми.
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/simple_certus_farm.snbt" />
@@ -40,12 +40,12 @@ navigation:
 
 ## Конфігурації
 
-* <ItemLink id="annihilation_plane" /> (1) не має інтерфейсу та не може бути налаштована, але може бути зачарована Удачею.
-* Перша <ItemLink id="storage_bus" /> (2) відфільтрована на <ItemLink id="certus_quartz_crystal" />.
-* The second <ItemLink id="storage_bus" /> (3) відфільтрована на <ItemLink id="certus_quartz_crystal" />, та її [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) встановлено вище, ніж у основного сховища.
+- <ItemLink id="annihilation_plane" /> (1) не має інтерфейсу та не може бути налаштована, але може бути зачарована Удачею.
+- Перша <ItemLink id="storage_bus" /> (2) відфільтрована на <ItemLink id="certus_quartz_crystal" />.
+- The second <ItemLink id="storage_bus" /> (3) відфільтрована на <ItemLink id="certus_quartz_crystal" />, та її [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) встановлено вище, ніж у основного сховища.
 
 ## Як це працює
 
 1. <ItemLink id="annihilation_plane" /> намагається зламати те, що знаходиться перед нею, але може зламати лише <ItemLink id="quartz_cluster" /> оскільки єдиним сховищем у підмережі є <ItemLink id="storage_bus" />, відфільтрована на <ItemLink id="certus_quartz_crystal" />.
-4. Перша <ItemLink id="storage_bus" /> зберігає істинний кварц у діжці.
-5. Друга <ItemLink id="storage_bus" /> надає основній мережі доступ до всіх кристалів діжці. Їй встановлено високий [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ), щоб кристали кварцу Certus переважно поверталися назад у діжку, а не у ваше основне сховище.
+2. Перша <ItemLink id="storage_bus" /> зберігає істинний кварц у діжці.
+3. Друга <ItemLink id="storage_bus" /> надає основній мережі доступ до всіх кристалів діжці. Їй встановлено високий [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ), щоб кристали кварцу Certus переважно поверталися назад у діжку, а не у ваше основне сховище.

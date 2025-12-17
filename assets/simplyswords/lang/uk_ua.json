@@ -619,7 +619,7 @@
   "item.simplyswords.volcanicfurysworditem.tooltip9": "тим більше шкоди, чим довший канал.",
 
   "item.simplyswords.ferocitysworditem.tooltip1": "Унікальний ефект: Лютість",
-  "item.simplyswords.ferocitysworditem.tooltip2": "Шанс на збільшення швидкості",
+  "item.simplyswords.ferocitysworditem.tooltip2": "Шанс на збільшення швидкости",
   "item.simplyswords.ferocitysworditem.tooltip3": "атаки, накопичуючись до 15 разів.",
   "item.simplyswords.ferocitysworditem.tooltip4": "Поглиньте всі накопичення, щоб",
   "item.simplyswords.ferocitysworditem.tooltip5": "отримати силу протягом часу, що",
@@ -636,7 +636,7 @@
   "item.simplyswords.soulsworditem.tooltip2": "Шанс при ударі поглинути найближчі душі, що",
   "item.simplyswords.soulsworditem.tooltip3": "посилює і сповільнює швидкість атак власника.",
   "item.simplyswords.soulsworditem.tooltip4": "Звільніть душі, щоб передати дебаф",
-  "item.simplyswords.soulsworditem.tooltip5": "швидкості атаки на найближчіх супротивників,",
+  "item.simplyswords.soulsworditem.tooltip5": "швидкости атаки на найближчіх супротивників,",
   "item.simplyswords.soulsworditem.tooltip6": "і регенерувати власника.",
 
   "item.simplyswords.stealsworditem.tooltip1":"Унікальний ефект: Викрадення душ",
@@ -803,7 +803,7 @@
   "item.simplyswords.wickpiercersworditem.tooltip1": "Унікальний ефект: Мерехтлива лють",
   "item.simplyswords.wickpiercersworditem.tooltip2": "Наповніть свій розум люттю, ",
   "item.simplyswords.wickpiercersworditem.tooltip3": "отримавши значний бонус до ",
-  "item.simplyswords.wickpiercersworditem.tooltip4": "швидкості атаки і дозволивши ",
+  "item.simplyswords.wickpiercersworditem.tooltip4": "швидкости атаки і дозволивши ",
   "item.simplyswords.wickpiercersworditem.tooltip5": "кожному удару гнотовика завдати ",
   "item.simplyswords.wickpiercersworditem.tooltip6": "подвійного удару на %ds.",
   
@@ -947,7 +947,7 @@
   "item.simplyswords.stoneskinsworditem.tooltip1":"Рунічна сила: Кам'яна шкіра",
   "item.simplyswords.uniquesworditem.runefused_power.stoneskin":"[ Рунозлиття: Кам'яна шкіра ]",
   "item.simplyswords.stoneskinsworditem.tooltip2":"Шанс при попаданні збільшити",
-  "item.simplyswords.stoneskinsworditem.tooltip3":"стійкість ціною швидкості.",
+  "item.simplyswords.stoneskinsworditem.tooltip3":"стійкість ціною швидкости.",
   "item.simplyswords.trailblazesworditem.tooltip1": "Рунічна сила: Вогняний слід",
   "item.simplyswords.uniquesworditem.runefused_power.trailblaze": "[ Рунозлиття: Вогняний слід] ",
   "item.simplyswords.trailblazesworditem.tooltip2": "Шанс при попаданні отримати додаткову",
@@ -1178,7 +1178,7 @@
   "text.autoconfig.simplyswords_main.option.weapon_attributes.gobberNether_damageModifier": "Гобберово-незерський базовий модифікатор шкоди",
   "text.autoconfig.simplyswords_main.option.weapon_attributes.gobberEnd_damageModifier":"Гобберово-ендовий базовий модифікатор шкоди",
 
-  "text.autoconfig.simplyswords_main.option.weapon_attributes.longsword_attackSpeed.@PrefixText" :"§a[Модифікатори швидкості атаки]§7\nРекомендований діапазон: від -1.0 до -3.7, де -1.0 - швидкий, а -3.7 - повільний.",
+  "text.autoconfig.simplyswords_main.option.weapon_attributes.longsword_attackSpeed.@PrefixText" :"§a[Модифікатори швидкости атаки]§7\nРекомендований діапазон: від -1.0 до -3.7, де -1.0 - швидкий, а -3.7 - повільний.",
   "text.autoconfig.simplyswords_main.option.weapon_attributes.longsword_attackSpeed": "Півтораручник - швидкість атаки",
   "text.autoconfig.simplyswords_main.option.weapon_attributes.twinblade_attackSpeed": "Двоклинковий меч - швидкість атаки",
   "text.autoconfig.simplyswords_main.option.weapon_attributes.rapier_attackSpeed":"Рапіра - швидкість атаки",
@@ -1238,7 +1238,7 @@
   "text.autoconfig.simplyswords_main.option.weapon_attributes.magiblade_damageModifier": "§6Магілезо§7 - модифікатор шкоди",
   "text.autoconfig.simplyswords_main.option.weapon_attributes.caelestis_damageModifier": "§6Селестіс§7 - модифікатор шкоди",
 
-  "text.autoconfig.simplyswords_main.option.weapon_attributes.brimstone_attackSpeed.@PrefixText" :"§a[Модифікатори швидкості атаки]§7\nРекомендований діапазон: від -1.0 до -3.7, де -1.0 - швидкий, а -3.7 - повільний.",
+  "text.autoconfig.simplyswords_main.option.weapon_attributes.brimstone_attackSpeed.@PrefixText" :"§a[Модифікатори швидкости атаки]§7\nРекомендований діапазон: від -1.0 до -3.7, де -1.0 - швидкий, а -3.7 - повільний.",
   "text.autoconfig.simplyswords_main.option.weapon_attributes.brimstone_attackSpeed": "§6Сірка§7 - швидкість атаки",
   "text.autoconfig.simplyswords_main.option.weapon_attributes.thewatcher_attackSpeed":"§6Спостерігач§7 - швидкість атаки",
   "text.autoconfig.simplyswords_main.option.weapon_attributes.stormsedge_attackSpeed":"§6Грань шторму§7 - швидкість атаки",

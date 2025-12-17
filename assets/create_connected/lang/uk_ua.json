@@ -155,7 +155,7 @@
   "create_connected.battery.status.discharging": "Розряджається",
   "create_connected.battery.status.empty": "Розряджено",
   "create_connected.battery.status.full": "Заряджено",
-  "create_connected.centrifugal_clutch.speed_threshold": "Поріг швидкості",
+  "create_connected.centrifugal_clutch.speed_threshold": "Поріг швидкости",
   "create_connected.display_source.boiler_status": "Стан котла",
   "create_connected.generic.unit.su_hours": "он-годин",
   "create_connected.gui.overstress_clutch.uncoupled": "Від'єднано",

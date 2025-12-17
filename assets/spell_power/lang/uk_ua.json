@@ -7,7 +7,7 @@
   "attribute.name.spell_power.soul" : "сили закляття душ",
   "attribute.name.spell_power.critical_chance" : "шансу критичної шкоди закляття",
   "attribute.name.spell_power.critical_damage" : "критичної шкоди закляття",
-  "attribute.name.spell_power.haste" : "швидкості заклять",
+  "attribute.name.spell_power.haste" : "швидкости заклять",
 
   "effect.spell_power.arcane": "Таємнича сила",
   "effect.spell_power.fire": "Вогняна сила",
