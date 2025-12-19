@@ -1,5 +1,5 @@
 {
-    "name": "Enchantment Types",
+    "name": "Типи чар",
     "icon": "minecraft:emerald",
     "category": "apotheosis:enchanting/enchantments",
 	"flag": "apotheosis:enchanting",
@@ -7,22 +7,22 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "You may notice that some enchantments have different colored names.$(p)This is because Apotheosis introduces three new sub-categories of enchantments.$(p)Each sub-category has a a few rules imposed on them."
+            "text": "Ви можете помітити, що деякі чари мають назви різних кольорів.$(p) Це тому, що Apotheosis вводить три нові підкатегорії чарів.$(p) Кожна підкатегорія має кілька правил, накладених на неї."
         },
 		{
             "type": "patchouli:text",
-			"title": "Masterwork",
-            "text": "$(2)Masterwork$() enchantments represent the strongest and rarest enchantments.$(p)They always require at least 55 $(fpower) to receive."
+			"title": "Майстерні чари",
+            "text": "$(2)Майстерні$() чари представляють найсильніші та найрідкісніші чари.$(p)Для їх отримання завжди потрібно щонайменше 55 $(fpower)."
         },
 		{
             "type": "patchouli:text",
-			"title": "Twisted",
-            "text": "$(5)Twisted$() enchantments always have one good and one bad effect.$(p)They always require at least 45 $(fpower) to receive."
+			"title": "Химерні чари",
+            "text": "$(5)Химерні$() чари завжди мають один хороший і один поганий ефект.$(p)Для їх отримання завжди потрібно щонайменше 45 $(fpower)."
         },
 		{
             "type": "patchouli:text",
-			"title": "Corrupted",
-            "text": "$(4)Corrupted$() enchantments have a health cost associated with their effect.$(p)They always require at least 65 $(fpower) to receive.$(p)They are considered to be $(c)curses$()."
+			"title": "Прокляті чари",
+            "text": "$(4)Прокляті$() чари працюють коштом вашого здоров'я.$(p)Для їх отримання завжди потрібно щонайменше 65 $(fpower).$(p)Вони вважаються $(c)прокляттями$()."
         }
 	]
 }

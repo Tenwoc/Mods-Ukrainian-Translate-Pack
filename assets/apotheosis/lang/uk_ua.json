@@ -88,6 +88,7 @@
     
     "death.attack.apotheosis.execute": "%s був катований %s",
     "death.attack.apotheosis.execute.item": "%s був катований %s за допомогою: %s",
+    "death.attack.apotheosis:execute.player": "%s був катований %s",
 
     "misc.apotheosis.affix_name.two": "%s %s",
     "misc.apotheosis.affix_name.three": "%s %s %s",
@@ -133,9 +134,6 @@
 
     "affix.apotheosis:breaker/attribute/experienced": "Досвідчений",
     "affix.apotheosis:breaker/attribute/experienced.suffix": "вченого",
-
-    "affix.apotheosis:melee/attribute/elongated": "Подовжений",
-    "affix.apotheosis:melee/attribute/elongated.suffix": "віддалених битв",
 
     "affix.apotheosis:ranged/attribute/agile": "Гнучкий",
     "affix.apotheosis:ranged/attribute/agile.suffix": "вправності",
@@ -515,7 +513,6 @@
     "misc.apotheosis.level.many": "рівні(в)",
     "name.apotheosis.treasure_goblin": "Скарбничий гоблін",
 
-    "item.apotheosis.gem.apotheosis:legacy": "Спадковий самоцвіт",
     "item.apotheosis.gem.apotheosis:core/guardian": "Охоронний самоцвіт",
     "item.apotheosis.gem.apotheosis:core/ballast": "Тягарний самоцвіт",
     "item.apotheosis.gem.apotheosis:core/solar": "Сонячний самоцвіт",
@@ -709,8 +706,6 @@
     
     "death.attack.apotheosis:psychic": "Атака %s була відбита надто сильно.",
     "death.attack.apotheosis:psychic.player": "Атака %s була відбита %s.",
-    "death.attack.apotheosis:execute": "%s було катовано.",
-    "death.attack.apotheosis:execute.player": "%s було катовано %s.",
 
     "disconnect.apotheosis.tier_changes_disabled": "Ручну зміну світового рівня вимкнено в конфігурації.",
 
@@ -928,12 +923,16 @@
     "painting.apotheosis.window.author": "Faellynna",
 
     "comment_id": "Guidebook",
+
     "book.apotheosis.name": "Хроніка тіней",
     "book.apotheosis.subtitle": "Керівництво по Апофеозу",
     "book.apotheosis.landing": "Ласкаво просимо до світу Apotheosis.$(br2)Apotheosis організовано у $(#8080FF)модулі$(), як і зміст цієї книги.$(br2)Інформація вимкнених модулів прихована.",
     
+        "item.apotheosis.gem.apotheosis:legacy": "Спадковий самоцвіт",
+        "affix.apotheosis:melee/attribute/elongated": "Подовжений",
+        "affix.apotheosis:melee/attribute/elongated.suffix": "віддалених битв",
+        "death.attack.apotheosis:execute": "%s було катовано.",
         "reward.apotheosis.affix": "%s афіксний предмет",
-        
         "misc.apotheosis.invader": "%s апофеотичний загарбник",
         "advancements.apotheosis.spawner.root": "Апофеотичні породжувачі",
         "advancements.apotheosis.spawner.root.desc": "Породжувачі можна добувати та модифікувати, дивіться переглядач рецептів для подробиць.",

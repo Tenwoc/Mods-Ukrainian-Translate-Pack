@@ -1,5 +1,5 @@
 {
-    "name": "Shears",
+    "name": "Ножиці",
     "icon": "minecraft:shears",
     "category": "apotheosis:enchanting/changes",
 	"flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Alongside the new enchantments, Shears may now also receive $(9)Unbreaking$(), $(9)Efficiency$(), and $(9)Fortune$()."
+            "text": "Крім нових чар, ножиці тепер також можуть мати $(9)Незламність$(), $(9)Ефективність$() та $(9)Удачу$()."
         }
 	]
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Invader Items",
+    "name": "Предмети загарбників",
     "icon": "minecraft:ender_chest",
     "category": "apotheosis:adventure/mobs",
 	"flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Each Invader is empowered with exactly one Affix Item, alongside the rest of their fully enchanted gear.$(p)This Affix Item is guaranteed to be dropped on death, and will be the same rarity as the Invader.$(p)The affixes on it tend to be stronger than usual."
+            "text": "Кожен загарбник має лише один афіксний предмет, а також поаністю зачароване спорядження.$(p)Цей афіксний предмет гарантовано випадатиме після смерті та матиме таку ж рідкість, як і загарбник.$(p)Афікси на ньому, як правило, сильніші, ніж зазвичай."
         },
 		{
 			"type": "patchouli:text",
-			"text": "This item alone is the trophy you will take from slaying an invader, and it is likely to be worth it.$(p)As a memento of the original owner, every item will have the invader's name prefixed to the item's name."
+			"text": "Цей предмет сам по собі є трофеєм, який ви отримаєте, вбивши загарбника, і він, ймовірно, того вартий.$(p)Як пам'ятка про початкового власника, кожен предмет матиме ім'я загарбника перед назвою предмета."
 		}
 	]
 }

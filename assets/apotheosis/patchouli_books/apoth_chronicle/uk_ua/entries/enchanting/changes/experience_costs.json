@@ -1,5 +1,5 @@
 {
-    "name": "Experience Costs",
+    "name": "Вартість досвіду",
     "icon": "minecraft:experience_bottle",
     "category": "apotheosis:enchanting/changes",
 	"flag": "apotheosis:enchanting",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "In Vanilla, things that cost levels (enchantment tables and anvils) take a flat amount of levels from you, no matter how many levels you have.$(p)Apotheosis changes both of these to cost the \"optimal\" amount of experience."
+            "text": "У класичній грі, речі, що вимагають рівнів (столи зачарування та ковадла), забирають у вас фіксовану кількість рівнів, незалежно від того, скільки у вас рівнів.$(p)Apotheosis змінює це правило, щоб ці робочі станції вимагали «оптимальної» кількості досвіду."
         },
 		{
             "type": "patchouli:text",
-            "text": "For enchanting tables, you will be charged the amount of experience as if you always had the exact amount of levels you needed to perform that enchantment.$(p)Similar for anvils, except the cost is from zero (instead of only the top N levels)."
+            "text": "У використанні стола зачарувань ви будете витрачати не фіксовану кількість рівнів, а кількість очок досвіду, що дорівнює необхідному рівню досвіду для виконання зачарування.$(p) Аналогічно це працює для ковадла."
         }
 	]
 }
