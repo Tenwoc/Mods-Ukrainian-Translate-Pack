@@ -737,7 +737,7 @@
   "block.thermal.fluid_duct.keyword": "енергія RF передача труба дріт",
   "block.thermal.energy_distributor.keyword": "енергія RF передача труба дріт",
   "block.thermal.fluid_distributor.keyword": "Рідина передача труба труба провід",
-  "block.thermal.ender_tunnel.keyword": "квантовий тессеракт ентанглопортер",
+  "block.thermal.ender_tunnel.keyword": "квантовий тессеракт заплутаний телепортер",
   "block.thermal.dynamo_compression": "Компресійний генератор",
   "block.thermal.dynamo_disenchantment": "Чародійський генератор",
   "block.thermal.dynamo_gourmand": "Кулінарний генератор",

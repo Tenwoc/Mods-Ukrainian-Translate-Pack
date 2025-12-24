@@ -33,7 +33,7 @@
     
     "block.apothic_enchanting.filtering_shelf": "Мореполиця водної фільтрації",
     "block.apothic_enchanting.treasure_shelf": "Глибополиця таємничих скарбів",
-    "block.apothic_enchanting.geode_shelf": "Книжкова полиця стабільности в жеодовій оболонці",
+    "block.apothic_enchanting.geode_shelf": "Книжкова полиця в жеодовій оболонці стабільности",
 
     "block.apothic_enchanting.library": "Бібліотека чар",
     "block.apothic_enchanting.ender_library": "Александрійська бібліотека",
@@ -304,13 +304,13 @@
     "advancements.apothic_enchanting.seashelf": "Чистота морів",
     "advancements.apothic_enchanting.seashelf.desc": "Отримайте мореполицю.",
     
-    "advancements.apothic_enchanting.infuse_seashelf": "Просякнення морем",
+    "advancements.apothic_enchanting.infuse_seashelf": "Просякнення моря",
     "advancements.apothic_enchanting.infuse_seashelf.desc": "Отримайте просякнуту мореполицю через просякнення чарами.",
     
     "advancements.apothic_enchanting.upgrade_seashelf": "Сон у холодному поту",
     "advancements.apothic_enchanting.upgrade_seashelf.desc": "Покращте просякнуту мореполицю.",
     
-    "advancements.apothic_enchanting.infuse_hellshelf": "Просякнення Пекла",
+    "advancements.apothic_enchanting.infuse_hellshelf": "Просякнення пекла",
     "advancements.apothic_enchanting.infuse_hellshelf.desc": "Отримайте просякнуту пеклополицю через просякнення чарами.",
 
     "advancements.apothic_enchanting.shieldench": "Чарувальник щитів",

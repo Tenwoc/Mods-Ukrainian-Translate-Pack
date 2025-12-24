@@ -279,7 +279,7 @@
   "tooltip.mysticalagriculture.required_biomes": "Необхідні біоми:",
   "tooltip.mysticalagriculture.chance": "Шанс: %s",
   "tooltip.mysticalagriculture.secondary_chance": "Вторинний шанс: %s",
-  "tooltip.mysticalagriculture.inferium_output": "Вихід інферія: %s",
+  "tooltip.mysticalagriculture.inferium_output": "Вихід інферію: %s",
   "tooltip.mysticalagriculture.cooking_speed": "Швидкість готування: %s",
   "tooltip.mysticalagriculture.fuel_efficiency": "Ефективність споживання палива: %s",
   "tooltip.mysticalagriculture.requires_effective_farmland": "Необхідно посадити на: %s",
@@ -348,12 +348,12 @@
   "crop.mysticalagriculture.water": "води",
   "crop.mysticalagriculture.fire": "вогню",
 
-  "crop.mysticalagriculture.inferium": "інферія",
+  "crop.mysticalagriculture.inferium": "інферію",
   "crop.mysticalagriculture.stone": "каменю",
-  "crop.mysticalagriculture.dirt": "землі",
+  "crop.mysticalagriculture.dirt": "ґрунту",
   "crop.mysticalagriculture.wood": "дерева",
   "crop.mysticalagriculture.ice": "льоду",
-  "crop.mysticalagriculture.deepslate": "глибосланця",
+  "crop.mysticalagriculture.deepslate": "глибосланцю",
 
   "crop.mysticalagriculture.nature": "природи",
   "crop.mysticalagriculture.dye": "барвника",
@@ -386,7 +386,7 @@
   "crop.mysticalagriculture.rabbit": "кролика",
 
   "crop.mysticalagriculture.gold": "золота",
-  "crop.mysticalagriculture.lapis_lazuli": "лазурита",
+  "crop.mysticalagriculture.lapis_lazuli": "лазуриту",
   "crop.mysticalagriculture.end": "Енду",
   "crop.mysticalagriculture.experience": "досвіду",
   "crop.mysticalagriculture.breeze": "вітреня",
@@ -396,7 +396,7 @@
 
   "crop.mysticalagriculture.diamond": "діаманта",
   "crop.mysticalagriculture.emerald": "смарагда",
-  "crop.mysticalagriculture.netherite": "незерита",
+  "crop.mysticalagriculture.netherite": "незериту",
   "crop.mysticalagriculture.wither_skeleton": "візер-скелета",
 
   "crop.mysticalagriculture.rubber": "гуми",
@@ -416,12 +416,12 @@
   "crop.mysticalagriculture.nickel": "нікелю",
   "crop.mysticalagriculture.constantan": "константана",
   "crop.mysticalagriculture.electrum": "електруму",
-  "crop.mysticalagriculture.invar": "інвара",
+  "crop.mysticalagriculture.invar": "інвару",
   "crop.mysticalagriculture.uranium": "урану",
   "crop.mysticalagriculture.platinum": "платини",
-  "crop.mysticalagriculture.iridium": "іридія",
+  "crop.mysticalagriculture.iridium": "іридію",
 
-  "crop.mysticalagriculture.apatite": "апатита",
+  "crop.mysticalagriculture.apatite": "апатиту",
   "crop.mysticalagriculture.ruby": "рубіна",
   "crop.mysticalagriculture.sapphire": "сапфіра",
   "crop.mysticalagriculture.peridot": "перидота",
@@ -431,9 +431,9 @@
   "crop.mysticalagriculture.blizz": "бліза",
   "crop.mysticalagriculture.blitz": "бліца",
   "crop.mysticalagriculture.basalz": "базальця",
-  "crop.mysticalagriculture.signalum": "сигналія",
-  "crop.mysticalagriculture.lumium": "люмія",
-  "crop.mysticalagriculture.enderium": "ендерія",
+  "crop.mysticalagriculture.signalum": "сигналію",
+  "crop.mysticalagriculture.lumium": "люмію",
+  "crop.mysticalagriculture.enderium": "ендерію",
 
   "crop.mysticalagriculture.flux_infused_ingot": "флюсонасиченого злитка",
   "crop.mysticalagriculture.flux_infused_gem": "флюсонасиченого самоцвіту",
@@ -445,7 +445,7 @@
   "crop.mysticalagriculture.pig_iron": "свиносталі",
   "crop.mysticalagriculture.cobalt": "кобальту",
   "crop.mysticalagriculture.rose_gold": "рожевого золота",
-  "crop.mysticalagriculture.manyullyn": "маньюліна",
+  "crop.mysticalagriculture.manyullyn": "маньюліну",
   "crop.mysticalagriculture.queens_slime": "королівського слизу",
   "crop.mysticalagriculture.hepatizon": "гепатизону",
 
@@ -454,7 +454,7 @@
   "crop.mysticalagriculture.redstone_alloy": "редстоунового сплаву",
   "crop.mysticalagriculture.conductive_alloy": "струмопровідного сплаву",
   "crop.mysticalagriculture.soularium": "соуларію",
-  "crop.mysticalagriculture.dark_steel": "темої сталі",
+  "crop.mysticalagriculture.dark_steel": "темної сталі",
   "crop.mysticalagriculture.pulsating_alloy": "пульсуючого сплаву",
   "crop.mysticalagriculture.energetic_alloy": "енергетичного сплаву",
   "crop.mysticalagriculture.vibrant_alloy": "жвавого сплаву",
@@ -462,7 +462,7 @@
 
   "crop.mysticalagriculture.mystical_flower": "містичних квітів",
   "crop.mysticalagriculture.manasteel": "манасталі",
-  "crop.mysticalagriculture.elementium": "елементія",
+  "crop.mysticalagriculture.elementium": "елементію",
   "crop.mysticalagriculture.terrasteel": "терасталі",
 
   "crop.mysticalagriculture.osmium": "осмію",
@@ -479,7 +479,7 @@
   "crop.mysticalagriculture.knightmetal": "лицарського металу",
   "crop.mysticalagriculture.fiery_ingot": "вогняного злитка",
 
-  "crop.mysticalagriculture.menril": "менрілу",
+  "crop.mysticalagriculture.menril": "менрилу",
 
   "crop.mysticalagriculture.aquamarine": "аквамарину",
   "crop.mysticalagriculture.starmetal": "зоряного металу",
@@ -487,16 +487,16 @@
 
   "crop.mysticalagriculture.compressed_iron": "стисненого заліза",
 
-  "crop.mysticalagriculture.draconium": "драконія",
+  "crop.mysticalagriculture.draconium": "драконію",
 
-  "crop.mysticalagriculture.yellorium": "йелорія",
+  "crop.mysticalagriculture.yellorium": "йелорію",
   "crop.mysticalagriculture.cyanite": "ціаніту",
 
   "crop.mysticalagriculture.sky_stone": "небесного каменю",
   "crop.mysticalagriculture.certus_quartz": "істинного кварцу",
   "crop.mysticalagriculture.fluix": "флюїксу",
 
-  "crop.mysticalagriculture.quartz_enriched_iron": "збагаченого залізом кварца",
+  "crop.mysticalagriculture.quartz_enriched_iron": "збагаченого залізом кварцу",
 
   "crop.mysticalagriculture.energized_steel": "електросталі",
   "crop.mysticalagriculture.blazing_crystal": "полум'яного кристала",
@@ -768,8 +768,8 @@
   "book.mysticalagriculture.entry.tilling_aoe_augment.page.1": "Область орання - доповнення для мотики, що збільшує область до 9х9, в якій мотика оре блоки. Доповнення працює тільки на мотиці і тільки із затиснутим Shift.",
   "book.mysticalagriculture.entry.fire_resistance_augment": "Вогнестійкість (доповнення)",
   "book.mysticalagriculture.entry.fire_resistance_augment.page.1": "Вогнестійкість - доповнення для броні, що дає власнику імунітет до вогню, доки одягнена броня.",
-  "book.mysticalagriculture.entry.step_assist_augment": "Авто-підйом (Доповнення)",
-  "book.mysticalagriculture.entry.step_assist_augment.page.1": "Авто-підйом - доповнення для наголінників або чоботів, що дозволяє власнику підійматися на висоту 1 блока без стрибка, доки одягнена броня",
+  "book.mysticalagriculture.entry.step_assist_augment": "Автопідйом (Доповнення)",
+  "book.mysticalagriculture.entry.step_assist_augment.page.1": "Автопідйом - доповнення для наголінників або чоботів, що дозволяє власнику підійматися на висоту 1 блока без стрибка, доки одягнена броня",
   "book.mysticalagriculture.entry.strength_augment": "Сила (доповнення)",
   "book.mysticalagriculture.entry.strength_augment.page.1": "Сила - доповнення для меча, яке збільшує пошкодження, що наноситься мечем, на 5-20 одиниць.",
   "book.mysticalagriculture.entry.attack_aoe_augment": "Область атаки (Доповнення)",

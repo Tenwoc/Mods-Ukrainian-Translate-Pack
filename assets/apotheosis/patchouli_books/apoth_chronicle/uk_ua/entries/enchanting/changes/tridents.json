@@ -14,7 +14,7 @@
 			"title": "Making Tridents",
 			"item": "apothic_enchanting:inert_trident",
 			"link_recipe": true,
-            "text": "Apotheosis також додає метод створення тризубів.$(p)Просто змайструйте $(9)інертний тризуб$() та модифікуйте його за допомогою $(l:apotheosis:enchanting/table/infusion)інфузійного зачарування$()."
+            "text": "Apotheosis також додає метод створення тризубів.$(p)Просто змайструйте $(9)інертний тризуб$() та модифікуйте його за допомогою $(l:apotheosis:enchanting/table/infusion)просякнення чарами$()."
         }
 	]
 }

@@ -1,41 +1,41 @@
 {
-    "name": "Levels 60 - 80",
+    "name": "Рівні 61 - 80",
     "icon": "apothic_enchanting:dormant_deepshelf",
     "category": "apotheosis:enchanting/progression",
 	"flag": "apotheosis:enchanting",
     "pages": [
 		{
             "type": "patchouli:crafting",
-			"title": "Reaching Level 70",
+			"title": "Досягання 70 рівня",
 			"recipe": "apothic_enchanting:dormant_deepshelf",
-			"text": "Reaching Level 70 requires a Level 60 Enchanting Table and access to Deepslate."
+			"text": "Для досягнення 70 рівня потрібен стіл зачарувань 60-го рівня та доступ до глибосланцю."
 		},
 		{
             "type": "patchouli:text",
-			"title": "Reaching Level 70",
-			"text": "Once you've crafted a $(9)Dormant Deepshelf$(), you need to infuse it.$(p)This infusion recipe will require some extra blocks to reach the stat threshold.$(p)Completing the infusion will yield a $(9)Deepshelf$(), which can get you to Level 70."
+			"title": "Досягання 70 рівня",
+			"text": "Після того, як ви створите $(9)дрімаючу глибополицю$(), вам потрібно її просякнути чарами.$(p)Цей рецепт просякнення вимагатиме додаткових полиць, щоб досягти порогу характеристик.$(p)Завершення просякнення дасть $(9)глибополицю$(), яка може допомогти вам досягти 70 рівня."
 		},
 		{
             "type": "patchouli:text",
-			"title": "Reaching Level 75",
-			"text": "To hit level 75, you will need to upgrade your Deepshelves.$(p)Doing this requires materials only found in the $(9)Deep Dark$().$(p)$(9)Echo Shards$() may be looted from the Ancient City, and $(9)Sculk$() may be collected with Silk Touch."
+			"title": "Досягання 75 рівня",
+			"text": "Щоб досягти 75 рівня, вам потрібно буде покращити свої глибополиці.$(p)Для цього потрібні матеріали, які можна знайти лише в $(9)темних глибинах$().$(p)$(9)Уламки відлуння$() можна здобути у стародавньому місті, а $(9)скалк$() можна зібрати за допомогою Шовкового дотику."
 		},
 		{
             "type": "patchouli:crafting",
-			"title": "Reaching Level 75",
+			"title": "Досягання 75 рівня",
 			"recipe": "apothic_enchanting:echoing_deepshelf",
 			"recipe2": "apothic_enchanting:soul_touched_deepshelf"
 		},
 		{
             "type": "patchouli:entity",
 			"entity": "minecraft:warden",
-			"title": "Reaching Level 80",
+			"title": "Досягання 80 рівня",
 			"scale": 0.95,
-			"text": "The last step to Level 80 requires slaying the $(9)Warden$(), which allows crafting $(9)Sculkshelves$()."
+			"text": "Останній крок до 80-го рівня вимагає вбивства $(9)Боронителя$(), що дозволяє створювати $(9)скалополиці$()."
 		},
 		{
             "type": "patchouli:crafting",
-			"title": "Reaching Level 80",
+			"title": "Досягання 80 рівня",
 			"recipe": "apothic_enchanting:echoing_sculkshelf",
 			"recipe2": "apothic_enchanting:soul_touched_sculkshelf"
 		}
