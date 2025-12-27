@@ -5,13 +5,13 @@ navigation:
   icon: minecraft:netherite_upgrade_smithing_template
 ---
 
-# Установка рекурсивного вироблення
+# Устава рекурсивного вироблення
 
 Як зазначено в [автовироблені](../ae2-mechanics/autocrafting.md), алгоритм планування автовироблення не може обробляти рецепти, де основним виходом є один зі складників. Наприклад, він не може обробляти клонування <ItemLink id="minecraft:netherite_upgrade_smithing_template" />s.
 
 Одним із рішень є використання здатності <ItemLink id="level_emitter" /> прикидатися [шаблоном](../items-blocks-machines/patterns.md).
 
-Це може бути використано для ввімкнення невеликої установки, яка постійно виконує майстрування. У цьому випадку ми розглянемо установку для клонування <ItemLink id="minecraft:netherite_upgrade_smithing_template" />.
+Це може бути використано для ввімкнення невеликої устави, яка постійно виконує майстрування. У цьому випадку ми розглянемо уставу для клонування <ItemLink id="minecraft:netherite_upgrade_smithing_template" />.
 
 <RecipeFor id="minecraft:netherite_upgrade_smithing_template" />
 

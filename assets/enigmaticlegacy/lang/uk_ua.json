@@ -477,7 +477,7 @@
 
   "tooltip.enigmaticlegacy.magnetRing1": "§5Притягує предмети у радіусі §6%1$s§6 блоків§5.",
   "tooltip.enigmaticlegacy.magnetRing2": "§5Ефект призупиняється при §6присіданні§5.",
-  "tooltip.enigmaticlegacy.magnetRing2_alt": "§5Діє лише при затисканні §6Shift§5.",
+  "tooltip.enigmaticlegacy.magnetRing2_alt": "§5Діє лише у §6присіданні§5.",
 
   "tooltip.enigmaticlegacy.extradimensionalEyeLocation": "§dЗв'язана локація:",
   "tooltip.enigmaticlegacy.extradimensionalEyeX": "§d- X: §6%1$s",
@@ -517,8 +517,8 @@
   
   "tooltip.enigmaticlegacy.superMagnetRing1": "§5Миттєво збирає всі скинуті предмети",
   "tooltip.enigmaticlegacy.superMagnetRing2": "§5у радіусі §6%1$s§6 блоків.",
-  "tooltip.enigmaticlegacy.superMagnetRing3": "§5Ефект призупиняється при §6присіданні§5.",
-  "tooltip.enigmaticlegacy.superMagnetRing3_alt": "§5Діє лише при затисканні §6Shift§5.",
+  "tooltip.enigmaticlegacy.superMagnetRing3": "§5Ефект призупиняється у §6присіданні§5.",
+  "tooltip.enigmaticlegacy.superMagnetRing3_alt": "§5Діє лише у §6присіданні§5.",
   
   "tooltip.enigmaticlegacy.heavenTome1": "§5Надає вам можливість літати в радіусі дії",
   "tooltip.enigmaticlegacy.heavenTome2": "§5активного §6маяка§5, але коштом",

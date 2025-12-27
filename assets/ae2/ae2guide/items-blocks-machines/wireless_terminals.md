@@ -5,10 +5,10 @@ navigation:
   icon: wireless_crafting_terminal
   position: 410
 categories:
-- tools
+  - tools
 item_ids:
-- ae2:wireless_terminal
-- ae2:wireless_crafting_terminal
+  - ae2:wireless_terminal
+  - ae2:wireless_crafting_terminal
 ---
 
 # Бездротові термінали
@@ -31,7 +31,7 @@ item_ids:
 
 <ItemImage id="wireless_terminal" scale="4" />
 
-Ваш базовий термінал, але тепер портативний! Переглядайте та отримуйте доступ до вмісту вашого [мережевого сховища](../ae2-mechanics/import-export-storage.md) і запитуйте речі з вашої установки [автовироблення](../ae2-mechanics/autocrafting.md) з будь-якого місця в межах досяжності бездротової точки доступу.
+Ваш базовий термінал, але тепер портативний! Переглядайте та отримуйте доступ до вмісту вашого [мережевого сховища](../ae2-mechanics/import-export-storage.md) і запитуйте речі з вашої устави [автовироблення](../ae2-mechanics/autocrafting.md) з будь-якого місця в межах досяжності бездротової точки доступу.
 
 ## Інтерфейс
 
@@ -41,7 +41,7 @@ item_ids:
 
 Бездротовий термінал підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="energy_card" /> збільшує місткість акумулятора
+- <ItemLink id="energy_card" /> збільшує місткість акумулятора
 
 ## Рецепт
 
@@ -61,7 +61,7 @@ item_ids:
 
 Бездротовий термінал майстрування підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="energy_card" /> збільшує місткість акумулятора
+- <ItemLink id="energy_card" /> збільшує місткість акумулятора
 
 ## Рецепт
 

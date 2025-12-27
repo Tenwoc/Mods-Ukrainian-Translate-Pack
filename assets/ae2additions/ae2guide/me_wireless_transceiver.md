@@ -1,10 +1,11 @@
 ---
 navigation:
-    title: МЕ Бездротовий передавач
-    parent: aeadditions.md
+  title: МЕ Бездротовий передавач
+  parent: aeadditions.md
 item_ids:
   - ae2additions:me_wireless_transceiver
 ---
+
 # МЕ Бездротовий передавач
 
 ## Для чого це?
@@ -17,7 +18,7 @@ item_ids:
 
 ![](assets/wirelesstransceiver/transceiver_diagram.png)
 
-# Базова установка
+# Базова устава
 
 <GameScene zoom="4" interactive={true}>
     <ImportStructure src="assets/wirelesstransceiver/basic_setup.snbt" />
@@ -35,8 +36,9 @@ item_ids:
     <BoxAnnotation color="#dddddd" min="10.1 1.1 6.1" max="10.9 1.9 6">
         Цей термінал тепер підключено до контролера, за умови, що живлення подається, і максимальна кількість каналів не зайнята.
     </BoxAnnotation>
+
 </GameScene>
 
-
 # Рецепт
+
 <RecipeFor id="me_wireless_transceiver"/>

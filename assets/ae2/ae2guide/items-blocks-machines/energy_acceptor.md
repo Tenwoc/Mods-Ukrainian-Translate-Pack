@@ -5,15 +5,15 @@ navigation:
   icon: energy_acceptor
   position: 110
 categories:
-- network infrastructure
+  - network infrastructure
 item_ids:
-- ae2:energy_acceptor
+  - ae2:energy_acceptor
 ---
 
 # Приймач енергії
 
 <Row gap="20">
-<BlockImage id="energy_acceptor" scale="8" /> 
+<BlockImage id="energy_acceptor" scale="8" />
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../assets/blocks/cable_energy_acceptor.snbt" />
@@ -24,14 +24,14 @@ item_ids:
 
 Коефіцієнти для перетворення енергії Forge та Techreborn такі:
 
-*   2 FE = 1 AE (Forge)
-*   1 E  = 2 AE (Fabric)
+- 2 FE = 1 AE (Forge)
+- 1 E = 2 AE (Fabric)
 
 Швидкість перетворення повністю залежить від того, скільки AE може зберігати ваша мережа, з причин, які пояснюються на [цій сторінці](../ae2-mechanics/energy.md).
 
 ## Варіанти
 
-Приймачі енергії бувають 2 різних варіантів: звичайний та плаский/[кабельний](../ae2-mechanics/cable-subparts.md). Це дозволяє зробити деякі установки компактнішими.
+Приймачі енергії бувають 2 різних варіантів: звичайний та плаский/[кабельний](../ae2-mechanics/cable-subparts.md). Це дозволяє зробити деякі устави компактнішими.
 
 Приймачі енергії можна перемикати між звичайним та пласким у сітці майстрування.
 

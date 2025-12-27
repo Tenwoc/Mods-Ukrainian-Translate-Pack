@@ -1,12 +1,12 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: ME Герметизатор
-    icon: extendedae:caner
+  parent: epp_intro/epp_intro-index.md
+  title: ME Герметизатор
+  icon: extendedae:caner
 categories:
-- extended devices
+  - extended devices
 item_ids:
-- extendedae:caner
+  - extendedae:caner
 ---
 
 # ME Герметизатор
@@ -24,6 +24,7 @@ ME Герметизатор – це машина, яка «консервує»
 Усталено він наповнює лише рідини, але зі встановленням аддонів він буде здатний наповнювати й інші речовини.
 
 ### Підтримувані аддони:
+
 - Applied Flux
 - Applied Mekanistics
 - Applied Botanics Addon
@@ -36,7 +37,7 @@ ME Герметизатор – це машина, яка «консервує»
   <ImportStructure src="../structure/caner_example.snbt"></ImportStructure>
 </GameScene>
 
-Проста установка для герметизатора. ME Герметизатор автоматично вилучить заповнений предмет, коли <ItemLink id="ae2:pattern_provider" /> передасть йому складники.
+Проста устава для герметизатора. ME Герметизатор автоматично вилучить заповнений предмет, коли <ItemLink id="ae2:pattern_provider" /> передасть йому складники.
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../structure/caner_auto.snbt"></ImportStructure>
@@ -51,7 +52,6 @@ ME Герметизатор – це машина, яка «консервує»
 Підзарядка планшета енергії (з аддоном Applied Flux):
 
 ![P1](../pic/fill_energy.png)
-
 
 ## Спорожнення
 

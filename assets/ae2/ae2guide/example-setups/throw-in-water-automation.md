@@ -7,7 +7,7 @@ navigation:
 
 # Автоматизована трансформація у воді
 
-Зверніть увагу, що оскільки тут використовується <ItemLink id="pattern_provider" />, ця установка призначена для інтеграції у вашу систему [автовироблення](../ae2-mechanics/autocrafting.md).
+Зверніть увагу, що оскільки тут використовується <ItemLink id="pattern_provider" />, ця устава призначена для інтеграції у вашу систему [автовироблення](../ae2-mechanics/autocrafting.md).
 
 Деякі рецепти вимагають кидання предметів у воду (хоча подібну систему можна використовувати для кидання предметів в інші місця). Це можна автоматизувати за допомогою <ItemLink id="formation_plane" />, <ItemLink id="annihilation_plane" />, та деякої допоміжної інфраструктури (це, по суті, 2 модифіковані [трубні підмережі](pipe-subnet.md)).
 
@@ -20,6 +20,7 @@ navigation:
         (1) Постачальник шаблонів: Без налаштувань, з відповідними шаблонами обробки.
 
         ![Fluix Pattern](../assets/diagrams/fluix_pattern_small.png) ![Flawed Budding Pattern](../assets/diagrams/flawed_budding_pattern_small.png)
+
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1.7 0 1" max="2 1 2">
@@ -52,19 +53,20 @@ navigation:
 
 ## Конфігурації шаблони
 
-* <ItemLink id="pattern_provider" /> (1) стоїть без змін, з відповідними <ItemLink id="processing_pattern" />s
-  * Для <ItemLink id="fluix_crystal" /> базовий рецепт з JEI/REI працює добре:
+- <ItemLink id="pattern_provider" /> (1) стоїть без змін, з відповідними <ItemLink id="processing_pattern" />s
+
+  - Для <ItemLink id="fluix_crystal" /> базовий рецепт з JEI/REI працює добре:
 
     ![Fluix Pattern](../assets/diagrams/fluix_pattern.png)
 
-  * <ItemLink id="flawed_budding_quartz" /> ймовірно, найкраще створювати безпосередньо з <ItemLink id="quartz_block" />, що дозволяє уникнути проблем зі складниками одного рецепту, що є результатами іншого, через що шина зберігання не зможе фільтрувати:
+  - <ItemLink id="flawed_budding_quartz" /> ймовірно, найкраще створювати безпосередньо з <ItemLink id="quartz_block" />, що дозволяє уникнути проблем зі складниками одного рецепту, що є результатами іншого, через що шина зберігання не зможе фільтрувати:
 
     ![Flawed Budding Pattern](../assets/diagrams/flawed_budding_pattern.png)
 
-* <ItemLink id="interface" /> (2) стоїть без змін.
-* <ItemLink id="formation_plane" /> (3) налаштовано на скидання складників у воду.
-* <ItemLink id="annihilation_plane" /> (4) не має інтерфейсу та не може бути налаштований.
-* <ItemLink id="storage_bus" /> (5) відфільтрована на результати шаблонів.
+- <ItemLink id="interface" /> (2) стоїть без змін.
+- <ItemLink id="formation_plane" /> (3) налаштовано на скидання складників у воду.
+- <ItemLink id="annihilation_plane" /> (4) не має інтерфейсу та не може бути налаштований.
+- <ItemLink id="storage_bus" /> (5) відфільтрована на результати шаблонів.
 
 ## Як це працює
 
