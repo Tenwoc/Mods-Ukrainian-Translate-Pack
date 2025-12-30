@@ -70,7 +70,7 @@
   "tooltip.replication_enclosure.speed": "Збільшує швидкість реплікатора на %s",
   "tooltip.replication_motor.acceleration": "Коеф. прискорення:",
   "tooltip.replication_motor.failure_chance": "Ймовірність збою: ",
-  "tooltip.replication_motor.variable": "Контролер змінної швидкости",
+  "tooltip.replication_motor.variable": "Контролер змінної швидкості",
   "tooltip.titanium.facing_handler.output": "Вихід",
   "tooltip.titanium.tank.empty": "Порожньо"
 }

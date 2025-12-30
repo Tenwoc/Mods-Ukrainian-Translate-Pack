@@ -139,5 +139,5 @@
   "sodium.extras.options.others.borderless.attachmode.title": "Безрамковий повноекранний режим на F11",
   "sodium.extras.options.others.borderless.attachmode.desc": "Налаштовує, як повинен бути приєднаний безрамковий повноекранний режим\n\nПРИЄДНАТИ - Додає його між вікном і повноекранним режимом\nЗАМІНИТИ - Замінює повноекранний режим на безрамковий повноекранний режим\nВИМКНУТИ - Вимикає приєднання безрамкового повноекранного режиму до клавіші F11",
   "sodium.extras.options.others.languagescreen.fastreload.title": "Швидке перезавантаження мови",
-  "sodium.extras.options.others.languagescreen.fastreload.desc": "Якщо ввімкнено, оновлення мови перезавантажують тільки мову, а не всі ресурси, що забезпечує 99,9% додаткової швидкости"
+  "sodium.extras.options.others.languagescreen.fastreload.desc": "Якщо ввімкнено, оновлення мови перезавантажують тільки мову, а не всі ресурси, що забезпечує 99,9% додаткової швидкості"
 }

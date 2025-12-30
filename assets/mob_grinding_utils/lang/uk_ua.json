@@ -64,7 +64,7 @@
   "item.mob_grinding_utils.solid_xp_mould_blank": "Формова заготівля твердого досвіду",
   "item.mob_grinding_utils.solid_xp_mould_baby": "Формова заготівля желейного дитя чарів",
   "item.mob_grinding_utils.solid_xp_baby": "Желейне дитя чарів",
-  "item.mob_grinding_utils.xp_solidifier_upgrade": "Покращення швидкости твердіння досвіду",
+  "item.mob_grinding_utils.xp_solidifier_upgrade": "Покращення швидкості твердіння досвіду",
   "item.mob_grinding_utils.spawner_upgrade_width": "Покращення ширини породжувача сутностей",
   "item.mob_grinding_utils.spawner_upgrade_height": "Покращення висоти породжувача сутностей",
   "item.mob_grinding_utils.monocle": "Монокль",
@@ -136,14 +136,14 @@
   "block.mob_grinding_utils.xpsolidifier.tooltip_1": "Застигає рідкий досвід.",
   "block.mob_grinding_utils.xpsolidifier.tooltip_2": "Вимагає наявності форми досвіду і рідкого досвіду в резервуарі.",
   "block.mob_grinding_utils.xpsolidifier.tooltip_3": "Може бути налаштований на горизонтальний експорт.",
-  "block.mob_grinding_utils.xpsolidifier.tooltip_4": "Швидкість збільшується за допомогою апгрейдів швидкости досвіду.",
+  "block.mob_grinding_utils.xpsolidifier.tooltip_4": "Швидкість збільшується за допомогою апгрейдів швидкості досвіду.",
 
   "block.mob_grinding_utils.solid_xp_block.tooltip_1": "Пружний",
   
   "block.mob_grinding_utils.entity_spawner.tooltip_1": "Може створювати мобів у зоні 3x3x1.",
   "block.mob_grinding_utils.entity_spawner.tooltip_2": "Використовує яйце мобів у верхньому слоті.",
   "block.mob_grinding_utils.entity_spawner.tooltip_3": "Підживлюється желейними дитятами чарів.",
-  "block.mob_grinding_utils.entity_spawner.tooltip_4": "Покращений за рахунок поліпшення швидкости досвіду та збільшення висоти/ширини породжувачів.",
+  "block.mob_grinding_utils.entity_spawner.tooltip_4": "Покращений за рахунок поліпшення швидкості досвіду та збільшення висоти/ширини породжувачів.",
   "block.mob_grinding_utils.entity_spawner.tooltip_5": "Зону впливу можна перемикати у своїй грі.",
   "block.mob_grinding_utils.entity_spawner.tooltip_6": "Позицію можна змістити в його інтерфейсі.",
 
@@ -182,7 +182,7 @@
   "tooltip.solid_xp_mould": "Використовується в затверджувачі досвіду",
   "tooltip.solid_xp_mould_blank": "Використовується у формах досвіду",
 
-  "tooltip.solidifier_upgrade": "Модифікатор швидкости: +1.",
+  "tooltip.solidifier_upgrade": "Модифікатор швидкості: +1.",
   "tooltip.spawner_upgrade_width": "Модифікатор ширини: +1. Максимум 5.",
   "tooltip.spawner_upgrade_height": "Модифікатор висоти: +1. Максимум 5.",
 

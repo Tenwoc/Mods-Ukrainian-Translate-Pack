@@ -12,7 +12,7 @@ navigation:
 
 Ця ферма працює повністю автоматично з <ItemLink id="flawless_budding_quartz" />, але у випадку з надщербленим, пошкодженим та дефектним джерелами кварцу, вам доведеться замінювати родючий блок вручну. Або автоматично, як це описано в розділах [Напівавтоматичної ферми істинного кварцу](semiauto-certus-farm.md) та [Вдосконаленої ферми істинного кварцу](advanced-certus-farm.md).
 
-Дивіться [Вирощування істинного кварцу](../ae2-mechanics/certus-growth.md) для отримання орієнтовної швидкости ферми.
+Дивіться [Вирощування істинного кварцу](../ae2-mechanics/certus-growth.md) для отримання орієнтовної швидкості ферми.
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/simple_certus_farm.snbt" />

@@ -9,7 +9,7 @@ navigation:
 
 <ItemLink id="annihilation_plane" /> можна зачарувати будь-яким зачаруванням кайла, включаючи чари Удачі, тому <ItemLink id="formation_plane" /> можна налаштувати на розміщення руд та зачаровану <ItemLink id="annihilation_plane" /> на їх швидке розбиття.
 
-Зверніть увагу, що оскільки <ItemLink id="import_bus" /> «набирає обороти», обробка почнеться повільно, а потім досягне повної швидкости за кілька секунд.
+Зверніть увагу, що оскільки <ItemLink id="import_bus" /> «набирає обороти», обробка почнеться повільно, а потім досягне повної швидкості за кілька секунд.
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/ore_fortuner.snbt" />

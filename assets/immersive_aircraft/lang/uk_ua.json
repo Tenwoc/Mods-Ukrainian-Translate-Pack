@@ -121,7 +121,7 @@
   "immersive_aircraft.upgrade.friction": "%s%% тертя повітря",
   "immersive_aircraft.upgrade.acceleration": "%s%% швидкости зльоту",
   "immersive_aircraft.upgrade.durability": "%s%% міцности",
-  "immersive_aircraft.upgrade.fuel": "%s%% швидкости споживання палива",
+  "immersive_aircraft.upgrade.fuel": "%s%% швидкості споживання палива",
   "immersive_aircraft.upgrade.wind": "%s%% супротиву вітру",
   "immersive_aircraft.upgrade.stabilizer": "%s%% стабілізації"
 }
