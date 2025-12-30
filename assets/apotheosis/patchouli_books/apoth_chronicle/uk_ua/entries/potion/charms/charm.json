@@ -1,5 +1,5 @@
 {
-    "name": "Potion Charms",
+    "name": "Зіллєві амулети",
     "icon": "apotheosis:potion_charm",
     "category": "apotheosis:potion/charms",
 	"flag": "apotheosis:potion",
@@ -7,22 +7,22 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "A $(9)Potion Charm$() is a brand new item that helps you get the most out of your potions.$(p)See, while a normal potion requires you to drink it and use the whole effect at once, the $(9)Potion Charm$() lets you stagger it."
+            "text": "$(9)Зіллєвий амулет$() – це абсолютно новий предмет, який допоможе вам отримати максимальну віддачу від ваших зілль.$(p) Бачите, тоді як звичайне зілля вимагає, щоб ви випили його та використали весь ефект одночасно, $(9)зіллєвий амулет$() дозволяє призупиняти витрату часу."
         },
 		{
             "type": "patchouli:crafting",
 			"recipe": "apotheosis:potion_charm",
-			"title": "Potion Charm Crafting",
-            "text": "A charm is made out of three potions of the same type, and some blaze powder.$(p)A single charm lasts longer than the three potions combined."
+			"title": "Створення зіллєвих амулетів",
+            "text": "Амулет створюється з трьох зілль одного типу та невеликої кількості пороху пломеня.$(p)Один амулет діє довше, ніж три зілля разом узяті."
         },
 		{
             "type": "patchouli:text",
-			"title": "Using Potion Charms",
-            "text": "A $(9)Potion Charm$() is only active when it is enabled.$(p)To enable a charm, simply right click with it in-hand.$(p)An enabled charm will start glowing."
+			"title": "Використання зіллєвих амулетів",
+            "text": "$(9)Зіллєвий амулет$() активний лише тоді, коли він увімкнений.$(p)Щоб увімкнути амулет, просто клацніть ПКМ, тримаючи його в руці.$(p)Увімкнений амулет почне мерехтіти."
         },
 		{
             "type": "patchouli:text",
-            "text": "As long as the charm is active and in your inventory, it will apply the potion to you, consuming durability.$(p)The charm will only apply a couple seconds of potion at a time.$(p)When the charm runs out of durability, it will break."
+            "text": "Поки амулет активний і знаходиться у вашому інвентарі, він застосовуватиме зілля до вас, витрачаючи міцність.$(p)Амулет застосовуватиме зілля лише на кілька секунд за раз.$(p)Коли амулет вичерпає міцність, він зламається."
         }
 	]
 }

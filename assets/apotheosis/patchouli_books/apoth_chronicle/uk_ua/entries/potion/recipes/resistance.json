@@ -1,5 +1,5 @@
 {
-    "name": "Resistance",
+    "name": "Стійкість",
     "icon": "minecraft:textures/mob_effect/resistance.png",
     "category": "apotheosis:potion/recipes",
 	"flag": "apotheosis:potion",
@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Resistance$() is a fairly useful effect that has no recipe in vanilla.$(p)Each level gives +20% damage reduction against all sources.$(p)You'll also need it to craft $(l:apotheosis:potion/effects/sundering)Sundering$() potions."
+            "text": "$(9)Стійкість$() — досить корисний ефект, рецепт якого відсутній у звичайній грі.$(p)Кожен рівень дає +20% зменшення шкоди від усіх джерел.$(p)Це зілля вам також знадобиться для створення зілля $(l:apotheosis:potion/effects/sundering)Розвалу$()."
         },
 		{
             "type": "patchouli:spotlight",
-			"title": "Brewing Recipe",
+			"title": "Рецепт варіння",
 			"item": "minecraft:shulker_shell",
-            "text": "This potion can be crafted with an Awkward Potion and a Shulker Shell.$(p)It can be extended, strengthend, or turned into a splash potion with the usual ingredients."
+            "text": "Це зілля можна виготовити за допомогою незграбного зілля та панциру шалкера.$(p)Його можна подовжити, посилити або перетворити на вибухове зілля за допомогою звичайних інгредієнтів."
         }
 	]
 }

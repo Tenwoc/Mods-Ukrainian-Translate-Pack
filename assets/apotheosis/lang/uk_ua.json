@@ -86,8 +86,8 @@
 
     "info.apotheosis.affix_item": "Афіксний предмет",
     
-    "death.attack.apotheosis.execute": "%s був катований %s",
-    "death.attack.apotheosis.execute.item": "%s був катований %s за допомогою: %s",
+    "death.attack.apotheosis:execute": "%s був катований %s",
+    "death.attack.apotheosis:execute.item": "%s був катований %s за допомогою: %s",
     "death.attack.apotheosis:execute.player": "%s був катований %s",
 
     "misc.apotheosis.affix_name.two": "%s %s",
@@ -922,6 +922,10 @@
     "painting.apotheosis.window.title": "Вид поза межею",
     "painting.apotheosis.window.author": "Faellynna",
 
+    "stat.apotheosis.world_tiers_activated": "Світовий рівень змінено",
+    "apotheosis.subtitle.reforge": "стіл перекування кує",
+    "apotheosis.subtitle.malice": "Сигіл злоби накладає злобу",  
+
     "comment_id": "Guidebook",
 
     "book.apotheosis.name": "Хроніка тіней",
@@ -931,7 +935,7 @@
         "item.apotheosis.gem.apotheosis:legacy": "Спадковий самоцвіт",
         "affix.apotheosis:melee/attribute/elongated": "Подовжений",
         "affix.apotheosis:melee/attribute/elongated.suffix": "віддалених битв",
-        "death.attack.apotheosis:execute": "%s було катовано.",
+        "death.attack.apotheosis.execute": "%s було катовано.",
         "reward.apotheosis.affix": "%s афіксний предмет",
         "misc.apotheosis.invader": "%s апофеотичний загарбник",
         "advancements.apotheosis.spawner.root": "Апофеотичні породжувачі",

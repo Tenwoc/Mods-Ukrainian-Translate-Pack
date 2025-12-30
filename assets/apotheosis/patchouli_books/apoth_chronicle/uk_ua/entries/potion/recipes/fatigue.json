@@ -1,5 +1,5 @@
 {
-    "name": "Mining Fatigue",
+    "name": "Утома",
     "icon": "minecraft:textures/mob_effect/mining_fatigue.png",
     "category": "apotheosis:potion/recipes",
 	"flag": "apotheosis:potion",
@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(c)Mining Fatigue$() is a negative effect that is normally only applied by Guardians.$(p)While active, your mining speed is reduced by 20% per level.$(p)It is the direct opposite of $(9)Haste$()."
+            "text": "$(c)Утома$() – це негативний ефект, який зазвичай застосовується лише вартовими.$(p)Поки він активний, швидкість видобутку зменшується на 20% за рівень.$(p)Це пряма протилежність $(9)Квапливости$()."
         },
 		{
             "type": "patchouli:spotlight",
-			"title": "Brewing Recipe",
+			"title": "Рецепт варіння",
 			"item": "minecraft:fermented_spider_eye",
-            "text": "This potion can be crafted with a $(9)Potion of Haste$() and a Fermented Spider Eye.$(p)It can be extended, strengthend, or turned into a splash potion with the usual ingredients."
+            "text": "Це зілля можна виготовити за допомогою $(9)зілля квапливости$() та обробленого павучого ока.$(p)Його можна подовжити, посилити або перетворити на вибухове зілля за допомогою звичайних інгредієнтів."
         }
 	]
 }
