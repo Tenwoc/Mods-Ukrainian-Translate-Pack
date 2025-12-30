@@ -218,7 +218,7 @@
   "chat.ae2.LinkedNetworkNotFound": "Не вдалося знайти прив'язану мережу",
   "chat.ae2.LoadedSettings": "Завантажено конфігурацію пристрою з карти пам'яті.",
   "chat.ae2.MachineNotPowered": "У машини відсутнє живлення.",
-  "chat.ae2.MaxUpgradesInstalled": "Досягнене максимальне збільшення місткості для цієї машини.",
+  "chat.ae2.MaxUpgradesInstalled": "Ця машина більше не має місця для цього модифікатора.",
   "chat.ae2.MaxUpgradesOfTypeInstalled": "Подальше встановлення модифікаторів цього типу неможливе.",
   "chat.ae2.MinecraftProfile": "Профіль Minecraft (%s)",
   "chat.ae2.MissingBlankPatterns": "Недостатньо порожніх шаблонів для відновлення (Не вистачає %d).",
