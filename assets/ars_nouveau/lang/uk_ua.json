@@ -388,7 +388,7 @@
   "ars_nouveau.augment_desc.glyph_rotate_glyph_extract": "Застосовує шовковий дотик при добуванні блока.",
   "ars_nouveau.augment_desc.glyph_rotate_glyph_fortune": "Застосовує вдачу при добуванні блока.",
   "ars_nouveau.augment_desc.glyph_rotate_glyph_pierce": "Збільшує глибину заподіяних блоків.",
-  "ars_nouveau.augment_desc.glyph_rotate_glyph_randomize": "Додає ймовірність не вплинути на блок.",
+  "ars_nouveau.augment_desc.glyph_rotate_glyph_randomize": "Спрямовує у випадковому напрямку, ігноруючи осі.",
   "ars_nouveau.augment_desc.glyph_rotate_glyph_sensitive": "Обертає блок по іншій осі та змушує сутність повертати свою голову.",
   "ars_nouveau.augment_desc.glyph_rune_glyph_sensitive": "Руна використовуватиме інвентар власника для підбору і взаємодій.",
   "ars_nouveau.augment_desc.glyph_sense_magic_glyph_amplify": "Збільшує рівень ефекту.",

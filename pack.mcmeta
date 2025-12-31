@@ -1,7 +1,12 @@
 {
   "pack": {
+    "description": "§9Понад 700 модів тепер §eУкраїнською!§f | §c0.8§f | by Tenwoc | Ознайомлення: https://github.com/Tenwoc/Mods-Ukrainian-Translate-Pack",
     "pack_format": 34,
-	"supported_formats": {"min_inclusive": 15, "max_inclusive": 2147483647},
-    "description": "§9Понад 700 модів тепер §eУкраїнською!§f | §c0.8§f | by Tenwoc | Ознайомлення: https://github.com/Tenwoc/Mods-Ukrainian-Translate-Pack"
+    "supported_formats": {
+      "min_inclusive": 9,
+      "max_inclusive": 95
+    },
+    "min_format": 9,
+    "max_format": 99999
   }
 }

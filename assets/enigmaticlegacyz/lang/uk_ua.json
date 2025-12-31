@@ -803,7 +803,7 @@
   "tooltip.enigmaticlegacy.cursedRingLore6": "§5і за це розплачуються стражданнями,",
   "tooltip.enigmaticlegacy.cursedRingLore7": "§5що не піддаються жодному описові.",
   
-  "tooltip.enigmaticlegacy.cursedOnesOnly1": "Лише ті, хто несе Сім проклять, мають владу",
+  "tooltip.enigmaticlegacy.cursedOnesOnly1": "Лише ті, хто несе Сім Проклять, мають владу",
   "tooltip.enigmaticlegacy.cursedOnesOnly2": "отримати і використовувати цей предмет.",
   
   "tooltip.enigmaticlegacy.worthyOnesOnly1": "§5Жертва, необхідна для отримання цього предмета,",
@@ -1021,8 +1021,8 @@
   "tooltip.enigmaticlegacy.deceptionAmulet11": "§5і зламається після §62 активацій§5.",
   
   "tooltip.enigmaticlegacy.theJudgement1": "§5Атаки завдають шкоди",
-  "tooltip.enigmaticlegacy.theJudgement2": "§5кожній істоті в радіусі",
-  "tooltip.enigmaticlegacy.theJudgement3": "§5§6%s§6 блоків§5 від цілі.",
+  "tooltip.enigmaticlegacy.theJudgement2": "§5в радіусі §6%s§6 блоків§5",
+  "tooltip.enigmaticlegacy.theJudgement3": "§5від цілі кожній істоті.",
   "tooltip.enigmaticlegacy.theJudgement4": "§5В режимі §6очищення дропу§5 також",
   "tooltip.enigmaticlegacy.theJudgement5": "§5видаляє увесь дроп в радіусі атаки.",
   "tooltip.enigmaticlegacy.theJudgement6": "§dРежим: %s",
