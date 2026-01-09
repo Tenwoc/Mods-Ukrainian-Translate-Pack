@@ -704,7 +704,7 @@
   "fluid.tconstruct.molten_pig_iron": "Розтоплене свинозалізо",
   "fluid.tconstruct.flowing_molten_pig_iron": "Зріджене розтоплене свинозалізо",
   "item.tconstruct.molten_pig_iron_bucket": "Відро розтопленого свинозаліза",
-  "fluid.tconstruct.molten_pig_iron.fluid_effect": "Розтоплене свинозалізо — найсмачніше з розплавлених металів. І не те щоб з ним хтось конкурував...",
+  "fluid.tconstruct.molten_pig_iron.fluid_effect": "Розтоплене свинозалізо — найсмачніше з розтоплених металів. І не те щоб з ним хтось конкурував...",
 
   "_comment": "Tier 4 Alloys",
 
@@ -712,7 +712,7 @@
   "fluid.tconstruct.molten_manyullyn": "Розтоплений маньюлін",
   "fluid.tconstruct.flowing_molten_manyullyn": "Зріджений розтоплений маньюлін",
   "item.tconstruct.molten_manyullyn_bucket": "Відро розтопленого маньюліну",
-  "fluid.tconstruct.molten_manyullyn.fluid_effect": "Розплавлений ман'юлін має найбільший потенціал шкоди між пласким та тривалим завдаванням шкоди.",
+  "fluid.tconstruct.molten_manyullyn.fluid_effect": "Розтоплений ман'юлін має найбільший потенціал шкоди між пласким та тривалим завдаванням шкоди.",
 
   "block.tconstruct.molten_hepatizon_fluid": "Розтоплений гепатизон",
   "fluid.tconstruct.molten_hepatizon": "Розтоплений гепатизон",

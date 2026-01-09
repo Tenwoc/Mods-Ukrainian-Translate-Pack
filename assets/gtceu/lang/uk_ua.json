@@ -2311,7 +2311,7 @@
   "gtceu.fluid.gas_vapor": "%s (пара)",
   "gtceu.fluid.generic": "%s",
   "gtceu.fluid.liquid_generic": "%s (рідина)",
-  "gtceu.fluid.molten": "%s (розплавлений)",
+  "gtceu.fluid.molten": "%s (розтоплений)",
   "gtceu.fluid.plasma": "%s (плазма)",
   "gtceu.fluid.state_gas": "§aСтан: газоподібний",
   "gtceu.fluid.state_liquid": "§aСтан: рідкий",

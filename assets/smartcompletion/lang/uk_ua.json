@@ -1,0 +1,11 @@
+{
+  "smartcompletion.command.set": "§7Встановлено §r%s§7: §r%s",
+  "smartcompletion.command.get": "  %s§7: §r%s",
+  "smartcompletion.command.set.added_by_user": " §a Значення §lдодано§r§a користувачем",
+  "smartcompletion.command.set.added_by_pack": " §2 Значення §lдодано§r§2 пкетом ресурсів",
+  "smartcompletion.command.set.removed_by_user": " §4 Значення §lвидалено§r§4 користувачем",
+  "smartcompletion.command.set.not_added": " §7 Значення §l не наявне",
+  "smartcompletion.command.hover.option": "§7Натисніть, щоб налаштувати це значення",
+
+  "parsing.word.lowercase.expected": "Очікувалося слово з малими літерами."
+}
