@@ -1,71 +1,61 @@
 ---
 navigation:
   parent: example-setups/example-setups-index.md
-  title: Specialized Local Storage
+  title: Спеціалізоване локальне сховище
   icon: drive
 ---
 
-# Specialized Local Storage
+# Спеціалізоване локальне сховище
 
-Utilizing one of the [special behaviors of the Interface](../items-blocks-machines/interface.md#особливі-взаємодії), a
-[subnetwork](../ae2-mechanics/subnetworks.md) can present the contents of its storage to the main network, without being able
-to see the main network's storage, and taking up only 1 [channel](../ae2-mechanics/channels.md).
+Використовуючи одну зі [спеціальних поведінок інтерфейсу](../items-blocks-machines/interface.md#особливі-взаємодії), [підмережа](../ae2-mechanics/subnetworks.md) може представляти вміст свого сховища основній мережі, не маючи змоги бачити сховище основної мережі та займаючи лише 1 [канал](../ae2-mechanics/channels.md).
 
-This is useful for local storage at some farm, so that the items will not overflow into your main storage.
+Це корисно для локального сховища на деякій фермі, щоб ресурси не переповнювали ваше основне сховище.
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/local_storage.snbt" />
 
 <BoxAnnotation color="#dddddd" min="4 0 0" max="5 2 1">
-        (1) Some method of importing items (in this case an interface)
+        (1) Деякий метод імпорту предметів (у цьому випадку інтерфейс)
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3 0 0" max="4 1 1">
-        (2) Drive: Has some cells in it. The cells should be filtered to whatever the farm outputs.
-        The cells can have Equal Distribution Cards and Overflow Destruction Cards.
+        (2) Привід: Містить кілька комірок. Комірки слід розгалузити за усіма вихідними ресурсами ферми. Комірки можуть мати Картки рівного розподілу та Картки знищення переповнення.
         <Row><ItemImage id="item_storage_cell_4k" scale="2" /> <ItemImage id="equal_distribution_card" scale="2" /> <ItemImage id="void_card" scale="2" /></Row>
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3 1 0" max="4 2 0.3">
-        (3) Crafting Terminal: This can see the contents of the Drive on the subnet, but not the contents of your main network's storage.
+        (3) Термінал майстрування: Він може бачити вміст привода в підмережі, але не вміст сховища вашої основної мережі.
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="2 0 0" max="2.3 1 1">
-        (4) Interface #2: In its default configuration.
+        (4) Інтерфейс №2: Без налаштувань.
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1.7 0 0" max="2 1 1">
-        (5) Storage Bus: Has priority set higher than the main storage, can be filtered to whatever the farm outputs.
+        (5) Шина сховища: Має пріоритет, встановлений вище, ніж в основного сховища, може бути відфільтрована до будь-яких виходів ферми.
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 1 0" max="2 2 0.3">
-        Crafting Terminal: This can see both the contents of the main network's storage *and* the subnetwork.
+        Термінал майстрування: Він може бачити як вміст сховища основної мережі *та* підмережі.
   </BoxAnnotation>
 
 <DiamondAnnotation pos="0 0.5 0.5" color="#00ff00">
-        To Main Network
+        До основної мережі
     </DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
-* The first <ItemLink id="interface" /> (1) simply accepts items from whatever farm you have and pushes them into the subnet.
-* The <ItemLink id="drive" /> (2) has some [cells](../items-blocks-machines/storage_cells.md) in it. The cells should be
-  [partitioned](../items-blocks-machines/cell_workbench.md) to whatever the farm outputs.
-  The cells can have <ItemLink id="equal_distribution_card" />s and <ItemLink id="void_card" />s.
-* The second <ItemLink id="interface" /> (4) is in its default configuration.
-* The <ItemLink id="storage_bus" /> has its [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) set
-  higher than the main storage. It can be filtered to whatever the farm outputs.
+* Перший <ItemLink id="interface" /> (1) просто приймає ресурси з будь-якої вашої ферми та завантажує їх у підмережу.
+* <ItemLink id="drive" /> (2) містить деякі [комірки](../items-blocks-machines/storage_cells.md). Комірки повинні бути [розгалужені](../items-blocks-machines/cell_workbench.md) за усіма вихідними ресурсами ферми. Комірки можуть мати <ItemLink id="equal_distribution_card" /> та <ItemLink id="void_card" />.
+* Другий <ItemLink id="interface" /> (4) стоїть без змін.
+* <ItemLink id="storage_bus" /> має [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) вищий, ніж основне сховище. Його можна фільтрувати за будь-якими ресурсами ферми.
 
-## How It Works
+## Як це працює
 
-* The <ItemLink id="interface" /> on the subnet shows the <ItemLink id="storage_bus" /> on the main network the contents of
-the <ItemLink id="drive" />. This means the storage bus can directly pull items from and push items to the cells in the drive.
-* The storage bus is set to high [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) so that items are preferentially
-  put back in the subnet instead of in your main storage.
-* Importantly, if the cells in the subnet fill up, the items will not overflow into the main network. If the farm is of a type
-that breaks if it backs up, <ItemLink id="void_card" />s can be used to delete the excess items instead. 
-* If the farm outputs multiple items, <ItemLink id="equal_distribution_card" />s can stop one item from filling all the cells
-and not letting the other items be stored.
+* <ItemLink id="interface" /> підмережі показує <ItemLink id="storage_bus" /> з основної мережі вміст <ItemLink id="drive" />. Це означає, що шина зберігання може безпосередньо витягувати речі з комірок привода та передавати їх до них.
+* Шина сховища має високий [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) щоб речі переважно поверталися назад у підмережу, а не в основне сховище.
+* Важливо, що якщо комірки в підмережі заповнюються, речі не переповняться в основну мережу. Якщо ферма має тип, який виходить з ладу при переповненні, для видалення зайвих речей можна використовувати <ItemLink id="void_card" />. 
+* Якщо ферма виводить кілька ресурсів, <ItemLink id="equal_distribution_card" /> може запобігти заповненню всіх комірок одним предметом і не дозволити іншим ресурсам переповнити комірку.

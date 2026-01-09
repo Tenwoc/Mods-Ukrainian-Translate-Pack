@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Wireless Connector
+    title: ME Бездротовий сполучник
     icon: extendedae:wireless_connect
 categories:
 - extended devices
@@ -10,53 +10,50 @@ item_ids:
 - extendedae:wireless_tool
 ---
 
-# ME Wireless Connector
+# ME Бездротовий сполучник
 
 <Row gap="20">
 <BlockImage id="extendedae:wireless_connect" scale="6"></BlockImage>
 <ItemImage id="extendedae:wireless_tool" scale="6"></ItemImage>
 </Row>
 
-ME Wireless Connector can link two networks like <ItemLink id="ae2:quantum_link" /> but with limited distances and can't 
-cross dimensions. ME Wireless Connector only supports one-to-one connections, you need to use <ItemLink id="extendedae:wireless_hub" /> 
-if you want many-to-many connections.
+ME Бездротовий сполучник може поєднувати між собою дві мережі, як це робить <ItemLink id="ae2:quantum_link" />, але має обмежену дистанцію та не може проходити крізь виміри. ME Бездротовий сполучник підтримує лише зв'язки від-один-до-одного, для від-кількох-до-кількох сполучень вам потрібно використовувати <ItemLink id="extendedae:wireless_hub" />.
 
-## Link the Wireless Connectors
+## Зв'язування бездротових сполучників
 
-Click the two Wireless Connectors that you want to link with the ME Wireless Setup Kit, then you can link them together.
+Застосуйте МЕ Набір створення бездротового зв'язку на двох сполучниках, щоб зв'язати їх.
 
-Sneak + Click to clear ME Wireless Setup Kit's current setting.
+Застосуйте пристрій крадькома, щоб очистити його прив'язки.
 
-ME Wireless Connector will change its texture when a link is successfully established.
+Після вдалого сполучення ME Бездротовий сполучник змінить свою текстуру.
 
-Unlinked ME Wireless Connectors
+Незв'язані бездротові сполучники
 
 <GameScene zoom="5" background="transparent">
   <ImportStructure src="../structure/wireless_connector_off.snbt"></ImportStructure>
 </GameScene>
 
-Linked ME Wireless Connectors
+Сполучені бездротові сполучники
 
 <GameScene zoom="5" background="transparent">
   <ImportStructure src="../structure/wireless_connector_on.snbt"></ImportStructure>
 </GameScene>
 
-## Color
+## Колір
 
-Wireless Connectors can be colored like cables and only connect the cable/connectors with the same color.
+Бездротові сполучники можна фарбувати так само як кабелі, і з'єднувати лише кабелі/роз'єми одного кольору.
 
-You need a <ItemLink id="ae2:color_applicator" /> to color the connector.
+Вам потрібен <ItemLink id="ae2:color_applicator" />, щоб пофарбувати сполучник.
 
-So you can set up your wireless connectors like this:
+Таким чином ви можете розподіляти свої бездротові роз'єми ось так:
 
 <GameScene zoom="3" background="transparent" interactive={true}>
   <ImportStructure src="../structure/wireless_connector_setup.snbt"></ImportStructure>
 </GameScene>
 
-## Power Usage
+## Споживання енергії
 
-ME Wireless Connector costs more energy when they are farther apart. Its cost-distance curve isn't linear so the power 
-cost can get very high if when they are too far apart.
+МЕ Бездротові сполучники споживають більше енергії, коли знаходяться далі один від одного. Крива залежності вартості від відстані нелінійна, тому вартість енергії може бути дуже високою, якщо вони знаходяться занадто далеко один від одного.
 
-You can use <ItemLink id="ae2:energy_card" /> to save power, every card can reduce 10% energy cost.
+<ItemLink id="ae2:energy_card" /> може допомогти зекономити споживання енергії, кожна карта може зменшити витрати на 10%.
 

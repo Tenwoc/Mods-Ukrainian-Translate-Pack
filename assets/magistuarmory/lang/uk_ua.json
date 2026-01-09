@@ -412,7 +412,7 @@
   "lance.rideronly": "Тільки для вершника",
   "lance.leftclick": "ЛКМ перед ударом щоб спішити ціль",
   "medieval_bag.rightclick": "ПКМ щоб витягнути вміст",
-  "lance.bonusdamage": "Шкода залежить від маси та швидкості",
+  "lance.bonusdamage": "Шкода залежить від маси та швидкости",
   "armorpiercing": "%1$f%% пробиття броні", 
   "twohandedi": "Дворучна зброя I", 
   "twohandedii": "Дворучна зброя II", 

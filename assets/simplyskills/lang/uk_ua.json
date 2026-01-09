@@ -117,8 +117,8 @@
   "effect.simplyskills.might.description":                     "Збільшує на 10% шкоду в ближньому бою за накопичення.",
 
   "effect.simplyskills.exhaustion":                     "Виснаження",
-  "effect.simplyskills.exhaustion.desc":                "Ви втрачаєте 1% шкоди від атаки, швидкости атаки та швидкости пересування за накопичення.",
-  "effect.simplyskills.exhaustion.description":                "Ви втрачаєте 1% шкоди від атаки, швидкости атаки та швидкости пересування за накопичення.",
+  "effect.simplyskills.exhaustion.desc":                "Ви втрачаєте 1% шкоди при атаці, швидкости атаки та швидкости пересування за накопичення.",
+  "effect.simplyskills.exhaustion.description":                "Ви втрачаєте 1% шкоди при атаці, швидкости атаки та швидкости пересування за накопичення.",
 
   "effect.simplyskills.revealed":                       "Виявлений",
   "effect.simplyskills.revealed.desc":                  "Ви не можете увійти в стан Непомітності.",
@@ -561,7 +561,7 @@
   "text.autoconfig.simplyskills.option.rogue.passiveRogueEvasionMasterySignatureMultiplier":                 "§a[Пасивна]§7 Множник шансів на майстерність ухилення",
   "text.autoconfig.simplyskills.option.rogue.passiveRogueOpportunisticMasteryPoisonDuration":                "§a[Пасивна]§7 Опортуністична майстерність Тривалість дії отрути",
   "text.autoconfig.simplyskills.option.rogue.passiveRogueOpportunisticMasteryPoisonAmplifier":               "§a[Пасивна]§7 Підсилювач отрути Принагідна майстерність",
-  "text.autoconfig.simplyskills.option.rogue.passiveRogueOpportunisticMasteryPoisonDurationIncreasePerTier": "§a[Пасивна]§7 Збільшення тривалості авангардної майстерності за кожен рівень",
+  "text.autoconfig.simplyskills.option.rogue.passiveRogueOpportunisticMasteryPoisonDurationIncreasePerTier": "§a[Пасивна]§7 Збільшення тривалости авангардної майстерності за кожен рівень",
   "text.autoconfig.simplyskills.option.rogue.passiveRogueDeflectionIncreasedChance":                         "§a[Пасивна]§7 Шанс відхилення збільшується на %",
   "text.autoconfig.simplyskills.option.rogue.passiveRogueRecoveryRegenerationFrequency":                     "§a[Пасивна]§7 Відновлення Частота регенерації",
   "text.autoconfig.simplyskills.option.rogue.passiveRogueRecoveryRegenerationAmplifier":                     "§a[Пасивна]§7 Підсилювач регенерації",
@@ -758,7 +758,7 @@
   "text.autoconfig.simplyskills.option.crusader.signatureCrusaderSacredOnslaughtStunDuration":               "§6[Сигнатура]§7 Тривалість оглушення від Священного удару",
   "text.autoconfig.simplyskills.option.crusader.signatureCrusaderSacredOnslaughtCooldown":                   "§6[Сигнатура]§7 Перезаряджання Sacred Onslaught",
   "text.autoconfig.simplyskills.option.crusader.signatureCrusaderConsecrationDuration":                      "§6[Сигнатура]§7 Тривалість освячення",
-  "text.autoconfig.simplyskills.option.crusader.signatureCrusaderConsecrationExtendDuration":                "§6[Сигнатура]§7 Збільшення тривалості освячення",
+  "text.autoconfig.simplyskills.option.crusader.signatureCrusaderConsecrationExtendDuration":                "§6[Сигнатура]§7 Збільшення тривалости освячення",
   "text.autoconfig.simplyskills.option.crusader.signatureCrusaderConsecrationRadius":                        "§6[Сигнатура]§7 Радіус освячення",
   "text.autoconfig.simplyskills.option.crusader.signatureCrusaderConsecrationDMGMultiplier":                 "§6[Сигнатура]§7 Мультиплікатор освячення DMG",
   "text.autoconfig.simplyskills.option.crusader.signatureCrusaderConsecrationHitFrequency":                  "§6[Сигнатура]§7 Частота освячення",
@@ -787,7 +787,7 @@
   "text.autoconfig.simplyskills.option.misc.promWarriorsDevotionAttackMulti.@Tooltip":                       "Атрибут generic_attack_damage помножується на це число.\n1.0 = +100%",
   "text.autoconfig.simplyskills.option.misc.promWarriorsDevotionAttackMulti.@PrefixText":                    "§aКонфігурація сумісності з Prominence§7",
 
-  "text.autoconfig.simplyskills.option.misc.promWarriorsDevotionAttackSpeedMulti":                           "Множник швидкості атаки Хватки титана",
+  "text.autoconfig.simplyskills.option.misc.promWarriorsDevotionAttackSpeedMulti":                           "Множник швидкости атаки Хватки титана",
   "text.autoconfig.simplyskills.option.misc.promWarriorsDevotionAttackSpeedMulti.@Tooltip":                  "Атрибут generic_attack_speed негативно помножується на це число.\n0.9 = -90% ПРИМІТКА: Перевищення 0.9 може зламати атаки Better Combat.",
   "text.autoconfig.simplyskills.option.misc.promSkellaksCallPhysDmgMulti":                                   "Множник фізичної шкоди Поклику С'келлака",
   "text.autoconfig.simplyskills.option.misc.promSkellaksCallPhysDmgMulti.@Tooltip":                          "Значення generic_attack_damage Використовується як фізична шкода у Поклику С'келлака.\nНа додаток до цього параметра, здатність також завдає фіксовану шкоду від вогняних заклинань.",
@@ -847,8 +847,8 @@
   "text.skills.movement_speed+1%.title": "§a+2% §f[+]§7 швидкости пересування",
   "text.skills.movement_speed_multi+1.5%.title": "§a+3% §f[+]§7 швидкости пересування",
   "text.skills.luck+0.25.title": "§a+0.25 §7вдачі",
-  "text.skills.stamina+5%.title": "§a+3% §f[+]§7 витривалості",
-  "text.skills.stamina_multi+7%.title": "§a+5% §f[+]§7 витривалості",
+  "text.skills.stamina+5%.title": "§a+3% §f[+]§7 витривалости",
+  "text.skills.stamina_multi+7%.title": "§a+5% §f[+]§7 витривалости",
   "text.skills.healing+1%.title": "§a+1% §7зцілення [ВИЛУЧЕНО]",
   "text.skills.jump+1%.title": "§a+3% §f[+]§7 висоти стрибка",
   "text.skills.jump_multi+2%.title": "§a+5%§f [+]§7 висоти стрибка",
@@ -870,7 +870,7 @@
   "text.skills.ranged_damage+0.5%.title": "§a+0.5%§f [+]§7 шкоди в дальньому бою",
   "text.skills.attack_speed+0.3%.title": "§a+0.3%§f [+]§7 швидкости атаки",
   "text.skills.movement_speed+0.2%.title": "§a+0.2%§f [+]§7 швидкости пересування",
-  "text.skills.stamina+0.5%.title": "§a+0.5%§f [+]§7 витривалості",
+  "text.skills.stamina+0.5%.title": "§a+0.5%§f [+]§7 витривалости",
   "text.skills.jump+0.2%.title": "§a+0.2%§f [+]§7 висоти стрибка",
 
   "text.skills.hardy.title": "§7§a[Жорсткість]§7\nОтримуючи ушкодження, отримуйте регенерацію на час, що дорівнює отриманому ушкодженню.",
@@ -884,7 +884,7 @@
   "text.skills.wayfarerStealth.description": "§7Активує Непомітність, коли ви присідаєте.\n\n§f(Непомітність)\n\n§f(Непомітність)§7 змушує вас зливатися з тінню, повністю уникаючи виявлення монстрами. Нанесення або отримання шкоди знімає Непомітність.",
 
   "text.skills.wayfarerSneak.title": "§7§a[Підкрадання]§7",
-  "text.skills.wayfarerSneak.description": "§7Збільшує швидкість, коли ви пересуваєтесь крадькома. Підкрадаючись, ви додатково накопичуєте Могутність.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди від атаки за накопичення.",
+  "text.skills.wayfarerSneak.description": "§7Збільшує швидкість, коли ви пересуваєтесь крадькома. Підкрадаючись, ви додатково накопичуєте Могутність.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.",
 
   "text.skills.wayfarerReflexive.title": "§7§a[Рефлексія]§7",
   "text.skills.wayfarerReflexive.description": "§7Коли вашу Непомітність примусово порушено, ви маєте шанс застосувати здатність Майстерність Ухилення від Снарядів.\n\nКоли вашу Непомітність порушено атакою, ви отримуєте Могутність та Влучність.\n\n§f(Влучність)§7 дає §a+10% §f[x]§7 додаткової шкоди від дальнього бою за накопичення.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди від дальньої атаки за накопичення.",
@@ -990,7 +990,7 @@
   "text.skills.berserkerSwordMasteryProficient.description": "§7Дає підвищену пульсуючу швидкість при володінні мечем в основній руці.",
 
   "text.skills.berserkerSwordMasterySkilled.title": "§7§a[Майстерність володіння мечем ++]§7",
-  "text.skills.berserkerSwordMasterySkilled.description": "§7Якщо ви не володієте подвійною зброєю, отримуєте пульсуючу Силу.\n\n§f(Сила)§7 дає §a+10% §f[x]§7 додаткової шкоди від атаки за накопичення.",
+  "text.skills.berserkerSwordMasterySkilled.description": "§7Якщо ви не володієте подвійною зброєю, отримуєте пульсуючу Силу.\n\n§f(Сила)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.",
 
   "text.skills.berserkerAxeMastery.title": "§7§a[Майстерність володіння сокирою]§7",
   "text.skills.berserkerAxeMastery.description": "§7Дає пульсуючу силу при володінні сокирою в основній руці.",
@@ -1105,7 +1105,7 @@
   "text.skills.spellbladePath.extra_description": "\n§7Чаромечник§7 - це універсальний і грізний воїн, який бездоганно поєднує в собі силу магії з бойовими вміннями. Їхньою відмінною рисою є поєднання заклять і атак ближнього бою, що робить їх винятковою силою на полі бою.",
 
   "text.skills.spellbladeWeaponExpert.title": "§7§a[Експерт зі зброї]§7",
-  "text.skills.spellbladeWeaponExpert.description": "§7Отримуйтє накопичення Могутності під час використання закляття. Іноді також отримуйте накопичення Зачаклованості.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди від атаки за накопичення.\n\n§f(Зачаклованість)§7 дає §a+0.25§7 сили закляття за накопичення.",
+  "text.skills.spellbladeWeaponExpert.description": "§7Отримуйтє накопичення Могутності під час використання закляття. Іноді також отримуйте накопичення Зачаклованості.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.\n\n§f(Зачаклованість)§7 дає §a+0.25§7 сили закляття за накопичення.",
 
   "text.skills.spellbladeSpellweaving.title":"§7§a[Чароткач]§7",
   "text.skills.spellbladeSpell.title": "§7§a[Чароткач]§7",
@@ -1287,7 +1287,7 @@
   "text.skills.rogueSignatureSiphoningStrikes.description": "§7\nОтримайте 10 накопичень Поглинаючих ударів.\n\n§f(Поглинаючі удари)§7 - ви викачуєте здоров'я і знімаєте бафи з ворогів при попаданні.\n\n§a25 секунд перезаряджання§7",
 
   "text.skills.rogueSignatureSiphoningStrikesMighty.title": "§f[Міць]",
-  "text.skills.rogueSignatureSiphoningStrikesMighty.description": "§7Коли ви отримуєте §6[Поглинаючі удари]§7, ви також отримуєте Могутність.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди від атаки за накопичення.",
+  "text.skills.rogueSignatureSiphoningStrikesMighty.description": "§7Коли ви отримуєте §6[Поглинаючі удари]§7, ви також отримуєте Могутність.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.",
 
   "text.skills.rogueSignatureSiphoningStrikesAura.title": "§f[Аура]",
   "text.skills.rogueSignatureSiphoningStrikesAura.description": "§7Коли ви отримуєте §6[Поглинаючі удари]§7, ви також отримуєте Знерухомлюючу ауру.\n\n§f(Знерухомлююча аура)§7 періодично завдає Знерухомлення ворогам, що знаходяться поблизу.",
@@ -1410,7 +1410,7 @@
   "text.skills.crusaderSignatureConsecrationTaunt.description": "Ваша §6[Посвята]§7 тепер насміхається над ураженими ворогами.\n\n§f(Насмішка)§7 - вороги, над якими насміхаються, змушені атакувати істоту, що насміхається.",
 
   "text.skills.crusaderSignatureConsecrationMighty.title": "§f[Могутність]",
-  "text.skills.crusaderSignatureConsecrationMighty.description": "Ваша §6[Посвята]§7 тепер періодично дає союзникам поблизу Могутність.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди від атаки за накопичення.",
+  "text.skills.crusaderSignatureConsecrationMighty.description": "Ваша §6[Посвята]§7 тепер періодично дає союзникам поблизу Могутність.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.",
 
   "text.skills.crusaderSignatureConsecrationSpellforged.title": "§f[Зачаклованість]",
   "text.skills.crusaderSignatureConsecrationSpellforged.description": "Ваша §6[Посвята]§7 тепер періодично дарує союзникам поблизу Зачаклованість.\n\n§f(Зачаклованість)§7 дає §a+0.25 §f[x]§7 сили закляття за накопичення.",
@@ -1476,7 +1476,7 @@
   "text.skills.clericSignatureDivineInterventionFireResistance.description": "§7Ваше §6[Божественне втручання]§7 тепер надає цілі Вогнестійкість на час його дії.",
 
   "text.skills.clericSignatureDivineInterventionMight.title": "§f[Могутність]",
-  "text.skills.clericSignatureDivineInterventionMight.description": "§7Ваше §6[Божественне втручання]§7 тепер дає цільові Могутність на час її дії.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди від атаки за накопичення.",
+  "text.skills.clericSignatureDivineInterventionMight.description": "§7Ваше §6[Божественне втручання]§7 тепер дає цільові Могутність на час її дії.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.",
 
   "text.skills.clericSignatureDivineInterventionSpellforged.title": "§f[Зачаклованість]",
   "text.skills.clericSignatureDivineInterventionSpellforged.description": "§7Ваше §6[Божественне втручання]§7 тепер дає цільові закляття Зачаклованості на час його дії.\n\n§f(Зачаклованість)§7 дає §a+0.25 §f[x]§7 сили закляття за накопичення.",
@@ -1509,7 +1509,7 @@
   "text.skills.berserkerSignatureBloodthirsty.description": "§7\nДає Кровожерливість на 20 с.\n\n§f(Кровожерливість)§7 дає вам 25% від максимального запасу здоров'я щоразу, коли ви перемагаєте ворога.\n\n§a25 секунд перезаряджання§7",
 
   "text.skills.berserkerSignatureBloodthirstyMighty.title": "§f[Могутність]",
-  "text.skills.berserkerSignatureBloodthirstyMighty.description": "§7§6[Кровожерливість]§7 тепер дає вам Могутність при використанні.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди від атаки за накопичення.",
+  "text.skills.berserkerSignatureBloodthirstyMighty.description": "§7§6[Кровожерливість]§7 тепер дає вам Могутність при використанні.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.",
 
   "text.skills.berserkerSignatureBloodthirstyTireless.title": "§f[Невтомність]",
   "text.skills.berserkerSignatureBloodthirstyTireless.description": "§7Під час дії §6[Кровожерливості]§7 у вас є шанс зняти накопичення Виснаження при попаданні.",

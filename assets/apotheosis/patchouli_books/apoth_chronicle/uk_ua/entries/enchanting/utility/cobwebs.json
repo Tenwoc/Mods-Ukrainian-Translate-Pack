@@ -1,5 +1,5 @@
 {
-    "name": "Cobwebs",
+    "name": "Павутиння",
     "icon": "apothic_enchanting:prismatic_web",
     "category": "apotheosis:enchanting/utility",
 	"flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Prismatic Cobwebs can be combined with an item in an anvil to remove all curses."
+            "text": "Призматичну павутину можна поєднати з предметом у ковадлі, щоб зняти всі прокляття."
         },
 		{
             "type": "patchouli:crafting",

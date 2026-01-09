@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: ME IO Port
+  title: МЕ Порт зберігання
   icon: io_port
   position: 210
 categories:
@@ -10,29 +10,27 @@ item_ids:
 - ae2:io_port
 ---
 
-# The ME I/O Port
+# Порт зберігання
 
 <BlockImage id="io_port" p:powered="true" scale="8" />
 
-The IO Port allows you to rapidly fill or empty [storage cells](../items-blocks-machines/storage_cells.md) to or from
-[network storage](../ae2-mechanics/import-export-storage.md).
+Порт зберігання дозволяє швидко заповнювати або спорожняти [комірки сховища](../items-blocks-machines/storage_cells.md) до або з [мережевого сховища](../ae2-mechanics/import-export-storage.md).
 
 It can be rotated with a <ItemLink id="certus_quartz_wrench" />.
 
-## Settings
+## Налаштування
 
-*   The IO Port can be set to move the cell to the output slots when the cell is empty, full, or when the work is done.
-*   If a <ItemLink id="redstone_card" /> is inserted, there will be options for various redstone conditions
-*   In the center of the GUI, there is an arrow to set which direction to transfer items, from the cell to [network storage](../ae2-mechanics/import-export-storage.md),
-    or from storage to the cell.
+*   Порт зберігання можна налаштувати на переміщення комірки до вихідних слотів, коли комірка спорожниться, заповниться або коли робота завершиться.
+*   Якщо вставлена <ItemLink id="redstone_card" />, будуть доступні опції для різних умов редстоуну
+*   У центрі графічного інтерфейсу є стрілка, щоб вказати напрямок передачі елементів: з комірки до [мережевого сховища](../ae2-mechanics/import-export-storage.md) або зі сховища до комірки.
 
-## Upgrades
+## Модифікатори
 
-The IO Port supports the following [upgrades](upgrade_cards.md):
+Порт зберігання підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="speed_card" /> increases the amount of stuff moved per operation
-*   <ItemLink id="redstone_card" /> adds redstone control, allowing active on high signal, low signal, or once per pulse
+*   <ItemLink id="speed_card" /> збільшує кількість речей, які можна перемістити за операцію
+*   <ItemLink id="redstone_card" /> додає керування редстоуном, що дозволяє роботу за високим та низьким сигналами або одноразово за імпульс
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="io_port" />

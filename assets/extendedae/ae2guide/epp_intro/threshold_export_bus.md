@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Threshold Export Bus
+    title: ME Порогова шина експорту
     icon: extendedae:threshold_export_bus
 categories:
 - extended devices
@@ -9,20 +9,20 @@ item_ids:
 - extendedae:threshold_export_bus
 ---
 
-# ME Threshold Export Bus
+# ME Порогова шина експорту
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../structure/cable_threshold_export_bus.snbt"></ImportStructure>
 </GameScene>
 
-ME Threshold Export Bus works when the quantity of an item that stored in ME network is above/below the threshold.
+ME Порогова шина експорту працює, коли кількість речі, що зберігається в мережі ME, вище/нижче порогового значення.
 
-## Example
+## Приклади
 
 ![GUI](../pic/thr_bus_gui1.png)
 
-The threshold of copper is set to 128, so it exports copper when the stored copper in network is over 128.
+Поріг міді встановлено на 128, тому система експортує мідь, коли збереженої міді більше ніж 128.
 
 ![GUI](../pic/thr_bus_gui2.png)
 
-The threshold is same as above, but the mode is set to BELOW. it exports copper when the stored copper is below 128.
+Поріг такий самий, як і раніше, але режим встановлено на НИЖЧЕ. Система експортує мідь, коли збереженої міді менше ніж 128.

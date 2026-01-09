@@ -1,37 +1,37 @@
 {
-    "name": "World Tiers",
+    "name": "Світові рівні",
     "icon": "apotheosis:textures/gui/book/summit_icon.png",
     "category": "apotheosis:adventure/world_tiers",
     "sortnum": 0,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "A $(6)World Tier$() is a per-player strength modifier for the world. Each tier controls the type of content that will show up, how strong enemies will be, what kind of bonuses you may receive, and more."
+            "text": "$(6)Світовий рівень$() – це модифікатор сили для кожного гравця у світі. Кожен рівень контролює тип контенту, з яким можна зустрітися, наскільки сильними будуть вороги, які бонуси ви можете отримати тощо."
         },
         {
             "type": "patchouli:text",
-            "title": "The Tiers",
-            "text": "There are five tiers, each increasing the world difficulty and available rewards further than the last.$(p)The tiers are $(9)Haven$(), $(9)Frontier$(), $(9)Ascent$(), $(9)Summit$(), and $(9)Pinnacle$()."
+            "title": "Рівні",
+            "text": "Існує п'ять рівнів, кожен з яких збільшує складність світу та доступні нагороди більше, ніж попередній.$(p) Ці рівні: $(9)Притулок$(), $(9)Кордон$(), $(9)Сходження$(), $(9)Вершина$() та $(9)Пік$()."
         },
         {
             "type": "patchouli:text",
-            "title": "Tier Augments",
-            "text": "Each tier has its own augments, modifiers that are applied to players in the tier, as well as mobs that have spawned in that tier.$(p)You can see all tier augments for each tier in the $(l:apotheosis:adventure/world_tiers/select_screen)World Tier Select Screen$()."
+            "title": "Доповнення рівня",
+            "text": "Кожен рівень має свої власні доповнення, модифікатори, що застосовуються до гравців на цьому рівні, а також мобів, що з'являються на цьому рівні.$(p)Ви можете побачити всі доповнення для кожного рівня на $(l:apotheosis:adventure/world_tiers/select_screen)екрані вибору світового рівня$()."
         },
         {
             "type": "patchouli:text",
-            "title": "Rarity Drop Chances",
-            "text": "World Tiers also control the weights for each rarity.$(p)As you progress, higher rarity items (and Invaders) will become more common.$(p)The exact drop chances are shown in the $(l:apotheosis:adventure/world_tiers/select_screen)World Tier Select Screen$()."
+            "title": "Шанси випадання рідкостей",
+            "text": "Світові рівні також контролюють вагу для кожної рідкості.$(p) У міру вашого прогресу предмети вищої рідкості (та загарбники) ставатимуть більш поширеними.$(p) Точні шанси випадіння показано в $(l:apotheosis:adventure/world_tiers/select_screen)екрані вибору світового рівня$()."
         },
         {
             "type": "patchouli:text",
-            "title": "Gems",
-            "text": "World Tiers also adjust which gems may spawn, as well as which Purities they may spawn with.$(p)As before, the detailed purity chances may be found in the select screen."
+            "title": "Самоцвіти",
+            "text": "Світові рівні також визначають, які самоцвіти можуть з'являтися, а також їхню чистоту.$(p)Як і раніше, детальні шанси чистоти можна знайти на екрані вибору."
         },
         {
             "type": "patchouli:text",
-            "title": "Other Notes",
-            "text": "World Tiers can also adjust the spawn rates of other objects, such as affixes, affix loot entries, and elites.$(p)These rates are not shown anywhere, but you may find different content on a per-tier basis."
+            "title": "Інші нотатки",
+            "text": "Світові рівні також можуть впливати на частоту появи інших речей, таких як афікси, елементи афіксної здобичі та елітні моби.$(p)Ця частота ніде не відображається, але ви можете натрапити на різний контент залежно від рівня."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Treasure Enchantments",
+    "name": "Чари-скарби",
     "icon": "apothic_enchanting:treasure_shelf",
     "category": "apotheosis:enchanting/utility",
     "flag": "apotheosis:enchanting",
@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Treasure enchantments are special enchantments that are typically unavailable in the Enchanting Table.$(p)However, this can be remedied with a $(9)Deepshelf of Arcane Treasures$()."
+            "text": "Чари скарбів – це спеціальні чари, які зазвичай недоступні на столі зачарувань.$(p)Однак це можна виправити за допомогою $(9)глибополиці таємничих скарбів$()."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "apothic_enchanting:treasure_shelf",
-            "title": "Arcane Treasures",
-            "text": "Placing this bookshelf in a valid slot will cause treasure enchantments to appear while enchanting.$(p)Bear in mind that most $(4)Curses$() are treasure enchantments."
+            "title": "Таємничі скарби",
+            "text": "Розміщення цієї книжкової полиці у відповідному місці призведе до появи чарів-скарбів під час зачарування.$(p)Майте на увазі, що більшість $(4)проклять$() є чарами-скарбами."
         }
     ]
 }

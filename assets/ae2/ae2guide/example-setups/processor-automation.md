@@ -1,34 +1,27 @@
 ---
 navigation:
   parent: example-setups/example-setups-index.md
-  title: Processor Automation
+  title: Автоматизація процесорів
   icon: logic_processor
 ---
 
-# Automation of Processor Production
+# Автоматизація вироблення процесорів
 
-There are many ways of automating [processors](../items-blocks-machines/processors.md), and this is one of them.
+Існує багато способів автоматизації [процесорів](../items-blocks-machines/processors.md), і це один з них.
 
-This general layout can be done with any type of item logistics pipe or conduit or duct or whatever the mod calls it, as
-long as you can filter it.
+Цю схему можна реалізувати з будь-яким типом труб, провідників чи вузлів або як там це називається в моді, який ви збираєтесь використовувати.
 
 ![The Process FLow Diagram](../assets/diagrams/processor_flow_diagram.png)
 
-Here is detailed how to do it with just AE2, using ["pipe" subnets](pipe-subnet.md).
+Тут детально описано, як це зробити лише за допомогою AE2, використовуючи [трубні підмережі](pipe-subnet.md).
 
-Note that since this uses a <ItemLink id="pattern_provider" />, it is meant to integrate into your [autocrafting](../ae2-mechanics/autocrafting.md)
-setup. If you just want to automate a processors standalone, replace the pattern provider with another barrel, and directly put the ingredients in the upper barrel.
+Зверніть увагу, що оскільки тут використовується <ItemLink id="pattern_provider" />, він призначений для інтеграції у вашу систему [автовироблення](../ae2-mechanics/autocrafting.md). Якщо ви просто хочете автоматизувати процесори окремо, замініть постачальника шаблонів іншою діжкою та безпосередньо поміщайте інгредієнти у верхню діжку.
 
-This happens to be backwards-compatible
-with previous AE2 versions, because even if the <ItemLink id="inscriber" />s are sided, the pipe subnets still insert to and
-extract from the correct faces.
+Це забезпечує зворотну сумісність з попередніми версіями AE2, оскільки навіть якщо <ItemLink id="inscriber" /> стоїть у суворому режимі сторін, трубні підмережі все одно рухають предмети з правильних граней.
 
-## A Lesson In Pattern Encoding
+## Урок кодування шаблонів
 
-Often, the [pattern](../items-blocks-machines/patterns.md) you need to encode **WILL NOT MATCH WHAT YOU SEE IN JEI**, or what JEI outputs when you click the + button.
-In this case, JEI will output 2 separate patterns, one for the printed components and one for the final assembly, and the printed
-components pattern will include a [press](../items-blocks-machines/presses.md). This is not what we want, because this is not what the setup will do. We want 1 pattern that
-inputs the raw resources and outputs the completed processor, and since the press is already in the inscriber, we should not put it in the pattern.
+Часто [шаблон](../items-blocks-machines/patterns.md) який потрібно закодувати, **НЕ ВІДПОВІДАТИМЕ ТОМУ, ЩО ВИ БАЧИТЕ В JEI**, або тому, що JEI виводить, коли ви натискаєте кнопку +. У цьому випадку JEI виводить 2 окремі шаблони, по одному для друкованих схем і по одному для готових процесорів, і шаблон друкованих схем включатиме [штамп](../items-blocks-machines/presses.md). Це не те що нам потрібно, тому що це не те що робитиме наша схема. Нам потрібен 1 шаблон, який вводить необроблені ресурси та виводить завершений процесор, і оскільки штампи вже знаходиться в пресах, нам не слід розміщувати їх у шаблоні.
 
 ---
 
@@ -36,7 +29,7 @@ inputs the raw resources and outputs the completed processor, and since the pres
   <ImportStructure src="../assets/assemblies/processor_automation.snbt" />
 
   <BoxAnnotation color="#dddddd" min="5 1 0" max="6 2 1" thickness=".05">
-        (1) Pattern Provider: In its default configuration, with the relevant processing patterns.
+        (1) Pattern Provider: Без налаштувань, з відповідними шаблонами обробки.
 
         <Row>
             ![Logic Pattern](../assets/diagrams/logic_pattern_small.png)
@@ -46,118 +39,117 @@ inputs the raw resources and outputs the completed processor, and since the pres
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4.7 2 0" max="5 3 1" thickness=".05">
-        (2) Storage Bus #1: In its default configuration.
+        (2) Шина зберігання №1: Без налаштувань.
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 1 0" max="4.3 2 1" thickness=".05">
-        (3) Export Bus #1: Filtered to Silicon, has 2 Acceleration Cards
+        (3) Шина експорту №1: Відфільтрована на кремній, має 2 картки прискорення
         <Row><ItemImage id="silicon" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 4 0" max="4.3 3 1" thickness=".05">
-        (4) Export Bus #2: Filtered to Gold Ingot, has 2 Acceleration Cards
+        (4) Шина експорту №2: Відфільтрована на золотий злиток, має 2 картки прискорення
         <Row><ItemImage id="minecraft:gold_ingot" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 5 0" max="4.3 4 1" thickness=".05">
-        (5) Export Bus #3: Filtered to Certus Quartz Crystal, has 2 Acceleration Cards
+        (5) Шина експорту №3: ​​Відфільтрована на кристал істинного кварцу, має 2 картки прискорення
         <Row><ItemImage id="certus_quartz_crystal" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 6 0" max="4.3 5 1" thickness=".05">
-        (6) Export Bus #4: Filtered to Diamond, has 2 Acceleration Cards
+        (6) Шина експорту №4: Відфільтрована на діамант, має 2 картки прискорення
         <Row><ItemImage id="minecraft:diamond" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2.3 3 0" max="2 2 1" thickness=".05">
-        (7) Export Bus #5: Filtered to Redstone Dust, has 2 Acceleration Cards
+        (7) Шина експорту №5: Відфільтрована на редстоуновий пил, має 2 картки прискорення
         <Row><ItemImage id="minecraft:redstone" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 1 0" max="3 2 1" thickness=".05">
-        (8) Inscriber #1: In its default configuration. Has a Silicon Press and 4 Acceleration Cards
+        (8) Штампувальний прес №1: Без налаштувань. Має кремнієвий штамп та 4 картки прискорення
         <Row><ItemImage id="silicon_press" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 3 0" max="3 4 1" thickness=".05">
-        (9) Inscriber #2: In its default configuration. Has a Logic Press and 4 Acceleration Cards
+        (9) Штампувальний прес №2: Без налаштувань. Має логічний штамп та 4 картки прискорення
         <Row><ItemImage id="logic_processor_press" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 4 0" max="3 5 1" thickness=".05">
-        (10) Inscriber #3: In its default configuration. Has a Calculation Press and 4 Acceleration Cards
+        (10) Штампувальний прес №3: Без налаштувань. Має обчислювальний штамп та 4 картки прискорення
         <Row><ItemImage id="calculation_processor_press" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 5 0" max="3 6 1" thickness=".05">
-        (11) Inscriber #4: In its default configuration. Has an Engineering Press and 4 Acceleration Cards
+        (11) Штампувальний прес №4: Без налаштувань. Маєn інженерний штамп та 4 картки прискорення
         <Row><ItemImage id="engineering_processor_press" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2 2 0" max="1 3 1" thickness=".05">
-        (12) Inscriber #5: In its default configuration. Has 4 Acceleration Cards
+        (12) Штампувальний прес №5: Без налаштувань. Has 4 Acceleration Cards
         <ItemImage id="speed_card" scale="2" />
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2.7 2 0" max="3 1 1" thickness=".05">
-        (13) Import Bus #1: In its default configuration, has 2 Acceleration Cards
+        (13) Шина імпорту №1: Без налаштувань, має 2 картки прискорення
         <ItemImage id="speed_card" scale="2" />
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2.7 4 0" max="3 3 1" thickness=".05">
-        (14) Import Bus #2: In its default configuration, has 2 Acceleration Cards
+        (14) Шина імпорту №2: Без налаштувань, має 2 картки прискорення
         <ItemImage id="speed_card" scale="2" />
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2.7 5 0" max="3 4 1" thickness=".05">
-        (15) Import Bus #3: In its default configuration, has 2 Acceleration Cards
+        (15) Шина імпорту №3: Без налаштувань, має 2 картки прискорення
         <ItemImage id="speed_card" scale="2" />
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2.7 6 0" max="3 5 1" thickness=".05">
-        (16) Import Bus #4: In its default configuration, has 2 Acceleration Cards
+        (16) Шина імпорту №4: Без налаштувань, має 2 картки прискорення
         <ItemImage id="speed_card" scale="2" />
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2 3 0" max="1 3.3 1" thickness=".05">
-        (17) Storage Bus #2: In its default configuration.
+        (17) Шина зберігання №2: Без налаштувань.
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2 1.7 0" max="1 2 1" thickness=".05">
-        (18) Storage Bus #3: In its default configuration.
+        (18) Шина зберігання №3: Без налаштувань.
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1 2 0" max="0.7 3 1" thickness=".05">
-        (19) Import Bus #5: In its default configuration, has 2 Acceleration Cards
+        (19) Шина імпорту №5: Без налаштувань, має 2 картки прискорення
         <ItemImage id="speed_card" scale="2" />
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="5 0.7 0" max="6 1 1" thickness=".05">
-        (20) Storage Bus #4: In its default configuration.
+        (20) Шина зберігання №4: Без налаштувань.
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3.3 2.7 0.3" max="3.7 3 0.7" thickness=".05">
-        Quartz Fiber powers all 3 inscribers because inscribers act like cables and thus transmit energy
+        Кварцове волокно живить усі 3 преси, оскільки преси діють як кабелі та таким чином передають енергію далі
   </BoxAnnotation>
 
 <DiamondAnnotation pos="7 1.5 0.5" color="#00ff00">
-        To Main Network
+        До основної мережі
     </DiamondAnnotation>
 
   <IsometricCamera yaw="185" pitch="5" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
-* The <ItemLink id="pattern_provider" /> (1) is in its default configuration, with the relevant <ItemLink id="processing_pattern" />s.
-  Note that the patterns go direct from raw resources to the completed processor, and do **NOT** include the [press](../items-blocks-machines/presses.md).
+* <ItemLink id="pattern_provider" /> (1) не має налаштувань, але містить необхідні <ItemLink id="processing_pattern" />. Зверніть увагу, що шаблони закодовані на отримання процесорів безпосередньо від початкових ресурсів та **НЕ** включають [штампи](../items-blocks-machines/presses.md).
 
   ![Logic Pattern](../assets/diagrams/logic_pattern.png)
   ![Calculation Pattern](../assets/diagrams/calculation_pattern.png)
   ![Engineering Pattern](../assets/diagrams/engineering_pattern.png)
 
-* The <ItemLink id="storage_bus" />ses (2, 17, 18, 20) are in their default configurations.
-* The <ItemLink id="export_bus" />ses (3-7) are filtered to the relevant ingredient. They have 2 <ItemLink id="speed_card" />s.
+* <ItemLink id="storage_bus" /> (2, 17, 18, 20) не мають налаштувань.
+* <ItemLink id="export_bus" /> (3-7) фільтруються за відповідним складником. Вони мають по 2 <ItemLink id="speed_card" />.
     <Row>
       <ItemImage id="silicon" scale="2" />
       <ItemImage id="minecraft:gold_ingot" scale="2" />
@@ -165,9 +157,8 @@ inputs the raw resources and outputs the completed processor, and since the pres
       <ItemImage id="minecraft:diamond" scale="2" />
       <ItemImage id="minecraft:redstone" scale="2" />
     </Row>
-* The <ItemLink id="import_bus" />ses (13-16, 19) are in their default configurations. They have 2 <ItemLink id="speed_card" />s.
-* The <ItemLink id="inscriber" />s are in their default configurations. They have the relevant [press](../items-blocks-machines/presses.md),
-   and 4 <ItemLink id="speed_card" />s.
+* <ItemLink id="import_bus" /> (13-16, 19) не мають налаштувань. Вони мають по 2 <ItemLink id="speed_card" />.
+* <ItemLink id="inscriber" /> не мають налаштувань. Вони мають по відповідному [штампу](../items-blocks-machines/presses.md), та по 4 <ItemLink id="speed_card" />.
    <Row>
      <ItemImage id="silicon_press" scale="2" />
      <ItemImage id="logic_processor_press" scale="2" />
@@ -175,14 +166,11 @@ inputs the raw resources and outputs the completed processor, and since the pres
      <ItemImage id="engineering_processor_press" scale="2" />
    </Row>
 
-## How It Works
+## Як це працює
 
-1. The <ItemLink id="pattern_provider" /> pushes the ingredients into the barrel.
-2. The first [pipe subnet](pipe-subnet.md) (orange) pulls the silicon, redstone dust, and the relevant processor's ingredient
-   (Gold Ingot, Certus Quartz Crystal, or Diamond) out of the barrel and puts them in the relevant <ItemLink id="inscriber" />.
-3. The first four <ItemLink id="inscriber" />s make the <ItemLink id="printed_silicon" />, and the <ItemLink id="printed_logic_processor" />,
-   <ItemLink id="printed_calculation_processor" />, or <ItemLink id="printed_engineering_processor" />.
-4. The second and third [pipe subnet](pipe-subnet.md)s (green) take the printed circuits out of the first four <ItemLink id="inscriber" />s
-    and put them in the fifth, final assembly <ItemLink id="inscriber" />.
-5. The fifth <ItemLink id="inscriber" /> assembles the [processor](../items-blocks-machines/processors.md).
-6. The fourth [pipe subnet](pipe-subnet.md) (purple) puts the prcoessor in the pattern provider, returning it to the main network.
+1. <ItemLink id="pattern_provider" /> переміщує складники в діжку.
+2. Перша [трубна підмережа](pipe-subnet.md) (помаранчева) витягує кремній, редстоуновий пил та відповідний складник процесора (золотий злиток, кристал істинного кварцу або діамант) з діжки та поміщає їх у відповідний <ItemLink id="inscriber" />.
+3. Перші чотири <ItemLink id="inscriber" /> штапмують <ItemLink id="printed_silicon" />, та <ItemLink id="printed_logic_processor" />, <ItemLink id="printed_calculation_processor" />, чи <ItemLink id="printed_engineering_processor" />.
+4. Друга та третя [трубні підмережі](pipe-subnet.md) (зелені) витягують друковані схеми з перших чотирьох <ItemLink id="inscriber" /> та поміщають їх у п'ятий <ItemLink id="inscriber" /> для завершувального збирання.
+5. П'ятий <ItemLink id="inscriber" /> збирає [процесор](../items-blocks-machines/processors.md).
+6. Четверта [трубна підмережа](pipe-subnet.md) (фіолетова) поміщає процесор у постачальника шаблонів, тим самим повертаючи його до основної мережі.

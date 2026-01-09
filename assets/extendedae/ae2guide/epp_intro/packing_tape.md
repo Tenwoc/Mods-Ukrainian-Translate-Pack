@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Packing Tape
+    title: МЕ Пакувальна стрічка
     icon: extendedae:me_packing_tape
 categories:
 - extended items
@@ -10,25 +10,24 @@ item_ids:
 - extendedae:package
 ---
 
-# ME Packing Tape
+# МЕ Пакувальна стрічка
 
-ME Packing Tape can pack in-world ME Device into a Packaged Device item
+МЕ Пакувальна стрічка може запакувати МЕ пристрій у світі і перетворити його на запакований предмет
 
 <Row>
 <ItemImage id="extendedae:me_packing_tape" scale="4"></ItemImage>
 <ItemImage id="extendedae:package" scale="4"></ItemImage>
 </Row>
 
-## Packing
+## PackПакуванняing
 
-Sneak + Mouse Right Click on ME Device with the tape, and you can get a package item from it. All settings and inventory of
-the device will be kept. It can be very useful when you are moving your ME setup.
+Клацніть ПКМ крадькома на МЕ пристрої зі стрічкою, і ви зможете отримати з нього запакований предмет. Усі налаштування та інвентар пристрою будуть збережені. Це може бути дуже корисним під час переміщення вашої МЕ системи.
 
-Notice that ME Packing Tape only supports the devices on list, the device list is configurable.
+Зверніть увагу, що МЕ Пакувальна стрічка підтримує лише пристрої зі списку, який можна налаштувати.
 
-### Default List
+### Усталений список
 
-|                                      Device                                       |                                 Name                                  |
+|                                      Пристрій                                       |                                 Ім'я                                  |
 |:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
 |    <ItemImage id="extendedae:ex_interface_part" scale="3"></ItemImage>     |    <ItemLink id="extendedae:ex_interface_part"></ItemLink>     |
 | <ItemImage id="extendedae:ex_pattern_provider_part" scale="3"></ItemImage> | <ItemLink id="extendedae:ex_pattern_provider_part"></ItemLink> |
@@ -40,7 +39,6 @@ Notice that ME Packing Tape only supports the devices on list, the device list i
 |            <ItemImage id="ae2:pattern_provider" scale="3"></ItemImage>            |            <ItemLink id="ae2:pattern_provider"></ItemLink>            |
 |                 <ItemImage id="ae2:drive" scale="3"></ItemImage>                  |                 <ItemLink id="ae2:drive"></ItemLink>                  |
 
-## Unpacking
+## Розпаковування
 
-Just right mouse click with the package item as if it is the device block or part, then the packaged device will be recovered
-from the package.
+Просто розмістіть запакований пристрій, хай то як блок або кабельний компонент, й упакований пристрій буде розпаковано та розміщено.

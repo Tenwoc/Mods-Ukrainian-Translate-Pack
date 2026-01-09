@@ -1,33 +1,26 @@
 ---
 navigation:
   parent: ae2wtlib/ae2wtlib-index.md
-  title: Restocking
+  title: Поповнювання
   position: 110
 categories:
 - ae2wtlib
 ---
 
-# Restocking
+# Поповнювання
 
-If Restock is enabled, your <ItemLink id="ae2:wireless_crafting_terminal" /> will try to replace items you use with items from the ME System.
+Якщо увімкнено функцію «Поповнювання», ваш <ItemLink id="ae2:wireless_crafting_terminal" /> намагатиметься замінити предмети, які ви використовуєте, предметами з системи ME.
 
-You can enable it in the GUI, or using a Keybind.
+Ви можете увімкнути її в інтерфейсі або за допомогою прив'язки клавіші.
 
-When enabled, it will try to keep the Stack you are using at the max stack size, so 64 for most items.
-It will take any missing items from your ME System,
-or put excess items into your ME System if you pick up more.
-This means that if you place a few items, then break them again, the item won't overflow into a different slot,
-even if you don't hava an active <ItemLink id="ae2wtlib:magnet_card" />.
+Поки ця функція працює, вона намагатиметься підтримувати максимальний розмір стосу, який ви використовуєте, тобто 64 для більшості предметів. Вона візьме будь-які запитувані предмети з вашої МЕ системи або помістить надлишкові предмети у вашу систему, якщо ви підберете більше. Це означає, що якщо ви розмістите кілька предметів, а потім знову їх розіб'єте, предмет не переповниться в інший слот, навіть якщо <ItemLink id="ae2wtlib:magnet_card" /> відсутня у вашому терміналі.
 
-It will **NOT** restock stacks holding a single item before being used.
+Вона **НЕ** поповнюватиме предмети, що не можна складати.
 
-It will also change the item count in your hotbar,
-to show the item count in the network (+ the items that actually are in your hotbar).
+Вона також змінить кількість предметів на вашій панелі швидкого доступу, щоб показати кількість предметів у мережі (+ предмети, які насправді знаходяться на вашій панелі швидкого доступу).
 
-It only works as long as you are in range of an access point,
-or if your terminal is [quantum linked](quantum_bridge_card.md).
+Це працює лише доки ви перебуваєте в зоні дії точки доступу або якщо ваш термінал [має квантовий зв'язок](quantum_bridge_card.md).
 
-In creative mode, this is automatically disabled since you are not depleting items anyway.
+У творчому режимі поповнювання автоматично вимикається, оскільки ви все одно не витрачаєте предмети.
 
-Restock works for most actions like placing blocks, eating food and shooting with a bow, restock should work,
-but other actions (especially actions from other mods) might not be recognized and items used won't be restocked.
+Поповнювання працює для більшості дій, таких як розміщення блоків, вживання їжі та стрільба з лука, але інші дії (особливо дії з інших модів) можуть не розпізнаватися, і використані предмети не будуть поповнені.

@@ -239,7 +239,7 @@
 
   "config.mowziesmobs.combat_data": "Керування боївкою",
   "config.mowziesmobs.combat_data.tooltip": "",
-  "config.mowziesmobs.attack_multiplier": "Множник шкоди від атаки",
+  "config.mowziesmobs.attack_multiplier": "Множник шкоди при атаці",
   "config.mowziesmobs.health_multiplier": "Множник здоров'я",
 
   "config.mowziesmobs.tools_and_abilities": "Інструменти та здібності",
@@ -268,7 +268,7 @@
   "config.mowziesmobs.geomancy_attack_multiplier": "Множник шкоди при атаці геомантією",
   "config.mowziesmobs.suns_blessing": "Благословення сонця",
   "config.mowziesmobs.suns_blessing.tooltip": "",
-  "config.mowziesmobs.suns_blessing_attack_multiplier": "Множник шкоди від атаки благословення сонця",
+  "config.mowziesmobs.suns_blessing_attack_multiplier": "Множник шкоди при атаці благословення сонця",
   "config.mowziesmobs.suns_blessing_duration": "Тривалість благословення сонця",
   "config.mowziesmobs.solar_beam_cost": "Вартість сонячного променя",
   "config.mowziesmobs.supernova_cost": "Вартість наднової",

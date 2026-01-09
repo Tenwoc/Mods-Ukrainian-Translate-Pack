@@ -1,0 +1,6 @@
+{
+  "itemGroup.replication_matter_overflow": "Replication: Matter Overflow Tank",
+  "block.replication_matter_overflow.matter_void": "Бак переповнення матерії",
+  "tooltip.replication_matter_overflow.matter_void.line1": "Вміщує звичайну кількість матерії",
+  "tooltip.replication_matter_overflow.matter_void.line2": "Коли повний, знищує матерію, що надходить"
+}

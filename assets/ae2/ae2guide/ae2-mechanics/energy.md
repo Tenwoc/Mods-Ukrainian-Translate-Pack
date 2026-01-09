@@ -31,8 +31,8 @@ AE2 не використовує Forge Energy (на Forge) або TechReborn En
 
 Коефіцієнти перетворення енергії Forge та Techreborn такі:
 
-*   2 FE = 1 AE (Forge)
-*   1 E  = 2 AE (Fabric)
+- 2 FE = 1 AE (Forge)
+- 1 E = 2 AE (Fabric)
 
 ## Зберігання енергії
 

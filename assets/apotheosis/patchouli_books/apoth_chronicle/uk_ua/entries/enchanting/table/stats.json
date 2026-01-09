@@ -1,56 +1,56 @@
 {
-    "name": "Enchanting Stats",
+    "name": "Характеристики зачарування",
     "icon": "minecraft:bookshelf",
     "category": "apotheosis:enchanting/table",
 	"flag": "apotheosis:enchanting",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "With Apotheosis, enchanting is dependent on more than just levels.$(p)There are currently five new enchanting stats.$(p)Blocks that provide enchanting stats will have them on their tooltip."
+            "text": "В Apotheosis зачарування залежить не лише від рівнів.$(p)Наразі є п'ять нових характеристик зачарування.$(p)Блоки, що надають характеристики зачарування, матимуть їх у підказці."
         },
 		{
 			"type": "patchouli:text",
-			"title": "Eterna",
-			"text": "$(eterna) is the primary stat of enchanting.$(p)Each point of $(eterna) increases the maximum enchanting level by two.$(p)Some blocks can only provide $(eterna) up to a certain maximum value."
+			"title": "Етерна",
+			"text": "$(етерна) – це основна характеристика зачарування.$(p)Кожне очко $(етерни) збільшує максимальний рівень зачарування на два.$(p)Деякі блоки можуть надавати $(етерну) лише до певного максимального значення."
 		},
 		{
 			"type": "patchouli:text",
-			"title": "Quanta",
+			"title": "Кванта",
 			"anchor": "quanta",
-			"text": "$(quanta) is a secondary stat. It controls enchanting variance.$(p)During enchanting, you have a $(bpower), which is the level you spent to enchant with, and then a $(fpower), after all modifications.$(p)$(quanta) is one of the factors in the modification process."
+			"text": "$(кванта) – це вторинна характеристика. Вона контролює дисперсію зачарувань.$(p)Під час зачарувань у вас є $(ппотужність), що дорівнює рівню, який ви витратили на зачарування, а потім $(фпотужність) після всіх модифікацій.$(p)$(кванта) – один із факторів у процесі модифікації."
 		},
 		{
 			"type": "patchouli:text",
-			"text": "A value is selected, between $(4)1 - Quanta$() and $(9)1 + Quanta$().$(p)Your $(fpower) is equal to that value multiplied by your $(bpower).$(p)Higher $(quanta) values increase the power range, which means your enchantments are less consistent in their $(fpower)."
+			"text": "Вибирається значення між $(4)1 - кванта$() та $(9)1 + кванта$().$(p)Ваша $(фпотужність) дорівнює цьому значенню, помноженому на вашу $(пупотужність).$(p)Вищі значення $(кванти) збільшують діапазон потужності, що означає, що ваші зачарування менш послідовні у своїй $(фпотужності)."
 		},
 		{
 			"type": "patchouli:text",
-			"title": "Arcana",
-			"text": "$(arcana) is a secondary stat. It controls the rarity weights, and at certain thresholds will guarantee you get additional enchantments.$(p)At 25% $(arcana), you will always receive at least two enchantments. At 75%, you will always receive three."
+			"title": "Аркана",
+			"text": "$(аркана) – це вторинна характеристика. Вона контролює вагові коефіцієнти рідкості та на певних порогах гарантує отримання додаткових зачарувань.$(p)Маючи 25% $(аркани) ви завжди отримуватимете щонайменше два зачарування. При 75% ви завжди отримуватимете три."
 		},
 		{
 			"type": "patchouli:text",
-			"text": "By default, the rarities have the following weights:$(p)Common: 10$(br)Uncommon: 5$(br)Rare: 3$(br)Very Rare: 1$(p)Every 10% of $(arcana) changes the weights, eventually becoming fully inverted.$(p)Hovering the $(arcana) Bar will show the current weights."
+			"text": "Усталено рідкості мають такі ваги:$(p) Звичайні: 10$(br) Незвичайні: 5$(br) Рідкісні: 3$(br) Дуже рідкісні: 1$(p) Кожні 10% від $(аркани) змінюють ваги, зрештою повністю інвертуючи їх.$(p) Наведення курсора на шкалу $(аркани) покаже поточні ваги."
 		},
 		{
 			"type": "patchouli:text",
-			"title": "Quantic Stability",
+			"title": "Квантична стабільність",
 			"anchor": "rectification",
-			"text": "Quantic Stability is a tertiary stat. It directly impacts the lower bound of $(quanta) modifications.$(p)When present, you can no longer roll negative $(quanta) modifiers."
+			"text": "Квантична стабільність – це третинна характеристика. Вона безпосередньо впливає на нижню межу модифікацій $(кванти).$(p)Якщо вона присутня, ви більше не зможете отримувати негативні модифікатори $(кванти)."
 		},
 		{
 			"type": "patchouli:text",
-			"title": "Quantic Math",
-			"text": "If you don't like math you can skip to the next page.$(p)Normally, $(quanta) rolls use a normal distribution across the entire range, but once stabilized, this shifts to a uniform distribution across the positive side."
+			"title": "Квантична математика",
+			"text": "Якщо вам не подобається математика, ви можете перейти до наступної сторінки.$(p)Зазвичай, результати $(кванти) використовують нормальний розподіл по всьому діапазону, але після стабілізації він переходить до рівномірного розподілу по всій позитивній стороні."
 		},
 		{
 			"type": "patchouli:text",
-			"title": "Clues",
-			"text": "Clues are another tertiary stat.$(p)Each clue allows you to see one additional item in the preview window.$(p)When you can see every available enchantment, the text will change slightly."
+			"title": "Підказки",
+			"text": "Підказки – це ще одна третинна характеристика.$(p)Кожна підказка дозволяє побачити одне додаткове зачарування у вікні попереднього перегляду.$(p)Коли ви здатні бачити всі доступні чари, текст трохи зміниться."
 		},
 		{
 			"type": "patchouli:text",
-			"text": "You can also drop to zero clues, and be able to see nothing."
+			"text": "Ви також можете знизити кількість підказок до нуля та нічого не бачити."
 		}
 	]
 }

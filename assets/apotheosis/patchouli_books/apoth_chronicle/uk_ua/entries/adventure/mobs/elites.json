@@ -1,5 +1,5 @@
 {
-    "name": "Elites",
+    "name": "Еліта",
     "icon": "minecraft:skeleton_skull",
     "category": "apotheosis:adventure/mobs",
 	"flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Occasionally, you may see named or empowered mobs throughout your world.$(p)These are likely $(9)Apothic Elites$()."
+            "text": "Час від часу ви можете бачити іменованих або посилених мобів по всьому світу.$(p)Ймовірно, це $(9)апофетоична еліта$()."
         },
 		{
 			"type": "patchouli:text",
-			"text": "These mobs will appear randomly in place of their normal counterparts.$(p)They don't have flashy entrances like Invaders do, so be on your guard.$(p)They may also drop Affix Items."
+			"text": "Ці моби з'являтимуться випадковим чином замість своїх звичайних аналогів.$(p)У них немає яскравого появлення, як у загарбників, тому будьте пильні.$(p)З них також можуть випадати афіксні предмети."
 		}
 	]
 }

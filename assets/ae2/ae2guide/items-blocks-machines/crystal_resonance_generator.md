@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Crystal Resonance Generator
+  title: Кристалічно-резонансний генератор
   icon: crystal_resonance_generator
   position: 110
 categories:
@@ -10,14 +10,14 @@ item_ids:
 - ae2:crystal_resonance_generator
 ---
 
-# The Crystal Resonance Generator
+# Кристалічно-резонансний генератор
 
 <BlockImage id="crystal_resonance_generator" scale="8" />
 
-This device generates energy for your ME network without the need for fuel. Because of the crystal vibrations this device generates, only one can be used in each network. These vibrations even pass through <ItemLink id="quartz_fiber" />.
+Цей пристрій генерує енергію для вашої МЕ мережі без потреби в паливі. Через кристалічні коливання, які генерує цей пристрій, у кожній мережі можна використовувати лише один пристрій. Ці коливання навіть проходять крізь <ItemLink id="quartz_fiber" />.
 
-**Generation Rate:** <ae2:ConfigValue name="crystalResonanceGeneratorRate"/> AE/t
+**Коефіцієнт генерації:** <ae2:ConfigValue name="crystalResonanceGeneratorRate"/> AE/т
 
-## Recipes
+## Рецепти
 
 <RecipeFor id="crystal_resonance_generator" />

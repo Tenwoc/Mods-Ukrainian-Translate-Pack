@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: aae_intro/aae_intro-index.md
-  title: Quantum Armor Set
+  title: Квантовий добір
   icon: advanced_ae:quantum_helmet
 categories:
   - advanced items
@@ -36,81 +36,67 @@ item_ids:
   - advanced_ae:pick_craft_card
 ---
 
-# Quantum Armor Set
+# Квантовий добір
 
 <Row gap="10">
-<ItemImage id="advanced_ae:quantum_helmet" scale="4"></ItemImage>
-<ItemImage id="advanced_ae:quantum_chestplate" scale="4"></ItemImage>
-<ItemImage id="advanced_ae:quantum_leggings" scale="4"></ItemImage>
-<ItemImage id="advanced_ae:quantum_boots" scale="4"></ItemImage>
+<ItemImage id="advanced_ae:quantum_helmet" components="ae2:stored_energy=2.0E8d" scale="4"></ItemImage>
+<ItemImage id="advanced_ae:quantum_chestplate" components="ae2:stored_energy=3.0E8d" scale="4"></ItemImage>
+<ItemImage id="advanced_ae:quantum_leggings" components="ae2:stored_energy=2.5E8d" scale="4"></ItemImage>
+<ItemImage id="advanced_ae:quantum_boots" components="ae2:stored_energy=2.0E8d" scale="4"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:quantum_helmet" />
-* <ItemLink id="advanced_ae:quantum_chestplate" />
-* <ItemLink id="advanced_ae:quantum_leggings" />
-* <ItemLink id="advanced_ae:quantum_boots" />
+<ItemGrid>
+<ItemIcon id="advanced_ae:quantum_helmet" components="ae2:stored_energy=2.0E8d"></ItemIcon>
+<ItemIcon id="advanced_ae:quantum_chestplate" components="ae2:stored_energy=3.0E8d"></ItemIcon>
+<ItemIcon id="advanced_ae:quantum_leggings" components="ae2:stored_energy=2.5E8d"></ItemIcon>
+<ItemIcon id="advanced_ae:quantum_boots" components="ae2:stored_energy=2.0E8d"></ItemIcon>
+</ItemGrid>
 
-Have you ever wondered what would it be like to wear you AE System? Well, you don't have to wonder anymore. The quantum
-armor set is a highly technological stealthy apparel that connects to the AE2 system to provide convenient access to
-everything on the go! By default, it's an energy powered suit with defenses comparable to Netherite gear. It is capable
-of using its buffer to create an energy shield, providing a healthy amount of damage absorption. The boots also provide
-fall damage negation while the chestplate can eliminate flying mining penalties. However, the true power of this suit is
-only unlocked when you fill it with upgrades!
+Ви коли-небудь замислювалися, як би це було — носити AE систему на собі? Що ж, вам більше не потрібно гадати. Комплект квантової броні — це високотехнологічний приховуючий одяг, який підключається до системи AE2, щоб забезпечити зручний доступ до всього в дорозі! Усталено це костюм, що живиться енергією, із захистом, порівнянним з незеритовим спорядженням. Він здатний використовувати свій буфер для створення енергетичного щита, забезпечуючи значний обсяг поглинання шкоди. Чоботи також забезпечують нейтралізацію шкоди від падіння, а нагрудник може усунути штрафи на добування у польоті. Однак справжня сила цього костюма розблоковується лише тоді, коли ви наповнюєте його покращеннями!
 
 <br/>
 
-## Linking the Armor
+## Підключення броні
 
-The armor pieces can be individually linked to the system by inserting them into the appropriate slots in a
-<ItemLink id="ae2:wireless_access_point" />. This unlocks different perks based on the gear piece and installed upgrade
-cards. More on those later. Note that for these extra functionalities to work properly, you also need to be in range of
-the connected access point.
+Елементи броні можна окремо під'єднати до системи через <ItemLink id="ae2:wireless_access_point" />. Це розблоковує різні бонуси залежно від спорядження та встановлених карт покращень. Детальніше про це пізніше. Зверніть увагу, що для належної роботи цих додаткових функцій вам також потрібно перебувати в зоні дії підключеної точки доступу.
 
 <br/>
 
-## Installing Upgrades
+## Встановлення покращень
 
-To install upgrades, you need to have the pieces equipped and then open the Quantum Armor Configuration Menu, by
-pressing the hotkey, (N by default).
+Щоб встановити покращення, вам потрібно одягнути предмети, а потім відкрити меню конфігурації квантової броні, натиснувши прив'язану клавішу (усталено N).
 
 ![QAGUI](../pic/quantum_armor_config.png)
 
-In this screen you will be able to add/remove upgrades as well as toggle them on/off and configure settings for the
-upgrades that have them.
+На цьому екрані ви зможете додавати/вилучати покращення, а також вмикати/вимикати їх та налаштовувати параметри для покращень, які їх мають.
 
 <br/>
 
-## Quantum Upgrade Base Card
+## Базова квантова картка
 
 <ItemImage id="advanced_ae:quantum_upgrade_base" scale="2"></ItemImage>
 
-The <ItemLink id="advanced_ae:quantum_upgrade_base" /> doesn't do anything special on its own, but it is used as a
-crafting ingredient for all upgrade cards.
+<ItemLink id="advanced_ae:quantum_upgrade_base" /> сама по собі нічого особливого не робить, але використовується як складник для створення для всіх карт покращень.
 
 <br/>
 
-## Auto Feeding Card
+## Картка автоматичного годування
 
 <ItemImage id="advanced_ae:auto_feeding_card" scale="2"></ItemImage>
 
-The <ItemLink id="advanced_ae:auto_feeding_card" /> enables the selection of specific items to be used to feed the
-player. Simply drag the desired items into the filter slots and if the equipment is linked to the AE2 grid, it will try
-to find them in the system to feed the player when hungry.
+<ItemLink id="advanced_ae:auto_feeding_card" /> дозволяє вибирати певні предмети, які будуть використовуватися для годування гравця. Просто перетягніть потрібні предмети у слоти фільтрів, і якщо спорядження приєднано до мережі AE2, воно спробує знайти їх у системі, щоб нагодувати гравця, коли він зголодніє.
 
 <br/>
 
-## Auto Stock Card
+## Картка автоматичного запасання
 
 <ItemImage id="advanced_ae:auto_stock_card" scale="2"></ItemImage>
 
-The <ItemLink id="advanced_ae:auto_stock_card" /> also requires the equipment piece to be linked to the AE2 system and
-the proper range to the access point. It enables the configuration of a few stacks to be always kept at specific amounts
-in the user inventory. The slots are not limited to a stack, so you can set them to have more than one slot filled in
-inventory at all times if you so desire.
+<ItemLink id="advanced_ae:auto_stock_card" /> також вимагає, щоб предмет обладнання був підключений до системи AE2 та знаходився на відповідній відстані від точки доступу. Вона дозволяє завжди підтримувати конфігурацію кількох речей у певних кількостях в інвентарі користувача. Слоти не обмежені розміром стака, тому ви можете налаштувати їх так, щоб у них завжди було заповнено більше одного слота в інвентарі, якщо забажаєте.
 
 <br/>
 
-## Speed Cards
+## Картки швидкости
 
 <Row gap="10">
 <ItemImage id="advanced_ae:walk_speed_card" scale="2"></ItemImage>
@@ -118,101 +104,90 @@ inventory at all times if you so desire.
 <ItemImage id="advanced_ae:swim_speed_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:walk_speed_card" />
-* <ItemLink id="advanced_ae:sprint_speed_card" />
-* <ItemLink id="advanced_ae:swim_speed_card" />
+- <ItemLink id="advanced_ae:walk_speed_card" />
+- <ItemLink id="advanced_ae:sprint_speed_card" />
+- <ItemLink id="advanced_ae:swim_speed_card" />
 
-These upgrade cards improve the set wearer's movement speed. They all have configurable values for how fast you want to
-go and also affect movement while sneaking and flying. Important to note is that these upgrades can also be used to
-decrease the speed to allow for more control when other speed up effects are in place.
+Ці картки покращень покращують швидкість пересування власника добіру. Усі вони мають налаштовувані значення швидкости, з якою ви хочете рухатися, а також впливають на рух під час підкрадання та польоту. Важливо зазначити, що ці покращення також можна використовувати для зменшення швидкости, щоб забезпечити більше контролю, коли діють інші ефекти прискорення.
 
 <br/>
 
-## Height Cards
+## Картки висоти
 
 <Row gap="10">
 <ItemImage id="advanced_ae:jump_height_card" scale="2"></ItemImage>
 <ItemImage id="advanced_ae:step_assist_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:jump_height_card" />
-* <ItemLink id="advanced_ae:step_assist_card" />
+- <ItemLink id="advanced_ae:jump_height_card" />
+- <ItemLink id="advanced_ae:step_assist_card" />
 
-These upgrades change vertical movement, allowing for configurable higher jump heights or step assist.
+Ці покращення змінюють вертикальний рух, дозволяючи налаштовувати більшу висоту стрибка та кроку.
 
 <br/>
 
-## Flight Cards
+## Картки польоту
 
 <Row gap="10">
 <ItemImage id="advanced_ae:flight_card" scale="2"></ItemImage>
 <ItemImage id="advanced_ae:flight_drift_card" scale="2"></ItemImage>
 </Row>
 
-### Flight Card
+### Картка польоту
 
-The <ItemLink id="advanced_ae:flight_card" /> enables creative flight when installed. The flight speed can be configured
-using the slider in the UI. It is also affected by the walk/sprint speed upgrades additively.
+<ItemLink id="advanced_ae:flight_card" /> надає творчий політ після встановлення. Швидкість польоту можна налаштувати за допомогою повзунка в інтерфейсі користувача. На неї також впливають покращення швидкости ходьби/бігу.
 
-### Flight Drift Card
+### Картка вивіреного польоту
 
-The <ItemLink id="advanced_ae:flight_drift_card" /> only works when the Flight Card is installed, and it adds another
-configuration slider to change the inertia affecting the creative flight. Lower values make you stop faster, stopping
-instantly when the value is set to 0.
+<ItemLink id="advanced_ae:flight_drift_card" /> працює лише тоді, коли встановлено картку польоту, і вона додає ще один повзунок конфігурації для зміни інерції, що впливає на творчий політ. Нижчі значення змушують вас зупинятися швидше, зупиняючись миттєво, коли значення встановлено на 0.
 
 <br/>
 
-## ME Recharging Card
+## Картка МЕ підзарядки
 
 <ItemImage id="advanced_ae:recharging_card" scale="2"></ItemImage>
 
-The <ItemLink id="advanced_ae:recharging_card" /> enables wireless recharging for the equipped piece. This requires a
-link to the grid and being in range of the access point. Installing this upgrade in the chestplate has the added benefit
-of also charging the inventory slots.
+<ItemLink id="advanced_ae:recharging_card" /> надає бездротову підзарядку спорядженого предмета. Для цього потрібне підключення до мережі та перебування в зоні дії точки доступу. Встановлення цього покращення в нагрудник має додаткову функцію: воно також заряджає речі в слотах інвентарю.
 
 <br/>
 
-## Portable Workbench Card
+## Картка портативного верстака
 
 <ItemImage id="advanced_ae:portable_workbench_card" scale="2"></ItemImage>
 
-The <ItemLink id="advanced_ae:portable_workbench_card" /> adds a portable cell workbench to the quantum suit. To open
-it, you need to press the configured hotkey. It works in the same way the block form does.
+<ItemLink id="advanced_ae:portable_workbench_card" /> додає переносний верстак для комірок до квантового костюма. Щоб відкрити його, потрібно натиснути налаштовану прив'язану клавішу. Вона працює так само як і блокова форма.
 
 <br/>
 
-## Pick Craft Card
+## Картка виробничого запитування
 
 <ItemImage id="advanced_ae:pick_craft_card" scale="2"></ItemImage>
 
-The <ItemLink id="advanced_ae:pick_craft_card" /> adds a new hotkey feature to the armor. Pressing it will attempt to
-craft the block currently being targeted by the player. This feature requires that a link to the grid and a pattern
-that matches the target. A popup will appear requiring the desired amount and the process follows exactly the same as a
-normal auto-craft request would.
+<ItemLink id="advanced_ae:pick_craft_card" /> додає нову функцію гарячої клавіші до броні. Натискання її призведе до спроби створити блок, на який гравець наразі спрямований. Ця функція потребує підключення до мережі та наявність у неї відповідного шаблона вироблення. При активації з'явиться спливне вікно з вимогою ввести бажану кількість, і процес відбудеться точно так само, як і звичайний запит на автоматичне створення.
 
 <br/>
 
-## Utilities Cards
+## Допоміжні картки
 
 <Row gap="10">
 <ItemImage id="advanced_ae:night_vision_card" scale="2"></ItemImage>
 <ItemImage id="advanced_ae:lava_immunity_card" scale="2"></ItemImage>
 <ItemImage id="advanced_ae:water_breathing_card" scale="2"></ItemImage>
 <ItemImage id="advanced_ae:magnet_card" scale="2"></ItemImage>
+<ItemImage id="advanced_ae:camo_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:night_vision_card" />
-* <ItemLink id="advanced_ae:lava_immunity_card" />
-* <ItemLink id="advanced_ae:water_breathing_card" />
-* <ItemLink id="advanced_ae:magnet_card" />
+- <ItemLink id="advanced_ae:night_vision_card" />
+- <ItemLink id="advanced_ae:lava_immunity_card" />
+- <ItemLink id="advanced_ae:water_breathing_card" />
+- <ItemLink id="advanced_ae:magnet_card" />
+- <ItemLink id="advanced_ae:camo_card" />
 
-These cards provide several utilities for the set wearer, bringing immunity to some sorts of damage and granting night
-vision. The magnet card, in particular, has a configuration screen where you can set filters for what to pick up or not
-and to configure its range.
+Ці картки надають кілька утиліт для власника добіру, надаючи імунітет до деяких видів шкоди та надаючи нічний зір. Зокрема, картка магнетизму має екран конфігурації, де можна встановити фільтри для того, що підбирати, а що ні, та налаштувати дальність підбирання.
 
 <br/>
 
-## Defensive Cards
+## Картки захисту
 
 <Row gap="10">
 <ItemImage id="advanced_ae:hp_buffer_card" scale="2"></ItemImage>
@@ -220,45 +195,42 @@ and to configure its range.
 <ItemImage id="advanced_ae:evasion_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:hp_buffer_card" />
-* <ItemLink id="advanced_ae:regeneration_card" />
-* <ItemLink id="advanced_ae:evasion_card" />
+- <ItemLink id="advanced_ae:hp_buffer_card" />
+- <ItemLink id="advanced_ae:regeneration_card" />
+- <ItemLink id="advanced_ae:evasion_card" />
 
-These upgrades provide defensive benefits to the set wearer, in various forms. The hp wearer will increase the maximum
-health, while the regeneration card will increase that speed at which it recovers. The evasion card provides full
-immunity to any damage source at a chance.
+Ці покращення надають захисні переваги власнику добіру в різних формах. Картка буфера здоров'я збільшить максимальний запас здоров'я, а картка регенерації збільшить швидкість його відновлення. Картка ухилення випадково забезпечує повний імунітет до будь-якої вхідної шкоди.
 
 <br/>
 
-## Offensive Cards
+## Картки бою
 
 <Row gap="10">
 <ItemImage id="advanced_ae:strength_card" scale="2"></ItemImage>
 <ItemImage id="advanced_ae:attack_speed_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:strength_card" />
-* <ItemLink id="advanced_ae:attack_speed_card" />
+- <ItemLink id="advanced_ae:strength_card" />
+- <ItemLink id="advanced_ae:attack_speed_card" />
 
-These upgrades increase the offensive capabilities of the wearer. They provide a boost to attack damage and attack speed.
+Ці покращення збільшують наступальні можливості власника. Вони забезпечують збільшення шкоди та швидкости атаки.
 
 <br/>
 
-## Stats Cards
+## Картки характеристик
 
 <Row gap="10">
 <ItemImage id="advanced_ae:luck_card" scale="2"></ItemImage>
 <ItemImage id="advanced_ae:reach_card" scale="2"></ItemImage>
 </Row>
 
-* <ItemLink id="advanced_ae:luck_card" />
-* <ItemLink id="advanced_ae:reach_card" />
+- <ItemLink id="advanced_ae:luck_card" />
+- <ItemLink id="advanced_ae:reach_card" />
 
-These upgrade cards provide flat stat increases to the wearer, affecting luck for better loot rolls and block reach
-distance. The reach card can be configured to a specific desired value.
+Ці картки покращення забезпечують власнику фіксоване збільшення характеристик, впливаючи на удачу для кращих результатів здобичі та досяжність до блоків. Картку досяжності можна налаштувати на певне бажане значення.
 
 <br/>
 
-## More to come
+## Плани на майбутнє
 
-This equipment set was release as a baseline with a ton of other features planned for release, so stay tuned!
+Цей добір був випущений як базовий, і до його повноцінного випуску заплановано безліч інших функцій, тож слідкуйте за оновленнями!

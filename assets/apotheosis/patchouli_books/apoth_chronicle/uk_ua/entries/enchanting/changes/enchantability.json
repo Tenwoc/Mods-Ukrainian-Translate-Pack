@@ -1,5 +1,5 @@
 {
-    "name": "Enchantability",
+    "name": "Зачаровуваність",
     "icon": "minecraft:golden_sword",
     "category": "apotheosis:enchanting/changes",
 	"flag": "apotheosis:enchanting",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "In Vanilla, all items without an explicit $(l:apotheosis:enchanting/table/enchantability)Item Enchantability$() have a default of zero.$(p)Apotheosis changes the default to one.$(p)This has the side effect of making some items unintentionally enchantable."
+            "text": "У класичній грі всі предмети без явного значення $(l:apotheosis:enchanting/table/enchantability)зачаровуваності$() мають усталене нульове значення.$(p)Apotheosis змінює це значення на одиницю.$(p)Це має побічний ефект можливості зачарування деяких непристосованих до цього предметів."
         },
 		{
             "type": "patchouli:text",
-            "text": "This tweak does not change the enchantability of items that have an explicit value.$(p)Items with an enchantability of zero can never be enchanted."
+            "text": "Це налаштування не змінює зачаровуваність предметів, які мають встановлене значення.$(p)Предмети з нульовою зачаровуваністю неможливо зачарувати."
         }
 	]
 }

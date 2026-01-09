@@ -1,5 +1,5 @@
 {
-    "name": "Spearfishing",
+    "name": "Підводне полювання",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
 	"flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Spearfishing$() is a trident enchantment.$(p)It gives kills with a thrown trident a 3.5% chance per level to drop a few random fish."
+            "text": "$(9)Підводне полювання$() – це чари для тризуба$(p)Вони дають 3,5% шанс за рівень отримати кілька випадкових рибин при вбивстві кинутим тризубом."
         }
 	]
 }

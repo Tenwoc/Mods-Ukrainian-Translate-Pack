@@ -1,20 +1,20 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: Assembler Matrix
-    icon: extendedae:assembler_matrix_frame
+  parent: epp_intro/epp_intro-index.md
+  title: Матричний збирач
+  icon: extendedae:assembler_matrix_frame
 categories:
-- extended devices
+  - extended devices
 item_ids:
-- extendedae:assembler_matrix_frame
-- extendedae:assembler_matrix_wall
-- extendedae:assembler_matrix_glass
-- extendedae:assembler_matrix_pattern
-- extendedae:assembler_matrix_crafter
-- extendedae:assembler_matrix_speed
+  - extendedae:assembler_matrix_frame
+  - extendedae:assembler_matrix_wall
+  - extendedae:assembler_matrix_glass
+  - extendedae:assembler_matrix_pattern
+  - extendedae:assembler_matrix_crafter
+  - extendedae:assembler_matrix_speed
 ---
 
-# Assembler Matrix
+# Матричний збирач
 
 <Row>
 <BlockImage id="extendedae:assembler_matrix_frame" p:formed="true" p:powered="true" scale="5"></BlockImage>
@@ -27,45 +27,46 @@ item_ids:
 <BlockImage id="extendedae:assembler_matrix_speed" scale="5"></BlockImage>
 </Row>
 
-Assembler Matrix is a multiblock structure. It is an combination of <ItemLink id="ae2:molecular_assembler" /> and <ItemLink id="ae2:pattern_provider" />.
-It can run a lot of crafting jobs at the same (with enough <ItemLink id="ae2:crafting_accelerator" />s in your ME network) and save channels for you.
+Матричний збирач — це багатоблокова структура, яка комбінує <ItemLink id="ae2:molecular_assembler" /> та <ItemLink id="ae2:pattern_provider" />.
+Він може виконувати багато завдань майстрування одночасно (на їх кількість впливає <ItemLink id="ae2:crafting_accelerator" /> у вашій МЕ мережі) й економити канали для вас.
 
-## Structure
+## Конструкція
 
 <GameScene zoom="3" background="transparent" interactive={true}>
   <ImportStructure src="../structure/assembler_matrix.snbt"></ImportStructure>
 </GameScene>
 
-It is a rectangular prism, with edge lengths between 3 and 7. 
-- Edges composed of Assembler Matrix Frame.
-- Faces composed of Assembler Matrix Wall/Glass.
-- Interior composed of Assembler Matrix Pattern/Craft/Speed Core.
+Це повинен бути паралелепіпед з довжиною ребра від 3 до 7.
 
-A valid Assembler Matrix must contain at least one pattern core and craft core. 
-It must be completely filled and can't be hollow.
-When Assembler Matrix is correctly formed and powered, the lines on Assembler Matrix Frame will turn blue.
+- Краї повинні складатися з каркаса матричного збирача.
+- Грані повинні складатися зі стін/скла матричного збирача.
+- Усередині конструкція повинна бути заповнена ядрами шаблонів/вироблення/прискорення матричного збирача.
 
-## Assembler Matrix Core
+Дійсний матричний збирач повинен містити принаймні одне ядро ​​шаблону та ядро вироблення.
+Усередині конструкції не повинно бути порожніх місць.
+Коли матричний збирач правильно сформований і живиться, лінії на рамці матричного збирача стануть синіми.
 
-There are 3 different Assembler Matrix Cores.
+## Ядра матричного збирача
 
-- Assembler Matrix Pattern Core
+Існує 3 різних ядра матричного збирача.
 
-Assembler Matrix only take patterns from its pattern core. Each pattern core provides 36 pattern slots for Assembler Matrix.
+- Ядро шаблонів матричного збирача
 
-- Assembler Matrix Craft Core
+Матричний збирач користується шаблонами лише зі своїх ядер шаблонів. Кожне ядро ​​шаблонів забезпечує 36 слотів для шаблонів матричного збирача.
 
-Assembler Matrix will assign the received crafting jobs to its craft core. Each craft core can run 8 crafting jobs at the same time.
+- Ядро вироблення матричного збирача
 
-- Assembler Matrix Speed Core
+Матричний збирач призначає отримані завдання майстрування своїм ядрам вироблення. Кожне ядро ​вироблення ​може виконувати до 8 завдань майстрування одночасно.
 
-It is the <ItemLink id="ae2:speed_card" /> for Assembler Matrix. 5 speed cores allow the Assembler Matrix to run at full speed.
-Installing more than 5 speed cores won't give extra speed boost.
+- Ядро прискорення матричного збирача
 
-## GUI
+Та ж <ItemLink id="ae2:speed_card" />, тільки для матричного збирача. 5 ядер прискорення дозволяють матричному збирачу працювати на повній швидкості.
+Встановлення понад 5 ядер прискорення не дасть додаткового приросту швидкості.
 
-Right-click on a formed and online Assembler Matrix will open it GUI.
+## Інтерфейс
+
+Клацніть ПКМ на сформованому та приєднаному до мережі матричному збирачі, щоб відкрити його інтерфейс.
 
 ![GUI](../pic/assembler_matrix.png)
 
-You can put or search patterns in it, and view how many crafting jobs it is running.
+Ви можете додавати або шукати в ньому шаблони та переглядати, скільки завдань майстрування він зараз виконує.

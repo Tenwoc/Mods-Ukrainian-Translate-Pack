@@ -1,20 +1,20 @@
 {
-    "name": "Infusion Enchanting",
+    "name": "Просякнення чарами",
     "icon": "apothic_enchanting:infused_hellshelf",
     "category": "apotheosis:enchanting/table",
 	"flag": "apotheosis:enchanting",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Infusion Enchanting$() is a new method of crafting through the Enchantment Table.$(p)Each infusion recipe has a single item input, and three stat requirements."
+            "text": "$(9)Просякнення чарами$() це новий метод крафту за допомогою столу зачарування.$(p) Кожен рецепт просякнення має один вхідний предмет та три вимоги до характеристик."
         },
 		{
 			"type": "patchouli:text",
-			"text": "Each stat requirement will typically require at least some value, and will optionally have a maximum value.$(p)Infusion enchantments only use the third slot, and will let you over-spend experience."
+			"text": "Кожна вимога до характеристик зазвичай вимагає принаймні певного значення, й іноді матиме максимальне значення. $(p)Просякнення чарами використовує лише третій слот і змушує витрачати надмірно багато досвіду."
 		},
 		{
 			"type": "patchouli:text",
-			"text": "To perform an infusion enchantment, just place the item in the slot.$(p)If you have the correct stats, the third slot will light up, and clicking it will perform the infusion."
+			"text": "Щоб виконати просякнення чарами, просто помістіть предмет у слот.$(p)Якщо у вас є правильні характеристики, третій слот засвітиться, і натискання на нього виконає просякнення."
 		}
 	]
 }

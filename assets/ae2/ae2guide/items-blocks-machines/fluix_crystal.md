@@ -16,7 +16,7 @@ item_ids:
 
 *«Флюїксові кристали мають унікальну здатність поглинати та перетворювати енергію з однієї форми в іншу та є основою всіх технологій матеріальної енергії»*
 
-Один з основних інгредієнтів для блоків AE2, [пристроїв](../ae2-mechanics/devices.md) та предметів. Можна отримати, кинувши незерський кварц, редстоуновий пил та <ItemLink id="charged_certus_quartz_crystal" /> у воду.
+Один з основних складників для блоків AE2, [пристроїв](../ae2-mechanics/devices.md) та предметів. Можна отримати, кинувши незерський кварц, редстоуновий пил та <ItemLink id="charged_certus_quartz_crystal" /> у воду.
 
 В [автоматизації](../example-setups/throw-in-water-automation.md) може допомогти <ItemLink id="formation_plane" /> та <ItemLink id="annihilation_plane" />.
 

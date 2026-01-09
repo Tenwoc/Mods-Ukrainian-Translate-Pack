@@ -468,7 +468,7 @@
   "effect.terramity.dripleaf_step.description": "Розміщує блоки dripleaf під ногами цілі, дозволяючи їй ходити в повітрі.",
   "effect.terramity.vulnerable.description": "Збільшує отриманий утрату на 33%.",
   "effect.terramity.shadowstep.description": "Розміщує невидимі блоки під ногами цілі, дозволяючи їй ходити в повітрі.",
-  "effect.terramity.misprogrammed.description": "Змушує завдану утрату не надавати жертві невразливості.",
+  "effect.terramity.misprogrammed.description": "Змушує завдану утрату не надавати жертві невразливости.",
   "effect.terramity.ocarina_playing.description": "Вказує, що нотні аркуші в окарині цілі активують свої ефекти в кінці дії ефекту.",
   "effect.terramity.mortal_flight.description": "Надає цілі здатність літати, як ніби вона має елітри.",
   "effect.terramity.resourceful_rounds.description": "Надає цілі здатність економити боєприпаси під час перезаряджання. Кожен рівень додає 10% більше шансів на активацію.",

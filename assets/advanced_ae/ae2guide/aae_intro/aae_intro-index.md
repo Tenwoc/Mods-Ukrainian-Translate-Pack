@@ -1,28 +1,25 @@
 ---
 navigation:
-  title: Advanced AE Introduction
+  title: Advanced AE
   position: 70
 ---
 
 # Advanced AE!
 
-Advanced AE focuses on improving user experience when handling your ME System and expanding the possibilities of
-end-game systems. This mod allows you to upgrade pattern providers with the capability to push items to specific sides
-of the target machines and create multiblock computers that can run an unlimited amount of crafts, sharing
-co-processors, while it has crafting storage left, plus a ton of other quality of life additions!
+Advanced AE зосереджений на покращенні взаємодії з користувачем під час роботи з вашою МЕ системою та розширенні можливостей систем кінцевої гри. Цей мод дозволяє вам оновлювати постачальників шаблонів, надаючи можливість переміщувати предмети на певні сторони цільових машин та створювати багатоблокові комп'ютери, які можуть запускати необмежену кількість виробничих завдань, спільно використовуючи співпроцесори, залишаючи при цьому місце для крафту, а також безліч інших доповнень, що покращують якість життя!
 
 ![PEGui1](../pic/aae_intro.png)
 
-For a full list of the blocks and items provided, check these guide pages:
+Повний список блоків та предметів дивіться на цих сторінках довідника:
 
-## Advanced Devices
+## Покращені пристрої
 
 <CategoryIndex category="advanced devices"></CategoryIndex>
 
-## Advanced Items
+## Покращені предмети
 
 <CategoryIndex category="advanced items"></CategoryIndex>
 
-Found an issue? Missing a feature?
-Please report it here:
+Знайшли проблему? Бракує функції?
+Повідомте про це тут:
 [Advanced AE GitHub](https://github.com/pedroksl/AdvancedAE)

@@ -1,30 +1,25 @@
 ---
 navigation:
   parent: example-setups/example-setups-index.md
-  title: Bucket Filler
+  title: Наповнювач відер
   icon: minecraft:water_bucket
 ---
 
-# Bucket Filler
+# Наповнювач відер
 
-Also see [Bucket Emptier](bucket-emptier.md).
+Дивіться також [Спорожнювач відер](bucket-emptier.md).
 
-Note that since this uses a <ItemLink id="pattern_provider" />, it is meant to integrate into your [autocrafting](../ae2-mechanics/autocrafting.md)
-setup.
+Зауважте, що оскільки тут використовується <ItemLink id="pattern_provider" />, він призначений для інтеграції у вашу систему [автовироблення](../ae2-mechanics/autocrafting.md).
 
-Sometimes, life is inconvenient and you need buckets of a fluid instead of the fluid itself. Sometimes a machine might do this for you
-(like the Fluid Transposer from Thermal Expansion), but you might not always have a mod that does it conveniently for you. Luckily
-vanilla Minecraft has a slightly-less-convenient way, the <ItemLink id="minecraft:dispenser" />.
+Іноді життя незручне, і вам потрібна рідина у відрі, але ви можете отримувати її лише саме рідиною. Іноді це може зробити машина (наприклад, Fluid Transposer з Thermal Expansion), але у вас не завжди є мод, який робить це зручно для вас. На щастя, у звичайному Minecraft є трохи менш зручний спосіб, <ItemLink id="minecraft:dispenser" />.
 
-**Note that you often don't have to do this because Fluid Substitutions in a
-[Pattern Encoding Terminal](../items-blocks-machines/terminals.md#термінал-кодування-шаблонів) allow you to use the fluid itself in
-a crafting recipe instead of a bucket.**
+**Зверніть увагу, що зазвичай вам не потрібно цього робити, оскільки заміни рідини в [терміналі кодування шаблонів](../items-blocks-machines/terminals.md#термінал-кодування-шаблонів) дозволяють використовувати саму рідину в рецепті майстрування замість відра.**
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/bucket_filler.snbt" />
 
 <BoxAnnotation color="#dddddd" min="2 1 0" max="3 2 1">
-        (1) Pattern Provider: Set to lock crafting "With redstone signal", with the relevant processing patterns.
+        (1) Постачальник шаблонів: Встановлено блокування вироблення «З сигналом редстоуна» та увімкнено режим блокування з відповідними шаблонами обробки.
 
         <Row>
         ![Fill Pattern](../assets/diagrams/water_fill_pattern_small.png)
@@ -33,58 +28,52 @@ a crafting recipe instead of a bucket.**
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3 1.1 0.1" max="3.2 1.9 0.9">
-        (2) Interface: In its default configuration.
+        (2) Інтерфейс: Без налаштувань.
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3.1 1.1 0.8" max="3.9 1.9 1">
-        (3) Storage Bus #1: In its default configuration.
+        (3) Шина зберігання №1: Без налаштувань.
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="4.05 1.05 0.8" max="4.95 1.95 1">
-        (4) Formation Plane: Filtered to blacklist buckets, using an inverter card.
+        (4) Площина формування: Відфільтована на НЕ відра за допомогою картки інвертора.
         <Row><ItemImage id="minecraft:bucket" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3.2 2 1.2" max="3.8 2.2 1.8">
-        (5) Import Bus: Filtered to blacklist buckets, using an inverter card.
+        (5) Шина імпорту: Відфільтована на НЕ відра за допомогою картки інвертора.
         <Row><ItemImage id="minecraft:bucket" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="2.1 2 0.1" max="2.9 2.2 0.9">
-        (6) Storage Bus #2: In its default configuration.
+        (6) Шина зберігання №2: Без налаштувань.
   </BoxAnnotation>
 
 <DiamondAnnotation pos="0 1.5 0.5" color="#00ff00">
-        To Main Network
+        До основної мережі
     </DiamondAnnotation>
 
   <IsometricCamera yaw="225" pitch="45" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
-* The <ItemLink id="pattern_provider" /> (1) is Set to lock crafting "With redstone signal", with the relevant <ItemLink id="processing_pattern" />s.
+* <ItemLink id="pattern_provider" /> (1) налаштовано на блокування вироблення «З сигналом редстоуна» та увімкнений режим блокування з відповідними <ItemLink id="processing_pattern" />.
   
     ![Charger Pattern](../assets/diagrams/water_fill_pattern.png)
     ![Charger Pattern](../assets/diagrams/lava_fill_pattern.png)
 
-* The <ItemLink id="interface" /> (2) is in its default configuration.
-* The first <ItemLink id="storage_bus" /> (3) is in its default configuration.
-* The <ItemLink id="formation_plane" /> (4) is filtered to blacklist buckets, using an inverter card.
-  <Row><ItemImage id="minecraft:bucket" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
-* The <ItemLink id="import_bus" /> (5) is filtered to blacklist buckets, using an inverter card.
-  <Row><ItemImage id="minecraft:bucket" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
-* The second <ItemLink id="storage_bus" /> (6) is in its default configuration.
+* <ItemLink id="interface" /> (2) без налаштувань.
+* Перша <ItemLink id="storage_bus" /> (3) без налаштувань.
+* <ItemLink id="formation_plane" /> (4) відфільтована на НЕ відра за допомогою картки інвертора. <Row><ItemImage id="minecraft:bucket" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
+* <ItemLink id="import_bus" /> (5) відфільтована на НЕ відра за допомогою картки інвертора. <Row><ItemImage id="minecraft:bucket" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
+* Друга <ItemLink id="storage_bus" /> (6) без налаштувань.
 
-## How It Works
+## Як це працює
 
-1. The <ItemLink id="pattern_provider" /> pushes the ingredients into the <ItemLink id="interface" />.
-   (Actually, as an optimization, it pushes directly through the storage bus and formation plane as if they were extensions of the provider's faces. The items never actually enter the interface.)
-2. Through mechanisms described in [pipe subnets](pipe-subnet.md#постачання-інгредієнтів-у-декілька-місць) and <ItemLink id="formation_plane" />,
-   the bucket ends up in the <ItemLink id="minecraft:dispenser" /> and the fluid is placed by the formation plane.
-3. The <ItemLink id="minecraft:comparator" /> detects the bucket in the dispenser and thus simultaneously powers the dispenser and locks
-   the <ItemLink id="pattern_provider" />.
-4. The dispenser scoops up the fluid with the bucket, it now has a filled bucket in itself.
-5. The <ItemLink id="import_bus" /> pulls the filled bucket out of the dispenser and stores it through the
-   <ItemLink id="storage_bus" /> into the pattern provider, returning it to the main network.
-6. The comparator sees the dispenser is empty, unlocking the provider.
+1. <ItemLink id="pattern_provider" /> передає складники в <ItemLink id="interface" />. (Насправді, як оптимізація, він ігнорує порожній інтерфейс та передає складники одразу до шини зберігання, яка належить до однієї з інтерфейсом мережі)
+2. За допомогою механізмів, описаних у [трубних підмережах](pipe-subnet.md#постачання-складників-у-декілька-місць) та <ItemLink id="formation_plane" />, відро потрапляє в <ItemLink id="minecraft:dispenser" />, а рідина розміщується перед ним.
+3. <ItemLink id="minecraft:comparator" /> виявляє відро в роздавачі і таким чином одночасно живить роздавач і блокує <ItemLink id="pattern_provider" />.
+4. Роздавач забирає рідину у відро, і тепер має повне відро.
+5. <ItemLink id="import_bus" /> витягує повне відро з роздавача та зберігає його через <ItemLink id="storage_bus" /> у постачальнику шаблонів, повертаючи його до основної мережі.
+6. Компаратор бачить, що роздавач порожній, і розблоковує постачальника.

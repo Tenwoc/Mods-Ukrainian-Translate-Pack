@@ -1,145 +1,133 @@
 ---
 navigation:
   parent: example-setups/example-setups-index.md
-  title: Semi-Auto Certus Farm
+  title: Напівавоматична ферма істинного кварцу
   icon: certus_quartz_crystal
   position: 115
 ---
 
-# Semi-Auto Certus Farm
+# Напівавоматична ферма істинного кварцу
 
-Unfortunately, the [simple certus farm](simple-certus-farm.md) requires a <ItemLink id="flawless_budding_quartz" /> to work fully
-automatically. This requires either [Spatial IO](../ae2-mechanics/spatial-io.md) or building the farm at the [meteorite](../ae2-mechanics/meteorites.md).
+На жаль, для повністю автономної роботи [простої ферми істинного кварцу](simple-certus-farm.md) потрібен <ItemLink id="flawless_budding_quartz" /> Для цього потрібно або використати медоти [просторового зберігання](../ae2-mechanics/spatial-io.md), або будівництво ферми прямо на [метеориті](../ae2-mechanics/meteorites.md).
 
-However, AE2 can place and break blocks, so it might just
-be possible to make your farm *replace the budding certus for you*. (You will have to periodically insert some
-<ItemLink id="flawed_budding_quartz" /> into the input barrel and extract <ItemLink id="quartz_block" /> from the spent
-buddng certus barrel)
+Однак, AE2 надає способи розміщувати та руйнувати блоки, тому також можливий варіант, де ваша ферма _замінює родючий кварц_. (Доведеться навчити систему періодично вставляти <ItemLink id="flawed_budding_quartz" /> у ферму та витягувати <ItemLink id="quartz_block" /> з окремого буфера для родючого кварцу)
 
-To do this fully automatically, see [Advanced Certus Farm](advanced-certus-farm.md).
+Як повністю автоматизувати це, дивіться у розділі [Вдосконаленої ферми істинного кварцу](advanced-certus-farm.md).
 
-This farm is a bit more complex than the [simple certus farm](simple-certus-farm.md), because it is actually
-3 separate setups crammmed together.
+Ця ферма трохи складніша, ніж [проста ферма істинного кварцу](simple-certus-farm.md), оскільки насправді це 3 окремі переплетені разом устави.
 
-See [Certus Growth](../ae2-mechanics/certus-growth.md) for estimated speeds.
+Дивіться [Вирощування істинного кварцу](../ae2-mechanics/certus-growth.md) для отримання орієнтовної швидкості ферми.
 
-**THIS IS A COMPLEX BUILD WITH STUFF HIDDEN BEHIND OTHER STUFF, PAN AROUND TO VIEW IT FROM ALL ANGLES**
+**ЦЕ СКЛАДНА КОНСТРУКЦІЯ З РЕЧАМИ, ЩО СКЛАДАЮТЬСЯ ОДНА НА ОДНУ, ОБЕРТАЙТЕ СХЕМУ, ЩОБ РОЗГЛЯНУТИ ЇЇ З УСІХ КУТІВ**
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/semiauto_certus_farm.snbt" />
 
   <BoxAnnotation color="#ddaaaa" min="3.7 2 1" max="4 3 2">
-        (1) Annihilation Plane #1: No GUI to configure, but can be enchanted with Fortune.
+        (1) Площина руйнування №1: Не має інтерфейсу для налаштування, але може бути зачарована Удачею.
   </BoxAnnotation>
 
   <BoxAnnotation color="#ddaaaa" min="2 2 1" max="2.3 3 2">
-        (2) Storage Bus #1: Filtered to Certus Quartz Crystal.
+        (2) Шина зберігання №1: Відфільтрована на кристал істинного кварцу.
         <ItemImage id="certus_quartz_crystal" scale="2" />
   </BoxAnnotation>
 
   <DiamondAnnotation pos="3 2.5 1.5" color="#ff0000">
-    Cluster Breaker Subnet
+    Підмережа руйнування друз
   </DiamondAnnotation>
 
   <BoxAnnotation color="#aaddaa" min="3.7 1 1" max="4 2 2">
-        (3) Annihilation Plane #2: No GUI to configure, but enchanted with Silk Touch.
+        (3) Площина руйнування №2: Не має інтерфейсу для налаштування, але може бути зачарована Шовковим дотиком.
   </BoxAnnotation>
 
   <BoxAnnotation color="#aaddaa" min="2 1 1" max="2.3 2 2">
-        (4) Storage Bus #2: Filtered to Certus Quartz Block.
+        (4) Шина зберігання №2: Відфільтрована на блок істинного кварцу.
         <BlockImage id="quartz_block" scale="2" />
   </BoxAnnotation>
 
   <DiamondAnnotation pos="3 1.5 1.5" color="#00ff00">
-    Certus Block Breaker Subnet
+    Підмережа руйнування блоку істинного кварцу
   </DiamondAnnotation>
 
   <BoxAnnotation color="#ffddaa" min="4 0.7 1" max="5 1 2">
-        (5) Formation Plane: In its default configuration.
+        (5) Площина формування: Без налаштувань.
   </BoxAnnotation>
 
   <BoxAnnotation color="#ffddaa" min="2 0 1" max="2.3 1 2">
-        (6) Import Bus: In its default configuration.
+        (6) Шина імпорту: Без налаштувань.
   </BoxAnnotation>
 
   <DiamondAnnotation pos="3 0.5 1.5" color="#ddcc00">
-    Budding Block Placer Subnet
+    Підмережа розміщення родючого кварцу
   </DiamondAnnotation>
 
   <BoxAnnotation color="#aaaadd" min="0.7 2 1" max="1 3 2">
-        (7) Storage Bus #3: Filtered to Certus Quartz Crystal. Has priority set higher than your main storage.
+        (7) Шина зберігання №3: Відфільтрована на кристал істинного кварцу. Має пріоритет вище, ніж ваше основне сховище.
         <ItemImage id="certus_quartz_crystal" scale="2" />
   </BoxAnnotation>
 
     <DiamondAnnotation pos="1.5 0.5 1.5" color="#00ff00">
-        Manually insert Flawed Budding Certus Quartz.
+        Ручне вставляння надщербленого родючого кварцу.
         <BlockImage id="flawed_budding_quartz" scale="2" />
     </DiamondAnnotation>
 
     <DiamondAnnotation pos="1.5 1.5 1.5" color="#00ff00">
-        Manually extract Certus Quartz Block.
+        Ручне витягання блоку істинного кварцу.
         <BlockImage id="quartz_block" scale="2" />
     </DiamondAnnotation>
 
 <DiamondAnnotation pos="0.5 0.5 0" color="#00ff00">
-        To Main Network
+        До основної мережі
     </DiamondAnnotation>
 
   <IsometricCamera yaw="165" pitch="5" />
 </GameScene>
 
-## Configurations
+## Конфігурації
 
-### Cluster Breaker:
+### Добувач друз:
 
-* The first <ItemLink id="annihilation_plane" /> (1) has no GUI and cannot be configured, but can be enchanted with Fortune.
-* The first <ItemLink id="storage_bus" /> (2) is filtered to <ItemLink id="certus_quartz_crystal" />.
+- Перша <ItemLink id="annihilation_plane" /> (1) не має інтерфейсу для налаштування, але може бути зачарована Удачею.
+- Перша <ItemLink id="storage_bus" /> (2) відфільтрована на <ItemLink id="certus_quartz_crystal" />.
 
-### Certus Block Breaker:
+### Забирач блоку істинного кварцу:
 
-* The second <ItemLink id="annihilation_plane" /> (3) has no GUI and cannot be configured, but must be enchanted with Silk Touch.
-* The second <ItemLink id="storage_bus" /> (4) is filtered to <ItemLink id="quartz_block" />.
+- Друга <ItemLink id="annihilation_plane" /> (3) не має інтерфейсу для налаштування, але може бути зачарована Шовковим дотиком.
+- Друга <ItemLink id="storage_bus" /> (4) відфільтрована на <ItemLink id="quartz_block" />.
 
-### Budding Block Placer:
+### Розміщувач родючого кварцу:
 
-* The <ItemLink id="formation_plane" /> (5) is in its default configuration.
-* The <ItemLink id="import_bus" /> (6) is in its default configuration.
+- <ItemLink id="formation_plane" /> (5) без налаштувань.
+- <ItemLink id="import_bus" /> (6) без налаштувань.
 
-### On Main Network:
+### В основній мережі:
 
-* The third <ItemLink id="storage_bus" /> (7) is filtered to <ItemLink id="certus_quartz_crystal" />, and has its
-  [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) set higher than your main storage.
+- Третя <ItemLink id="storage_bus" /> (7) відфільтрована на <ItemLink id="certus_quartz_crystal" />, та має [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) вище, ніж ваше основне сховище.
 
-## How It Works
+## Як це працює
 
-### Cluster Breaker:
+### Добувач друз:
 
-The cluster breaker subnet works very similarly to the subnet in the [simple certus farm](simple-certus-farm.md).
+Підмережа добувача друз працює майже так само, як і підмережа у [простій фермі істинного кварцу](simple-certus-farm.md).
 
-1. The <ItemLink id="annihilation_plane" /> attempts to break what is in front of it, but can only break <ItemLink id="quartz_cluster" />
-   because the only storage on the subnet is the <ItemLink id="storage_bus" />, filtered to <ItemLink id="certus_quartz_crystal" />.
-2. The <ItemLink id="storage_bus" /> stores the certus quartz crystals in the barrel.
+1. <ItemLink id="annihilation_plane" /> намагається зламати те, що знаходиться перед ним, але може зламати лише <ItemLink id="quartz_cluster" /> оскільки єдиним сховищем у підмережі є <ItemLink id="storage_bus" />, відфільтрована на <ItemLink id="certus_quartz_crystal" />.
+2. <ItemLink id="storage_bus" /> зберігає кристали істинного кварцу у діжці.
 
-### Certus Block Breaker
+### Забирач блоку істинного кварцу
 
-The certus block breaker subnet serves to break the depleted budding block once it turns into a plain <ItemLink id="quartz_block" />.
-It works similarly to the cluster breaker.
+Підмережа забирача блоку істинного кварцу служить для розбиття виснаженого родючого кварцу, коли він перетворюється на звичайний <ItemLink id="quartz_block" />.
+Вона працює подібно до добувача друз.
 
-1. The <ItemLink id="annihilation_plane" /> attempts to break what is in front of it, but can only break <ItemLink id="quartz_block" />
-   because the only storage on the subnet is the <ItemLink id="storage_bus" />, filtered to <ItemLink id="quartz_block" />.
-   The plane needs to have silk touch, so the budding block won't degrade upon being broken, and thus the plane won't break it prematurely.
-2. The <ItemLink id="storage_bus" /> stores the certus quartz block in the spent
-   buddng certus barrel, you will have to manually throw it in water with <ItemLink id="charged_certus_quartz_crystal" /> to refresh it.
+1. <ItemLink id="annihilation_plane" /> намагається зламати те, що знаходиться перед ним, але може зламати лише <ItemLink id="quartz_block" /> оскільки єдиним сховищем у підмережі є <ItemLink id="storage_bus" />, відфільтрована на <ItemLink id="quartz_block" />. Площина повинна мати чари Шовкового дотику, щоб родючий кварц не деградував після розбиття, і таким чином площина не зламала б його передчасно.
+2. <ItemLink id="storage_bus" /> зберігає блоки істинного кварцу у буферній діжці, вам доведеться вручну кинути його у воду з <ItemLink id="charged_certus_quartz_crystal" />, щоб відновити його.
 
-### Budding Block Placer
+### Розміщувач родючого кварцу
 
-The budding block placer subnet serves to place a new <ItemLink id="flawed_budding_quartz" /> when the breaker subnet breaks the old depleted one.
+Підмережа розміщувача родючого кварцу служить для розміщення нового <ItemLink id="flawed_budding_quartz" />, коли підмережа забирача добуває виснажений блок.
 
-1. The <ItemLink id="import_bus" /> Imports a budding block from the input barrel.
-2. The only storage on the subnet is the <ItemLink id="formation_plane" />, which places the budding block.
+1. <ItemLink id="import_bus" /> імпортує родючий блок з вхідної діжки.
+2. Єдиним сховищем у підмережі є <ItemLink id="formation_plane" />, яка розміщує блок.
 
-### On the Main Network
+### В основній мережі
 
-* The <ItemLink id="storage_bus" /> gives the main network (and also the [Charger Automation](charger-automation.md)) access to all of the certus quartz crystals in the barrel. It is set to
-  high [priority](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ) so that certus quartz crystals are preferentially
-  put back in the barrel instead of in your main storage.
+- <ItemLink id="storage_bus" /> надає головній мережі (а також [автоматизованому заряднику](charger-automation.md)) доступ до всіх кристалів істинного кварцу у діжці. Їй встановлено високий [пріоритет](../ae2-mechanics/import-export-storage.md#пріоритет-сховищ), щоб кристали істинного кварцу переважно поверталися назад у діжку, а не до вашого основного сховища.

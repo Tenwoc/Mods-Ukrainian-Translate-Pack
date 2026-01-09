@@ -23,7 +23,7 @@
   "commands.souls.set.success": "Успішно налаштовані душі",
 
   "artifact.dungeons_libraries.base": "Для використання артефакту перемістить його у вільний слот артефактів Curios.",
-  "artifact.dungeons_libraries.duration": "%d секунд тривалості",
+  "artifact.dungeons_libraries.duration": "%d секунд тривалости",
   "artifact.dungeons_libraries.cooldown": "%d секунд перезаряджання",
 
   "curios.identifier.artifact": "Артефакт",

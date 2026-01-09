@@ -34,7 +34,7 @@
   "pehkui.configgui.scaledFallDamage": "Чи масштабувати пошкодження від падіння за шкалою руху",
   "pehkui.configgui.scaledMotion": "Чи вмикати шкалу руху",
   "pehkui.configgui.scaledReach": "Чи вмикати шкалу досяжності",
-  "pehkui.configgui.scaledAttack": "Чи вмикати шкалу шкоди від атаки",
+  "pehkui.configgui.scaledAttack": "Чи вмикати шкалу шкоди при атаці",
   "pehkui.configgui.scaledDefense": "Чи вмикати шкалу захисту",
   "pehkui.configgui.scaledHealth": "Чи вмикати шкалу здоров'я",
   "pehkui.configgui.scaledItemDrops": "Чи вмикати шкалу падіння предметів",

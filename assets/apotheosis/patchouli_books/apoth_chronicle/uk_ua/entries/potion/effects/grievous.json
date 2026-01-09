@@ -1,5 +1,5 @@
 {
-    "name": "Grievous Wounds",
+    "name": "Важкі рани",
     "icon": "apothic_attributes:textures/mob_effect/grievous.png",
     "category": "apotheosis:potion/effects",
 	"flag": "apotheosis:potion",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Potion of $(c)Grievous Wounds$() is a negative effect.$(p)While under its effects, all healing received is reduced."
+            "text": "$(c)Важкі рани$() – це шкідливий ефект.$(p)Під впливом цього ефекту будь-яке зцілення слабшає."
         },
 		{
             "type": "patchouli:text",
-            "text": "The healing reduction is equal to 40% per level.$(p)While at level III or above, all healing is prevented."
+            "text": "Зменшення зцілення дорівнює 40% за рівень.$(p)На рівні III чи вище усе зцілення зводиться нанівець."
         }
 	]
 }

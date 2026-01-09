@@ -1,6 +1,6 @@
 {
 	"createaddition.tooltip.energy.stored": "Накопичено енергії:",
-	"createaddition.tooltip.energy.capacity": "Ємність:",
+	"createaddition.tooltip.energy.capacity": "Місткість:",
 	"createaddition.tooltip.energy.consumption": "Споживання енергії:",
 	"createaddition.tooltip.energy.production": "Вироблена енергія:",
 	"createaddition.tooltip.energy.charged": "Заряджений",
@@ -21,8 +21,8 @@
 	"createaddition.tooltip.relay.info": "Інформація про реле:",
 	"createaddition.tooltip.connector.info": "Інформація про з'єднувач:",
 
-	"createaddition.recipe.rolling": "Прокатка",
-	"createaddition.recipe.rolling.sequence": "Прокатний стан",
+	"createaddition.recipe.rolling": "Вальцювання",
+	"createaddition.recipe.rolling.sequence": "Вальцівниця",
 	"createaddition.recipe.charging": "Заряджання",
 	"createaddition.recipe.liquid_burning": "Спалювання рідини",
 
@@ -131,7 +131,7 @@
 	"item.createaddition.spool.tooltip.condition1": "Клацніть ПКМ по з'єднувачу",
 	"item.createaddition.spool.tooltip.behaviour1": "Це створить зв'язок між ними і поверне _порожню котушку_.",
 
-	"statusbar.createaddition.wire.linked": "З’єднані вузли",
+	"statusbar.createaddition.wire.linked": "З'єднані вузли",
 	"statusbar.createaddition.wire.linked_in": "Дріт з'єднаний з входом",
 	"statusbar.createaddition.wire.linked_out": "Дріт з'єднаний з виходом",
 
@@ -155,7 +155,7 @@
 	"block.createaddition.creative_energy.tooltip": "ТВОРЧИЙ ГЕНЕРАТОР",
 	"block.createaddition.creative_energy.tooltip.summary": "Генерує нескінченний запас _FE_.",
 
-	"block.createaddition.rolling_mill": "Прокатний стан",
+	"block.createaddition.rolling_mill": "Вальцівниця",
 
 	"block.createaddition.accumulator": "Акумулятор",
 	"block.createaddition.accumulator.tooltip": "АКУМУЛЯТОР",
@@ -171,32 +171,32 @@
 
 	"block.createaddition.connector": "З'єднувач",
 	"block.createaddition.connector.tooltip": "З'ЄДНУВАЧ",
-	"block.createaddition.connector.tooltip.summary": "З’єднює блоки, сумісні з _Forge Energy_, за допомогою _проводів_ для передачі _⚡_.",
+	"block.createaddition.connector.tooltip.summary": "З'єднює блоки, сумісні з _Forge Energy_, за допомогою _проводів_ для передачі _⚡_.",
 	"block.createaddition.connector.tooltip.condition1": "Низький струм",
 	"block.createaddition.connector.tooltip.behaviour1": "Підключається до _низькострумових роз'ємів_.",
 	"block.createaddition.connector.tooltip.condition2": "Клацніть ПКМ",
-	"block.createaddition.connector.tooltip.behaviour2": "Тримайте в інвентарі _мідну котушку_ або _золоту котушку_ для створення до 4 _дротових з’єднань_ між з’єднувачами.",
+	"block.createaddition.connector.tooltip.behaviour2": "Тримайте в інвентарі _мідну котушку_ або _золоту котушку_ для створення до 4 _дротових з'єднань_ між з'єднувачами.",
 	"block.createaddition.connector.tooltip.condition3": "Клацніть ПКМ з гайковим ключем в руці",
 	"block.createaddition.connector.tooltip.behaviour3": "Щоб переключатись між режимами _входу_, _виходу_, та _нічим_.",
 
 	"block.createaddition.small_light_connector": "Малий з'єднувач з підсвіткою",
 	"block.createaddition.small_light_connector.tooltip": "З'ЄДНУВАЧ",
-	"block.createaddition.small_light_connector.tooltip.summary": "З’єднює блоки, сумісні з _Forge Energy_, за допомогою _проводів_ для передачі _⚡_, забезпечуючи світло при отриманні живлення.",
+	"block.createaddition.small_light_connector.tooltip.summary": "З'єднює блоки, сумісні з _Forge Energy_, за допомогою _проводів_ для передачі _⚡_, забезпечуючи світло при отриманні живлення.",
 	"block.createaddition.small_light_connector.tooltip.condition1": "Низький струм",
 	"block.createaddition.small_light_connector.tooltip.behaviour1": "Підключається до _низькострумових роз'ємів_.",
 	"block.createaddition.small_light_connector.tooltip.condition2": "Клацніть ПКМ",
-	"block.createaddition.small_light_connector.tooltip.behaviour2": "Тримайте в інвентарі _мідну котушку_ або _золоту котушку_ для створення до 4 _дротових з’єднань_ між з’єднувачами.",
+	"block.createaddition.small_light_connector.tooltip.behaviour2": "Тримайте в інвентарі _мідну котушку_ або _золоту котушку_ для створення до 4 _дротових з'єднань_ між з'єднувачами.",
 	"block.createaddition.small_light_connector.tooltip.condition3": "Клацніть ПКМ з гайковим ключем в руці",
 	"block.createaddition.small_light_connector.tooltip.behaviour3": "Щоб переключатись між режимами _входу_, _виходу_, та _нічим_.",
 
 	"block.createaddition.large_connector": "Мідний з'єднувач",
 	"block.createaddition.large_connector.tooltip": "З'ЄДНУВАЧ",
-	"block.createaddition.large_connector.tooltip.summary": "З’єднює блоки, сумісні з Forge Energy, за допомогою _дротів_ для передачі _⚡_.",
+	"block.createaddition.large_connector.tooltip.summary": "З'єднює блоки, сумісні з Forge Energy, за допомогою _дротів_ для передачі _⚡_.",
 	"block.createaddition.large_connector.tooltip.condition1": "Клацніть ПКМ",
-	"block.createaddition.large_connector.tooltip.behaviour1": "Тримайте в інвентарі _мідну котушку_ або _золоту котушку_ для створення до 6 _дротових з’єднань_ між з’єднувачами.",
+	"block.createaddition.large_connector.tooltip.behaviour1": "Тримайте в інвентарі _мідну котушку_ або _золоту котушку_ для створення до 6 _дротових з'єднань_ між з'єднувачами.",
 	"block.createaddition.large_connector.tooltip.condition2": "Золодтий з'єднувач",
 	"block.createaddition.large_connector.tooltip.behaviour2": "З'ЄДНУВАЧ",
-	"block.createaddition.large_connector.tooltip.condition3": "З’єднює блоки, сумісні з Forge Energy, за допомогою _дротів_ для передачі _FE_.",
+	"block.createaddition.large_connector.tooltip.condition3": "З'єднює блоки, сумісні з Forge Energy, за допомогою _дротів_ для передачі _FE_.",
 	"block.createaddition.large_connector.tooltip.behaviour3": "Клацніть ПКМ",
 
 	"block.createaddition.redstone_relay": "Редстоунове реле",
@@ -211,7 +211,7 @@
 
 	"block.createaddition.digital_adapter": "Цифровий адаптер",
 	"block.createaddition.digital_adapter.tooltip": "ЦИФРОВИЙ АДАПТЕР",
-	"block.createaddition.digital_adapter.tooltip.summary": "Периферійний пристрій, який дозволяє _комп'ютерам(Computercraft)_взаємодіяти з _табло_, вимірювачами _швидкості_ і _навантаження_, а також _регуляторами швидкості обертання_.",
+	"block.createaddition.digital_adapter.tooltip.summary": "Периферійний пристрій, який дозволяє _комп'ютерам(Computercraft)_взаємодіяти з _табло_, вимірювачами _швидкости_ і _навантаження_, а також _регуляторами швидкости обертання_.",
 
 	"block.createaddition.chocolate_cake": "Шоколадний торт",
 	"block.createaddition.honey_cake": "Медівник",
@@ -245,13 +245,13 @@
 	"createaddition.ponder.alternator.text_2": "Він генерує електричну енергію (FE) за рахунок сили обертання",
 	"createaddition.ponder.alternator.text_3": "Виробництво енергії визначається вхідними обертами",
 
-	"createaddition.ponder.rolling_mill.header": "Прокатка металів в стрижні та дроти",
-	"createaddition.ponder.rolling_mill.text_1": "Прокатний стан використовує силу обертання, щоб прокатувати метали в стрижені та дроти",
-	"createaddition.ponder.rolling_mill.text_2": "Щоб ввести предмети вручну, опустіть злитки або пластини на верхню частину прокатного стану",
-	"createaddition.ponder.rolling_mill.text_3": "Клацніть ПКМ по прокатному стану, щоб вручну отримати результат",
+	"createaddition.ponder.rolling_mill.header": "Вальцювання металів в стрижні та дроти",
+	"createaddition.ponder.rolling_mill.text_1": "Вальцівниця використовує силу обертання, щоб валбювати метали в стрижні та дроти",
+	"createaddition.ponder.rolling_mill.text_2": "Щоб ввести предмети вручну, опустіть злитки або пластини на верхню частину вальцівниці",
+	"createaddition.ponder.rolling_mill.text_3": "Клацніть ПКМ по вальцівниці, щоб вручну отримати результат",
 
-	"createaddition.ponder.automated_rolling_mill.header": "Автоматизація прокатного стану",
-	"createaddition.ponder.automated_rolling_mill.text_1": "Прокатний стан можна автоматизувати за допомогою стрічки та двох лійок",
+	"createaddition.ponder.automated_rolling_mill.header": "Автоматизація вальцівниці",
+	"createaddition.ponder.automated_rolling_mill.text_1": "Вальцівницю можна автоматизувати за допомогою стрічки та двох лійок",
 	"createaddition.ponder.automated_rolling_mill.text_2": "Вхідна лійка",
 	"createaddition.ponder.automated_rolling_mill.text_3": "Виідна лійка",
 
@@ -313,7 +313,7 @@
 	"effect.createaddition.shocking": "Шокований",
 	"death.attack.tesla_coil": "%1$s почуває себе електрично",
 	"death.attack.tesla_coil.player": "%1$s отримав смертельний удар струмом під час бою з %2$s",
-	"effect.createaddition.shocking.description": "Викликає значне зниження швидкості руху",
+	"effect.createaddition.shocking.description": "Викликає значне зниження швидкости руху",
 
 	"createaddition.subtitle.loud_zap": "Котушка Тесли розряджається",
 	"createaddition.subtitle.little_zap": "Котушка Тесли іскриться"

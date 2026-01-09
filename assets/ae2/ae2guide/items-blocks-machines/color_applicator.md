@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Color Applicator
+  title: Фарбовий аплікатор
   icon: color_applicator
   position: 410
 categories:
@@ -10,29 +10,26 @@ item_ids:
 - ae2:color_applicator
 ---
 
-# The Color Applicator
+# Фарбовий аплікатор
 
 <ItemImage id="color_applicator" scale="4" />
 
-The color applicator is used to paint colorable blocks like [cables](cables.md), wool, terracotta, glass, and concrete. It uses
-[paintballs](paintballs.md) or dyes, and snowballs can be used in order to clean color off of cables and paintball splotches off of blocks.
+Фарбовий аплікатор використовується для фарбування кольорових блоків, таких як [кабелі](cables.md), вовна, кераміка, скло та бетон. Він використовує [фарбові кульки](paintballs.md) або барвники, а сніжки можна використовувати для очищення кабелів від забарвлення та плям від фарбових кульок з блоків.
 
-Its energy can be recharged in a <ItemLink id="charger" />.
+Його енергію може заповнити <ItemLink id="charger" />.
 
-Color applicators act like [storage cells](storage_cells.md), and their paint storage can most easily be filled by sticking
-the applicator in the storage cell slot in a <ItemLink id="chest" />
+Фарбові аплікатори діють як [комірки зберігання](storage_cells.md), і їхнє сховище фарби найлегше заповнити, вставивши аплікатор у слот для комірки в <a href="chest.md">МЕ Скрині</a>.
 
-Right-click a target to apply the selected color. To change colors, use your scroll wheel while hold shift, or right-click without a target.
+Клацніть ПКМ по цілі, щоб застосувати вибраний колір. Щоб змінити кольори, крадькома прокручуйте коліщатко, або клацніть ПКМ без цілі.
 
-## Upgrades
+## Модифікатори
 
-Color Applicators support the following [upgrades](upgrade_cards.md), inserted via a <ItemLink id="cell_workbench" />:
+Фарбові аплікатори приймають такі [модифікатори](upgrade_cards.md), що вставляються через <ItemLink id="cell_workbench" />:
 
-*   <ItemLink id="equal_distribution_card" /> allocates the same amount of cell byte space to each type, so one type cannot fill up the entire cell
-*   <ItemLink id="void_card" /> voids items inserted if the cell is full (or that specific type's allocated space in the
-    case of an equal distribution card). Be careful to partition this!
-*   <ItemLink id="energy_card" /> in order to increase their battery capacity
+*   <ItemLink id="equal_distribution_card" /> виділяє однакову кількість байтового простору комірки кожному типу, тому один тип не може заповнити всю комірку
+*   <ItemLink id="void_card" /> знищує вставлені предмети, якщо комірка заповнена (або заповнене виділене місце для цього конкретного типу у випадку карти рівного розподілу). Будьте обережні з розгалуженням!
+*   <ItemLink id="energy_card" /> збільшує місткість акумулятора
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="color_applicator" />

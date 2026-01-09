@@ -1,24 +1,24 @@
 {
-    "name": "Enchanting Power",
+    "name": "Потужність зачарування",
     "icon": "minecraft:experience_bottle",
     "category": "apotheosis:enchanting/table",
 	"flag": "apotheosis:enchanting",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "During the enchanting process, you spend experience and Lapis Lazuli to enchant an item.$(p)From this, enchantments are randomly selected using some complex formulas.$(p)This chapter explains that process."
+            "text": "Під час процесу зачарування ви витрачаєте досвід і лазурит, щоб зачарувати предмет.$(p)У цьому процесі чари випадковим чином вибираються за допомогою деяких складних формул.$(p)У цьому розділі пояснюється цей процес."
         },
 		{
             "type": "patchouli:text",
-            "text": "First, we'll go over how enchantments are selected.$(p)Each enchantment has a $(5)Power Function$(), which controls what $(fpower) will make a specific level available.$(p)Once all the available enchantments are gathered, some are selected randomly based on their weights."
+            "text": "Спочатку ми розглянемо, як вибираються зачарування.$(p)Кожне зачарування має $(5)функцію потужности$(), яка контролює, яка $(фпотужність) зробить доступним певний рівень.$(p)Після того, як усі доступні зачарування зібрані, деякі з них вибираються випадковим чином на основі їхньої ваги."
         },
 		{
 			"type": "patchouli:text",
-			"text": "$(fpower) is calculated using the following steps:$(p)Intially, you have a $(bpower), which is the level you spent while enchanting.$(p)Then, $(quanta) and Rectification modify your $(bpower) to produce your $(fpower)."
+			"text": "$(фпотужність) обчислюється за допомогою таких кроків:$(p)Спочатку у вас є $(ппотужність), що є рівнем, який ви витратили під час зачарування.$(p)Потім, значення $(кванти) та Виправлення змінюють вашу $(ппотужність) щоб створити вашу $(фпотужність)."
 		},
 		{
 			"type": "patchouli:text",
-			"text": "The specifics of how each stat modifies your $(bpower) can be found in the $(l:apotheosis:enchanting/table/stats#quanta)$(quanta) and $(l:apotheosis:enchanting/table/stats#rectification)Rectification$() entries.$(p)Typically, a higher $(fpower) will get you access to higher level enchantments."
+			"text": "Деталі того, як $(ппотужність) змінюється під кожною характеристикою можна знайти в розділах $(l:apotheosis:enchanting/table/stats#quanta)$(кванти) та $(l:apotheosis:enchanting/table/stats#rectification)стабільности$().$(p)Зазвичай, вища $(фпотужність) дає вам доступ до чарів вищого рівня."
 		}
 	]
 }

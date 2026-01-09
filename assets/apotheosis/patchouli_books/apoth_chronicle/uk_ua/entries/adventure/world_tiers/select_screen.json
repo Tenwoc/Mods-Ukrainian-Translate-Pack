@@ -1,27 +1,27 @@
 {
-    "name": "Tier Selection",
+    "name": "Вибір рівня",
     "icon": "apotheosis:textures/gui/book/haven_icon.png",
     "category": "apotheosis:adventure/world_tiers",
     "sortnum": 2,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The $(9)World Tier Select Screen$() is your all-inclusive page for learning about and managing $(6)World Tiers$().$(p)It can be opened using the \"Open World Tier Select\" keybind, which defaults to CTRL+T."
+            "text": "$(9)Екран вибору світового рівня$() – це ваша повна сторінка для вивчення та керування $(6)світовими рівнями$().$(p)Його можна відкрити за допомогою комбінації клавіш \"Відкрити вибір світового рівня\", усталено CTRL+T."
         },
         {
             "type": "patchouli:text",
-            "title": "Activating Tiers",
-            "text": "Tiers do not activate automatically. When you unlock a new tier, you first need to use the \"Activate\" button to enable it.$(p)You can select a tier by clicking the Tier's symbol in the screen, and then activate it using the button."
+            "title": "Активація рівнів",
+            "text": "Рівні не активуються автоматично. Коли ви розблоковуєте новий рівень, спочатку потрібно скористатися кнопкою \"Активувати\", щоб увімкнути його.$(p)Ви можете вибрати рівень, натиснувши на символ рівня на екрані, а потім активувати його за допомогою кнопки."
         },
         {
             "type": "patchouli:text",
-            "title": "Tier Information",
-            "text": "To view information about a tier, select the tier, then press the \"Detailed Info\" button.$(p)This will show you the rarity and purity weights for that tier, as well as any Tier Augments that will be applied."
+            "title": "Інформація про рівні",
+            "text": "Щоб переглянути інформацію про рівень, виберіть його, а потім натисніть кнопку «Деталі».$(p)Тут ви побачите значення рідкості та чистоти для цього рівня, а також будь-які модифікатори рівня."
         },
         {
             "type": "patchouli:text",
-            "title": "Notes",
-            "text": "You may switch between Tiers at any time.$(p)In multiplayer, multiple players may have different Tiers without impacting eachother. Most content will resolve the Tier of the closest player."
+            "title": "Примітка",
+            "text": "Ви можете перемикатися між рівнями будь-коли.$(p)У багатокористувацькому режимі кілька гравців можуть мати різні рівні, не впливаючи один на одного. Більшість подій визначатиметься рівнем найближчого гравця."
         }
     ]
 }

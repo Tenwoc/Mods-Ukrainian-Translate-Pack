@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Spatial Cells
+  title: Просторові комірки
   icon: spatial_storage_cell_128
   position: 410
 categories:
@@ -15,7 +15,7 @@ item_ids:
 - ae2:spatial_cell_component_128
 ---
 
-# Spatial Storage Cells
+# Просторові комірки
 
   <Row>
     <ItemImage id="spatial_storage_cell_2" scale="4" />
@@ -25,15 +25,14 @@ item_ids:
     <ItemImage id="spatial_storage_cell_128" scale="4" />
   </Row>
 
-Spatial Storage Cells are used to [store physical volumes of space](../ae2-mechanics/spatial-io.md). 
-They are used in a <ItemLink id="spatial_io_port" />.
+Просторові комірки використовуються для [зберігання фізичних об'ємів простору](../ae2-mechanics/spatial-io.md). Вони використовуються в <a href="spatial_io_port.md"> порті просторового зберігання</a>.
 
-Unlike [Storage Cells](../items-blocks-machines/storage_cells.md), spatial cells cannot be reformatted.
+На відміну від [комірок зберіганняls](../items-blocks-machines/storage_cells.md), просторові комірки не можна переформатувати.
 
-Again, **YOU CANNOT RESET, REFORMAT, OR RESIZE A SPATIAL CELL AFTER IT HAS BEEN USED.** Make a new cell if you want to use different dimensions.
+Знову ж таки, **ВИ НЕ МОЖЕТЕ СКИНУТИ, ПЕРЕФОРМАТУВАТИ АБО ЗМІНИТИ РОЗМІР ПРОСТОРОВОЇ КОМІРКИ ПІСЛЯ ЇЇ ВИКОРИСТАННЯ.** Створіть нову комірку, якщо хочете використовувати інші розміри.
 
 
-## Recipes
+## Рецепти
 
   <Row>
     <Recipe id="network/cells/spatial_storage_cell_2_cubed_storage" />
@@ -43,9 +42,9 @@ Again, **YOU CANNOT RESET, REFORMAT, OR RESIZE A SPATIAL CELL AFTER IT HAS BEEN 
     <Recipe id="network/cells/spatial_storage_cell_128_cubed_storage" />
   </Row>
 
-# Housings
+# Корпуси
 
-Cells can be made with a spatial component and a housing or with the housing recipe around a spatial component:
+Комірки можна створювати з просторовим компонентом та корпусом або з рецептом корпусу навколо просторового компонента:
 
 <Row>
   <Recipe id="network/cells/spatial_storage_cell_2_cubed" />
@@ -53,14 +52,13 @@ Cells can be made with a spatial component and a housing or with the housing rec
   <Recipe id="network/cells/spatial_storage_cell_2_cubed_storage" />
 </Row>
 
-Housings by themselves are crafted like so:
+Самі корпуси створюються так:
 
   <RecipeFor id="item_cell_housing" />
 
-# Spatial Components
+# Просторові компоненти
 
-Spatial Components are the core of spatial storage cells. Each tier increases the dimensions of the volume that can be
-stored by factor of 8.
+Просторові компоненти є ядром комірок простору. Кожен рівень у 8 разів збільшує обсяги об'єму, який можна зберегти.
 
   <Row>
     <RecipeFor id="spatial_cell_component_2" />

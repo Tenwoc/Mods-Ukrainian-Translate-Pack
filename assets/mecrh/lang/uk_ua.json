@@ -1,0 +1,16 @@
+{
+  "entity.mecrh.egg_bomb": "Яйцева бомба",
+  "entity.mecrh.ender_chicken": "Могутня курка Енду",
+  "item.mecrh.ender_chicken_spawn_egg": "Яйце виклику курки Енду",
+  "item.mecrh.music_disc_chicken_of_chaos": "Платівка",
+  "item.mecrh.music_disc_chicken_of_chaos.desc": "FTB Team - Chicken of Chaos",
+  "item.mecrh.test_stick": "Test Stick",
+  "mecrh.message.wrong_forcefield_item": "Невідповідна зброя проти силового поля!",
+  "mecrh.subtitle.charge_start": "Курка заряджає",
+  "mecrh.subtitle.chicken_spin": "Курка починає розкручуватись",
+  "mecrh.subtitle.forcefield_off": "Силове поле дезактивується",
+  "mecrh.subtitle.forcefield_on": "Силове поле активується",
+  "mecrh.subtitle.laser_end": "Лазар втрачає силу",
+  "mecrh.subtitle.laser_loop": "Лазер випромінюється",
+  "mecrh.subtitle.laser_start": "Лазер набирає силу"
+}

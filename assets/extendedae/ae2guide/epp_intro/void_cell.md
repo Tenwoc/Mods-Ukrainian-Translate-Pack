@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Void Cell
+    title: ME Комірка знищення
     icon: extendedae:void_cell
 categories:
 - extended items
@@ -9,15 +9,14 @@ item_ids:
 - extendedae:void_cell
 ---
 
-# ME Void Cell
+# ME Комірка знищення
 
-A pocket condenser in the drive.
+Кишеньковий конденсатор для привода.
 
 <ItemImage id="extendedae:void_cell" scale="4"></ItemImage>
 
-Void cell needs to be partitioned on <ItemLink id="ae2:cell_workbench" /> before using. It will delete everything that
-matches its filter or condense them into <ItemLink id="ae2:matter_ball" />s or <ItemLink id="ae2:singularity" />s like <ItemLink id="ae2:condenser" />.
+Комірку знищення потрібно розгалузити через <ItemLink id="ae2:cell_workbench" /> перед використанням. Вона видалятиме усе, що відповідає її фільтру, або стискатиме це у <ItemLink id="ae2:matter_ball" /> або <ItemLink id="ae2:singularity" />, як це робить <ItemLink id="ae2:condenser" />.
 
-Right click it to open configuration GUI.
+Клацніть ПКМ, щоб відкрити інтерфейс конфігурації.
 
 ![GUI](../pic/void_cell.png)

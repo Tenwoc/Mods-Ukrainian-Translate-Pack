@@ -44,7 +44,7 @@
   "porting_lib.name_tag_distance.desc": "На якій відстані повинен знаходитися інший гравець, щоб побачити ваше ім'я.",
   "porting_lib.block_reach.desc": "Як далеко ви можете взаємодіяти з блоками, в блоках.",
   "porting_lib.step_height_addition.desc": "На скільки блоків ви можете піднятися без стрибків.",
-  "porting_lib.swim_speed.desc": "Як швидко ви плаваєте, відносно звичайної швидкості.",
+  "porting_lib.swim_speed.desc": "Як швидко ви плаваєте, відносно звичайної швидкости.",
 
   "zenith_attributes:draw_speed": "Швидкість зарядження",
   "zenith_attributes:draw_speed.desc": "Як швидко ви стріляєте з лука, арбалета чи тризубом.",
@@ -80,7 +80,7 @@
   "zenith_attributes:arrow_damage.desc": "Множник шкоди від стріл. Тризуби - це стріли.",
 
   "zenith_attributes:arrow_velocity": "Швидкість стріл",
-  "zenith_attributes:arrow_velocity.desc": "Множник швидкості для стріл. Шкода від стріл залежить від їх швидкості.",
+  "zenith_attributes:arrow_velocity.desc": "Множник швидкости для стріл. Шкода від стріл залежить від їх швидкости.",
 
   "zenith_attributes:experience_gained": "Отримано досвіду",
   "zenith_attributes:experience_gained.desc": "Множник кількості досвіду, який ви отримуєте за видобуток блоків і вбивство мобів.",
@@ -172,11 +172,11 @@
   "death.attack.zenith_attributes:cold_damage.player": "%1$s замерз на смерть під час бою з %2$s.",
 
   "comment_id": "Пекло тимчасової локалізації",
-  "porting_lib.swim_speed": "швидкості плавання",
+  "porting_lib.swim_speed": "швидкости плавання",
   "porting_lib.name_tag_distance": "відстані відображення імені",
   "porting_lib.entity_gravity": "гравітації",
   "porting_lib.step_height": "висоти кроку",
-  "porting_lib.swimSpeed": "швидкості плавання",
+  "porting_lib.swimSpeed": "швидкости плавання",
   "porting_lib.nameTagDistance": "відстані відображення імені",
   "porting_lib.entityГравітація": "гравітації",
   "porting_lib.stepHeight": "висоти кроку",

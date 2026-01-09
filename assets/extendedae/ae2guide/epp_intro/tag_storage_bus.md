@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Tag Storage Bus
+    title: ME Тегова шина зберігання
     icon: extendedae:tag_storage_bus
 categories:
 - extended devices
@@ -9,21 +9,21 @@ item_ids:
 - extendedae:tag_storage_bus
 ---
 
-# ME Tag Storage Bus
+# ME Тегова шина зберігання
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../structure/cable_tag_storage_bus.snbt"></ImportStructure>
 </GameScene>
 
-ME Tag Storage Bus is a <ItemLink id="ae2:storage_bus" /> that can be filtered by item or fluid tags and supports some basic logic operator.
+ME Тегова шина зберігання — це <ItemLink id="ae2:storage_bus" />, яку можна відфільтрувати за тегами предмета чи рідини та деякими базовими логічними операторами.
 
-Here are some examples:
+Ось кілька прикладів:
 
-- Only accept raw ore
+- Приймати лише необроблену руду
 
 c:raw_materials/*
 
-- Accept all ingots and gems
+- Приймати всі злитки та дорогоцінні камені
 
 c:ingots/* | c:gems/*
 

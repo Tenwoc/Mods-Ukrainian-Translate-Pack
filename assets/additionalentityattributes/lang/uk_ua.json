@@ -1,7 +1,7 @@
 {
-  "attribute.name.additionalentityattributes.generic.water_speed": "швидкості у воді",
+  "attribute.name.additionalentityattributes.generic.water_speed": "швидкости у воді",
   "attribute.name.additionalentityattributes.generic.water_speed.desc": "Збільшує швидкість пересування у воді",
-  "attribute.name.additionalentityattributes.generic.lava_speed": "швидкості у лаві",
+  "attribute.name.additionalentityattributes.generic.lava_speed": "швидкости у лаві",
   "attribute.name.additionalentityattributes.generic.lava_speed.desc": "Збільшує швидкість пересування у лаві",
   "attribute.name.additionalentityattributes.generic.lung_capacity": "об'єму легень",
   "attribute.name.additionalentityattributes.generic.lung_capacity.desc": "Збільшує здатність затримувати дихання",

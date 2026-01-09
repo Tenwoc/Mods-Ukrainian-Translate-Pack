@@ -9,7 +9,7 @@
   "ftbsbc.jade.input": "Вхід",
   "ftbsbc.jade.processing": "Обробка: %s/%s",
   "ftbsbc.jade.waiting": "Очікування на вхід: %s тиків",
-  "ftbsbc.tooltip.auto-hammers": "Автоматично подрібнює матеріали за допомогою молота, відповідно до його швидкості",
+  "ftbsbc.tooltip.auto-hammers": "Автоматично подрібнює матеріали за допомогою молота, відповідно до його швидкости",
   "ftbsbc.tooltip.fireplow": "Утримуйте ПКМ, дивлячись на камінь, щоб створити лаву",
   "ftbsbc.tooltip.hammers": "Подрібнює матеріали до їхніх складових компонентів",
   "item.ftbsbc.diamond_hammer": "Діамантовий молот",

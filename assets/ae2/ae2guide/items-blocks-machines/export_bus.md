@@ -1,60 +1,55 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: ME Export Bus
+  title: МЕ Шина експорту
   icon: export_bus
   position: 220
 categories:
-- devices
+  - devices
 item_ids:
-- ae2:export_bus
+  - ae2:export_bus
 ---
 
-# The Export Bus
+# Шина експорту
 
 <GameScene zoom="8" background="transparent">
 <ImportStructure src="../assets/blocks/export_bus.snbt" />
 </GameScene>
 
-The export bus pulls items and fluids (and whatever else, given addons) from [network storage](../ae2-mechanics/import-export-storage.md)
-and pushes them into  the inventory it's touching.
+Шина експорту бере предмети та рідини (і все інше, за наявності аддонів) з [мережевого сховища](../ae2-mechanics/import-export-storage.md) та вводить їх у містило, якого вона торкається.
 
-For purposes of lag reduction, if the export bus has not exported something recently, it goes into a sort of
-"sleep mode" where it operates slowly, and wakes up and accelerates to full speed (4 operations per second) when it successfully exports something.
+Для оптимізації, якщо шина експорту нещодавно нічого не експортувала, вона переходить у своєрідний «режим сну», де працює повільно, а прокидається та розганяється до повної швидкості (4 операції за секунду), коли успішно експортує щось.
 
-They are [cable subparts](../ae2-mechanics/cable-subparts.md).
+Шини є [кабельними компонентами](../ae2-mechanics/cable-subparts.md).
 
-## Filtering
+## Фільтрація
 
-By default the bus will not export anything. Items inserted into its filter slots will act as a whitelist,
-allowing those specific items to be exported.
+Усталено шина експортуватиме все, до чого має доступ. Речі, вставлені в її слоти фільтрів, діятимуть як білий список, дозволяючи експортувати лише їх.
 
-Items and fluids can be dragged into the slots from JEI/REI even if you don't actually have any of that item.
+Предмети та рідини можна перетягувати в слоти з JEI/REI, навіть якщо у вас насправді немає жодного з цих елементів.
 
-Right-click with a fluid container (like a bucket or fluid tank) to set that fluid as a filter instead of the bucket or tank item.
+Клацніть ПКМ за допомогою місткости з рідиною (наприклад, відром або резервуаром), щоб встановити цю рідину як фільтр замість конкретно предмета відра або резервуара.
 
-## Upgrades
+## Модифікатори
 
-The import bus supports the following [upgrades](upgrade_cards.md):
+Шина експорту підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="capacity_card" /> increases the amount of filter slots, and brings up a setting on what order to export what is filtered.
-*   <ItemLink id="speed_card" /> increases the amount of stuff moved per operation
-*   <ItemLink id="fuzzy_card" /> lets the bus filter by damage level and/or ignore item NBT
-*   <ItemLink id="crafting_card" /> lets the bus send crafting requests to your [autocrafting](../ae2-mechanics/autocrafting.md)
-    system to get the items it desires. Can be set to pull the items from storage if possible, or to always make a request
-    for a new item to be crafted.
-*   <ItemLink id="redstone_card" /> adds redstone control, allowing active on high signal, low signal, or once per pulse
+- <ItemLink id="capacity_card" /> збільшує кількість слотів для фільтрування, а також додає налаштування того, в якому порядку опрацьовувати відфільтровані речі.
+- <ItemLink id="speed_card" /> збільшує кількість речей, які можна перемістити за операцію
+- <ItemLink id="fuzzy_card" /> дозволяє шині фільтрувати за рівнем пошкодження та/або ігнорувати будь-які NBT предметів
+- <ItemLink id="crafting_card" /> дозволяє шині відправляти виробничі запити до вашої системи [автовироблення](../ae2-mechanics/autocrafting.md) для отримання речей у фільтрі. Можна встановити на витягання зі сховища та автовироблення, або тільки автовироблення.
+- <ItemLink id="redstone_card" /> додає керування редстоуном, що дозволяє роботу за високим та низьким сигналами або одноразово за імпульс
 
-## Speeds
+## Швидкості
 
-| Acceleration Cards | Items Moved per Operation |
-|:-------------------|:--------------------------|
-| 0                  | 1                         |
-| 1                  | 8                         |
-| 2                  | 32                        |
-| 3                  | 64                        |
-| 4                  | 96                        |
+| Карток прискорення | Переміщених речей за операцію |
+| :----------------- | :---------------------------- |
+| 0                  | 1                             |
+| 1                  | 8                             |
+| 2                  | 32                            |
+| 3                  | 64                            |
+| 4                  | 96                            |
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="import_bus" />

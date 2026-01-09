@@ -1,5 +1,5 @@
 {
-    "name": "Boon of the Earth",
+    "name": "Благо Землі",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
 	"flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(2)Boon of the Earth$() is a Masterwork enchantment for pickaxes.$(p)When mining simple stones, there is a chance for an ore block to be dropped."
+            "text": "$(2)Благо Землі$() це майстерні чари для кайл.$(p)Під час видобутку простого каміння є шанс отримати блок руди."
         }
 	]
 }

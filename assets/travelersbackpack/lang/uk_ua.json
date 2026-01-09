@@ -250,7 +250,7 @@
   "travelersbackpack.configuration.inventorySlotCount": "Кількість слотів інвентарю",
   "travelersbackpack.configuration.upgradeSlotCount": "Кількість слотів для оновлень",
   "travelersbackpack.configuration.toolSlotCount": "Кількість слотів для інструментів",
-  "travelersbackpack.configuration.tankCapacity": "Ємність резервуара",
+  "travelersbackpack.configuration.tankCapacity": "Місткість резервуара",
   "travelersbackpack.configuration.rightClickEquip": "ПКМ для оснащення",
   "travelersbackpack.configuration.rightClickUnequip": "ПКМ для зняття",
   "travelersbackpack.configuration.allowOnlyEquippedBackpack": "Дозволити тільки оснащений наплічник",

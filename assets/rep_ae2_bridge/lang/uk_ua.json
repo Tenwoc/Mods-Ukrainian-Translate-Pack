@@ -1,0 +1,13 @@
+{
+  "item.rep_ae2_bridge.earth": "Матерія Землі",
+  "item.rep_ae2_bridge.nether": "Матерія Незеру",
+  "item.rep_ae2_bridge.organic": "Матерія Флори",
+  "item.rep_ae2_bridge.ender": "Матерія Енду",
+  "item.rep_ae2_bridge.metallic": "Матерія Металу",
+  "item.rep_ae2_bridge.precious": "Матерія Коштовностей",
+  "item.rep_ae2_bridge.living": "Матерія Фауни",
+  "item.rep_ae2_bridge.quantum": "Матерія Кванту",
+  "block.rep_ae2_bridge.rep_ae2_bridge": "Міст AE2-Replication",
+  "block.rep_ae2_bridge.repae2bridge": "RepAE2-міст",
+  "item.rep_ae2_bridge.repae2bridge": "RepAE2-міст"
+}

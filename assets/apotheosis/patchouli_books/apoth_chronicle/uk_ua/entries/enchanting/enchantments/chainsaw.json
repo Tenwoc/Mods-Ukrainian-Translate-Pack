@@ -1,5 +1,5 @@
 {
-    "name": "Chainsaw",
+    "name": "Ланцюгова пила",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
 	"flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(2)Chainsaw$() is a Masterwork enchantment that can be applied to axes.$(p)When breaking a tree, the entire tree will be harvested.$(p)This uses durability from the axe."
+            "text": "$(2)Ланцюгова пила$() – це майстерні чари для сокир.$(p)Під час рубання дерева буде зрубано все дерево.$(p)Кожний добутий таким чином блок впливає на міцність сокири."
         }
 	]
 }

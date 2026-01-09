@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Spatial IO Port
+  title: Порт просторового зберігання
   icon: spatial_io_port
   position: 210
 categories:
@@ -10,15 +10,14 @@ item_ids:
 - ae2:spatial_io_port
 ---
 
-# The Spatial IO Port
+# Порт просторового зберігання
 
 <BlockImage id="spatial_io_port" p:powered="true" scale="8" />
 
-The Spatial IO Port is used in [spatial IO](../ae2-mechanics/spatial-io.md) to hold the [spatial cell](spatial_cells.md)
-and control the spatial IO operation.
+Порт просторового зберігання використовується в [просторовому зберіганні](../ae2-mechanics/spatial-io.md) для перезапису [просторових комірок](spatial_cells.md) та керування операцією просторового вводу-виводу.
 
-The cell can be inserted and extracted by any item logistics like hoppers or ae2 busses, if you want to automate it.
+Комірку можна вставляти та витягувати будь-якою предметною логістикою, такою як лійки або шини AE2, якщо ви хочете автоматизувати це.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="spatial_io_port" />

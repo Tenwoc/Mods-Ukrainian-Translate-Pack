@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: aae_intro/aae_intro-index.md
-  title: Reaction Chamber
+  title: Реакційна камера
   icon: advanced_ae:reaction_chamber
 categories:
   - advanced devices
@@ -9,44 +9,26 @@ item_ids:
   - advanced_ae:reaction_chamber
 ---
 
-# Reaction Chamber
+# Реакційна камера
 
 <BlockImage id="advanced_ae:reaction_chamber" scale="4"></BlockImage>
 
-The reaction chamber is capable of accelerating chemical reactions by using a catalyst fluid and a great amount of
-power. In doing so, reactions that naturally occur can be forced to happen inside the chamber, most of the time with
-more efficient results, due to the controlled environment.
+Реакційна камера здатна прискорювати хімічні реакції за допомогою каталізаторної рідини та великої кількості енергії. При цьому реакції, які відбуваються природним чином, можуть бути примусово виконані всередині камери, здебільшого з більш ефективними результатами завдяки контрольованому середовищу.
 
-## Powering the Chamber
+## Живлення камери
 
-The reaction chamber can be quite power hungry when sped up. Using Acceleration Cards increases the rate at which the
-total power cost is consumed, increasing the required power per tick. When using power straight through the ME system,
-the chamber will try to draw the amount required for a tick of processing and if this fails you might experience
-flickering, when the power of the system toggles on and off. To remedy this effect, the AE system needs to be equipped
-with energy buffers in the form of <ItemLink id="ae2:dense_energy_cell" />s. The Chamber is also capable of pulling
-energy directly from energy cells (from Applied Flux) if they are available in the drives, to recharge itself and craft
-without consuming from ME power buffers. Reducing the amount of accelerations cards is also an option if there is no
-more power generation available at the moment. To be able to power it properly, there are a few options.
-* Note: Pattern Providers or Interfaces in part form (attached to a cable) do not provide a grid connection. To be able
-to power the chamber with those you will also need to connect a fluix cable directly to it.
+Реакційна камера може бути досить вимогливою до енергії при прискоренні. Використання карт прискорення збільшує швидкість споживання загальної енергії, збільшуючи необхідну потужність за такт. При використанні живлення безпосередньо через систему МЕ камера намагатиметься витягти кількість, необхідну на такт обробки, і якщо це не вдасться, ви можете спостерігати мерехтіння, коли живлення системи вмикається та вимикається. Щоб виправити цей ефект, систему AE необхідно обладнати енергетичними буферами, наприклад: <ItemLink id="ae2:dense_energy_cell" />. Камера також здатна отримувати енергію безпосередньо з енергетичних комірок (від Applied Flux), якщо вони доступні в приводах, для підзарядки та обробки без споживання енергії з буфера МЕ. Зменшення кількості карт прискорення також є варіантом, якщо наразі більше немає доступного джерела живлення. Щоб мати змогу належним чином живити її, є кілька варіантів.
 
-### Full Block Pattern Provider
+- Примітка: Постачальники шаблонів або інтерфейси у кабельній формі не забезпечують підключення до мережі. Щоб мати змогу живити камеру за допомогою них, вам також потрібно буде під'єднати флюїксовий кабель безпосередньо до неї.
 
-A full block pattern provider is capable of connecting the Reaction Chamber directly to the AE2 grid, allowing power to
-be extracted when needed and removed the needed for the chamber's internal buffer. If the total power stored in the grid
-is lower than the required power per tick, progress will be slowed down and a warning will be displayed on the screen.
-For this method it is recommended that the grid is connected to a few <ItemLink id="ae2:dense_energy_cell" />s.
+### Цільний постачальник шаблонів
 
-### External Power
+Постачальник шаблонів у вигляді блока здатний підключати реакційну камеру безпосередньо до мережі AE2, що дозволяє витягувати енергію, коли це необхідно, та видаляти необхідну для внутрішнього буфера камери. Якщо загальна енергія, що зберігається в мережі, нижча за необхідну потужність за такт, прогрес буде сповільнений, і на екрані з'явиться попередження. В такому випадку рекомендується додати у мережу кілька щільних енергетичних комірок.
 
-An alternative way of powering the Reaction Chamber is through the use of external power. Any source that can push
-energy should be enough to fill its buffers and start processing. If the provided power is being received at an
-insufficient rate, a warning will be displayed in the chamber's screen.
+### Зовнішнє живлення
 
-### Induction Cards (Extra Mod Required: Applied Flux)
+Альтернативним способом живлення реакційної камери є використання зовнішнього живлення. Будь-яке джерело, здатне видавати енергію, має бути достатнім для заповнення буферів та початку обробки. Якщо надана енергія надходить з недостатньою швидкістю, на екрані камери з'явиться попередження.
 
-Induction Cards can be inserted in cable part Pattern Providers or directional Pattern Providers, allowing them to
-export power stored in Energy Cells. As long as it is set up properly, it should fill the energy storage of the Reaction
-Chamber, allowing it to work. Do note, however, that Induction Cards, as well as some other AE2 components, have a
-ramp-up timer, starting slow and increasing speed with time. This means that the crafting speed won't be maxed at first
-due to lack of stored power, but as the crafting continues, the Induction Card should be able to provide enough power.
+### Індукційні карти (потрібен аддон: Applied Flux)
+
+Індукційні карти можна вставляти в кабельні або спрямовані постачальники шаблонів, що дозволяє їм експортувати енергію, що зберігається в енергетичних комірках. Якщо все налаштовано правильно, вони повинні заповнювати буфер енергії реакційної камери, дозволяючи їй працювати. Однак зверніть увагу, що індукційні карти, як і деякі інші компоненти AE2, мають таймер нарощування, який починається повільно та збільшує швидкість з часом. Це означає, що швидкість крафту спочатку не буде максимальною через брак накопиченої енергії, але в міру продовження крафту індукційна карта повинна бути здатною забезпечити достатню потужність.

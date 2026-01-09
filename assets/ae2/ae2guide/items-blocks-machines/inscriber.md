@@ -1,29 +1,24 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Inscriber
+  title: Штампувальний прес
   icon: inscriber
   position: 310
 categories:
-- machines
+  - machines
 item_ids:
-- ae2:inscriber
+  - ae2:inscriber
 ---
 
-# The Inscriber
+# Штампувальний прес
 
 <BlockImage id="inscriber" scale="8" />
 
-The inscriber is used to inscribe circuits and [processors](processors.md) using [presses](presses.md), and to crush various items into dust.
-It can accept either AE2's power (AE) or Fabric/Forge Energy (E/FE). It can be sided, such that inserting items from different sides
-inserts them into different slots in its inventory. To facilitate this, it can be rotated with a <ItemLink id="certus_quartz_wrench" />.
-It can also be set to push the results of crafts to adjacent inventories.
+Штампувальний прес використовується для штампування схем та [процесорів](processors.md) за допомогою [штампів](presses.md), а також для подрібнення різних предметів на пил. Він може приймати як енергію AE2 (AE), так і Fabric/Forge (E/FE). Він може працювати між гранями, таким чином, отримуючи предмети з різних боків, вони вставляються в різні слоти в його інвентарі. Для полегшення цього його можна обертати, використовуючи <ItemLink id="certus_quartz_wrench" />. Його також можна налаштувати на перенесення результатів вироблення до прилеглих містил.
 
-The size of the input buffer can be adjusted. For example, if you want to feed from one inventory into a big array of inscribers,
-you want a small buffer so that the materials are distributed between the inscribers more optimally (instead of the first
-inscriber filling up to 64 and the rest being empty).
+Розмір вхідного буфера можна регулювати. Наприклад, якщо ви хочете подавати предмети з одного місця у великий масив штампувальних пресів, вам потрібен невеликий буфер, щоб матеріали розподілялися між пресами пристроями більш оптимально (замість того, щоб перший штампувальний прес заповнювався до 64, а решта були порожніми).
 
-The 4 circuit presses are used to craft [processors](processors.md)
+4 штампа схем використовуються в ньому для створення [процесорів](processors.md)
 
 <Row>
   <ItemImage id="silicon_press" scale="4" />
@@ -35,49 +30,47 @@ The 4 circuit presses are used to craft [processors](processors.md)
   <ItemImage id="engineering_processor_press" scale="4" />
 </Row>
 
-While the name press can be used to name blocks similar to an anvil, useful for labeling things in a <ItemLink id="pattern_access_terminal" />.
+На відміну від попередніх, штамп іменування можна використовувати для перейменування блоків, подібно до ковадла, що корисно для маркування записів, які відображає <ItemLink id="pattern_access_terminal" />.
 
 <ItemImage id="name_press" scale="4" />
 
-## Settings
+## Налаштування
 
-* The inscriber can be set to be sided (as explained below) or allow inputs to any slot from any side, with an internal filter deciding
-    what goes where. While in non-sided mode, items cannot be extracted from the top and bottom slots.
-* The inscriber can be set to push items into adjacent inventories.
-* The size of the input buffer can be adjusted, the large option is for a standalone inscriber you feed manually, the
-small option is to make large parallelized setups more viable.
+- Штампувальний прес можна налаштувати як односторонній (як пояснено нижче) або дозволити введення в будь-який слот з будь-якого боку, з внутрішнім фільтром, який вирішує, що куди йде. У неодносторонньому режимі предмети не можна витягувати з верхнього та нижнього слотів.
+- Штампувальний прес можна налаштувати так, щоб він виштовхував результат в прилеглі містила.
+- Розмір вхідного буфера можна налаштувати, великий варіант призначений для автономного штампувального пристрою, який ви завантажуєте вручну, малий варіант — для того, щоб зробити великі паралельні устави більш життєздатними.
 
-## The GUI And Sidedness
+## Інтерфейс та односторонність
 
-When in sided mode, the inscriber filters what goes where by which side you insert or extract from.
+У односторонньому режимі штампувальний прес фільтрує, що куди йде, за тим, з якого боку ви вставляєте або витягуєте.
 
 ![Inscriber GUI](../assets/diagrams/inscriber_gui.png) ![Inscriber Sides](../assets/diagrams/inscriber_sides.png)
 
-A. **Top Input** accessed via the top side of the inscriber (items can be both pushed to and pulled from this slot)
+A. **Верхній вхід**, доступ до якого здійснюється через верхню сторону преса (предмети можна як вставляти, так і витягувати з цього слота)
 
-B. **Center Input** inserted to via the left, right, front, and rear sides of the inscriber (items can only be pushed to this slot, not pulled from)
+B. **Центральний вхід**, заповнюється через ліву, праву, передню та задню сторони преса (предмети можна лише вставляти, а не витягувати)
 
-C. **Bottom Input** accessed via the bottom side of the inscriber (items can be both pushed to and pulled from this slot)
+C. **Нижній вхід**, доступ до якого здійснюється через нижню сторону преса (предмети можна як вставляти, так і витягувати з цього слота)
 
-D. **Output** pulled from via the left, right, front, and rear sides of the inscriber (items can only be pulled from this slot, not pushed to)
+D. **Вихід**, спорожнюється через ліву, праву, передню та задню сторони преса (предмети можна лише вставляти, а не вставляти)
 
-## Simple Automation
+## Проста автоматизація
 
-As an example, the sidedness and rotateability mean you can semi-automate inscribers like so:
+Як приклад, односторонність та можливість обертання дають вам можливість напівавтоматизувати прес ось так:
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/inscriber_hopper_automation.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Or just pipe into and out of the inscriber when in non-sided mode.
+Або просто вводити та виводити предмети зі штампувального преса в режимі без розділення сторін.
 
-## Upgrades
+## Модифікатори
 
-The inscriber supports the following [upgrades](upgrade_cards.md):
+Штампувальний прес підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="speed_card" />
+- <ItemLink id="speed_card" />
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="inscriber" />

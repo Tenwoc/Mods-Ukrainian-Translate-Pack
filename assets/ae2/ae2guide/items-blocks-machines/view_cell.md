@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: View Cell
+  title: Комірка перегляду
   icon: view_cell
   position: 410
 categories:
@@ -10,19 +10,17 @@ item_ids:
 - ae2:view_cell
 ---
 
-# View Cell
+# Комірка перегляду
 
 <ItemImage id="view_cell" scale="2" />
 
-View Cells are used to filter the display of [terminals](terminals.md). You partition them in a <ItemLink id="cell_workbench" />.
+Комірки перегляду використовуються для фільтрації відображення [терміналів](terminals.md). Налаштувати їх можна, використовуючи <ItemLink id="cell_workbench" />.
 
-For example, say you want a terminal to only display a selection of stone building materials. Partition the view cell to those
-materials and place it in a terminal, and only those items will be shown.
+Наприклад, ви хочете, щоб термінал відображав лише вибірку кам'яних будівельних матеріалів. Розгалузьте комірку перегляду на ці матеріали та помістіть її в термінал, щоб відображати лише ці предмети.
 
-View cells are additive, if you have a view cell for oak planks and a view cell for cobblestone, putting both in will show
-both planks and cobblestone.
+Комірки перегляду є адитивними. Якщо у вас є комірка перегляду для дубових дощок та комірка перегляду для кругляка, додавання обох відображатиме і дошки, і кругляк.
 
-## Recipe
+## Рецепт
 
 <Recipe id="network/cells/view_cell_storage" />
 

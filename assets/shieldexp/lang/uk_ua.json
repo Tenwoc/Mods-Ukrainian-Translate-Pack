@@ -8,7 +8,7 @@
   "shieldexp.tooltip.attribute.speed_factor_fast": " Швидкий рух",
   "shieldexp.tooltip.attribute.parry_damage": " парирування %s шкоди",
   "shieldexp.tooltip.attribute.parry_ticks": " %sс вікна парирування",
-  "shieldexp.tooltip.attribute.stamina": " %s витривалості",
+  "shieldexp.tooltip.attribute.stamina": " %s витривалости",
   "shieldexp.tooltip.attribute.blast_resistance": " %s захисту від вибухів",
 
   "item.shieldexp.wooden_shield": "Дерев'яний щит",

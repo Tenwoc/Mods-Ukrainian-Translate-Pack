@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: aae_intro/aae_intro-index.md
-  title: Quantum Computer
+  title: Квантовий комп'ютер
   icon: advanced_ae:quantum_core
 categories:
   - advanced devices
@@ -16,87 +16,75 @@ item_ids:
   - advanced_ae:data_entangler
 ---
 
-# Quantum Computer
+# Квантовий комп'ютер
 
-The quantum computer is a special kind of crafting computer. It is capable of running an unlimited amount of crafting
-requests, as long as it has enough crafting storage.
+Квантовий комп'ютер — це особливий вид виробничого комп'ютера. Він здатний виконувати необмежену кількість запитів вироблення, поки має достатню вільну місткість вироблення.
 
 <GameScene zoom="2" background="transparent">
   <ImportStructure src="../structure/quantum_computer_multiblock.snbt"></ImportStructure>
 </GameScene>
 
-## Quantum Core
+## Квантове ядро
 
 <BlockImage id="advanced_ae:quantum_core" p:powered="true" p:formed="true" scale="4"></BlockImage>
 
-The Quantum core is the heart of the Quantum Computer. It has 256M of crafting storage and 8 co-processor threads by
-itself. It's the only block that can create a formed quantum computer by itself and provide all the benefits of a
-quantum computer. However, if used to create a multiblock, a much more powerful computer can be created. When used as a
-standalone computer, power must be provided through the Up or Down sides, where the connectors are.
+Ядро квантового комп'ютера — це серце квантового комп'ютера. Воно має 256М місткості обробки та 8 потоків спільної обробки. Сам по собі цей блок вже формує собою квантовий комп'ютер та забезпечити всі його переваги. Однак, якщо його використовувати для створення конструкції, можна створити набагато потужніший комп'ютер. При використанні як автономного комп'ютера живлення має подаватись через верхню або нижню сторони, де знаходяться роз'єми.
 
-## Quantum Storages
+## Квантові сховища
 
 <Row gap="20">
 <BlockImage id="advanced_ae:quantum_storage_128" scale="4"></BlockImage>
 <BlockImage id="advanced_ae:quantum_storage_256" scale="4"></BlockImage>
 </Row>
 
-These blocks expand the crafting storage of the quantum core. They effectively increase the amount of concurrent tasks
-the quantum computer is able to run. There are two variations, with 128M and 256M of capacity.
+Ці блоки розширюють місткість обробки квантового ядра. Вони ефективно збільшують кількість одночасних завдань, які квантовий комп'ютер здатний виконувати. Існує два варіанти: з місткістю 128М та 256М.
 
-## Quantum Data Entangler
+## Квантовий заплутувач даних
 
 <BlockImage id="advanced_ae:data_entangler" scale="4"></BlockImage>
 
-Data Entanglers are a special block that affect all storage blocks present in the multi-block. They enable storage
-blocks to store data in several dimensions, effectively multiplying their storage by 4. Only one of these can be placed
-in each quantum computer multiblock.
+Заплутувач даних — це спеціальний блок, який впливає на всі сховища для вироблення, присутні в конструкції. Він дозволяє блокам сховища зберігати дані в кількох вимірах, фактично помножуючи їхню місткість на 4. В одному комп'ютері можна розмістити не більше одного такого блока.
 
-## Quantum Accelerator
+## Прискорювач квантового комп'ютера
 
 <BlockImage id="advanced_ae:quantum_accelerator" scale="4"></BlockImage>
 
-Quantum accelerators add 8 co-processors to the Quantum Computer multiblock. It's important to note that all crafting
-patterns being run by the quantum computer are able to share all co-processors, so it's probably a good idea to invest
-in a great amount of these.
+Квантовий прискорювач додає 8 потоків спільної обробки до конструкції квантового комп'ютера. Важливо зазначити, що всі завдання вироблення, що виконуються квантовим комп'ютером, можуть спільно використовувати всі потоки, тому, ймовірно, гарною ідеєю буде інвестувати у велику їх кількість.
 
-## Quantum Multi-threader
+## Багатопотоковий процесор квантового комп'ютера
 
 <BlockImage id="advanced_ae:quantum_multi_threader" scale="4"></BlockImage>
 
-Similarly to the Data Entanglers, multi-threaders enable accelerators to run extra threads in separate dimensions,
-multiplying their co-processing power by 4. Only one of these can be placed in each quantum computer multiblock.
+Подібно до заплутувача даних, багатопотоковий процесор дозволяє прискорювачам запускати додаткові потоки в окремих вимірах, помножуючи їхню потужність спільної обробки на 4. В одному комп'ютері можна розмістити не більше одного такого блока.
 
-## Quantum Structure
+## Квантова структура
 
 <Row gap="20">
 <BlockImage id="advanced_ae:quantum_structure" scale="4"></BlockImage>
 <BlockImage id="advanced_ae:quantum_structure" p:formed="true" p:powered="true" scale="4"></BlockImage>
 </Row>
 
-These blocks provide the framing of the quantum computer. They are used as a building block for the quantum computer and
-connect everything together.
+Ці блоки являють собою каркас квантового комп'ютера. Вони використовуються як будівельний блок для квантового комп'ютера та з'єднують все разом.
 
-## The multiblock
+## Багатоблокова конструкція
 
-To create a multiblock quantum computer, some rules must be followed:
-- The maximum size is 7x7x7 (external dimensions);
-- No empty spaces can be present inside the multiblock. They can be filled with <ItemLink id="advanced_ae:quantum_unit" />
-for no additional benefits;
-- Exactly one <ItemLink id="advanced_ae:quantum_core" />;
-- At most one <ItemLink id="advanced_ae:data_entangler" />;
-- At most one <ItemLink id="advanced_ae:quantum_multi_threader" />;
-- All blocks on the outside layer must be <ItemLink id="advanced_ae:quantum_structure" />;
-- No block on the inside can be <ItemLink id="advanced_ae:quantum_structure" />.
+Для створення конструкції квантового комп'ютера необхідно дотримуватися деяких правил:
+- Максимальний розмір – 7x7x7 (ззовні);
+- Усередині мультиблока не може бути порожніх місць. Їх можна заповнити, використовуючи <ItemLink id="advanced_ae:quantum_unit" />, але не отримуючи від цього додаткових переваг;
+- Рівно одне <ItemLink id="advanced_ae:quantum_core" />;
+- Не більше ніж один <ItemLink id="advanced_ae:data_entangler" />;
+- Не більше ніж один <ItemLink id="advanced_ae:quantum_multi_threader" />;
+- Усі блоки на зовнішньому шарі повинні бути цим: <ItemLink id="advanced_ae:quantum_structure" />;
+- <ItemLink id="advanced_ae:quantum_structure" /> не повинен знаходитися усередині конструкції.
 
-## Server Configs
+## Конфігурації сервера
 
-Several values can be tweaked by server configs. Such as:
-- Maximum multiblock size;
-- Co-processors in each Quantum Accelerator;
-- Maximum amount of Quantum Multi-Threaders;
-- Multi-Threader thread multiplication value;
-- Maximum amount of Data Entanglers;
-- Data Entangler storage multiplication value;
+Кілька значень можна налаштувати за допомогою конфігурацій сервера. Наприклад:
+- Максимальний розмір конструкції;
+- Кількість потоків спільної обробки в кожному квантовому прискорювачі;
+- Максимальна кількість багатопотокових процесорів квантового комп'ютера;
+- Значення множення потоків багатопотокового процесора;
+- Максимальна кількість квантових заплутувачів даних;
+- Значення множення місткості заплутувача даних;
 
-The limits for your instance can be checked using the item's tooltips.
+Обмеження для вашого модпака можна перевірити за допомогою підказок на відповідних блоках.

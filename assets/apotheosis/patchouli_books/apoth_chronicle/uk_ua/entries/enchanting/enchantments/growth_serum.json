@@ -1,5 +1,5 @@
 {
-    "name": "Growth Serum",
+    "name": "Сироватка росту",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
 	"flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(2)Growth Serum$() is a Masterwork enchantment for shears.$(p)It makes sheep have a 50% chance to immediately regrow their wool."
+            "text": "$(2)Сироватка росту$() це майстерні чари для ножиць.$(p)Вони дають вівцям 50% шанс негайно відновити свою вовну."
         }
 	]
 }

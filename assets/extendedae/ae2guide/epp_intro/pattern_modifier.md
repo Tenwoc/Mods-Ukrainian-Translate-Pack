@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: Pattern Modifier
+    title: Модифікатор шаблонів
     icon: extendedae:pattern_modifier
 categories:
 - extended items
@@ -9,64 +9,63 @@ item_ids:
 - extendedae:pattern_modifier
 ---
 
-# Pattern Modifier
+# Модифікатор шаблонів
 
-Pattern Modifier is a tool for bulk pattern modification.
+Модифікатор шаблонів — це інструмент для масової модифікації шаблонів.
 
 <ItemImage id="extendedae:pattern_modifier" scale="4"></ItemImage>
 
-Right click it to open its GUI.
+Клацніть ПКМ із ним в руках, щоб відкрити його інтерфейс.
 
-## Multiply Mode
+## Режим множення
 
-You can multiply/divide processing pattern's input and output amount by x by clicking the corresponding button. 
+Ви можете помножити/поділити вхідні та вихідні ресурси шаблону обробки на ціле значення, натиснувши відповідну кнопку.
 
 ![PM](../pic/pm.png)
 
-Origin Pattern:
+Початковий шаблон:
 
 ![PM1](../pic/pm1.png)
 
-After x10:
+Після примноження на 10:
 
 ![PM2](../pic/pm2.png)
 
-It also can clear all patterns contents and turn them into blank patterns by clicking the Clear button.
+Також можна очистити весь вміст шаблона і перетворити його на порожній, натиснувши кнопку «Очистити».
 
-### Notes:
+### Примітки:
 
- - The division button only works when its amount is divisible. For example ÷2 button won't work when pattern requires 3x
-cobblestones as input, because 3÷2 is 1.5.
+- Кнопка ділення працює лише тоді, коли значення можна поділити. Наприклад, кнопка ÷2 не працюватиме, якщо шаблон потрібно 3 кругляки як складник, оскільки 3÷2 дорівнює 1,5.
 
- - The multiplication button has a cap(999999). It can't make single ingredient's amount over this number.
+- Кнопка множення має обмеження: 999999. Вона не може зробити кількість одного складника більшою за це число.
 
-## Replace Mode
+## Режим заміни
 
-Replace pattern's certain input and output ingredient with the other item.
+Дозволяє замінювати певну вхідну та вихідну річ шаблона на іншу.
 
 ![PM3](../pic/pm4.png)
 
-The slot A is what will be replaced and slot B is what the target will be replaced with.
+Слот A - це те, що буде замінено, а слот B - це те, чим буде замінено А.
 
-For example, the following setting will replace the plank with coal.
+Наприклад, наступне налаштування замінить дошку вугіллям.
 
 ![PM4](../pic/pm6.png)
 
 ![PM5](../pic/pm5.png)
 
-Click the Replace button to perform the replacement.
+Натисніть кнопку «Замінити», щоб виконати заміну.
 
 ![PM6](../pic/pm7.png)
 
-## Property Mode
+## Режим властивостей
 
-Modify crafting pattern's Substitutions and Fluid Substitutions mode.
+Дозволяє змінювати режими підставляння предметів та рідин для шаблонів.
 
 ![PM8](../pic/pm8.png)
 
-## Clone Mode
+## Режим клонування
 
-You make copy any give pattern in this mode.
+У цьому режимі ви можете коміювати будь-який заданий шаблон.
 
 ![PM7](../pic/pm3.png)
 

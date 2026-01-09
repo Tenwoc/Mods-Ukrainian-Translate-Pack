@@ -53,7 +53,7 @@
   "ftbessentials.nick.reset": "Нік скинуто!",
   "ftbessentials.nick.changed": "Нік змінено на '%s'",
   "ftbessentials.duration.indefinite": "до подальшого повідомлення",
-  "ftbessentials.duration.expected_format": "Некоректний формат тривалості. Очікується: <number>[smhdw]",
+  "ftbessentials.duration.expected_format": "Некоректний формат тривалости. Очікується: <number>[smhdw]",
   "ftbessentials.speed_boost": "Прискорення для %s (%s) = %s%%",
   "ftbessentials.speed_boost.none": "Немає прискорення для %s",
   "ftbessentials.leaderboard": "Таблиця лідерів [ %s ]",

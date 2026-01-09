@@ -1,5 +1,5 @@
 {
-    "name": "Spawner Stats",
+    "name": "Характеристики породжувача",
     "icon": "minecraft:writable_book",
     "category": "apotheosis:spawner/spawner",
 	"flag": "apotheosis:spawner",
@@ -7,61 +7,61 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Each Mob Spawner has $(9)Spawner Stats$(), which dictate their operation.$(p)How long between spawns, how many mobs are spawned, etc.$(p)This chapter details all of them."
+            "text": "Кожен породжувач має $(9)характеристики породжувача$(), які визначають його роботу.$(p)Скільки часу між породженнями, скільки мобів породжується тощо.$(p)У цьому розділі детально описано всі з них."
         },
 		{
             "type": "patchouli:text",
-			"title": "Spawn Delay",
-            "text": "After a Mob Spawner spawns an entity, there is a delay until the next spawn.$(p)That delay is a random number between the $(9)Min Spawn Delay$() and the $(9)Max Spawn Delay$().$(p)If the Max Delay is ever below the Min Delay, the Min Delay is used."
+			"title": "Затримка породження",
+            "text": "Після того, як породжувач породжує сутність, існує затримка до наступного породження.$(p)Ця затримка є випадковим числом між $(9)Мінімальною затримкою породження$() та $(9)Максимальною затримкою породження$().$(p)Якщо максимальна затримка стане меншою за мінімальну затримку, використовуватиметься тільки мінімальна."
         },
 		{
             "type": "patchouli:text",
-			"title": "Spawn Count",
-            "text": "The $(9)Spawn Count$() dictates how many mobs are spawned at once.$(p)Not all spawns will succeed, so sometimes less entities will spawn.$(p)The spawn is counted as successful (and the delay reset) as long as one entity spawns."
+			"title": "Обсяг породження",
+            "text": "$(9)Обсяг породження$() визначає, скільки мобів породжується одночасно.$(p)Не всі породження будуть успішними, тому іноді породжуватиметься менше сутностей.$(p)Породження вважається успішним (і затримка скидається), якщо породжується принаймні одна сутність."
         },
 		{
             "type": "patchouli:text",
-			"title": "Max Entities",
-            "text": "Mob Spawners track the number of entities nearby.$(p)If that number ever exceeds the $(9)Max Entities$(), spawning stops.$(p)Only entities of the same type as the spawned one are counted."
+			"title": "Максимум істот",
+            "text": "Породжувачі відстежують кількість сутностей поблизу.$(p)Якщо це число перевищує $(9)Максимальну кількість сутностей$(), породження зупиняється.$(p)Враховуються лише сутності того ж типу, що й породжувана."
         },
 		{
             "type": "patchouli:text",
-			"title": "Activation Range",
-            "text": "Mob Spawners require a nearby player to operate.$(p)That player must be within the $(9)Activation Range$(), which is a radius in blocks, for the spawner to run."
+			"title": "Радіус активації",
+            "text": "Для роботи спавнера мобів потрібен гравець поблизу.$(p)Гравець повинен знаходитися в межах $(9)Діапазону активації$(), який є радіусом у блоках."
         },
 		{
             "type": "patchouli:text",
-			"title": "Spawn Range",
-            "text": "The $(9)Spawn Range$() is a radius in blocks of how far out entities may spawn.$(p)Try to make sure this area is suitable for entities, otherwise some spawns may fail."
+			"title": "Дистанція породження",
+            "text": "The $(9)Дистанція породження$() — це радіус у блоках, який визначає, наскільки далеко можуть з'являтися сутності.$(p)Переконуйтеся, що ця область підходить для сутностей, інакше деякі спроби породження можуть не вдатися."
         },
 		{
             "type": "patchouli:text",
-			"title": "Ignores Players",
-            "text": "A spawner that $(9)Ignores Players$() does not need a player within the $(9)Activation Range$().$(p)It will operate with or without one."
+			"title": "Ігнорування гравців",
+            "text": "Породжувач, який $(9)Ігнорує гравців$(), не потребує гравця в межах $(9)Діапазону активації$().$(p)Він працюватиме незалежно."
         },
 		{
             "type": "patchouli:text",
-			"title": "Ignores Conditions",
-            "text": "A spawner that $(9)Ignores Conditions$() will no longer require certain mob-specific spawn conditions.$(p)These include things like the grass requirement for animals.$(p)It will just need sufficient space, and a lack of nearby entities."
+			"title": "Ігнорування умов",
+            "text": "Породжувач, який $(9)Ігнорує умови$() більше не вимагатиме певних умов появи, специфічних для мобів.$(p)До них належать такі речі, як вимога до трави для тварин.$(p)Йому знадобиться лише достатньо великий простір та відсутність типових сутностей поблизу."
         },
 		{
             "type": "patchouli:text",
-			"title": "Redstone Control",
-            "text": "A spawner with $(9)Redstone Control$() requires a redstone signal to operate.$(p)This lets you control when the spawner is operating."
+			"title": "Редстоуновий контроль",
+            "text": "Породжувач з $(9)Редстоуновим контролем$() потребує сигналу редстоуну для роботи.$(p)Це дозволяє вам контролювати, коли породжувач працюватиме."
         },
 		{
             "type": "patchouli:text",
-			"title": "Ignores Light",
-            "text": "A spawner that $(9)Ignores Light$() will work in all light levels.$(p)This means mobs can spawn in daylight.$(p)If it already $(9)Ignores Conditions$(), then this modifier does nothing."
+			"title": "Ігнорування світла",
+            "text": "Породжувач, який $(9)Ігнорує світло$(), працюватиме на всіх рівнях освітлення.$(p)Це означає, що моби зможуть з'являтися вдень.$(p)Якщо породжувач вже $(9)Ігнорує умови$(), цей модифікатор нічого не робить."
         },
 		{
             "type": "patchouli:text",
-			"title": "No AI",
-            "text": "A spawner with $(9)No AI$() enabled will spawn mobs without any AI.$(p)Normally, these mobs will just simply float there, immobile, doing nothing.$(p)However, the ones created by Apotheosis can still be moved."
+			"title": "Без штучного інтелекту",
+            "text": "Породжувач $(9)Без штучного інтелекту$() буде породжувати мобів без будь-якого ШІ.$(p)Зазвичай такі моби просто стоять незворушно і нічого не роблять.$(p)Однак тих, хто створений Apotheosis, все ще можна переміщати."
         },
 		{
             "type": "patchouli:text",
-            "text": "If you are making large mob farms, you should always utilize the $(9)No AI$() upgrade.$(p)It causes significantly reduced server load, and it makes the mobs easier to control."
+            "text": "Якщо ви створюєте великі ферми мобів, вам завжди слід використовувати модифікатор $(9)Без штучного інтелекту$().$(p)Це значно зменшує навантаження на сервер і полегшує керування мобами."
         }
 	]
 }

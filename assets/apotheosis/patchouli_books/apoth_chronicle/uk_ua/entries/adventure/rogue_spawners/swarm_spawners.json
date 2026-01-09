@@ -1,5 +1,5 @@
 {
-    "name": "Swarm Spawners",
+    "name": "Ройові породжувачі",
     "icon": "minecraft:spider_eye",
     "category": "apotheosis:adventure/rogue_spawners",
 	"flag": "apotheosis:adventure",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "A swarm spawner is a vile subtype of rogue spawner that will spawn mobs in high quantities very rapidly.$(p)Typically they are limited to weaker mobs, often of the arachnid variety, so they are not terrifyingly overwhelming."
+            "text": "Ройовий породжувач — це мерзенний підтип зловісного породжувача, який дуже швидко викликає велику кількість мобів.$(p)Зазвичай він обмежений слабшими мобами, часто павукоподібними, тому не є надто страшним."
         }
 	]
 }

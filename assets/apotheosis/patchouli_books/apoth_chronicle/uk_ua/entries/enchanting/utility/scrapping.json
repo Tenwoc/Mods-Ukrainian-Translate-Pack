@@ -1,5 +1,5 @@
 {
-    "name": "Tome of Scrapping",
+    "name": "Том утилізації",
     "icon": "apothic_enchanting:scrap_tome",
     "category": "apotheosis:enchanting/utility",
 	"flag": "apotheosis:enchanting",
@@ -7,23 +7,23 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Tome of Scrapping is a way of retrieving enchantments from an item.$(p)Combining one with another item in an anvil will destroy the other item, and make a book with some of the enchantments at random."
+            "text": "Том утилізації — це спосіб отримання чарів з предмета.$(p) Поєднання одного предмета з іншим у ковадлі знищить цільовий предмет і створить книгу з деякими чарами випадкового рівня."
         },
 		{
             "type": "patchouli:crafting",
 			"recipe": "apothic_enchanting:scrap_tome",
-			"text": "You will always receive half of the enchantments (rounded up).$(p)The enchantments selected are based on your $(l:apotheosis:enchanting/table/seed)Enchanting Seed$()."
+			"text": "Ви завжди отримуватимете половину чарів (округлено вгору).$(p)Вибрані чари залежать від вашого $(l:apotheosis:enchanting/table/seed)насіння чарів$()."
 		},
 		{
             "type": "patchouli:spotlight",
-			"title": "Superior Scrapping",
+			"title": "Відмінна утилізація",
 			"item": "apothic_enchanting:improved_scrap_tome",
-			"text": "The $(9)Tome of Superior Scrapping$() is an upgraded version of the Tome of Scrapping.$(p)It extracts all of the enchantments on the item, instead of half of them."
+			"text": "$(9)Том відмінної утилізації$() — це покращена версія тома утилізації.$(p)Він витягує всі чари з предмета, а не половину."
 		},
 		{
             "type": "patchouli:spotlight",
 			"item": "apothic_enchanting:extraction_tome",
-			"text": "The $(9)Tome of Extraction$() is a perfected version of the Tome of Scrapping.$(p)It extracts all the enchantments from an item, and does not destroy the item in the process."
+			"text": "$(9)Том вилучення$() — це вдосконалена версія тома відмінної утилізації.$(p)Він витягує всі чари з предмета, не знищуючи його в процесі."
 		}
 	]
 }

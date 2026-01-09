@@ -11,11 +11,11 @@
   "item.irons_jewelry.onyx": "Онікс",
   "item.irons_jewelry.garnet": "Гранат",
 
-  "block.irons_jewelry.jewelcrafting_station": "Ювелірний верстат",
+  "block.irons_jewelry.jewelcrafting_station": "Золотарський верстат",
 
-  "container.irons_jewelry.jewelcrafting_station": "Ювелірний верстат",
+  "container.irons_jewelry.jewelcrafting_station": "Золотарський верстат",
 
-  "entity.minecraft.villager.irons_jewelry.jeweler": "Ювелір",
+  "entity.minecraft.villager.irons_jewelry.jeweler": "Золотар",
 
   "pattern.irons_jewelry.simple_band": "Простий перстень",
   "pattern.irons_jewelry.simple_band.item": "Простий перстень (%s)",

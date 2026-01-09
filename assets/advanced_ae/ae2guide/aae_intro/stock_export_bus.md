@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: aae_intro/aae_intro-index.md
-  title: Stock Export Bus
+  title: Шина експортного запасання
   icon: advanced_ae:stock_export_bus_part
 categories:
   - advanced items
@@ -9,14 +9,10 @@ item_ids:
   - advanced_ae:stock_export_bus_part
 ---
 
-# Stock Export Bus
+# Шина експортного запасання
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../structure/cable_stock_export_bus.snbt"></ImportStructure>
 </GameScene>
 
-The Stock Export Bus can be configured to export an exact amount of the filtered stacks. It keeps track of the amount
-currently present in the target inventory and doesn't insert above that number. To configure it, you open the GUI, drag
-the desired item into the filter slot and, using a middle click, you can configure the amount. Note that it will not
-regulate the output, meaning it won't extract extra items/fluids from the inventory if they go over the configured
-amount.
+Шину експортного зберігання можна налаштувати на експорт точної кількості відфільтрованих речей. Вона відстежує кількість, яка наразі присутня в цільовому містилі, і не вставляє речі вище цього числа. Щоб налаштувати її, відкрийте інтерфейс, перетягніть потрібну річ у слот фільтра та, клацнувши СКМ, налаштуйте кількість. Зверніть увагу, що вона не регулюватиме містило, тобто не витягуватиме додаткові одиниці речі з нього, якщо вони перевищують налаштовану кількість.

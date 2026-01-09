@@ -22,7 +22,7 @@
   "tooltip.relics.researching.badge.ability.toggleable.title": "Застосування із перемиканням",
   "tooltip.relics.researching.badge.ability.toggleable.description": "Здібність може бути ввімкнена/вимкнена під час використання.",
   "tooltip.relics.researching.badge.ability.chargeable.title": "Застосування із зарядженням",
-  "tooltip.relics.researching.badge.ability.chargeable.description": "Здібність спрацьовує миттєво через деякий час циклічного використання. Результат спрацьовування може залежати від тривалості використання.",
+  "tooltip.relics.researching.badge.ability.chargeable.description": "Здібність спрацьовує миттєво через деякий час циклічного використання. Результат спрацьовування може залежати від тривалости використання.",
   "tooltip.relics.researching.badge.ability.stated.title": "Режимне застосування",
   "tooltip.relics.researching.badge.ability.stated.description": "Здібність має кілька режимів, що циклічно перемикаються її використанням.",
 
@@ -137,7 +137,7 @@
   "item.relics.shadow_glaive": "Тіньова глефа",
   "tooltip.relics.shadow_glaive.description": "Майстерно викувана норовлива зброя. І якщо вдача її буде прихильною — ні орда, ні легіон не вистоять під натиском тисячі її лез.",
   "tooltip.relics.shadow_glaive.ability.mayhem": "Розгром",
-  "tooltip.relics.shadow_glaive.ability.mayhem.description": "Заподіяння шкоди гравцем з імовірністю в %1$s%% спровокує появу снаряда, який хаотично відскакує між найближчими цілями в радіусі 16 блоків до %2$s разів, завдаючи їм %3$s%% від шкоди від атаки, що спровокувала.",
+  "tooltip.relics.shadow_glaive.ability.mayhem.description": "Заподіяння шкоди гравцем з імовірністю в %1$s%% спровокує появу снаряда, який хаотично відскакує між найближчими цілями в радіусі 16 блоків до %2$s разів, завдаючи їм %3$s%% від першопочатково заподіяної шкоди.",
   "tooltip.relics.shadow_glaive.ability.cloning": "Клонування",
   "tooltip.relics.shadow_glaive.ability.cloning.description": "Кожен відскок снаряда від здібності «Розгром» з імовірністю в %1$s%% може створити ще один такий самий снаряд.",
   "tooltip.relics.shadow_glaive.leveling_source.mayhem.title": "Розгром",

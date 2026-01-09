@@ -1,21 +1,20 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: ME Smart Annihilation Plane
-    icon: extendedae:smart_annihilation_plane
+  parent: epp_intro/epp_intro-index.md
+  title: МЕ Розумна площина руйнування
+  icon: extendedae:smart_annihilation_plane
 categories:
-- extended devices
+  - extended devices
 item_ids:
-- extendedae:smart_annihilation_plane
+  - extendedae:smart_annihilation_plane
 ---
 
-# ME Smart Annihilation Plane
+# МЕ Розумна площина руйнування
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../structure/cable_smart_annihilation_plane.snbt"></ImportStructure>
 </GameScene>
 
-ME Smart Annihilation Plane is a <ItemLink id="ae2:annihilation_plane" /> that can break blocks or absorb items by its config inventory.
+МЕ Розумна площина руйнування — це <ItemLink id="ae2:annihilation_plane" />, яка здатна напряму добувати чи збирати блоки по власному налаштовному фільтру.
 
-You don't need to set up a subnet for it. It works like an <ItemLink id="ae2:import_bus" /> but breaks block instead of
-import it from a chest.
+Вам не потрібно встановлювати для неї підмережу. Площина працює як <ItemLink id="ae2:import_bus" />, просто замість витягання речей з містил вона збирає скинуті предмети та добуває блоки.

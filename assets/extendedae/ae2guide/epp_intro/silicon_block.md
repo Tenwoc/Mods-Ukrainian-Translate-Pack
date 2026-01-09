@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: epp_intro/epp_intro-index.md
-  title: Block of Silicon
+  title: Блок кремнію
   icon: extendedae:silicon_block
 categories:
   - extended foundation
@@ -9,10 +9,10 @@ item_ids:
   - extendedae:silicon_block
 ---
 
-# Block of Silicon
+# Блок кремнію
 
 <Row>
 <BlockImage id="extendedae:silicon_block" scale="8"></BlockImage>
 </Row>
 
-A storage block for <ItemLink id="ae2:silicon" />.
+Блок, який компактно зберігає <ItemLink id="ae2:silicon" />.

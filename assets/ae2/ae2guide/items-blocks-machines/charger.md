@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Charger
+  title: Зарядний пристрій
   icon: charger
   position: 310
 categories:
@@ -10,34 +10,29 @@ item_ids:
 - ae2:charger
 ---
 
-# The Charger
+# Зарядний пристрій
 
 <BlockImage id="charger" scale="8" />
 
-The Charger provides a way to charge
-supported tools, and <ItemLink id="certus_quartz_crystal" />.
+Зарядний пристрій є засобом для заряджання предметів із внутрішньою енергетичною місткістю, та щоб перетворювати <ItemLink id="certus_quartz_crystal" /> на заряджений.
 
-Power can be provided via the top or bottom, via either AE2's [cables](cables.md), or other mod power cables. It can
-accept either AE2's power (AE) or Forge Energy (FE). Items can be inserted or removed from any side. Only the results can
-be removed, so no need for filters to prevent removing certus crystals instead of charged certus. Can be rotated with a
-<ItemLink id="certus_quartz_wrench" /> in order to facilitate automation.
+Живлення може подаватись зверху або знизу, через [кабелі](cables.md) AE2 або інших модів. Він може приймати живлення AE2 (AE) або енергію Forge (FE). Предмети можна вставляти або виймати з будь-якого боку. Видаляти можна лише результати, тому немає потреби у фільтрах для запобігання видаленню складника замість результата. Можна обертати, використовуючи <ItemLink id="certus_quartz_wrench" />, для полегшення автоматизації.
 
-Can be used to create <ItemLink id="charged_certus_quartz_crystal" />
-from <ItemLink id="certus_quartz_crystal" />, and <ItemLink id="meteorite_compass" /> from <ItemLink id="minecraft:compass" />.
+Може використовуватися, щоб створювати <ItemLink id="charged_certus_quartz_crystal" /> використовуючи <ItemLink id="certus_quartz_crystal" />, та <ItemLink id="meteorite_compass" /> використовуючи <ItemLink id="minecraft:compass" />.
 
-To power it manually, place a <ItemLink id="crank" /> on the top or bottom and right-click it until the item is charged.
+Щоб живити його вручну, помістіть <ItemLink id="crank" /> зверху або знизу та клацайте ПКМ, доки предмет не зарядиться.
 
-It also acts as the workstation for the [Fluix Researcher](fluix_researcher.md).
+Він також служить робочою станцією для [дослідника флюїкса](fluix_researcher.md).
 
-## Simple Automation
+## Проста автоматизація
 
-As an example, the rotateability lets you semi-automate chargers like so:
+Як приклад, можливість обертання дозволяє напівавтоматизувати зарядні пристрої ось так:
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/charger_hopper.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="charger" />

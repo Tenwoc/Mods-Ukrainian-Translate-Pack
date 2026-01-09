@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: ME Threshold Level Emitter
+    title: ME Пороговий випромінювач рівня енергії
     icon: extendedae:threshold_level_emitter
 categories:
 - extended devices
@@ -9,21 +9,24 @@ item_ids:
 - extendedae:threshold_level_emitter
 ---
 
-# ME Threshold Level Emitter
+# ME Пороговий випромінювач рівня енергії
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../structure/cable_threshold_level_emitter.snbt"></ImportStructure>
 </GameScene>
 
-It works like Reset-Set Latch. It turns off redstone signal when the quantity of an item in network is less than
-the lower threshold and turn on when the quantity is greater than the upper threshold.
+Він працює як SR-тригер (Reset-Set Latch). Він вимикає редстоуновий сигнал, коли кількість речі в мережі менша за нижній поріг, і вмикає, коли кількість перевищує верхній поріг.
 
-For example, given lower threshold is set 100 and upper threshold is set 150.
+Наприклад, якщо нижній поріг встановлено на 100, а верхній – на 150, виходить така поведінка:
 
-At first the network is empty, so the emitter won't be active.
+- 0-100 - вимкнення сигналу
+- 100-150 - простій
+- 150+ - подача сигналу
 
-As the quantity of the item growing up and over 150, the emitter will send redstone signal.
+Спочатку мережа порожня, тому випромінювач не буде активним.
 
-When the quantity declining and less than 150, the emitter still sends signal.
+Коли кількість речі зростає і перевищує 150, випромінювач почне випромінювати редстоуновий сигнал.
 
-At last the quantity is less than 100, the emitter will be turned off.
+Коли кількість зменшується і стає меншою за 150, випромінювач все одно надсилає сигнал.
+
+Якщо кількість стає меншою за 100, випромінювач вимикається.

@@ -1,5 +1,5 @@
 {
-    "name": "Absorption",
+    "name": "Поглинання",
     "icon": "minecraft:textures/mob_effect/absorption.png",
     "category": "apotheosis:potion/recipes",
 	"flag": "apotheosis:potion",
@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Absorption$() is an interesting effect.$(p)Each level grants 2 additional temporary hearts.$(p)However, these hearts don't refresh during the duration, so a $(l:apotheosis:potion/charms/charm)Potion Charm$() is preferrable."
+            "text": "$(9)Поглинання$() – цікавий ефект.$(p)Кожен рівень надає 2 додаткові тимчасові серця.$(p)Однак ці серця не оновлюються протягом дії, а тому $(l:apotheosis:potion/charms/charm)зіллєвий амулет$() із цим ефектом робить його набагато потужнішим."
         },
 		{
             "type": "patchouli:spotlight",
-			"title": "Brewing Recipe",
+			"title": "Рецепт варіння",
 			"item": "minecraft:golden_apple",
-            "text": "This potion can be crafted with an Awkward Potion and a Golden Apple.$(p)It can be extended, strengthend, or turned into a splash potion with the usual ingredients."
+            "text": "Це зілля можна виготовити за допомогою незграбного зілля та золотого яблука.$(p)Його можна подовжити, посилити або перетворити на вибухове зілля за допомогою звичайних інгредієнтів."
         }
 	]
 }

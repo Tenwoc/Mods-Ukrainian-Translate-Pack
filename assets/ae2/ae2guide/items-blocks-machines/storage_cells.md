@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Storage Cells
+  title: Комірки зберігання
   icon: item_storage_cell_1k
   position: 410
 categories:
@@ -26,7 +26,7 @@ item_ids:
 - ae2:fluid_storage_cell_256k
 ---
 
-# Storage Cells
+# Комірки зберігання
 
 <Column>
   <Row>
@@ -54,24 +54,23 @@ item_ids:
   </Row>
 </Column>
 
-Storage Cells are one of the primary methods of storage in Applied Energistics. They go in <ItemLink id="drive" />s
-or <ItemLink id="chest" />s.
+Комірки зберігання є одним з основних методів зберігання в Applied Energistics. Вони розміщуються в <ItemLink id="drive" /> або <a href="chest.md">МЕ Скриню</a>.
 
-See [Bytes and Types](../ae2-mechanics/bytes-and-types.md) for an explanation of their capacities in bytes and types.
+Пояснення їхньої місткості в байтах та типах дивіться у в розділі про [Байти та типи](../ae2-mechanics/bytes-and-types.md) for an explanation of their capacities in bytes and types.
 
-Storage components can be removed from the housing if the cell is empty by shift-right clicking with the cell in your hand.
+Компоненти зберігання можна видалити з корпусу, якщо комірка порожня, натиснувши Shift+ПКМ із відповідною коміркою в руці.
 
 <Row>
     <Recipe id="upgrade/item_storage_cell_1k_to_4k" />
 
-    You can upgrade storage cells to higher tiers by combining them with higher-tier storage components in a crafting grid. Their content will be retained, and the lower-tier component is  returned.
+    Ви можете покращити комірки зберігання до вищих рівнів, поєднуючи їх з компонентами зберігання вищого рівня в сітці майстрування. Їхній вміст буде збережено, а компонент нижчого рівня буде повернуто.
 </Row>
 
-## Storage Capacity with Varying Type Count
+## Місткість зберігання з різною кількістю типів
 
-The [upfront cost of types](../ae2-mechanics/bytes-and-types.md) is such that a cell holding 1 type can hold 2x as much as a cell with all 63 types in use.
+[Початкова вартість типів](../ae2-mechanics/bytes-and-types.md) визначається так, що комірка, що містить 1 тип, може вмістити вдвічі більше, ніж комірка з усіма зайнятими 63 типами.
 
-| Cell                                     | Total Capacity of Cell With 1 Type In Use | Total Capacity of Cell With 63 Types In Use |
+| Комірка                                  | Загальна місткість комірки з 1 використовуваним типом | Загальна місткість комірки з 63 використовуваними типами |
 | ---------------------------------------- | ----------------------------------------: | ------------------------------------------: |
 | <ItemLink id="item_storage_cell_1k" />   |                                     8,128 |                                       4,160 |
 | <ItemLink id="item_storage_cell_4k" />   |                                    32,512 |                                      16,640 |
@@ -80,31 +79,30 @@ The [upfront cost of types](../ae2-mechanics/bytes-and-types.md) is such that a 
 | <ItemLink id="item_storage_cell_256k" /> |                                 2,080,768 |                                   1,064,960 |
 
 
-## Partitioning
+## Розгалуження
 
-Cells can be filtered to only accept certain items, similar to how <ItemLink id="storage_bus" />ses can be filtered. This is
-done in a <ItemLink id="cell_workbench" />.
+Комірки можна фільтрувати, щоб приймати лише певні речі, подібно до того, як фільтрується <ItemLink id="storage_bus" />. Це робиться через <ItemLink id="cell_workbench" />.
 
-Items can be dragged into the slots from JEI/REI even if you don't actually have any of that item.
+Речі можна перетягувати в слоти з JEI/REI, навіть якщо у вас насправді немає жодного з них.
 
-## Upgrades
+## Модифікатори
 
-Storage cells support the following [upgrades](upgrade_cards.md), inserted via a <ItemLink id="cell_workbench" />:
+Комірки зберігання підтримують такі [модифікатори](upgrade_cards.md), які можна додати через <ItemLink id="cell_workbench" />:
 
-*   <ItemLink id="fuzzy_card" /> (not available on fluid cells) lets the cell be partitioned by damage level and/or ignore item NBT
-*   <ItemLink id="inverter_card" /> switches the filter from a whitelist to a blacklist
-*   <ItemLink id="equal_distribution_card" /> allocates the same amount of cell byte space to each type, so one type cannot fill up the entire cell
-*   <ItemLink id="void_card" /> voids items inserted if the cell is full (or that specific type's allocated space in the
-    case of an equal distribution card), useful for stopping farms from backing up. Be careful to partition this!
-*   Portable cells can accept <ItemLink id="energy_card" /> in order to increase their battery capacity
+*   <ItemLink id="fuzzy_card" /> (недоступна для рідинних комірок) дозволяє розгалузити комірку за рівнем пошкодження та/або ігнорувати NBT предметів
+*   <ItemLink id="inverter_card" /> перемикає фільтр з білого списку на чорний список
+*   <ItemLink id="equal_distribution_card" /> виділяє однакову кількість байтового простору комірки кожному типу, щоб єдиний тип не мін заповнити всю комірку
+*   <ItemLink id="void_card" /> знищує вставлені речі, якщо комірка заповнена (або скінчилося виділене місце для цього конкретного типу у випадку карти рівного розподілу), що корисно для запобігання переповненню сховища ресурсами з ферм. Будьте обережні з розгалужуванням!
+*   <ItemLink id="energy_card" /> може бути встановлена у портативні комірки, щоб збільшити місткість їхніх акумуляторів
 
-## Coloring
+## Розфарбовування
 
-Portable item and fluid cells can be colored similar to leather armor, by crafting them together with dyes.
+Портативні предметні та рідинні комірки можна розфарбувати подібно до шкіряної броні, об'єднавши їх разом із барвниками.
+(Примітка перекладача: Це дійсно так? Не схоже, що це працює)
 
-# Housings
+# Корпуси
 
-Cells can be made with a storage component and a housing or with the housing recipe around a storage component:
+Комірки можуть бути створені з компонента зберігання та корпуса або з рецептом корпусу навколо компонента зберігання:
 
 <Row>
   <Recipe id="network/cells/item_storage_cell_1k" />
@@ -112,7 +110,7 @@ Cells can be made with a storage component and a housing or with the housing rec
   <Recipe id="network/cells/item_storage_cell_1k_storage" />
 </Row>
 
-Housings by themselves are crafted like so:
+Самі корпуси створюються таким чином:
 
 <Row>
   <RecipeFor id="item_cell_housing" />
@@ -120,10 +118,9 @@ Housings by themselves are crafted like so:
   <RecipeFor id="fluid_cell_housing" />
 </Row>
 
-# Storage Components
+# Компоненти зберігання
 
-Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity
-by 4x and costs 3 of the previous tier.
+Компоненти зберігання є основою всіх комірок AE2, визначаючи їх місткість. Кожен рівень збільшує місткість у 4 рази та коштує в 3 рази дорожче попереднього рівня.
 
 <Column>
   <Row>
@@ -141,9 +138,9 @@ by 4x and costs 3 of the previous tier.
   </Row>
 </Column>
 
-# Item Storage Cells
+# Предметні комірки
 
-Item storage cells can hold up to 63 distinct types of items, and are available in all the standard capacities.
+Предметні комірки можуть вміщувати до 63 різних типів предметів і доступні у всіх стандартних місткостях.
 
 <Column>
   <Row>
@@ -161,14 +158,13 @@ Item storage cells can hold up to 63 distinct types of items, and are available 
   </Row>
 </Column>
 
-## Портативне предметне сховище
+## Портативні предметні комірки
 
-These act as a tiny <ItemLink id="chest" /> in your pocket, or like a form of backpack. They can be charged in a <ItemLink id="charger" />
+Вони діють як крихітна <ItemLink id="chest" /> у кишені або як своєрідний рюкзак. Їх можна заряджати через <ItemLink id="charger" />
 
-Unlike standard storage cells, these actually *reduce* in type capacity as their byte capacity increases, and have half the
-total byte capacity.
+На відміну від стандартних комірок зберігання, ці мають меншу місткість типів (що фактично збільшує їхню мінімальну місткість предметів), а також вдвічі меншу місткість байтів.
 
-In addition to the upgrade cards all cells can receive, these also accept <ItemLink id="energy_card" />s to upgrade their internal batteries.
+Окрім модифікаторів, які можуть отримати всі комірки, вони також приймають [енергетичні картки](ae2:items-blocks-machines/upgrade_cards.md#енергетична-картка) для збільшення власної місткості акумулятора.
 
 <Column>
   <Row>
@@ -186,9 +182,9 @@ In addition to the upgrade cards all cells can receive, these also accept <ItemL
   </Row>
 </Column>
 
-# Fluid Storage Cells
+# Рідинні комірки
 
-Fluid storage cells can hold up to 5 distinct types of fluids, and are available in all the standard capacities.
+Рідинні комірки можуть утримувати до 18 (або 5?) різних типів рідин і доступні у всіх стандартних місткостях.
 
 <Column>
   <Row>
@@ -206,14 +202,14 @@ Fluid storage cells can hold up to 5 distinct types of fluids, and are available
   </Row>
 </Column>
 
-## Portable Fluid Storage
+## Портативні рідинні комірки
 
-These act as a tiny <ItemLink id="chest" /> in your pocket, or like a form of backpack. They can be charged in a <ItemLink id="charger" />
+Вони діють як крихітна <ItemLink id="chest" /> у вашій кишені або як різновид рюкзака. Їх можна заряджати через <ItemLink id="charger" />
 
-Unlike standard storage cells, these actually *reduce* in type capacity as their byte capacity increases, and have half the
-total byte capacity.
+На відміну від стандартних комірок зберігання, ці мають меншу місткість типів (що фактично збільшує їхню мінімальну місткість рідин), а також вдвічі меншу місткість байтів.
+(Примітка перекладача: Схоже, вони вже не мають такого обмеження типів)
 
-In addition to the upgrade cards all cells can receive, these also accept <ItemLink id="energy_card" />s to upgrade their internal batteries.
+Окрім модифікаторів, які можуть отримати всі комірки, вони також приймають [енергетичні картки](ae2:items-blocks-machines/upgrade_cards.md#енергетична-картка) для збільшення власної місткості акумулятора.
 
 <Column>
   <Row>
@@ -231,11 +227,10 @@ In addition to the upgrade cards all cells can receive, these also accept <ItemL
   </Row>
 </Column>
 
-# Creative Storage Cell
+# Творча комірка зберігання
 
 <Row>
   <ItemImage id="creative_storage_cell" scale="2" />
 </Row>
 
-Creative cells **do not provide infinite storage**. Instead, they act as infinite sources and sinks of whatever
-item or fluid you [partition](cell_workbench.md) them to.
+Творчі комірки **не забезпечують нескінченне сховище**. Натомість вони діють як нескінченні джерела та поглиначі будь-якого предмета чи рідини, на які ви їх [розгалузите](cell_workbench.md).

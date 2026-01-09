@@ -135,7 +135,7 @@ item_ids:
   <RecipeFor id="mega_fluid_cell_housing" />
 </Row>
 
-## МЕГА [Портативні комірки](ae2:items-blocks-machines/storage_cells.md#портативне-предметне-сховище)
+## МЕГА [Портативні комірки](ae2:items-blocks-machines/storage_cells.md#портативні-предметні-комірки)
 
 MEGA також пропонує портативні версії всіх своїх комірок, як і сама AE2, хоча збільшена місткість цих комірок вимагатиме значно більше енергії. Таким чином, зверніть увагу, для їх створення використовується <ItemLink id="ae2:dense_energy_cell" />, а не <ItemLink id="ae2:energy_cell" /> як було б зазвичай.
 

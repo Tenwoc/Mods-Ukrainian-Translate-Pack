@@ -44,7 +44,7 @@ navigation:
 
 ![Предмети / видобуток за хвилину](../assets/diagrams/certus_farm_speed_chart_1.png)
 
-![загальні установки](../assets/diagrams/certus_farm_speed_chart_2.png)
+![загальні устави](../assets/diagrams/certus_farm_speed_chart_2.png)
 
 Якщо у вас недостатньо кварцу, щоб також створити <ItemLink id="energy_acceptor" /> або <ItemLink id="vibration_chamber" />,
 ви можете створити <ItemLink id="crank" /> і прикріпити його до кінця прискорювача.

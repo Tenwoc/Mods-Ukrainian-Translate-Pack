@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Fluix Tools
+  title: Флюїксові інструменти
   icon: fluix_pickaxe
   position: 410
 categories:
@@ -14,7 +14,7 @@ item_ids:
 - ae2:fluix_sword
 ---
 
-# Fluix Tools
+# Флюїксові інструменти
 
 <Row>
   <ItemImage id="fluix_axe" scale="4" />
@@ -28,13 +28,13 @@ item_ids:
   <ItemImage id="fluix_sword" scale="4" />
 </Row>
 
-[Fluix](fluix_crystal.md) tools are similar to iron tools, having 3x the durability and a slightly higher attack damage and mining speed.
+[Флюїксові](fluix_crystal.md) інструменти схожі на залізні, але мають втричі більшу міцність та трохи вищу шкоду від атаки та швидкість видобутку.
 
-All fluix tools act as if they have at least fortune/looting 1, which is useful before getting access to an enchanting table.
+Усі флюїксові інструменти діють так, ніби мають щонайменше 1 рівень удачі/грабунку, що корисно перед отриманням доступу до столу зачарування.
 
-You will need to make a <ItemLink id="fluix_upgrade_smithing_template" />
+Для їх отримання вам потрібно буде створити <ItemLink id="fluix_upgrade_smithing_template" />
 
-## Recipes
+## Рецепти
 
 <Column>
   <Row>

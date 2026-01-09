@@ -1,5 +1,5 @@
 {
-    "name": "Apothic Invaders",
+    "name": "Апофеотичні загарбники",
     "icon": "minecraft:beacon",
     "category": "apotheosis:adventure/mobs",
 	"flag": "apotheosis:adventure",
@@ -7,22 +7,22 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "A strange noise, a peculiar message, and a giant beam of light from the sky...$(p)All signs point to an incursion from an Apothic Invader!"
+            "text": "Дивний шум, своєрідне повідомлення та гігантський промінь світла з неба...$(p)Усі ознаки вказують на вторгнення апофеотичного загарбника!"
         },
 		{
 			"type": "patchouli:text",
-			"title": "Spawn Mechanics",
-			"text": "Apothic Invaders may rarely show up on the surface where mobs can normally spawn.$(p)Their arrival will be marked by a loud noise, a status message, and a beacon beam.$(p)Invaders may become more or less common depending on World Tier and Dimension."
+			"title": "Механіка появи",
+			"text": "Апофеотичні загарбники рідко з'являються на поверхні, де зазвичай можуть з'являтися моби.$(p)Їхнє прибуття буде позначено гучним шумом, статусним повідомленням та променем маяка.$(p)Загарбники можуть стати більш або менш поширеними залежно від рівня світу та виміру."
 		},
 		{
 			"type": "patchouli:text",
-			"title": "Invader Rarities",
-			"text": "Each Invader has a rarity, which is indicated by their name and outline color.$(p)Higher rarity invaders will be stronger, but drop better loot as a result."
+			"title": "Рідкості загарбників",
+			"text": "Кожен загарбник має рідкість, яка позначається його назвою та кольором контуру.$(p)Загарбники з вищою рідкістю будуть сильнішими, й відповідно з них випадатиме краща здобич."
 		},
 		{
 			"type": "patchouli:text",
-			"title": "Loot",
-			"text": "Invaders are guaranteed to drop a $(l:apotheosis:adventure/mobs/invader_items)special affix item$(), and may have additional bonus loot tables beyond their normal mob counterparts.$(p)They also have a higher likelihood of dropping Gems."
+			"title": "Здобич",
+			"text": "Загарбники гарантовано скидають $(l:apotheosis:adventure/mobs/invader_items)спеціальний афіксний предмет$(), а також можуть мати додаткові таблиці здобичі, не належні до їх типу.$(p)У них також вища ймовірність скинути самоцвіти."
 		}
 	]
 }

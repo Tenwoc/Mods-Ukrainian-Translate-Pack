@@ -1,44 +1,44 @@
 {
-    "name": "Levels 30 - 60",
+    "name": "Рівні 31 - 60",
     "icon": "apothic_enchanting:hellshelf",
     "category": "apotheosis:enchanting/progression",
 	"flag": "apotheosis:enchanting",
     "pages": [
 		{
             "type": "patchouli:crafting",
-			"title": "Reaching Level 45",
+			"title": "Досягання 45 рівня",
 			"recipe": "apothic_enchanting:hellshelf",
-			"text": "To reach level 45, you'll want to create some $(9)Hellshelves$(), and add them to your existing Bookshelves."
+			"text": "Щоб досягти 45 рівня, вам потрібно створити кілька $(9)пеклополиць$() та додати їх до ваших наявних книжкових полиць."
 		},
 		{
             "type": "patchouli:crafting",
-			"title": "Reaching Level 45",
+			"title": "Досягання 45 рівня",
 			"recipe": "apothic_enchanting:seashelf",
-			"text": "If you aren't fond of the Nether, you can also venture to the Ocean, and create $(9)Seashelves$() instead."
+			"text": "Якщо вам не подобається Незер, ви також можете вирушити до океану та створити з його ресурсів $(9)мореполиці$()."
 		},
 		{
             "type": "patchouli:spotlight",
-			"title": "Reaching Level 60",
+			"title": "Досягання 60 рівня",
 			"item": "apothic_enchanting:infused_hellshelf",
-			"text": "Once you reach Level 45, you'll need to explore $(l:apotheosis:enchanting/table/infusion)Infusion Enchanting$() to upgrade your shelves."
+			"text": "Як тільки ви досягнете 45 рівня, вам потрібно буде дослідити $(l:apotheosis:enchanting/table/infusion)просякнення чарами$(), щоб покращити свої полиці."
 		},
 		{
             "type": "patchouli:spotlight",
-			"title": "Reaching Level 60",
+			"title": "Досягання 60 рівня",
 			"item": "apothic_enchanting:infused_seashelf",
-			"text": "Create a few more of the type of shelf you were using, infuse them, and upgrade them.$(p)These new shelves, on top of your old ones, will let you reach Level 60."
+			"text": "Створіть ще кілька полиць такого ж типу, як ви використовували раніше, просякніть їх та покращте.$(p) Ці нові полиці, поверх ваших старих, дозволять вам досягти 60 рівня."
 		},
 		{
             "type": "patchouli:spotlight",
-			"title": "Enchanting Clues",
+			"title": "Підказки зачарування",
 			"item": "apothic_enchanting:sightshelf",
-			"text": "You now have access to better options for increasing other stats.$(p)On top of the bonuses from Hellshelves and Seashelves, you may now also create $(9)Sightshelves$() to increase your $(clues)."
+			"text": "Тепер у вас є доступ до кращих опцій для підвищення інших характеристик.$(p)Окрім бонусів від пеклополиць та мореполиць, тепер ви також можете створювати $(9)полиці погляду$(), щоб збільшити $(підказки) під час зачарування."
 		},
 		{
             "type": "patchouli:crafting",
-			"title": "Quantic Stability",
+			"title": "Квантична стабільність",
 			"recipe": "apothic_enchanting:geode_shelf",
-			"text": "By performing the infusion to create a Budding Amethyst, you can craft a $(9)Bookshelf of Stability$().$(p)This will prevent you from receiving negative Quanta rolls."
+			"text": "Виконуючи просякнення для створення родючого аметиста, ви можете створити $(9)Книжкову полицю стабільности$().$(p)Це запобіжить отриманню негативних результатів кванти."
 		}
 	]
 }

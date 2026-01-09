@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: Config Modifier
+    title: Модифікатор конфігурації
     icon: extendedae:config_modifier
 categories:
 - extended items
@@ -9,31 +9,30 @@ item_ids:
 - extendedae:config_modifier
 ---
 
-# Config Modifier
+# Модифікатор конфігурації
 
-Config Modifier is a tool for bulk config inventory modification.
+Модифікатор конфігурації – це інструмент для масової модифікації інвентарю конфігурації.
 
 <ItemImage id="extendedae:config_modifier" scale="4"></ItemImage>
 
-Right click it to open its GUI.
+Клацніть ПКМ, щоб відкрити його інтерфейс.
 
-## Usage
+## Використання
 
-Config Modifier can modify things like interface's config inventory by its settings quickly, like setting the config items 
-amount to the maximum value or just removing all of them.
+Модифікатор конфігурації може швидко змінювати такі речі, як інвентар конфігурації інтерфейсу, за допомогою його налаштувань, наприклад, встановлювати максимальну кількість елементів конфігурації або просто видаляти їх усі.
 
-You can click the target device(block or subpart) in world with Config Modifier to modify its config.
+Ви можете клацнути на цільовому пристрої (блоку або кабельному пристрою) у світі за допомогою Модифікатора конфігурації, щоб змінити його конфігурацію.
 
-## Settings
+## Налаштування
 
-It has two main settings, the **modification mode** and **modification amount(X)**.
+Модифікатор має два основні налаштування: **режим модифікації** та **кількість модифікації (X)**.
 
-You can click the button to change mode.
+Ви можете натиснути кнопку, щоб змінити режим.
 
 ![GUI](../pic/cm.png)
 
-- Add/Subtract/Multiply/Divide: Add/Subtract/Multiply/Divide the number of config amount by X.
-- Maximize: Set the number of config amount to the maximum value.
-- Minimize: Set the number of config amount to the minimum value.
-- Set: Set the number of config amount to X.
-- Clear: Clear all config.
+- Додати/Відняти/Помножити/Ділити: Додати/Відняти/Помножити/Ділити кількість елементів конфігурації на X.
+- Максимізувати: Встановити максимальну кількість елементів конфігурації.
+- Мінімізувати: Встановити мінімальну кількість елементів конфігурації.
+- Встановити: Встановити кількість елементів на X.
+- Очистити: Очистити всю конфігурацію.

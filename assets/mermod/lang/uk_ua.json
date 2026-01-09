@@ -9,8 +9,8 @@
   "tooltip.mermod.modifierHint": "Клацніть ПКМ крадькома, щоб видалити модифікатори",
   "tooltip.mermod.canBeDyed": "Можна фарбувати",
   "config.mermod.name": "Mermod Config",
-  "config.mermod.option.swimSpeed": "Ефект швидкості плавання",
-  "config.mermod.option.swimSpeedMultiplier": "Мультиплікатор швидкості плавання",
+  "config.mermod.option.swimSpeed": "Ефект швидкости плавання",
+  "config.mermod.option.swimSpeedMultiplier": "Мультиплікатор швидкости плавання",
   "config.mermod.option.waterBreathing": "Ефект дихання у воді",
   "config.mermod.option.nightVision": "Ефект нічного бачення",
   "config.mermod.option.nightVisionFlashingFix": "Виправлення миготіння нічного бачення"

@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Vibration Chamber
+  title: Вібраційна камера
   icon: vibration_chamber
   position: 110
 categories:
@@ -10,39 +10,35 @@ item_ids:
 - ae2:vibration_chamber
 ---
 
-# The Vibration Chamber
+# Вібраційна камера
 
 <BlockImage id="vibration_chamber" p:active="true" scale="8" />
 
-While the primary intended method of providing [energy](../ae2-mechanics/energy.md) to your network is an
-<ItemLink id="energy_acceptor" />, the vibration chamber can directly generate small to middling amounts of AE.
+Хоча основним передбаченим методом постачання [енергії](../ae2-mechanics/energy.md) до вашої мережі є <ItemLink id="energy_acceptor" />, вібраційна камера може безпосередньо генерувати невелику або помірну кількість AE.
 
-By default (no [upgrades](upgrade_cards.md) and default configs) it makes 40 AE/t.
+Усталено (без [модифікаторів](upgrade_cards.md) та змінених конфігурацій) вона виробляє 40 AE/т.
 
-When the network's [energy](../ae2-mechanics/energy.md) storage is full, the vibration chamber throttles down to conserve
-fuel, but cannot fully shut off.
+Коли сховище [енергії](../ae2-mechanics/energy.md) мережі заповнене, вібраційна камера зменшує навантаження для економії палива, але не може повністю вимкнутися.
 
-## Settings
+## Налаштування
 
-*   The vibration chamber provides access to the global setting to view energy in AE or E/FE.
+* Вібраційна камера надає доступ до глобальних налаштувань для перегляду енергії в AE або E/FE.
 
-## Upgrades
+## Модифікатори
 
-The vibration chamber supports the following [upgrades](upgrade_cards.md):
+Вібраційна камера підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="energy_card" /> increases the efficiency of the chamber by +50%, for a max of +150%, or 250% of the base efficiency.
-*   <ItemLink id="speed_card" /> increases the burn rate of the chamber by +50%, for a max of +150%, or 250% of the base power output.
+*   <ItemLink id="energy_card" /> збільшує ефективність камери на +50%, максимум на +150% або 250% від базової ефективності.
+*   <ItemLink id="speed_card" /> збільшує швидкість горіння камери на +50%, максимум на +150% або 250% від базової вихідної потужності.
 
-## Config
+## Конфігурація
 
-The properties of the vibration chamber can be edited in common.json in the ae2 folder in the config folder of your .minecraft\
-directory.
+Властивості вібраційної камери можна редагувати у файлі common.json у теці config\ae2 вашого каталогу .minecraft\.
 
-*   baseEnergyPerFuelTick sets the base, un-upgraded efficiency of the vibration chamber.
-*   minEnergyPerGameTick sets the lowest possible energy generation (the chamber will always slowly use some fuel even if the network
-    requires no energy).
-*   maxEnergyPerGameTick sets the un-upgraded max output (and speed) of the vibration chamber.
+* baseEnergyPerFuelTick встановлює базову ефективність вібраційної камери без модифікаторів.
+* minEnergyPerGameTick встановлює найнижче можливе виробництво енергії (камера завжди повільно використовуватиме паливо, навіть якщо мережа не потребує енергії).
+* maxEnergyPerGameTick встановлює максимальну потужність (і швидкість) вібраційної камери без модифікаторів.
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="vibration_chamber" />

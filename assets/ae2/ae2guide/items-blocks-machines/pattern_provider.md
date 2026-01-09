@@ -1,17 +1,17 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Pattern Provider
+  title: МЕ Постачальник шаблонів
   icon: pattern_provider
   position: 210
 categories:
-- devices
+  - devices
 item_ids:
-- ae2:pattern_provider
-- ae2:cable_pattern_provider
+  - ae2:pattern_provider
+  - ae2:cable_pattern_provider
 ---
 
-# The Pattern Provider
+# Постачальник шаблонів
 
 <Row gap="20">
 <BlockImage id="pattern_provider" scale="8" />
@@ -21,190 +21,157 @@ item_ids:
 </GameScene>
 </Row>
 
-Pattern providers are the primary way in which your [autocrafting](../ae2-mechanics/autocrafting.md) system interacts with the world. They push the ingredients in
-their [patterns](patterns.md) to adjacent inventories, and items can be inserted into them in order to insert them into the network. Often
-a channel can be saved by piping the output of a machine back into a nearby pattern provider (often the one that pushed the ingredients)
-instead of using an <ItemLink id="import_bus" /> to pull the output of the machine into the network.
+Постачальники шаблонів – це основний спосіб взаємодії вашої системи [автовироблення](../ae2-mechanics/autocrafting.md) зі світом. Вони передають складники зі своїх [шаблонів](patterns.md) до прилеглих містил, і результати вироблення можна вставляти в них, щоб повернути їх у мережу. Часто канал можна зберегти, передаючи вивід машини назад до постачальника шаблонів (часто того, який передав складники), замість використання <a href="import_bus.md">шини імпорту</a> для витягування результатів машини в мережу.
 
-Of note, since they push the ingredients directly from the [crafting storage](crafting_cpu_multiblock.md#сховище-для-вироблення) in a crafting CPU, they
-never actually contain the ingredients in their inventory, so you cannot pipe out from them. You have to have the provider push
-to another inventory (like a barrel) then pipe from that.
+Зауважте, що оскільки вони передають складники безпосередньо зі [сховища вироблення](crafting_cpu_multiblock.md#сховище-для-вироблення) у процесорі вироблення, вони насправді ніколи не містять складники у своєму інвентарі, тому ви не можете вивести їх з них. Щоб «витягати» складники з постачальника, вам потрібно використовувати буфер на кшталт діжки, а потім передати їх куди потрібно.
 
-Also of note, the provider has to push ALL of the ingredients at once, it can't push half-batches. This is useful
-to exploit.
+Також слід зазначити, що постачальник може тільки надсилати ВСІ складники одночасно, він не може надсилати партії частково. Користуйтеся цим на власну користь.
 
-Pattern providers have a special interaction with interfaces on [subnets](../ae2-mechanics/subnetworks.md): if the interface is unmodified (nothing in the request slots)
-the provider will skip the interface entirely and push directly to that subnet's [storage](../ae2-mechanics/import-export-storage.md),
-skipping the interface and not filling it with recipe batches, and more importantly, not inserting the next batch until there's space in the machine.
-This works correctly with blocking mode, the provider will monitor the slots in the machine for ingredients, instead of the slots in the interface.
+Постачальники шаблонів мають спеціальну взаємодію з інтерфейсами в [підмережах](../ae2-mechanics/subnetworks.md): якщо інтерфейс не змінений (нічого немає в слотах запитів), постачальник повністю пропустить інтерфейс і надішле ресурси безпосередньо до [сховища](../ae2-mechanics/import-export-storage.md) цієї підмережі, пропускаючи інтерфейс і не заповнюючи його партіями рецептів, і, що ще важливіше, не вставляючи наступну партію, доки в підмережевій машині не звільниться місце. Ця поведінка також підтримує режим блокування, постачальник контролюватиме слоти в машині на наявність складників, а не слоти в інтерфейсі.
 
-For example, this setup will push both the thing to be smelted and the fuel directly into the corresponding slots in the furnace.
-You can use this to pattern provide into multiple sides of a machine, or multiple machines.
+Наприклад, ця схема надсилатиме як об'єкт, що плавиться, так і паливо безпосередньо у відповідні слоти в печі. Ви можете використовувати це для надання шаблонів на кількох сторонах машини або одночасно на кількох машинах.
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/furnace_automation.snbt" />
 
 <BoxAnnotation color="#dddddd" min="1 0 0" max="2 1 1">
-        (1) Pattern Provider: The directional variant, via use of a certus quartz wrench, with the relevant processing patterns.
+        (1) Постачальник шаблонів: Варіант спрямованого використання (створюється гайковим ключем) з відповідними шаблонами обробки.
 
-        ![Iron Pattern](../assets/diagrams/furnace_pattern_small.png)
+        ![Шаблон заліза](../assets/diagrams/furnace_pattern_small.png)
+
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 1 0" max="2 1.3 1">
-        (2) Interface: In its default configuration.
+        (2) Інтерфейс: Без налаштувань.
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 1 0" max="1.3 2 1">
-        (3) Storage Bus #1: Filtered to coal.
+        (3) Шина зберігання №1: Відфільтрована на вугілля.
         <ItemImage id="minecraft:coal" scale="2" />
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 2 0" max="1 2.3 1">
-        (4) Storage Bus #2: IFiltered to blacklist coal, using an inverter card.
+        (4) Шина зберігання №2: Відфільтрована на НЕ вугілля за допомогою карти інвертора.
         <Row><ItemImage id="minecraft:coal" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
   </BoxAnnotation>
 
 <DiamondAnnotation pos="4 0.5 0.5" color="#00ff00">
-        To Main Network
+        До основної мережі
     </DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-This is a general illustration of providing to multiple machines
+Це загальна ілюстрація надання ресурсів кільком машинам
 
 <GameScene zoom="6" background="transparent">
 <ImportStructure src="../assets/assemblies/provider_interface_storage.snbt" />
 
 <BoxAnnotation color="#dddddd" min="2.7 0 1" max="3 1 2">
-        Interface (must be flat, not fullblock)
+        Інтерфейс (має бути кабельним)
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 0 0" max="1.3 1 4">
-        Storage Busses
+        Шини зберігання
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 0 0" max="1 1 4">
-        Places you want to pattern-provide to
+        Місця, куди потрібно надавати ресурси шаблона
   </BoxAnnotation>
 
 <IsometricCamera yaw="185" pitch="30" />
 </GameScene>
 
-Multiple pattern providers with identical patterns are supported and work in parallel.
+Декілька постачальників шаблонів з однаковим шаблоном працюватимуть паралельно.
 
-Pattern providers will attempt to round-robin their batches to all of their faces, thus using all attached machines in parallel.
+Постачальники шаблонів намагатимуться розподілити свої партії по всіх своїх гранях, таким чином використовуючи всі підключені машини майже паралельно.
 
-## Variants
+## Типи
 
-Pattern Providers come in 3 different variants: normal, directional, and flat/[subpart](../ae2-mechanics/cable-subparts.md). This affects which specific sides they push
-ingredients to, receive items from, and provide a network connection to.
+Постачальники шаблонів бувають 3 різних типів: звичайні, спрямовані та пласкі/[кабельні](../ae2-mechanics/cable-subparts.md). Це впливає на те, до яких конкретних сторін вони переміщують складники, від яких отримують предмети та якими надають мережеве з'єднання.
 
-* Normal pattern providers push ingredients to all sides, receive inputs from all sides, and, like most AE2 machines, act
-    like a cable providing [network connections](../ae2-mechanics/me-network-connections.md) to all sides.
+- Звичайні постачальники шаблонів передають складники в усі боки, отримують результати з усіх боків і, як і більшість машин AE2, діють як кабель, що забезпечує [мережеве з'єднання](../ae2-mechanics/me-network-connections.md) з усіма сторонами.
 
-* Directional pattern providers are made by using a <ItemLink id="certus_quartz_wrench" /> on a normal pattern provider to change its
-    direction. They only push ingredients to the selected side, receive inputs from all sides, and specifically don't provide a
-  [network connection](../ae2-mechanics/me-network-connections.md) on the selected side. This allows them to push to AE2 machines without connecting networks, if you want to make a subnetwork.
+- Спрямовані постачальники шаблонів надсилають складники тільки на вибрану сторону, отримують вхідні дані з усіх боків і не забезпечують [мережеве з'єднання](../ae2-mechanics/me-network-connections.md) на вихідній стороні. Це дозволяє їм надсилати дані на машини AE2 без підключення до мереж, якщо ви хочете створити підмережу. Застосувавши <ItemLink id="certus_quartz_wrench" /> на звичайному постачальнику шаблонів ви отримаєте його спрямований варіант, який можна обертати додатковим застосуванням ключа.
 
-* Flat pattern providers are [cable subparts](../ae2-mechanics/cable-subparts.md), and so multiple can be placed on the same cable, allowing for compact setups.
-    They act similar to the selected side on a directional pattern provider, providing patterns, receiving inputs, and **not**
-    providing a [network connection](../ae2-mechanics/me-network-connections.md) on their face.
+- Пласкі постачальники шаблонів є [кабельним компонентом](../ae2-mechanics/cable-subparts.md), тому на одному кабелі можна розмістити декілька, що дозволяє створювати компактні конфігурації. Вони діють подібно до вихідного боку спрямованого постачальника шаблонів, надаючи через нього шаблони, отримуючи результати та **не** надаючи [мережевого з'єднання](../ae2-mechanics/me-network-connections.md) on their face.
 
-Pattern providers can be swapped between normal and flat in a crafting grid.
+Постачальники шаблонів можна конвертувати між звичайними та пласкими в сітці майстрування.
 
-## Settings
+## Налаштування
 
-Pattern providers have a variety of modes:
+Постачальники шаблонів мають різні режими:
 
-*   **Blocking Mode** stops the provider from pushing a new batch of ingredients if there are already
-    ingredients in the machine.
-*   **Lock Crafting** can lock the provider under various redstone conditions, or until the result of the
-    previous craft is inserted into that specific pattern provider.
-*   The provider can be shown or hidden on <ItemLink id="pattern_access_terminal" />s.
+- **Режим блокування** зупиняє постачальника від надсилання нової партії складників, якщо в машині вже є складники.
+- **Блокування вироблення** може заблокувати постачальника за різних умов редстоуну або доти, доки результат попереднього вироблення не буде вставлений у цей конкретний постачальник шаблонів.
+- Постачальник може бути показаний або прихований для: <ItemLink id="pattern_access_terminal" />.
 
-## Priority
+## Пріоритет
 
-Priorities can be set by clicking the wrench in the top-right of the GUI. In the case of several [patterns](patterns.md)
-for the same item, patterns in providers with higher priority will be used over patterns in providers with lower priority,
-unless the network does not have the ingredients for the higher priority pattern.
+Пріоритети можна встановити, натиснувши на кнопку налаштування у правому верхньому куті графічного інтерфейсу. У разі наявності декількох [шаблонів](patterns.md) для одного і того ж предмета, шаблони в постачальниках з вищим пріоритетом будуть використовуватися замість шаблонів в провайдерах з нижчим пріоритетом, за винятком випадків, коли в мережі відсутні складники для шаблону з вищим пріоритетом.
 
-## A Common Misconception
+## Поширена помилка
 
-For some reason people keep doing this, I don't understand why, but I'm putting this here to hopefully help. (Perhaps
-people are mistaken, thinking an <ItemLink id="export_bus" /> is the only way for things to exit the network, not knowing
-that pattern providers also export things)
+З якоїсь причини люди продовжують це робити. Я не розумію чому, тому розміщу це тут, і сподіваюсь, що це допоможе саме вам. (Можливо, люди помиляються, думаючи, що <ItemLink id="export_bus" /> — єдиний спосіб для виводу речей з мережі, не знаючи, що постачальники шаблонів також експортують речі)
 
-This will not do what you want it to do. As mentioned in [cables](cables.md), cables are not item pipes, they have no internal
-inventory, providers will not push into them.
+Ця устава не зробить те, що ви хочете. Як згадувалося в розділі про [кабелі](cables.md), кабелі не є предметними трубами, вони не мають внутрішнього інвентарю, і постачальники не будуть надсилати в них дані.
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../assets/assemblies/provider_misconception_1.snbt" />
 
   <BoxAnnotation color="#dddddd" min="1 0 3" max="2 1 4">
-        Not A Blast Furnace
+        Будь-яка машина
   </BoxAnnotation>
 
   <IsometricCamera yaw="95" pitch="5" />
 </GameScene>
 
-Since the provider doesn't have anything to push to, it will
-not be able to function. All it's doing here is acting like a cable, connecting the <ItemLink id="export_bus" /> to the
-network.
+Оскільки постачальник не має куди надсилати ресурси, він не зможе функціонувати. Все, що він тут робить, це діє як кабель, з'єднуючи <a href="export_bus.md">шини експорту</a> з мережею.
 
-The provider will also not somehow tell the <ItemLink id="export_bus" /> what to export, the export bus will just export
-everything you put in its filter.
+Постачальник також якимось чином не вкаже <a href="export_bus.md">шині експорту</a>, що експортувати, шина експорту просто експортуватиме все, що ви помістите в її фільтр.
 
-What we've essentially done here is this:
+Що ми тут по суті зробили, це ось що:
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../assets/assemblies/provider_misconception_2.snbt" />
 
   <BoxAnnotation color="#dddddd" min="1 0 3" max="2 1 4">
-        Not A Blast Furnace
+        Будь-яка машина
   </BoxAnnotation>
 
   <IsometricCamera yaw="95" pitch="5" />
 </GameScene>
 
-Likely what you would actually want to make is this, where the pattern provider can export the contents of its patterns to
-the adjacent machine:
+Ймовірно, ви насправді захочете зробити ось що: постачальник шаблонів може безпосередньо експортувати вміст своїх шаблонів у прилеглу машину:
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../assets/assemblies/provider_misconception_3.snbt" />
 
   <BoxAnnotation color="#dddddd" min="1 0 3" max="2 1 4">
-        Not A Blast Furnace
+        Будь-яка машина
   </BoxAnnotation>
 
   <IsometricCamera yaw="95" pitch="5" />
 </GameScene>
 
-## Use With Molecular Assemblers
+## Використання з молекулярними збирачами
 
-<ItemLink id="molecular_assembler" />s are basically just like any other machine. They have an inventory that can be inserted
-into, they then perform an action on the things in that inventory, and then, like many machines, they push the result to an
-adjacent inventory. Thus, they should be used with providers like any other machine, with one addition:
+<ItemLink id="molecular_assembler" /> — це, по суті, така ж машина, як і будь-яка інша. Вони мають інвентар, в який можна вставити елементи, потім виконують дію над об'єктами в цьому інвентарі, а потім, як і багато машин, переносять результат у сусідній інвентар. Таким чином, їх слід використовувати з постачальниками, як і будь-які інші машини, з одним доповненням:
 
-Assemblers can take the desired pattern from a <ItemLink id="crafting_pattern" />, <ItemLink id="smithing_table_pattern" />, or <ItemLink id="stonecutting_pattern" />
-that is inserted directly into the assembler.
-This is useful in an assembly line but having to have a dedicated assembler per-crafting-recipe would be annoying.
+Збирачі можуть виконувати <ItemLink id="crafting_pattern" />, <ItemLink id="smithing_table_pattern" /> або <ItemLink id="stonecutting_pattern" />, які вставляються безпосередньо в них. Це корисно на конвеєрі, але необхідність мати окремий асемблер для кожного рецепту вироблення була б дратівливою.
 
-Thus, pattern providers have a special functionality with assemblers, they can send the pattern data along with the ingredients.
-This way, you can simply place an assembler next to a pattern provider, and the provider can then use the assembler for all of its
-crafting, smithing, and stonecutting patterns.
+Таким чином, постачальники шаблонів мають спеціальну функціональність разом зі збирачами: вони можуть надсилати форми шаблонів разом зі складниками. Таким чином, ви можете просто розмістити збирач поруч із постачальником шаблонів, і постачальник зможе використовувати його для всіх своїх шаблонів майстрування, кування та тесання.
 
-It's really this simple, just put the patterns in the providers:
+Все і справді так просто: просто помістіть шаблони в постачальники:
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/assembler_tower.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-*Note that this has exactly 8 providers, the maximum amount of channels that can be routed through a single assembler, provider, or
-non-dense cable.*
+_Зверніть увагу, що встановлено рівно 8 постачальників, максимальна кількість каналів, які можна прокласти через один збирач, постачальника або нещільний кабель._
 
-## Recipes
+##Рецепти
 
 <RecipeFor id="pattern_provider" />
 

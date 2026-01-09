@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: Crystal Assembler
+    title: Кристалічний збирач
     icon: extendedae:crystal_assembler
 categories:
 - extended foundation
@@ -9,14 +9,14 @@ item_ids:
 - extendedae:crystal_assembler
 ---
 
-# Crystal Assembler
+# Кристалічний збирач
 
 <Row>
 <BlockImage id="extendedae:crystal_assembler" scale="8"></BlockImage>
 </Row>
 
-Those extended devices are too complex for crafting table to craft, and you will need Crystal Assembler to craft most of them.
+Розширені пристрої ExtendedAE занадто складні для створення на верстаку — вам знадобиться кристалічний збирач для створення більшості з них.
 
-**Notice: The screen face can't connect to network.**
+**Примітка: Бік з екраном не може під'єднатися до мережі.**
 
-It also can perform certain in-world transformation recipes, like fluix transformation.
+Кристалічний збирач також є надійним середовищем для виконання рецептів трансформації, які до цього ви могли виконувати тільки у світі.

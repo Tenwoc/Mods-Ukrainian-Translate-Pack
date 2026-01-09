@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: aae_intro/aae_intro-index.md
-  title: ME Advanced Pattern Provider
+  title: МЕ Покращений постачальник шаблонів
   icon: advanced_ae:adv_pattern_provider
 categories:
   - advanced devices
@@ -12,7 +12,7 @@ item_ids:
   - advanced_ae:small_adv_pattern_provider_part
 ---
 
-# ME Advanced Pattern Provider
+# МЕ Покращений постачальник шаблонів
 
 <Row gap="20">
 <BlockImage id="advanced_ae:adv_pattern_provider" scale="8"></BlockImage>
@@ -22,17 +22,12 @@ item_ids:
 </GameScene>
 </Row>
 
-ME Advanced Pattern Provider is a new type of <ItemLink id="ae2:pattern_provider" /> that upgrades
-a standard version or an <ItemLink id="extendedae:ex_pattern_provider" /> with the capability to configure the face to
-which any individual item in a pattern will be pushed to. This powerful addition allows for automation of machines that
-require specific sides for specific inputs to be done with a single block and no pipes!
+МЕ Покращений постачальник шаблонів – це ще один <ItemLink id="ae2:pattern_provider" />, який є ще кращою версію постачальника, ніж <ItemLink id="extendedae:ex_pattern_provider" />, надаючи можливість налаштувати грань, на яку буде переміщено будь-який окремий складник у шаблоні. Це потужне доповнення дозволяє автоматизувати машини, які потребують певних сторін для виконання певних вхідних складників, використовуючи єдиний блок без додаткових труб!
 
-*Looking at you, Mekanism.*
+*Все заради тебе, Mekanism.*
 
-To be able to use this feature, you'll need to insert an <ItemLink id="advanced_ae:adv_processing_pattern" /> created
-by inserting an encoded pattern in a <ItemLink id="advanced_ae:adv_pattern_encoder" /> and taking out the advanced
-version.
+Щоб мати змогу використовувати цю функцію, вам потрібно вставити <ItemLink id="advanced_ae:adv_processing_pattern" /> створений шляхом вставки закодованого шаблону в <ItemLink id="advanced_ae:adv_pattern_encoder" /> та отримати покращену версію.
 
-There's also an extended version, capable of housing up to 36 patterns in a single pattern provider.
+Також існує розширена версія, здатна містити до 36 шаблонів в одному постачальнику шаблонів.
 
 ![AAEGui](../pic/app_gui.png)

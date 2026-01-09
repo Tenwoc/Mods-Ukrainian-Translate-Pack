@@ -1,7 +1,7 @@
 ---
 navigation:
     parent: epp_intro/epp_intro-index.md
-    title: Entro Dust
+    title: Ентропійний пил
     icon: extendedae:entro_dust
 categories:
 - entro system
@@ -9,12 +9,12 @@ item_ids:
 - extendedae:entro_dust
 ---
 
-# Entro Dust
+# Ентропійний пил
 
 <Row>
 <ItemImage id="extendedae:entro_dust" scale="4"></ItemImage>
 </Row>
 
-You can get it by crushing a <ItemLink id="extendedae:entro_crystal" /> or breaking [Entroized Fluix Budding](./entro_budding.md).
+Ви можете отримати його, подрібнивши <ItemLink id="extendedae:entro_crystal" />, або зламавши [ентроїзований родючий флюїкс](./entro_budding.md).
 
-It is used to craft certain ExtendedAE machines and <ItemLink id="extendedae:entro_ingot" />.
+З нього створюється <ItemLink id="extendedae:entro_ingot" /> та деякі машини ExtendedAE.

@@ -1,17 +1,17 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Wireless Terminals
+  title: Бездротові термінали
   icon: wireless_crafting_terminal
   position: 410
 categories:
-- tools
+  - tools
 item_ids:
-- ae2:wireless_terminal
-- ae2:wireless_crafting_terminal
+  - ae2:wireless_terminal
+  - ae2:wireless_crafting_terminal
 ---
 
-# Wireless Terminals
+# Бездротові термінали
 
 <Row>
   <ItemImage id="wireless_terminal" scale="4" />
@@ -19,35 +19,31 @@ item_ids:
   <ItemImage id="wireless_crafting_terminal" scale="4" />
 </Row>
 
-Wireless terminals are portable versions of the regular wired [terminals](terminals.md). They have the exact same UIs as their
-wired counterparts, except instead of slots for <ItemLink id="view_cell" />s, they have slots for [upgrade cards](upgrade_cards.md)
+Бездротові термінали – це портативні версії звичайних дротових [терміналів](terminals.md). Вони мають точно такий самий інтерфейс, як і їхні дротові аналоги, за винятком того, що замість слотів для <a href="view_cell.md">комірок перегляду</a> вони мають слоти для [модифікаторів](upgrade_cards.md)
 
-In order to pair them with a network, insert the terminal in the top-right slot of a <ItemLink id="wireless_access_point" />
-connected to that network. (The slot with a picture of a wireless terminal on it and an arrow below it)
+Щоб приєднати їх до мережі, вставте термінал у верхній правий слот <a href="wireless_access_point.md">бездротової точки доступу</a>, підключеного до цієї мережі. (Слот із зображенням бездротового термінала та стрілкою під ним)
 
-They must be within range of a <ItemLink id="wireless_access_point" /> to function.
+Вони повинні знаходитися в зоні дії точки доступу, щоб функціонувати.
 
-Their energy can be recharged in a <ItemLink id="charger" />.
+Їх можна заряджати, використовуючи <ItemLink id="charger" />.
 
-# Wireless Terminal
+# Бездротовий термінал
 
 <ItemImage id="wireless_terminal" scale="4" />
 
-Your basic terminal, now portable! View and access the contents of your [network's storage](../ae2-mechanics/import-export-storage.md)
-and request things from your [autocrafting](../ae2-mechanics/autocrafting.md) setup from anywhere within the range of a
-<ItemLink id="wireless_access_point" />.
+Ваш базовий термінал, але тепер портативний! Переглядайте та отримуйте доступ до вмісту вашого [мережевого сховища](../ae2-mechanics/import-export-storage.md) і запитуйте речі з вашої устави [автовироблення](../ae2-mechanics/autocrafting.md) з будь-якого місця в межах досяжності бездротової точки доступу.
 
-## The UI
+## Інтерфейс
 
-See [terminals](terminals.md)
+Дивіться розділ про [термінали](terminals.md)
 
-## Upgrades
+## Модифікатори
 
-The Wireless Terminal supports the following [upgrades](upgrade_cards.md):
+Бездротовий термінал підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="energy_card" /> in order to increase the battery capacity
+- <ItemLink id="energy_card" /> збільшує місткість акумулятора
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="wireless_terminal" />
 
@@ -55,19 +51,18 @@ The Wireless Terminal supports the following [upgrades](upgrade_cards.md):
 
 <ItemImage id="wireless_crafting_terminal" scale="4" />
 
-The Wireless Crafting Terminal is similar to a regular wireless terminal, with all the same settings and sections, but with an added crafting grid that will be automatically
-refilled from [network storage](../ae2-mechanics/import-export-storage.md). Be careful when shift-clicking the output!
+Бездротовий термінал майстрування схожий на звичайний бездротовий термінал, з усіма тими самими налаштуваннями та розділами, але з доданою сіткою майстрування, яка автоматично поповнюватиметься з [мережевого сховища](../ae2-mechanics/import-export-storage.md). Будьте обережні, натискаючи клавішу Shift на виводі!
 
-## The UI
+## Інтерфейс
 
-See [terminals](terminals.md)
+Дивіться розділ про [термінали](terminals.md)
 
-## Upgrades
+## Модифікатори
 
-The Wireless Crafting Terminal supports the following [upgrades](upgrade_cards.md):
+Бездротовий термінал майстрування підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="energy_card" /> in order to increase the battery capacity
+- <ItemLink id="energy_card" /> збільшує місткість акумулятора
 
-## Recipe
+## Рецепт
 
 <RecipeFor id="wireless_crafting_terminal" />

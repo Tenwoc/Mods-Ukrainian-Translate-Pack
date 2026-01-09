@@ -1,5 +1,5 @@
 {
-    "name": "Bursting Vitality",
+    "name": "Спалах життєвої сили",
     "icon": "apothic_attributes:textures/mob_effect/vitality.png",
     "category": "apotheosis:potion/effects",
 	"flag": "apotheosis:potion",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Potion of $(9)Bursting Vitality$() is a beneficial effect.$(p)While under its effects, all healing received is increased."
+            "text": "$(9)Спалах життєвої сили$() – це корисний ефект.$(p)Під його впливом усе зцілення посилюється."
         },
 		{
             "type": "patchouli:text",
-            "text": "The healing increase is equal to 20% per level."
+            "text": "Посилення зцілення дорівнює 20% на рівень."
         }
 	]
 }
