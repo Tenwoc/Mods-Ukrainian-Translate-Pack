@@ -21,7 +21,7 @@
   "gui.tooltips.megacells.CompressionCutoff": "Матеріал масового стиснення",
   "gui.tooltips.megacells.Contains": "Містить: %s",
   "gui.tooltips.megacells.ContainsTraceUnits": "Містить компоненти доріжок!",
-  "gui.tooltips.megacells.Cutoff": "Матеріал стиснення: %s",
+  "gui.tooltips.megacells.Cutoff": "Цільовий матеріал стиснення: %s",
   "gui.tooltips.megacells.Disabled": "Вимкнено",
   "gui.tooltips.megacells.Empty": "Порожньо",
   "gui.tooltips.megacells.Enabled": "Ввімкнено",

@@ -1,0 +1,11 @@
+Item Router
+Left foot yellow, right hand green
+<&recipe>The Item Router is designed to parcel and sort items into inventories such as chests, machines, and <link;conveyor_belts;conveyors>.<br>
+Items inserted into the router will be output from matching configured sides or open sides in that order.<np>
+Items can be inserted from any side, and will be output from one of the other five sides, or will disallow input if they cannot be sorted.<br>
+Routers will extract from routers and inventories they are connected to when they are extracted from themselves.<br>
+Colors match to a cardinal direction and a set of filters the router will sort with.<np>
+The buttons above each filter can be used to further adjust how the filter works:<br>
+§2Tag-based filtering§r allows items through the filter if they match a tag of the specified item. The specific tag can be selected with the scroll-wheel. This can be used to filter ingots, ores or other items with similar properties together.<br>
+The §2Damage filter§r option allows the filter to ignore the damage value of a tool or weapon.<np>
+The §2Components filter§r option allows respecting additional, special properties of the item, such as enchantments or color.
