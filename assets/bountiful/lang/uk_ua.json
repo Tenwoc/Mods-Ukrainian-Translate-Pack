@@ -1,65 +1,91 @@
 {
+
+	"bountiful.mod.name": "Bountiful",
+
   "block.bountiful.bountyboard": "Дошка оголошень",
+
   "itemGroup.bountiful": "Bountiful",
-  "bountiful.entry.shepherd_obj_wool_wildcard": "Будь-яка шерсть",
-  "bountiful.entry.fletcher_obj_planks": "Будь-які дошки",
-  "bountiful.entry.fletcher_obj_logs": "Будь-які колоди",
-  "bountiful.entry.shepherd_obj_bed_wildcard": "Будь-яке ліжко",
-  "bountiful.entry.fisherman_obj_any_boat": "Будь-який човен",
-  "bountiful.entry.mapper_obj_candles": "Будь-яка свічка",
-  "bountiful.entry.shepherd_obj_banner_wildcard": "Будь-який стяг",
+
+	"bountiful.toast.complete": "Місію виконано!",
+	"bountiful.toast.complete.desc": "Здайте місію на дошці нагород!",
+
   "bountiful.entry.fisherman_obj_catch_ench_book": "Виловити зачаровані книги",
   "bountiful.entry.cleric_obj_brew_swiftness": "Зварити базове зілля Швидкості",
   "bountiful.entry.cleric_obj_cure_zombie_villager": "Вилікувати зомбоселянина",
-  "bountiful.decree": "Указ",
-  "bountiful.decrees": "Укази",
-  "bountiful.decree.invalid": "Недійсний указ",
+
+  "bountiful.ui.shorthand.minutes": "хв",
+	"bountiful.ui.shorthand.seconds": "с",
+	"bountiful.ui.discount": "Знижка",
+	"bountiful.ui.reputation": "Репутація",
+	"bountiful.ui.empty": "Тут порожньо! Перевірте пізніше!",
+
+  "bountiful.decree": "Місія",
+  "bountiful.decrees": "Місії",
+  "bountiful.decree.invalid": "Недійсна місія",
   "bountiful.decree.notset": "Принесіть на дошку оголошень!",
+
   "bountiful.bounty.expired": "Термін дії цього завдання минув.",
   "bountiful.bounty.turnin": "Виконайте своє завдання, клацнувши ПКМ на дошці оголошень.",
-  "bountiful.advancement.bounty_taken.title": "Робота за наймом",
+
   "bountiful.advancement.bounty_taken.desc": "Візьміть завдання з дошки оголошень",
+
   "bountiful.advancement.bounty_complete.title": "Чесна оплата за чесну працю",
   "bountiful.advancement.bounty_complete.desc": "Виконайте завдання!",
-  "bountiful.advancement.rush_order.title": "Термінова доставка",
+
+  "bountiful.advancement.rush_order.title": "Термінове доставляння",
   "bountiful.advancement.rush_order.desc": "Виконайте завдання менш ніж за хвилину",
+
   "bountiful.advancement.procrastinator.title": "Майстер прокрастинації",
-  "bountiful.advancement.procrastinator.desc": "Виконайте завдання, залишивши менше п'яти секунд",
+  "bountiful.advancement.procrastinator.desc": "Виконайте завдання за менш ніж п'ять секунд до його спливання",
+
   "bountiful.advancement.town_crier.title": "Міський глашатай",
-  "bountiful.advancement.town_crier.desc": "Отримайте указ!",
-  "bountiful.advancement.royal_mandate.title": "Королівський указ",
-  "bountiful.advancement.royal_mandate.desc": "Розмістіть указ на дошку оголошень",
+  "bountiful.advancement.town_crier.desc": "Отримайте місію!",
+
+	"bountiful.advancement.printing_press.title": "Брошурування",
+	"bountiful.advancement.printing_press.desc": "Об'єднайте дві місії на ковадлі",
+
+	"bountiful.advancement.ninety_five_theses.title": "95 цейвох",
+	"bountiful.advancement.ninety_five_theses.desc": "Розмістіть по місії кожного типу на дошці оголошень",
+
+	"bountiful.advancement.fetch_quest.title": "Квест «Подай-принеси»",
+	"bountiful.advancement.fetch_quest.desc": "Дайте своєму вихованцю вбити моба, який є ціллю місії",
+
   "bountiful.bounty": "Завдання",
+
   "bountiful.decree.armorer.name": "Обладунки",
   "bountiful.decree.butcher.name": "М'ясник",
   "bountiful.decree.chef.name": "Запаси шеф-кухаря",
-  "bountiful.decree.cleric.name": "Запаси священика",
+  "bountiful.decree.cleric.name": "Запаси церковника",
   "bountiful.decree.farmer.name": "Фермерство",
   "bountiful.decree.fisherman.name": "Рибалка",
   "bountiful.decree.fletcher.name": "Виготовлення стріл",
-  "bountiful.decree.hunting.name": "Полювання на мобів",
+  "bountiful.decree.hunting.name": "Полювання",
   "bountiful.decree.inventor.name": "Винахідництво",
-  "bountiful.decree.leatherer.name": "Шкірництво",
+  "bountiful.decree.leatherer.name": "Шкурництво",
   "bountiful.decree.librarian.name": "Бібліотекар",
   "bountiful.decree.mapper.name": "Картографія",
-  "bountiful.decree.mason.name": "Каменяр",
+  "bountiful.decree.mason.name": "Каменярство",
   "bountiful.decree.shepherd.name": "Вівчарство",
-  "bountiful.decree.tinker.name": "Майстерність",
-  "bountiful.decree.toolsmith.name": "Виготовлення інструментів",
-  "bountiful.decree.invalid_decree.name": "Недійсний указ",
-  "bountiful.bounty.type.entity.kills": "Вбивства",
-  "bountiful.bounty.type.experience.levels": "Рівні досвіду",
-  "bountiful.bounty.type.experience.points": "Окуляри досвіду",
+  "bountiful.decree.tinker.name": "Інженерія",
+  "bountiful.decree.toolsmith.name": "Ковальство",
+	"bountiful.decree.chaos.name": "Режим хаосу",
+
+	"bountiful.bounty.type.entity.kill": "Вбивство",
+	"bountiful.bounty.type.entity.kills": "Вбивства",
+
   "bountiful.rarity.Common": "Звичайний",
   "bountiful.rarity.Uncommon": "Незвичайний",
   "bountiful.rarity.Rare": "Рідкісний",
   "bountiful.rarity.Epic": "Епічний",
+
   "stat.bountiful.bounties_taken": "Взяті завдання",
-  "stat.bountiful.bounties_done": "Виконані завдання (всього)",
-  "stat.bountiful.bounties_done_0": "Виконані завдання (звичайні)",
-  "stat.bountiful.bounties_done_1": "Виконані завдання (незвичайні)",
-  "stat.bountiful.bounties_done_2": "Виконані завдання (рідкісні)",
-  "stat.bountiful.bounties_done_3": "Виконані завдання (епічні)",
+  "stat.bountiful.bounties_done": "Виконані завдання (Всього)",
+	"stat.bountiful.bounty_completion_time": "Час виконання завдання (Загальний)",
+  "stat.bountiful.bounties_done_0": "Виконані завдання (Звичайні)",
+  "stat.bountiful.bounties_done_1": "Виконані завдання (Незвичайні)",
+  "stat.bountiful.bounties_done_2": "Виконані завдання (Рідкісні)",
+  "stat.bountiful.bounties_done_3": "Виконані завдання (Епічні)",
+
   "bountiful.tooltip.time": "Час виконання",
   "bountiful.tooltip.required": "Потрібно",
   "bountiful.tooltip.rewards": "Нагороди",

@@ -390,7 +390,7 @@
   "gui.ae2.MEChest": "МЕ Скриня",
   "gui.ae2.MENetworkStorage": "МЕ Мережеве сховище",
   "gui.ae2.Magenta": "Пурпурний",
-  "gui.ae2.MaxPower": "Макс. потужність: %s",
+  "gui.ae2.MaxPower": "Енерг. місткість: %s",
   "gui.ae2.Missing": "Відсутньо: %s",
   "gui.ae2.MolecularAssembler": "Молекулярний збирач",
   "gui.ae2.MultipleOutputs": "%1$d%% вторинного, %2$d%% третинного виходу.",

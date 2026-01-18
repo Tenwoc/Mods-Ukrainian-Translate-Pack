@@ -1,0 +1,190 @@
+{
+  "item.ars_zero.novice_spell_staff": "Посох заклять початківця",
+  "item.ars_zero.novice_spell_staff.desc": "Магічний посох початківця, який може використовувати заклинання у трьох фазах: Початок, Такт та Кінець. Доступні лише гліфи 1 рівня.",
+
+  "item.ars_zero.mage_spell_staff": "Посох заклять мага",
+  "item.ars_zero.mage_spell_staff.desc": "Магічний посох мага, який може використовувати заклинання у трьох фазах: Початок, Такт та Кінець. Доступні гліфи від 1 до 2 рівня.",
+
+  "item.ars_zero.archmage_spell_staff": "Посох заклять архімага",
+  "item.ars_zero.archmage_spell_staff.desc": "Магічний посох архімага, який може використовувати заклинання у трьох фазах: Початок, Такт та Кінець. Доступні гліфи від 1 до 3 рівня.",
+
+  "item.ars_zero.creative_spell_staff": "Творчий посох заклять",
+  "item.ars_zero.creative_spell_staff.desc": "Творчий магічний посох, який може використовувати заклинання у трьох фазах: Початок, Такт та Кінець. Доступні усі гліфи.",
+  "item.ars_zero.dull_circlet": "Безглуздий обруч",
+  "item.ars_zero.dull_circlet.desc": "Пустий аксесуар, який є виключно інгредієнтом для інших предметів.",
+  "ars_zero.tooltip.dull": "Пустий аксесуар, який є виключно інгредієнтом для інших предметів.",
+  "item.ars_zero.spellcasting_circlet": "Обруч Псіона",
+  "item.ars_zero.spellcasting_circlet.desc": "Обруч, який спрямовує заклинання з вашого головного слоту з фазами Початку, Такту та Кінця.",
+
+  "item.ars_zero.archwood_rod": "Архідеревний стрижень",
+  "item.ars_zero.multiphase_orb": "Фазова сфера",
+
+  "block.ars_zero.arcane_voxel_spawner": "Викликач таємничого вокселя",
+  "block.ars_zero.fire_voxel_spawner": "Викликач вогневого вокселя",
+  "block.ars_zero.water_voxel_spawner": "Викликач водного вокселя",
+  "block.ars_zero.wind_voxel_spawner": "Викликач вітряного вокселя",
+  "block.ars_zero.stone_voxel_spawner": "Викликач кам'яного вокселя",
+  "block.ars_zero.ice_voxel_spawner": "Викликач крижаного вокселя",
+  "block.ars_zero.lightning_voxel_spawner": "Викликач блискавичного вокселя",
+  "block.ars_zero.blight_voxel_spawner": "Викликач затьмареного вокселя",
+  "block.ars_zero.blight_fluid": "Рідка затьмара",
+  "block.ars_zero.blight_cauldron": "Казан із затьмарою",
+  "block.ars_zero.frozen_blight": "Заморожена затьмара",
+  "block.ars_zero.multiphase_spell_turret": "Багатофазна чаклунська турель",
+
+  "item.ars_zero.blight_fluid_bucket": "Відро рідкої затьмари",
+
+  "entity.ars_zero.arcane_voxel_entity": "Таємничий воксель",
+  "entity.ars_zero.water_voxel_entity": "Вогневий воксель",
+  "entity.ars_zero.fire_voxel_entity": "Водний воксель",
+  "entity.ars_zero.stone_voxel_entity": "Вітряний воксель",
+  "entity.ars_zero.wind_voxel_entity": "Кам'яний воксель",
+  "entity.ars_zero.ice_voxel_entity": "Крижаний воксель",
+  "entity.ars_zero.lightning_voxel_entity": "Блискавичний воксель",
+  "entity.ars_zero.blight_voxel_entity": "Затьмарений воксель",
+  "entity.ars_zero.block_group": "Скупчення блоків",
+  "entity.ars_zero.water_convergence_controller": "Водна конвергенція",
+  "entity.ars_zero.geometry_break_controller": "Земний ґолем",
+  "entity.ars_zero.geometry_terrain_controller": "Земний ґолем",
+  "entity.ars_zero.geometry_controller": "Таємничий ґолем",
+
+  "gui.ars_zero.staff_title": "Творчий посох заклять",
+  "gui.ars_zero.phase.begin": "Початок",
+  "gui.ars_zero.phase.tick": "Такт",
+  "gui.ars_zero.phase.end": "Кінець",
+  "gui.ars_zero.current_phase": "Поточна фаза: %s",
+
+  "ars_affinity.gui.affinities": "Спорідненості",
+
+  "key.category.ars_zero.general": "Ars Zero",
+
+  "itemGroup.ars_zero": "Ars Zero",
+
+  "ars_zero.tooltip.circlet.cast": "Затисніть %s, щоб спрямувати обруч",
+  "ars_zero.tooltip.circlet.radial": "Затисніть %s, щоб відкрити коло заклять",
+  "ars_zero.alert.multiphase_turret.multi_phase_required": "Для багатофазних турелей потрібен пристрій для багатофазних заклять.",
+  "ars_zero.alert.multiphase_turret.no_spell_data": "Не вдалося прочитати дані заклять з цього пристрою.",
+  "ars_zero.alert.multiphase_turret.empty_slot": "Виберіть слот пристрою, що містить принаймні одне фазове закляття.",
+  "ars_zero.alert.multiphase_turret.spell_set": "Закляття багатофазної турелі оновлено.",
+
+  "ars_zero.glyph_name.conjure_voxel_effect": "Заклик вокселя",
+  "ars_zero.glyph_desc.conjure_voxel_effect": "Викликає невелику блокоподібну сутність",
+  "ars_zero.glyph_name.effect_windshear": "Вітряний розріз",
+  "ars_zero.glyph_desc.effect_windshear": "Викликає вітряний воксель, коли використовується разом із Закликом вокселя",
+  "ars_zero.glyph_name.effect_envenom": "Порча",
+  "ars_zero.glyph_desc.effect_envenom": "Викликає затьмарений воксель, коли використовується разом із Закликом вокселя",
+
+  "ars_zero.glyph_name.select_effect": "Відзнака",
+  "ars_zero.glyph_desc.select_effect": "Обирає ціль для подальших ефектів.",
+
+  "ars_nouveau.augment_desc.select_effect_glyph_aoe": "Збільшує площу блоків, які можна відзначити",
+  "ars_nouveau.augment_desc.select_effect_glyph_pierce": "Збільшує глибину блоків, які можна відзначити",
+  "ars_nouveau.augment_desc.select_effect_glyph_sensitive": "Змушує відзначати лише сутності.",
+
+  "ars_nouveau.augment_desc.conjure_voxel_effect_glyph_extend_time": "Збільшує час існування вокселя.",
+  "ars_nouveau.augment_desc.conjure_voxel_effect_glyph_sensitive": "Розміщує воксель у позиції поціленої сутності.",
+  "ars_nouveau.augment_desc.conjure_voxel_effect_glyph_amplify": "Збільшує розмір вокселя до 2 рівня, пришвидшуючи виведення води.",
+  "ars_nouveau.augment_desc.conjure_voxel_effect_glyph_split": "Розділяє воксель на декілька дрібніших сутностей.",
+
+  "ars_nouveau.augment_desc.enlarge_effect_glyph_amplify": "Збільшує швидкість зростання",
+  "ars_nouveau.augment_desc.enlarge_effect_glyph_dampen": "Зменшує швидкість зростання",
+
+  "ars_nouveau.augment_desc.near_form_glyph_amplify": "Збільшує дистанцію чаклування",
+  "ars_nouveau.augment_desc.near_form_glyph_dampen": "Зменшує дистанцію чаклування",
+
+  "ars_nouveau.augment_desc.push_effect_glyph_amplify": "Збільшує силу відштовхування",
+  "ars_nouveau.augment_desc.push_effect_glyph_dampen": "Зменшує силу відштовхування",
+  "ars_nouveau.augment_desc.push_effect_glyph_randomize": "Випадково додає до 10 градусів відхилення за доповнення",
+  "ars_nouveau.augment_desc.push_effect_glyph_extract": "Штовхає з напрямку між заклиначем та цільовою сутністю",
+
+  "ars_nouveau.augment_desc.anchor_effect_glyph_amplify": "Збільшує відстань від гравця",
+  "ars_nouveau.augment_desc.anchor_effect_glyph_dampen": "Зменшує відстань від гравця",
+
+  "item.ars_zero.sustain_effect": "Виживлення",
+  "ars_zero.glyph_name.sustain_effect": "Виживлення",
+  "ars_zero.glyph_desc.sustain_effect": "Подовжує час існування цілі",
+  "ars_zero.glyph_name.glyph_sustain_effect": "Виживлення",
+  "ars_zero.glyph_desc.glyph_sustain_effect": "Подовжує час існування цілі",
+  "ars_nouveau.glyph_name.sustain_effect": "Виживлення",
+  "ars_nouveau.augment_desc.sustain_effect_glyph_extend_time": "Додає такт за рівень",
+
+  "ars_nouveau.augment_desc.zero_gravity_effect_glyph_extend_time": "Подовжує тривалість пригнічення тяжіння",
+  "ars_nouveau.augment_desc.zero_gravity_effect_glyph_duration_down": "Скорочує тривалість пригнічення тяжіння",
+  "ars_zero.effect_augment_desc.conjure_voxel_effect_glyph_conjure_water": "Складений ефект: Заклик водного вокселя",
+  "ars_zero.effect_augment_desc.conjure_voxel_effect_glyph_ignite": "Складений ефект: Заклик вогневого вокселя",
+  "ars_zero.effect_augment_desc.conjure_voxel_effect_glyph_windshear": "Складений ефект: Заклик вітряного вокселя",
+  "ars_zero.effect_augment_desc.conjure_voxel_effect_glyph_conjure_terrain": "Складений ефект: Заклик кам'яного вокселя",
+  "ars_zero.effect_augment_desc.conjure_voxel_effect_glyph_cold_snap": "Складений ефект: Заклик крижаного вокселя",
+  "ars_zero.effect_augment_desc.conjure_voxel_effect_glyph_discharge": "Складений ефект: Заклик блискавичного вокселя",
+  "ars_zero.effect_augment_desc.conjure_voxel_effect_glyph_envenom": "Складений ефект: Заклик затьмареного вокселя",
+
+  "ars_zero.glyph_name.temporal_context_form": "Часовий контекст",
+  "ars_zero.glyph_desc.temporal_context_form": "Метод чаклування, що надає доступ до контексту попередньої фази закляття (лише для посохів)",
+
+  "ars_zero.glyph_name.near_form": "Поруч",
+  "ars_zero.glyph_desc.near_form": "Виконує закляття на короткій відстані вздовж лінії зору",
+  "ars_zero.glyph_name.glyph_conjure_voxel_effect": "Заклик вокселя",
+  "ars_zero.glyph_desc.glyph_conjure_voxel_effect": "Викликає невелику блокоподібну сутність, яка може наслідувати стихійні властивості.",
+
+  "item.ars_zero.anchor_effect": "Якір",
+  "ars_zero.glyph_name.anchor_effect": "Якір",
+  "ars_zero.glyph_desc.anchor_effect": "Зберігає відносно заклинача положення цілі(ей)",
+  "ars_zero.glyph_name.glyph_anchor_effect": "Якір",
+  "ars_zero.glyph_desc.glyph_anchor_effect": "Зберігає відносно заклинача положення цілі(ей)",
+  "ars_nouveau.glyph_name.anchor_effect": "Якір",
+
+  "ars_zero.glyph_name.push_effect": "Відштовх",
+  "ars_zero.glyph_desc.push_effect": "Штовхає ціль вздовж лінії зору.",
+
+  "ars_zero.glyph_name.discard_effect": "Скидання",
+  "ars_zero.glyph_desc.discard_effect": "Скидає неживі істоти.",
+  "ars_zero.glyph_name.glyph_discard_effect": "Скидання",
+  "ars_zero.glyph_desc.glyph_discard_effect": "Скидає неживі істоти. Корисно для видалення таємничих вокселів.",
+
+  "ars_zero.glyph_name.enlarge_effect": "Зростання",
+  "ars_zero.glyph_desc.enlarge_effect": "Збільшує розмір цільової сутності [Примітка: поки працює лише із вокселями]",
+
+  "ars_zero.glyph_name.zero_gravity_effect": "Видалення гравітації",
+  "ars_zero.glyph_desc.zero_gravity_effect": "Тимчасово знімає гравітацію з цілі, відновлюючи її після закінчення ефекту.",
+
+  "ars_zero.glyph_name.glyph_zero_gravity_effect": "Видалення гравітації",
+  "ars_zero.glyph_desc.glyph_zero_gravity_effect": "Тимчасово знімає гравітацію з цілі, повертаючи її після закінчення ефекту.",
+  "effect.ars_zero.zero_gravity": "Граві-вплив",
+  "effect.ars_zero.zero_gravity.description": "Тимчасово знімає гравітацію з цілі",
+
+  "ars_zero.glyph_name.effect_convergence": "Конвергенція",
+  "ars_zero.glyph_desc.effect_convergence": "Концентрує велику кількість мани в одній точці.",
+  "ars_zero.glyph_name.glyph_effect_convergence": "Конвергенція",
+  "ars_zero.glyph_desc.glyph_effect_convergence": "Створює потужну точку конвергенції, яку можна посилити іншими ефектами.",
+  "ars_nouveau.glyph_name.effect_convergence": "Конвергенція",
+  "ars_zero.effect_augment_desc.effect_convergence_glyph_explosion": "Мегабум: Створює величезний вибух, якому необхідно спочатку набрати сили. Вогнева сила впливає на швидкість заряду, радіус вибуху та займання (на 8+ перетворюється на згасний вибух вогню душ). AOE визначає радіус. Посилення збільшує шкоду (блокам/сутностям). Послаблення зменшує шкоду та радіус.",
+  "ars_zero.effect_augment_desc.effect_convergence_glyph_conjure_water": "Священний заклик води: Заповнює велику площу водою знизу догори. Водна сила впливає на швидкість розміщення. AOE визначає радіус. Мана витрачається за кожний розміщений блок.",
+
+  "ars_zero.glyph_name.effect_geometrize": "Геометризація",
+  "ars_zero.glyph_desc.effect_geometrize": "Виконує спрямоване закляття у формі геометричної структури. Потребує поєднання з іншими гліфами.",
+  "ars_zero.glyph_name.glyph_effect_geometrize": "Геометризація",
+  "ars_zero.glyph_desc.glyph_effect_geometrize": "Виконує спрямоване закляття у формі геометричної структури. Потребує поєднання з іншими гліфами.",
+  "ars_nouveau.glyph_name.effect_geometrize": "Геометризація",
+  "ars_zero.effect_augment_desc.effect_geometrize_glyph_conjure_terrain": "Утворення місцевості: Створює структуру з блоками, визначеними звичайними доповненнями/ефектами Утворення місцевості. Мана витрачається за кожний розміщений блок.",
+  "ars_zero.effect_augment_desc.effect_geometrize_glyph_break": "Формовий злам: Розбиває блоки у геометричній формі. Мана витрачається за кожний зруйнований блок.",
+
+  "ars_zero.glyph_name.augment_cube": "Структура — Куб",
+  "ars_zero.glyph_desc.augment_cube": "Формує геометрію у вигляді куба.",
+  "ars_nouveau.augment_desc.effect_geometrize_augment_cube": "Генерує кубічні форми (усталено). При сплющенні створює квадрати.",
+
+  "ars_zero.glyph_name.augment_hollow": "Структура — Порожнистість",
+  "ars_zero.glyph_desc.augment_hollow": "Видаляє нутрощі геометричної форми.",
+  "ars_nouveau.augment_desc.effect_geometrize_augment_hollow": "Спорожнює геометрію, створюючи лише її зовнішню оболонку.",
+
+  "ars_zero.glyph_name.augment_sphere": "Структура — Сфера",
+  "ars_zero.glyph_desc.augment_sphere": "Формує геометрію у вигляді сфери.",
+  "ars_nouveau.augment_desc.effect_geometrize_augment_sphere": "Генерує сферичні форми. При сплющенні створює кола.",
+
+  "ars_zero.glyph_name.augment_flatten": "Структура — Сплющення",
+  "ars_zero.glyph_desc.augment_flatten": "Проєктує 3D-фігуру у 2D, спрямовану вздовж погляду заклинача під час виконання.",
+  "ars_nouveau.augment_desc.effect_geometrize_augment_flatten": "Проєктує 3D-фігуру у 2D, спрямовану вздовж погляду заклинача під час виконання.",
+  "ars_nouveau.augment_desc.effect_geometrize_augment_sensitive": "Обробляє блоки знизу вгору, а не зверху вниз.",
+
+  "ars_nouveau.spell.validation.adding.phase_restriction": "%s неможливо застосувати у поточній фазі.",
+  "ars_nouveau.spell.validation.exists.phase_restriction": "%s неможливо застосувати у поточній фазі."
+}

@@ -9,5 +9,6 @@
   "item.rep_ae2_bridge.quantum": "Матерія Кванту",
   "block.rep_ae2_bridge.rep_ae2_bridge": "Міст AE2-Replication",
   "block.rep_ae2_bridge.repae2bridge": "RepAE2-міст",
-  "item.rep_ae2_bridge.repae2bridge": "RepAE2-міст"
+  "item.rep_ae2_bridge.repae2bridge": "RepAE2-міст",
+  "item.rep_ae2_bridge.universal_matter.warning": "Увага: це універсальний заповнювач; для коректної роботи перезапустіть клієнт і сервер. Крім того, для користувацьких матерій, на жаль, вам також доведеться створювати текстури, моделі предметів та локалізацію."
 }

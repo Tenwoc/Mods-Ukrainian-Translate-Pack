@@ -58,7 +58,7 @@
     "item.aquaculture.birch_fish_mount": "Березова трофейна дошка",
     "item.aquaculture.jungle_fish_mount": "Трофейна дошка з тропічного дерева",
     "item.aquaculture.acacia_fish_mount": "Акацієва трофейна дошка",
-    "item.aquaculture.dark_oak_fish_mount": "Трофейна дошка з темного дубу",
+    "item.aquaculture.dark_oak_fish_mount": "Трофейна дошка з темного дуба",
 
     "_comment": "Neptunium",
     "item.aquaculture.neptunium_nugget": "Нептунієвий самородок",
@@ -209,7 +209,7 @@
     "aquaculture.message18": "О, в мене є надзвичайна пара кокосів...",
     "aquaculture.message19": "Я приєднався до канібалів, щоб навчитись 'обробляти' людей",
     "aquaculture.message20": "Як же багато місця для АКТИВНОСТЕЙ",
-    "aquaculture.message21": "Дорогий Shadowclaimer, додай Неможливі Гіпер Діаманти, що не ламаються, і миттєво усе добувають. З повагою, Усі.",
+    "aquaculture.message21": "Дорогий Shadowclaimer, додай Незтобутні Гіпер Діаманти, що не ламаються, і миттєво усе добувають. З повагою, Усі.",
     "aquaculture.message22": "Дорогий Shadowclaimer, коли вже вийде версія 1.X? З повагою, Усі.",
     "aquaculture.message23": "Дорогі фанати, привіт вам! З повагою, Shadowclaimer.",
     "aquaculture.message24": "Тунцевсесвіт - по-справжньому дивовижне місце.",
@@ -300,5 +300,19 @@
     "aquaculture.subtitles.fish_flop": "Риба плюхається",
     "aquaculture.subtitles.fish_hurt": "Риба поранена",
     "aquaculture.subtitles.fish_collide": "Риба вдаряється",
-    "aquaculture.subtitles.bottle_open": "Пляшка ламається"
+    "aquaculture.subtitles.bottle_open": "Пляшка ламається",
+
+  "_comment": "EMI Support",
+  "tag.item.aquaculture.bobber": "Поплавок",
+  "tag.item.aquaculture.fish_mount": "Рибні кріплення",
+  "tag.item.aquaculture.fishing_line": "Рибальська волосінь",
+  "tag.item.aquaculture.hook": "Гачок",
+  "tag.item.aquaculture.tackle_box": "Скринька для снастей",
+  "tag.item.aquaculture.tackle_box_green": "Скринька для снастей пофарбована у зелений",
+  "tag.item.aquaculture.turtle": "Черепаха",
+  "tag.item.aquaculture.turtle_edible": "Їстівне для черепахи",
+  "tag.item.c.ingots.neptunium": "Нептунієві злитки",
+  "tag.item.c.nuggets.neptunium": "Нептунієві самородки",
+  "tag.item.c.storage_blocks.neptunium": "Блоки зберігання нептунію",
+  "tag.item.c.tools.knife": "Ножі"
 }

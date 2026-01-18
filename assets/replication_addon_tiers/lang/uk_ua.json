@@ -1,0 +1,14 @@
+{
+  "itemGroup.replication_addon_tiers": "Replication Tiers",
+  "block.replication_addon_tiers.matter_tank_tier_1": "Бак матерії 1 рівня",
+  "block.replication_addon_tiers.matter_tank_tier_2": "Бак матерії 2 рівня",
+  "block.replication_addon_tiers.matter_tank_tier_3": "Бак матерії 3 рівня",
+  "block.replication_addon_tiers.matter_tank_tier_4": "Бак матерії 4 рівня",
+  "block.replication_addon_tiers.advanced_replicator": "Покращений реплікатор",
+  "tooltip.replication_addon_tiers.advanced_replicator": "Виконує кожну задачу реплікації за %s тактів замість %s тактів звичайного реплікатора",
+  "tooltip.replication_addon_tiers.priority.current": "Пріоритет: %s",
+  "tooltip.replication_addon_tiers.priority.increase": "Збільшити пріоритет бака",
+  "tooltip.replication_addon_tiers.priority.decrease": "Зменшити пріоритет бака",
+  "tooltip.replication_addon_tiers.advanced_replicator_1": "Наразі не підтримує встановлення двигуна та корпуса"
+
+}

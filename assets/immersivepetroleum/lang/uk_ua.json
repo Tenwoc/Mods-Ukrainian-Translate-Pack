@@ -166,7 +166,7 @@
 	"gui.immersivepetroleum.derrick.msg.config": "Конфігурація",
 	
 	"gui.immersivepetroleum.derrick.settings.button.set": "Встановити",
-	"gui.immersivepetroleum.derrick.settings.button.set.desc": "Застосовує шляї до щоглового крана.",
+	"gui.immersivepetroleum.derrick.settings.button.set.desc": "Застосовує шлях до щоглового крана.",
 	"gui.immersivepetroleum.derrick.settings.button.reset": "Скинути",
 	"gui.immersivepetroleum.derrick.settings.button.reset.desc": "Скинути до останньої наявної конфігурації.",
 	"gui.immersivepetroleum.derrick.settings.button.close": "Закрити",
@@ -194,7 +194,7 @@
 	
 	"_comment": "################## IE-Manual ##################",
 	
-	"manual.immersivepetroleum.petroleum": "Переробка нафти",
+	"manual.immersivepetroleum.petroleum": "Перероблювання нафти",
 	
 	"ie.manual.entry.blank_text": "",
 	
@@ -294,11 +294,11 @@
 	
 	"_comment": "################## Subtitles ##################",
 	
-	"subtitle.immersivepetroleum.projector": "Projector whirring",
-	"subtitle.immersivepetroleum.flarestack_fire": "Flarestack fire whooshing",
-	"subtitle.immersivepetroleum.gas_generator": "Portable Generator rattling",
-	"subtitle.immersivepetroleum.motorboat_engine": "Speedboat blubbering?",
+	"subtitle.immersivepetroleum.projector": "Проєктор гуде",
+	"subtitle.immersivepetroleum.flarestack_fire": "Вогонь факельної лінії розпалюється",
+	"subtitle.immersivepetroleum.gas_generator": "Портативний генератор деренчить",
+	"subtitle.immersivepetroleum.motorboat_engine": "Швидкісний човен blubbering?",
 	
 	"_comment": "##################### JEI #####################",
-	"desc.immersivepetroleum.compat.jei.distillation.byproduct": "Secondary Output"
+	"desc.immersivepetroleum.compat.jei.distillation.byproduct": "Додатковий вихід"
 }
