@@ -5,24 +5,47 @@
     "text.autoconfig.condensed_creative.category.debug_info": "Інформація про налагодження",
     "text.autoconfig.condensed_creative.category.client": "Клієнт",
 
-    "text.autoconfig.condensed_creative.option.enableDefaultCCGroups": "Увімкнути вбудовані записи",
-    "text.autoconfig.condensed_creative.option.enableDefaultCCGroups.@Tooltip": "Додає деякі скорочені записи для певних внутрішніх міток minecraft",
+    "text.autoconfig.condensed_creative.option.defaultCCGroups": "Увімкнути вбудовані записи",
+    "text.autoconfig.condensed_creative.option.defaultCCGroups.@Tooltip": "Додає деякі скорочені записи для певних внутрішніх міток minecraft",
 
-    "text.autoconfig.condensed_creative.option.enableTagPreviewForEntries": "Увімкнути підказку тегу",
-    "text.autoconfig.condensed_creative.option.enableTagPreviewForEntries.@Tooltip": "Показати тег для скороченого запису",
+    "text.autoconfig.condensed_creative.option.defaultEntriesConfig": "Налаштування вбудованих записів",
+    "text.autoconfig.condensed_creative.option.defaultEntriesConfig.@Tooltip": "Дає можливість вимкнути деякі секції вбудованих записів",
 
-    "text.autoconfig.condensed_creative.option.enableDebugIdentifiersForEntries": "Увімкнути підказку внутрішього ID",
-    "text.autoconfig.condensed_creative.option.enableDebugIdentifiersForEntries.@Tooltip": "Показати ID для скороченого запису",
+    "text.autoconfig.condensed_creative.option.defaultEntriesConfig.enchantmentBooks": "Книги чар",
+    "text.autoconfig.condensed_creative.option.defaultEntriesConfig.enchantmentBooks.@Tooltip": "Керує групуванням записів для книг чар",
 
-    "text.autoconfig.condensed_creative.option.enableEntryRefreshButton": "Увімкнути кнопку оновлення записів",
-    "text.autoconfig.condensed_creative.option.enableEntryRefreshButton.@Tooltip": "Корисно, якщо на творчому екрані виникають проблеми з відображенням чогось іншого, оскільки ця кнопка призначена більше для налагодження",
+    "text.autoconfig.condensed_creative.option.defaultEntriesConfig.tippedArrows": "Оброблені стріли",
+    "text.autoconfig.condensed_creative.option.defaultEntriesConfig.tippedArrows.@Tooltip": "Керує групуванням записів для оброблених стріл",
 
-    "text.autoconfig.condensed_creative.option.enableEntryBackgroundColor": "Увімкнути фонове розфарбовування записів",
-    "text.autoconfig.condensed_creative.option.enableEntryBackgroundColor.@Tooltip": "Не рекомендуємо вимикати цей параметр і контури, оскільки буде важко бачити стислі записи.",
+    "text.autoconfig.condensed_creative.option.defaultEntriesConfig.potions": "Зілля",
+    "text.autoconfig.condensed_creative.option.defaultEntriesConfig.potions.@Tooltip": "Керує групуванням записів для зілль",
 
-    "text.autoconfig.condensed_creative.option.enableEntryBorderColor": "Увімкнути розмальовку кордону записів",
-    "text.autoconfig.condensed_creative.option.enableEntryBorderColor.@Tooltip": "Не рекомендуємо вимикати цей параметр і фон, оскільки буде важко бачити стислі записи.",
+
+    "text.autoconfig.condensed_creative.option.entryRefreshButton": "Увімкнути кнопку оновлення записів",
+    "text.autoconfig.condensed_creative.option.entryRefreshButton.@Tooltip": "Корисно, якщо на творчому екрані виникають проблеми з відображенням чогось іншого, оскільки ця кнопка призначена більше для налагодження",
+
+    "text.autoconfig.condensed_creative.option.entryBackgroundColor": "Увімкнути фонове розфарбовування записів",
+    "text.autoconfig.condensed_creative.option.entryBackgroundColor.@Tooltip": "Не рекомендуємо вимикати цей параметр і контури, оскільки буде важко бачити стислі записи.",
+
+    "text.autoconfig.condensed_creative.option.entryBorderColor": "Увімкнути розмальовку кордону записів",
+    "text.autoconfig.condensed_creative.option.entryBorderColor.@Tooltip": "Не рекомендуємо вимикати цей параметр і фон, оскільки буде важко бачити стислі записи.",
 
     "text.autoconfig.condensed_creative.option.condensedEntryBorderColor": "Колір контуру записів",
-    "text.autoconfig.condensed_creative.option.condensedEntryBorderColor.@Tooltip": "Такий колір повинен містити значення непрозорості."
+    "text.autoconfig.condensed_creative.option.condensedEntryBorderColor.@Tooltip": "Такий колір повинен містити значення непрозорості.",
+
+    "text.autoconfig.condensed_creative.option.rotationPreview": "Увімкнути оберт попереднього перегляду стиснутого запису",
+    "text.autoconfig.condensed_creative.option.rotationPreview.@Tooltip": "Вмикає випадковий оберт для іконки стиснутого запису предметів",
+
+
+    "text.autoconfig.condensed_creative.option.tagPreviewForEntries": "Увімкнути підказку тегу",
+    "text.autoconfig.condensed_creative.option.tagPreviewForEntries.@Tooltip": "Показує тег стиснутого запису",
+
+    "text.autoconfig.condensed_creative.option.debugIdentifiersForEntries": "Увімкнути підказку внутрішнього ідентифікатора",
+    "text.autoconfig.condensed_creative.option.debugIdentifiersForEntries.@Tooltip": "Показує ідентифікатор стиснутого запису",
+
+
+    "itemGroup.condensed_creative.test": "Condensed Creative",
+    "itemGroup.condensed_creative.test.tab.building_blocks": "Будівельні блоки",
+    "itemGroup.condensed_creative.test.tab.colored_blocks": "Кольорові блоки",
+    "itemGroup.condensed_creative.test.tab.ingredients": "Інгридієнти"
 }

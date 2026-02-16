@@ -4,5 +4,9 @@
   "t.clc.cancel_discard": "Скасувати",
   "t.clc.quit_config": "Незбережені зміни",
   "t.clc.quit_config_sure": "У вас є незбережені зміни налаштувань. Ви впевнені, що хочете їх скасувати?",
-  "t.clc.quit_discard": "Скасувати та вийти"
+  "t.clc.quit_discard": "Скасувати та вийти",
+
+  "cl.buttons.edit": "Редагувати",
+  "cl.buttons.add_entry": "+ Додати запис",
+  "cl.buttons.entry": "Запис %s"
 }

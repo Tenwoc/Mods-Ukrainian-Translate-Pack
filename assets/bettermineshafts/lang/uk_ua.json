@@ -58,6 +58,6 @@
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.lapis.@Tooltip": "Коефіцієнт ймовірності покладу руди, що містить §6лазурит§f.",
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.emerald": "Коефіцієнт появи смарагдів",
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.emerald.@Tooltip": "Коефіцієнт ймовірності покладу руди, що містить §6смарагди§f.",
-  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.diamond": "Коефіцієнт появи алмазів",
-  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.diamond.@Tooltip": "Коефіцієнт ймовірності покладу руди, що містить §6алмази§f."
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.diamond": "Коефіцієнт появи діамантів",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.diamond.@Tooltip": "Коефіцієнт ймовірності покладу руди, що містить §6діаманти§f."
 }
