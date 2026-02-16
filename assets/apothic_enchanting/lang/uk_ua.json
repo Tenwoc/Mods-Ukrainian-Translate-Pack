@@ -154,6 +154,18 @@
     "item.apothic_enchanting.occult_ender_lead": "Окультний повідець Енду",
     "item.apothic_enchanting.occult_ender_lead.desc": "Може захоплювати і переміщувати більшість сутностей, а також прив'язувати їх до породжувачів",
 
+    "item.apothic_enchanting.music_disc_eterna": "Платівка",
+    "jukebox_song.apothic_enchanting.eterna": "Firel — Eterna",
+    "subtitle.apothic_enchanting.music_disc.eterna": "Firel — Eterna",
+
+    "item.apothic_enchanting.music_disc_quanta": "Платівка",
+    "jukebox_song.apothic_enchanting.quanta": "Firel — Quanta",
+    "subtitle.apothic_enchanting.music_disc.quanta": "Firel — Quanta",
+
+    "item.apothic_enchanting.music_disc_arcana": "Платівка",
+    "jukebox_song.apothic_enchanting.arcana": "Firel — Arcana",
+    "subtitle.apothic_enchanting.music_disc.arcana": "Firel — Arcana",
+
     "info.apothic_enchanting.tome_error": "Помилковий предмет - клацніть ПКМ в повітрі, щоб перетворити на зачаровану книгу.",
     "info.apothic_enchanting.other_tome": "Приймає різноманітні чари.",
     "info.apothic_enchanting.helmet_tome": "Приймає чари шолома.",

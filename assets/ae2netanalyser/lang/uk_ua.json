@@ -1,7 +1,7 @@
 {
   "itemGroup.ae2netanalyser": "AE2 Network Analyzer",
   "item.ae2netanalyser.network_analyser": "МЕ Аналізатор мережі",
-  "item.ae2netanalyser.p2p_analyser": "ME Аналізатор P2P",
+  "item.ae2netanalyser.tick_analyser": "ME Тактовий профайлер",
   "gui.ae2netanalyser.network_analyser.mode": "Режим",
   "gui.ae2netanalyser.network_analyser.node_size": "Розмір",
   "gui.ae2netanalyser.network_analyser.reset": "Скинути кол.",
@@ -23,5 +23,18 @@
   "gui.ae2netanalyser.network_analyser.channel.X4": "Канали: x4",
   "gui.ae2netanalyser.network_analyser.state.normal_nodes": "Звичайних вузлів: %s",
   "gui.ae2netanalyser.network_analyser.state.dense_nodes": "Щільних вузлів: %s",
-  "gui.ae2netanalyser.network_analyser.state.missing_nodes": "Поза мережею: %s"
+  "gui.ae2netanalyser.network_analyser.state.missing_nodes": "Поза мережею: %s",
+  "gui.ae2netanalyser.tick_analyser.set_duration": "Тривалість профілювання (у секундах)",
+  "gui.ae2netanalyser.tick_analyser.begin": "Почати",
+  "gui.ae2netanalyser.tick_analyser.cancel": "Перервати",
+  "gui.ae2netanalyser.tick_analyser.range1": "<5 мкс/такт",
+  "gui.ae2netanalyser.tick_analyser.range2": "5-100 мкс/такт",
+  "gui.ae2netanalyser.tick_analyser.range3": "100-500 мкс/такт",
+  "gui.ae2netanalyser.tick_analyser.range4": ">500 мкс/такт",
+  "chat.ae2netanalyser.tick_analyser.begin": "Запустити профілювання на %s секунд.",
+  "chat.ae2netanalyser.tick_analyser.finish": "Профілювання завершено.",
+  "chat.ae2netanalyser.tick_analyser.waiting": "Ви надіслали запит на профілювання. Будь ласка, зачекайте, поки воно не буде завершено.",
+  "chat.ae2netanalyser.tick_analyser.cannel": "Профілювання скасовано.",
+  "chat.ae2netanalyser.tick_analyser.no_cannel": "У вас немає запущених завдань профілювання.",
+  "chat.ae2netanalyser.tick_analyser.user_control": "У вас немає дозволів на профілювання на цьому сервері."
 }
