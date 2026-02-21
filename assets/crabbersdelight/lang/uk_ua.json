@@ -3,20 +3,32 @@
 
   "item.crabbersdelight.crab": "Краб",
   "item.crabbersdelight.cooked_crab": "Приготований краб",
+
   "item.crabbersdelight.clawster": "Крабстер",
   "item.crabbersdelight.cooked_clawster": "Варений крабстер",
+
   "item.crabbersdelight.shrimp": "Креветка",
   "item.crabbersdelight.cooked_shrimp": "Варена креветка",
+
   "item.crabbersdelight.clam": "Молюск",
   "item.crabbersdelight.raw_clam_meat": "Сире м'ясо молюска",
   "item.crabbersdelight.cooked_clam_meat": "Варене м'ясо молюска",
-  "item.crabbersdelight.pearl": "Перлина",
+
+  "item.crabbersdelight.raw_squid_tentacles": "Сирі мацаки кальмара",
+  "item.crabbersdelight.cooked_squid_tentacles": "Смажені мацаки кальмара",
+
+  "item.crabbersdelight.raw_glow_squid_tentacles": "Сирі мацаки сяйного кальмара",
+  "item.crabbersdelight.cooked_glow_squid_tentacles": "Смажені мацаки сяйного кальмара",
+
+  "item.crabbersdelight.raw_frog_leg": "Сира жаб'яча лапка",
+  "item.crabbersdelight.cooked_frog_leg": "Смажена жаб'яча лапка",
+
   "item.crabbersdelight.kelp_shake": "Коктейль з ламінарії",
   "item.crabbersdelight.crab_cakes": "Крабові котлети",
   "item.crabbersdelight.crab_legs": "Крабова нога",
   "item.crabbersdelight.cooked_tropical_fish": "Варена тропічна риба",
   "item.crabbersdelight.shrimp_skewer": "Шашлик з креветок",
-  "item.crabbersdelight.surf_and_turf": "Surf 'n Turf",
+  "item.crabbersdelight.surf_and_turf": "Море і м'ясо",
   "item.crabbersdelight.fish_stick": "Рибні палички",
   "item.crabbersdelight.clam_bake": "Запіканка з молюсків",
   "item.crabbersdelight.clam_chowder": "Суп з молюсків",
@@ -26,16 +38,67 @@
   "item.crabbersdelight.cooked_pufferfish_slice": "Нарізка з вареної риби",
   "item.crabbersdelight.bisque": "Бісквіт",
   "item.crabbersdelight.seafood_gumbo": "Морська юшка",
-  "item.crabbersdelight.stuffed_nautilus_shell": "Фарширована мушля наутилуса",
+  "item.crabbersdelight.stuffed_nautilus_shell": "Фарширована мушля навтилуса",
+  "item.crabbersdelight.shrimp_fried_rice": "Смажений рис з креветками",
+  "item.crabbersdelight.jar_of_pickles": "Банка огірків",
+  "item.crabbersdelight.sea_pickle_juice": "Розсіл морських огірків",
+  "item.crabbersdelight.squid_kebab": "Кебаб зі кальмаром",
+  "item.crabbersdelight.frog_leg_kebab": "Кебаб із жаб'ячою ногою",
+  "item.crabbersdelight.coral_crunch": "Коралові снеки",
 
-  "item.crabbersdelight.bucket_of_crab_chum": "Відро крабової прикормки",
-  "item.crabbersdelight.bucket_of_clawster_chum": "Відро крабстерової прикормки",
-  "item.crabbersdelight.bucket_of_clam_chum": "Відро молюскової прикормки",
-  "item.crabbersdelight.bucket_of_shrimp_chum": "Відро креветкової прикормки",
+  "item.crabbersdelight.soggy_flesh": "Замочена плоть",
+  "item.crabbersdelight.arid_flesh": "Висушена плоть",
 
+  "item.crabbersdelight.pearl": "Перла",
+  "item.crabbersdelight.can": "Бляшанка",
+  "item.crabbersdelight.coral_fragments": "Фрагменти коралів",
+  "item.crabbersdelight.fish_bones": "Рибні кістки",
+
+  "item.minecraft.potion.effect.inky_potion": "Зілля чорнильності",
+  "item.minecraft.splash_potion.effect.inky_potion": "Вибухове зілля чорнильності",
+  "item.minecraft.lingering_potion.effect.inky_potion": "Осідальне зілля чорнильності",
+  "item.minecraft.tipped_arrow.effect.inky_potion": "Стріла чорнильності",
+
+  "item.crabbersdelight.bucket_of_crab_chum": "Відро крабових потрухів",
+  "item.crabbersdelight.bucket_of_clawster_chum": "Відро крабстерових потрухів",
+  "item.crabbersdelight.bucket_of_clam_chum": "Відро молюскових потрухів",
+  "item.crabbersdelight.bucket_of_shrimp_chum": "Відро креветкових потрухів",
+
+  "item.crabbersdelight.crab_claw": "Крабова клешня",
+  "item.crabbersdelight.pearl_necklace": "Перлове намисто",
 
   "item.crabbersdelight.crab_spawn_egg": "Яйце виклику краба",
   "item.crabbersdelight.crab_bucket": "Відро з крабом",
+
+  "block.crabbersdelight.palm_log": "Пальмова колода",
+  "block.crabbersdelight.stripped_palm_log": "Обтесана пальмова колода",
+  "block.crabbersdelight.palm_wood": "Пальмова деревина",
+  "block.crabbersdelight.stripped_palm_wood": "Обтесана пальмова деревина",
+  "block.crabbersdelight.palm_planks": "Пальмові дошки",
+  "block.crabbersdelight.palm_slab": "Пальмова плита",
+  "block.crabbersdelight.palm_stairs": "Пальмові сходи",
+  "block.crabbersdelight.palm_fence": "Пальмовий паркан",
+  "block.crabbersdelight.palm_fence_gate": "Пальмова хвіртка",
+  "block.crabbersdelight.palm_door": "Пальмові двері",
+  "block.crabbersdelight.palm_trapdoor": "Пальмовий люк",
+  "block.crabbersdelight.palm_pressure_plate": "Пальмова натискна плита",
+  "block.crabbersdelight.palm_button": "Пальмова кнопка",
+  "block.crabbersdelight.palm_leaves": "Пальмове листя",
+  "block.crabbersdelight.palm_sapling": "Пальмовий паросток",
+  "block.crabbersdelight.palm_sign": "Пальмова табличка",
+  "block.crabbersdelight.palm_hanging_sign": "Пальмова вивіска",
+  "item.crabbersdelight.palm_boat": "Пальмовий човен",
+  "item.crabbersdelight.palm_chest_boat": "Пальмовий човен зі скринею",
+  "block.crabbersdelight.palm_cabinet": "Пальмова шафка",
+
+  "block.crabbersdelight.coconut": "Кокос",
+  "item.crabbersdelight.coconut_helmet": "Кокосовий шолом",
+  "block.crabbersdelight.coconut_crate": "Кокосовий ящик",
+  "death.attack.crabbersdelight.falling_coconut": "%s був розчавлений падучим кокосом",
+  "item.crabbersdelight.coconut_halve": "Половинка кокоса",
+  "item.crabbersdelight.coconut_milk": "Кокосове молоко",
+  "farmersdelight.tooltip.coconut_milk": "Скидає 1 ефект",
+  "item.crabbersdelight.coconut_pudding": "Кокосовий пудинг",
 
   "block.crabbersdelight.crab_trap": "Крабова пастка",
   "block.crabbersdelight.crab_barrel": "Діжка з крабами",
@@ -46,11 +109,19 @@
   "block.crabbersdelight.salmon_barrel": "Діжка з лососями",
   "block.crabbersdelight.pufferfish_barrel": "Діжка зі скелезубами",
   "block.crabbersdelight.tropical_fish_barrel": "Діжка з тропічною рибою",
+  "block.crabbersdelight.squid_barrel": "Діжка зі кальмарами",
+  "block.crabbersdelight.glow_squid_barrel": "Діжка із сяйними кальмарами",
+  "block.crabbersdelight.frog_leg_barrel": "Діжка із жаб'ячими ніжками",
   "block.crabbersdelight.lanternfish_barrel": "Діжка з рибою-ліхтариком",
-  "block.crabbersdelight.nautilus_shell_block": "Блок мушлі наутилуса",
+  "block.crabbersdelight.nautilus_shell_block": "Блок мушель навтилуса",
   "block.crabbersdelight.pearl_block": "Перловий блок",
+  "block.crabbersdelight.scute_block": "Блок щитків",
+  "block.crabbersdelight.sea_pickle_crate": "Ящик морських огірків",
+  "block.crabbersdelight.seashells": "Мушлі",
 
   "entity.crabbersdelight.crab": "Краб",
+
+  "crabbersdelight.jei.crab_trap_loot": "Крабова пастка",
 
   "crabbersdelight.advancement.root": "Crabber's Delight",
   "crabbersdelight.advancement.root.desc": "На вас чекає пригода з морепродуктами!",
@@ -64,5 +135,44 @@
   "crabbersdelight.advancement.get_pearl": "Солодка перлина!",
   "crabbersdelight.advancement.get_pearl.desc": "Отримайте свою першу перлину, нарізавши молюсків на обробній дошці. Можливо, таємничий торговець визнає її цінною...",
 
-  "crabbersdelight.block.crab_trap.not_waterlogged": "Крабова пастка повинна бути у воді"
+  "crabbersdelight.advancement.a_shrimp_fried_this_rice": "Креветка смажила цей рис?!",
+  "crabbersdelight.advancement.a_shrimp_fried_this_rice.desc": "Ти серйозно хочеш сказати, що цей рис посмажили КРЕВЕТКИ?! Неможливо.",
+
+  "crabbersdelight.advancement.reach_for_the_sea_stars": "Досягніть морських зірок!",
+  "crabbersdelight.advancement.reach_for_the_sea_stars.desc": "Здобудьте крабову клешню та розширте свою досяжність",
+
+  "crabbersdelight.advancement.frog_killer": "На смак як курка",
+  "crabbersdelight.advancement.frog_killer.desc": "Відокремте ніжки жаби за допомогою ножа",
+
+  "crabbersdelight.advancement.squid_killer": "Глибоководний вбивця",
+  "crabbersdelight.advancement.squid_killer.desc": "Відокремте мацаки кальмара за допомогою ножа",
+
+  "crabbersdelight.advancement.glow_squid_killer": "Глибоководніший вбивця",
+  "crabbersdelight.advancement.glow_squid_killer.desc": "Відокремте мацаки сяйного кальмара за допомогою ножа",
+
+  "crabbersdelight.block.crab_trap.not_waterlogged": "Крабова пастка повинна бути у воді",
+  "crabbersdelight.block.crab_trap.insufficient_surrounding_water": "Для функціонування крабової пастки потрібна площа води принаймні 3x3!",
+
+  "tag.item.crabbersdelight.raw_seafood": "Сирі морепродукти",
+  "tag.item.crabbersdelight.cooked_seafood": "Приготовані морепродукти",
+
+  "tag.item.crabbersdelight.raw_squid": "Сирий кальмар",
+  "tag.item.crabbersdelight.cooked_squid": "Приготований кальмар",
+
+  "tag.item.crabbersdelight.crab_tempt_item": "Крабові шаблони",
+  "tag.item.crabbersdelight.crab_trap_bait": "Приманка для крабової пастки",
+
+  "tag.item.crabbersdelight.creature_chums": "Потрухи",
+
+  "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_clam_chum": "Приманка: Відро молюскових потрухів",
+  "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_clawster_chum": "Приманка: Відро крабстерових потрухів",
+  "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_crab_chum": "Приманка: Відро крабових потрухів",
+  "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_shrimp_chum": "Приманка: Відро креветкових потрухів",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.air": "Не приманює",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.cod": "Приманка тріски",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.pufferfish": "Приманка скелезуба",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.salmon": "Приманка лосося",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.tropical_fish": "Приманка тропічної риби",
+
+  "trim_material.crabbersdelight.pearl": "Перловий матеріал"
 }

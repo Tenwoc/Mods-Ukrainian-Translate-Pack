@@ -3,6 +3,14 @@
   "badwithernocookiereloaded.xtra.tooltip": "Додаткові локалізовані звуки, які можна скасувати",
   "badwithernocookiereloaded.localized settings.silenceus": "Приклад: entity.sheep.step - використовуйте /listen для інших звуків",
 
+  "bwncr.configuration.general": "Загальні",
+  "bwncr.config.silenceUs": "ЗаглушітьНас",
+  "bwncr.config.silenceWither": "Заглушити Візера",
+  "bwncr.config.debugMode": "Режим налагодження",
+  "bwncr.config.silenceTrader": "Заглушити крамаря",
+  "bwncr.config.silenceLightning": "Заглушити блискавку",
+  "bwncr.config.silenceDragon": "Заглушити дракона",
+
   "text.autoconfig.bwncr.title": "Bad Wither No Cookie - Reloaded",
   "text.autoconfig.bwncr.option.general": "Загальне",
   "text.autoconfig.bwncr.option.general.silenceWither": "Заглушити Візера",

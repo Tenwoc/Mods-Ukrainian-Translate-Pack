@@ -6,7 +6,7 @@
   "gui.corpse.page": "%s з %s",
   "gui.corpse.death_history.title": "Історія смертей гравця",
   "gui.corpse.death_history.name": "Ім'я",
-  "gui.corpse.death_history.date_format": "yyyy/MM/dd HH:mm:ss",
+  "gui.corpse.death_history.date_format": "рррр/ММ/дд ГГ:хх:сс",
   "gui.corpse.death_history.dimension": "Вимір",
   "gui.corpse.death_history.location": "Локація",
   "button.corpse.show_items": "Предмети",
@@ -18,5 +18,7 @@
   "tooltip.corpse.item_count": "Містить %s стос(ів)",
   "button.corpse.transfer_items": "Узяти предмети",
   "button.corpse.additional_items": "Додаткові пред.",
+  "button.corpse.add_waypoint": "Додати мітку",
+  "waypoint.death.name": "Точка смерті",
   "config.jade.plugin_corpse.corpse": "Corpse"
 }

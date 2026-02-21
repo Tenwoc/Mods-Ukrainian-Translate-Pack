@@ -1,0 +1,5 @@
+Item Hatch
+Making a withdrawal
+<&recipe>Item hatches are a simple way to retrieve an item from an inventory.<br>
+Right-clicking them with an empty hand will retrieve the first stack of items from the inventory it is attached to.<br>
+This makes for easy access to frequently used construction materials stored in chests or crates, and is exceedingly helpful for directly retrieving items from a <link;silo;Silo>.

@@ -337,7 +337,7 @@
     "spell.cataclysm_spellbooks.comet_shower.guide": "Випускає світлові бомби, створюючи світлові струмені у місці зіткнення",
 
     "spell.cataclysm_spellbooks.meteor_spew": "Метеоритний дощ",
-    "spell.cataclysm_spellbooks.meteor_spew.guide": "Викидає шматки розплавленої породи та лави в напрямку погляду, створюючи лаву у місці зіткнення",
+    "spell.cataclysm_spellbooks.meteor_spew.guide": "Викидає шматки розтопленої породи та лави в напрямку погляду, створюючи лаву у місці зіткнення",
 
     "spell.cataclysm_spellbooks.conjure_coral_golem": "Виклик: Коралові ґолеми",
     "spell.cataclysm_spellbooks.conjure_coral_golem.guide": "Випускає групу коралових ґолемів вам на допомогу",
@@ -355,7 +355,7 @@
     "spell.cataclysm_spellbooks.hemorrhaging_impact.guide": "Зарядіть свою зброю, випустивши потужний кров'яний спис і кілька кров'яних шипів. Кров'яний спис викликає кровотечу при влучанні, а ви зцілюєтеся на 75% від завданої шкоди",
 
     "spell.cataclysm_spellbooks.scorched_earth": "Випалена земля",
-    "spell.cataclysm_spellbooks.scorched_earth.guide": "Зарядіть свою зброю, випустивши шквал розплавлених куль. Кожна куля залишає зону дії, яка завдає інтенсивної вогневої шкоди істотам, що потрапили в неї",
+    "spell.cataclysm_spellbooks.scorched_earth.guide": "Зарядіть свою зброю, випустивши шквал розтоплених куль. Кожна куля залишає зону дії, яка завдає інтенсивної вогневої шкоди істотам, що потрапили в неї",
 
     "spell.cataclysm_spellbooks.cryopiercer": "Кріопробивач",
     "spell.cataclysm_spellbooks.cryopiercer.guide": "Зарядіть свою зброю, випустивши шквал заморожених куль. При влучанні куля покриває істоту льодом",

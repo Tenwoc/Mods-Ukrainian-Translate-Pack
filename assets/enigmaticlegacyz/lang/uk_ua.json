@@ -124,7 +124,7 @@
   "block.enigmaticlegacy.star_fabric": "Зоряне волокно",
   
   "effect.enigmaticlegacy.blazing_strength": "Палюча міць",
-  "effect.enigmaticlegacy.molten_heart": "Розплавлене серце",
+  "effect.enigmaticlegacy.molten_heart": "Розтоплене серце",
   "effect.enigmaticlegacy.growing_hunger": "Наростаючий голод",
   "effect.enigmaticlegacy.growing_bloodlust": "Наростаюча жага крові",
   
@@ -200,17 +200,17 @@
   "item.enigmaticlegacy.ultimate_potion_lingering.effect.ultimate_slow_falling": "Осідальне зілля повільного падіння",
   "item.enigmaticlegacy.ultimate_potion_lingering.effect.ultimate_haste": "Осідальне зілля квапливості",
   
-  "item.enigmaticlegacy.common_potion.effect.molten_heart": "Зілля розплавленого серця",
-  "item.enigmaticlegacy.common_potion.effect.long_molten_heart": "Зілля розплавленого серця",
-  "item.enigmaticlegacy.ultimate_potion.effect.ultimate_molten_heart": "Зілля розплавленого серця",
+  "item.enigmaticlegacy.common_potion.effect.molten_heart": "Зілля розтопленого серця",
+  "item.enigmaticlegacy.common_potion.effect.long_molten_heart": "Зілля розтопленого серця",
+  "item.enigmaticlegacy.ultimate_potion.effect.ultimate_molten_heart": "Зілля розтопленого серця",
   
-  "item.enigmaticlegacy.common_potion_splash.effect.molten_heart": "Вибухове зілля розплавленого серця",
-  "item.enigmaticlegacy.common_potion_splash.effect.long_molten_heart": "Вибухове зілля розплавленого серця",
-  "item.enigmaticlegacy.ultimate_potion_splash.effect.ultimate_molten_heart": "Вибухове зілля розплавленого серця",
+  "item.enigmaticlegacy.common_potion_splash.effect.molten_heart": "Вибухове зілля розтопленого серця",
+  "item.enigmaticlegacy.common_potion_splash.effect.long_molten_heart": "Вибухове зілля розтопленого серця",
+  "item.enigmaticlegacy.ultimate_potion_splash.effect.ultimate_molten_heart": "Вибухове зілля розтопленого серця",
   
-  "item.enigmaticlegacy.common_potion_lingering.effect.molten_heart": "Осідальне зілля розплавленого серця",
-  "item.enigmaticlegacy.common_potion_lingering.effect.long_molten_heart": "Осідальне зілля розплавленого серця",
-  "item.enigmaticlegacy.ultimate_potion_lingering.effect.ultimate_molten_heart": "Осідальне зілля розплавленого серця",
+  "item.enigmaticlegacy.common_potion_lingering.effect.molten_heart": "Осідальне зілля розтопленого серця",
+  "item.enigmaticlegacy.common_potion_lingering.effect.long_molten_heart": "Осідальне зілля розтопленого серця",
+  "item.enigmaticlegacy.ultimate_potion_lingering.effect.ultimate_molten_heart": "Осідальне зілля розтопленого серця",
   
   "enchantment.enigmaticlegacy.nemesis": "Прокляття Немезиди",
   "enchantment.enigmaticlegacy.sharpshooter": "Снайпер",
@@ -586,8 +586,8 @@
   "tooltip.enigmaticlegacy.blazingCore6": "§5- Підпалює тих, хто атакує вас в ближньому бою.",
   "tooltip.enigmaticlegacy.blazingCore7": "§5- Значно покращує видимість у лаві.",
   "tooltip.enigmaticlegacy.blazingCore8": "§5- Усі застосовані до вас ефекти спливають",
-  "tooltip.enigmaticlegacy.blazingCore9": "§5  вдвічі швидше, окрім §6розплавленого серця§5.",
-  "tooltip.enigmaticlegacy.blazingCore10": "§5- §6Розплавлене серце§5 триває вдвічі довше.",
+  "tooltip.enigmaticlegacy.blazingCore9": "§5  вдвічі швидше, окрім §6розтопленого серця§5.",
+  "tooltip.enigmaticlegacy.blazingCore10": "§5- §6Розтоплене серце§5 триває вдвічі довше.",
   "tooltip.enigmaticlegacy.blazingCore11": "§5- Ви вразливі до підводних істот.",
   
   "tooltip.enigmaticlegacy.golemHeart1": "§dАктивна здібність:",
@@ -1442,7 +1442,7 @@
   
   "book.enigmaticlegacy.entry.netherite.name": "Незерит",
   "book.enigmaticlegacy.entry.netherite.page.1": "Хоча стародавні залишки виявилися досить рідкісними, важко стверджувати, що вони не варті пошуку.<br2/>Витопивши їх на уламки і обережно стопивши із золотом, ви можете створити матеріал, відомий як незерит. Мало того, що він стійкий до високих температур Незеру, здатний витримувати",
-  "book.enigmaticlegacy.entry.netherite.page.2": "вплив полум'я або занурення в лаву без будь-яких значних пошкоджень, але й набагато твердіший за діамант.<br2/>Він виявився найкращим не як повна заміна алмазу,",
+  "book.enigmaticlegacy.entry.netherite.page.2": "вплив полум'я або занурення в лаву без будь-яких значних пошкоджень, але й набагато твердіший за діамант.<br2/>Він виявився найкращим не як повна заміна діаманту,",
   "book.enigmaticlegacy.entry.netherite.page.3": "а як частина більш вишуканої сполуки, основою якої діамант і є.<br2/>Слід припустити, що це, можливо, не найефективніший композит, яку він може створити, тому ви продовжуєте експериментувати з цим металом, намагаючись створити матеріал, який міг би мати ще більш видатні якості.",
   
   
@@ -1582,12 +1582,12 @@
   "book.enigmaticlegacy.entry.haste_potion.page.6": "...або осідальним, як і будь-яке інше звичайне зілля.",
   
   
-  "book.enigmaticlegacy.entry.molten_heart_potion.name": "Зілля розплавленого серця",
+  "book.enigmaticlegacy.entry.molten_heart_potion.name": "Зілля розтопленого серця",
   "book.enigmaticlegacy.entry.molten_heart_potion.heading.1": "Зіллєваріння",
   "book.enigmaticlegacy.entry.molten_heart_potion.heading.2": "Подовження часу",
   "book.enigmaticlegacy.entry.molten_heart_potion.heading.3": "Вибухова версія",
   "book.enigmaticlegacy.entry.molten_heart_potion.heading.4": "Осідальна версія",
-  "book.enigmaticlegacy.entry.molten_heart_potion.page.1": "Це зілля є покращеною версією зілля вогнестійкості, якщо ви захочете використати менше звичайних інгредієнтів для отримання більшого ефекту.<br2/>Крім того, що воно надає вам повний імунітет до вогню та лави, воно гасить вас, коли ви горите, і помітно покращує ваше відчуття навколишнього середовища в розплавлених магматичних потоках.",
+  "book.enigmaticlegacy.entry.molten_heart_potion.page.1": "Це зілля є покращеною версією зілля вогнестійкості, якщо ви захочете використати менше звичайних інгредієнтів для отримання більшого ефекту.<br2/>Крім того, що воно надає вам повний імунітет до вогню та лави, воно гасить вас, коли ви горите, і помітно покращує ваше відчуття навколишнього середовища в розтоплених магматичних потоках.",
   "book.enigmaticlegacy.entry.molten_heart_potion.page.2": "Зрештою, це має зробити досвід тушкування в лавових океанах Незеру значно приємнішим.",
   "book.enigmaticlegacy.entry.molten_heart_potion.page.3": "Його ефект можна посилити, використовуючи редстоуновий пил.",
   "book.enigmaticlegacy.entry.molten_heart_potion.page.4": "Також можна зробити його вибуховим...",
@@ -1666,7 +1666,7 @@
   "book.enigmaticlegacy.entry.cursed_stone.page.3": "стійким, невіддільним від вас навіть після смерті. Так само як ви здатні певною мірою черпати і використовувати силу зсередини персня, перстень здатний черпати силу зсередини вас, щоб зміцнити свою фізичну форму, а також ланку, яка міцно утримує цю форму на вашому пальці. Єдине, до чого перстень, здається, залишається ледь чутливим, - це сильна спека, але цей зв'язок гарантує, що він не може бути остаточно зруйнований",
   "book.enigmaticlegacy.entry.cursed_stone.page.4": "без того, щоб ваше власне тіло не було зруйноване так само остаточно. А оскільки ви, вочевидь, володієте здатністю створювати і заселяти нову тілесну місткість після знищення старої, перстень теж може це робити.<br2/>Але тепер, коли ви перемогли Візера і зібрали чисту суть його спотвореної душі, відкрилася можливість подолати цю перешкоду. Нечистий камінь символізує зв'язок між вами і Перснем Семи Проклять,",
   "book.enigmaticlegacy.entry.cursed_stone.page.5": "який буде проявлятися у дещо крихкій фізичній формі доти, доки ви триматимете камінь біля себе. Це дозволяє вам використовувати єдину вразливість Персня, добровільно зустрічаючи свою смерть у специфічний, дещо ритуальний спосіб.<br2/>Маючи цей камінь у своєму розпорядженні, прийдіть у вимір палючого жару та загублених душ, відомий як Незер. Блукайте серед його понівеченого, покрученого ландшафту,",
-  "book.enigmaticlegacy.entry.cursed_stone.page.6": "підіймайтесь на скелі та уступи, щоб поглянути з них вниз - доки не побачите океан киплячої лави під своїми ногами, такий великий і глибокий, який тільки можна знайти. Затримайте дихання на деякий час, перш ніж випустити його востаннє, і стрибніть в середину палаючого океану внизу, дозволяючи своєму тілу потонути в розплавленому камені і бути поглинутим вогнем.<br2/>Якщо все буде виконано правильно, перстень розплавиться і буде знищений назавжди.",
+  "book.enigmaticlegacy.entry.cursed_stone.page.6": "підіймайтесь на скелі та уступи, щоб поглянути з них вниз - доки не побачите океан киплячої лави під своїми ногами, такий великий і глибокий, який тільки можна знайти. Затримайте дихання на деякий час, перш ніж випустити його востаннє, і стрибніть в середину палаючого океану внизу, дозволяючи своєму тілу потонути в розтопленому камені і бути поглинутим вогнем.<br2/>Якщо все буде виконано правильно, перстень розплавиться і буде знищений назавжди.",
   "book.enigmaticlegacy.entry.cursed_stone.page.7": "Звільнення від його кайданів коштує недешево - воно можливе лише тому, що ви вивільните частину своєї душі, сплутаної з ним через Нечистий камінь. Для того, щоб цей ритуал був успішним, ця частина повинна бути спочатку знищена, інакше він був би просто неможливим. Але, принаймні, завдяки цій жертві ви більше ніколи не побачите проклятий перстень... якщо, звичайно, не виявиться, що у вашому світі їх було більше одного, що малоймовірно.",
   
   

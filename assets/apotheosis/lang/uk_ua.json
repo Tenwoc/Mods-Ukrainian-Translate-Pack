@@ -531,7 +531,7 @@
     "item.apotheosis.gem.apotheosis:overworld/verdant_ruin": "Самоцвіт зеленіючих руїн",
     "item.apotheosis.gem.apotheosis:the_nether/inferno": "Самоцвіт розпеченого вогнища",
     "item.apotheosis.gem.apotheosis:the_nether/blood_lord": "Самоцвіт ненаситного повелителя крові",
-    "item.apotheosis.gem.apotheosis:the_nether/molten_breach": "Самоцвіт розплавленого розриву",
+    "item.apotheosis.gem.apotheosis:the_nether/molten_breach": "Самоцвіт розтопленого розриву",
     "item.apotheosis.gem.apotheosis:the_end/endersurge": "Самоцвіт ендерсплеску",
     "item.apotheosis.gem.apotheosis:the_end/mageslayer": "Самоцвіт маговбивці",
     "item.apotheosis.gem.apotheosis:twilight/forest": "Самоцвіт Сутінкового лісу",
@@ -805,7 +805,7 @@
     "advancements.apotheosis.epic": "Епік він!",
     "advancements.apotheosis.epic.desc": "Знайдіть епічний афіксний предмет.",
 
-    "advancements.apotheosis.mythic": "Викувано з титану",
+    "advancements.apotheosis.mythic": "Викувано титаном",
     "advancements.apotheosis.mythic.desc": "Знайдіть міфічний афіксний предмет.",
 
     "advancements.apotheosis.ancient": "Втрачені скарби богів",
@@ -910,7 +910,7 @@
     "painting.apotheosis.gems.title": "Самоцвіти",
     "painting.apotheosis.gems.author": "Faellynna",
 
-    "painting.apotheosis.craig.title": "Крейг Вчний",
+    "painting.apotheosis.craig.title": "Крейг Вічний",
     "painting.apotheosis.craig.author": "Astrel",
 
     "painting.apotheosis.tower.title": "Вежа",
@@ -928,7 +928,7 @@
 
     "comment_id": "Guidebook",
 
-    "book.apotheosis.name": "Хроніка тіней",
+    "book.apotheosis.name": "Хроніки тіней",
     "book.apotheosis.subtitle": "Керівництво по Апофеозу",
     "book.apotheosis.landing": "Ласкаво просимо до світу Apotheosis.$(br2)Apotheosis організовано у $(#8080FF)модулі$(), як і зміст цієї книги.$(br2)Інформація вимкнених модулів прихована.",
     

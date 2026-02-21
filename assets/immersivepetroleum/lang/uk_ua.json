@@ -1,0 +1,304 @@
+{
+	"itemGroup.immersivepetroleum": "Immersive Petroleum",
+	
+	"_comment": "################## Blocks ##################",
+	
+	"block.immersivepetroleum.fluid_diesel": "Дизель",
+	"block.immersivepetroleum.fluid_crude_oil": "Сира нафта",
+	"block.immersivepetroleum.fluid_lubricant": "Мастило",
+	"block.immersivepetroleum.fluid_gasoline": "Бензин",
+	"block.immersivepetroleum.fluid_napalm": "Напалм",
+	
+	"block.immersivepetroleum.asphalt": "Асфальтобетон",
+	"block.immersivepetroleum.asphalt_slab": "Асфальтобетонна плита",
+	"block.immersivepetroleum.asphalt_stair": "Асфальтобетонні сходи",
+	"block.immersivepetroleum.petcoke_block": "Блок нафтового коксу",
+	"block.immersivepetroleum.paraffin_wax_block": "Блок парафіну",
+	
+	"block.immersivepetroleum.auto_lubricator": "Автоматичний лубрикатор",
+	"block.immersivepetroleum.gas_generator": "Портативний генератор",
+	"block.immersivepetroleum.flarestack": "Факельна лінія",
+	"block.immersivepetroleum.seismic_survey": "Інструмент сейсмічної розвідки",
+	
+	"block.immersivepetroleum.pumpjack": "Качалка",
+	"block.immersivepetroleum.distillation_tower": "Дистиляційна вежа",
+	"block.immersivepetroleum.coker_unit": "Коксувальний агрегат",
+	"block.immersivepetroleum.hydrotreater": "Нафтоперероблювальна устава високого тиску",
+	"block.immersivepetroleum.derrick": "Щогловий кран",
+	"block.immersivepetroleum.oiltank": "Нафтовий резервуар",
+	
+	"fluid_type.immersivepetroleum.diesel": "Дизель",
+	"fluid_type.immersivepetroleum.diesel_sulfur": "Сульфований дизель",
+	"fluid_type.immersivepetroleum.crudeoil": "Сира нафта",
+	"fluid_type.immersivepetroleum.lubricant": "Мастило",
+	"fluid_type.immersivepetroleum.gasoline": "Бензин",
+	"fluid_type.immersivepetroleum.napalm": "Напалм",
+	"fluid_type.immersivepetroleum.naphtha": "Лігроїн",
+	"fluid_type.immersivepetroleum.benzol": "Бензол",
+	"fluid_type.immersivepetroleum.petroleum_gas": "Нафтовий газ",
+	"fluid_type.immersivepetroleum.kerosene": "Гас",
+	
+	"_comment": "################## Items ##################",
+	
+	"item.immersivepetroleum.projector": "Проєктор",
+	"item.immersivepetroleum.projector.specific": "Проєктор: %s",
+	"item.immersivepetroleum.speedboat": "Моторний човен",
+	"item.immersivepetroleum.oil_can": "Бочка з мастилом",
+	"item.immersivepetroleum.survey_result": "Результат опитування",
+	"item.immersivepetroleum.gasoline_bottle":"Пляшка бензину",
+	"item.immersivepetroleum.molotov":"Узвар Бандери",
+	"item.immersivepetroleum.molotov_lit":"Узвар Бандери із запаленим ґнотом",
+	
+	"item.immersivepetroleum.bitumen": "Бітум",
+	"item.immersivepetroleum.petcoke": "Нафтовий кокс",
+	"item.immersivepetroleum.petcoke_dust": "Пил нафтового коксу",
+	"item.immersivepetroleum.diesel_bucket": "Відро дизелю",
+	"item.immersivepetroleum.diesel_sulfur_bucket": "Відро сульфованого дизелю",
+	"item.immersivepetroleum.crudeoil_bucket": "Відро сирої нафти",
+	"item.immersivepetroleum.lubricant_bucket": "Відро мастила",
+	"item.immersivepetroleum.gasoline_bucket": "Відро бензину",
+	"item.immersivepetroleum.napalm_bucket": "Відро напалму",
+	"item.immersivepetroleum.naphtha_bucket": "Відро лігроїну",
+	"item.immersivepetroleum.benzol_bucket": "Відро бензолу",
+	"item.immersivepetroleum.petroleum_gas_bucket": "Відро нафтового газу",
+	"item.immersivepetroleum.kerosene_bucket": "Відро керосину",
+	"item.immersivepetroleum.paraffin_wax": "Парафін",
+	
+	"item.immersivepetroleum.upgrade_reinforced_hull": "Укріплений корпус",
+	"item.immersivepetroleum.upgrade_icebreaker": "Криголамний ніс",
+	"item.immersivepetroleum.upgrade_tank": "Розширений паливний бак",
+	"item.immersivepetroleum.upgrade_rudders": "Керма для маневрування",
+	"item.immersivepetroleum.upgrade_paddles": "Аварійні весла",
+	
+	"_comment": "################# Entities ################",
+	
+	"entity.immersivepetroleum.speedboat": "Моторний човен",
+	
+	"_comment": "################## Descriptions ##################",
+	
+	"desc.immersivepetroleum.info.survey_result.amount": "Кількість: %1$s відер. (%2$s%%)",
+	"desc.immersivepetroleum.info.survey_result.expected": "Очікуваний тиск %1$s мВ/т.",
+	
+	"desc.immersivepetroleum.info.oiltank.input": "Вхід",
+	"desc.immersivepetroleum.info.oiltank.output": "Вихід",
+	
+	"desc.immersivepetroleum.info.reservoir.oil": "Нафтове родовище",
+	"desc.immersivepetroleum.info.reservoir.aquifer": "Водоносний горизонт",
+	"desc.immersivepetroleum.info.reservoir.lava": "Магматична комора",
+	
+	"desc.immersivepetroleum.flavour.upgrade_reinforced_hull": "Робить моторний човен вогнестійким та збільшує його міцність",
+	"desc.immersivepetroleum.flavour.upgrade_icebreaker": "Дозволяє моторному човну руйнувати лід та завдавати шкоди мобам",
+	"desc.immersivepetroleum.flavour.upgrade_tank": "Збільшує місткість паливного бака для моторного човна",
+	"desc.immersivepetroleum.flavour.upgrade_rudders": "Дозволяє робити крутіші повороти на моторному човні",
+	"desc.immersivepetroleum.flavour.upgrade_paddles": "Дозволяє веслувати на моторному човні, коли пальне закінчується",
+	
+	"desc.immersivepetroleum.flavour.asphalt": "Збільшує швидкість руху на %1$s",
+	"desc.immersivepetroleum.flavour.paraffin_wax": "Збільшує швидкість руху на 5%%. Слизький.",
+	
+	"_comment": "This is for the upgrade list of the speedboat tooltip",
+	"desc.immersivepetroleum.flavour.speedboat.prefix": "(Вдосконалено) ",
+	"desc.immersivepetroleum.flavour.speedboat.upgrade": "Покращення — %d: ",
+	
+	"desc.immersivepetroleum.flavour.surveytool.rightclickme": "ПКМ, щоб відкрити.",
+	"desc.immersivepetroleum.flavour.surveytool.location": "Зразок, взятий о %d, %d",
+	
+	"desc.immersivepetroleum.info.projector.noMultiblock": "ПКМ, щоб відкрити меню",
+	"desc.immersivepetroleum.info.projector.size": "Розмір: %d x %d x %d",
+	"desc.immersivepetroleum.info.projector.build0": "Відображає інструкції",
+	"desc.immersivepetroleum.info.projector.build1": "для створення %s",
+	"desc.immersivepetroleum.info.projector.center": "Центровано у [%d, %d, %d]",
+	
+	"desc.immersivepetroleum.info.projector.flipped.true": "Віддзеркалено: Так.",
+	"desc.immersivepetroleum.info.projector.flipped.false": "Віддзеркалено: Ні.",
+	
+	"desc.immersivepetroleum.info.projector.rotated.north":"Обернено на північ",
+	"desc.immersivepetroleum.info.projector.rotated.east":  "Обернено на схід",
+	"desc.immersivepetroleum.info.projector.rotated.south": "Обернено на південь",
+	"desc.immersivepetroleum.info.projector.rotated.west": "Обернено на захід",
+	
+	"desc.immersivepetroleum.info.projector.mode_0": "Режим вибору",
+	"desc.immersivepetroleum.info.projector.mode_1": "Режим проєкції",
+	
+	"desc.immersivepetroleum.info.projector.holdshift": "Shift",
+	"desc.immersivepetroleum.info.projector.holdshift.text": "Характеристики",
+	
+	"desc.immersivepetroleum.info.projector.holdctrl": "Ctrl",
+	"desc.immersivepetroleum.info.projector.holdctrl.text": "Прив'язані клавіші",
+	
+	"desc.immersivepetroleum.info.projector.control1": "Shift + коліщатко вгору/вниз, щоб обертати",
+	"desc.immersivepetroleum.info.projector.control2": "%s, щоб віддзеркалити",
+	"desc.immersivepetroleum.info.projector.control3": "Sneak + ПКМ, щоб змінити режим",
+	
+	"desc.immersiveengineering.info.shader.immersivepetroleum:projector": "Проєктор",
+	
+	"_comment": "################## Item-Shaders ##################",
+	
+	"item.immersivepetroleum.shader.name.blue": "Синій ASHPD",
+	"item.immersivepetroleum.shader.name.orange": "Помаранчевий ASHPD",
+	"item.immersivepetroleum.shader.name.cube0": "Куб-сховище",
+	"item.immersivepetroleum.shader.name.cube1": "Куб-компаньйон",
+	
+	"_comment": "################## GUI ##################",
+
+	"gui.immersivepetroleum.tank.input": "Вхідний резервуар",
+	"gui.immersivepetroleum.tank.output": "Вихідний резервуар",
+	
+	"gui.immersivepetroleum.projector.search": "Пошук",
+	"gui.immersivepetroleum.projector.button.confirm": "Підтвердити",
+	"gui.immersivepetroleum.projector.button.cancel": "Скасувати",
+	"gui.immersivepetroleum.projector.button.mirror": "Віддзеркалити",
+	"gui.immersivepetroleum.projector.button.rcw": "Обернути за годинниковою стрілкою",
+	"gui.immersivepetroleum.projector.button.rccw": "Обернути проти годинникової стрілки",
+
+	"gui.immersivepetroleum.hydrotreater.tank.primary": "Основний резервуар",
+	"gui.immersivepetroleum.hydrotreater.tank.secondary": "Додатковий резервуар",
+
+	"gui.immersivepetroleum.derrick.status_console.desc": "Консоль стану щоглового крану",
+	"gui.immersivepetroleum.derrick.msg.disabled": "Вимкнено контролером",
+	"gui.immersivepetroleum.derrick.msg.drilling": "Буріння... %1$s",
+	"gui.immersivepetroleum.derrick.msg.out_of_pipes": "Нестача труб",
+	"gui.immersivepetroleum.derrick.msg.not_enough_power": "Недостатньо енергії",
+	"gui.immersivepetroleum.derrick.msg.missing": "Відсутньо: %1$s",
+	"gui.immersivepetroleum.derrick.msg.completed": "Буріння завершено!<br>Гарного дня :3",
+	"gui.immersivepetroleum.derrick.msg.safety_valve": "! УВАГА !<br>ЗАПОБІЖНИЙ КЛАПАН ВІДКРИТО<br>ТИСК ЗАНАДТО ВИСОКИЙ",
+	"gui.immersivepetroleum.derrick.msg.water_table": "! УВАГА !<br>Нижче рівня ґрунтових вод<br>Затоплено водою",
+	"gui.immersivepetroleum.derrick.msg.set_in_stone": "Встановлено в камені",
+	"gui.immersivepetroleum.derrick.msg.config": "Конфігурація",
+	
+	"gui.immersivepetroleum.derrick.settings.button.set": "Встановити",
+	"gui.immersivepetroleum.derrick.settings.button.set.desc": "Застосовує шлях до щоглового крана.",
+	"gui.immersivepetroleum.derrick.settings.button.reset": "Скинути",
+	"gui.immersivepetroleum.derrick.settings.button.reset.desc": "Скинути до останньої наявної конфігурації.",
+	"gui.immersivepetroleum.derrick.settings.button.close": "Закрити",
+	"gui.immersivepetroleum.derrick.settings.button.close.desc": "Повернутися до щоглового крану.",
+	"gui.immersivepetroleum.derrick.settings.derrickishere": "Центр (Щогловий кран)",
+	"gui.immersivepetroleum.derrick.settings.pipe.normal": "Звичайна труба §7(Клацніть, щоб змінити)§r",
+	"gui.immersivepetroleum.derrick.settings.pipe.perforated": "Перфорована труба §7(Клацніть, щоб змінити)§r",
+	"gui.immersivepetroleum.derrick.settings.pipe.perforated_fixed": "Перфорована труба §c(Фіксована)§r",
+	
+	"_comment": "These are general purpose",
+	"gui.immersivepetroleum.dirs.north": "Північ",
+	"gui.immersivepetroleum.dirs.east": "Схід",
+	"gui.immersivepetroleum.dirs.south": "Південь",
+	"gui.immersivepetroleum.dirs.west": "Захід",
+	"gui.immersivepetroleum.empty": "Порожньо",
+	
+	"gui.immersivepetroleum.seismicsurvey.worldcoords": "Світ: x%1$d z%2$d",
+	"gui.immersivepetroleum.seismicsurvey.takenhere": "Зразок було взято тут.",
+	"gui.immersivepetroleum.seismicsurvey.possibility": "Можливий резервуар невідомого типу",
+	"gui.immersivepetroleum.seismicsurvey.awaitingresponse": "Очікування даних від сервера...",
+	
+	"_comment": "################## Effects ##################",
+	
+	"effect.immersivepetroleum.anti_fire": "",
+	
+	"_comment": "################## IE-Manual ##################",
+	
+	"manual.immersivepetroleum.petroleum": "Перероблювання нафти",
+	
+	"ie.manual.entry.blank_text": "",
+	
+	"ie.manual.entry.reservoirs.title": "Рідинні резервуари",
+	"ie.manual.entry.reservoirs.subtitle": "Чорне золото",
+	
+	"ie.manual.entry.reservoirs.oil0": "Під час видобутку корисних копалин поблизу корінних порід ви іноді помічали плямисту чорну легкозаймисту речовину: <link;immersivepetroleum:fluids;§o§nсиру нафту§r>. Сира нафта — це лише одна з багатьох рідин, які можна знайти під корінною породою, але ви не зможете самостійно розкрити ці запаси.\n\nЗа допомогою <link;immersivepetroleum:derrick;§o§nспеціально §o§ndрозробленої §o§nмашини§r> ви можете отримати доступ до вмісту цих родовищ.<np>",
+	"ie.manual.entry.reservoirs.oil1": "§o§nІнструмент §o§nсейсмічної §o§nрозвідки§r можна використовувати для пошуку родовищ рідини шляхом прослуховування відбитих інфразвукових хвиль від вибуху <link;revolver_cartridges;§o§nдробових патронів§r;buckshot>. Потрібно завантажити дробові патрони та клацнути ПКМ, щоб створити карту навколишніх рідинних родовищ, яку можна використовувати для тріангуляції їх точного розміщення.<np>",
+	"ie.manual.entry.reservoirs.oil2": "З одного родовища може надходити лише один тип рідини, типи яких перелічені на наступних сторінках.<np>",
+	
+	"_comment": "Below are used for Dynamic page generation of all reservoirs",
+	"ie.manual.entry.reservoirs.consonant": "",
+	"ie.manual.entry.reservoirs.vowel": "",
+	
+	"ie.manual.entry.reservoirs.dim.valid": "%3$s §l%1$s§r — це тип рідинного родовища, яке можна знайти у %2$s.",
+	"ie.manual.entry.reservoirs.dim.invalid": "%3$s §l%1$s§r — це тип рідинного родовища, яке можна знайти будь-де у %2$s.",
+	"ie.manual.entry.reservoirs.dim.any": "%2$s §l%1$s§r — це тип рідинного родовища, яке можна знайти у будь-якому вимірі.",
+	
+	"ie.manual.entry.reservoirs.bio.valid": "Це родовище генерується у біомах: %s.",
+	"ie.manual.entry.reservoirs.bio.invalid": "Це родовище не генерується у біомах: %s.",
+	"ie.manual.entry.reservoirs.bio.any": "Це родовище генерується у будь-якому біомі.",
+	
+	"ie.manual.entry.reservoirs.content": "%1$s %6$s\nВоно містить від %3$s до %4$s відер %2$s.%5$s",
+	"ie.manual.entry.reservoirs.replenish": "\nПісля того, як тиск у родовищі опуститься нижче %3$dB, %1$dmB/такт відстеженого %2$s поповниться до рівноважного тиску.",
+	"ie.manual.entry.reservoirs.replenish_depleted": "\nПісля вичерпання родовища, %1$dmB/такт відстеженого %2$s можна витягти за допомогою качалки.",
+	
+	"_comment": "################## Chat ##################",
+	
+	"chat.immersivepetroleum.command.reservoir.notfound": "Не знайдено родовищ.",
+	"chat.immersivepetroleum.command.reservoir.locate": "Знайдено %1$s у %2$s",
+	"chat.immersivepetroleum.command.reservoir.set.amount.success": "Обсяг родовища встановлено на: %1$s",
+	"chat.immersivepetroleum.command.reservoir.set.capacity.success": "Місткість родовища встановлено на: %1$s",
+	"chat.immersivepetroleum.command.reservoir.set.type.success": "Тип родовища встановлено на: %1$s",
+	"chat.immersivepetroleum.command.reservoir.set.type.fail": "§cНедійсне родовище, '%1$s' не є дійсним ідентифікатором.§r",
+	"chat.immersivepetroleum.command.reservoir.get": "%1$s (%2$s%%) з %3$s",
+	
+	"key.categories.immersivepetroleum": "Immersive Petroleum",
+	"key.immersivepetroleum.projector.flip": "Дзеркальна проєкція",
+	
+	"death.attack.ipFlarestack": "%1$s надто добре вдавався міллю",
+	"death.attack.ipFlarestack.player": "%2$s випалив з існування %1$s",
+	
+	"_comment": "################## Advancements ##################",
+	
+	"advancement.immersivepetroleum.root": "Immersive Petroleum",
+	"advancement.immersivepetroleum.root.desc": "Знайдіть нафтове родовище за допомогою сейсмічної розвідки",
+	"advancement.immersivepetroleum.projector": "Як мені побудувати цю штуку?",
+	"advancement.immersivepetroleum.projector.desc": "Сконструюйте проєктор",
+	"advancement.immersivepetroleum.flarestack": "Монстр!",
+	"advancement.immersivepetroleum.flarestack.desc": "Вбийте козу факельною лінією",
+	"advancement.immersivepetroleum.napalm": "Щасливий син",
+	"advancement.immersivepetroleum.napalm.desc": "Змішайте трохи напалму",
+	"advancement.immersivepetroleum.mb_derrick": "Нафтовий бум Баку",
+	"advancement.immersivepetroleum.mb_derrick.desc": "Сконструюйте вежу",
+	"advancement.immersivepetroleum.mb_oiltank": "Самопідживлювальна слава!",
+	"advancement.immersivepetroleum.mb_oiltank.desc": "Сконструюйте резервуар для нафти",
+	"advancement.immersivepetroleum.mb_pumpjack": "Це жахливо!",
+	"advancement.immersivepetroleum.mb_pumpjack.desc": "Сконструюйте качалку",
+	"advancement.immersivepetroleum.mb_distillationtower": "Це тільки початок",
+	"advancement.immersivepetroleum.mb_distillationtower.desc": "Сконструюйте дистиляційну вежу",
+	"advancement.immersivepetroleum.bitumen": "Вона така липка!",
+	"advancement.immersivepetroleum.bitumen.desc": "Зберіть трохи бітуму",
+	"advancement.immersivepetroleum.asphalt": "Пришвидши мене, Скотті",
+	"advancement.immersivepetroleum.asphalt.desc": "Стрибки на асфальті",
+	"advancement.immersivepetroleum.mb_cokerunit": "Ця штука величезна!",
+	"advancement.immersivepetroleum.mb_cokerunit.desc": "Сконструюйте коксувальний агрегат",
+	"advancement.immersivepetroleum.petcoke": "Давай його залишимо, будь ласка!",
+	"advancement.immersivepetroleum.petcoke.desc": "Зберіть трохи нафтового коксу",
+	"advancement.immersivepetroleum.mb_hydrotreater": "Чистий™ дизель",
+	"advancement.immersivepetroleum.mb_hydrotreater.desc": "Сконструюйте нафтоперероблювальну уставу високого тиску",
+	"advancement.immersivepetroleum.gas_generator": "Енергія на ходу",
+	"advancement.immersivepetroleum.gas_generator.desc": "Залийте трохи бензину в портативний генератор",
+	"advancement.immersivepetroleum.motorboat": "Заспокійлива пригода",
+	"advancement.immersivepetroleum.motorboat.desc": "Заповніть моторний човен бензином",
+	"advancement.immersivepetroleum.ice_breaker": "Титанік би заздрив",
+	"advancement.immersivepetroleum.ice_breaker.desc": "Розбийте лід на моторному човні (із криголамним носом)",
+	"advancement.immersivepetroleum.paddles": "Повернення до початку",
+	"advancement.immersivepetroleum.paddles.desc": "Вичерпайте пальне в моторного човна (із аварійними веслами)",
+	"advancement.immersivepetroleum.reinforced_hull": "Чи справді це безпечно?",
+	"advancement.immersivepetroleum.reinforced_hull.desc": "Вируште в плавання у Незері (із укріпленим корпусом)",
+	"advancement.immersivepetroleum.rudders": "360 ноускоп",
+	"advancement.immersivepetroleum.rudders.desc": "Убийте скелета носом човна, зробивши коло (із кермами для маневрування)",
+	"advancement.immersivepetroleum.tank": "Збирач бензину",
+	"advancement.immersivepetroleum.tank.desc": "Заповніть моторний човен бензином до країв (із розширеним паливним баком)",
+	"advancement.immersivepetroleum.auto_lubricator": "Автоматизовані бризки",
+	"advancement.immersivepetroleum.auto_lubricator.desc": "Розмістіть автоматичний лубрикатор поруч із машиною",
+	"advancement.immersivepetroleum.oil_can": "Кілька бризок тут, трохи там",
+	"advancement.immersivepetroleum.oil_can.desc": "Вручну змастіть машину",
+	"advancement.immersivepetroleum.cracking": "Смертельна сауна",
+	"advancement.immersivepetroleum.cracking.desc": "Використайте НУВТ для розщеплення нафти",
+	"advancement.immersivepetroleum.duroplast": "Новаторські матеріали",
+	"advancement.immersivepetroleum.duroplast.desc": "Виробіть дюропластовий блок з нафти",
+	"advancement.immersivepetroleum.kerosene": "Шуховський трюк",
+	"advancement.immersivepetroleum.kerosene.desc": "Перетворіть гас на бензол та сірчистий дизель",
+	"advancement.immersivepetroleum.gasoline": "Надпотужне октанове число",
+	"advancement.immersivepetroleum.gasoline.desc": "Перетворіть нафту на бензин",
+	
+	"_comment": "################## Subtitles ##################",
+	
+	"subtitle.immersivepetroleum.projector": "Проєктор гуде",
+	"subtitle.immersivepetroleum.flarestack_fire": "Вогонь факельної лінії розпалюється",
+	"subtitle.immersivepetroleum.gas_generator": "Портативний генератор деренчить",
+	"subtitle.immersivepetroleum.motorboat_engine": "Швидкісний човен blubbering?",
+	
+	"_comment": "##################### JEI #####################",
+	"desc.immersivepetroleum.compat.jei.distillation.byproduct": "Додатковий вихід"
+}

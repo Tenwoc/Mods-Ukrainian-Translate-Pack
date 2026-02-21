@@ -31,7 +31,7 @@
   "item.gag.labeling_tool.charges": "Залишилося %s зарядів",
   "item.gag.labeling_tool.no_charges": "Закінчився заряд!",
   "item.gag.labeling_tool.text_box": "Перейменувати предмет",
-  "block.gag.no_solicitors": "Табличка «Ніяких циган!»",
+  "block.gag.no_solicitors": "Табличка «Ніяких торгашів!»",
   "block.gag.no_solicitors.info.1": "Відлякує певних настирливих зловмисників у межах розумної зони.",
   "block.gag.no_solicitors.info.2": "(Натисніть ПКМ вовною, щоб увімкнути тихий режим)",
   "block.gag.no_solicitors.silent": "Тихий режим: %s",

@@ -1,8 +1,8 @@
 {
     "carryon.category.settings": "Налаштування",
-    "carryon.category.blacklist": "Чорний лсписок",
+    "carryon.category.blacklist": "Чорний список",
     "carryon.category.modeloverrides": "Перевизначення моделі (Вдосконалене)",
-    "carryon.category.custompickupconditions": "Умови індивідуального самовивозу (Вдосконалені)",
+    "carryon.category.custompickupconditions": "Користувацькі умови переноски (Вдосконалені)",
     "carryon.category.whitelist": "Білий список",
 
     "carryon.general.modeloverrides.modeloverrides": "Перевизначення моделі",
@@ -11,6 +11,6 @@
     "carryon.category.custompickupconditions.custompickupconditionsblocks": "Користувацькі умови підняття блоків",
     "carryon.category.custompickupconditions.custompickupconditionsentities": "Користувацькі умови підняття сутностей",
 
-    "key.carry.desc": "Переносити",
+    "key.carry.desc": "Узяти на руки",
     "key.carry.category": "Carry On"
 }

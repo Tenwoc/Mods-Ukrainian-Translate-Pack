@@ -2,25 +2,22 @@
   "block.bellsandwhistles.andesite_grab_rails": "Андезитові поручні",
   "block.bellsandwhistles.brass_grab_rails": "Латунні поручні",
   "block.bellsandwhistles.copper_grab_rails": "Мідні поручні",
-
   "block.bellsandwhistles.andesite_bogie_steps": "Андезитові сходинки",
   "block.bellsandwhistles.brass_bogie_steps": "Латунні сходинки",
   "block.bellsandwhistles.copper_bogie_steps": "Мідні сходинки",
-
   "block.bellsandwhistles.andesite_door_step": "Андезитовий поріг",
   "block.bellsandwhistles.brass_door_step": "Латунний поріг",
   "block.bellsandwhistles.copper_door_step": "Мідний поріг",
-
   "block.bellsandwhistles.headlight": "Фара",
-  "block.bellsandwhistles.ornate_iron_trapdoor": "Витіюватий залізний люк",
+  "block.bellsandwhistles.ornate_iron_trapdoor": "Оздоблений залізний люк",
   "block.bellsandwhistles.station_platform": "Вокзальна платформа",
-
   "block.bellsandwhistles.metro_casing": "Корпус метро",
   "block.bellsandwhistles.corrugated_metro_casing": "Гофрований корпус метро",
   "block.bellsandwhistles.metro_panel": "Панель метро",
   "block.bellsandwhistles.corrugated_metro_panel": "Гофрована панель метро",
   "block.bellsandwhistles.metro_window": "Вікно метро",
   "block.bellsandwhistles.metro_trapdoor": "Люк метро",
+
 
   "block.bellsandwhistles.metal_pilot": "Металевий метельник",
   "block.bellsandwhistles.andesite_pilot": "Андезитовий метельник",
@@ -32,7 +29,7 @@
   "block.bellsandwhistles.polished_crimsite_pilot": "Полірований кризмитовий метельник",
   "block.bellsandwhistles.polished_deepslate_pilot": "Полірований глибосланцевий метельник",
   "block.bellsandwhistles.polished_diorite_pilot": "Полірований діоритовий метельник",
-  "block.bellsandwhistles.polished_dripstone_pilot": "Полірований крапельниковий метельник",
+  "block.bellsandwhistles.polished_dripstone_pilot": "Полірований сталактитовий метельник",
   "block.bellsandwhistles.polished_granite_pilot": "Полірований гранітний метельник",
   "block.bellsandwhistles.polished_limestone_pilot": "Полірований вапняний метельник",
   "block.bellsandwhistles.polished_ochrum_pilot": "Полірований охрумовий метельник",
@@ -40,7 +37,7 @@
   "block.bellsandwhistles.polished_scoria_pilot": "Полірований скорієвий метельник",
   "block.bellsandwhistles.polished_tuff_pilot": "Полірований туфовий метельник",
   "block.bellsandwhistles.polished_veridium_pilot": "Полірований верідієвий метельник",
-
+  "itemGroup.bellsandwhistlestab": "Bells & Whistles",
   "creativetab.bellsandwhistlestab": "Bells & Whistles",
-  "itemGroup.bellsandwhistles.bellsandwhistlestab": "Bells & Whistles"
+  "creativetab.bellsandwhistles.bells_and_whistles": "Bells & Whistles"
 }

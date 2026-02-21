@@ -196,7 +196,7 @@
   "ftbquests.quest.shape.hexagon": "Шестикутник",
   "ftbquests.quest.shape.octagon": "Восьмикутник",
   "ftbquests.quest.shape.heart": "Серце",
-  "ftbquests.quest.shape.gear": "Шестерня",
+  "ftbquests.quest.shape.gear": "Шестірня",
   "ftbquests.quest.shape.none": "Прозора",
   "ftbquests.quest.misc.can_repeat": "Повторюваний квест",
 	"ftbquests.quest.misc.completion_count": "Виконано %s раз",
