@@ -48,7 +48,7 @@
   "tooltip.replication.identification_chamber.slow_mode": "Повільний режим",
   "tooltip.replication.identification_chamber.slow_mode.desc": "Сканування повільніше, але предмет",
   "tooltip.replication.identification_chamber.slow_mode.desc_1": "буде спожити тільки по звершенню опрацювання",
-  "tooltip.replication.matter_value": "ℹ Утримуйте %s, щоб побачити значення матерії",
+  "tooltip.replication.matter_value": "ℹ ↓ %s — значення матерії",
   "tooltip.replication.memory_chip_slot": "Залишилось слотів: %s",
   "tooltip.replication.tank.matter": "Матерія: ",
   "tooltip.replication.tank.unit": " матерія",

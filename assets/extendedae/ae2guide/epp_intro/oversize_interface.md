@@ -1,13 +1,13 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: ME Надвеликий інтерфейс
-    icon: extendedae:oversize_interface
+  parent: epp_intro/epp_intro-index.md
+  title: ME Надвеликий інтерфейс
+  icon: extendedae:oversize_interface
 categories:
-- extended devices
+  - extended devices
 item_ids:
-- extendedae:oversize_interface
-- extendedae:oversize_interface_part
+  - extendedae:oversize_interface
+  - extendedae:oversize_interface_part
 ---
 
 # ME Надвеликий інтерфейс
@@ -19,6 +19,6 @@ item_ids:
 </GameScene>
 </Row>
 
-ME Надвеликий інтерфейс має туж саму кількість слотів, що й <ItemLink id="extendedae:ex_interface" />, але також може уміщувати у 16 разів більше речей у налаштовних слотах. Це означає, що він може містити 1024 (64x16) речей на слот.
+ME Надвеликий інтерфейс має ту ж саму кількість слотів, що й <ItemLink id="extendedae:ex_interface" />, але також може уміщувати у 16 разів більше речей у налаштовних слотах. Це означає, що він може містити 1024 (64x16) речей на слот.
 
 Деякі речі з інших модів можуть мати певний множник, встановлений конфігурацією.

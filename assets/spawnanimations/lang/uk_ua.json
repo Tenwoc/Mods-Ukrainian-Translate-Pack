@@ -1,0 +1,35 @@
+{
+  "spawnanimations.midnightconfig.title": "Налаштування Spawn Animations",
+  "spawnanimations.midnightconfig.empty": "",
+  "spawnanimations.midnightconfig.configure_ingame": "§dℹ Інфо:§r§f Щоб налаштувати цей пакет даних для кожного світу,",
+  "spawnanimations.midnightconfig.configure_ingame2": "приєднайтеся до світу та виконайте команду §o/function spawnanimations:settings§r.",
+  "spawnanimations.midnightconfig.empty2": "",
+  "spawnanimations.midnightconfig.global_settings": "§n§l-=- Global Settings -=-",
+  "spawnanimations.midnightconfig.info": "§dℹ Інфо:§r§f Ці налаштування будуть застосовані глобально до всіх світів.",
+  "spawnanimations.midnightconfig.info2": "Будь ласка, переконайтеся, що ви знову приєдналися до будь-якого світу, щоб глобальні налаштування набули чинності.",
+  "spawnanimations.midnightconfig.empty3": "",
+  "spawnanimations.midnightconfig.empty4": "",
+
+  "spawnanimations.midnightconfig.activation_distance": "Відстань активації",
+  "spawnanimations.midnightconfig.activation_distance.tooltip": "Усталено: §a20 блоків§f\nМоби, що знаходяться до гравця ближче, ніж це значення, відтворюватимуть анімацію.\nЯкщо встановити це значення на 0, використовуватиметься значення, специфічне для світу.",
+  "spawnanimations.midnightconfig.activation_mode": "Activation Mode",
+  "spawnanimations.midnightconfig.activation_mode.tooltip": "Усталено: §aКласичний§f\n§nКласичний§r: Моби поза зоною досяжності залишатимуться прихованими, поки гравець не опиниться в їхній зоні досяжності.\n§nВанільний§r: Моби поза зоною досяжності з'являтимуться звичайно",
+  "spawnanimations.midnightconfig.hide_worn_armor_and_tools": "Приховувати споряджені обладунки та інструменти",
+  "spawnanimations.midnightconfig.hide_worn_armor_and_tools.tooltip": "Усталено: §aТак§f\nЯкщо увімкнено, зберігає споряджені обладунки та інструменти в ногах, а в деяких версіях — у слоті для легінсів прихованої сутності.\n§6⚠ Примітка: Якщо ввімкнено, це може вплинути на шанси випадання споряджених обладунків та інструментів з ферм мобів.",
+  "spawnanimations.midnightconfig.play_animation_on_unsupported_blocks": "Відтворювати анімацію руйнування блоку на непідтримуваних блоках",
+  "spawnanimations.midnightconfig.play_animation_on_unsupported_blocks.tooltip": "Усталено: §cНі§f\nЯкщо ввімкнено, відтворюється анімація руйнування блоку навіть для блоків, які не жорстко закодовані в пакеті даних.\n§6⚠ Примітка: Якщо ввімкнено, це може призвести но неочікуваних перерахувань місцевости блоків.",
+
+  "spawnanimations.midnightconfig.enum.bool.WORLD": "§bЗалежно від світу",
+  "spawnanimations.midnightconfig.enum.bool.YES": "§a[✔] Так",
+  "spawnanimations.midnightconfig.enum.bool.NO": "§c[❌] Ні",
+  "spawnanimations.midnightconfig.enum.mode.WORLD": "§bЗалежно від світу",
+  "spawnanimations.midnightconfig.enum.mode.CLASSIC": "§aКласичний",
+  "spawnanimations.midnightconfig.enum.mode.VANILLA": "§aВанільний",
+
+  "modmenu.summaryTranslation.spawnanimations": "Ворожі моби викопуються з землі або ж просто з'являються, коли породжуються!",
+  "modmenu.donate": "Підтримка",
+  "modmenu.modrinth": "Modrinth",
+  "modmenu.curseforge": "CurseForge",
+  "modmenu.youtube": "YouTube",
+  "modmenu.wiki": "Вікі"
+}

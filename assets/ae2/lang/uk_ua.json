@@ -403,7 +403,7 @@
   "gui.ae2.NoCraftingCPUs": "Немає доступних процесорів вироблення",
   "gui.ae2.NoCraftingJobs": "Немає активного виробничого завдання",
   "gui.ae2.NoSecondOutput": "Немає вторинного виходу",
-  "gui.ae2.NotSoMysteriousQuote": "«Так далеко, не важливо як близько»",
+  "gui.ae2.NotSoMysteriousQuote": "«Так близько, але й так далеко»",
   "gui.ae2.Nothing": "Нічого",
   "gui.ae2.NumberGreaterThanMaxValue": "Будь ласка, введіть число, що менше або дорівнює %s",
   "gui.ae2.NumberLessThanMinValue": "Будь ласка, введіть число, що більше або дорівнює %s",
