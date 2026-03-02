@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: "Аддон: Applied Replicatics"
+  title: "Applied Replicatics"
   position: 256
 ---
 

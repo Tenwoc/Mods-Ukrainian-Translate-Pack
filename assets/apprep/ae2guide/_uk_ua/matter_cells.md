@@ -29,7 +29,7 @@ item_ids:
   <ItemImage id="matter_cell_256k" scale="4"/>
 </Row>
 
-[Storage Cells](ae2:items-blocks-machines/storage_cells.md) Це комірки, які можуть зберігати реплікаційну матерію.
+Це [комірки](ae2:items-blocks-machines/storage_cells.md), які можуть зберігати реплікаційну матерію.
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="structures/matter_cells.snbt" />
