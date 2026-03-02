@@ -677,7 +677,7 @@
 
   "tooltip.createcybernetics.boneupgrades_bonebattery.tooltip1": "§1Зберігає енергію",
   "tooltip.createcybernetics.boneupgrades_bonebattery.tooltip2": "§3Накопичується до 3×",
-  "tooltip.createcybernetics.boneupgrades_bonebattery.energy": "Уміщує 250 енергії",
+  "tooltip.createcybernetics.boneupgrades_bonebattery.energy": "Уміщує 120 тис енергії",
   "tooltip.createcybernetics.boneupgrades_boneflex.tooltip1": "§1Нівелює шкоду від падіння ще на +3 блоки за кожне накопичення",
   "tooltip.createcybernetics.boneupgrades_boneflex.tooltip2": "§3Накопичується до 3×",
   "tooltip.createcybernetics.boneupgrades_bonelacing.tooltip1": "§1Додає 2 серця здоров'я за кожне накопичення",
@@ -752,7 +752,7 @@
   "tooltip.createcybernetics.organsupgrades_adrenaline.energy": "Витрачає 10 енергії",
   "tooltip.createcybernetics.organsupgrades_battery.tooltip1": "§1Зберігає енергію",
   "tooltip.createcybernetics.organsupgrades_battery.tooltip2": "§3Накопичується до 5×",
-  "tooltip.createcybernetics.organsupgrades_battery.energy": "Уміщує 500 енергії",
+  "tooltip.createcybernetics.organsupgrades_battery.energy": "Уміщує 120 тис енергії",
   "tooltip.createcybernetics.organsupgrades_diamondwaferstack.tooltip1": "§1Повільно генерує невеликий потік енергії",
   "tooltip.createcybernetics.organsupgrades_diamondwaferstack.tooltip2": "§3Накопичується до 3×",
   "tooltip.createcybernetics.organsupgrades_diamondwaferstack.energy": "Дуже повільно відновлює 5 енергії",
@@ -769,7 +769,7 @@
   "tooltip.createcybernetics.organsupgrades_heatengine.tooltip1": "§1Генерує енергію від згорання палива",
   "tooltip.createcybernetics.organsupgrades_heatengine.desc": "§7Встановіть та натисніть %s§7, щоб відкрити",
   "tooltip.createcybernetics.organsupgrades_heatengine.energy": "Відновлює 50 енергії від палива",
-  "tooltip.createcybernetics.organsupgrades_manabattery.tooltip1": "§1Stores extra pools of mana",
+  "tooltip.createcybernetics.organsupgrades_manabattery.tooltip1": "§1Зберігає додаткові басейни мани",
   "tooltip.createcybernetics.organsupgrades_manabattery.tooltip2": "§3Накопичується до 3×",
   "tooltip.createcybernetics.organsupgrades_manabattery.energy": "Уміщує 100 мани",
 
