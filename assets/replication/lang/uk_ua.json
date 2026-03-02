@@ -53,7 +53,7 @@
   "tooltip.replication.tank.matter": "Матерія: ",
   "tooltip.replication.tank.unit": " матерія",
   "tooltip.replication.terminal.amount": "Кількість: ",
-  "tooltip.replication.terminal.cancel_task": "Класність із затиснутим Shift, щоб перервати задачу",
+  "tooltip.replication.terminal.cancel_task": "Клацніть із затиснутим Shift, щоб перервати задачу",
   "tooltip.replication.terminal.matteropedia_direction.state_0": "Напрямок сортування: За зростанням",
   "tooltip.replication.terminal.matteropedia_direction.state_1": "Напрямок сортування: За спаданням",
   "tooltip.replication.terminal.matteropedia_type.state_0": "Тип сортування: Кількість",

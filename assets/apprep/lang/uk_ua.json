@@ -1,0 +1,20 @@
+{
+  "block.apprep.replication_connector": "МЕ-реплікаційний сполучник",
+  "block.apprep.sky_replica_block": "Блок небесної репліки",
+  "gui.apprep.creative_tab": "Applied Replicatics",
+  "gui.apprep.matter": "Матерія",
+  "gui.apprep.matter_network_storage": "Мережеве сховище матерії",
+  "item.apprep.matter_cell_16k": "16K МЕ Комірка матерії",
+  "item.apprep.matter_cell_16m": "16M МЕГА Комірка матерії",
+  "item.apprep.matter_cell_1k": "1K МЕ Комірка матерії",
+  "item.apprep.matter_cell_1m": "1M МЕГА Комірка матерії",
+  "item.apprep.matter_cell_256k": "256K МЕ Комірка матерії",
+  "item.apprep.matter_cell_256m": "256M МЕГА Комірка матерії",
+  "item.apprep.matter_cell_4k": "4K МЕ Комірка матерії",
+  "item.apprep.matter_cell_4m": "4M МЕГА Комірка матерії",
+  "item.apprep.matter_cell_64k": "64K МЕ Комірка матерії",
+  "item.apprep.matter_cell_64m": "64M МЕГА Комірка матерії",
+  "item.apprep.matter_cell_housing": "Корпус для МЕ комірки матерії",
+  "item.apprep.mega_matter_cell_housing": "Корпус для МЕГА комірки матерії",
+  "item.apprep.sky_replica_ingot": "Злиток небесної репліки"
+}

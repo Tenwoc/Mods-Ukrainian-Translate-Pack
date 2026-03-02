@@ -12,7 +12,7 @@
   "create.tooltip.create_new_age.rpm": "Оберти в хвилину: %s об/хв",
   "create.tooltip.create_new_age.temperature.ps": "%s ˚T/с",
   "create.tooltip.create_new_age.pump": "Перекачування: ",
-  "create.tooltip.create_new_age.energy_per_tick": "%s ⚡/t",
+  "create.tooltip.create_new_age.energy_per_tick": "%s ⚡/т",
   "create.tooltip.create_new_age.per_rpm": "на %s об/хв",
   "create.tooltip.create_new_age.energy_storage": "%s ⚡ / %s ⚡",
   "create.tooltip.create_new_age.releasing": "Виділення: ",
