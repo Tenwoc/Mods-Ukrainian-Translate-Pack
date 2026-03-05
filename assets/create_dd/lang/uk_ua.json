@@ -736,7 +736,7 @@
   "advancement.create_dd.industrial_casing": "Індустріальна епоха",
   "advancement.create_dd.industrial_casing.desc": "Застосуйте промисловий залізний лист на цинковому корпусі!",
   "advancement.create_dd.industrial_fan": "Вітрогін 2.0",
-  "advancement.create_dd.industrial_fan.desc": "Оновлена версія облицьованого вентилятора, здатна обертатися навіть тоді, коли джерело тепла спрямоване донизу і має потужний сигнал червоного каменю!",
+  "advancement.create_dd.industrial_fan.desc": "Оновлена версія облицьованого вентилятора, здатна обертатися навіть тоді, коли джерело тепла спрямоване донизу і має потужний редстоуновий сигнал!",
   "advancement.create_dd.industrial_iron_ingot": "Краще залізо",
   "advancement.create_dd.industrial_iron_ingot.desc": "Має можливість наслідувати чавунні рецепти, такі як ковадла та механічні свердла!",
   "advancement.create_dd.kinetic_motor": "Кінетична енергія",
@@ -769,7 +769,7 @@
 
   "create_dd.ponder.industrial_fan_source.header": "Створенням обертальної сили за допомогою промислових вентиляторів",
   "create_dd.ponder.industrial_fan_source.text_1": "Промислові вентилятори, спрямовані вниз до джерела тепла, можуть створювати обертальну силу",
-  "create_dd.ponder.industrial_fan_source.text_2": "При отриманні сильного сигналу червоного каменю, промислові вентилятори почнуть виробляти енергію",
+  "create_dd.ponder.industrial_fan_source.text_2": "При отриманні сильного редстоунового сигналу, промислові вентилятори почнуть виробляти енергію",
 
   "create_dd.ponder.bronze_saw_processing.header": "Обробкою предметів на бронзовій пилі",
   "create_dd.ponder.bronze_saw_processing.text_1": "Направлені вгору бронзові пили можуть обробляти різноманітні предмети",

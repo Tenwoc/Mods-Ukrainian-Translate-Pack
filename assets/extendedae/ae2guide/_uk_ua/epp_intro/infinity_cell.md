@@ -1,16 +1,16 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: ME Нескінченна комірка зберігання
-    icon: extendedae:infinity_water_cell
+  parent: epp_intro/epp_intro-index.md
+  title: ME Нескінченна комірка
+  icon: extendedae:infinity_water_cell
 categories:
-- extended items
+  - extended items
 item_ids:
-- extendedae:infinity_water_cell
-- extendedae:infinity_cobblestone_cell
+  - extendedae:infinity_water_cell
+  - extendedae:infinity_cobblestone_cell
 ---
 
-# ME Нескінченна комірка зберігання
+# ME Нескінченна комірка
 
 Зручне джерело води та кругляка у формі комірки зберігання.
 

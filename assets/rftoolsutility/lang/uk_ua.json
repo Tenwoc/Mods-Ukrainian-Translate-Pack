@@ -90,7 +90,7 @@
     "message.rftoolsutility.wire.header": "Блок Wire - це дуже простий червоний дріт без затримок. Може робити тільки прямі лінії",
 
     "message.rftoolsutility.tablet_redstone.header": "Планшет, який можна використовувати для пошуку віддалених інструкцій та інформації",
-    "message.rftoolsutility.tablet_redstone.gold": "Табличка з інформацією про червоне каміння: натисніть ПКМ на інструкції для червоного каміння, потайки натисніть ПКМ на інструкції для планшета",
+    "message.rftoolsutility.tablet_redstone.gold": "Табличка з інформацією про редстоун: натисніть ПКМ по інструкції до редстоуну, крадькома натисніть ПКМ на інструкції для планшета",
 
     "message.rftoolsutility.tablet_screen.header": "Планшет, який можна використовувати для доступу до віддалених інструкцій та інформації",
     "message.rftoolsutility.tablet_screen.gold": "Планшет з екраном: натисніть ПКМ на екрані, приховане клацання ПКМ на інтерфейсі планшета",
@@ -99,7 +99,7 @@
     "message.rftoolsutility.screen_link.gold": "Натисніть ПКМ на екрані для посилання",
     "message.rftoolsutility.screen_link.info": "Екран: ",
 
-    "message.rftoolsutility.redstone_information.header": "Цей модуль можна використовувати у планшеті для перегляду та керування бездротовим червоним каменем",
+    "message.rftoolsutility.redstone_information.header": "Цей модуль можна використовувати у планшеті для перегляду та керування бездротовим редстоуном",
     "message.rftoolsutility.redstone_information.gold": "Натисніть ПКМ на передавачі або приймачі редстоуну, щоб додати канал до цього модуля",
     "message.rftoolsutility.redstone_information.channels": "Канали: ",
 
