@@ -646,8 +646,8 @@
   "tooltip.ars_elemental.lens": "Можна закріпити на вдосконаленій чаклунській призмі.",
   "tooltip.ars_elemental.prism_lens": "Встановлено: %s",
   "tooltip.ars_nouveau.blessed": "Захист 4-х стихій",
-  "tooltip.flashjack_shards": "Отримується, якщо віддати блисконас блискохвосту.",
-  "tooltip.siren_shards": "Отримується, якщо віддати морський огірок сирені.",
+  "tooltip.flashjack_shards": "Можна отримати, віддавши блисконас блискохвосту.",
+  "tooltip.siren_shards": "Можна отримати, віддавши морський огірок сирені.",
   
   "comment": "застарілі рядки",
   "ars_nouveau.school.necromancy": "Еґо",
