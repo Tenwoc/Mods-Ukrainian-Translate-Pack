@@ -1,5 +1,5 @@
 {
-  "create_new_age.monkey_edition": "Create: New Age [Monkey Edition]",
+  "create_new_age.monkey_edition": "Create: New Age [Видання бібізяни]",
 
   "recipe.assembly.energising": "Заряджання",
   "create.tooltip.create_new_age.energy_stored": "Накопичено енергії: ",
@@ -12,7 +12,7 @@
   "create.tooltip.create_new_age.rpm": "Оберти в хвилину: %s об/хв",
   "create.tooltip.create_new_age.temperature.ps": "%s ˚T/с",
   "create.tooltip.create_new_age.pump": "Перекачування: ",
-  "create.tooltip.create_new_age.energy_per_tick": "%s ⚡/t",
+  "create.tooltip.create_new_age.energy_per_tick": "%s ⚡/т",
   "create.tooltip.create_new_age.per_rpm": "на %s об/хв",
   "create.tooltip.create_new_age.energy_storage": "%s ⚡ / %s ⚡",
   "create.tooltip.create_new_age.releasing": "Виділення: ",
@@ -47,7 +47,7 @@
   "block.create_new_age.fluxuated_magnetite": "Флюсований магнетит",
   "block.create_new_age.netherite_magnet": "Незеритовий магніт",
   "block.create_new_age.layered_magnet": "Шаруватий магніт",
-  "block.create_new_age.redstone_magnet": "Магніт з червоного каменю",
+  "block.create_new_age.redstone_magnet": "Редстоуновий магніт",
   "block.create_new_age.solid_corium": "Твердий корій",
   "block.create_new_age.corium": "Корій",
   "block.create_new_age.reactor_casing": "Корпус реактора",

@@ -2,6 +2,7 @@
   "translate_authors": "discord: roll_54, tenwoc",
 
   "createcybernetics.configuration.humanity": "Базове значення людяності",
+  "createcybernetics.configuration.keepCyberware": "Залишати імпланти після смерті",
 
 
   "commands.createcybernetics.implants.wrong_item": "Дозволені лише предмети з Create Cybernetics.",
@@ -11,12 +12,26 @@
   "commands.createcybernetics.implants.remove_fail": "%s не має цього імпланта.",
   "commands.createcybernetics.implants.remove_success": "Видалено %s у %s.",
   "commands.createcybernetics.implants.clear_success": "Видалено усі кіберімпланти та відновлені звичайні органи для %s.",
+  "command.createcybernetics.keep_cyberware.query": "Зберігання імплантів встановлено на %s (на час сесії).",
+  "command.createcybernetics.keep_cyberware.set": "Зберігання імплантів наразі у стані %s (на час сесії, щоб зробити постійним, змініть конфіг).",
+  "commands.createcybernetics.energy_debug.set": "Налагодження енергії: %s",
+
+
+  "screen.createcybernetics.hud_layout": "Макет інтерфейсу користувача",
+  "screen.createcybernetics.cybereye_skin": "Макет кіберочей",
 
   "gui.robosurgeon.title": "Робохірургічний інтерфейс",
   "gui.engineeringtable.title": "Інженерний стіл",
+  "gui.createcybernetics.grafting_table.title": "Стіл щеплень",
   "gui.armcannon.title": "Ручна гармата",
   "gui.spinalinjector.title": "Спінальний ін'єктор",
+  "gui.heatengine.title": "Тепловий двигун",
   "gui.chipwarecreative.title": "Творчі слоти нейрочипів",
+  "gui.infolog.title": "Інфожурнал",
+
+  "gui.createcybernetics.pause.cybereye_skin": "Макет кіберочей",
+  "gui.createcybernetics.save": "Зберегти",
+  "gui.createcybernetics.pause.hud_layout": "Макет інтерфейсу користувача",
 
   "gui.chipware.button": "Нейрочіп",
 
@@ -38,19 +53,24 @@
   "gui.warning.desc2": "Видалення може мати негативні наслідки...",
 
 
-  "zoom.mult.desc1": "Наближення: ",
-  "zoom.mult.desc2": "x",
+  "message.createcybernetics.zoom_level": "Наближення %s×",
 
 
 
   "item.createcybernetics.titaniumingot": "Титановий злиток",
+  "item.createcybernetics.titaniumingot.northstar": "Хірургічний титановий злиток",
   "item.createcybernetics.rawtitanium": "Необроблений титан",
+  "item.createcybernetics.rawtitanium.northstar": "Хірургічний необроблений титан",
   "item.createcybernetics.crushedtitanium": "Дроблений титан",
+  "item.createcybernetics.crushedtitanium.northstar": "Хірургічний дроблений титан",
   "item.createcybernetics.titaniumnugget": "Титановий самородок",
+  "item.createcybernetics.titaniumnugget.northstar": "Хірургічний титановий самородок",
   "item.createcybernetics.titaniumsheet": "Титанова пластина",
+  "item.createcybernetics.titaniumsheet.northstar": "Хірургічна титанова пластина",
 
   "item.createcybernetics.eyeupgradebase": "Основа модуля кіберока",
   "item.createcybernetics.titanium_hand": "Титанова рука",
+  "item.createcybernetics.holoimprint_chip": "Чіп щеплення сутності",
   "item.createcybernetics.neuropozyne_autoinjector": "Автоін'єктор нейропозину",
   "item.createcybernetics.neuropozyne_autoinjector.duration": "Нейропозин (20:00)",
   "item.createcybernetics.neuropozyne_autoinjector.desc": "Ін'єкція подовжує тривалість до цілої доби",
@@ -130,6 +150,11 @@
   "item.createcybernetics.data_shard_biochip.downloaded": "Свідомість: Завантажена",
   "item.createcybernetics.data_shard_biochip.downloading": "Свідомість: Завантаження: ",
 
+  "item.createcybernetics.data_shard_infolog": "§bУламок даних інфожурнала",
+  "item.createcybernetics.data_shard_infolog.desc": "Зберігає інформацію",
+  "item.createcybernetics.data_shard_infolog.desc2": "§7Поки у слоті, натисніть %s§7, щоб відкрити",
+
+
   "item.createcybernetics.cyberzombie_spawn_egg": "Яйце виклику кіберзомбі",
   "item.createcybernetics.cyberskeleton_spawn_egg": "Яйце виклику кіберскелета",
 
@@ -152,6 +177,11 @@
   "item.createcybernetics.component_titaniumrod": "Титановий стрижень",
 
 
+  "item.createcybernetics.copper_upgrade_template": "Мідний шаблон покриття",
+  "item.createcybernetics.iron_upgrade_template": "Залізний шаблон покриття",
+  "item.createcybernetics.gold_upgrade_template": "Золотий шаблон покриття",
+
+
   "item.createcybernetics.bodypart_rightleg": "Права нога",
   "item.createcybernetics.bodypart_leftleg": "Ліва нога",
   "item.createcybernetics.bodypart_rightarm": "Права рука",
@@ -169,6 +199,27 @@
   "item.createcybernetics.bodypart_guardianretina": "Сітківка вартового",
   "item.createcybernetics.bodypart_wardenesophagus": "Стравохід боронителя",
   "item.createcybernetics.bodypart_gyroscopicbladder": "Гіроскопічний міхур",
+  "item.createcybernetics.bodypart_spinnerette": "Павукова прядильниця",
+  "item.createcybernetics.bodypart_firegland": "Запальна залоза",
+  "item.createcybernetics.bodypart_gills": "Рибні зябра",
+  "item.createcybernetics.bodypart_axolotlmarrow": "Мозок аксолотля",
+  "item.createcybernetics.bodypart_dragonscale": "Луска дракона Енду",
+
+
+  "item.createcybernetics.basecyberware_rightleg_copperplated": "Мідна пластинчаста права кібернога",
+  "item.createcybernetics.basecyberware_leftleg_copperplated": "Мідна пластинчаста ліва кібернога",
+  "item.createcybernetics.basecyberware_rightarm_copperplated": "Мідна пластинчаста права кіберрука",
+  "item.createcybernetics.basecyberware_leftarm_copperplated": "Мідна пластинчаста ліва кіберрука",
+
+  "item.createcybernetics.basecyberware_rightleg_ironplated": "Залізна пластинчаста права кібернога",
+  "item.createcybernetics.basecyberware_leftleg_ironplated": "Залізна пластинчаста ліва кібернога",
+  "item.createcybernetics.basecyberware_rightarm_ironplated": "Залізна пластинчаста права кіберрука",
+  "item.createcybernetics.basecyberware_leftarm_ironplated": "Залізна пластинчаста ліва кіберрука",
+
+  "item.createcybernetics.basecyberware_rightleg_goldplated": "Золота пластинчаста права кібернога",
+  "item.createcybernetics.basecyberware_leftleg_goldplated": "Золота пластинчаста ліва кібернога",
+  "item.createcybernetics.basecyberware_rightarm_goldplated": "Золота пластинчаста права кіберрука",
+  "item.createcybernetics.basecyberware_leftarm_goldplated": "Золота пластинчаста ліва кіберрука",
 
 
   "item.createcybernetics.basecyberware_rightleg": "Права кібернога",
@@ -222,6 +273,7 @@
   "item.createcybernetics.brainupgrades_cyberdeck": "Кібердек",
   "item.createcybernetics.brainupgrades_idem": "М.В.М.В.",
   "item.createcybernetics.brainupgrades_chipwareslots": "Слоти нейрочипів",
+  "item.createcybernetics.brainupgrades_spelljammer": "Чароглушник",
 
   "item.createcybernetics.heartupgrades_cyberheart": "Кіберсерце",
   "item.createcybernetics.heartupgrades_coupler": "Серцево-судинна зчіпка",
@@ -241,6 +293,8 @@
   "item.createcybernetics.organsupgrades_magiccatalyst": "Магічний каталізатор",
   "item.createcybernetics.organsupgrades_metabolic": "Метаболічний перетворювач",
   "item.createcybernetics.organsupgrade_densebattery": "Щільна батарея",
+  "item.createcybernetics.organsupgrades_heatengine": "Тепловий двигун",
+  "item.createcybernetics.organsupgrades_manabattery": "Мана-акумулятор",
 
   "item.createcybernetics.skinupgrades_arterialturbine": "Артеріальна турбіна",
   "item.createcybernetics.skinupgrades_chromatophores": "Синтетичні хроматофори",
@@ -254,13 +308,14 @@
   "item.createcybernetics.skinupgrades_syntheticsetules": "Синтетичні щетинки",
   "item.createcybernetics.skinupgrades_sweat": "Модернізовані потові залози",
   "item.createcybernetics.skinupgrades_metalplating": "Металеве бронювання",
+  "item.createcybernetics.skinupgrades_manaskin": "Мана-асимілятор",
 
   "item.createcybernetics.muscleupgrades_synthmuscle": "Міомерні м'язи",
   "item.createcybernetics.muscleupgrades_wiredreflexes": "Провідні рефлекси",
 
   "item.createcybernetics.wetware_blubber": "Жир полярного ведмедя",
-  "item.createcybernetics.wetware_firebreathinggland": "Драконячі залози",
-  "item.createcybernetics.wetware_gills": "Риб'ячі зябра",
+  "item.createcybernetics.wetware_firebreathinglungs": "Драконячі легені",
+  "item.createcybernetics.wetware_waterbreathinglungs": "Вододихальні легені",
   "item.createcybernetics.wetware_guardianeye": "Око вартового",
   "item.createcybernetics.wetware_polarbearfur": "Хутро полярного ведмедя",
   "item.createcybernetics.wetware_ravagertendons": "Сухожилля спустошувача",
@@ -268,7 +323,13 @@
   "item.createcybernetics.wetware_tacticalinksac": "Тактичний чорнильний мішок",
   "item.createcybernetics.wetware_aerostasisgyrobladder": "Аеростатичний гіроміхур",
   "item.createcybernetics.wetware_grassfedstomach": "Травоїдний шлунок",
-  "item.createcybernetics.wetware_spinnerette": "Павуча прядильна залоза",
+  "item.createcybernetics.wetware_webshootingintestines": "Павутиновипускна кишковина",
+  "item.createcybernetics.wetware_webshooting_leftarm": "Павутиновипускна ліва рука",
+  "item.createcybernetics.wetware_webshooting_rightarm": "Павутиновипускна права рука",
+  "item.createcybernetics.wetware_spidereyes": "Павучі очі",
+  "item.createcybernetics.wetware_blastemaskeleton": "Інфікований бластемою скелет",
+  "item.createcybernetics.wetware_dragonskin": "Шкіра дракона Енду",
+  "item.createcybernetics.wetware_wardenantlers": "Вусики боронителя",
 
 
   "item.createcybernetics.scavenged_rightleg": "Права кібернога",
@@ -365,8 +426,11 @@
 
   "block.createcybernetics.robosurgeon": "Робохірург",
   "block.createcybernetics.surgery_chamber": "Хірургічна камера",
+  "block.createcybernetics.surgery_chamber_top": "Хірургічна камера",
   "block.createcybernetics.engineering_table": "Інженерний стіл",
+  "block.createcybernetics.grafting_table": "Стіл щеплень",
   "block.createcybernetics.charging_block": "Зарядний блок",
+  "block.createcybernetics.holoprojector": "Голопроєктор",
 
   "block.createcybernetics.datura_bush": "Кущ дурману",
 
@@ -385,6 +449,8 @@
   "key.createcybernetics.spinal_injector": "Відкрити спінальний ін'єктор",
   "key.createcybernetics.arm_cannon": "Відкрити ручну гармату",
   "key.createcybernetics.arm_cannon_wheel": "Відкрити радіальне меню гармати руки",
+  "key.createcybernetics.heat_engine": "Відкрити тепловий двигун",
+  "key.createcybernetics.infolog_gui": "Відкрити споряджений інфожурнал",
 
 
   "advancement.cybernetics": "Кібернетика",
@@ -396,7 +462,7 @@
   "advancement.first_ripperdoc_visit": "Я хочу приварити це сюди",
   "advancement.first_ripperdoc_visit.desc": "Встановіть кіберімплант",
   "advancement.cyberpsychosis": "Не жени, чуме!",
-  "advancement.cyberpsychosis.desc": "Зіткіться з відторгненням кіберімплантів",
+  "advancement.cyberpsychosis.desc": "Зіткніться з відторгненням кіберімплантів",
   "advancement.chrome_junkie": "Хромо-залежний",
   "advancement.chrome_junkie.desc": "Використайте нейропозин 100 разів",
   "advancement.over_the_edge": "Ти перейшов край, панку",
@@ -443,6 +509,12 @@
   "advancement.pretty_in_pink.desc": "Повністю розфарбуйтеся у рожевий",
   "advancement.lets_dance": "Потанцюймо",
   "advancement.lets_dance.desc": "Вбийте повного кіборга не маючи імплантів",
+  "advancement.bodysnatcher": "Викрадач тіл",
+  "advancement.bodysnatcher.desc": "Встановіть взаємозамінний обличник",
+  "advancement.destroyer_of_worlds": "Я став Смертю, Винищувачем світів...",
+  "advancement.destroyer_of_worlds.desc": "Самознищитеся серцем кріпера, маючи встановлений магічний каталізатор",
+  "advancement.right_behind_you": "Прямо за тобою",
+  "advancement.right_behind_you.desc": "Станьте кібершпигуном",
 
 
   "death.attack.createcybernetics.cyberware_surgery": "%1$s не пережив процедуру...",
@@ -478,6 +550,7 @@
   "effect.createcybernetics.cyberware_rejection": "Відторгнення кіберімплантів",
   "effect.createcybernetics.synthetic_setules_effect": "Синтетичні щетинки",
   "effect.createcybernetics.aerostasis_gyrobladder_effect": "Аеростазний гіроміхур",
+  "effect.createcybernetics.inked_effect": "Чорнильність",
 
   "painting.createcybernetics.technomancer.title": "Техномант 1",
   "painting.createcybernetics.technomancer.author": "Perigrine3",
@@ -498,7 +571,7 @@
   "creativetab.createcybernetics.create_cybernetics_upgrades_tab": "Create: Cybernetics",
 
 
-  "tooltip.createcybernetics.hold_shift_down": "§8Утримуйте [§7Shift§8], щоби побачити опис",
+  "tooltip.createcybernetics.hold_shift_down": "§8↓ [§7Shift§8] — опис",
 
   "tooltip.createcybernetics.neuropozyne.tooltip": "§6Тимчасово послаблює симптоми §eВідторгнення кіберімплантів§6",
 
@@ -564,6 +637,8 @@
   "tooltip.createcybernetics.eyeupgrades_trajectorycalculator.energy": "Витрачає 2 енергії",
 
   "tooltip.createcybernetics.armupgrades_armcannon.tooltip1": "§1Дозволяє запускати різні предмети та снаряди",
+      "tooltip.createcybernetics.armupgrades_armcannon.desc": "§7Встановіть та натисніть %s§7, щоб відкрити інтерфейс боєзапасів",
+      "tooltip.createcybernetics.armupgrades_armcannon.desc2": "§7Встановіть та натисніть %s§7, щоб відкрити колесо боєзапасів",
   "tooltip.createcybernetics.armupgrades_armcannon.tooltip2": "§7Потрібна §9кіберрука",
   "tooltip.createcybernetics.armupgrades_flywheel.tooltip1": "§1Дозволяє швидко натягувати луки та арбалети",
   "tooltip.createcybernetics.armupgrades_flywheel.tooltip2": "§7Потрібна §9кіберрука",
@@ -602,7 +677,7 @@
 
   "tooltip.createcybernetics.boneupgrades_bonebattery.tooltip1": "§1Зберігає енергію",
   "tooltip.createcybernetics.boneupgrades_bonebattery.tooltip2": "§3Накопичується до 3×",
-  "tooltip.createcybernetics.boneupgrades_bonebattery.energy": "Уміщує 250 енергії",
+  "tooltip.createcybernetics.boneupgrades_bonebattery.energy": "Уміщує 120 тис енергії",
   "tooltip.createcybernetics.boneupgrades_boneflex.tooltip1": "§1Нівелює шкоду від падіння ще на +3 блоки за кожне накопичення",
   "tooltip.createcybernetics.boneupgrades_boneflex.tooltip2": "§3Накопичується до 3×",
   "tooltip.createcybernetics.boneupgrades_bonelacing.tooltip1": "§1Додає 2 серця здоров'я за кожне накопичення",
@@ -614,9 +689,10 @@
   "tooltip.createcybernetics.boneupgrades_piezo.tooltip2": "§3Накопичується до 3×",
   "tooltip.createcybernetics.boneupgrades_piezo.energy": "Відновлює 2 енергії під час руху",
   "tooltip.createcybernetics.boneupgrades_spinalinjector.tooltip1": "§1Дозволяє зберігати й використовувати до 4 зіль із додатковою тривалістю",
+  "tooltip.createcybernetics.boneupgrades_spinalinjector.desc": "§7Встановіть та натисніть %s§7, щоб відкрити",
   "tooltip.createcybernetics.boneupgrades_spinalinjector.tooltip2": "§7Потрібен §9лінійний каркас",
   "tooltip.createcybernetics.boneupgrades_sandevistan.tooltip1": "§1Надає величезну швидкість на короткий час",
-  "tooltip.createcybernetics.boneupgrades_cyberskull.tooltip1": "§1Нівелює шкоду від зіткненіь у польоті",
+  "tooltip.createcybernetics.boneupgrades_cyberskull.tooltip1": "§1Нівелює шкоду від зіткнень у польоті",
   "tooltip.createcybernetics.boneupgrades_cyberskull.tooltip2": "§7Потрібен §9лінійний каркас",
 
 
@@ -624,28 +700,30 @@
   "tooltip.createcybernetics.brainupgrades_cyberbrain.tooltip2": "§7Замінює §cмозок",
   "tooltip.createcybernetics.brainupgrades_cyberbrain.energy": "Витрачає 5 енергії",
   "tooltip.createcybernetics.brainupgrades_eyeofdefender.tooltip1": "§1Телепортує від траєкторії снарядів",
-  "tooltip.createcybernetics.brainupgrades_eyeofdefender.tooltip2": "§7Потрібен §cмозок",
+  "tooltip.createcybernetics.brainupgrades_eyeofdefender.tooltip2": "§7Потрібен §cмозок §7або §9церебральний процесорний модуль",
   "tooltip.createcybernetics.brainupgrades_eyeofdefender.energy": "Витрачає 5 енергії",
   "tooltip.createcybernetics.brainupgrades_consciousnesstransmitter.tooltip1": "§1Передає до 14 рівнів досвіду в нове тіло після смерті",
-  "tooltip.createcybernetics.brainupgrades_consciousnesstransmitter.tooltip2": "§7Потрібен §cмозок",
+  "tooltip.createcybernetics.brainupgrades_consciousnesstransmitter.tooltip2": "§7Потрібен §cмозок §7або §9церебральний процесорний модуль",
   "tooltip.createcybernetics.brainupgrades_corticalstack.tooltip1": "§1У разі смерті зберігає досвід у капсулі",
-  "tooltip.createcybernetics.brainupgrades_corticalstack.tooltip2": "§7Потрібен §cмозок",
+  "tooltip.createcybernetics.brainupgrades_corticalstack.tooltip2": "§7Потрібен §cмозок §7або §9церебральний процесорний модуль",
   "tooltip.createcybernetics.brainupgrades_enderjammer.tooltip1": "§1Не дає ендерменам телепортуватися в радіусі 10 блоків",
   "tooltip.createcybernetics.brainupgrades_enderjammer.energy": "Витрачає 5 енергії",
   "tooltip.createcybernetics.brainupgrades_matrix.tooltip1": "§1Підсвічує загрози в радіусі 25 блоків",
-  "tooltip.createcybernetics.brainupgrades_matrix.tooltip2": "§7Потрібен §cмозок",
+  "tooltip.createcybernetics.brainupgrades_matrix.tooltip2": "§7Потрібен §cмозок §7або §9церебральний процесорний модуль",
   "tooltip.createcybernetics.brainupgrades_matrix.energy": "Витрачає 3 енергії",
   "tooltip.createcybernetics.brainupgrades_neuralcontextualizer.tooltip1": "§1Автоматично дістає потрібний інструмент, якщо він є в інвентарі",
-  "tooltip.createcybernetics.brainupgrades_neuralcontextualizer.tooltip2": "§7Потрібен §cмозок",
+  "tooltip.createcybernetics.brainupgrades_neuralcontextualizer.tooltip2": "§7Потрібен §cмозок §7або §9церебральний процесорний модуль",
   "tooltip.createcybernetics.brainupgrades_neuralcontextualizer.energy": "Витрачає 2 енергії",
   "tooltip.createcybernetics.brainupgrades_cyberdeck.tooltip1": "§1Дозволяє віддалено зламувати кібернетику",
-  "tooltip.createcybernetics.brainupgrades_cyberdeck.tooltip2": "§7Потрібен §cмозок",
+  "tooltip.createcybernetics.brainupgrades_cyberdeck.tooltip2": "§7Потрібен §cмозок §7або §9церебральний процесорний модуль",
   "tooltip.createcybernetics.brainupgrades_idem.tooltip1": "§1(МіжВимірний Модуль Втечі) Дозволяє втекти в інший вимір на 15 секунд",
-  "tooltip.createcybernetics.brainupgrades_idem.tooltip2": "§7Потрібен §cмозок",
+  "tooltip.createcybernetics.brainupgrades_idem.tooltip2": "§7Потрібен §cмозок §7або §9церебральний процесорний модуль",
   "tooltip.createcybernetics.brainupgrades_idem.tooltip3": "15 секунд відновлення",
   "tooltip.createcybernetics.brainupgrades_idem.energy": "Витрачає 50 енергії",
   "tooltip.createcybernetics.brainupgrades_chipwareslots.tooltip1": "§1Дозволяє встановлювати фрагменти даних для покращення базових навичок",
   "tooltip.createcybernetics.brainupgrades_chipwareslots.tooltip2": "§7Потрібен §cмозок",
+  "tooltip.createcybernetics.brainupgrades_spelljammer.tooltip1": "§1Запобігає застосуванню більшості заклинань у радіусі 25 блоків",
+  "tooltip.createcybernetics.brainupgrades_spelljammer.tooltip2": "§7Потрібен §cмозок §7або §9церебральний процесорний модуль",
 
   "tooltip.createcybernetics.heartupgrades_cyberheart.tooltip1": "§1Нівелює ефект Слабкості",
   "tooltip.createcybernetics.heartupgrades_cyberheart.energy": "Витрачає 6 енергії",
@@ -674,7 +752,7 @@
   "tooltip.createcybernetics.organsupgrades_adrenaline.energy": "Витрачає 10 енергії",
   "tooltip.createcybernetics.organsupgrades_battery.tooltip1": "§1Зберігає енергію",
   "tooltip.createcybernetics.organsupgrades_battery.tooltip2": "§3Накопичується до 5×",
-  "tooltip.createcybernetics.organsupgrades_battery.energy": "Уміщує 500 енергії",
+  "tooltip.createcybernetics.organsupgrades_battery.energy": "Уміщує 120 тис енергії",
   "tooltip.createcybernetics.organsupgrades_diamondwaferstack.tooltip1": "§1Повільно генерує невеликий потік енергії",
   "tooltip.createcybernetics.organsupgrades_diamondwaferstack.tooltip2": "§3Накопичується до 3×",
   "tooltip.createcybernetics.organsupgrades_diamondwaferstack.energy": "Дуже повільно відновлює 5 енергії",
@@ -687,7 +765,13 @@
   "tooltip.createcybernetics.organsupgrades_metabolic.tooltip2": "§7Потрібен §cкишківник",
   "tooltip.createcybernetics.organsupgrades_metabolic.energy": "Відновлює 25 енергії під час метаболізму",
   "tooltip.createcybernetics.organsupgrade_densebattery.tooltip1": "§1Зберігає велику кількість енергії із зарядного блока",
-  "tooltip.createcybernetics.organsupgrade_densebattery.energy": "Уміщує 5000 енергії зарядного блока",
+  "tooltip.createcybernetics.organsupgrade_densebattery.energy": "Уміщує 1.2 мільйона енергії із зарядного блока",
+  "tooltip.createcybernetics.organsupgrades_heatengine.tooltip1": "§1Генерує енергію від згорання палива",
+  "tooltip.createcybernetics.organsupgrades_heatengine.desc": "§7Встановіть та натисніть %s§7, щоб відкрити",
+  "tooltip.createcybernetics.organsupgrades_heatengine.energy": "Відновлює 50 енергії від палива",
+  "tooltip.createcybernetics.organsupgrades_manabattery.tooltip1": "§1Зберігає додаткові басейни мани",
+  "tooltip.createcybernetics.organsupgrades_manabattery.tooltip2": "§3Накопичується до 3×",
+  "tooltip.createcybernetics.organsupgrades_manabattery.energy": "Уміщує 100 мани",
 
   "tooltip.createcybernetics.skinupgrades_arterialturbine.tooltip1": "§1Генерує енергію від руху",
   "tooltip.createcybernetics.skinupgrades_arterialturbine.tooltip2": "§3Накопичується до 4×",
@@ -699,6 +783,7 @@
   "tooltip.createcybernetics.skinupgrades_faceplate.tooltip1": "§1Дозволяє змінювати «обличчя», щоб міняти відображуване ім'я",
   "tooltip.createcybernetics.skinupgrades_netheriteplating.tooltip1": "§1Надає імунітет до вогню та лави",
   "tooltip.createcybernetics.skinupgrades_solarskin.tooltip1": "§1Генерує енергію на сонці",
+      "tooltip.createcybernetics.skinupgrades_solarskin.tooltip2": "§3Накопичується до 3×",
   "tooltip.createcybernetics.skinupgrades_solarskin.energy": "Відновлює 15 енергії під сонячним світлом",
   "tooltip.createcybernetics.skinupgrades_subdermalarmor.tooltip1": "§1Надає 1 бал броні",
   "tooltip.createcybernetics.skinupgrades_subdermalarmor.tooltip2": "§3Накопичується до 3×",
@@ -707,6 +792,8 @@
   "tooltip.createcybernetics.skinupgrades_metalplating.tooltip1": "§1Заміна шкіри на титанові пластини",
   "tooltip.createcybernetics.skinupgrades_sweat.tooltip1": "§1Виділяє багато поту для відведення тепла",
   "tooltip.createcybernetics.skinupgrades_sweat.energy": "Витрачає 5 енергії",
+  "tooltip.createcybernetics.skinupgrades_manaskin.tooltip1": "§1Поглинає та конвертує ману на енергію",
+  "tooltip.createcybernetics.skinupgrades_manaskin.energy": "Відновлює 35 енергії за кожне влучне закляття, та більше від мани у повітрі",
 
   "tooltip.createcybernetics.muscleupgrades_synthmuscle.tooltip1": "§1Надає додаткову швидкість і силу",
   "tooltip.createcybernetics.muscleupgrades_synthmuscle.energy": "Витрачає 3 енергії",
@@ -714,16 +801,28 @@
   "tooltip.createcybernetics.muscleupgrades_wiredreflexes.energy": "Витрачає 3 енергії",
 
   "tooltip.createcybernetics.wetware_blubber.tooltip1": "§cІзолює від холоду",
-  "tooltip.createcybernetics.wetware_firebreathinggland.tooltip1": "§cДозволяє стріляти драконячими вогняними кулями",
-  "tooltip.createcybernetics.wetware_gills.tooltip1": "§cДозволяє дихати під водою",
+  "tooltip.createcybernetics.wetware_firebreathinglungs.tooltip1": "§cДозволяє стріляти драконячими вогняними кулями",
+  "tooltip.createcybernetics.wetware_firebreathinglungs.desc": "§7Shift+ПКМ, щоб активувати",
+  "tooltip.createcybernetics.wetware_waterbreathinglungs.tooltip1": "§cДозволяє дихати під водою",
   "tooltip.createcybernetics.wetware_guardianeye.tooltip1": "§cДозволяє стріляти лазерами вартового",
+  "tooltip.createcybernetics.wetware_guardianeye.desc": "§7Утримйте Shift+ПКМ, щоб активувати",
   "tooltip.createcybernetics.wetware_polarbearfur.tooltip1": "§cНівелює ефект замерзання",
   "tooltip.createcybernetics.wetware_ravagertendons.tooltip1": "§cНадає силу та витривалість",
   "tooltip.createcybernetics.wetware_sculklungs.tooltip1": "§cДозволяє випускати потужні звукові хвилі",
+  "tooltip.createcybernetics.wetware_sculklungs.desc": "§7Утримйте Shift+ПКМ, щоб активувати",
   "tooltip.createcybernetics.wetware_tacticalinksac.tooltip1": "§cДозволяє накладати сліпоту на нападників",
   "tooltip.createcybernetics.wetware_aerostasisgyrobladder.tooltip1": "§cНадає часткові здібності польоту",
+  "tooltip.createcybernetics.wetware_aerostasisgyrobladder.desc": "§7Утримйте Пробіл, щоб активувати",
   "tooltip.createcybernetics.wetware_grassfedstomach.tooltip1": "§cДозволяє їсти траву та пшеницю",
-  "tooltip.createcybernetics.wetware_spinnerette.tooltip1": "§cДозволяє стріляти павутиною, щоб оплутувати здобич"
-
-
+  "tooltip.createcybernetics.wetware_webshootingintestines.tooltip1": "§cДозволяє стріляти павутиною, щоб обплутувати здобич",
+  "tooltip.createcybernetics.wetware_webshootingintestines.desc": "§7Shift+ПКМ, щоб активувати",
+  "tooltip.createcybernetics.wetware_webshooting_leftarm.tooltip1": "§cДозволяє стріляти павутиною, щоб обплутувати здобич",
+  "tooltip.createcybernetics.wetware_webshooting_leftarm.desc": "§7Shift+ПКМ, щоб активувати",
+  "tooltip.createcybernetics.wetware_webshooting_rightarm.tooltip1": "§cДозволяє стріляти павутиною, щоб обплутувати здобич",
+  "tooltip.createcybernetics.wetware_webshooting_rightarm.desc": "§7Shift+ПКМ, щоб активувати",
+  "tooltip.createcybernetics.wetware_spidereyes.tooltip1": "§cДозволяє бачити як павук",
+  "tooltip.createcybernetics.wetware_blastemaskeleton.tooltip1": "§cНадає регенерацію, працює краще з меншою кількістю імплантів",
+  "tooltip.createcybernetics.wetware_blastemaskeleton.desc": "§78+ імплантів пригнічують ефект",
+  "tooltip.createcybernetics.wetware_dragonskin.tooltip1": "§cНадає невразливість до драконячого подиху та збільшує захист",
+  "tooltip.createcybernetics.wetware_wardenantlers.tooltip1": "§cДозволяє бачити звуки"
 }

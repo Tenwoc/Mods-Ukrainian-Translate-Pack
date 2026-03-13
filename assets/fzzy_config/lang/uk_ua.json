@@ -78,10 +78,10 @@
   "fc.validated_field.pair.right": "Вправо",
   "fc.validated_field.expand": "Розгорнуто",
   "fc.validated_field.expand.usage.focused": "Натисніть Enter, щоб розгорнути",
-  "fc.validated_field.expand.usage.hovered": "Клацніть лівою кнопкою миші, щоб розгорнути",
+  "fc.validated_field.expand.usage.hovered": "Клацніть ЛКМ, щоб розгорнути",
   "fc.validated_field.collapse": "Згорнуто",
   "fc.validated_field.collapse.usage.focused": "Натисніть Enter, щоб згорнути",
-  "fc.validated_field.collapse.usage.hovered": "Клацніть лівою кнопкою миші, щоб згорнути",
+  "fc.validated_field.collapse.usage.hovered": "Клацніть ЛКМ, щоб згорнути",
   "fc.validated_field.current": "Поточне значення: %s",
 
   "fc.validated_field.default": "Відновити [%1$s] до усталеного значення [%2$s]",
