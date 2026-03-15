@@ -57,7 +57,7 @@
   "chat.wireless_connect.cross_dimension": "Бездротові сполучники повинні бути в одному вимірі",
   "chat.wireless_connect.missing": "Бездротовий сполучник відсутній",
   "chat.wireless_connect.clear": "Налаштування очищено",
-  "chat.wireless_connect": "Сполучено до X: %s, Y: %s, Z: %s",
+  "chat.wireless_connect": "Сполучено з X: %s, Y: %s, Z: %s",
   "chat.wireless_bind": "Прив'язано до X: %s, Y: %s, Z: %s",
   "chat.wireless.highlight": "Бездротовий сполучник тепер виділено за адресою: %s, Dim: %s",
   "chat.pattern_view.error": "Цей шаблон не підтримується ExtendedAE, будь ласка, повідомте про це на Github: %s",

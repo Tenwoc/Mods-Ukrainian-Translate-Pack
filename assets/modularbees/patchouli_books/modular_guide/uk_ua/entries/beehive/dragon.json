@@ -1,0 +1,17 @@
+{
+  "name": "Модульний драконічний вулик",
+  "icon": "modularbees:modular_dragon_hive",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Модульний драконічний вулик",
+      "text": "Спеціальний вулик для збору дихання дракона від драконівських бджіл."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_dragon_hive"
+    }
+  ]
+}

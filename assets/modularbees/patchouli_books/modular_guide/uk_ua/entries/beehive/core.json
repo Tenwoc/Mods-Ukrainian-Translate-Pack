@@ -1,0 +1,45 @@
+{
+  "name": "Ядро модульного вулика",
+  "icon": "modularbees:modular_beehive_core",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Ядро модульного вулика",
+      "text": "Контролер багатоблочної конструкції вулика, 3x3x3 структури.$(br)Ви можете замінити будь-який структурний блок вулика функціональною частиною для вдосконалення вулика.$(br)Модульні вулики не можуть ділити між собою одні й ті ж самі блоки."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Модульний вулик",
+      "multiblock": {
+        "pattern": [
+          ["XXX", "XXX", "XXX"],
+          ["XXX", "X0X", "XCX"],
+          ["XXX", "XXX", "XXX"]
+        ],
+        "mapping": {
+          "X": "modularbees:modular_beehive_part",
+          "0": "modularbees:modular_beehive_part",
+          "C": "modularbees:modular_beehive_core[facing=east]"
+        },
+        "symmetrical": true
+      },
+      "enable_visualize": false
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Особливості",
+      "text": "Модульний вулик має вбудований модифікатор симуляції, тому бджоли не вилітатимуть з вулика.$(br)Бджоли не розмножуватимуться та не використовуватимуть трансформації у модульному вулику для економії продуктивності. Натомість вони вироблятимуть стільники та мед з неймовірною швидкістю завдяки покращенням."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_beehive_core",
+      "recipe2": "modularbees:modular_beehive_part"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:scented_plank"
+    }
+  ]
+}

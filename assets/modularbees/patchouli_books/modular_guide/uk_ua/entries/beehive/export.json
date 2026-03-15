@@ -1,0 +1,17 @@
+{
+  "name": "Експортний передавач вулика",
+  "icon": "modularbees:modular_export",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Експортний передавач вулика",
+      "text": "Замінник основного блоку для логістики, він може автоматично передавати продукти та мед до містила, що стоїть навпроти нього."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_export"
+    }
+  ]
+}

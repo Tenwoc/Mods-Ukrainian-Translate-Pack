@@ -1,0 +1,17 @@
+{
+  "name": "Модульна годівниця",
+  "icon": "modularbees:modular_beehive_feeder",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Модульна годівниця",
+      "text": "Бджоли в модульному вулику шукатимуть запилювальні предмети лише в модульній годівниці, яка може вмістити 9 рідних речей.$(br) Якщо бджолі потрібна рідина, можна поставити відро або резервуар з відповідною рідиною."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_feeder"
+    }
+  ]
+}

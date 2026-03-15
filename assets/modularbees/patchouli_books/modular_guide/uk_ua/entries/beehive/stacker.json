@@ -1,0 +1,17 @@
+{
+  "name": "Складальник вулика",
+  "icon": "modularbees:modular_beehive_stacker",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Складальник вулика",
+      "text": "Складальник може збільшити максимальний розмір стосу інвентарю виводу вулика. Кожен складальник може забезпечити 3-кратне збільшення базового стосу.$(br)Коли ви використовуєте кілька складальників одночасно, збільшення розміру є адитивним."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_beehive_stacker"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Коробка передач центрифуги",
+  "icon": "modularbees:modular_centrifuge_gearbox",
+  "read_by_default": true,
+  "category": "modularbees:centrifuge",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Коробка передач центрифуги",
+      "text": "Коробка передач може збільшити паралельність в 1,5 рази та потребує воску для роботи.$(br)При одночасному використанні кількох коробок передач паралельні прискорення є адитивними.$(br)На кожен робочий цикл потрібно 40 одиниць воску."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_centrifuge_gearbox"
+    }
+  ]
+}

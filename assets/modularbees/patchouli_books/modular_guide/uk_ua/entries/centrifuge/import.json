@@ -1,0 +1,17 @@
+{
+  "name": "Імпортний передавач центрифуги",
+  "icon": "modularbees:modular_centrifuge_import",
+  "read_by_default": true,
+  "category": "modularbees:centrifuge",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Імпортний передавач центрифуги",
+      "text": "Вхідний буфер для центрифуги, він може автоматично витягувати стільники з розташованого перед ним містила.$(br)Центрифуга використовує інвентар передавача так само як і основний."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_centrifuge_import"
+    }
+  ]
+}

@@ -71,10 +71,6 @@
   "item.createcybernetics.eyeupgradebase": "Основа модуля кіберока",
   "item.createcybernetics.titanium_hand": "Титанова рука",
   "item.createcybernetics.holoimprint_chip": "Чіп щеплення сутності",
-  "item.createcybernetics.neuropozyne_autoinjector": "Автоін'єктор нейропозину",
-  "item.createcybernetics.neuropozyne_autoinjector.duration": "Нейропозин (20:00)",
-  "item.createcybernetics.neuropozyne_autoinjector.desc": "Ін'єкція подовжує тривалість до цілої доби",
-  "item.createcybernetics.empty_autoinjector": "Порожній автоін'єктор",
   "item.createcybernetics.expcapsule": "Капсула кортикального стеку",
   "item.createcybernetics.expcapsule.playername": "Кортикальний стек %s",
   "item.createcybernetics.expcapsule.stored": "Зібрано досвіду: ",
@@ -205,6 +201,16 @@
   "item.createcybernetics.bodypart_axolotlmarrow": "Мозок аксолотля",
   "item.createcybernetics.bodypart_dragonscale": "Луска дракона Енду",
 
+  "item.createcybernetics.bodypart_sculkrightleg": "Скалкована права нога",
+  "item.createcybernetics.bodypart_sculkleftleg": "Скалкована ліва нога",
+  "item.createcybernetics.bodypart_sculkrightarm": "Скалкована права рука",
+  "item.createcybernetics.bodypart_sculkleftarm": "Скалкована ліва рука",
+  "item.createcybernetics.bodypart_sculkbrain": "Скалкований мозок",
+  "item.createcybernetics.bodypart_sculkliver": "Скалкована печінка",
+  "item.createcybernetics.bodypart_sculkintestines": "Скалкований кишківник",
+  "item.createcybernetics.bodypart_sculkmuscle": "Скалкові м'язи",
+  "item.createcybernetics.bodypart_sculkskin": "Скалкована шкіра",
+
 
   "item.createcybernetics.basecyberware_rightleg_copperplated": "Мідна пластинчаста права кібернога",
   "item.createcybernetics.basecyberware_leftleg_copperplated": "Мідна пластинчаста ліва кібернога",
@@ -330,6 +336,7 @@
   "item.createcybernetics.wetware_blastemaskeleton": "Інфікований бластемою скелет",
   "item.createcybernetics.wetware_dragonskin": "Шкіра дракона Енду",
   "item.createcybernetics.wetware_wardenantlers": "Вусики боронителя",
+  "item.createcybernetics.wetware_sculkheart": "Скалкове серце",
 
 
   "item.createcybernetics.scavenged_rightleg": "Права кібернога",
@@ -541,16 +548,24 @@
 
   "enchantment.createcybernetics.harvester": "Жнець",
 
+  "item.createcybernetics.neuropozyne_autoinjector": "Автоін'єктор нейропозину",
+  "item.createcybernetics.neuropozyne_autoinjector.duration": "Нейропозин (20:00)",
+  "item.createcybernetics.neuropozyne_autoinjector.desc": "Ін'єкція подовжує тривалість до цілої доби",
+
+  "item.createcybernetics.empty_autoinjector": "Порожній автоін'єктор",
+
   "item.minecraft.potion.effect.neuropozyne_potion": "Зілля нейропозину",
   "item.minecraft.splash_potion.effect.neuropozyne_potion": "Вибухове зілля нейропозину",
   "item.minecraft.lingering_potion.effect.neuropozyne_potion": "Осібдальне зілля нейропозину",
 
   "effect.createcybernetics.neuropozyne": "Нейропозин",
+
   "effect.createcybernetics.emp_effect": "EMP",
   "effect.createcybernetics.cyberware_rejection": "Відторгнення кіберімплантів",
   "effect.createcybernetics.synthetic_setules_effect": "Синтетичні щетинки",
   "effect.createcybernetics.aerostasis_gyrobladder_effect": "Аеростазний гіроміхур",
   "effect.createcybernetics.inked_effect": "Чорнильність",
+  "effect.createcybernetics.sculked_effect": "Скалкованість",
 
   "painting.createcybernetics.technomancer.title": "Техномант 1",
   "painting.createcybernetics.technomancer.author": "Perigrine3",

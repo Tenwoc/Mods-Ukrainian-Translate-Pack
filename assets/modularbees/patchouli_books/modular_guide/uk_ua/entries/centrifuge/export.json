@@ -1,0 +1,17 @@
+{
+  "name": "Експортний передавач центрифуги",
+  "icon": "modularbees:modular_centrifuge_export",
+  "read_by_default": true,
+  "category": "modularbees:centrifuge",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Експортний передавач центрифуги",
+      "text": "Замінник основного блоку для логістики, він може автоматично передавати продукти та рідини до містила, що стоїть навпроти нього."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_centrifuge_export"
+    }
+  ]
+}

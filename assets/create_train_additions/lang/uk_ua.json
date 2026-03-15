@@ -29,7 +29,7 @@
   "block.create_train_additions.mainsignalslow": "Слабкий основний сигнал",
   "item.create_train_additions.orangenixietube": "Помаранчевий газорозрядний індикатор",
   "block.create_train_additions.trainlamporange": "Помаранчевий ліхтар потяга",
-  "block.create_train_additions.trainwindoworange": "Помаранчеве вікно потяга",
+  "block.rne.trainwindoworange": "Помаранчеве вікно потяга",
   "block.create_train_additions.platform_1blue": "Платформа 1 синя",
   "block.create_train_additions.platform_1red": "Платформа 1 червона",
   "block.create_train_additions.platform_1yellow": "Платформа 1 жовта",

@@ -1,0 +1,17 @@
+{
+  "name": "Модульний альвеар",
+  "icon": "modularbees:modular_beehive_alveary",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Модульний альвеар",
+      "text": "Сам по собі вулик не може вмістити бджіл, тому вам потрібен альвеар, щоб розмістити всіх ваших бджіл.$(br)Кожен альвеар може вмістити 5 бджіл, використовуйте клітки для бджіл, щоб помістити їх усередину.$(br)Порада: Ви можете клацнути ПКМ по альвеару кліткою для бджіл, щоб ввести/вилучити бджіл."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_alveary"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Бджолиний екстрактор",
+  "icon": "modularbees:bee_extractor",
+  "read_by_default": true,
+  "category": "modularbees:misc",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Бджолиний екстрактор",
+      "text": "Бджолиний екстрактор - це модифікований розливник, який може вичавлювати гени з бджоли в пляшку."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:bee_extractor"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Розгінник вулика",
+  "icon": "modularbees:modular_beehive_overclocker",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Розгінник вулика",
+      "text": "Ви можете використовувати розгінник вулика, щоб ваші бджоли працювали ще швидше. Для роботи потрібна енергія та електрод, кращий електрод забезпечує вище прискорення.$(br)Коли ви використовуєте кілька розгінників одночасно, прискорення є адитивним. Це означає, що (при базовій конфігурації) два незеритові електроди (+400%) можуть пришвидшити роботу бджіл у 9 разів (+800%)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_overclocker",
+      "text": "$(o)Абсолютно безпечно"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Електрод",
+      "text": "Існує чотири рівні електродів, і ви можете побачити їхні характеристики в JEI чи у підказці.$(br)Електроди отримуватимуть більше шкоди із більшою кількістю бджіл у вулику. Формула: floor[(x/15+1)*(1.03^x)], x – кількість бджіл."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:electrode_copper",
+      "recipe2": "modularbees:electrode_iron"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:electrode_gold"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "modularbees:electrode_netherite"
+    }
+  ]
+}

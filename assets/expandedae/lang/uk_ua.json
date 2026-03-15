@@ -64,7 +64,7 @@
   "item.expandedae.greater_accel_card.tooltip.1": "Ще більша швидкість",
   "item.expandedae.greater_accel_card.tooltip.2": "Примітка: Дуже енерговимоглива!",
   "item.expandedae.pattern_refiller_card": "Картка поповнення шаблонів",
-  "item.expandedae.pattern_refiller_card.tooltip.1": "Автоматично поповнює пусті шаблони",
+  "item.expandedae.pattern_refiller_card.tooltip.1": "Автоматично поповнює слот пустих шаблонів",
   "item.expandedae.upgrade.tooltip": "Модифікатор: %s",
   "item.expandedae.wireless_exp_encoding_terminal": "Бездротовий розгорнутий термінал кодування шаблонів",
   "itemGroup.eae": "Expanded AE"
