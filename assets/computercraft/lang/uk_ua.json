@@ -36,7 +36,7 @@
   "commands.computercraft.dump.desc": "Відображає стан усіх комп'ютерів або конкретної інформації про один комп'ютер. Ви можете вказати ідентифікатор екземпляра комп'ютера (наприклад 123), ідентифікатор комп'ютера (наприклад #123) або позначку (наприклад, \"@My Computer\").",
   "commands.computercraft.dump.open_path": "Переглянути файли цього комп'ютера",
   "commands.computercraft.dump.synopsis": "Відобразити стан комп'ютерів.",
-  "commands.computercraft.generic.additional_rows": "%d додаткових рядків …",
+  "commands.computercraft.generic.additional_rows": "%d додаткових рядків ...",
   "commands.computercraft.generic.exception": "Необроблений виняток (%s)",
   "commands.computercraft.generic.no": "N",
   "commands.computercraft.generic.yes": "Y",

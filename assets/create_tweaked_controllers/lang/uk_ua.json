@@ -4,15 +4,15 @@
     "item.create_tweaked_controllers.tweaked_linked_controller": "Налаштований з'єднаний контролер",
     
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip": "НАЛАШТОВАНИЙ З'ЄДНАНИЙ КОНТРОЛЕР",
-    "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.summary": "Надає _ручний_ _контроль_ над частотами _редстоунового передавача_, призначеними на входи вашого _ігрового контролеру_.",
+    "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.summary": "Надає _ручний_ _контроль_ над частотами _редстоунового передавача_, призначеними на входи вашого _ігрового контролера_.",
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.condition1": "Клацніть ПКМ",
-    "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.behaviour1": "Перемикає контролер. _Входи_ вашого _ігрового контролеру_ перехоплюються, поки він активний.",
+    "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.behaviour1": "Перемикає контролер. _Входи_ вашого _ігрового контролера_ перехоплюються, поки він активний.",
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.condition2": "Клацніть ПКМ крадькома",
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.behaviour2": "Відкриває ручне _вікно налаштування_.",
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.condition3": "Клацніть ПКМ по редстоунового передавача",
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.behaviour3": "Вмикає _Режим прив'язки_. Натисніть на один з входів вашого ігрового контролера, щоб прив'язати її до _частоти передавача_.",
-    "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.condition4": "Клацніть ПКМ по аналою",
-    "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.behaviour4": "Поміщає контролер на аналой для зручності використання. (клацніть ПКМ крадькома, щоб повернути його)",
+    "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.condition4": "Клацніть ПКМ по катедрі",
+    "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.behaviour4": "Поміщає контролер на катедру для зручності використання. (клацніть ПКМ крадькома, щоб повернути його)",
     
     "create_tweaked_controllers.tweaked_linked_controller.bind_mode": "Режим прив'язки активовано",
     "create_tweaked_controllers.tweaked_linked_controller.press_keybind": "Натисніть будь-яку кнопку геймпада або перемістіть вісь, щоб прив'язати її",
@@ -95,7 +95,7 @@
     "create_tweaked_controllers.menu.wiki": "Онлайн-вікі",
     "create_tweaked_controllers.menu.config_general": "Загальні конфігурації",
     "create_tweaked_controllers.menu.config_controller": "Конфігурації контролерів",
-    "create_tweaked_controllers.menu.config_disabled": "Будь ласка, увімкніть кастомні зіставлення у загальних конфігураціях",
+    "create_tweaked_controllers.menu.config_disabled": "Будь ласка, увімкніть користувацькі мапінги у загальних конфігураціях",
     
     "_": "EOF"
 }
