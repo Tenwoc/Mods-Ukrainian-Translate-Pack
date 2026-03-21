@@ -2,8 +2,12 @@
   "cull-less-leaves.title": "Зменшене вибракування листя",
   "cull-less-leaves.option.enabled": "Увімкнено",
   "cull-less-leaves.option.depth": "Глибина",
-  "cull-less-leaves.option.depth.tooltip": "Кількість шарів листя до того, як внутрішня частина листя буде вибракувана.\n1 = найшвидша, але має найменш гарний вигляд.\n2 = рекомендована.\n4 = найповільніша, та має найбільш гарний вигляд.",
+  "cull-less-leaves.option.depth.tooltip": "Кількість шарів листя до того, як внутрішня частина листя буде вибракувана.\n1 = найшвидша, але має найменш гарний вигляд.\n2 = рекомендована.\n4 = найповільніша, та має гарніший вигляд.",
   "cull-less-leaves.sodium.option.enabled": "Вибракування листя",
   "cull-less-leaves.sodium.option.enabled.description": "Вмикає мод Cull Less Leaves.",
-  "cull-less-leaves.sodium.option.depth": "Глибина вибракування листя"
+  "cull-less-leaves.sodium.option.depth": "Глибина вибракування листя",
+  "cull-less-leaves.option.random_rejection": "Випадкове відхилення",
+  "cull-less-leaves.option.random_rejection.tooltip": "Випадково відхиляє певний відсоток листя внутрішнього шару в межах прийнятого діапазону глибини.",
+  "cull-less-leaves.option.fast_mangrove_roots_culling": "Швидке вибракування мангрового коріння",
+  "cull-less-leaves.option.fast_mangrove_roots_culling.tooltip": "Керує, чи виконується вибракування коренів мангрових дерев на одиницю глибини. Будь-яке інше значення марне, оскільки коріння не росте так щільно. Майже не впливає на продуктивність."
 }

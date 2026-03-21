@@ -1,4 +1,7 @@
 {
-  "cristellib.builtinPack": "Вбудований датапак, наданий Cristel Lib",
-  "cristellib.nameAndSource": "%s (%s)"
+  "cristellib.nameAndSource": "%s (через §d§nCristel Lib§r)",
+
+  "cristellib.autoCategoryInfo": "Цей екран згенеровано %s. Ви можете відключити авто-екрани у конфігурації.\nЯк розробник модів, ви можете натиснути тут, щоб потрапити у вікі та дізнатись більше.",
+  "cristellib.placementCategoryTitle": "Розміщення структур",
+  "cristellib.toggleCategoryTitle": "Перемикання структур"
 }

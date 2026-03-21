@@ -21,7 +21,7 @@
   "fluid.createtipsy.rum": "Ром",
   "fluid.createtipsy.whiskey": "Віскі",
 
-  "item.createtipsy.alcohol_bottle": "Пляшка алкоголю",
+  "item.createtipsy.alcohol_bottle": "Алкогольна пляшка",
   "item.createtipsy.beer": "Пиво",
   "item.createtipsy.berry_wine": "Ягідне вино",
   "item.createtipsy.broken_alcohol_bottle": "Розбита алкогольна пляшка",
@@ -30,23 +30,12 @@
   "item.createtipsy.rum": "Ром",
   "item.createtipsy.suspicious_hard_liquor": "Підозрілий міцний алкоголь",
   "item.createtipsy.suspicious_rum": "Підозрілий ром",
-  "item.createtipsy.suspicious_whiskey": "Підозрілий віскі",
+  "item.createtipsy.suspicious_whiskey": "Підозріле віскі",
   "item.createtipsy.whiskey": "Віскі",
   "item.createtipsy.wooden_mug": "Дерев'яний кухоль",
 
   "create.recipe.fermentation": "Ферментація",
   "create.recipe.distillation_": "Дистиляція",
 
-  "create.goggles.distiller.info": "Дистилятор:",
-
-
-  "_": "->------------------------]  Інтерфейс та повідомлення [------------------------<-",
-
-  "create.recipe.fermentation": "Ферментація",
-  "create.recipe.distillation_": "Дистиляція",
-
-  "create.goggles.distiller.info": "Дистилятор:",
-
-  "_": "Дякуємо за переклад Create: Tipsy n' Dizzy! --Tenwoc👌"
-
+  "create.goggles.distiller.info": "Дистилятор:"
 }
