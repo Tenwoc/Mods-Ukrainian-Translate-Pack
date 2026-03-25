@@ -4729,7 +4729,7 @@
   "item.gtceu.solar_panel.tooltip.0": "§7Нехай сонце буде з вами.",
   "item.gtceu.solar_panel.tooltip.1": "Виробляє§f енергію§7 з§e сонця§7 як§f кришка§7.",
   "item.gtceu.solvent_spray_can": "Аерозольний балончик (Розчинник)",
-  "item.gtceu.stainless_steel_fluid_cell": "%s у комірці з нержавійна сталі",
+  "item.gtceu.stainless_steel_fluid_cell": "%s у комірці з нержавійної сталі",
   "item.gtceu.steel_fluid_cell": "%s у сталевій комірці",
   "item.gtceu.steel_minecart_wheels": "Сталеві колеса вагонетки",
   "item.gtceu.stem_cells": "Стовбурові клітини",
@@ -5924,7 +5924,7 @@
   "tile.gtceu.reinforced_foam.name": "Посилена піна",
   "tile.gtceu.reinforced_stone.name": "Зміцнений камінь",
   "tile.gtceu.seal.name": "Герметичний блок",
-
+  
   "comment": "outdated lines",
   "item.toggle.advanced.info.tooltip": "§8<Присядьте, щоб відобразити конфігурацію зберігання>",
   "metaarmor.nms.boosted_jump.disabled": "Комплект NanoMuscle™: Посилення стрибків вимкнено",
