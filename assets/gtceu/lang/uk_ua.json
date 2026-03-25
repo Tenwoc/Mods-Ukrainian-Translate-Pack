@@ -5923,7 +5923,7 @@
   "tile.gtceu.petrified_foam.name": "Скам'яніла піна",
   "tile.gtceu.reinforced_foam.name": "Посилена піна",
   "tile.gtceu.reinforced_stone.name": "Зміцнений камінь",
-  "tile.gtceu.seal.name": "Герметичний блок"
+  "tile.gtceu.seal.name": "Герметичний блок",
 
   "comment": "outdated lines",
   "item.toggle.advanced.info.tooltip": "§8<Присядьте, щоб відобразити конфігурацію зберігання>",
