@@ -6016,5 +6016,6 @@
   "material.gtceu.raw_brine": "Неочищена ропа",
   "message.gtceu.new_veins": "Виявлено %d нових жил!",
   "gtceu.gui.multiblock_item_fluid_voiding.0": "Режим видалення",
-  "gtceu.gui.multiblock_item_fluid_voiding.1": "§7Видалення§6 предметів§7 та§9 рідин"
+  "gtceu.gui.multiblock_item_fluid_voiding.1": "§7Видалення§6 предметів§7 та§9 рідин",
+  "config.gtceu.option.temperaturesInKelvin": "temperaturesInKelvin"
 }
