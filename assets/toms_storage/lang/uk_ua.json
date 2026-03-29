@@ -276,11 +276,11 @@
   "tooltip.toms_storage.tallMode_0": "Розмір термінала: Звичайний",
   "tooltip.toms_storage.tallMode_1": "Розмір термінала: Авто",
 
-  "tomsstorage.config.multiblock_inv": "Багатоблочні сховища",
+  "tomsstorage.config.multiblock_inv": "Багатоблокові сховища",
   "tomsstorage.config.inv_dup_scan_size": "Максимальна кількість слотів шукача дублікатів з'єднувача сховища",
 
   "text.autoconfig.toms_storage.option.invRange": "Діапазон роз'ємів з'єднувача контейнерів",
-  "text.autoconfig.toms_storage.option.multiblockInv": "Багатоблочні сховища",
+  "text.autoconfig.toms_storage.option.multiblockInv": "Багатоблокові сховища",
   "text.autoconfig.toms_storage.option.wirelessTermBeaconLvlDim": "Доп. рівень радіомаяка, необхідний бездротовому терміналу для міжвимірного доступу",
   "text.autoconfig.toms_storage.option.wirelessTermBeaconLvlDim.@Tooltip": "Значення 0 вимагає лише одного блоку маяка поблизу\nЗначення -1 повністю вимикає цю функцію",
   "text.autoconfig.toms_storage.option.invLinkBeaconLvlDim": "Необхідний рівень маяка для міжвимірного зв'язку з'єднувача кабелю сховища",

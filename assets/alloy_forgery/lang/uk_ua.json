@@ -17,7 +17,7 @@
   "container.alloy_forgery.rei.fuel_per_tick": "Витрата палива на такт: %d",
   "container.alloy_forgery.rei.button": "Перемикання перевизначення рівнів",
 
-  "message.alloy_forgery.invalid_multiblock": "Є помилки у складанні багатоблочної структури",
+  "message.alloy_forgery.invalid_multiblock": "Є помилки у складанні багатоблокової структури",
   "itemGroup.alloy_forgery.alloy_forgery": "Alloy Forgery",
   "itemGroup.alloy_forgery.alloy_forgery.button.discord": "Discord",
   "itemGroup.alloy_forgery.alloy_forgery.button.curseforge": "CurseForge",

@@ -2187,7 +2187,7 @@
   "text.modern_industrialization.MiningArea3x3": "3x3",
   "text.modern_industrialization.MiningMode": "Тип копання: %s",
   "text.modern_industrialization.ModernIndustrialization": "Modern Industrialization",
-  "text.modern_industrialization.MultiblockMaterials": "Матеріали для багатоблочних конструкцій",
+  "text.modern_industrialization.MultiblockMaterials": "Матеріали для багатоблокових конструкцій",
   "text.modern_industrialization.MultiblockShapeInvalid": "Недійсна форма",
   "text.modern_industrialization.MultiblockShapeValid": "Дійсна форма",
   "text.modern_industrialization.MultiblockStatusActive": "Статус: активний",
