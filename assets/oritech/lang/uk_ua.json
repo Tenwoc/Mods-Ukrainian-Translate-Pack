@@ -314,24 +314,24 @@
   "tooltip.oritech.portable_laser.5": "Працює з більшістю зачарувань киркою, незламністю та гостротою.",
   "tooltip.oritech.portable_laser.status.begin": "Режим видобутку: ",
   "tooltip.oritech.portable_laser.status.shot_mining_error": "No shot fired, mining mode is enabled.",
-  "tooltip.oritech.portable_laser.status.hint": " (Підкрастись + права кнопка миші для перемикання)",
+  "tooltip.oritech.portable_laser.status.hint": " (Застосуйте крадькома для перемикання)",
   "tooltip.oritech.capture_item_desc_1": [
     {
       "text": "Може захопити мозок маленької, магічної розумної літаючої істоти. ",
       "italic": true,
-      "color": "сірий"
+      "color": "#AAAAAA"
     }
   ],
   "tooltip.oritech.intelligence_item": [
     {
       "text": "Отримано шляхом захоплення придатної сутності за допомогою ",
       "italic": true,
-      "color": "сірий"
+      "color": "#AAAAAA"
     },
     {
       "translate": "item.oritech.dubios_container",
       "italic": true,
-      "color": "сірий"
+      "color": "#AAAAAA"
     }
   ],
   "tooltip.oritech.capture_item_desc_2": [
@@ -343,20 +343,20 @@
     {
       "text": " може підійти під цей опис. Хоча вони завжди намагаються забрати предмет",
       "italic": true,
-      "color": "сірий"
+      "color": "#AAAAAA"
     }
   ],
   "tooltip.oritech.capture_item_desc_3": [
     {
       "text": "у вас. Можливо, ви також знайдете іншу подібну сутність для захоплення.",
       "italic": true,
-      "color": "сірий"
+      "color": "#AAAAAA"
     }
   ],
   "title.oritech.redstone_addon": [
     {
       "text": "Будь ласка, виберіть цільовий слот",
-      "color": "dark_gray"
+      "color": "#555555"
     }
   ],
   "tooltip.oritech.redstone_output_power": "Компаратори вимірюватимуть запас енергії",

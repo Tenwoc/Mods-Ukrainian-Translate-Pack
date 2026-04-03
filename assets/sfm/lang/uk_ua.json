@@ -155,7 +155,7 @@
   "item.sfm.labelgun.tooltip.clear_reminder": "%s + %s по блоку, щоби зняти з нього етикетку.",
   "item.sfm.labelgun.tooltip.contiguous_reminder": "Утримуйте %s, щоб заподіяти зміни по суміжних подібних блоках, прилеглих до кабелів.",
   "item.sfm.labelgun.tooltip.cycle_view_reminder": "Натисніть %s, щоб перемкнути перегляд етикеток.",
-  "item.sfm.labelgun.tooltip.gui_reminder": "%s оп повітрю, щоб відкрити інтерфейс.",
+  "item.sfm.labelgun.tooltip.gui_reminder": "%s по повітрю, щоб відкрити інтерфейс.",
   "item.sfm.labelgun.tooltip.next_reminder": "Натисніть %s, щоб вибрати наступну етикетку.",
   "item.sfm.labelgun.tooltip.pick_reminder": "%s + %s по блоку, щоб перемкнутися на його етикетку.",
   "item.sfm.labelgun.tooltip.previous_reminder": "Натисніть %s, щоб обрати попередню етикетку.",

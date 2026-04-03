@@ -1,7 +1,7 @@
 ---
 navigation:
-    title: Суперкомірка зберігання
-    parent: aeadditions.md
+  title: Суперкомірка зберігання
+  parent: aeadditions.md
 item_ids:
   - ae2additions:super_cell_65m
   - ae2additions:super_cell_16m
@@ -22,9 +22,10 @@ item_ids:
   - ae2additions:super_cell_component_4k
   - ae2additions:super_cell_component_1k
 ---
+
 # Суперкомірка зберігання
 
-Суперкомірка зберігання – це дуже потужна комірка, яка дозволяє зберігати рідини, предмети, хімікати тощо в одній комірці. Вам більше не потрібна окрема комірка для рідин, окрема комірка для предметів і так далі.
+Суперкомірка зберігання – це дуже потужна комірка, яка дозволяє зберігати рідини, предмети, хімікати та усе інше в одній комірці. З нею вам більше не знадобиться окрема комірка для рідин, для предметів і так далі.
 
 <Row>
 ![Terminal](assets/super_storage_cell/example_terminal.png)
@@ -32,6 +33,7 @@ item_ids:
 </Row>
 
 # Рецепти
+
 <Row>
   <RecipesFor id="ae2additions:super_cell_component_65m"/>
   <RecipesFor id="ae2additions:super_cell_65m"/>
@@ -76,4 +78,3 @@ item_ids:
   <RecipesFor id="ae2additions:super_cell_component_1k"/>
   <RecipesFor id="ae2additions:super_cell_1k"/>
 </Row>
-
