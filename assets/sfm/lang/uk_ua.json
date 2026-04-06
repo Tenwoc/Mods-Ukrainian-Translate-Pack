@@ -56,7 +56,7 @@
   "gui.sfm.container_inspector.mekanism_null_direction_warning": "БЕЗ ВИЗНАЧЕНОЇ СТОРОНИ БЛОКИ MEKANISM МОЖНА ЛИШЕ ЗЧИТУВАТИ!!!!!!",
   "gui.sfm.container_inspector.notice.1": "Слоти в інтерфейсі не завжди відповідають слотам автоматизації!!!",
   "gui.sfm.container_inspector.notice.2": "Натисніть %s, щоб перемкнути цей оверлей.",
-  "gui.sfm.container_inspector.show_exports_button": "Інспек. екстпорт",
+  "gui.sfm.container_inspector.show_exports_button": "Інспек. експорт",
   "gui.sfm.disk.tooltip.edit_in_hand": "Ви можете відкривати та редагувати програмний диск прямо з рук.",
   "gui.sfm.exit_without_saving_confirm.message": "Ви дійсно хочете відмовитися від своєї роботи?",
   "gui.sfm.exit_without_saving_confirm.no_button": "Продовжити редагування",

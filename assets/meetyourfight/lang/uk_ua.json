@@ -36,8 +36,8 @@
 	"item.meetyourfight.caged_heart.desc": "Зменшує шкоду, яка перевищує чверть від максимального здоров'я",
 	"item.meetyourfight.marshy_delight": "Болотиста насолода",
 	
-	"item.meetyourfight.dusk_key": "Сутінковий ключ",
-	"item.meetyourfight.dusk_key.desc": "Викликає Розалін, Лезо Сутінків",
+	"item.meetyourfight.dusk_key": "Присмерковий ключ",
+	"item.meetyourfight.dusk_key.desc": "Викликає Розалін, Лезо Присмерку",
 	"item.meetyourfight.violet_bloom": "Фіалкоцвіт",
 	"item.meetyourfight.twilights_thorn": "Шип Сутінків",
 	"item.meetyourfight.wilted_ideals": "Зів'ялі ідеали",
@@ -110,7 +110,7 @@
   "advancements.meetyourfight.swampjaw_kill.title": "Чемпіон болота",
   "advancements.meetyourfight.swampjaw_kill.description": "Переможіть болотяну пащу, щоб отримати моховитий зуб",
   "advancements.meetyourfight.rosalyne_summon.title": "Квітучий лицар",
-  "advancements.meetyourfight.rosalyne_summon.description": "Отримайте сутінковий ключ, щоб викликати Розаліну, Лезо Сутінків",
+  "advancements.meetyourfight.rosalyne_summon.description": "Отримайте присмерковий ключ, щоб викликати Розаліну, Лезо Сутінків",
   "advancements.meetyourfight.rosalyne_kill.title": "Зрубаний великий ворог",
   "advancements.meetyourfight.rosalyne_kill.description": "Переможіть Розаліну, Клинок Сутінків, щоб отримати фіалкоцвіт",
 	

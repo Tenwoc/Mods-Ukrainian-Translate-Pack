@@ -2,5 +2,23 @@
   "block.doapi.standard": "Стяг комплементарності",
   "block.doapi.wall_standard": "Настінний стяг комплементарності",
 
+  "sound.doapi.cabinet_close": "Шафка закривається",
+  "sound.doapi.cabinet_open": "Шафка відкривається",
+  "sound.doapi.drawer_close": "Шухляда закривається",
+  "sound.doapi.drawer_open": "Шухляда відкривається",
+  "sound.doapi.cake_cut": "Пиріг нарізано",
+  "sound.doapi.typewriter": "Друкарська машинка друкує",
+  "sound.doapi.dinner_bell": "Обідній дзвін дзвенить",
+  "sound.doapi.brewstation_ambient": "Варильна стійка булькає",
+  "sound.doapi.brewstation_oven": "Духовка потріскує",
+  "sound.doapi.brewstation_timer": "Таймер тікає",
+  "sound.doapi.brewstation_kettle": "Бульбашки лопаються",
+  "sound.doapi.brewstation_whistle": "Свисток свистить",
+  "sound.doapi.breath": "Дихання",
+  "sound.doapi.beer_elemental_death": "Буз гине",
+  "sound.doapi.beer_elemental_ambient": "Буз дихає",
+  "sound.doapi.beer_elemental_hurt": "Буза поранено",
+  "sound.doapi.beer_elemental_attack": "Буз атакує",
+  "sound.doapi.timer_ticking": "Таймер тікає",
   "pack.source.builtinMod": "вбудований у: %s"
 }

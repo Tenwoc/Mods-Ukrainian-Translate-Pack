@@ -8,7 +8,7 @@
 
   "item.digs_dnd_origins.horns": "Роги",
   "Removing your horns is a permanent decision...": "Видалення рогів - це остаточне рішення...",
-  "...I mean unless you make them a helmet": "...я маю на увазі, якщо ти не зробиш їм шолом.",
+  "...I mean unless you make them a helmet": "...ну, це доки ви не зробите їх шоломом.",
   "item.digs_dnd_origins.leather_horns_helmet": "Шкіряний рогатий шолом",
   "item.digs_dnd_origins.iron_horns_helmet": "Залізний рогатий шолом",
   "item.digs_dnd_origins.golden_horns_helmet": "Золотий рогатий шолом",
@@ -27,5 +27,4 @@
 
   "effect.digs_dnd_origins.freeze": "Заморожування",
   "effect.digs_dnd_origins.stun": "Оглушення"
-  
 }
