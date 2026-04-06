@@ -2637,7 +2637,7 @@
   "logistical_sorter.mekanism.round_robin.description": "Переходить між усіма під'єднаними містилами у розподілі предметів.",
   "logistical_sorter.mekanism.single_item": "Одиничний:",
   "logistical_sorter.mekanism.single_item.description": "Передає один предмет замість цілого стосу (замінює мінімальне та максимальне значення у фільтрах ItemStack).",
-  "matrix.mekanism.cells": "%1$s елементів",
+  "matrix.mekanism.cells": "%1$s предметів",
   "matrix.mekanism.constituents": "Компоненти:",
   "matrix.mekanism.dimensions": "Розміри:",
   "matrix.mekanism.dimensions.representation": "%1$s x %2$s x %3$s",
