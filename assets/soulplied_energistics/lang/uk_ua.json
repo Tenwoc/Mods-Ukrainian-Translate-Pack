@@ -1,0 +1,6 @@
+{
+  "soulkey.name": "Душі боронителя",
+  "soulkey.description": "Душі",
+  "soulpliedenergistics.can_be_used_filter":  "*Може бути використано в інтервейсі AE2 для запитування душ*",
+  "soulpliedenergistics.storage_bus":  "*Доступ до душ можна здійснювати, встановивши зверху шину зберігання AE2*"
+}

@@ -1,0 +1,23 @@
+{
+  "filter.type.exact_count": "Фільтр точної кількости",
+  "filter.type.exact_count.tooltip": "Переміщувати тільки за збігом точної кількости у фільтрі",
+  "filter.type.mod": "Фільтр моду",
+  "filter.type.mod.tooltip": "Переміщувати тільки за збігом ідентифікатора мода у фільтрі",
+  "filter.type.normal": "Звичайний фільтр",
+  "filter.type.normal.tooltip": "Переміщувати тільки за збігом стека у фільтрі",
+  "filter.type.regulating": "Регулюючий фільтр",
+  "filter.type.regulating.tooltip": "Поповнювати містило призначення необхідною кількістю предметів за вказаним фільтром",
+  "filter.type.scroll": "*Прокручуйте коліщатко, щоб змінити тип фільтра*",
+  "filter.type.tag": "Фільтр теґів",
+  "filter.type.tag.tooltip": "Переміщувати тільки за збігом теґу у фільтрі",
+  "item.transfer_labels.fluidstack_extract_transfer_label": "Наліпка витягання рідини",
+  "item.transfer_labels.fluidstack_insert_transfer_label": "Наліпка введення рідини",
+  "item.transfer_labels.itemstack_extract_transfer_label": "Наліпка витягання предметів",
+  "item.transfer_labels.itemstack_insert_transfer_label": "Наліпка введення предметів",
+  "item.transfer_labels.label_accessor": "Досягатор наліпок",
+  "itemGroup.transfer_labels": "Transfer Labels",
+  "tooltip.transfer_labels.blacklist": "Чорний список",
+  "tooltip.transfer_labels.slot.amount": "Кількість",
+  "tooltip.transfer_labels.slot.speed": "Швидкість",
+  "tooltip.transfer_labels.whitelist": "Білий список"
+}

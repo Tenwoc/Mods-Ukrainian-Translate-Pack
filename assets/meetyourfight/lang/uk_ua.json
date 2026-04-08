@@ -61,7 +61,7 @@
 	"entity.meetyourfight.bellringer": "Дзвонар",
 	"entity.meetyourfight.dame_fortuna": "Пані Фортуна",
 	"entity.meetyourfight.swampjaw": "Болотяна паща",
-	"entity.meetyourfight.rosalyne": "Розалін, Лезо Сутінків",
+	"entity.meetyourfight.rosalyne": "Розалін, Лезо Присмерку",
 	"entity.meetyourfight.rose_spirit": "Дух рози",
 	
 	"status.meetyourfight.boss_nearby": "Інший бос надто близько",
@@ -110,7 +110,7 @@
   "advancements.meetyourfight.swampjaw_kill.title": "Чемпіон болота",
   "advancements.meetyourfight.swampjaw_kill.description": "Переможіть болотяну пащу, щоб отримати моховитий зуб",
   "advancements.meetyourfight.rosalyne_summon.title": "Квітучий лицар",
-  "advancements.meetyourfight.rosalyne_summon.description": "Отримайте присмерковий ключ, щоб викликати Розаліну, Лезо Сутінків",
+  "advancements.meetyourfight.rosalyne_summon.description": "Отримайте присмерковий ключ, щоб викликати Розаліну, Лезо Присмерку",
   "advancements.meetyourfight.rosalyne_kill.title": "Зрубаний великий ворог",
   "advancements.meetyourfight.rosalyne_kill.description": "Переможіть Розаліну, Клинок Сутінків, щоб отримати фіалкоцвіт",
 	
