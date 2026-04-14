@@ -62,7 +62,7 @@
   "configurationtool.configmode.toggle_render": "Приховати/показати візуалізацію",
   "configurationtool.configmode.toggle_upgrades": "Приховати/показати оновлення візуалізації",
   "configurationtool.use": "ПКМ крадькома по повітрю для зміни режиму. ПКМ по шухляді, щоб перемкнути функцію.",
-  "drawer.block.contents": "Вміст: ",
+  "drawer.block.contents": "Вміст:",
   "drawer.block.multiplier": "Множник сховища: %s",
   "drawer.block.upgrades": "Покращення:",
   "drawer.block.upgrades.is_creative": "Творчість",
