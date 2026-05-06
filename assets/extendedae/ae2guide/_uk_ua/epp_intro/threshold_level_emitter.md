@@ -1,15 +1,15 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: ME Пороговий випромінювач рівня енергії
-    icon: extendedae:threshold_level_emitter
+  parent: epp_intro/epp_intro-index.md
+  title: ME Пороговий випромінювач рівня
+  icon: extendedae:threshold_level_emitter
 categories:
-- extended devices
+  - extended devices
 item_ids:
-- extendedae:threshold_level_emitter
+  - extendedae:threshold_level_emitter
 ---
 
-# ME Пороговий випромінювач рівня енергії
+# ME Пороговий випромінювач рівня
 
 <GameScene zoom="8" background="transparent">
   <ImportStructure src="../structure/cable_threshold_level_emitter.snbt"></ImportStructure>
@@ -21,12 +21,12 @@ item_ids:
 
 - 0-100 - вимкнення сигналу
 - 100-150 - простій
-- 150+ - подача сигналу
+- 150+ - увімкнення сигналу
 
 Спочатку мережа порожня, тому випромінювач не буде активним.
 
-Коли кількість речі зростає і перевищує 150, випромінювач почне випромінювати редстоуновий сигнал.
+Коли кількість речі зросте і перевищить 150, випромінювач почне випромінювати редстоуновий сигнал.
 
-Коли кількість зменшується і стає меншою за 150, випромінювач все одно надсилає сигнал.
+Коли кількість зменшується і стає нижчою за 150, випромінювач все одно надсилає сигнал.
 
 Якщо кількість стає меншою за 100, випромінювач вимикається.

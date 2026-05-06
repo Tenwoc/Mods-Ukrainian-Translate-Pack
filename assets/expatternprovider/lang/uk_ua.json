@@ -51,7 +51,7 @@
   "gui.wireless_connect.power": "Використання енергії: %s AE/t",
   "gui.wireless_connect.channel": "Канал: %s/%s",
   "gui.wireless_connect.remote": "Позиція X: %s, Y: %s, Z: %s",
-  "gui.wireless_connect.highlight.tooltip": "Виділіть віддалений бездротовий сполучник у світі.",
+  "gui.wireless_connect.highlight.tooltip": "Виділити віддалений бездротовий сполучник у світі.",
   "chat.wireless_connect.out_of_range": "Бездротовий сполучник знаходиться занадто далеко",
   "chat.wireless_connect.self_reference": "Неможливо під'єднати до самого себе",
   "chat.wireless_connect.cross_dimension": "Бездротові сполучники повинні бути в одному вимірі",

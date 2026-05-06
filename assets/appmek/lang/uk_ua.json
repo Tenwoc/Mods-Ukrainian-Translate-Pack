@@ -1,22 +1,22 @@
 {
-  "gui.appmek.chemical": "Хімічний",
+  "gui.appmek.chemical": "Хімікати",
   "text.appmek.creative_tab": "Applied Mekanistics",
-  "text.appmek.qio_frequency": "Переодичність QIO (%s)",
+  "text.appmek.qio_frequency": "Частота КПК (%s)",
 
-  "item.appmek.chemical_cell_housing": "Корпус хімічної ME-комірки",
-  "item.appmek.creative_chemical_cell": "Творча МЕ-комірка хімічного сховища",
+  "item.appmek.chemical_cell_housing": "Корпус для хімічної ME комірки",
+  "item.appmek.creative_chemical_cell": "Творча ME хімічна комірка",
 
-  "item.appmek.chemical_storage_cell_1k": "1k МЕ-комірка хімічного сховища",
-  "item.appmek.chemical_storage_cell_4k": "4k МЕ-комірка хімічного сховища",
-  "item.appmek.chemical_storage_cell_16k": "16k МЕ-комірка хімічного сховища",
-  "item.appmek.chemical_storage_cell_64k": "64k МЕ-комірка хімічного сховища",
-  "item.appmek.chemical_storage_cell_256k": "256k МЕ-комірка хімічного сховища",
+  "item.appmek.chemical_storage_cell_1k": "1К ME Хімічна комірка",
+  "item.appmek.chemical_storage_cell_4k": "4К ME Хімічна комірка",
+  "item.appmek.chemical_storage_cell_16k": "16К ME Хімічна комірка",
+  "item.appmek.chemical_storage_cell_64k": "64К ME Хімічна комірка",
+  "item.appmek.chemical_storage_cell_256k": "256К ME Хімічна комірка",
 
-  "item.appmek.portable_chemical_storage_cell_16k": "16k портативна хімічна комірка",
-  "item.appmek.portable_chemical_storage_cell_1k": "1k портативна хімічна комірка",
-  "item.appmek.portable_chemical_storage_cell_4k": "4k портативна хімічна комірка",
-  "item.appmek.portable_chemical_storage_cell_64k": "64k портативна хімічна комірка",
-  "item.appmek.portable_chemical_storage_cell_256k": "256k портативна хімічна комірка",
+  "item.appmek.portable_chemical_storage_cell_16k": "16К Портативна хімічна комірка",
+  "item.appmek.portable_chemical_storage_cell_1k": "1К Портативна хімічна комірка",
+  "item.appmek.portable_chemical_storage_cell_4k": "4К Портативна хімічна комірка",
+  "item.appmek.portable_chemical_storage_cell_64k": "64К Портативна хімічна комірка",
+  "item.appmek.portable_chemical_storage_cell_256k": "256К Портативна хімічна комірка",
 
   "item.appmek.chemical_p2p_tunnel": "Хімічний P2P тунель"
 }
