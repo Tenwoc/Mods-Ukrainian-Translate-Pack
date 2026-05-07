@@ -21,10 +21,16 @@
 
   "screen.elevatorid.elevator": "Параметри ліфта",
   "screen.elevatorid.elevator.directional": "Спрямований",
+  "screen.elevatorid.elevator.directional_north": "ПН",
+  "screen.elevatorid.elevator.directional_east": "СХ",
+  "screen.elevatorid.elevator.directional_south": "ПД",
+  "screen.elevatorid.elevator.directional_west": "ЗХ",
   "screen.elevatorid.elevator.hide_arrow": "Сховати стрілку",
   "screen.elevatorid.elevator.reset_camo": "Зняти камуфляж",
 
   "elevatorid.message.missing_xp": "У вас недостатньо досвіду для телепортації",
 
-  "itemGroup.elevators_tab": "Elevators"
+  "itemGroup.elevators_tab": "Elevators",
+
+  "tag.item.elevatorid.elevators": "Elevators"
 }

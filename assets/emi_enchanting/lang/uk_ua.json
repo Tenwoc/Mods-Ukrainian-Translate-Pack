@@ -11,6 +11,6 @@
   "emi_enchanting.maxLvl": "Максимальний рівень: %s",
   "emi_enchanting.valid_items": "Припустимі предмети",
   "emi_enchanting.description": "Опис зачарування",
-  "emi_enchanting.exclusions": "Взаємовиключення",
+  "emi_enchanting.exclusions": "Взаємозаперечення",
   "enchantment.emi_enchanting.unknown.desc": "Невідоме зачарування"
 }
