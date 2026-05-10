@@ -343,7 +343,7 @@
   "block.industrialforegoing.pity_black_hole_tank": "Примітивний резервуар чорної діри",
   "block.industrialforegoing.common_black_hole_tank": "Звичайний резервуар чорної діри",
   "block.industrialforegoing.hydroponic_bed": "Гідропонна грядка",
-  "block.industrialforegoing.simulated_hydroponic_bed": "Смиуляційна гідропонна грядка",
+  "block.industrialforegoing.simulated_hydroponic_bed": "Симулляційна гідропонна грядка",
   "block.essence": "Чари",
   "block.meat": "Рідке м'ясо",
   "block.sewage": "Нечистоти",
@@ -672,7 +672,7 @@
   "tooltip.industrialforegoing.hydroponic.next_efficiency": "Наступний бонус ефективности: ",
   "tooltip.industrialforegoing.hydroponic.potential_drops": "Потенціальний дроп: ",
   "tooltip.industrialforegoing.hydroponic.drop_format": " - %s%s x %s",
-  "tooltip.titanium.facing_handler.simulation": "Процесор гідропонной симуляції",
+  "tooltip.titanium.facing_handler.simulation": "Процесор гідропонної симуляції",
   "tooltip.titanium.facing_handler.seed": "Симульоване насіння",
   "tooltip.industrialforegoing.hydroponic.function_1": "* Використайте у гідропонній грядці, щоб зібрати дані рослини",
   "tooltip.industrialforegoing.hydroponic.function_2": "* Використайте у симульованій гідропонній грядці, щоб отримувати врожай"

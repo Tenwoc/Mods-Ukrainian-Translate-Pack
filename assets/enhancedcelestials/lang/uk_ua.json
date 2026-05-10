@@ -3,8 +3,8 @@
   "block.enhancedcelestials.space_moss_block": "Космічний моховитий блок",
   "block.enhancedcelestials.space_moss_carpet": "Космічний моховитий килим",
   "block.enhancedcelestials.space_moss_grass": "Космічна моховита трава",
-  "enhancedcelestials.commands.disabled": "Enhanced Celestials' місячі події вимкнені у цьому світі!",
-  "enhancedcelestials.commands.lunarevent_missing": "\"%s\" - не коректна місячна подія!",
+  "enhancedcelestials.commands.disabled": "Enhanced Celestials' місячні події вимкнені у цьому світі!",
+  "enhancedcelestials.commands.lunarevent_missing": "\"%s\" - недійсна місячна подія!",
   "enhancedcelestials.lunarforecast.days_left": "(%sд)",
   "enhancedcelestials.lunarforecast.empty": "Найближчих місячних подій не передбачається.",
   "enhancedcelestials.lunarforecast.header": "Поточний місячний прогноз:\n%s",
@@ -32,7 +32,7 @@
   "enhancedcelestials.notification.super_moon.rise": "\"Надмісяць\" сходить... Поряд починають з'являтися слимаки.",
   "enhancedcelestials.notification.super_moon.set": "\"Надмісяць\" заходить...",
   "enhancedcelestials.sleep.fail": "Зараз ви не можете спати, оскільки поточна місячна подія перешкоджає цьому.",
-  "entity.enhancedcelestials.meteor": "Метеро",
-  "entity.enhancedcelestials.space_moss_bug": "Космічний моховитий жук",
-  "item.enhancedcelestials.space_moss_bug_spawn_egg": "Яйце виклику космічного моховитого жука"
+  "entity.enhancedcelestials.meteor": "Метеор",
+  "entity.enhancedcelestials.space_moss_bug": "Космічний моховий жук",
+  "item.enhancedcelestials.space_moss_bug_spawn_egg": "Яйце виклику космічного мохового жука"
 }

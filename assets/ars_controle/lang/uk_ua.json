@@ -4,7 +4,7 @@
   "ars_controle.config.search_bar.clear_on_auto_focus": "Очистити автофокус",
   "ars_controle.config.search_bar.enable_auto_focus": "Увімкнути автофокус",
   "ars_controle.config.search_bar.escape_to_clear": "Esc - Очистити",
-  "ars_controle.config.spell_crafting": "Закляття",
+  "ars_controle.config.spell_crafting": "Створення заклять",
   "ars_controle.config.spell_crafting.swap_glyphs_with_number_keys": "Заміна гліфів цифровими клавішами",
   "ars_controle.config.warping_spell_prism": "Варп-чаклунська призма",
   "ars_controle.config.warping_spell_prism.cost_min_distance": "Мінімальна вартість за відстань",
@@ -12,7 +12,7 @@
   "ars_controle.config.warping_spell_prism.dimension_cost": "Вартість за вимір",
   "ars_controle.config.warping_spell_prism.load_time": "Час завантаження",
   "ars_controle.config.warping_spell_prism.max_cost": "Максимальна вартість",
-  "ars_controle.glyph.error.generic.error_at_position": "Заклинання %s у позиції %d зіткнулося з помилкою.",
+  "ars_controle.glyph.error.generic.error_at_position": "%s у позиції %d зіткнулося з помилкою.",
   "ars_controle.glyph_desc.glyph_filter_above": "Виконує закляття тільки над заклиначем.",
   "ars_controle.glyph_desc.glyph_filter_below": "Виконує закляття тільки під заклиначем.",
   "ars_controle.glyph_desc.glyph_filter_level": "Виконує закляття лише на висоті, на якій знаходиться заклинач.",
@@ -53,10 +53,11 @@
   "ars_controle.target.get.none": "Ціль не знайдено.",
   "ars_controle.target.set.block": "Ціль встановлено на блок на %s у %s.",
   "ars_controle.target.set.entity": "Ціль встановлено на %s в %s.",
+  "ars_controle.target.set.fail.other_player": "Приєднання інших гравців не дозволено.",
   "ars_controle.target.set.none": "Ціль очищено.",
   "ars_controle.target.set.self": "Ціль встановлено на себе.",
-  "ars_nouveau.augment_desc.glyph_filter_random_glyph_amplify": "Збільшує ймовірність вирішення",
-  "ars_nouveau.augment_desc.glyph_filter_random_glyph_dampen": "Зменшує ймовірність вирішення",
+  "ars_nouveau.augment_desc.glyph_filter_random_glyph_amplify": "Збільшує ймовірність виконання закляття",
+  "ars_nouveau.augment_desc.glyph_filter_random_glyph_dampen": "Зменшує ймовірність виконання закляття",
   "ars_nouveau.augment_desc.glyph_precise_delay_glyph_extend_time": "Подвоює затримку",
   "ars_nouveau.page1.block.ars_controle.scroll_holder": "Тримач варп-сувою дозволяє легко відкривати і закривати варп-портали у потрібних вам місцях. Просто замініть одну з рамок порталу на тримач варп-сувою у відповідному напрямку і вставте варп-сувій, маючи джерело в межах 10 блоків.",
   "ars_nouveau.page1.block.ars_controle.scryers_linkage": "Сполучник стеження з'єднується з іншим блоком, дозволяючи машинам взаємодіяти з пов'язаним з ним блоком на великих відстанях. Він може зв'язувати предмети, рідини, енергію, редстоун та деякі інші речі. Щоб налаштувати його, збережіть розташування потрібного блока до жезла панування та перейдайте сполучнику.",
@@ -80,9 +81,5 @@
   "item.ars_controle.portable_brazier_relay": "Портативна ритуальна естафета",
   "item.ars_controle.portable_brazier_relay.with_ritual": "Портативна ритуальна естафета (%s)",
   "item.ars_controle.remote": "Пульт",
-  "item.ars_controle.remote.with_target": "Пульт (%s)",
-  
-  "ars_controle.augment_desc.glyph_filter_random_glyph_amplify": "Збільшує ймовірність вирішення",
-  "ars_controle.augment_desc.glyph_filter_random_glyph_dampen": "Зменшує ймовірність вирішення",
-  "ars_controle.augment_desc.glyph_precise_delay_glyph_extend_time": "Подвоює затримку"
+  "item.ars_controle.remote.with_target": "Пульт (%s)"
 }

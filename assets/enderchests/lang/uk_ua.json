@@ -6,10 +6,10 @@
     "itemGroup.enderchests": "EnderChests",
 
     "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
-    "error.enderchests.bag.nolink1": "Неможливо прив'язати сумку, ви не є власником цієї скрині",
-    "error.enderchests.bag.nolink2": "Неможливо прив'язати мішок, власник скрині невідомий",
-    "error.enderchests.bag.nolink3": "Неможливо прив'язати мішок, ви не в одній команді",
-    "error.enderchests.bag.corrupted": "Неможливо відкрити мішок; Відсутні дані стосу NBT",
+    "error.enderchests.bag.nolink1": "Неможливо прив'язати торбу, ви не є власником цієї скрині",
+    "error.enderchests.bag.nolink2": "Неможливо прив'язати торбу, власник скрині невідомий",
+    "error.enderchests.bag.nolink3": "Неможливо прив'язати торбу, ви не в одній команді",
+    "error.enderchests.bag.corrupted": "Неможливо відкрити торбу; Відсутні дані NBT стосу",
 
     "error.enderchests.chest.public.disabled": "Публічні скрині вимкнено, щоб користуватися ними, їх потрібно покращити",
     "error.enderchests.chest.private.disabled": "Створення приватних скринь вимкнено",
@@ -23,7 +23,7 @@
 
     "info.enderchests.chest.public": "Публічний",
     "info.enderchests.chest.code": "Код:",
-    "info.enderchests.chest.capacity": "Об'єм скрині збільшився до",
+    "info.enderchests.chest.capacity": "Місткість скрині збільшилася до",
 
     "info.enderchests.craftingmaterial": "Матеріал виготовлення",
 
@@ -39,7 +39,7 @@
     "block.enderchests.chest.team": "Скриня Енду",
 
     "_comment": "------------------------------------------------ MOD INTEGRATION -------------------------------------------------!",
-    "hud.enderchests.server_data_missing": " §6⚠ §4No HUD Data Received from Server §6⚠",
+    "hud.enderchests.server_data_missing": " §6⚠ §4Від сервера не отримано даних HUD §6⚠",
 
     "config.jade.plugin_enderchests.hud": "Увімкнути плагін"
 }

@@ -11,7 +11,10 @@
   "endercrop.wailatop.light": "Світло",
   "endercrop.waila.hoeable": "Можна зорати",
   "endercrop.waila.nothoeable": "Не можна зорати",
+  "endercrop.waila:till": "Оранка",
   "endercrop.top.hoe": "Мотика",
+  "config.jade.plugin_endercrop.tilled_end_stone": "Рілля каменя Енду",
   "config.jade.plugin_endercrop.endstone": "Рілля каменя Енду",
+  "config.jade.plugin_endercrop.ender_crop": "Інформація про рослину Енду",
   "config.jade.plugin_endercrop.endercrop": "Інформація про рослину Енду"
 }
