@@ -1,5 +1,5 @@
 {
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Common",
 
   "block.tconstruct.sky_slime": "Небослизовий блок",
   "block.tconstruct.sky_slime.tooltip": "Прилипає і до слизу, і до меду",
@@ -94,10 +94,10 @@
   "block.tconstruct.soul_glass_pane.tooltip": "Тверда, але дозволяє пройти наскрізь",
 
   "block.tconstruct.glow": "Сяйво",
-  "block.tconstruct.silky_jewel_block": "Шовковий блок самоцвітів",
+  "block.tconstruct.silky_jewel_block": "Блок шовкових самоцвітів",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Ore Metals",
 
   "item.tconstruct.copper_nugget": "Мідний самородок",
 
@@ -116,7 +116,7 @@
   "item.tconstruct.steel_nugget": "Сталевий самородок",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 3 Metals",
 
   "block.tconstruct.slimesteel_block": "Блок слизосталі",
   "block.tconstruct.slimesteel_block.tooltip": "Можна використати як прозору основу для маяка",
@@ -136,7 +136,7 @@
   "item.tconstruct.pig_iron_nugget": "Свинозалізний самородок",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 4 Metals",
 
   "block.tconstruct.manyullyn_block": "Блок маньюліну",
   "block.tconstruct.manyullyn_block.tooltip": "Можна використати як основу для маяка",
@@ -178,7 +178,7 @@
   "item.tconstruct.debris_nugget.tooltip": "Маленький шматок стародавнього незериту. Мабуть, можна розтопити для перероблення",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 5 Metals",
 
   "item.tconstruct.materials_and_you": "Матеріали й Ви",
   "item.tconstruct.materials_and_you.tooltip": "Вступна книга про інструменти й матеріали\nАвтор: Selena",
@@ -278,7 +278,7 @@
   "item.tconstruct.dragon_scale.tooltip": "Відлущується від дракона Енду вибухом",
 
   "item.tconstruct.modifier_crystal": "Модифікатор кристала",
-  "item.tconstruct.modifier_crystal.format": "%s кристала",
+  "item.tconstruct.modifier_crystal.format": "Кристал (%s)",
   "item.tconstruct.modifier_crystal.missing": "Відсутній або недійсний NBT, що визначає тип модифікатора",
   "item.tconstruct.modifier_crystal.tooltip": "Застосуйте до інструмента, щоб отримати 1 рівень модифікатора, займаючи відповідні слоти.",
   "item.tconstruct.modifier_crystal.modifier_id": "ID модифікатора: %s",
@@ -297,7 +297,7 @@
   "item.tconstruct.copper_can.contents": "Містить: 1 злиток (%s)",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Patterns",
 
   "pattern.tconstruct.ingot": "Злиток",
   "pattern.tconstruct.nugget": "Самородок",
@@ -321,23 +321,23 @@
   "pattern.tconstruct.leggings_plating": "Наголінна пластина",
   "pattern.tconstruct.boots_plating": "Чобітна пластина",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Small Head Patterns",
 
   "pattern.tconstruct.pick_head": "Лезо кайла",
   "pattern.tconstruct.small_axe_head": "Наконечник малої сокири",
   "pattern.tconstruct.small_blade": "Мале лезо",
   "pattern.tconstruct.adze_head": "Лезо тесла",
-  "pattern.tconstruct.bow_limb": "Тятива лука",
+  "pattern.tconstruct.bow_limb": "Плече лука",
   "pattern.tconstruct.arrow_head": "Головка стріли",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Large Head Patterns",
 
   "pattern.tconstruct.hammer_head": "Бойок молота",
   "pattern.tconstruct.broad_axe_head": "Лезо сокири-колуна",
   "pattern.tconstruct.broad_blade": "Широке лезо",
   "pattern.tconstruct.large_plate": "Велика пластина",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Binding Patterns",
 
   "pattern.tconstruct.tool_binding": "Кріплення",
   "pattern.tconstruct.tough_binding": "Міцний комір",
@@ -345,7 +345,7 @@
   "pattern.tconstruct.maille": "Кольчуга",
   "pattern.tconstruct.shield_core": "Основа щита",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tool Handle Patterns",
 
   "pattern.tconstruct.tool_handle": "Держак інструмента",
   "pattern.tconstruct.tough_handle": "Міцний держак",
@@ -355,7 +355,7 @@
   "pattern.tconstruct.arrow_part": "Головка або держалко стріли",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Gold Casts",
 
   "item.tconstruct.cast.cost": "Вартість матеріалів: %d",
 
@@ -372,7 +372,7 @@
 
   "item.tconstruct.repair_kit_cast": "Золота форма ремонтного набору",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Small Head Gold Casts",
 
   "item.tconstruct.pick_head_cast": "Золота форма леза кайла",
   "item.tconstruct.small_axe_head_cast": "Золота форма леза малої сокири",
@@ -381,26 +381,26 @@
   "item.tconstruct.bow_grip_cast": "Золота форма руків'я лука",
   "item.tconstruct.adze_head_cast": "Золота форма леза тесла",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Large Head Gold Casts",
 
   "item.tconstruct.hammer_head_cast": "Золота форма бійка молота",
   "item.tconstruct.broad_axe_head_cast": "Золота форма леза сокири-колуна",
   "item.tconstruct.broad_blade_cast": "Золота форма широкого леза",
   "item.tconstruct.large_plate_cast": "Золота форма великої пластини",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Binding Gold Casts",
 
   "item.tconstruct.tool_binding_cast": "Золота форма кріплення",
   "item.tconstruct.tough_binding_cast": "Золота форма міцного коміру",
   "item.tconstruct.arrow_cast": "Золотий шаблон стріли",
   "item.tconstruct.arrow_cast.tooltip": "Багаторазовий шаблон для створення частин стріл у збирачі деталі",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tool Handle Gold Casts",
 
   "item.tconstruct.tool_handle_cast": "Золота форма держака інструмента",
   "item.tconstruct.tough_handle_cast": "Золота форма міцного держака",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor Gold Casts",
   "item.tconstruct.helmet_plating_cast": "Золота форма наголівної пластини",
   "item.tconstruct.chestplate_plating_cast": "Золота форма нагрудної пластини",
   "item.tconstruct.leggings_plating_cast": "Золота форма наголінної пластини",
@@ -408,7 +408,7 @@
   "item.tconstruct.maille_cast": "Золота форма кольчуги",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Sand Casts",
 
   "item.tconstruct.blank_sand_cast": "Піщана форма",
   "item.tconstruct.ingot_sand_cast": "Піщана форма злитка",
@@ -423,7 +423,7 @@
 
   "item.tconstruct.repair_kit_sand_cast": "Піщана форма ремонтного набору",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Small Head Sand Casts",
 
   "item.tconstruct.pick_head_sand_cast": "Піщана форма леза кайла",
   "item.tconstruct.small_axe_head_sand_cast": "Піщана форма леза малої сокири",
@@ -432,24 +432,24 @@
   "item.tconstruct.bow_grip_sand_cast": "Піщана форма руків'я лука",
   "item.tconstruct.adze_head_sand_cast": "Піщана форма для леза тесла",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Large Head Sand Casts",
 
   "item.tconstruct.hammer_head_sand_cast": "Піщана форма бійка молота",
   "item.tconstruct.broad_axe_head_sand_cast": "Піщана форма леза сокири-колуна",
   "item.tconstruct.broad_blade_sand_cast": "Піщана форма широкого леза",
   "item.tconstruct.large_plate_sand_cast": "Піщана форма великої пластини",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Binding Sand Casts",
 
   "item.tconstruct.tool_binding_sand_cast": "Піщана форма кріплення",
   "item.tconstruct.tough_binding_sand_cast": "Піщана форма міцного коміру",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tool Handle Sand Casts",
 
   "item.tconstruct.tool_handle_sand_cast": "Піщана форма держака інструмента",
   "item.tconstruct.tough_handle_sand_cast": "Піщана форма міцного держака",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor Sand Casts",
 
   "item.tconstruct.helmet_plating_sand_cast": "Піщана форма наголівної пластини",
   "item.tconstruct.chestplate_plating_sand_cast": "Піщана форма нагрудної пластини",
@@ -458,7 +458,7 @@
   "item.tconstruct.maille_sand_cast": "Піщана форма кольчуги",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Red Sand Casts",
 
   "item.tconstruct.blank_red_sand_cast": "Червоно-піщана форма",
   "item.tconstruct.ingot_red_sand_cast": "Червоно-піщана форма злитка",
@@ -473,7 +473,7 @@
 
   "item.tconstruct.repair_kit_red_sand_cast": "Червоно-піщана форма ремонтного набору",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Small Head Red Sand Casts",
 
   "item.tconstruct.pick_head_red_sand_cast": "Червоно-піщана форма леза кайла",
   "item.tconstruct.small_axe_head_red_sand_cast": "Червоно-піщана форма леза малої сокири",
@@ -482,24 +482,24 @@
   "item.tconstruct.bow_grip_red_sand_cast": "Червоно-піщана форма руків'я лука",
   "item.tconstruct.adze_head_red_sand_cast": "Червоно-піщана форма леза тесла",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Large Head Red Sand Casts",
 
   "item.tconstruct.hammer_head_red_sand_cast": "Червоно-піщана форма бійка молота",
   "item.tconstruct.broad_axe_head_red_sand_cast": "Червоно-піщана форма леза сокири-колуна",
   "item.tconstruct.broad_blade_red_sand_cast": "Червоно-піщана форма широкого леза",
   "item.tconstruct.large_plate_red_sand_cast": "Червоно-піщана форма великої пластини",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Binding Red Sand Casts",
 
   "item.tconstruct.tool_binding_red_sand_cast": "Червоно-піщана форма кріплення",
   "item.tconstruct.tough_binding_red_sand_cast": "Червоно-піщана форма міцного коміру",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tool Handle Red Sand Casts",
 
   "item.tconstruct.tool_handle_red_sand_cast": "Червоно-піщана форма держака інструмента",
   "item.tconstruct.tough_handle_red_sand_cast": "Червоно-піщана форма міцного держака",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor Red Sand Casts",
 
   "item.tconstruct.helmet_plating_red_sand_cast": "Червоно-піщана форма наголівної пластини",
   "item.tconstruct.chestplate_plating_red_sand_cast": "Червоно-піщана форма нагрудної пластини",
@@ -508,7 +508,7 @@
   "item.tconstruct.maille_red_sand_cast": "Червоно-піщана форма кольчуги",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Fluids",
 
   "block.tconstruct.blazing_blood_fluid": "Пломениста кров",
   "fluid.tconstruct.blazing_blood": "Пломениста кров",
@@ -519,7 +519,7 @@
   "fluid.tconstruct.powdered_snow": "Сипкий сніг",
   "fluid.tconstruct.powdered_snow.fluid_effect": "Сипкий сніг — корисна речовина для бою у Незері, яка завдає більшої шкоди пломеневим мобам.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Food",
 
   "block.tconstruct.honey_fluid": "Мед",
   "fluid.tconstruct.honey": "Мед",
@@ -553,7 +553,7 @@
   "fluid.tconstruct.meat_soup.fluid_effect": "Не питайте, чиє м'ясо у цьому супі, просто сьорбайте та насолоджуйтесь його смаком.",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Potion",
 
   "fluid.tconstruct.potion": "Зілля",
   "fluid.tconstruct.potion.fluid_effect": "Зілля дозволяють створювати широкий спектр ефектів у варильній стійці. Їх переливати в резервуари для заповнення інструментів.",
@@ -566,7 +566,7 @@
   "item.tconstruct.lingering_bottle": "Осідальна пляшка",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Slime",
 
   "block.tconstruct.earth_slime_fluid": "Слиз",
   "fluid.tconstruct.earth_slime": "Слиз",
@@ -608,7 +608,7 @@
   "item.tconstruct.ichor_slime_bottle": "Пляшка іхору",
   "fluid.tconstruct.ichor.fluid_effect": "Іхор — це рідина зі зворотною силою тяжіння, яка також допомагає вам обернути гравітацію. Виживання під час вільної подорожі вниз цілком залежить від вас.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Rock",
 
   "block.tconstruct.seared_stone_fluid": "Обпалений камінь",
   "fluid.tconstruct.seared_stone": "Обпалений камінь",
@@ -681,7 +681,7 @@
   "fluid.tconstruct.flowing_molten_porcelain": "Зріджена розтоплена порцеляна",
   "item.tconstruct.molten_porcelain_bucket": "Відро розтопленої порцеляни",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Ores",
 
   "block.tconstruct.molten_iron_fluid": "Розтоплене залізо",
   "fluid.tconstruct.molten_iron": "Розтоплене залізо",
@@ -713,7 +713,7 @@
   "item.tconstruct.molten_debris_bucket": "Відро розтоплених залишків",
   "fluid.tconstruct.molten_debris.fluid_effect": "Розтоплені залишки є найміцнішою рідиною для видобутку корисних копалин, здатною навіть видобувати обсидіан.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tier 3 Alloys",
 
   "block.tconstruct.molten_slimesteel_fluid": "Розтоплена слизосталь",
   "fluid.tconstruct.molten_slimesteel": "Розтоплена слизосталь",
@@ -738,7 +738,7 @@
   "item.tconstruct.molten_pig_iron_bucket": "Відро розтопленого свинозаліза",
   "fluid.tconstruct.molten_pig_iron.fluid_effect": "Розтоплене свинозалізо — найсмачніше з розтоплених металів. І не те щоб з ним хтось конкурував...",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tier 4 Alloys",
 
   "block.tconstruct.molten_manyullyn_fluid": "Розтоплений маньюлін",
   "fluid.tconstruct.molten_manyullyn": "Розтоплений маньюлін",
@@ -784,7 +784,7 @@
   "fluid.tconstruct.flowing_molten_knightslime": "Зріджений розтоплений лицарський слиз",
   "item.tconstruct.molten_knightslime_bucket": "Відро розтопленого лицарського слизу",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Compat Ores",
 
   "block.tconstruct.molten_tin_fluid": "Розтоплене олово",
   "fluid.tconstruct.molten_tin": "Розтоплене олово",
@@ -859,7 +859,7 @@
   "fluid.tconstruct.molten_cadmium.fluid_effect": "Ідеально для підводних бійок.",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Compat Alloys",
 
   "block.tconstruct.molten_bronze_fluid": "Розтоплена бронза",
   "fluid.tconstruct.molten_bronze": "Розтоплена бронза",
@@ -903,7 +903,7 @@
   "item.tconstruct.molten_steel_bucket": "Відро розтопленої сталі",
   "fluid.tconstruct.molten_steel.fluid_effect": "Розтоплена ​​сталь дозволяє вам розчищати ворогів навколо вас або розкидати скупчення ворогів.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Thermal Alloys",
 
   "block.tconstruct.molten_enderium_fluid": "Розтоплений ендерій",
   "fluid.tconstruct.molten_enderium": "Розтоплений ендерій",
@@ -922,7 +922,7 @@
   "fluid.tconstruct.flowing_molten_signalum": "Зріджений розтоплений сигналум",
   "item.tconstruct.molten_signalum_bucket": "Відро розтопленого сигналуму",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Mekanism Alloys",
 
   "block.tconstruct.molten_refined_glowstone_fluid": "Розтоплений очищений світлокамінь",
   "fluid.tconstruct.molten_refined_glowstone": "Розтоплений очищений світлокамінь",
@@ -936,7 +936,7 @@
   "item.tconstruct.molten_refined_obsidian_bucket": "Відро розтопленого очищеного обсидіану",
   "fluid.tconstruct.molten_refined_obsidian.fluid_effect": "Розтоплений очищений обсидіан максимізує шкоду проти броньованих цілей.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Cosmere Alloys",
 
   "block.tconstruct.molten_nicrosil_fluid": "Розтоплений нікросил",
   "fluid.tconstruct.molten_nicrosil": "Розтоплений нікросил",
@@ -956,7 +956,7 @@
   "item.tconstruct.molten_bendalloy_bucket": "Відро розтопленого гнучкосплаву",
   "fluid.tconstruct.molten_bendalloy.fluid_effect": "Ідеальна закуска посеред битви.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Twilight Forest Alloys",
 
   "block.tconstruct.molten_steeleaf": "Розтоплений сталелист",
   "fluid.tconstruct.molten_steeleaf": "Розтоплений сталелист",
@@ -971,7 +971,7 @@
   "fluid.tconstruct.fiery_liquid.fluid_effect": "Ви можете подумати, що це просто фантастична пропозиція — стільки додаткових злитків! Але пам’ятайте: мерці не розказують казки.",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Fluid effect contents",
   "fluid_effect.tconstruct.separator": "%s та %s",
 
   "fluid_effect.tconstruct.extinguish_fire": "Гасить вогонь",
@@ -1025,7 +1025,7 @@
   "fluid_effect.tconstruct.explosion": "Має %s сили вибуху",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Gadgets",
 
   "block.tconstruct.punji": "Бамбукові кілки",
   "block.tconstruct.punji.tooltip": "Гострющі! Також тримаються на стіні.",
@@ -1077,7 +1077,7 @@
   "block.tconstruct.necronium_head": "Некротичний череп",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Tables",
 
   "block.tconstruct.crafting_station": "Верстат",
 
@@ -1100,7 +1100,7 @@
 
   "item.tconstruct.pattern": "Шаблон",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Tools",
 
   "_comment_on_format_": "These format allows you to have more control over separators in material names. By default we separate with space. You can use %1$s and %2$s if you wish to change the order.",
   "item.tconstruct.tool.format": "%s %s",
@@ -1170,14 +1170,14 @@
   "item.tconstruct.slime_helmet.material.tconstruct.honey": "Медочереп",
   "item.tconstruct.slime_helmet.material.tconstruct.ender_pearl": "Слизочереп ендермена",
 
-  "__comment": "Tier 3 Mod Compat Traits",
-  "item.tconstruct.slime_chestplate": "Слизелітри",
-  "item.tconstruct.slime_chestplate.material.tconstruct.ui_render": "Будь-які слизелітри",
-  "item.tconstruct.slime_chestplate.material.tconstruct.ichor": "Іхорові елітри",
-  "item.tconstruct.slime_chestplate.material.tconstruct.magma": "Магматичні елітри",
-  "item.tconstruct.slime_chestplate.material.tconstruct.clay": "Глинелітри",
-  "item.tconstruct.slime_chestplate.material.tconstruct.honey": "Меделітри",
-  "item.tconstruct.slime_chestplate.material.tconstruct.ender_pearl": "Енделітри",
+  "__comment": "Name is like ribcage, meant to invoke bones",
+  "item.tconstruct.slimy_chestplate": "Слизоклітка",
+  "item.tconstruct.slimy_chestplate.material.tconstruct.ui_render": "Будь-яка слизоклітка",
+  "item.tconstruct.slimy_chestplate.material.tconstruct.ichor": "Іхороклітка",
+  "item.tconstruct.slimy_chestplate.material.tconstruct.magma": "Магмаклітка",
+  "item.tconstruct.slimy_chestplate.material.tconstruct.clay": "Глиноклітка",
+  "item.tconstruct.slimy_chestplate.material.tconstruct.honey": "Медоклітка",
+  "item.tconstruct.slimy_chestplate.material.tconstruct.ender_pearl": "Ендерклітка",
 
   "item.tconstruct.slime_leggings": "Слизопанцир",
   "item.tconstruct.slime_leggings.material.tconstruct.ichor": "Іхоровий панцир",
@@ -1193,10 +1193,19 @@
   "item.tconstruct.slime_boots.material.tconstruct.honey": "Медочоботи",
   "item.tconstruct.slime_boots.material.tconstruct.ender_pearl": "Ендерчоботи",
 
+  "__comment": "We are really just mashing up the material name with elytra here, do whatever works for your language, if needed 'Material Elytra' works",
+  "item.tconstruct.slime_wings": "Слизелітри",
+  "item.tconstruct.slime_wings.material.tconstruct.ui_render": "Будь-які слизелітри",
+  "item.tconstruct.slime_wings.material.tconstruct.ichor": "Іхорові елітри",
+  "item.tconstruct.slime_wings.material.tconstruct.magma": "Магматичні елітри",
+  "item.tconstruct.slime_wings.material.tconstruct.clay": "Глинолітри",
+  "item.tconstruct.slime_wings.material.tconstruct.honey": "Медолітри",
+  "item.tconstruct.slime_wings.material.tconstruct.ender_pearl": "Енделітри",
+
   "item.tconstruct.crystalshot": "Кришталевий постріл",
   "entity.tconstruct.crystalshot": "Кришталевий постріл",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Tool Parts",
 
   "item.tconstruct.dummy_tool_part.tooltip": "Використовується для створення форм, не може бути використана для створення інструментів.",
 
@@ -1221,7 +1230,7 @@
   "item.tconstruct.adze_head": "Лезо тесла",
   "item.tconstruct.large_plate": "Велика пластина",
   
-  "item.tconstruct.bow_limb": "Тятива лука",
+  "item.tconstruct.bow_limb": "Плече лука",
   "item.tconstruct.bow_grip": "Руків'я лука",
   "item.tconstruct.bowstring": "Тятива",
   "item.tconstruct.arrow_head": "Головка стріли",
@@ -1271,7 +1280,7 @@
   "gui.tconstruct.thrown_ammo": "Метальна зброя",
   "gui.tconstruct.thrown_ammo.description": "Шюрікени та метальні сокири — це прості одноразові снаряди, які можна кидати безпосередньо, без використання будь-яких інших інструментів. Шюрікени летять трохи далі, тоді як сокири завдають більшої шкоди.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Smeltery shared",
 
   "block.tconstruct.tank.drained": "Злито %s мВ (%s)",
   "block.tconstruct.tank.filled": "Налито %s мВ (%s)",
@@ -1359,7 +1368,7 @@
   "multiblock.tconstruct.tiny.no_fuel_tank": "Має бути розміщено над паливним резервуаром або топкою, щоб працювати",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Smeltery",
 
   "block.tconstruct.grout": "Цемент",
   "block.tconstruct.grout.tooltip": "Це мент",
@@ -1465,7 +1474,7 @@
   "block.tconstruct.seared_casting_tank": "Зливний резервуар",
   "block.tconstruct.seared_casting_tank.tooltip": "Автоматично спорожняє або наповнює вставлені предмети.\nЗберігає рідину, якщо зламати.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers Foundry",
 
   "block.tconstruct.nether_grout": "Незерський цемент",
   "block.tconstruct.nether_grout.tooltip": "Пекельний мент",
@@ -1565,7 +1574,7 @@
   "gui.tconstruct.fluid.hold_shift": "Утримуйте §e§oShift§r§7 для перегляду у відрах",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tinkers World",
 
   "entity.tconstruct.earth_slime": "Землеслимак",
   "item.tconstruct.earth_slime_spawn_egg": "Яйце виклику землеслимака",
@@ -1664,16 +1673,16 @@
   "block.tconstruct.ender_slime_tall_grass": "Висока слизувата трава",
 
   "block.tconstruct.earth_slime_fern": "Слизувата папороть",
-  "block.tconstruct.sky_slime_fern": "Слизувата папороть",
-  "block.tconstruct.blood_slime_fern": "Слизувате коріння",
-  "block.tconstruct.ichor_slime_fern": "Слизувате коріння",
-  "block.tconstruct.ender_slime_fern": "Слизувата папороть",
+  "block.tconstruct.sky_slime_fern": "Небесна слизувата папороть",
+  "block.tconstruct.blood_slime_fern": "Криваве слизувате коріння",
+  "block.tconstruct.ichor_slime_fern": "Іхорове слизувате коріння",
+  "block.tconstruct.ender_slime_fern": "Ендерова слизувата папороть",
 
   "block.tconstruct.potted_earth_slime_fern": "Слизувата папороть в горщику",
-  "block.tconstruct.potted_sky_slime_fern": "Слизувата папороть в горщику",
-  "block.tconstruct.potted_blood_slime_fern": "Слизувате коріння в горщику",
-  "block.tconstruct.potted_ichor_slime_fern": "Слизувате коріння в горщику",
-  "block.tconstruct.potted_ender_slime_fern": "Слизувата папороть в горщику",
+  "block.tconstruct.potted_sky_slime_fern": "Небесна слизувата папороть в горщику",
+  "block.tconstruct.potted_blood_slime_fern": "Криваве слизувате коріння в горщику",
+  "block.tconstruct.potted_ichor_slime_fern": "Іхорове слизувате коріння в горщику",
+  "block.tconstruct.potted_ender_slime_fern": "Ендерова слизувата папороть в горщику",
 
   "block.tconstruct.earth_slime_sapling": "Зеленосердечний паросток",
   "block.tconstruct.earth_slime_sapling.tooltip": "Росте лише на слизуватих ґрунті або траві",
@@ -1696,7 +1705,7 @@
   "block.tconstruct.sky_slime_vine": "Слизуваті лози",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Wood",
 
   "block.tconstruct.greenheart_planks": "Зеленосердечні дошки",
   "block.tconstruct.greenheart_planks_slab": "Зеленосердечна плита",
@@ -1785,7 +1794,7 @@
   "trim_material.tconstruct.format": "Матеріал: %s",
   "material.tconstruct.ui_render": "Будь-який",
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 1 Materials",
   "material.tconstruct.wood": "Дерево",
   "material.tconstruct.wood.crimson": "Багряні гіфи",
   "material.tconstruct.wood.warped": "Химерні гіфи",
@@ -1878,7 +1887,7 @@
   "material.tconstruct.vine.encyclopedia": "Інструмент має шанс до 75%% проігнорувати пошкодження під повним сонячним світлом",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 2 Materials",
   "material.tconstruct.iron": "Залізо",
   "material.tconstruct.iron.wrought": "Коване залізо",
   "material.tconstruct.iron.oxidized": "Іржаве залізо",
@@ -2054,7 +2063,7 @@
   "material.tconstruct.slimeball.ammo": "Знижує точність стріл на 0,5.",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 3 Materials",
   "material.tconstruct.slimesteel": "Слизосталь",
   "material.tconstruct.slimesteel.flavor": "Потрібно крити слиз, щоб отримати слизокрицю.",
   "material.tconstruct.slimesteel.encyclopedia": "Надає 25 додаткового переслизу, +50% від усього на рівень",
@@ -2091,7 +2100,7 @@
   "material.tconstruct.darkthread.skull_encyclopedia": "Робить носія стійким до отрути, але не видаляє наявну отруту",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier Nether Materials",
   "material.tconstruct.cobalt": "Кобальт",
   "material.tconstruct.cobalt.flavor": "Матеріал червоної армії.",
   "material.tconstruct.cobalt.encyclopedia": "Прискорює добування й атакування на 7% на рівень",
@@ -2186,7 +2195,7 @@
   "material.tconstruct.ancient.armor": "Здобувається з пластинчастих обладунків в бастіонах, бойових табличок, сковорідок та в результаті бартеру. Кожен рівень дає +1 слот здібностей та +10% до сили тяжіння коштом -10% до швидкости пересування або -10% до швидкости атаки щитом.",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier End Materials",
 
   "material.tconstruct.knightmetal": "Лицарський метал",
   "material.tconstruct.knightmetal.flavor": "Метал мандрівних слимаків, який також можна знайти у броньованих істот Сутінків.",
@@ -2222,7 +2231,7 @@
   "material.tconstruct.enderslime.ammo": "Змушує ціль телепортуватися у випадковому напрямку на відстань до 16 блоків, або до 24 блоків на 2-му рівні.",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Slimesuit materials",
 
   "material.tconstruct.clay": "Глина",
   "material.tconstruct.clay.flavor": "Повністю натурально!",
@@ -2232,7 +2241,7 @@
   "material.tconstruct.phantom": "Перетинка фантома",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 2 Integration Materials",
   "material.tconstruct.osmium": "Осмій",
   "material.tconstruct.osmium.flavor": "Надто дурний, щоб зрозуміти більшість жартів",
   "material.tconstruct.osmium.encyclopedia": "Запобігає 33% пошкоджень ціною 25% додаткової вартості ремонту на першому рівні",
@@ -2272,7 +2281,7 @@
   "material.tconstruct.ironwood.armor": "При втраті 1 міцності інструмент втрачає ще 1 очко міцності (незалежно від модифікаторів), щоб розділити міцність із випадковою одягненою частиною обладунку. Ціль отримує 1 дубову шкіру на рівень.",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 3 Integration Materials",
   "material.tconstruct.steel": "Сталь",
   "material.tconstruct.steel.flavor": "По суті 90% матеріалознавства",
   "material.tconstruct.steel.encyclopedia": "Надає +10% міцності та +5% шкоди ближнього бою на рівень",
@@ -2335,7 +2344,7 @@
   "material.tconstruct.steeleaf.armor": "Надає +25% досвіду за кожен рівень від блоків і монстрів",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tier 4 Integration Materials",
 
   "material.tconstruct.fiery": "Вогняний",
   "material.tconstruct.fiery.flavor": "Найгарячіший новий метал, викуваний до досконалості.",
@@ -2350,7 +2359,7 @@
   "material.tconstruct.nicrosil.armor": "Тимчасово збільшує шкоду від атак ближнього бою на 1 після отримання шкоди, при цьому максимальне значення дорівнює сумарному рівню всіх частин обладунку",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Modifiers",
 
   "key.categories.tconstruct": "Tinkers' Construct",
   "key.tconstruct.helmet_interact": "Взаємодія з шоломом",
@@ -2381,7 +2390,7 @@
   "modifier.tconstruct.barebow.description": "Лук не використовуватиме стріли з інвентарю, хоча все одно використовуватиме стріли з сагайдака або кристалічного пострілу.",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Durability",
   "modifier.tconstruct.reinforced": "Укріплення",
   "modifier.tconstruct.reinforced.flavor": "Довговічність!",
   "modifier.tconstruct.reinforced.description": "Інструмент отримує менше пошкоджень",
@@ -2408,7 +2417,7 @@
   "modifier.tconstruct.overslime.flavor": "Слизько!",
   "modifier.tconstruct.overslime.description": "Інструмент використовує переслиз замість міцності, аж поки він не закінчиться! Не дружній до інструментів без слизу",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tool or harvest",
   "modifier.tconstruct.experienced": "Досвідченість",
   "modifier.tconstruct.experienced.flavor": "Швидко вчиться!",
   "modifier.tconstruct.experienced.description": "Отримуйте додатковий досвід від убивств мобів та добування блоків",
@@ -2437,7 +2446,7 @@
   "modifier.tconstruct.lightspeed.description": "Інструмент добуває добре освітлені блоки швидше!",
   "modifier.tconstruct.lightspeed.mining_speed": "Добування у світлі",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Weapon",
   "modifier.tconstruct.knockback": "Відкидання",
   "modifier.tconstruct.knockback.flavor": "Уіііііі!",
   "modifier.tconstruct.knockback.description": "Ударяння речей жбурляє їх на більшу відстань!",
@@ -2463,7 +2472,7 @@
   "modifier.tconstruct.rebuff.description": "Після отримання шкоди поступово відновлює частину втраченого здоров'я",
   "modifier.tconstruct.rebuff.restore": "Відновлювання",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Damage boost",
   "modifier.tconstruct.piercing": "Пронизливість",
   "modifier.tconstruct.piercing.flavor": "Стань кактусом!",
   "modifier.tconstruct.piercing.description": "Інструмент завдає додаткової шкоди, яка проникає крізь броню!",
@@ -2520,7 +2529,7 @@
   "modifier.tconstruct.charge_attack.attack_damage": "Заряджена шкода",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Ranged",
 
   "modifier.tconstruct.power": "Сила",
   "modifier.tconstruct.power.flavor": "Сила всередині стає силою зовні",
@@ -2594,7 +2603,7 @@
   "modifier.tconstruct.ballista.flavor": "Кращий снаряд для довгого лука",
   "modifier.tconstruct.ballista.description": "Дозволяє стріляти з лука в ближньому бою, тримаючи його в іншій руці.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor",
   "modifier.tconstruct.knockback_resistance": "Стійкість до відкидання",
   "modifier.tconstruct.knockback_resistance.flavor": "Важкий предмет",
   "modifier.tconstruct.knockback_resistance.description": "Ковадла важкі, тому вони мають допомагати вам не відкидатися, чи не так?",
@@ -2625,7 +2634,7 @@
   "modifier.tconstruct.banner.description": "Наносить малюнок стяга на щит",
   "modifier.tconstruct.banner.hold_shift": "Затисніть Shift, щоб переглянути шаблони",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor - Protection",
   "modifier.tconstruct.protection": "Захист",
   "modifier.tconstruct.protection.flavor": "Мастак на всі руки!",
   "modifier.tconstruct.protection.description": "Збільшує захист од усіх типів пошкодження",
@@ -2680,7 +2689,7 @@
   "modifier.tconstruct.boundless.flavor": "Збільшення ваших можливостей",
   "modifier.tconstruct.boundless.description": "Збільшує максимальний відсоток захисту від будь-якого джерела",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor - counterattack",
   "modifier.tconstruct.thorns": "Шипи",
   "modifier.tconstruct.thorns.flavor": "Доволі металічно",
   "modifier.tconstruct.thorns.description": "Приборкай силу вартового, що змушує нападників іноді отримувати шкоду",
@@ -2692,7 +2701,7 @@
   "modifier.tconstruct.springy.flavor": "Гоп!",
   "modifier.tconstruct.springy.description": "Нападники можуть відстрибнути від вашої броні",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor - helmet",
   "modifier.tconstruct.respiration": "Дихання",
   "modifier.tconstruct.respiration.flavor": "У воді теж є кисень",
   "modifier.tconstruct.respiration.description": "Збільшує об'єм легенів",
@@ -2714,7 +2723,7 @@
   "modifier.tconstruct.minimap.disabled": "Мінімапа: Вимкнена",
   "modifier.tconstruct.minimap.selected": "Мінімапа: Обрано %s #%s зі слота %s",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor - chestplate",
   "modifier.tconstruct.armor_power": "Сила",
   "modifier.tconstruct.armor_power.flavor": "Чи ти відчуваєш, як сила тече по тобі?",
   "modifier.tconstruct.armor_power.description": "Робить вашу зброю сильнішою",
@@ -2733,7 +2742,7 @@
   "modifier.tconstruct.wings.flavor": "Небо твоє",
   "modifier.tconstruct.wings.description": "Дозволяє вам ширяти по повітрі при стрибку в повітрі",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor - leggings",
   "modifier.tconstruct.speedy": "Швиденькість",
   "modifier.tconstruct.speedy.flavor": "Іди далі й далі й далі...",
   "modifier.tconstruct.speedy.description": "Сягни швидкостей кроликів",
@@ -2775,7 +2784,7 @@
 
   "modifier.tconstruct.inventory_cannot_remove": "Ця зміна видалить предмет у цьому слоті",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor - boots",
   "modifier.tconstruct.feather_falling": "Невагомість",
   "modifier.tconstruct.feather_falling.flavor": "Неважливо",
   "modifier.tconstruct.feather_falling.description": "Пом'якшує падіння, зменшуючи шкоду",
@@ -2811,13 +2820,13 @@
   "modifier.tconstruct.flamewake.flavor": "Ну мені нравиться, як воно горить",
   "modifier.tconstruct.flamewake.description": "Залишай слід із вогню на своєму шляху",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Armor - shields",
   "modifier.tconstruct.reflecting": "Відбивання",
   "modifier.tconstruct.reflecting.flavor": "Пружний щит",
   "modifier.tconstruct.reflecting.description": "Дозволяє відбивати снаряди за короткий проміжок часу після розгортання щита",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Abilities",
   "modifier.tconstruct.unbreakable": "Незламність",
   "modifier.tconstruct.unbreakable.flavor": "Заморожений стан!",
   "modifier.tconstruct.unbreakable.description": "Інструмент більше не отримує пошкоджень від звичайного використання",
@@ -2826,7 +2835,7 @@
   "modifier.tconstruct.dual_wielding.flavor": "Двобій!",
   "modifier.tconstruct.dual_wielding.description": "Можна атакувати з обох рук, якщо основна рука теж має подвійне орудування. Інструменти з цим модифікатором слабкіші",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Loot",
   "modifier.tconstruct.silky": "Шовковість",
   "modifier.tconstruct.silky.flavor": "М'яко, наче шовк!",
   "modifier.tconstruct.silky.description": "З добутих блоків випадають вони ж, а не звичайна здобич",
@@ -2853,7 +2862,7 @@
   "modifier.tconstruct.fortunate.flavor": "Везіння руд!",
   "modifier.tconstruct.fortunate.description": "Якщо одягнути ці чоботи, ви отримуватимете більше цінних предметів під час видобутку корисних копалин або риболовлі. Після перебалансування це також збільшить кількість дропу, що випадає з мобів!",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Expanders",
   "modifier.tconstruct.expanded": "Розширено",
   "modifier.tconstruct.expanded.flavor": "Не пропустили вправи для ніг!",
   "modifier.tconstruct.expanded.description": "Площа дії інструмента збільшена",
@@ -2861,7 +2870,7 @@
   "modifier.tconstruct.reach.flavor": "Телекінез!",
   "modifier.tconstruct.reach.description": "Можна досягати блоків і мобів поодалік з цим інструментом!",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Block transform",
   "modifier.tconstruct.pathing": "Прокладання",
   "modifier.tconstruct.pathing.flavor": "Там, куди ми йдемо, потрібні дороги!",
   "modifier.tconstruct.pathing.description": "Інструмент може робити стежки",
@@ -2908,7 +2917,7 @@
   "modifier.tconstruct.harvest.flavor": "Змах!",
   "modifier.tconstruct.harvest.description": "Інструмент може бути використаний на посівах для збору врожаю та пересаджування",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Interaction",
   "modifier.tconstruct.blocking": "Блокування",
   "modifier.tconstruct.blocking.flavor": "Некубовий тип",
   "modifier.tconstruct.blocking.description": "Взаємодія з інструментом дозволить блокувати вхідну шкоду",
@@ -2975,7 +2984,7 @@
   "modifier.tconstruct.collecting.description": "Дозволяє рибальському гачку підбирати зачеплені предмети, досвід, стріли та метальну зброю.",
   "modifier.tconstruct.collecting.requirements": "Збирання потребує Риболовлі",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Fluids",
   "modifier.tconstruct.melting": "Топлення",
   "modifier.tconstruct.melting.flavor": "Сила плавильника на паличці!",
   "modifier.tconstruct.melting.description": "Плавить атакованих мобів та здобич із них!",
@@ -3018,7 +3027,7 @@
   "modifier.tconstruct.smashing_ammo.flavor": "Трощення",
   "modifier.tconstruct.smashing_ammo.description": "При використанні на боєзапасах змушує їх розбиватися при влучанні у сутність, застосовуючи до неї ефект наповненої рідини.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Bonus modifier slots",
   "modifier.tconstruct.creative_slot": "Творчий слот",
   "modifier.tconstruct.creative_slot.flavor": "Чортів читер!",
   "modifier.tconstruct.creative_slot.description": "Начитерино додаткові слоти для модифікаторів",
@@ -3028,7 +3037,7 @@
   "modifier.tconstruct.stat_override.bonuses": "Бонуси:",
   "modifier.tconstruct.stat_override.multipliers": "Множники:",
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Free Modifiers",
   "modifier.tconstruct.extra_modifier.type_format": "%s (%s)",
   "modifier.tconstruct.writable": "Письменність",
   "modifier.tconstruct.writable.flavor": "Інтелектуально!",
@@ -3067,25 +3076,25 @@
   "modifier.tconstruct.redirected.flavor": "Відправляє стрілу назад",
   "modifier.tconstruct.redirected.description": "Надає снаряду додаткову копію його основної властивості.",
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Three more +1 upgrade modifiers for modpacks",
   "modifier.tconstruct.red_extra_upgrade": "Червоне додаткове покращення",
   "modifier.tconstruct.red_extra_upgrade.flavor": "Для модпаків!",
-  "modifier.tconstruct.red_extra_upgrade.description": "Попроси автора свого модпака, щоб він надав набір ресурсів, який надав би цьому предметові значення",
+  "modifier.tconstruct.red_extra_upgrade.description": "Попроси автора свого модпака, щоб він створив набір ресурсів, який надав би цьому предметові значення",
   "modifier.tconstruct.green_extra_upgrade": "Зелене додаткове покращення",
   "modifier.tconstruct.green_extra_upgrade.flavor": "Для модпаків!",
-  "modifier.tconstruct.green_extra_upgrade.description": "Попроси автора свого модпака, щоб він надав набір ресурсів, який надав би цьому предметові значення",
+  "modifier.tconstruct.green_extra_upgrade.description": "Попроси автора свого модпака, щоб він створив набір ресурсів, який надав би цьому предметові значення",
   "modifier.tconstruct.blue_extra_upgrade": "Синє додаткове покращення",
   "modifier.tconstruct.blue_extra_upgrade.flavor": "Для модпаків!",
-  "modifier.tconstruct.blue_extra_upgrade.description": "Попроси автора свого модпака, щоб він надав набір ресурсів, який надав би цьому предметові значення",
+  "modifier.tconstruct.blue_extra_upgrade.description": "Попроси автора свого модпака, щоб він створив набір ресурсів, який надав би цьому предметові значення",
   "modifier.tconstruct.extra_ability": "Додаткове вміння",
   "modifier.tconstruct.extra_ability.flavor": "Для модпаків!",
-  "modifier.tconstruct.extra_ability.description": "Попроси автора свого модпака, щоб він надав набір ресурсів, який надав би цьому предметові значення",
+  "modifier.tconstruct.extra_ability.description": "Попроси автора свого модпака, щоб він створив набір ресурсів, який надав би цьому предметові значення",
 
   "modifier.tconstruct.smelting": "Витоплення",
   "modifier.tconstruct.smelting.flavor": "Гарний хрусткий бекон",
   "modifier.tconstruct.smelting.description": "Використання інструменту готує предмети всередині! Наповнюйте інструмент, взаємодіючи ним крадькома.",
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 1 Traits",
 
   "modifier.tconstruct.cultivated": "Культивованість",
   "modifier.tconstruct.cultivated.flavor": "Економічно!",
@@ -3142,7 +3151,7 @@
   "modifier.tconstruct.solar_powered.description": "Інструмент опирається пошкодженням під сонцем",
   "modifier.tconstruct.solar_powered.reinforced": "Підсилення сонцем",
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 2 Traits",
   "modifier.tconstruct.sturdy": "Міцність",
   "modifier.tconstruct.sturdy.flavor": "Викувано на совість!",
   "modifier.tconstruct.sturdy.description": "Виготовлено з найміцнішого заліза",
@@ -3222,7 +3231,7 @@
   "modifier.tconstruct.entwined.flavor": "Важко розв'язати",
   "modifier.tconstruct.entwined.description": "Збільшує швидкість руху, але при знятті завдається шкода",
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 3 Traits",
   "modifier.tconstruct.overcast": "Переливність",
   "modifier.tconstruct.overcast.flavor": "Густе покриття!",
   "modifier.tconstruct.overcast.description": "Переслиз може бути густішим на цьому інструменті",
@@ -3258,7 +3267,7 @@
   "death.attack.tconstruct.bleed": "%1$s стік кров'ю",
   "death.attack.tconstruct.bleed.item": "%1$s стік кров'ю від ран, які %2$s спричинили",
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 4 Traits",
   "modifier.tconstruct.overburn": "Перегоріння",
   "modifier.tconstruct.overburn.flavor": "Термічно!",
   "modifier.tconstruct.overburn.description": "Інструмент перетворює рідке паливо на переслиз",
@@ -3340,13 +3349,13 @@
   "modifier.tconstruct.hover.flavor": "Вільно як вітер!",
   "modifier.tconstruct.hover.description": "Після пострілу снаряд на короткий час не підкоряється силі тяжіння.",
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 5 Traits",
   "modifier.tconstruct.enderporting": "Ендерпортація",
   "modifier.tconstruct.enderporting.flavor": "Приборкай силу ендерслизу",
   "modifier.tconstruct.enderporting.description": "Інструмент телепортує користувача до добутих блоків чи вбитих мобів",
 
 
-  "__comment": "Tier 3 Mod Compat Traits",
+  "__comment": "Tier 2 Mod Compat Traits",
   "modifier.tconstruct.dense": "Щільність",
   "modifier.tconstruct.dense.flavor": "Важкотупність",
   "modifier.tconstruct.dense.description": "Інструмент довше слугує, але його важче лагодити",
@@ -3376,7 +3385,7 @@
   "modifier.tconstruct.consecrated": "Освячений",
   "modifier.tconstruct.consecrated.flavor": "Помри, пташине створіння!",
   "modifier.tconstruct.consecrated.description": "Отримуйте менше шкоди від нежиті",
-  "modifier.tconstruct.consecrated.resistance": "Стійеість до нежиті",
+  "modifier.tconstruct.consecrated.resistance": "Стійкість до нежиті",
   "modifier.tconstruct.preserved": "Запобіжник",
   "modifier.tconstruct.preserved.flavor": "Гарне олійне покриття",
   "modifier.tconstruct.preserved.description": "Робить інструмент більш довговічним та легшим у ремонті",
@@ -3429,7 +3438,7 @@
   "modifier.tconstruct.overworked.flavor": "Недоплачено",
   "modifier.tconstruct.overworked.description": "Збільшує кількість відновленого переслизу з усіх джерел",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Slimeskull traits",
   "modifier.tconstruct.self_destructive": "Самознищення",
   "modifier.tconstruct.self_destructive.flavor": "Не дуже корисно для здоров'я",
   "modifier.tconstruct.self_destructive.description": "Крадучись, можна вибухати при взаємодії з шоломом",
@@ -3535,7 +3544,7 @@
   "modifier.tconstruct.zombified_piglin_disguise.flavor": "Чи це свиня? Людина? Зомбі?",
   "modifier.tconstruct.zombified_piglin_disguise.description": "Робить вас більш схожими на зомбованого піґліна для інших зомбованих піґлінів",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Compat Modifiers",
   "modifier.tconstruct.the_one_probe": "Єдиний зонд",
   "modifier.tconstruct.the_one_probe.flavor": "Науково!",
   "modifier.tconstruct.the_one_probe.description": "Показує інформацію про обраний блок, коли в руці або одягнуто як шолом.",
@@ -3544,7 +3553,7 @@
   "modifier.tconstruct.headlight.variant": "Рівень освітлення %s",
   "modifier.tconstruct.headlight.description": "Візуально освітлює світ.",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Internal modifiers",
   "modifier.tconstruct.overslime_friend": "Переслизовий друг",
   "modifier.tconstruct.overslime_friend.flavor": "Друг слизу",
   "modifier.tconstruct.overslime_friend.description": "Вважається слизьким матеріалом, що запобігає погіршенню інструмента переслизом",
@@ -3554,7 +3563,7 @@
   "modifier.tconstruct.reverted.description": "Надає +2 слоти для покращення та -1 слот для здібностей (або +1 слот для покращення на слизелітрах), щоб інструмент відповідав історичній кількості слотів.",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Potion effects",
   "effect.tconstruct.experienced": "Досвідчений",
   "effect.tconstruct.ricochet": "Рикошет",
   "effect.tconstruct.enderference": "Ендерференція",
@@ -3579,13 +3588,13 @@
   "item.minecraft.tipped_arrow.effect.tconstruct.levitation": "Стріла левітації",
   "item.minecraft.tipped_arrow.effect.tconstruct.enderference": "Стріла ендерференції",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Cake effects",
   "effect.tconstruct.bouncy": "Стрибкість",
   "effect.tconstruct.double_jump": "Подвійний стрибок",
   "effect.tconstruct.antigravity": "Антигравітація",
   "effect.tconstruct.returning": "Повернення",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Gameplay effects",
   "effect.tconstruct.bleeding": "Кровотеча",
   "effect.tconstruct.magnetic": "Магнетичність",
   "effect.tconstruct.repulsive": "Перештовх",
@@ -3595,7 +3604,7 @@
   "effect.tconstruct.venom": "Отрута",
   "effect.tconstruct.conductive": "Провідність",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Internal effects",
   "effect.tconstruct.momentum_harvest": "Поштовх",
   "effect.tconstruct.momentum_ranged": "Імпульс",
   "effect.tconstruct.momentum_armor": "Перенаправлення",
@@ -3606,7 +3615,7 @@
   "effect.tconstruct.fireball_cooldown": "Перезарядження вогняної кулі",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Roman numerals",
   "roman_numeral.value.1": "I",
   "roman_numeral.value.2": "II",
   "roman_numeral.value.3": "III",
@@ -3628,7 +3637,7 @@
   "roman_numeral.value.19": "XIX",
   "roman_numeral.value.20": "XX",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Stats",
 
   "tool_stat.tconstruct.attack_speed": "Швидкість атаки: ",
   "tool_stat.tconstruct.attack_speed.description": "Базове значення для обчислень швидкости атаки.\nПриблизно дорівнює повністю зарядженим атакам за секунду.",
@@ -3765,7 +3774,7 @@
   "attribute.name.tconstruct.generic.bad_effect_duration_multiplier": "Тривалости шкідливих зілль",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tooltips",
 
   "key.tconstruct.shift": "Shift",
   "key.tconstruct.ctrl": "Ctrl",
@@ -3784,7 +3793,7 @@
   "tooltip.tconstruct.part.missing_info": "Деталь не має даних",
   "tooltip.tconstruct.part.material_id": "ID матеріала: %s",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "GUIs",
 
   "itemGroup.tconstruct.general": "Tinkers': Загальні предмети",
   "itemGroup.tconstruct.tables": "Tinkers': Робочі станції",
@@ -3895,7 +3904,7 @@
   "recipe.tconstruct.recycling.no_enchantments": "Інструмент не можна переробити, якщо на нього накладено зачарування; спочатку зніміть їх за допомогою точильного каменю.",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "GUIs Messages",
 
   "gui.tconstruct.caption": "Заголовок",
   "gui.tconstruct.error": "ПОМИЛКА",
@@ -3908,7 +3917,7 @@
   "gui.tconstruct.error.not_enough_durability": "Недостатньо міцності, щоб замінити деталі!\nПотрібно на %d більше міцності.",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Subtitles for sounds",
 
   "subtitles.tconstruct.little_saw": "Пилка використовується",
   "subtitles.tconstruct.item_frame_click": "Рамка клацає",
@@ -3942,7 +3951,7 @@
   "subtitles.tconstruct.block.ender_crystal.chime": "Ендеркристал дзвенить",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Book Strings",
 
   "book.tconstruct.material.craftable": "Збирач деталей",
   "book.tconstruct.material.part_builder": "Можна створити у збирачі деталі",
@@ -3973,7 +3982,7 @@
   "book.tconstruct.material.category.heavy.description": "Цей матеріал ідеально підходить для важкої зброї, що також призводить до високої шкоди від снарядів.",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Commands",
 
   "command.tconstruct.slot_type.not_found": "Невідомий тип слоту %s",
   "command.tconstruct.fluid.not_found": "Невідома рідина %s",
@@ -4049,7 +4058,7 @@
   "command.tconstruct.generate.melting_recipes": "%s рецептів топлення успішно створено за %s секунд. Введіть /reload, щоб активувати пакет у %s",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "JEI Strings",
   "jei.tconstruct.time": "%s с",
   "jei.tconstruct.temperature": "%s°C",
   "jei.tconstruct.modifier_ingredient": "Модифікатор: %s",
@@ -4101,7 +4110,7 @@
   "jei.tconstruct.tinker_station.too_large": "Рецепт занадто великий для створення на цій станції.",
 
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Tool Advancements",
   "advancements.tconstruct.tools.materials_and_you.title": "Інженер у навчанні",
   "advancements.tconstruct.tools.materials_and_you.description": "Створіть «Матеріали і ви», вступну книга для Tinkers' Construct",
   "advancements.tconstruct.tools.part_builder.title": "Збирач деталей",
@@ -4131,7 +4140,7 @@
   "advancements.tconstruct.tools.material_master.title": "М - матеріаліст",
   "advancements.tconstruct.tools.material_master.description": "Скористайтеся кожим звичайним матеріалом принаймні один раз",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Smeltery Advancements",
   "advancements.tconstruct.smeltery.puny_smelting.title": "Плавильний новобранець",
   "advancements.tconstruct.smeltery.puny_smelting.description": "Створіть мізерне топлення",
   "advancements.tconstruct.smeltery.melter.title": "Базовий плавильник",
@@ -4153,7 +4162,7 @@
   "advancements.tconstruct.smeltery.abilities.title": "Майстер умінь",
   "advancements.tconstruct.smeltery.abilities.description": "Накладіть кожне основне вміння на інструмент хоча б раз",
 
-  "_comment": "Gadget Advancements",
+  "_comment": "Foundry Advancements",
   "advancements.tconstruct.foundry.fantastic_foundry.title": "Незерське топлення",
   "advancements.tconstruct.foundry.fantastic_foundry.description": "Створіть фантастичну ливарню, довідник із незерського топлення",
   "advancements.tconstruct.foundry.alloyer.title": "Базовий плавильник",
@@ -4191,5 +4200,194 @@
   "advancements.tconstruct.world.piggybackpack.title": "Свинячий свиноранець",
   "advancements.tconstruct.world.piggybackpack.description": "Підійміть свиню свиноранцем",
   "advancements.tconstruct.world.ancient_tools.title": "Археологія",
-  "advancements.tconstruct.world.ancient_tools.description": "Відкрийте всі оригінальні види стародавніх інструментів"
+  "advancements.tconstruct.world.ancient_tools.description": "Відкрийте всі оригінальні види стародавніх інструментів",
+
+  "_cmnt": "Застарілі рядки",
+  "block.tconstruct.blood_slime": "Кров'яний блок",
+  "block.tconstruct.blood_slime.tooltip": "Пружний, але не липкий",
+  "block.tconstruct.blood_congealed_slime": "Зсіла кров",
+  "block.tconstruct.blood_congealed_slime.tooltip": "Дозволяє вам дуже високо стрибати",
+  "block.tconstruct.lavawood": "Лаводерево",
+  "block.tconstruct.lavawood_slab": "Лаводерев'яна плита",
+  "block.tconstruct.lavawood_stairs": "Лаводерев'яні сходи",
+  "item.tconstruct.sign_head_sand_cast": "Піщана форма дошки таблички",
+  "item.tconstruct.round_plate_sand_cast": "Піщана форма для круглої пластини",
+  "item.tconstruct.sign_head_red_sand_cast": "Червоно-піщана форма дошки таблички",
+  "item.tconstruct.round_plate_red_sand_cast": "Червоно-піщана форма круглої пластини",
+  "block.tconstruct.blood_fluid": "Кров",
+  "fluid.tconstruct.blood": "Кров",
+  "fluid.tconstruct.flowing_blood": "Зріджена кров",
+  "item.tconstruct.blood_bucket": "Відро крові",
+  "block.tconstruct.molten_tinkers_bronze_fluid": "Розтоплена інженерова бронза",
+  "fluid.tconstruct.molten_tinkers_bronze": "Розтоплена інженерова бронза",
+  "fluid.tconstruct.flowing_molten_tinkers_bronze": "Текуча розтоплена інженерова бронза",
+  "item.tconstruct.molten_tinkers_bronze_bucket": "Відро розтопленої інженерової бронзи",
+  "item.tconstruct.earth_slime_sling": "Слизова рогатка",
+  "item.tconstruct.earth_slime_sling.tooltip": "Заряди, прицілься вниз, і шпурляй себе!\nВикористовуй слизові чоботи, якщо цінуєш своє життя!",
+  "item.tconstruct.sky_slime_sling": "Небослизова рогатка",
+  "item.tconstruct.sky_slime_sling.tooltip": "Заряди, відпусти, повернись у повітря!\nВикористовуй слизові чоботи, якщо цінуєш своє життя!",
+  "item.tconstruct.ender_slime_sling": "Ендерслизова рогатка",
+  "item.tconstruct.ender_slime_sling.tooltip": "Заряди, напрями на стіну, вийди з іншого боку!",
+  "item.tconstruct.ichor_slime_sling": "Іхорова рогатка",
+  "item.tconstruct.ichor_slime_sling.tooltip": "Заряди, напрями на створіння та жбурни його!",
+  "item.tconstruct.slime_chestplate": "Слизелітри",
+  "item.tconstruct.slime_helmet.material.tconstruct.glass": "Слизочереп кріпера",
+  "item.tconstruct.slime_helmet.material.tconstruct.bone": "Слизочереп скелета",
+  "item.tconstruct.slime_helmet.material.tconstruct.bloodbone": "Слизочереп примари",
+  "item.tconstruct.slime_helmet.material.tconstruct.necrotic_bone": "Слизочереп візер-скелета",
+  "item.tconstruct.slime_helmet.material.tconstruct.string": "Слизочереп павука",
+  "item.tconstruct.slime_helmet.material.tconstruct.darkthread": "Слизочереп печерного павука",
+  "item.tconstruct.slime_helmet.material.tconstruct.rotten_flesh": "Слизочереп зомбі",
+  "item.tconstruct.slime_helmet.material.tconstruct.iron": "Слизочереп висушня",
+  "item.tconstruct.slime_helmet.material.tconstruct.copper": "Слизочереп потопельника",
+  "item.tconstruct.slime_helmet.material.tconstruct.blazing_bone": "Слизочереп пломеня",
+  "item.tconstruct.slime_helmet.material.tconstruct.gold": "Слизочереп піґліна",
+  "item.tconstruct.slime_helmet.material.tconstruct.rose_gold": "Слизочереп брутального піґліна",
+  "item.tconstruct.slime_helmet.material.tconstruct.pig_iron": "Слизочереп зомбованого піґліна",
+  "block.tconstruct.tank.fluid": "Рідина: %s",
+  "block.tconstruct.tank.mb": "%d мВ",
+  "block.tconstruct.tank.ingots": "%d злитків",
+  "block.tconstruct.tank.mixed": "%d злитків, %d мВ",
+  "material.tconstruct.wood.oak": "Дуб",
+  "material.tconstruct.wood.spruce": "Смерека",
+  "material.tconstruct.wood.birch": "Береза",
+  "material.tconstruct.wood.jungle": "Тропічна деревина",
+  "material.tconstruct.wood.acacia": "Акація",
+  "material.tconstruct.wood.dark_oak": "Темний дуб",
+  "material.tconstruct.wood.bamboo": "Бамбук",
+  "material.tconstruct.rock.deepslate": "Глибосланець",
+  "material.tconstruct.rock.format": "%s з каменю",
+  "material.tconstruct.flint.format": "%s з кременю",
+  "material.tconstruct.bone.format": "%s з кістки",
+  "material.tconstruct.necrotic_bone.format": "%s з некротичної кістки",
+  "material.tconstruct.string.format": "%s з нитки",
+  "material.tconstruct.leather.format": "%s зі шкіри",
+  "material.tconstruct.vine.format": "%s зі шкіри",
+  "material.tconstruct.iron.format": "%s із заліза",
+  "material.tconstruct.seared_stone.format": "%s з обпаленого каменю",
+  "material.tconstruct.scorched_stone.format": "%s з випаленого каменю",
+  "material.tconstruct.copper.format": "%s з міді",
+  "material.tconstruct.slimewood.format": "%s зі слизодерева",
+  "material.tconstruct.bloodbone": "Кровокістка",
+  "material.tconstruct.bloodbone.format": "%s з кровокістки",
+  "material.tconstruct.bloodbone.flavor": "Хіба кров не має бути всередині кістки?",
+  "material.tconstruct.bloodbone.encyclopedia": "Збільшує шкоду при низькому здоров'ї: до +4 шкоди на рівень, коли залишається 1 серце",
+  "material.tconstruct.bloodbone.skull_flavor": "Заморожує на кістку",
+  "material.tconstruct.bloodbone.skull_encyclopedia": "Снаряди накладають повільність на ціль. Після пиття молока рукопашні атаки теж накладають повільність і її рівень більший.",
+  "material.tconstruct.rose_gold.format": "%s з рожевого золота",
+  "material.tconstruct.chain": "Ланцюг",
+  "material.tconstruct.chain.format": "%s з ланцюга",
+  "material.tconstruct.chain.flavor": "Ви теж можете стати користувачем ланцюга просто зараз!",
+  "material.tconstruct.chain.encyclopedia": "Інструмент отримує на 25% менше пошкоджень",
+  "material.tconstruct.skyslime_vine.format": "%s зі слизуватої лози",
+  "material.tconstruct.slimesteel.format": "%s зі слизосталі",
+  "material.tconstruct.nahuatl.format": "%s з ацтекського дерева",
+  "material.tconstruct.amethyst_bronze.format": "%s з аметистової бронзи",
+  "material.tconstruct.pig_iron.format": "%s зі свинозаліза",
+  "material.tconstruct.hepatizon.format": "%s з гепатизону",
+  "material.tconstruct.queens_slime.format": "%s з королевиного слизу",
+  "material.tconstruct.blazing_bone.format": "%s з пломенистої кістки",
+  "material.tconstruct.ancient_hide.format": "%s з давньої шкіри",
+  "material.tconstruct.endstone": "Енд",
+  "material.tconstruct.enderslime_vine.format": "%s зі слизуватої лози",
+  "material.tconstruct.glass.format": "%s зі скла",
+  "material.tconstruct.ender_pearl.format": "%s з перлини енду",
+  "material.tconstruct.spider": "Павук",
+  "material.tconstruct.spider.format": "%s з павуччя",
+  "material.tconstruct.venom": "Отрута",
+  "material.tconstruct.venom.format": "%s з отрути",
+  "material.tconstruct.rotten_flesh": "Гнила плоть",
+  "material.tconstruct.rotten_flesh.format": "%s з гнилої плоті",
+  "material.tconstruct.rotten_flesh.skull_flavor": "Усе в порядку",
+  "material.tconstruct.rotten_flesh.skull_encyclopedia": "Рукопашні атаки збільшують час горіння цілі залежно від часу горіння носія",
+  "material.tconstruct.gold.format": "%s із золота",
+  "material.tconstruct.debris": "Залишки",
+  "material.tconstruct.netherite": "Незерит",
+  "material.tconstruct.rabbit": "Кроляча шкурка",
+  "material.tconstruct.nickel": "Нікель",
+  "material.tconstruct.tin": "Олово",
+  "material.tconstruct.zinc": "Цинк",
+  "material.tconstruct.brass": "Латунь",
+  "material.tconstruct.uranium": "Уран",
+  "material.tconstruct.osmium.format": "%s з осмію",
+  "material.tconstruct.tungsten": "Вольфрам",
+  "material.tconstruct.tungsten.format": "%s з вольфраму",
+  "material.tconstruct.tungsten.flavor": "Чи ви подумували про створення гурту важкого металу?",
+  "material.tconstruct.tungsten.encyclopedia": "Надає +10% швидкости добування і -10% швидкости руху на рівень",
+  "material.tconstruct.platinum": "Платина",
+  "material.tconstruct.platinum.format": "%s з платини",
+  "material.tconstruct.platinum.flavor": "Її використовують переможці!",
+  "material.tconstruct.platinum.encyclopedia": "Дає +8 швидкости добування для руд.",
+  "material.tconstruct.lead.format": "%s зі свинцю",
+  "material.tconstruct.silver.format": "%s зі срібла",
+  "material.tconstruct.whitestone.format": "%s з білокаменю",
+  "material.tconstruct.steel.format": "%s зі сталі",
+  "material.tconstruct.bronze.format": "%s з бронзи",
+  "material.tconstruct.constantan.format": "%s з константану",
+  "material.tconstruct.invar.format": "%s з інвару",
+  "material.tconstruct.electrum.format": "%s з електруму",
+  "material.tconstruct.necronium.format": "%s з некронію",
+  "material.tconstruct.plated_slimewood.format": "%s з броньованого слизодерева",
+  "modifier.tconstruct.offhanded.description.2": "Повністю вимикає взаємодію вмінь інструментів",
+  "recipe.tconstruct.modifier.offhanded.level_2": "Безрукість потребує накладену другорукість",
+  "modifier.tconstruct.emerald.attack_damage": "Шкода розбійникам",
+  "recipe.tconstruct.modifier.netherite_requirements": "Незерит потребує накладений смарагд або діамант",
+  "modifier.tconstruct.haste_armor": "Квапливість",
+  "modifier.tconstruct.haste_armor.flavor": "Наука!",
+  "modifier.tconstruct.haste_armor.description": "Магічна червона пилюка змушує всі інструменти швидше добувати!",
+  "modifier.tconstruct.lifesteal": "Крадіжка життя",
+  "modifier.tconstruct.knockback_armor": "Відкидання",
+  "modifier.tconstruct.knockback_armor.flavor": "Волололо!",
+  "modifier.tconstruct.knockback_armor.description": "Ударяння речей будь-якою зброєю шпурляє їх на більшу відстань!",
+  "modifier.tconstruct.unarmed": "Беззбройна атака",
+  "modifier.tconstruct.unarmed.flavor": "Вибір монахів",
+  "modifier.tconstruct.unarmed.description": "Змушує модифікатори нагрудника збільшувати шкоду від беззбройних атак",
+  "recipe.tconstruct.modifier.unarmed": "Потребує, щоб була накладена беззбройна атака",
+  "modifier.tconstruct.pocket_chain": "Кишеньковий ланцюг",
+  "modifier.tconstruct.pocket_chain.flavor": "Єдиний ланцюг, щоб правити ними всіма",
+  "modifier.tconstruct.pocket_chain.description": "Дозволяє отримувати доступ до всіх слотів пояса для інструменту чи щитового паска присіданням й натисканням кнопки взаємодії, а також додає +1 слот",
+  "recipe.tconstruct.modifier.pocket_chain": "Кишеньковий ланцюг потребує пояс для інструменту чи щитовий пасок",
+  "modifier.tconstruct.lightspeed_armor": "Швидкість світла",
+  "modifier.tconstruct.lightspeed_armor.flavor": "Світліше значить швидше!",
+  "modifier.tconstruct.lightspeed_armor.description": "Швидше рухаєтеся в добре освітлених місцях",
+  "modifier.tconstruct.double_jump.double": "Подвійний стрибок",
+  "modifier.tconstruct.double_jump.triple": "Потрійний стрибок",
+  "modifier.tconstruct.path_maker": "Стежоклад",
+  "modifier.tconstruct.path_maker.flavor": "Показуй шлях",
+  "modifier.tconstruct.path_maker.description": "Залишає стежки там, де ви ступаєте",
+  "modifier.tconstruct.plowing": "Орання",
+  "modifier.tconstruct.plowing.flavor": "Трактори були винайдені в 1892",
+  "modifier.tconstruct.plowing.description": "Оре блоки на вашому шляху",
+  "recipe.tconstruct.modifier.unbreakable_requirements": "Незламність потребує накладені незерит і укріплення V",
+  "recipe.tconstruct.modifier.two_handed_dual_wielding": "Дворучні інструменти потребують іншорукість, щоб отримати подвійне орудування.",
+  "modifier.tconstruct.luck.1": "Удачливо",
+  "recipe.tconstruct.modifier.luck.level_2": "Удачливіше вимагає попереднього застосування для першого рівня",
+  "recipe.tconstruct.modifier.luck.level_3": "Найщасливіше вимагає попереднього застосування для перших двох рівнів",
+  "recipe.tconstruct.modifier.looting.level_2": "Продуктивність II потребує инакший рецепт для першого рівня",
+  "recipe.tconstruct.modifier.looting.level_3": "Продуктивність III потребує инакший рецепт для перших двох рівнів",
+  "modifier.tconstruct.tank.filled": "Резервуар: %s мВ (%s)",
+  "modifier.tconstruct.tank.capacity": "Об'єм резервуара: %s мВ",
+  "modifier.tconstruct.fake_attribute.mining_speed": "Швидкість добування",
+  "modifier.tconstruct.fractured": "Переламаність",
+  "modifier.tconstruct.fractured.flavor": "Чорт ногу зламає!",
+  "modifier.tconstruct.fractured.description": "Інструмент гостріший через ламані шматочки кісток",
+  "modifier.tconstruct.searing.attack_damage": "Обпалююча швидкість",
+  "modifier.tconstruct.momentum.mining_speed": "Швидкість від імпульсу",
+  "modifier.tconstruct.conducting.attack_damage": "Максимум шкоди у вогні",
+  "modifier.tconstruct.sharpweight": "Гостроважкість",
+  "modifier.tconstruct.sharpweight.flavor": "Протилежно туполегкості",
+  "modifier.tconstruct.sharpweight.description": "Добуває швидше, але важко переміщується",
+  "modifier.tconstruct.lustrous.mining_speed": "Добування руд",
+  "modifier.tconstruct.frosttouch": "Морозодотик",
+  "modifier.tconstruct.frosttouch.flavor": "Льодяний дотик стримує ворогів",
+  "modifier.tconstruct.frosttouch.description": "Змушує стріли накладати повільність, пиття молока також сповільнює атакованих урукопаш",
+  "effect.tconstruct.momentum": "Поштовх",
+  "effect.tconstruct.insatiable": "Ненаситність",
+  "stat.tconstruct.extra": "Додатково",
+  "stat.tconstruct.harvest_tier.wood": "Дерево",
+  "stat.tconstruct.harvest_tier.gold": "Золото",
+  "stat.tconstruct.harvest_tier.stone": "Камінь",
+  "stat.tconstruct.harvest_tier.iron": "Залізо",
+  "stat.tconstruct.harvest_tier.diamond": "Діамант",
+  "stat.tconstruct.harvest_tier.netherite": "Незерит"
 }
