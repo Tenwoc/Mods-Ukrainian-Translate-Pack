@@ -25,7 +25,7 @@
   "drippyloadingscreen.early_loading.context.watermark.offset": "Встановити зсув позиції водяного знака",
   "drippyloadingscreen.early_loading.context.watermark.set_image": "Встановити зображення водяного знака",
   "drippyloadingscreen.early_loading.context.watermark.size": "Встановити розмір водяного знака",
-  "drippyloadingscreen.edit_loading_screen.desc": "Налаштувати екран завантаження\n\nЦя кнопка прив'язана до рядка меню FancyMenu.\nВи можете приховати її, сховавши рядок меню.",
+  "drippyloadingscreen.edit_loading_screen.desc": "Налаштувати екран завантаження\n\nЦя кнопка прив’язана до рядка меню FancyMenu.\nВи можете приховати її, сховавши рядок меню.",
   "drippyloadingscreen.elements.vanilla_bar": "Класична смужка завантаження гри [Drippy]",
   "drippyloadingscreen.elements.vanilla_bar.color": "Колір [HEX]",
   "drippyloadingscreen.elements.vanilla_bar.desc": "Це ванільний індикатор прогресу завантаження гри.\nВін показуватиме реальний прогрес лише у випадку використання у макеті Drippy.",

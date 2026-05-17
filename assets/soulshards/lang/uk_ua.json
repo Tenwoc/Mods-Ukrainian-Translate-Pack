@@ -2,7 +2,7 @@
   "itemGroup.soulshards": "Soul Shards Respawn",
 
   "item.soulshards.soul_shard": "Уламок душі",
-  "item.soulshards.soul_shard_unbound": "Непов'язаний уламок душі",
+  "item.soulshards.soul_shard_unbound": "Непов’язаний уламок душі",
   "item.soulshards.corrupted_ingot": "Викривлений злиток",
   "item.soulshards.corrupted_essence": "Викривлена есенція",
   "item.soulshards.vile_dust": "Мерзенний пил",
@@ -10,7 +10,7 @@
 
   "block.soulshards.soul_cage": "Клітка душі",
 
-  "tooltip.soulshards.bound": "Прив'язано до: %s",
+  "tooltip.soulshards.bound": "Прив’язано до: %s",
   "tooltip.soulshards.kills": "Душ: %d",
   "tooltip.soulshards.tier": "Рівень: %d",
   "tooltip.soulshards.owner": "Власник: %s",
@@ -24,7 +24,7 @@
 
   "commands.soulshards.usage": "/soulshards [setEnt|setKills|setOwner|killall]",
   "commands.soulshards.set_ent.usage": "/soulshards setEnt <entityId>",
-  "commands.soulshards.set_ent.success": "Встановити зв'язану сутність утримуваного уламка на %s.",
+  "commands.soulshards.set_ent.success": "Встановити зв’язану сутність утримуваного уламка на %s.",
   "commands.soulshards.set_kills.usage": "/soulshards setKills <killCount>",
   "commands.soulshards.set_kills.success": "Встановити кількість вбивств утримуваного уламка на %d.",
   "commands.soulshards.set_owner.usage": "/soulshards setOwner [власник]",

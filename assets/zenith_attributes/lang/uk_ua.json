@@ -44,7 +44,7 @@
 
   "porting_lib.entity_reach.desc": "Як далеко ви можете взаємодіяти з сутностями, в блоках.",
   "porting_lib.entity_gravity.desc": "Прискорення вільного падіння, в блоках/с².",
-  "porting_lib.name_tag_distance.desc": "На якій відстані повинен знаходитися інший гравець, щоб побачити ваше ім'я.",
+  "porting_lib.name_tag_distance.desc": "На якій відстані повинен знаходитися інший гравець, щоб побачити ваше ім’я.",
   "porting_lib.block_reach.desc": "Як далеко ви можете взаємодіяти з блоками, в блоках.",
   "porting_lib.step_height_addition.desc": "На скільки високо ви можете піднятися без стрибків, в блоках.",
   "porting_lib.swim_speed.desc": "Як швидко ви плаваєте, відносно звичайної швидкости.",
@@ -67,13 +67,13 @@
   "zenith_attributes:life_steal": "викрадання життя",
   "zenith_attributes:life_steal.desc": "Відсоток шкоди, що зцілить вас після заподіювання шкоди.",
 
-  "zenith_attributes:current_hp_damage": "поточна шкода по здоров'ю",
-  "zenith_attributes:current_hp_damage.desc": "Додаткова фізична шкода, що завдається від атак ближнього бою і залежить від рівня здоров'я цілі.",
+  "zenith_attributes:current_hp_damage": "поточна шкода по здоров’ю",
+  "zenith_attributes:current_hp_damage.desc": "Додаткова фізична шкода, що завдається від атак ближнього бою і залежить від рівня здоров’я цілі.",
 
   "zenith_attributes:overheal": "надзцілення",
   "zenith_attributes:overheal.desc": "Відсоток шкоди, що наноситься після зцілення, який дає вам щит поглинання.",
 
-  "zenith_attributes:ghost_health": "примарного здоров'я",
+  "zenith_attributes:ghost_health": "примарного здоров’я",
   "zenith_attributes:ghost_health.desc": "Ще не реалізовано",
 
   "zenith_attributes:mining_speed": "швидкости добування",
@@ -134,7 +134,7 @@
   "effect.zenith_attributes.bleeding.desc": "Завдає шкоди кожні дві секунди.",
   "effect.zenith_attributes.bleeding.description": "Завдає шкоди кожні дві секунди.",
 
-  "effect.zenith_attributes.detonation": "Полум'яна детонація",
+  "effect.zenith_attributes.detonation": "Полум’яна детонація",
   "effect.zenith_attributes.detonation.desc": "По закінченню дії завдає шкоди, заснованої на залишку тактів вогню.",
   "effect.zenith_attributes.detonation.description": "По закінченню дії завдає шкоди, заснованої на залишку тактів вогню.",
 
@@ -147,20 +147,20 @@
   "effect.minecraft.jump_boost.desc": "Збільшує висоту стрибка.",
   "effect.minecraft.fire_resistance.desc": "Робить вас несприйнятливим до вогню.",
   "effect.minecraft.water_breathing.desc": "Дозволяє дихати під водою.",
-  "effect.minecraft.instant_health.desc": "Миттєво відновлює трохи здоров'я.",
+  "effect.minecraft.instant_health.desc": "Миттєво відновлює трохи здоров’я.",
   "effect.minecraft.instant_damage.desc": "Миттєво завдає трохи магічної шкоди.",
   "effect.minecraft.poison.desc": "Періодично завдає нелетальної шкоди.",
-  "effect.minecraft.regeneration.desc": "Відновлює здоров'я з часом.",
+  "effect.minecraft.regeneration.desc": "Відновлює здоров’я з часом.",
 
   "comment_id": "Джерела шкоди",
 
-  "death.attack.zenith_attributes:bleeding": "%1$s стік кров'ю",
-  "death.attack.zenith_attributes:bleeding.item": "%1$s стік кров'ю через удари %2$s та %3$s",
+  "death.attack.zenith_attributes:bleeding": "%1$s стік кров’ю",
+  "death.attack.zenith_attributes:bleeding.item": "%1$s стік кров’ю через удари %2$s та %3$s",
   "death.attack.zenith_attributes:bleeding.player": "%1$s втратив життя під час спроби втечі від %2$s",
 
-  "death.attack.zenith_attributes:detonation": "%1$s загинув від полум'я.",
-  "death.attack.zenith_attributes:detonation.item": "%1$s загинув від полум'я.",
-  "death.attack.zenith_attributes:detonation.player": "%1$s загинув від полум'я.",
+  "death.attack.zenith_attributes:detonation": "%1$s загинув від полум’я.",
+  "death.attack.zenith_attributes:detonation.item": "%1$s загинув від полум’я.",
+  "death.attack.zenith_attributes:detonation.player": "%1$s загинув від полум’я.",
 
   "death.attack.zenith_attributes:current_hp_damage": "%1$s був збитий.",
   "death.attack.zenith_attributes:current_hp_damage.item": "%1$s був збитий %2$s за допомогою %3$s",

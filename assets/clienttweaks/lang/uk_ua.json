@@ -17,7 +17,7 @@
     "config.clienttweaks.tweaks.doNotUseLastTorch": "Не використовувати останній ліхтар",
     "config.clienttweaks.tweaks.doNotUseLastTorch.tooltip": "Ця опція запобігає використанню останнього ліхтаря у списку.",
     "config.clienttweaks.tweaks.hideOffhandItem": "Приховувати елемент в запасі",
-    "config.clienttweaks.tweaks.hideOffhandItem.tooltip": "Ця опція приховує ваші підручні елементи. Її можна увімкнути за допомогою додаткового прив'язування клавіш.",
+    "config.clienttweaks.tweaks.hideOffhandItem.tooltip": "Ця опція приховує ваші підручні елементи. Її можна увімкнути за допомогою додаткового прив’язування клавіш.",
     "config.clienttweaks.tweaks.hideOwnParticleEffects": "Приховати власні ефекти частинок",
     "config.clienttweaks.tweaks.hideOwnParticleEffects.tooltip": "Ця опція приховує ваші власні ефекти частинок зілля для вашого клієнта (інші гравці все ще бачитимуть їх).",
     "config.clienttweaks.tweaks.hideShieldUnlessHoldingWeapon": "Приховувати щит, якщо не тримаєш зброю",

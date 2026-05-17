@@ -158,10 +158,10 @@
   "item.knightquest.zombie_leggings": "Наголінники зомбі",
   "item.knightquest.zombie_boots": "Чоботи зомбі",
   "item.knightquest.tengu_helmet": "Маска Тенгу",
-  "item.knightquest.zombie_helmet2": "Шолом зомбі з пір'ям",
+  "item.knightquest.zombie_helmet2": "Шолом зомбі з пір’ям",
   "item.knightquest.conquistador2_helmet": "Шолом корсара",
   "item.knightquest.conquistador3_helmet": "Шолом фехтувальника",
-  "item.knightquest.pirate2_helmet": "Пов'язка на око",
+  "item.knightquest.pirate2_helmet": "Пов’язка на око",
   "item.knightquest.pirate3_helmet": "Шолом флібустьєра",
   "item.knightquest.husk_helmet2": "Шолом повелителя хасков",
   "item.knightquest.husk_helmet3": "Шолом воїна хасков",
@@ -237,7 +237,7 @@
   "tooltip.item.knightquest.bamboo_green_helmet.bonus": "§7§o-Надає захист від отрути",
   "tooltip.item.knightquest.dragon_helmet.bonus": "§7§o-Додаткова шкода і не схильна до дихання дракона",
   "tooltip.item.knightquest.squire_helmet.bonus": "§7§o-Надає загальне зниження шкоди",
-  "tooltip.item.knightquest.hollow_helmet.bonus": "§7§o-Висмоктує здоров'я атакованих ворогів",
+  "tooltip.item.knightquest.hollow_helmet.bonus": "§7§o-Висмоктує здоров’я атакованих ворогів",
   "tooltip.item.knightquest.spider_helmet.bonus": "§7§o-Надає прискорення стрибка під час присідання",
   "tooltip.item.knightquest.phantom_helmet.bonus": "§7§o-Надає швидкість вночі",
   "tooltip.item.knightquest.wither_helmet.bonus": "§7§o-Надає шанс накласти ефект висушування при використанні стріл",
@@ -247,7 +247,7 @@
   "tooltip.item.knightquest.nether_helmet.bonus": "§7§o-Надає вогнестійкість",
   "tooltip.item.knightquest.husk_helmet.bonus": "§7§o-Надає захист у пустельних біомах",
   "tooltip.item.knightquest.conquistador_helmet.bonus": "§7§o-Надає силу при вбивстві монстра",
-  "tooltip.item.knightquest.veteran_helmet.bonus": "§7§o-Надає силу та стійкість при здоров'ї нижче 50%",
+  "tooltip.item.knightquest.veteran_helmet.bonus": "§7§o-Надає силу та стійкість при здоров’ї нижче 50%",
   "tooltip.item.knightquest.warlord_helmet.bonus": "§7§o-Надає стійкість від найближчих гравців",
   "tooltip.item.knightquest.forze_helmet.bonus": "§7§o-Надає шанс відбивати вхідні атаки",
   "tooltip.item.knightquest.creeper_helmet.bonus": "§7§o-Зменшує шкоду від вибухів",
@@ -255,7 +255,7 @@
   "tooltip.item.knightquest.bamboo_blue_helmet.bonus": "§7§o-Надає швидкість у джунглях та бамбукових біомах.",
   "tooltip.item.knightquest.silver_helmet.bonus": "§7§o-Надає шанс підпалити ворогів уночі",
   "tooltip.item.knightquest.evoker_helmet.bonus": "§7§o-Надає шанс накласти темряву під час удару",
-  "tooltip.item.knightquest.zombie_helmet.bonus": "§7§o-Відновлює здоров'я вночі",
+  "tooltip.item.knightquest.zombie_helmet.bonus": "§7§o-Відновлює здоров’я вночі",
   "tooltip.item.knightquest.silverfish_helmet.bonus": "§7§o-Надає швидкість нижче рівня Y 50",
   "tooltip.item.knightquest.witch_helmet.bonus": "§7§o-Надає регенерацію при вбивстві монстра",
   "tooltip.item.knightquest.skulk_helmet.bonus": "§7§o-Надає стійкість при рівні освітленості нижче 4",
@@ -277,7 +277,7 @@
   "entity.knightquest.fallen_knight": "Занепалий лицар",
 
   "tooltip.weapon.knightquest.paladin": "§8§oВипромінює справедливість і відвагу забутого паладина.",
-  "tooltip.weapon.knightquest.cleaver": "§8§oБ'є з люттю тисячі воїнів.",
+  "tooltip.weapon.knightquest.cleaver": "§8§oБ’є з люттю тисячі воїнів.",
   "tooltip.weapon.knightquest.nail": "§8§oТонкий і гострий, для тих, хто любить робити дірки...",
   "tooltip.weapon.knightquest.khopesh": "§8§oВикуваний у вогні, вирізає долю завойовників.",
   "tooltip.weapon.knightquest.kukri": "§8§oТихий як тінь, безжальний як зима.",
@@ -290,7 +290,7 @@
   "tooltip.weapon.knightquest.paladin.passive": "§e⚡ Пасивна здатність:§f Відновлює %4$dHP кожні %5$d с до досягнення %6$d%% HP",
 
   "tooltip.weapon.knightquest.cleaver.active": "§6⚔ Активна здатність:§f Входить у стан люті, збільшуючи стійкість і шкоду на %5$d с",
-  "tooltip.weapon.knightquest.cleaver.passive": "§e⚡ Пасивна здатність:§f Збільшує шкоду на %7$d%% проти ворогів з більш ніж %8$d%% здоров'я",
+  "tooltip.weapon.knightquest.cleaver.passive": "§e⚡ Пасивна здатність:§f Збільшує шкоду на %7$d%% проти ворогів з більш ніж %8$d%% здоров’я",
 
   "tooltip.weapon.knightquest.nail.active": "§6⚔ Активна здатність:§f Виконує швидкий ривок вперед",
   "tooltip.weapon.knightquest.nail.passive": "§e⚡ Пасивна здатність:§f Дозволяє виконати подвійний стрибок у повітрі",
@@ -302,5 +302,5 @@
   "tooltip.weapon.knightquest.kukri.passive": "§e⚡ Пасивна здатність:§f Серія швидких ударів заморожує ціль",
 
   "tooltip.weapon.knightquest.uchigatana.active": "§6⚔ Активна здатність:§f Наступна атака накладе темряву і завдасть %3$d%% додаткової шкоди",
-  "tooltip.weapon.knightquest.uchigatana.passive": "§e⚡ Пасивна здатність:§f Завдає на %1$d%% більше шкоди, якщо здоров'я противника нижче %2$d%%"
+  "tooltip.weapon.knightquest.uchigatana.passive": "§e⚡ Пасивна здатність:§f Завдає на %1$d%% більше шкоди, якщо здоров’я противника нижче %2$d%%"
 }

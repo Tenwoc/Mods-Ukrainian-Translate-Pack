@@ -55,7 +55,7 @@
     "message.rftoolsbase.manual.header": "Цей посібник є інструкцією для всіх технологічних режимів на основі RFTools",
 
     "message.rftoolsbase.tablet.header": "Планшет, який можна використовувати для пошуку віддалених інструкцій та інформації",
-    "message.rftoolsbase.tablet.gold": "Порожня табличка: відкрийте довідник, щоб об'єднати його з можливим предметом інформації про табличку",
+    "message.rftoolsbase.tablet.gold": "Порожня табличка: відкрийте довідник, щоб об’єднати його з можливим предметом інформації про табличку",
 
     "message.rftoolsbase.tablet_filled.header": "Планшет, який можна використовувати для посилання на віддалені підказки та інформацію",
     "message.rftoolsbase.tablet_filled.gold": "Планшет з інформацією: клацніть ПКМ для виклику інформаційної довідки, клацніть ПКМ для виклику довідки планшета",
@@ -66,7 +66,7 @@
     "message.rftoolsbase.smartwrench.info2": "Блокування: ",
 
     "message.rftoolsbase.smartwrench_select.header": "Загальний розумний ключ. Клацніть ПКМ по повітрю, щоб змінити режим",
-    "message.rftoolsbase.smartwrench_select.gold": "Використовувати як селектор блоків: клацніть ПКМ, щоб вибрати основний блок, і клацніть ПКМ, щоб зв'язати блоки з основним",
+    "message.rftoolsbase.smartwrench_select.gold": "Використовувати як селектор блоків: клацніть ПКМ, щоб вибрати основний блок, і клацніть ПКМ, щоб зв’язати блоки з основним",
     "message.rftoolsbase.smartwrench_select.info1": "Режим: ",
     "message.rftoolsbase.smartwrench_select.info2": "Блок: ",
 

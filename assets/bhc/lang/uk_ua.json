@@ -32,7 +32,7 @@
   "tooltip.bhc.heart_amulet": "ПКМ, щоб відкрити!",
   "tooltip.bhc.vigor_bow": "Shift+ЛКМ, щоб відкрити!",
   "tooltip.bhc.blade_of_vitality": "Shift+ПКМ, щоб відкрити!",
-  "tooltip.bhc.patch_amount": "Кількість здоров'я: %s",
+  "tooltip.bhc.patch_amount": "Кількість здоров’я: %s",
   "tooltip.bhc.patch_durability": "Доступно використань: %s",
   "tooltip.bhc.heart_amount": "Кількість каністр: %s",
   "tooltip.bhc.bonus": "+%s додаткової шкоди",

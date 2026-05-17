@@ -124,7 +124,7 @@
   "effect.simplyskills.revealed.desc":                  "Ви не можете увійти в стан Непомітності.",
   "effect.simplyskills.revealed.description":                  "Ви не можете увійти в стан Непомітності.",
 
-  "effect.simplyskills.barrier":                        "Бар'єр",
+  "effect.simplyskills.barrier":                        "Бар’єр",
   "effect.simplyskills.barrier.desc":                   "Повністю відкидає наступне отримання шкоди.",
   "effect.simplyskills.barrier.description":                   "Повністю відкидає наступне отримання шкоди.",
 
@@ -150,8 +150,8 @@
   "effect.simplyskills.taunted.description":                   "Вороги здатні атакувати лише того, хто насміхається.",
 
   "effect.simplyskills.undying":                        "Невмирущий",
-  "effect.simplyskills.undying.desc":                   "Ваш рівень здоров'я не може опуститися нижче 1 HP. Якщо після закінчення ефекту у вас залишиться менше 65% HP, ви отримаєте смертельну шкоду.",
-  "effect.simplyskills.undying.description":                   "Ваш рівень здоров'я не може опуститися нижче 1 HP. Якщо після закінчення ефекту у вас залишиться менше 65% HP, ви отримаєте смертельну шкоду.",
+  "effect.simplyskills.undying.desc":                   "Ваш рівень здоров’я не може опуститися нижче 1 HP. Якщо після закінчення ефекту у вас залишиться менше 65% HP, ви отримаєте смертельну шкоду.",
+  "effect.simplyskills.undying.description":                   "Ваш рівень здоров’я не може опуститися нижче 1 HP. Якщо після закінчення ефекту у вас залишиться менше 65% HP, ви отримаєте смертельну шкоду.",
 
   "effect.simplyskills.rage":                           "Лють",
   "effect.simplyskills.rage.desc":                      "Збільшує на 0,5% шкоду від атаки, швидкість атаки та отриману шкоду за кожне накопичення.",
@@ -169,7 +169,7 @@
   "effect.simplyskills.anointed.desc":                  "Атаки ближнього бою зцілюють найближчих союзників і завдають шкоди по площі, яка масштабується відповідно до сили вашого закляття зцілення.",
   "effect.simplyskills.anointed.description":                  "Атаки ближнього бою зцілюють найближчих союзників і завдають шкоди по площі, яка масштабується відповідно до сили вашого закляття зцілення.",
 
-  "effect.simplyskills.vitality_bond":                  "Зв'язок життєвої сили",
+  "effect.simplyskills.vitality_bond":                  "Зв’язок життєвої сили",
   "effect.simplyskills.vitality_bond.desc":             "HP синхронізується з іншою ураженою сутністю.",
   "effect.simplyskills.vitality_bond.description":             "HP синхронізується з іншою ураженою сутністю.",
 
@@ -226,8 +226,8 @@
   "effect.simplyskills.righteous_shield.description":          "Викликає Праведний щит.",
 
   "effect.simplyskills.shadow_aura":                    "Тіньова аура",
-  "effect.simplyskills.shadow_aura.desc":               "Вражає ворогів, що знаходяться поблизу, але виснажує здоров'я користувача.",
-  "effect.simplyskills.shadow_aura.description":               "Вражає ворогів, що знаходяться поблизу, але виснажує здоров'я користувача.",
+  "effect.simplyskills.shadow_aura.desc":               "Вражає ворогів, що знаходяться поблизу, але виснажує здоров’я користувача.",
+  "effect.simplyskills.shadow_aura.description":               "Вражає ворогів, що знаходяться поблизу, але виснажує здоров’я користувача.",
 
   "effect.simplyskills.focus":                          "Зосередженість",
   "effect.simplyskills.focus.desc":                     "Ваша наступна атака з лука заряджається повільніше і завдає більшої шкоди.",
@@ -250,8 +250,8 @@
   "effect.simplyskills.melody_of_protection.description":      "Отримайте Силу та ігноруйте 10% шкоди.",
 
   "effect.simplyskills.melody_of_safety":               "Мелодія безпеки",
-  "effect.simplyskills.melody_of_safety.desc":          "Відновлюйте 10% від максимального здоров'я на секунду.",
-  "effect.simplyskills.melody_of_safety.description":          "Відновлюйте 10% від максимального здоров'я на секунду.",
+  "effect.simplyskills.melody_of_safety.desc":          "Відновлюйте 10% від максимального здоров’я на секунду.",
+  "effect.simplyskills.melody_of_safety.description":          "Відновлюйте 10% від максимального здоров’я на секунду.",
 
   "effect.simplyskills.melody_of_concentration":        "Мелодія концентрації",
   "effect.simplyskills.melody_of_concentration.desc":   "Отримайте збільшену швидкість атаки та пересування.",
@@ -353,10 +353,10 @@
   "text.autoconfig.simplyskills.option.client.enableDDR.@Tooltip":                                           "Динамічна стійкість до шкоди (DDR) використовується для зменшення повзучості гравця в умовах, коли багато модів можуть взаємодіяти таким чином, що призводить до смішних цифр пошкоджень.\n\nDDR працює шляхом зменшення пошкоджень, які отримує істота, коли DPS відносно її maxHP\nперевищує певний поріг.",
   "text.autoconfig.simplyskills.option.client.enableDDRDebugLog":                                            "Увімкнути журнал налагодження DDR",
   "text.autoconfig.simplyskills.option.client.enableDDRDebugLog.@Tooltip":                                   "Дозволяє виводити аналітику DDR до журналу.",
-  "text.autoconfig.simplyskills.option.client.DDRHealthRequirement":                                         "Вимога до здоров'я для DDR",
-  "text.autoconfig.simplyskills.option.client.DDRHealthRequirement.@Tooltip":                                "Максимальний рівень здоров'я, який повинен мати суб'єкт, щоб отримати вигоду від DDR.",
-  "text.autoconfig.simplyskills.option.client.DDRHealthThreshold":                                           "Поріг здоров'я DDR",
-  "text.autoconfig.simplyskills.option.client.DDRHealthThreshold.@Tooltip":                                  "Відсоток від максимального рівня здоров'я, який організація повинна зазнати ушкоджень, щоб отримати вигоду від DDR.",
+  "text.autoconfig.simplyskills.option.client.DDRHealthRequirement":                                         "Вимога до здоров’я для DDR",
+  "text.autoconfig.simplyskills.option.client.DDRHealthRequirement.@Tooltip":                                "Максимальний рівень здоров’я, який повинен мати суб’єкт, щоб отримати вигоду від DDR.",
+  "text.autoconfig.simplyskills.option.client.DDRHealthThreshold":                                           "Поріг здоров’я DDR",
+  "text.autoconfig.simplyskills.option.client.DDRHealthThreshold.@Tooltip":                                  "Відсоток від максимального рівня здоров’я, який організація повинна зазнати ушкоджень, щоб отримати вигоду від DDR.",
   "text.autoconfig.simplyskills.option.client.DDRAmount":                                                    "Сума РДР",
   "text.autoconfig.simplyskills.option.client.DDRAmount.@Tooltip":                                           "Базова сума зменшення шкоди, яку надає DDR (чим більше, тим більше зменшення).",
   "text.autoconfig.simplyskills.option.client.DDRAttackSpeedWeight":                                         "DDR AttackSpeed Weight",
@@ -364,21 +364,21 @@
   "text.autoconfig.simplyskills.option.client.DDRAffectsPlayers":                                            "DDR також впливає на гравців",
   "text.autoconfig.simplyskills.option.client.DDRAffectsPlayers.@Tooltip":                                   "Дозволяє DDR впливати на гравців. Корисно, коли це потрібно в PvP.",
   "text.autoconfig.simplyskills.option.client.enableDAS":                                                    "Увімкнути динамічне масштабування атрибутів (DAS)",
-  "text.autoconfig.simplyskills.option.client.enableDAS.@Tooltip":                                           "Динамічне масштабування атрибутів призводить до того, що об'єкти отримують збільшені атрибути залежно від кількості гравців поблизу та їхніх сукупних вкладених очок навичок.\nDAS може використовуватися самостійно або разом з динамічним опором пошкодженням.\n\nЗНАЧЕННЯ ДУЖЕ ЧУТЛИВІ!",
+  "text.autoconfig.simplyskills.option.client.enableDAS.@Tooltip":                                           "Динамічне масштабування атрибутів призводить до того, що об’єкти отримують збільшені атрибути залежно від кількості гравців поблизу та їхніх сукупних вкладених очок навичок.\nDAS може використовуватися самостійно або разом з динамічним опором пошкодженням.\n\nЗНАЧЕННЯ ДУЖЕ ЧУТЛИВІ!",
   "text.autoconfig.simplyskills.option.client.enableDASDebugLog":                                            "Увімкнути журнал налагодження DAS",
   "text.autoconfig.simplyskills.option.client.enableDASDebugLog.@Tooltip":                                   "Забезпечує виведення журналу аналітики DAS.",
-  "text.autoconfig.simplyskills.option.client.DASHealth":                                                    "Максимальне здоров'я DAS",
-  "text.autoconfig.simplyskills.option.client.DASHealth.@Tooltip":                                           "Кількість здоров'я, що додається (помножена на витрачені очки навичок)",
+  "text.autoconfig.simplyskills.option.client.DASHealth":                                                    "Максимальне здоров’я DAS",
+  "text.autoconfig.simplyskills.option.client.DASHealth.@Tooltip":                                           "Кількість здоров’я, що додається (помножена на витрачені очки навичок)",
   "text.autoconfig.simplyskills.option.client.DASHealthAddMulti":                                                    "DAS additional Max Health multiplier",
   "text.autoconfig.simplyskills.option.client.DASHealthAddMulti.@Tooltip":                                           "An additional multiplier that will only be in effect if the entity base health is higher than the value set for 'DAS Additional Multiplier HP Requirement'",
   "text.autoconfig.simplyskills.option.client.DASRadius":                                                    "Радіус DAS",
-  "text.autoconfig.simplyskills.option.client.DASRadius.@Tooltip":                                           "Максимальний радіус, в якому DAS перевірятиме гравців з позиції об'єкта (високі значення можуть вплинути на продуктивність)",
+  "text.autoconfig.simplyskills.option.client.DASRadius.@Tooltip":                                           "Максимальний радіус, в якому DAS перевірятиме гравців з позиції об’єкта (високі значення можуть вплинути на продуктивність)",
   "text.autoconfig.simplyskills.option.client.DASUpdateFrequency":                                           "Частота оновлення DAS (у секундах)",
   "text.autoconfig.simplyskills.option.client.DASUpdateFrequency.@Tooltip":                                  "Частота в секундах, з якою оновлюється DAS. (Менші значення можуть вплинути на продуктивність)",
   "text.autoconfig.simplyskills.option.client.DASPlayerScalingWeight":                                       "Вага масштабування гравця DAS",
   "text.autoconfig.simplyskills.option.client.DASPlayerScalingWeight.@Tooltip":                              "Контролює вагу кожного наступного гравця у масштабуванні атрибутів. Чим менше це число, тим менший вплив на масштабування матиме кожен наступний гравець.",
   "text.autoconfig.simplyskills.option.client.DASPassiveEntityModifier":                                     "Модифікатор пасивної сутності DAS",
-  "text.autoconfig.simplyskills.option.client.DASPassiveEntityModifier.@Tooltip":                            "Змінює загальне масштабування DAS для пасивних об'єктів (корів, курей, овець тощо). Чим менше значення, тим менше масштабування. Діапазон: 0.0 -> 1.0",
+  "text.autoconfig.simplyskills.option.client.DASPassiveEntityModifier.@Tooltip":                            "Змінює загальне масштабування DAS для пасивних об’єктів (корів, курей, овець тощо). Чим менше значення, тим менше масштабування. Діапазон: 0.0 -> 1.0",
   "text.autoconfig.simplyskills.option.client.addMultiHealthRequirement":                                                    "DAS Additional Multiplier HP Requirement",
   "text.autoconfig.simplyskills.option.client.addMultiHealthRequirement.@Tooltip":                                           "If entity base health is higher than this value, additional attribute multipliers will be enabled. This allows you to scale boss entities further than ordinary mobs.",
   "text.autoconfig.simplyskills.option.client.DASAttack":                                                    "Атака DAS",
@@ -402,24 +402,24 @@
   "text.autoconfig.simplyskills.option.client.DASResistAddMulti":                                                    "DAS additional Knockback Resistance multiplier",
   "text.autoconfig.simplyskills.option.client.DASResistAddMulti.@Tooltip":                                           "An additional multiplier that will only be in effect if the entity base health is higher than the value set for 'DAS Additional Multiplier HP Requirement'",
 
-  "text.autoconfig.simplyskills.option.client.innerLineR":                                                   "Внутрішній колір з'єднання - ЧЕРВОНИЙ",
-  "text.autoconfig.simplyskills.option.client.innerLineR.@Tooltip":                                          "Червоний внутрішній колір лінії з'єднання, що промальовується між вузлами вмінь. Значення у форматі RGB.",
+  "text.autoconfig.simplyskills.option.client.innerLineR":                                                   "Внутрішній колір з’єднання - ЧЕРВОНИЙ",
+  "text.autoconfig.simplyskills.option.client.innerLineR.@Tooltip":                                          "Червоний внутрішній колір лінії з’єднання, що промальовується між вузлами вмінь. Значення у форматі RGB.",
   "text.autoconfig.simplyskills.option.client.innerLineR.@PrefixText":                                       "§aПараметри візуалізації на стороні клієнта§7",
-  "text.autoconfig.simplyskills.option.client.innerLineG":                                                   "Внутрішній колір з'єднання ЗЕЛЕНИЙ",
-  "text.autoconfig.simplyskills.option.client.innerLineG.@Tooltip":                                          "ЗЕЛЕНИЙ внутрішній колір для лінії з'єднання, що зображується між вузлами навичок. Значення у RGB.",
-  "text.autoconfig.simplyskills.option.client.innerLineB":                                                   "Внутрішній колір з'єднання - СИНІЙ",
-  "text.autoconfig.simplyskills.option.client.innerLineB.@Tooltip":                                          "Синій внутрішній колір для лінії з'єднання, що зображується між вузлами навичок. Значення - RGB.",
-  "text.autoconfig.simplyskills.option.client.innerLineA":                                                   "Внутрішня альфа з'єднання",
-  "text.autoconfig.simplyskills.option.client.innerLineA.@Tooltip":                                          "Альфа для внутрішньої лінії з'єднання, що промальовується між вузлами вмінь. 0.0 -> 1.0",
+  "text.autoconfig.simplyskills.option.client.innerLineG":                                                   "Внутрішній колір з’єднання ЗЕЛЕНИЙ",
+  "text.autoconfig.simplyskills.option.client.innerLineG.@Tooltip":                                          "ЗЕЛЕНИЙ внутрішній колір для лінії з’єднання, що зображується між вузлами навичок. Значення у RGB.",
+  "text.autoconfig.simplyskills.option.client.innerLineB":                                                   "Внутрішній колір з’єднання - СИНІЙ",
+  "text.autoconfig.simplyskills.option.client.innerLineB.@Tooltip":                                          "Синій внутрішній колір для лінії з’єднання, що зображується між вузлами навичок. Значення - RGB.",
+  "text.autoconfig.simplyskills.option.client.innerLineA":                                                   "Внутрішня альфа з’єднання",
+  "text.autoconfig.simplyskills.option.client.innerLineA.@Tooltip":                                          "Альфа для внутрішньої лінії з’єднання, що промальовується між вузлами вмінь. 0.0 -> 1.0",
 
-  "text.autoconfig.simplyskills.option.client.outerLineR":                                                   "Зовнішній колір з'єднання - ЧЕРВОНИЙ",
-  "text.autoconfig.simplyskills.option.client.outerLineR.@Tooltip":                                          "Червоний зовнішній колір для лінії з'єднання, що промальовується між вузлами вмінь. Значення у форматі RGB.",
-  "text.autoconfig.simplyskills.option.client.outerLineG":                                                   "Зовнішній колір з'єднання - ЗЕЛЕНИЙ",
-  "text.autoconfig.simplyskills.option.client.outerLineG.@Tooltip":                                          "ЗЕЛЕНИЙ зовнішній колір для лінії з'єднання, що промальовується між вузлами вмінь. Значення у RGB.",
-  "text.autoconfig.simplyskills.option.client.outerLineB":                                                   "Зовнішній колір з'єднання - СИНІЙ",
-  "text.autoconfig.simplyskills.option.client.outerLineB.@Tooltip":                                          "Синій зовнішній колір для лінії з'єднання, що промальовується між вузлами вмінь. Значення у RGB.",
-  "text.autoconfig.simplyskills.option.client.outerLineA":                                                   "З'єднання зовнішнє Альфа",
-  "text.autoconfig.simplyskills.option.client.outerLineA.@Tooltip":                                          "Альфа для зовнішньої лінії з'єднання, що промальовується між вузлами вмінь. 0.0 -> 1.0",
+  "text.autoconfig.simplyskills.option.client.outerLineR":                                                   "Зовнішній колір з’єднання - ЧЕРВОНИЙ",
+  "text.autoconfig.simplyskills.option.client.outerLineR.@Tooltip":                                          "Червоний зовнішній колір для лінії з’єднання, що промальовується між вузлами вмінь. Значення у форматі RGB.",
+  "text.autoconfig.simplyskills.option.client.outerLineG":                                                   "Зовнішній колір з’єднання - ЗЕЛЕНИЙ",
+  "text.autoconfig.simplyskills.option.client.outerLineG.@Tooltip":                                          "ЗЕЛЕНИЙ зовнішній колір для лінії з’єднання, що промальовується між вузлами вмінь. Значення у RGB.",
+  "text.autoconfig.simplyskills.option.client.outerLineB":                                                   "Зовнішній колір з’єднання - СИНІЙ",
+  "text.autoconfig.simplyskills.option.client.outerLineB.@Tooltip":                                          "Синій зовнішній колір для лінії з’єднання, що промальовується між вузлами вмінь. Значення у RGB.",
+  "text.autoconfig.simplyskills.option.client.outerLineA":                                                   "З’єднання зовнішнє Альфа",
+  "text.autoconfig.simplyskills.option.client.outerLineA.@Tooltip":                                          "Альфа для зовнішньої лінії з’єднання, що промальовується між вузлами вмінь. 0.0 -> 1.0",
 
   "text.autoconfig.simplyskills.option.warrior.passiveWarriorArmorMasteryArmorThreshold.@PrefixText":        "§aЗміна цих значень може призвести до нестабільності/збоїв у грі. Використовуйте на власний ризик.§7,",
   "text.autoconfig.simplyskills.option.warrior.passiveWarriorArmorMasteryArmorThreshold":                    "§a[Пасивна]§7 Поріг майстерності броні",
@@ -442,8 +442,8 @@
   "text.autoconfig.simplyskills.option.warrior.passiveWarriorGoliathFallDistance":                           "§a[Пасивна]§7 Відстань падіння Голіафа",
   "text.autoconfig.simplyskills.option.warrior.passiveWarriorHeavyWeightDamageIncreasePerTick":              "§a[Пасивна]§7 Збільшення шкоди від важкої ваги на тик",
   "text.autoconfig.simplyskills.option.warrior.passiveWarriorDeathDefyFrequency":                            "§a[Пасивна]§7 Коефіцієнт використання Виклику смерті",
-  "text.autoconfig.simplyskills.option.warrior.passiveWarriorDeathDefyHealthThreshold":                      "§a[Пасивна]§7 Поріг здоров'я при коефіцієнті смертельного удару",
-  "text.autoconfig.simplyskills.option.warrior.passiveWarriorDeathDefyAmplifierPerTenPercentHealth":         "§a[Пасивна]§7 Підсилювач смертельного удару на 10% здоров'я",
+  "text.autoconfig.simplyskills.option.warrior.passiveWarriorDeathDefyHealthThreshold":                      "§a[Пасивна]§7 Поріг здоров’я при коефіцієнті смертельного удару",
+  "text.autoconfig.simplyskills.option.warrior.passiveWarriorDeathDefyAmplifierPerTenPercentHealth":         "§a[Пасивна]§7 Підсилювач смертельного удару на 10% здоров’я",
   "text.autoconfig.simplyskills.option.warrior.passiveWarriorFrenzyExhaustionDuration":                      "§a[Пасивна]§7 Тривалість виснаження від шаленства",
   "text.autoconfig.simplyskills.option.warrior.passiveWarriorFrenzyExhaustionStacks":                        "§a[Пасивна]§7 Накопичення несамовитого виснаження",
   "text.autoconfig.simplyskills.option.warrior.passiveWarriorTwinstrikeChance":                              "§a[Пасивна]§7 Шанс подвійного удару",
@@ -456,10 +456,10 @@
   "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerSneakSpeedAmplifier":                         "§a[Пасивна]§7 Підсилювач швидкости підкрадання",
   "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerReflexiveEvasionDuration":                    "§a[Пасивна]§7 Тривалість рефлекторного ухилення",
   "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerReflexiveChance":                             "§a[Пасивна]§7 Рефлекторний шанс",
-  "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerGuardingBarrierFrequency":                    "§a[Пасивна]§7 Коефіцієнт захисного бар'єра",
-  "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerGuardingBarrierDuration":                     "§a[Пасивна]§7 Тривалість захисного бар'єра",
-  "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerGuardingBarrierStacks":                       "§a[Пасивна]§7 Накопичення захисних бар'єрів",
-  "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerGuardingBarrierMaxStacks":                    "§a[Пасивна]§7 Максимальне накопичення захисного бар'єра",
+  "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerGuardingBarrierFrequency":                    "§a[Пасивна]§7 Коефіцієнт захисного бар’єра",
+  "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerGuardingBarrierDuration":                     "§a[Пасивна]§7 Тривалість захисного бар’єра",
+  "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerGuardingBarrierStacks":                       "§a[Пасивна]§7 Накопичення захисних бар’єрів",
+  "text.autoconfig.simplyskills.option.wayfarer.passiveWayfarerGuardingBarrierMaxStacks":                    "§a[Пасивна]§7 Максимальне накопичення захисного бар’єра",
 
   "text.autoconfig.simplyskills.option.initiate.passiveInitiateFrailArmorThreshold.@PrefixText":             "§aЗміна цих значень може призвести до нестабільності/збоїв у грі. Використовуйте на свій страх і ризик.§7 ",
   "text.autoconfig.simplyskills.option.initiate.passiveInitiateFrailArmorThreshold":                         "§a[Пасивна]§7 Поріг крихкої броні",
@@ -498,15 +498,15 @@
   "text.autoconfig.simplyskills.option.ranger.passiveRangerTamerFrequency":                                  "§a[Пасивна]§7 Частота приборкання.",
   "text.autoconfig.simplyskills.option.ranger.passiveRangerTamerResistanceAmplifier":                        "§a[Пасивна]§7 Підсилювач опору придушення",
   "text.autoconfig.simplyskills.option.ranger.passiveRangerTamerRegenerationAmplifier":                      "§a[Пасивна]§7 Підсилювач регенерації пригнічувача",
-  "text.autoconfig.simplyskills.option.ranger.passiveRangerBondedRadius":                                    "§a[Пасивна]§7 Радіус зв'язку",
-  "text.autoconfig.simplyskills.option.ranger.passiveRangerBondedFrequency":                                 "§a[Пасивна]§7 Частота зв'язку",
-  "text.autoconfig.simplyskills.option.ranger.passiveRangerBondedPetMinimumHealthPercent":                   "§a[Пасивна]§7 Мінімальний відсоток здоров'я прив'язаного вихованця",
-  "text.autoconfig.simplyskills.option.ranger.passiveRangerBondedHealthTransferAmount":                      "§a[Пасивна]§7 Обов'язкова сума передачі здоров'я",
+  "text.autoconfig.simplyskills.option.ranger.passiveRangerBondedRadius":                                    "§a[Пасивна]§7 Радіус зв’язку",
+  "text.autoconfig.simplyskills.option.ranger.passiveRangerBondedFrequency":                                 "§a[Пасивна]§7 Частота зв’язку",
+  "text.autoconfig.simplyskills.option.ranger.passiveRangerBondedPetMinimumHealthPercent":                   "§a[Пасивна]§7 Мінімальний відсоток здоров’я прив’язаного вихованця",
+  "text.autoconfig.simplyskills.option.ranger.passiveRangerBondedHealthTransferAmount":                      "§a[Пасивна]§7 Обов’язкова сума передачі здоров’я",
   "text.autoconfig.simplyskills.option.ranger.passiveRangerTrainedRadius":                                   "§a[Пасивна]§7 Радіус навчання",
   "text.autoconfig.simplyskills.option.ranger.passiveRangerTrainedFrequency":                                "§a[Пасивна]§7 Навчена частота",
   "text.autoconfig.simplyskills.option.ranger.passiveRangerTrainedStrengthAmplifier":                        "§a[Пасивна]§7 Тренований підсилювач сили",
   "text.autoconfig.simplyskills.option.ranger.passiveRangerTrainedSpeedAmplifier":                           "§a[Пасивна]§7 Тренований підсилювач швидкости",
-  "text.autoconfig.simplyskills.option.ranger.passiveRangerTrainedMinimumHealthPercent":                     "§a[Пасивна]§7 Тренований мінімальний відсоток здоров'я",
+  "text.autoconfig.simplyskills.option.ranger.passiveRangerTrainedMinimumHealthPercent":                     "§a[Пасивна]§7 Тренований мінімальний відсоток здоров’я",
   "text.autoconfig.simplyskills.option.ranger.passiveRangerIncognitoRadius":                                 "§a[Пасивна]§7 Радіус інкогніто",
   "text.autoconfig.simplyskills.option.ranger.passiveRangerIncognitoFrequency":                              "§a[Пасивна]§7 Частота інкогніто",
   "text.autoconfig.simplyskills.option.ranger.passiveRangerElementalArrowsRenewalChance":                    "§a[Пасивна]§7 Шанс поновлення стріл стихій",
@@ -584,7 +584,7 @@
   "text.autoconfig.simplyskills.option.rogue.signatureRogueSiphoningStrikesDuration":                        "§6[Сигнатура]§7 Висмоктування Тривалість ударів",
   "text.autoconfig.simplyskills.option.rogue.signatureRogueSiphoningStrikesCooldown":                        "§6[Сигнатура]§7 Базове перезаряджання Siphoning Strikes (у секундах)",
   "text.autoconfig.simplyskills.option.rogue.signatureRogueSiphoningStrikesStacks":                          "§6[Сигнатура]§7 Накопичення висмоктуючих ударів",
-  "text.autoconfig.simplyskills.option.rogue.signatureRogueSiphoningStrikesLeechMultiplier":                 "§6[Сигнатура]§7 Мультиплікатор здоров'я п'явок Siphoning Strikes",
+  "text.autoconfig.simplyskills.option.rogue.signatureRogueSiphoningStrikesLeechMultiplier":                 "§6[Сигнатура]§7 Мультиплікатор здоров’я п’явок Siphoning Strikes",
   "text.autoconfig.simplyskills.option.rogue.signatureRogueSiphoningStrikesMightyStacks":                    "§6[Сигнатура]§7 Накопичення Могутності висмоктуючими ударами",
   "text.autoconfig.simplyskills.option.rogue.signatureRogueEvasionDuration":                                 "§6[Сигнатура]§7 Тривалість ухилення",
   "text.autoconfig.simplyskills.option.rogue.signatureRogueEvasionCooldown":                                 "§6[Сигнатура]§7 Час перезаряджання бази ухилення (у секундах)",
@@ -689,11 +689,11 @@
   "text.autoconfig.simplyskills.option.berserker.passiveBerserkerAxeMasteryBaseStrengthAmplifier":           "§a[Пасивна]§7 Підсилювач сили при володінні сокирою",
   "text.autoconfig.simplyskills.option.berserker.passiveBerserkerAxeMasteryStrengthAmplifierPerTier":        "§a[Пасивна]§7 Підсилювач сили майстерності сокири за рівень",
   "text.autoconfig.simplyskills.option.berserker.passiveBerserkerIgnorePainFrequency":                       "§a[Пасивна]§7 Ігнорувати частоту болю",
-  "text.autoconfig.simplyskills.option.berserker.passiveBerserkerIgnorePainHealthThreshold":                 "§a[Пасивна]§7 Ігнорувати поріг здоров'я від болю",
+  "text.autoconfig.simplyskills.option.berserker.passiveBerserkerIgnorePainHealthThreshold":                 "§a[Пасивна]§7 Ігнорувати поріг здоров’я від болю",
   "text.autoconfig.simplyskills.option.berserker.passiveBerserkerIgnorePainBaseResistanceAmplifier":         "§a[Пасивна]§7 Ігнорувати підсилювач стійкості до болю",
   "text.autoconfig.simplyskills.option.berserker.passiveBerserkerIgnorePainResistanceAmplifierPerTier":      "§a[Пасивна]§7 Ігнорувати підсилювач опору болю на рівні",
   "text.autoconfig.simplyskills.option.berserker.passiveBerserkerRecklessnessFrequency":                     "§a[Пасивна]§7 Частота безрозсудності",
-  "text.autoconfig.simplyskills.option.berserker.passiveBerserkerRecklessnessHealthThreshold":               "§a[Пасивна]§7 Поріг здоров'я безрозсудності",
+  "text.autoconfig.simplyskills.option.berserker.passiveBerserkerRecklessnessHealthThreshold":               "§a[Пасивна]§7 Поріг здоров’я безрозсудності",
   "text.autoconfig.simplyskills.option.berserker.passiveBerserkerRecklessnessWeaknessAmplifier":             "§a[Пасивна]§7 Підсилювач слабкості від безрозсудності",
   "text.autoconfig.simplyskills.option.berserker.passiveBerserkerChallengeFrequency":                        "§a[Пасивна]§7 Частота викликів",
   "text.autoconfig.simplyskills.option.berserker.passiveBerserkerChallengeRadius":                           "§a[Пасивна]§7 Радіус виклику",
@@ -789,8 +789,8 @@
 
   "text.autoconfig.simplyskills.option.misc.promWarriorsDevotionAttackSpeedMulti":                           "Множник швидкости атаки Хватки титана",
   "text.autoconfig.simplyskills.option.misc.promWarriorsDevotionAttackSpeedMulti.@Tooltip":                  "Атрибут generic_attack_speed негативно помножується на це число.\n0.9 = -90% ПРИМІТКА: Перевищення 0.9 може зламати атаки Better Combat.",
-  "text.autoconfig.simplyskills.option.misc.promSkellaksCallPhysDmgMulti":                                   "Множник фізичної шкоди Поклику С'келлака",
-  "text.autoconfig.simplyskills.option.misc.promSkellaksCallPhysDmgMulti.@Tooltip":                          "Значення generic_attack_damage Використовується як фізична шкода у Поклику С'келлака.\nНа додаток до цього параметра, здатність також завдає фіксовану шкоду від вогняних заклинань.",
+  "text.autoconfig.simplyskills.option.misc.promSkellaksCallPhysDmgMulti":                                   "Множник фізичної шкоди Поклику С’келлака",
+  "text.autoconfig.simplyskills.option.misc.promSkellaksCallPhysDmgMulti.@Tooltip":                          "Значення generic_attack_damage Використовується як фізична шкода у Поклику С’келлака.\nНа додаток до цього параметра, здатність також завдає фіксовану шкоду від вогняних заклинань.",
   "text.autoconfig.simplyskills.option.misc.promCorruptionMax":                                              "Максимум погані",
   "text.autoconfig.simplyskills.option.misc.promCorruptionMax.@Tooltip":                                     "Максимальний рівень погані, від якої здібності повинні отримувати користь. Будь-яка погань вище цього рівня не дає додаткових переваг здібностям.",
   "text.autoconfig.simplyskills.option.misc.promCorruptionMulti":                                            "Множник погані",
@@ -835,7 +835,7 @@
   "text.skills.spell_crit_chance_multi+1%.title": "§a+2% §f[+]§7 критичного шансу закляття",
   "text.skills.spell_haste_additive+1%.title": "§a+3% §f[+]§7 швидкости виконання закляття",
   "text.skills.spell_haste_multi+1%.title": "§a+5% §f[+]§7 швидкости виконання закляття",
-  "text.skills.health+2.title": "§a+10% §f[+]§7 максимального здоров'я",
+  "text.skills.health+2.title": "§a+10% §f[+]§7 максимального здоров’я",
   "text.skills.resistance+1%.title": "§a+3% §f[+]§7 стійкості",
   "text.skills.resistance_multi+2%.title": "§a+5% §f[+]§7 стійкості",
   "text.skills.melee_damage+1%.title": "§a+2% §f[+]§7 шкоди в ближньому бою",
@@ -864,7 +864,7 @@
   "text.skills.spell_crit_chance_additive+0.1%.title": "§a+0.1%§f [+]§7 критичного шансу закляття",
   "text.skills.spell_haste_additive+0.5%.title": "§a+0.5%§f [+]§7 швидкости виконання закляття",
   "text.skills.spell_power_additive+0.5%.title": "§a+0.5%§f [+]§7 сили заклять",
-  "text.skills.health+0.5%.title": "§a+0.5%§f [+]§7 максимального здоров'я",
+  "text.skills.health+0.5%.title": "§a+0.5%§f [+]§7 максимального здоров’я",
   "text.skills.resistance+0.5%.title": "§a+0.5%§f [+]§7 стійкості",
   "text.skills.melee_damage+0.5%.title": "§a+0.5%§f [+]§7 шкоди в ближньому бою",
   "text.skills.ranged_damage+0.5%.title": "§a+0.5%§f [+]§7 шкоди в дальньому бою",
@@ -893,7 +893,7 @@
   "text.skills.wayfarerUnseen.description": "§7Під час заряджання арбалета ви отримуєте короткострокову Непомітність.\nЯкщо ви вже маєте Непомітність, замість неї ви отримуєте Влучність.\n\n§f(Влучність)§7 дає §a+10% §f[x]§7 додаткової шкоди від дальнього бою за накопичення.",
 
   "text.skills.wayfarerGuarding.title": "§7§a[Захист]§7",
-  "text.skills.wayfarerGuarding.description": "§7Коли у вас в руці є арбалет, ви періодично отримуєте Бар'єр.\n\n§f(Бар'єр)§7 - наступна шкода, яку ви отримаєте, буде зведена нанівець.",
+  "text.skills.wayfarerGuarding.description": "§7Коли у вас в руці є арбалет, ви періодично отримуєте Бар’єр.\n\n§f(Бар’єр)§7 - наступна шкода, яку ви отримаєте, буде зведена нанівець.",
 
   "text.skills.wayfarerQuickfire.title": "§7§a[Швидкостріл]§7",
   "text.skills.wayfarerQuickfire.description": "§7При використанні лука, швидкий постріл повністю зарядженими стрілами у швидкій послідовності дає вам накопичення Влучності.\n\n§f(Влучність)§7 дає §a+10% §f[x]§7 додаткової шкоди від дальнього бою за накопичення.",
@@ -908,19 +908,19 @@
   "text.skills.initiateEmpower.description": "§7Шанс при використанні закляття накопичити Припасування.\n\n§f(Припасування)§7 збільшує шкоду від закляття для певного типу магії на §a+2% §f[x]§7 за накопичення.",
 
   "text.skills.initiateAttuned.title": "§7§a[Припасований]§7",
-  "text.skills.initiateAttuned.description": "§7Коли у вас накопичено принаймні 5 Прив'язок, вона періодично перетворюватиметься на накопичувану Точність.\n\n§f(Точність)§7 збільшує критичну шкоду і критичний шанс закляття на §a+2% §f[x]§7 за накопичення.",
+  "text.skills.initiateAttuned.description": "§7Коли у вас накопичено принаймні 5 Прив’язок, вона періодично перетворюватиметься на накопичувану Точність.\n\n§f(Точність)§7 збільшує критичну шкоду і критичний шанс закляття на §a+2% §f[x]§7 за накопичення.",
 
   "text.skills.initiateLightningRod.title": "§7§a[Блискавковідвід]§7",
   "text.skills.initiateLightningRod.description": "§7Під час штормів ви періодично накопичуєте Блискавичне Припасування.\n\n§f(Блискавичне Припасування)§7 Збільшує шкоду від заклять магії блискавки на §a+2% §f[x]§7 за накопичення.",
 
   "text.skills.initiateEldritchEnfeeblement.title": "§7§a[Древнє послаблення]§7",
-  "text.skills.initiateEldritchEnfeeblement.description": "§7Ви збільшуєте шкоду від закляття на §a+5% §f[x]§7, але ваша швидкість пересування зменшується на §c10% §f[x]§7.\n\nВи отримуєте шанс, рівний вашому критичному шансу закляття, відновити здоров'я під час використання закляття.\nКількість відновленого здоров'я співвідноситься з вашою критичною шкодою закляття.",
+  "text.skills.initiateEldritchEnfeeblement.description": "§7Ви збільшуєте шкоду від закляття на §a+5% §f[x]§7, але ваша швидкість пересування зменшується на §c10% §f[x]§7.\n\nВи отримуєте шанс, рівний вашому критичному шансу закляття, відновити здоров’я під час використання закляття.\nКількість відновленого здоров’я співвідноситься з вашою критичною шкодою закляття.",
 
   "text.skills.initiateHasty.title": "§7§a[Поспішність]§7",
   "text.skills.initiateHasty.description": "§7Ваша швидкість пересування збільшується на §a+15% §f[x]§7, але ви отримуєте повільність §7, коли отримуєте пошкодження.",
 
   "text.skills.initiatePerilousPrecision.title": "§7§a[Небезпечна точність]§7",
-  "text.skills.initiatePerilousPrecision.description": "§7Критичний шанс вашого закляття збільшується на §a+5% §f[x]§7, але ваше максимальне здоров'я зменшується на §c15% §f[x]§7.\n\nВи маєте 50% шанс при використанні закляття накласти Бар'єр.\nЦей шанс зменшується на відсоток, що дорівнює вашому максимальному здоров'ю.",
+  "text.skills.initiatePerilousPrecision.description": "§7Критичний шанс вашого закляття збільшується на §a+5% §f[x]§7, але ваше максимальне здоров’я зменшується на §c15% §f[x]§7.\n\nВи маєте 50% шанс при використанні закляття накласти Бар’єр.\nЦей шанс зменшується на відсоток, що дорівнює вашому максимальному здоров’ю.",
 
   "text.skills.cleric.title": "§7§a[Клірик]§7",
   "text.skills.cleric.description": "§7Періодично очищає дебафи союзників, що знаходяться поруч.",
@@ -934,11 +934,11 @@
   "text.skills.rangerTamer.title": "§7§a[Приборкувач]§7",
   "text.skills.rangerTamer.description": "§7Коли ваші вихованці знаходяться поруч з вами, вони отримуватимуть регенерацію та стійкість.",
 
-  "text.skills.rangerBonded.title": "§7§a[Зв'язаний]§7",
-  "text.skills.rangerBonded.description": "§7Коли ваші вихованці знаходяться поруч з вами і мають більше здоров'я, ніж ви, вони обмінюються з вами здоров'ям. Може спрацювати лише тоді, коли у вашого вихованця більше 30% здоров'я.",
+  "text.skills.rangerBonded.title": "§7§a[Зв’язаний]§7",
+  "text.skills.rangerBonded.description": "§7Коли ваші вихованці знаходяться поруч з вами і мають більше здоров’я, ніж ви, вони обмінюються з вами здоров’ям. Може спрацювати лише тоді, коли у вашого вихованця більше 30% здоров’я.",
 
   "text.skills.rangerTrained.title": "§7§a[Підготовка]§7",
-  "text.skills.rangerTrained.description": "§7Коли ваші вихованці знаходяться поруч з вами і мають не менше 70% здоров'я, вони отримують силу і швидкість.",
+  "text.skills.rangerTrained.description": "§7Коли ваші вихованці знаходяться поруч з вами і мають не менше 70% здоров’я, вони отримують силу і швидкість.",
 
   "text.skills.rangerIncognito.title": "§7§a[Інкогніто]§7",
   "text.skills.rangerIncognito.description": "§7Коли ваші вихованці знаходяться поруч з вами і ви отримуєте Непомітність, вони також її отримують Непомітність.",
@@ -961,26 +961,26 @@
   "text.skills.warriorHeavyWeight.title": "§7§a[Важка вага]§7",
   "text.skills.warriorHeavyWeight.description": "§7Ваші ефекти Землетрусу посилюються, і чим довше ви перебуваєте в повітрі, тим більше шкоди вони завдають.",
 
-  "text.skills.warriorBound.title": "§7§a[Зв'язок]§7",
+  "text.skills.warriorBound.title": "§7§a[Зв’язок]§7",
   "text.skills.warriorBound.description": "§7Після активації Землетрусу ви на короткий час отримуєте прискорення стрибка.",
 
   "text.skills.warriorDeathDefy.title": "§7§a[Виклик смерті]§7",
-  "text.skills.warriorDeathDefy.description": "§7Коли у вас низький рівень здоров'я, ви отримуєте регенерацію та Виснаження відповідно до відсотка здоров'я, що залишився.\n\n§f(Виснаження)§7 зменшує вашу атаку ближнього бою, швидкість пересування та швидкість атаки на §c1% §f[x]§7 за накопичення.",
+  "text.skills.warriorDeathDefy.description": "§7Коли у вас низький рівень здоров’я, ви отримуєте регенерацію та Виснаження відповідно до відсотка здоров’я, що залишився.\n\n§f(Виснаження)§7 зменшує вашу атаку ближнього бою, швидкість пересування та швидкість атаки на §c1% §f[x]§7 за накопичення.",
 
   "text.skills.warriorFrenzy.title": "§7§a[Шаленство]§7",
   "text.skills.warriorFrenzy.description": "§7Ви отримуєте на 75% більше шкоди від ближнього бою, але щоразу, коли ви влучаєте у ворога, ви накопичуєте Виснаження.\n\n§f(Виснаження)§7 Зменшує вашу атаку ближнього бою, швидкість пересування та швидкість атаки на §c1% §f[x]§7 за накопичення.",
 
   "text.skills.warriorCarnage.title": "§7§a[Різанина]§7",
-  "text.skills.warriorCarnage.description": "§7Коли у вас накопичено принаймні 75 Люті або Виснаження, ви отримуєте Посилення здоров'я та Знерухомлюючу ауру.\n\n§f(Знерухомлююча аура)§7 періодично завдає Знерухомлення ворогам, що знаходяться поблизу.\n\n§f(Знерухомлення)§7 сильно уповільнює і завдає шкоди жертві, коли та намагається рухатись.",
+  "text.skills.warriorCarnage.description": "§7Коли у вас накопичено принаймні 75 Люті або Виснаження, ви отримуєте Посилення здоров’я та Знерухомлюючу ауру.\n\n§f(Знерухомлююча аура)§7 періодично завдає Знерухомлення ворогам, що знаходяться поблизу.\n\n§f(Знерухомлення)§7 сильно уповільнює і завдає шкоди жертві, коли та намагається рухатись.",
 
   "text.skills.warriorTwinstrike.title": "§7§a[Подвійний удар]§7",
-  "text.skills.warriorTwinstrike.description": "§7Ваші удари в ближньому бою мають шанс спрацювати двічі.\nЦей шанс подвоюється, якщо ви перебуваєте під дією ефекту Підвищення здоров'я.",
+  "text.skills.warriorTwinstrike.description": "§7Ваші удари в ближньому бою мають шанс спрацювати двічі.\nЦей шанс подвоюється, якщо ви перебуваєте під дією ефекту Підвищення здоров’я.",
 
   "text.skills.warriorSwordfall.title": "§7§a[Падаючий меч]§7",
   "text.skills.warriorSwordfall.description": "§7Ваші удари в ближньому бою мають шанс викликати меч з неба, який завдає шкоди вашій цілі та всім ворогам поблизу.\n\nЦей шанс подвоюється, якщо ви перебуваєте під дією Могутності.",
 
   "text.skills.berserkerpath.title": "Шлях §bБерсерка§7",
-  "text.skills.berserkerpath.description": "\n§7§a[Нерозсудливість]§7\n - коли ваш рівень здоров'я підійматися вище 70%, ви отримуєте пульсуючу Слабкість.\n\nТакож, при нанесенні або отриманні шкоди ви накопичуєте Лють.\n\n§f(Лють)§7 дає §a+0.5% §f[x]§7 додаткової шкоди ближнього бою, швидкість атаки та шкоду, отриману за одне накопичення, максимум до 100 накопичень.\nПри наявності понад 25 накопичень Люті ви швидко втрачаєте накопичення Виснаження.\n\nУтримуйте §f[SHIFT]§7 для більших подробиць:",
+  "text.skills.berserkerpath.description": "\n§7§a[Нерозсудливість]§7\n - коли ваш рівень здоров’я підійматися вище 70%, ви отримуєте пульсуючу Слабкість.\n\nТакож, при нанесенні або отриманні шкоди ви накопичуєте Лють.\n\n§f(Лють)§7 дає §a+0.5% §f[x]§7 додаткової шкоди ближнього бою, швидкість атаки та шкоду, отриману за одне накопичення, максимум до 100 накопичень.\nПри наявності понад 25 накопичень Люті ви швидко втрачаєте накопичення Виснаження.\n\nУтримуйте §f[SHIFT]§7 для більших подробиць:",
   "text.skills.berserkerpath.extra_description": "\n§7Берсерком§7 керує невгамовна жага до руйнування і повне нехтування власною безпекою. Вони є майстрами рукопашного бою і насолоджуються нанесенням руйнівної шкоди, навіть якщо це означає, що вони ризикують власним життям.",
 
   "text.skills.berserkerSwordMastery.title": "§7§a[Майстерність володіння мечем]§7",
@@ -1002,16 +1002,16 @@
   "text.skills.berserkerAxeMasterySkilled.description": "§7Дає підвищену пульсуючу силу при володінні сокирою в основній руці.",
 
   "text.skills.berserkerIgnorePain.title": "§7§a[Ігнорування болю]§7",
-  "text.skills.berserkerIgnorePain.description": "§7Коли ваше здоров'я падає нижче 40%, ви отримуєте пульсуючу стійкість.",
+  "text.skills.berserkerIgnorePain.description": "§7Коли ваше здоров’я падає нижче 40%, ви отримуєте пульсуючу стійкість.",
 
   "text.skills.berserkerIgnorePainProficient.title": "§7§a[Ігнорування болю +]§7",
-  "text.skills.berserkerIgnorePainProficient.description": "§7Коли ваше здоров'я падає нижче 40%, ви отримуєте підвищену пульсуючу стійкість.",
+  "text.skills.berserkerIgnorePainProficient.description": "§7Коли ваше здоров’я падає нижче 40%, ви отримуєте підвищену пульсуючу стійкість.",
 
   "text.skills.berserkerIgnorePainSkilled.title": "§7§a[Ігнорування болю ++]§7",
-  "text.skills.berserkerIgnorePainSkilled.description": "§7Коли ваше здоров'я падає нижче 40%, ви отримуєте підвищену пульсуючу стійкість.",
+  "text.skills.berserkerIgnorePainSkilled.description": "§7Коли ваше здоров’я падає нижче 40%, ви отримуєте підвищену пульсуючу стійкість.",
 
   "text.skills.berserkerRecklessness.title": "§7§a[Безрозсудливість]§7",
-  "text.skills.berserkerRecklessness.description": "§7Коли ваш рівень здоров'я підіймається вище 70%, ви отримуєте пульсуючу слабкість.\n\nТакож, коли ви завдаєте або отримуєте шкоду, ви накопичуєте Лють.\n\n§f(Лють)§7 дає §a+0.5% §f[x]§7 додаткової шкоди в ближньому бою, швидкість атаки та шкоду, отриману за одне накопичення, максимум до 100 накопичень.\nПри перевищенні 25 накопичень Люті ви швидко втрачаєте накопичення Виснаження.",
+  "text.skills.berserkerRecklessness.description": "§7Коли ваш рівень здоров’я підіймається вище 70%, ви отримуєте пульсуючу слабкість.\n\nТакож, коли ви завдаєте або отримуєте шкоду, ви накопичуєте Лють.\n\n§f(Лють)§7 дає §a+0.5% §f[x]§7 додаткової шкоди в ближньому бою, швидкість атаки та шкоду, отриману за одне накопичення, максимум до 100 накопичень.\nПри перевищенні 25 накопичень Люті ви швидко втрачаєте накопичення Виснаження.",
 
   "text.skills.berserkerChallenge.title": "§7§a[Виклик]§7",
   "text.skills.berserkerChallenge.description": "§7Накопичуйте квапливість за кожного ворога, що знаходиться поруч.",
@@ -1269,7 +1269,7 @@
   "text.skills.rogueSignatureEvasionFanOfBladesBladestorm.description": "§7За кожного ворога, якого вражає Віяло клинків, ви накопичуєте Шторм клинків, до 20 накопичень.\n\n§f(Шторм клинків)§7 змушує кинджали обертатися навколо вас, завдаючи шкоди найближчим ворогам.\nКожне накопичення Бурі клинків збільшує частоту атаки і дає вам 1% додаткового шансу ухилитися.",
 
   "text.skills.rogueSignatureEvasionFanOfBladesBladestormSiphon.title": "§f[Сифон]",
-  "text.skills.rogueSignatureEvasionFanOfBladesBladestormSiphon.description": "§7Шторм клинків тепер має шанс висмоктувати здоров'я при попаданні.\n\n§f(Шторм клинків)§7 змушує кинджали обертатися навколо вас, завдаючи шкоди найближчим ворогам.\nКожне накопичення Шторма клинків збільшує частоту атаки і дає вам 1% додаткового шансу ухилитися.",
+  "text.skills.rogueSignatureEvasionFanOfBladesBladestormSiphon.description": "§7Шторм клинків тепер має шанс висмоктувати здоров’я при попаданні.\n\n§f(Шторм клинків)§7 змушує кинджали обертатися навколо вас, завдаючи шкоди найближчим ворогам.\nКожне накопичення Шторма клинків збільшує частоту атаки і дає вам 1% додаткового шансу ухилитися.",
 
   "text.skills.rogueSignaturePreparation.title": "Сигнатурна здібність: §6[Підготовка]§7",
   "text.skills.rogueSignaturePreparation.description": "§7\nДає Непомітність та Швидкість III на 8 секунд.\n\n§a10 секунд перезаряджання\n\n7",
@@ -1281,10 +1281,10 @@
   "text.skills.rogueSignaturePreparationShadowstrikeVampire.description": "§7Ви крадете бафи у ворогів, що опинилися на шляху вашого кидка, і наносите їм Знак Смерті.\n\n§f(Знак Смерті)§7 зменшує стійкість і зцілення жертви на §c+25% §f[x]§7 за накопичення.",
 
   "text.skills.rogueSignaturePreparationShadowstrikeShield.title": "§f[Щит]",
-  "text.skills.rogueSignaturePreparationShadowstrikeShield.description": "§7§6[Підготовка]§7 тепер дає вам Бар'єр і очищає ваші накопичення Виявлення.\n\n§f(Бар'єр)§7 - наступна шкода, яку ви отримаєте, буде зведена нанівець.",
+  "text.skills.rogueSignaturePreparationShadowstrikeShield.description": "§7§6[Підготовка]§7 тепер дає вам Бар’єр і очищає ваші накопичення Виявлення.\n\n§f(Бар’єр)§7 - наступна шкода, яку ви отримаєте, буде зведена нанівець.",
 
   "text.skills.rogueSignatureSiphoningStrikes.title": "Сигнатурна здібність: §6[Поглинаючі удари]§7",
-  "text.skills.rogueSignatureSiphoningStrikes.description": "§7\nОтримайте 10 накопичень Поглинаючих ударів.\n\n§f(Поглинаючі удари)§7 - ви викачуєте здоров'я і знімаєте бафи з ворогів при попаданні.\n\n§a25 секунд перезаряджання§7",
+  "text.skills.rogueSignatureSiphoningStrikes.description": "§7\nОтримайте 10 накопичень Поглинаючих ударів.\n\n§f(Поглинаючі удари)§7 - ви викачуєте здоров’я і знімаєте бафи з ворогів при попаданні.\n\n§a25 секунд перезаряджання§7",
 
   "text.skills.rogueSignatureSiphoningStrikesMighty.title": "§f[Міць]",
   "text.skills.rogueSignatureSiphoningStrikesMighty.description": "§7Коли ви отримуєте §6[Поглинаючі удари]§7, ви також отримуєте Могутність.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.",
@@ -1329,25 +1329,25 @@
   "text.skills.rangerSignatureDisengage.description": "§7\nУповільнює ворогів поблизу і змушує вас відстрибнути назад.\n\n§a15 секунд перезаряджання§7",
 
   "text.skills.rangerSignatureDisengageRecuperate.title": "§f[Відновлення]",
-  "text.skills.rangerSignatureDisengageRecuperate.description": "§7§6[Відхід]§7 тепер зцілює найближчих вихованців до повного здоров'я.",
+  "text.skills.rangerSignatureDisengageRecuperate.description": "§7§6[Відхід]§7 тепер зцілює найближчих вихованців до повного здоров’я.",
 
   "text.skills.rangerSignatureDisengageExploitation.title": "§f[Аура]",
   "text.skills.rangerSignatureDisengageExploitation.description": "§7§6[Відхід]§7 тепер дає всім вихованцям поблизу короткочасну Знерухомлюючу ауру. \n\n§f(Знерухомлююча аура)§7 періодично завдає Знерухомлення ворогам, що знаходяться поблизу.",
 
   "text.skills.rangerSignatureDisengageMarksman.title": "§f[Стрілець]",
-  "text.skills.rangerSignatureDisengageMarksman.description": "§7Активація §6[Відходу]§7 з луком в основній руці дає вам здатність Стрільця. В іншому випадку отримайте Бар'єр.\n\n§f(Бар'єр)§7 - наступна шкода, яку ви отримаєте, буде зведена нанівець.\n\n§f(Стрілець)§7 - наступний постріл з повним зарядом ви вистрілюєте стрілою, що завдає великої шкоди і наносить цілі Чорна мітка. \n\n§f(Чорна мітка)§7 знижує Стійкість і Зцілення жертви на §c+25% §f[x]§7 за накопичення.",
+  "text.skills.rangerSignatureDisengageMarksman.description": "§7Активація §6[Відходу]§7 з луком в основній руці дає вам здатність Стрільця. В іншому випадку отримайте Бар’єр.\n\n§f(Бар’єр)§7 - наступна шкода, яку ви отримаєте, буде зведена нанівець.\n\n§f(Стрілець)§7 - наступний постріл з повним зарядом ви вистрілюєте стрілою, що завдає великої шкоди і наносить цілі Чорна мітка. \n\n§f(Чорна мітка)§7 знижує Стійкість і Зцілення жертви на §c+25% §f[x]§7 за накопичення.",
 
   "text.skills.rangerSignatureElementalArrows.title": "Сигнатурна здібність: §6[Стихійні стріли]§7",
   "text.skills.rangerSignatureElementalArrows.description": "§7\nДає 5 накопичень Стихійних стріл.\n\n§f(Стихійні стріли)§7 - наступний постріл з повним зарядом випустить кілька стихійних стріл у ворогів у цільовій області.\n\n§a40 секунд перезаряджання§7",
 
-  "text.skills.rangerSignatureElementalArrowsFrostAttuned.title": "§F[Прив'язка до морозу]",
-  "text.skills.rangerSignatureElementalArrowsFrostAttuned.description": "§7Ваші §6[Стихійні стріли]§7 завжди будуть прив'язані до морозу.",
+  "text.skills.rangerSignatureElementalArrowsFrostAttuned.title": "§F[Прив’язка до морозу]",
+  "text.skills.rangerSignatureElementalArrowsFrostAttuned.description": "§7Ваші §6[Стихійні стріли]§7 завжди будуть прив’язані до морозу.",
 
-  "text.skills.rangerSignatureElementalArrowsFireAttuned.title": "§f[Прив'язка до вогню]",
-  "text.skills.rangerSignatureElementalArrowsFireAttuned.description": "§7Ваші §6[Стихійні стріли]§7 завжди будуть прив'язані до вогню.",
+  "text.skills.rangerSignatureElementalArrowsFireAttuned.title": "§f[Прив’язка до вогню]",
+  "text.skills.rangerSignatureElementalArrowsFireAttuned.description": "§7Ваші §6[Стихійні стріли]§7 завжди будуть прив’язані до вогню.",
 
-  "text.skills.rangerSignatureElementalArrowsLightningAttuned.title": "§f[Прив'язка до блискавки]",
-  "text.skills.rangerSignatureElementalArrowsLightningAttuned.description": "§7Ваші §6[Стихійні стріли]§7 завжди будуть прив'язані до блискавки.",
+  "text.skills.rangerSignatureElementalArrowsLightningAttuned.title": "§f[Прив’язка до блискавки]",
+  "text.skills.rangerSignatureElementalArrowsLightningAttuned.description": "§7Ваші §6[Стихійні стріли]§7 завжди будуть прив’язані до блискавки.",
 
   "text.skills.rangerSignatureElementalArrowsRadius+.title": "§f[Радіус]",
   "text.skills.rangerSignatureElementalArrowsRadius+.description": "§7Радіус дії ваших §6[Стихійних стріл]§7 збільшується на 2.",
@@ -1455,22 +1455,22 @@
   "text.skills.clericMutualMending.description": "§7При використанні закляття зцілення ви також маєте шанс накласти його на себе.",
 
   "text.skills.clericHealingWard.title": "§7§a[Цілющий оберіг]§7",
-  "text.skills.clericHealingWard.description": "§7Ваші закляття зцілення тепер надають вашій цілі Бар'єр.\n\n§f(Бар'єр)§7 - наступна шкода, яку ви отримаєте, буде зведена нанівець.",
+  "text.skills.clericHealingWard.description": "§7Ваші закляття зцілення тепер надають вашій цілі Бар’єр.\n\n§f(Бар’єр)§7 - наступна шкода, яку ви отримаєте, буде зведена нанівець.",
 
   "text.skills.clericSignatureSacredOrb.title": "Сигнатурна здібність: §6[Священна куля]§7",
-  "text.skills.clericSignatureSacredOrb.description": "§7\nВипустіть кулю святої енергії, яка полетить вперед, перш ніж шукати найближчого союзника.\n\nКоли ця куля з'єднається з союзником, вона зцілить його і дарує вам обом Зв'язок життєвості.\n\n§f(Зв'язок життєвості)\n\n§7 зрівнює здоров'я зв'язаних істот на час його дії.\n\n§a30 секунд перезаряджання\n\n§7.",
+  "text.skills.clericSignatureSacredOrb.description": "§7\nВипустіть кулю святої енергії, яка полетить вперед, перш ніж шукати найближчого союзника.\n\nКоли ця куля з’єднається з союзником, вона зцілить його і дарує вам обом Зв’язок життєвості.\n\n§f(Зв’язок життєвості)\n\n§7 зрівнює здоров’я зв’язаних істот на час його дії.\n\n§a30 секунд перезаряджання\n\n§7.",
 
   "text.skills.clericSignatureSacredOrbSpeed.title": "§f[Швидкість]",
-  "text.skills.clericSignatureSacredOrbSpeed.description": "§7Зв'язок життєвості, отриманий за допомогою §6[Священної кулі]§7, тепер також додає одержувачу баф до Атаки та Швидкости, але накладає на вас Утому.",
+  "text.skills.clericSignatureSacredOrbSpeed.description": "§7Зв’язок життєвості, отриманий за допомогою §6[Священної кулі]§7, тепер також додає одержувачу баф до Атаки та Швидкости, але накладає на вас Утому.",
 
   "text.skills.clericSignatureSacredOrbDebuffs.title": "§f[Співчуття]",
-  "text.skills.clericSignatureSacredOrbDebuffs.description": "§7Зв'язок життєвості, отриманий за допомогою §6[Священної кулі]§7, тепер також періодично переносить дебафи з одержувача на вас.",
+  "text.skills.clericSignatureSacredOrbDebuffs.description": "§7Зв’язок життєвості, отриманий за допомогою §6[Священної кулі]§7, тепер також періодично переносить дебафи з одержувача на вас.",
 
   "text.skills.clericSignatureSacredOrbBuffs.title": "§f[Доброзичливість]",
-  "text.skills.clericSignatureSacredOrbBuffs.description": "§7Зв'язок життєвості, отриманий за допомогою §6[Священної кулі]§7, тепер також періодично надає одержувачу копії ваших бафів.",
+  "text.skills.clericSignatureSacredOrbBuffs.description": "§7Зв’язок життєвості, отриманий за допомогою §6[Священної кулі]§7, тепер також періодично надає одержувачу копії ваших бафів.",
 
   "text.skills.clericSignatureDivineIntervention.title": "Сигнатурна здібність: §6[Божественне втручання]§7",
-  "text.skills.clericSignatureDivineIntervention.description": "§7\nВикликайте блискавку небесної енергії з небес, зцілюючи ціль і даруючи їй Безсмертя.\n\n§8[Потрібна ціль]\n\n§f(Безсмертя)§7 - наповнена небесною енергією істота не може бути вбита.\n\nВтім, якщо на момент закінчення дії ефекту її рівень здоров'я буде нижчим за 60%, вона отримає смертельну шкоду.\n\n§a45 секунд перезаряджання§7",
+  "text.skills.clericSignatureDivineIntervention.description": "§7\nВикликайте блискавку небесної енергії з небес, зцілюючи ціль і даруючи їй Безсмертя.\n\n§8[Потрібна ціль]\n\n§f(Безсмертя)§7 - наповнена небесною енергією істота не може бути вбита.\n\nВтім, якщо на момент закінчення дії ефекту її рівень здоров’я буде нижчим за 60%, вона отримає смертельну шкоду.\n\n§a45 секунд перезаряджання§7",
 
   "text.skills.clericSignatureDivineInterventionFireResistance.title": "§f[Вогнестійкість]",
   "text.skills.clericSignatureDivineInterventionFireResistance.description": "§7Ваше §6[Божественне втручання]§7 тепер надає цілі Вогнестійкість на час його дії.",
@@ -1488,7 +1488,7 @@
   "text.skills.clericSignatureAnointWeaponResistance.description": "§7Ваша §6[Помазана зброя]§7 тепер надає вам Стійкість при попаданні.",
 
   "text.skills.clericSignatureAnointWeaponUndying.title": "§f[Невмирущість]",
-  "text.skills.clericSignatureAnointWeaponUndying.description": "§7Під час дії §6[Помазаної зброї]§7, отримавши шкоду при менш ніж 30% здоров'я, є шанс отримати Безсмертя.\n\n§f(Безсмертя)§7 - наповнена небесною енергією істота не може бути вбита.\n\nВтім, якщо на момент закінчення дії ефекту її рівень здоров'я буде нижчим за 60%, вона отримає смертельну шкоду.",
+  "text.skills.clericSignatureAnointWeaponUndying.description": "§7Під час дії §6[Помазаної зброї]§7, отримавши шкоду при менш ніж 30% здоров’я, є шанс отримати Безсмертя.\n\n§f(Безсмертя)§7 - наповнена небесною енергією істота не може бути вбита.\n\nВтім, якщо на момент закінчення дії ефекту її рівень здоров’я буде нижчим за 60%, вона отримає смертельну шкоду.",
 
   "text.skills.clericSignatureAnointWeaponCleanse.title": "§f[Очищення]",
   "text.skills.clericSignatureAnointWeaponCleanse.description": "§7Поки активна ваша §6[Помазана зброя]§7, ви періодично очищуєтесь від дебафів.",
@@ -1506,7 +1506,7 @@
   "text.skills.berserkerSignatureRampageChargeImmob.description": "§7Вороги, в яких потрапляє ваш заряд, також отримують Знерухомлення. \n\n§f(Знерухомлення)§7 сильно уповільнює і завдає шкоди жертві, коли вона намагається рухатися.",
 
   "text.skills.berserkerSignatureBloodthirsty.title": "Сигнатурна здібність: §6[Кровожерливість]§7",
-  "text.skills.berserkerSignatureBloodthirsty.description": "§7\nДає Кровожерливість на 20 с.\n\n§f(Кровожерливість)§7 дає вам 25% від максимального запасу здоров'я щоразу, коли ви перемагаєте ворога.\n\n§a25 секунд перезаряджання§7",
+  "text.skills.berserkerSignatureBloodthirsty.description": "§7\nДає Кровожерливість на 20 с.\n\n§f(Кровожерливість)§7 дає вам 25% від максимального запасу здоров’я щоразу, коли ви перемагаєте ворога.\n\n§a25 секунд перезаряджання§7",
 
   "text.skills.berserkerSignatureBloodthirstyMighty.title": "§f[Могутність]",
   "text.skills.berserkerSignatureBloodthirstyMighty.description": "§7§6[Кровожерливість]§7 тепер дає вам Могутність при використанні.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.",
@@ -1518,7 +1518,7 @@
   "text.skills.berserkerSignatureBloodthirstyTremor.description": "§7Під час дії §6[Кровожерливості]§7 ви маєте шанс отримати Землетрус при попаданні.\n\n§f(Землетрус)§7 завдає шкоди і відкидає навколишніх ворогів назад при приземленні на землю. Ця шкода залежить від міцності вашої броні.",
 
   "text.skills.berserkerSignatureBerserking.title": "Сигнатурна здібність: §6[Берсеркінг]§7",
-  "text.skills.berserkerSignatureBerserking.description": "§7\nЖертвує 30% від загальної кількості здоров'я, натомість дає Берсеркінг на час, що дорівнює кількості втрачених сердець.\n\n§f(Берсеркінг)§7 дає вам накопичувальні наступальні бафи щоразу, коли ви влучаєте у ворога.\n\n§a25 секунд перезаряджання§7",
+  "text.skills.berserkerSignatureBerserking.description": "§7\nЖертвує 30% від загальної кількості здоров’я, натомість дає Берсеркінг на час, що дорівнює кількості втрачених сердець.\n\n§f(Берсеркінг)§7 дає вам накопичувальні наступальні бафи щоразу, коли ви влучаєте у ворога.\n\n§a25 секунд перезаряджання§7",
 
   "text.skills.berserkerSignatureBerserkingLeap.title": "§f[Руйнівний стрибок]",
   "text.skills.berserkerSignatureBerserkingLeap.description": "§7§6[Берсеркінг]§7 тепер змушує вас виконати стрибок вперед, завдаючи шкоди і відкидаючи ворогів на місці приземлення.",
@@ -1530,7 +1530,7 @@
   "text.skills.berserkerSignatureBerserkingLeapPull.description": "§7Руйнівний стрибок тепер притягує ворогів, що знаходяться поблизу, замість того, щоб відкидати їх назад.",
 
   "text.skills.necromancerSignatureSummoningRitual.title": "Сигнатурна здібність: §6[Ритуал виклику]§7",
-  "text.skills.necromancerSignatureSummoningRitual.description": "§7\nВиконує ритуал, щоб викликати неживого міньйона.\n\nУсталено ця здатність викликає §fСтрахоблиска§7 - повітряного міньйона, який атакує ворогів і завдає їм фізичної шкоди в ближньому бою.\n\nШкода міньйона залежить від вашої сили закляття душі. Міньйони успадковують частину вашого максимального здоров'я.\n\nДія міньйонів закінчується через 120 секунд і їх потрібно викликати знову.\n\n§a120 секунд перезаряджання§7",
+  "text.skills.necromancerSignatureSummoningRitual.description": "§7\nВиконує ритуал, щоб викликати неживого міньйона.\n\nУсталено ця здатність викликає §fСтрахоблиска§7 - повітряного міньйона, який атакує ворогів і завдає їм фізичної шкоди в ближньому бою.\n\nШкода міньйона залежить від вашої сили закляття душі. Міньйони успадковують частину вашого максимального здоров’я.\n\nДія міньйонів закінчується через 120 секунд і їх потрібно викликати знову.\n\n§a120 секунд перезаряджання§7",
 
   "text.skills.necromancerNecroticFortification.title": "§f[Некротичне укріплення]",
   "text.skills.necromancerNecroticFortification.description": "§7Міньйони тепер успадковують половину ваших атрибутів броні та міцності броні.",
@@ -1548,7 +1548,7 @@
   "text.skills.necromancerFrostWraiths.description": "§7Ваші міньйони §fМороку§7 накладають Повільність при попаданні заклять.",
 
   "text.skills.necromancerBloodHarvest.title": "§f[Криваві жнива]",
-  "text.skills.necromancerBloodHarvest.description": "§7Ваші Страхоблиски тепер відновлюють здоров'я, атакуючи ворогів. Частина вкраденого здоров'я також повертається вам.\n\nЦей ефект подвоюється для §fВеликих Страхоблисків§7.",
+  "text.skills.necromancerBloodHarvest.description": "§7Ваші Страхоблиски тепер відновлюють здоров’я, атакуючи ворогів. Частина вкраденого здоров’я також повертається вам.\n\nЦей ефект подвоюється для §fВеликих Страхоблисків§7.",
 
   "text.skills.necromancerGreaterDreadglare.title": "§f[Великий Страхоблиски]",
   "text.skills.necromancerGreaterDreadglare.description": "§7Ваш §6[Ритуал виклику]§7 більше не викликає кількох міньйонів, натомість викликає одного §fВеликого Страхоблиска§7.\n\n§fВеликий Страхоблиск§7 успадковує бонуси всіх атрибутів, насміхається над ворогами, в яких влучає, і отримує Могутність при попаданні за кожний завданий ним шкідливий ефект.",
@@ -1557,7 +1557,7 @@
   "text.skills.necromancerDeathEssence.description": "§7Кожного разу, коли міньйон гине, ви накопичуєте Кістяну броню.\n\n§f(Кістяна броня)§7 захищає шаром кісток, що дає вам додаткових 10% броні та міцності броні за кожну кістку.\nОтримання шкоди знімає один шар.",
 
   "text.skills.necromancerDeathWarden.title": "§f[Смертельний оберіг]",
-  "text.skills.necromancerDeathWarden.description": "§7При отриманні шкоди, коли рівень здоров'я нижче 50%, ви висмоктуєте здоров'я з найближчих міньйонів, щоб відновити його.",
+  "text.skills.necromancerDeathWarden.description": "§7При отриманні шкоди, коли рівень здоров’я нижче 50%, ви висмоктуєте здоров’я з найближчих міньйонів, щоб відновити його.",
 
   "text.skills.necromancerEnrage.title": "§f[Розлючення]",
   "text.skills.necromancerEnrage.description": "§7Коли один з ваших міньйонів гине, всі інші міньйони, що знаходяться поруч, отримують Силу та Стійкість.",
@@ -1575,7 +1575,7 @@
   "text.skills.necromancerDelightfulSuffering.description": "§7Під час використання заклять на вас наносяться шкідливі ефекти§7.\n\nВаш ліміт заклять також збільшується на 1.",
 
   "text.skills.necromancerShadowAura.title": "§f[Тіньова аура]",
-  "text.skills.necromancerShadowAura.description": "§7Ваші міньйони отримують Тіньову ауру. Ефект, який змушує тіні кидатися в атаку і завдавати шкоди душі найближчим цілям, а також §cвиснажує здоров'я міньйона§7.\n\nЦей ефект потроюється для §fВеликих Страхоблисків§7.",
+  "text.skills.necromancerShadowAura.description": "§7Ваші міньйони отримують Тіньову ауру. Ефект, який змушує тіні кидатися в атаку і завдавати шкоди душі найближчим цілям, а також §cвиснажує здоров’я міньйона§7.\n\nЦей ефект потроюється для §fВеликих Страхоблисків§7.",
 
   "text.skills.necromancerShadowCombust.title": "§f[Тіньовий спалах]",
   "text.skills.necromancerShadowCombust.description": "§7Коли ваші міньйони гинуть, вони згорають у тіньовому вибуху, завдаючи значної шкоди душі найближчим цілям.\n\nЦей ефект подвоюється для §fВеликих Страхоблисків§7",
@@ -1597,7 +1597,7 @@
   "text.skills.ascendancyRighteousHammers.description": "§7\nСтворюйте молоти, які обертатимуться навколо вас протягом певного часу, завдаючи шкоди в ближньому бою ворогам поблизу і збільшуючи вашу шкоду в ближньому бою на 2% за кожен молот.\n\n§6[За кожні 10 Вознесінь]§7\nСтворює один додатковий молот.\n\n§6[За 30+ Вознесінь]§7 \nПеріодично створює додаткові молоти, які шукають і вражають цілі поблизу.\n\n§a60 секунд перезаряджання§7",
 
   "text.skills.ascendancyBoneArmor.title": "Здатність Вознесіння: §6[Кістяна броня]§7",
-  "text.skills.ascendancyBoneArmor.description": "§7\nЗахистіться шаром кісток, що збільшує броню та міцність на 10% за кожну кістку.\n\nОтримання шкоди знімає один шар.\n\n§6[За кожні 10 Вознесінь]§7\nСтворює одну додаткову кістку.\n\n§6[За 30+ Вознесінь]§7\nКоли знімається останній шар кістяної броні, ви отримуєте Безсмертя і Регенерацію на 8 секунд.\n\n§a90 секунд перезаряджання§7\n\n§f(Безсмертя)§7 - наповнена небесною енергією істота не може бути вбита.\n\nВтім, якщо на момент закінчення дії ефекту її рівень здоров'я буде нижчим за 60%, вона отримає смертельну шкоду.",
+  "text.skills.ascendancyBoneArmor.description": "§7\nЗахистіться шаром кісток, що збільшує броню та міцність на 10% за кожну кістку.\n\nОтримання шкоди знімає один шар.\n\n§6[За кожні 10 Вознесінь]§7\nСтворює одну додаткову кістку.\n\n§6[За 30+ Вознесінь]§7\nКоли знімається останній шар кістяної броні, ви отримуєте Безсмертя і Регенерацію на 8 секунд.\n\n§a90 секунд перезаряджання§7\n\n§f(Безсмертя)§7 - наповнена небесною енергією істота не може бути вбита.\n\nВтім, якщо на момент закінчення дії ефекту її рівень здоров’я буде нижчим за 60%, вона отримає смертельну шкоду.",
 
   "text.skills.ascendancyCyclonicCleave.title": "Здатність Вознесіння: §6[Вихорний меч]§7",
   "text.skills.ascendancyCyclonicCleave.description": "§7\nРізко розмахуйте зброєю навколо себе, рухаючись вперед, завдаючи шкоди ворогам поблизу.\n\nЦя атака масштабується на найвищий з ваших атрибутів ближньої, дальньої атаки або закляття.\n\n§6[За кожне Вознесіння]§7\nЗбільшує шкоду від здібностей.\n\n§6[За 30+ Вознесінь]\n\nВихорний меч тепер тягне ворогів, яких він вражає, до вас.\n\n§a25 секунд перезаряджання§7",
@@ -1606,7 +1606,7 @@
   "text.skills.ascendancyMagicCircle.description": "§7\nЗмобілізуйтеся, щоб викликати магічне коло під вашими ногами, яке на 6 секунд збільшує силу заклять на 30%.\n\n§6[За кожне Вознесіння]§7\nЗбільшує тривалість ефекту.\n\n§6[За 30+ Вознесінь]§7\nМагічне коло тепер також дає вам пасивне Відлуння заклять чарівника.\n\nЯкщо у вас вже розблоковано Відлуння заклять, воно збільшує шанс його появи на 10%.\n\n§a60 секунд перезаряджання§7",
 
   "text.skills.ascendancyArcaneSlash.title": "Здатність Вознесіння: §6[Таємничий змах]§7",
-  "text.skills.ascendancyArcaneSlash.description": "§7\nСфокусуйте таємну енергію на своєму клинку і виконайте удар вперед, випускаючи таємний снаряд, який пробиває до 5 цілей.\n\n§6[За кожні 10 Вознесінь]§7\nОтримайте +1 накопичення Таємничої прив'язки при використанні.\n\n§6[За 30+ Вознесінь]§7\nТаємничий змах тепер більший, завдає більше шкоди і пробиває до 10 цілей.\n\n§a16 секунд перезаряджання§7",
+  "text.skills.ascendancyArcaneSlash.description": "§7\nСфокусуйте таємну енергію на своєму клинку і виконайте удар вперед, випускаючи таємний снаряд, який пробиває до 5 цілей.\n\n§6[За кожні 10 Вознесінь]§7\nОтримайте +1 накопичення Таємничої прив’язки при використанні.\n\n§6[За 30+ Вознесінь]§7\nТаємничий змах тепер більший, завдає більше шкоди і пробиває до 10 цілей.\n\n§a16 секунд перезаряджання§7",
 
   "text.skills.ascendancyAgony.title": "Здатність Вознесіння: §6[Агонія]§7",
   "text.skills.ascendancyAgony.description": "§7\nПроклинає найближчого ворога Агонією, змушуючи його отримувати додаткову шкоду при кожному попаданні в нього закляттям.\nДіє 8 секунд.\n\n§6[За кожне Вознесіння]§7\nЗбільшує тривалість ефекту.\n\n§6[За 30+ Вознесінь]§7\nКоли спрацьовує Агонія, вона також зцілює свого заклинателя.\nЦе Зцілення масштабується з вашою силою закляття зцілення.\n\n§a60 секунд перезаряджання§7",
@@ -1624,11 +1624,11 @@
   "text.skills.ascendancyGhostwalk.description": "§7\nУвійдіть у спектральну форму і пронесіть себе вперед, ставши невразливим до шкоди і посилаючи душі атакувати ворогів поблизу. Шкода залежить від сили закляття душі.\n\nДіє 3 секунди.\n\n§6[За кожні 10 Вознесінь]§7\nПри використанні накопичує 1 Шок душі.\n\n§6[За 30+ Вознесінь]§7\nВи тепер зцілюєтеся від половини шкоди, завданої Примарним поступом.\n\n§a45 секунд перезаряджання§7",
 
   "text.skills.ascendancySkywardSunder.title": "Здатність Вознесіння: §6[Розрив небес]§7",
-  "text.skills.ascendancySkywardSunder.description": "§7\nОтримайте накопичення Бар'єру за накопичення Могутності на вас і кидайтеся вперед, відкидаючи ворогів і виконуючи удар вгору, що підіймає вас і ваші цілі в повітря, скидаючи їх назад на землю.\n\nЦя атака масштабується на найвищий з ваших атрибутів ближньої, дальної атаки або закляття.\n\nДіє 3 секунди.\n\n§6[За кожне Вознесіння]§7\nЗбільшує шкоду від здатності.\n\n§6[За 30+ Вознесінь]\n\nРозрив небес тепер завдає ворогам Чорну мітку під час фази заряджання.\n\n§a16с перезаряджання§7",
+  "text.skills.ascendancySkywardSunder.description": "§7\nОтримайте накопичення Бар’єру за накопичення Могутності на вас і кидайтеся вперед, відкидаючи ворогів і виконуючи удар вгору, що підіймає вас і ваші цілі в повітря, скидаючи їх назад на землю.\n\nЦя атака масштабується на найвищий з ваших атрибутів ближньої, дальної атаки або закляття.\n\nДіє 3 секунди.\n\n§6[За кожне Вознесіння]§7\nЗбільшує шкоду від здатності.\n\n§6[За 30+ Вознесінь]\n\nРозрив небес тепер завдає ворогам Чорну мітку під час фази заряджання.\n\n§a16с перезаряджання§7",
 
   "text.skills.ascendancyRighteousShield.title": "Здатність Вознесіння: §6[Праведний щит]§7",
   "text.skills.ascendancyRighteousShield.description": "§7\nПоки ця здатність знаходиться в слоті, ви генеруєте накопичення §aЗолотої Егіди§7 щоразу, коли блокуєте атаку. §aЗолота Егіда§7 збільшує силу заклять зцілення, Захист та міцність броні на 1% за кожне накопичення. Максимум 15 накопичень.\n\nАктивація цієї здатності витрачає всі накопичення §aЗолотої Егіди§7 на створення щита зі священної енергії, який можна кидати для отримання різних ефектів залежно від витрачених накопичень.\n\n§7§bМенше 5 накопичень:§7 Щит завдає шкоди ворогам і 2 рази відскакує від них.\n§b5 накопичень:§7 Щит завдає підвищеної шкоди ворогам і відскакує 5 разів.\n§b10 накопичень:§7 Щит більше не завдає шкоди ворогам і не відскакує, а пробиває і лікує союзників, крізь яких проходить.\n§b15 накопичень:§7Щит стає більшим, завдає значно більше шкоди і накладає Чорну мітку, але більше не відскакує.§7\n\n§6[За кожні 10 Вознесінь]§7\nЗбільшує максимальні накопичення §aЗолотої Егіди§7 на 1.\n\n§6[За 30+ Вознесінь]§7\nПід час використання ця здатність тепер пасивно генерує накопичення §aЗолотої Егіди§7.\n\nШкода масштабується з силою закляття зцілення.\n\n§a6 секунд перезаряджання§7",
 
   "text.skills.ascendancyChainbreaker.title": "Здатність Вознесіння: §6[Руйнівник ланцюгів]§7",
-  "text.skills.ascendancyChainbreaker.description": "§7\nМиттєво очищає вас від усіх негативних ефектів і дає Могутність і Влучність.\n\n§6[За кожні 10 Вознесінь]\n\nДає ще 1 накопичення Могутності і Влучності.\n\n§6[За 30+ Вознесінь]\n\nТепер також дарує вам Безсмертя.\n\n§a35 секунд перезаряджання§7\n\n§f(Безсмертя)§7 - наповнена небесною енергією істота не може бути вбита.\n\nВтім, якщо на момент закінчення дії ефекту її рівень здоров'я буде нижчим за 60%, вона отримає смертельну шкоду."
+  "text.skills.ascendancyChainbreaker.description": "§7\nМиттєво очищає вас від усіх негативних ефектів і дає Могутність і Влучність.\n\n§6[За кожні 10 Вознесінь]\n\nДає ще 1 накопичення Могутності і Влучності.\n\n§6[За 30+ Вознесінь]\n\nТепер також дарує вам Безсмертя.\n\n§a35 секунд перезаряджання§7\n\n§f(Безсмертя)§7 - наповнена небесною енергією істота не може бути вбита.\n\nВтім, якщо на момент закінчення дії ефекту її рівень здоров’я буде нижчим за 60%, вона отримає смертельну шкоду."
 }

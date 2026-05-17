@@ -5,7 +5,7 @@
   "button.corpse.next": "Далі",
   "gui.corpse.page": "%s з %s",
   "gui.corpse.death_history.title": "Історія смертей гравця",
-  "gui.corpse.death_history.name": "Ім'я",
+  "gui.corpse.death_history.name": "Ім’я",
   "gui.corpse.death_history.date_format": "рррр/ММ/дд ГГ:хх:сс",
   "gui.corpse.death_history.dimension": "Вимір",
   "gui.corpse.death_history.location": "Локація",

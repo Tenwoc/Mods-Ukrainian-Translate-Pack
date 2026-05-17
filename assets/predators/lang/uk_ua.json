@@ -24,8 +24,8 @@
   "item.predators.moondrop_meteor_spawn_egg": "Яйце виклику метеора місячної роси",
   "item.predators.prisnautilus_spawn_egg": "Яйце виклику признавтилуса",
   "item.predators.rock_boss_spawn_egg": "Яйце виклику аметистового колоса",
-  "item.predators.rock_spike_player_spawn_egg": "Яйце виклику кам'яного шипа",
-  "item.predators.rock_spike_spawn_egg": "Яйце виклику кам'яного шипа",
+  "item.predators.rock_spike_player_spawn_egg": "Яйце виклику кам’яного шипа",
+  "item.predators.rock_spike_spawn_egg": "Яйце виклику кам’яного шипа",
 
   "block.predators.altar_of_moonlight": "Вівтар місячного світла",
 
@@ -42,7 +42,7 @@
   "entity.predators.boss_triger_prisnautilus": "Тригер боса",
   "entity.predators.boss_triger_rock_boss": "Тригер боса",
   "entity.predators.boss_triger_scarab": "Тригер боса",
-  "item.predators.rock_boss_quake_trigger": "Тригер землетрусу кам'яного боса",
+  "item.predators.rock_boss_quake_trigger": "Тригер землетрусу кам’яного боса",
 
   "item.predators.amethyst_armor_helmet": "Аметистовий шолом",
   "item.predators.amethyst_armor_chestplate": "Аметистовий нагрудник",
@@ -104,9 +104,9 @@
   "entity.predators.rock_boss": "Аметистовий колос",
   "item.predators.amethyst_geode": "Аметистова жеода",
   "item.predators.suspicious_geode": "Підозріла жеода",
-  "entity.predators.rock_spike": "Кам'яний шип",
-  "entity.predators.rock_spike_player": "Кам'яний шип",
-  "item.predators.rock_boss_quake": "Землетрус кам'яного боса",
+  "entity.predators.rock_spike": "Кам’яний шип",
+  "entity.predators.rock_spike_player": "Кам’яний шип",
+  "item.predators.rock_boss_quake": "Землетрус кам’яного боса",
   "item.predators.earthbreaker": "Землетрус",
   "item.predators.earthbreaker_projectile": "Снаряд землетруса",
 

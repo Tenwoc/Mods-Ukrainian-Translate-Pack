@@ -16,8 +16,8 @@
   "advancement.enigmaticlegacy.etherium_core.title": "Серце Етеру",
   "advancement.enigmaticlegacy.etherium_core.desc": "Викуйте етерієве ядро",
 
-  "advancement.enigmaticlegacy.all_spellstone.title": "Кам'яний гримуар",
-  "advancement.enigmaticlegacy.all_spellstone.desc": "Зберіть кожен унікальний заклятий камінь. Якби існував спосіб об'єднати їх усі...",
+  "advancement.enigmaticlegacy.all_spellstone.title": "Кам’яний гримуар",
+  "advancement.enigmaticlegacy.all_spellstone.desc": "Зберіть кожен унікальний заклятий камінь. Якби існував спосіб об’єднати їх усі...",
 
   "advancement.enigmaticlegacy.the_cube.title": "Цей кубик зцілив мене від смертності",
   "advancement.enigmaticlegacy.the_cube.desc": "Зберіть усі закляті камені у форму, однаково потужну та неприродну - неевклідовий куб",
@@ -100,7 +100,7 @@
 
   "enchantment.enigmaticlegacyplus.ceaseless": "Безперервність",
   "enchantment.enigmaticlegacyplus.ceaseless.desc": "Дозволяє не витрачати звичайні стріли.",
-  "enchantment.enigmaticlegacyplus.eternal_binding_curse": "Прокляття вічного зв'язку",
+  "enchantment.enigmaticlegacyplus.eternal_binding_curse": "Прокляття вічного зв’язку",
   "enchantment.enigmaticlegacyplus.eternal_binding_curse.desc": "Унеможливлює зняття або втрату предмета після смерті.",
   "enchantment.enigmaticlegacyplus.etheric_resonance": "Етерієвий резонанс",
   "enchantment.enigmaticlegacyplus.etheric_resonance.desc": "Покращує можливості етерієвих інструментів",
@@ -122,7 +122,7 @@
   "effect.enigmaticlegacyplus.abyss_corruption.desc": "Потужний негативний ефект, що поширюється зі смертю.",
   "effect.enigmaticlegacyplus.blazing_might": "Палюча міць",
   "effect.enigmaticlegacyplus.blazing_might.desc": "Ефект зникає після отримання будь-якої шкоди.",
-  "effect.enigmaticlegacyplus.ichor_corrosion": "Роз'їдання іхором",
+  "effect.enigmaticlegacyplus.ichor_corrosion": "Роз’їдання іхором",
   "effect.enigmaticlegacyplus.ichor_corrosion.desc": "Знижує ваш захист, збільшуючи отримувану шкоду.",
   "effect.enigmaticlegacyplus.ichor_curse": "Прокляття покаяння",
   "effect.enigmaticlegacyplus.ichor_curse.desc": "Пекло резонує з вами.",
@@ -131,7 +131,7 @@
   "effect.enigmaticlegacyplus.pure_resistance": "Чистий опір",
   "effect.enigmaticlegacyplus.pure_resistance.desc": "Зменшує отримувану шкоду та дає шанс блокувати її.",
   "effect.enigmaticlegacyplus.violence_curse": "Прокляття манії",
-  "effect.enigmaticlegacyplus.violence_curse.desc": "Під час бою з'являтимуться тимчасові прокляття.",
+  "effect.enigmaticlegacyplus.violence_curse.desc": "Під час бою з’являтимуться тимчасові прокляття.",
 
   "entity.enigmaticlegacyplus.cobweb_ball": "Кулька павутини",
   "entity.enigmaticlegacyplus.dragon_breath_arrow": "Стріла дихання дракона",
@@ -320,7 +320,7 @@
   "tooltip.enigmaticlegacy.enigmaticAmuletShift3": "§6місткість§5, яка надійно збереже ваші предмети,",
   "tooltip.enigmaticlegacy.enigmaticAmuletShift4": "§5кристали душі та досвід.",
   "tooltip.enigmaticlegacy.enigmaticAmuletShift5": "§5Підійдіть до місткости, щоб повернути втрачене.",
-  "tooltip.enigmaticlegacy.enigmaticAmuletInscription": "§5На ньому викарбувано ім'я: §4%1$s",
+  "tooltip.enigmaticlegacy.enigmaticAmuletInscription": "§5На ньому викарбувано ім’я: §4%1$s",
   "tooltip.enigmaticlegacy.enigmaticAmuletModifierRED": "§6+2 §dшкоди при атаці",
   "tooltip.enigmaticlegacy.enigmaticAmuletModifierAQUA": "§6+15% §dшвидкости бігу",
   "tooltip.enigmaticlegacy.enigmaticAmuletModifierVIOLET": "§6+15% §dшансу відхилення",
@@ -352,12 +352,12 @@
   "tooltip.enigmaticlegacy.quartzRingAttribute": "отримуваної магічної шкоди",
 
   "tooltip.enigmaticlegacy.enderRing1": "§5Дозволяє віддалено отримувати доступ до вашої",
-  "tooltip.enigmaticlegacy.enderRing2": "§6скрині Енду§5 через інвентар або прив'язану клавішу.",
+  "tooltip.enigmaticlegacy.enderRing2": "§6скрині Енду§5 через інвентар або прив’язану клавішу.",
 
   "tooltip.enigmaticlegacy.monsterCharmAttribute": "шкоди проти нежиті",
   "tooltip.enigmaticlegacy.monsterCharm": "§5Знищені монстри скидають вдвічі більше досвіду.",
 
-  "tooltip.enigmaticlegacy.suvivalScroll1": "§5Коли рівень здоров'я низький:",
+  "tooltip.enigmaticlegacy.suvivalScroll1": "§5Коли рівень здоров’я низький:",
   "tooltip.enigmaticlegacy.suvivalScroll2": "§5Надає певні поліпшення характеристик",
   "tooltip.enigmaticlegacy.suvivalScroll3": "§5та збільшує швидкість споживання їжі.",
 
@@ -409,19 +409,19 @@
   "tooltip.enigmaticlegacy.recallPotion3": "§5якщо ви не маєте жодних точок відродження.",
 
   "tooltip.enigmaticlegacy.wormholePotion1": "§5Телепортує вас до §6%1$s§65.",
-  "tooltip.enigmaticlegacy.wormholePotion2": "§5Запам'ятовує першого §6носія §5і",
-  "tooltip.enigmaticlegacy.wormholePotion3": "§5телепортує того хто вип'є це зілля до нього.",
+  "tooltip.enigmaticlegacy.wormholePotion2": "§5Запам’ятовує першого §6носія §5і",
+  "tooltip.enigmaticlegacy.wormholePotion3": "§5телепортує того хто вип’є це зілля до нього.",
 
   "tooltip.enigmaticlegacy.mendingMixture1": "§5Поєднайте із будь-яким інструментом, зброєю або обладунками",
   "tooltip.enigmaticlegacy.mendingMixture2": "§5у сітці майстрування, щоб повністю відновити їхню міцність.",
 
-  "tooltip.enigmaticlegacy.extradimensionalEye1": "§5Прив'яжіть його до своєї поточної локації,",
+  "tooltip.enigmaticlegacy.extradimensionalEye1": "§5Прив’яжіть його до своєї поточної локації,",
   "tooltip.enigmaticlegacy.extradimensionalEye2": "§5натиснувши §6Shift§5+§6ПКМ§5.",
   "tooltip.enigmaticlegacy.extradimensionalEye3": "§5Перебуваючи у тому ж вимірі",
   "tooltip.enigmaticlegacy.extradimensionalEye4": "§5ви можете клацнути §6ЛКМ§5 цим предметом",
   "tooltip.enigmaticlegacy.extradimensionalEye5": "§5по живій істоті, щоб телепортувати її",
-  "tooltip.enigmaticlegacy.extradimensionalEye6": "§5до прив'язаних координат.",
-  "tooltip.enigmaticlegacy.extradimensionalEyeLocation": "§dЗв'язане місце:",
+  "tooltip.enigmaticlegacy.extradimensionalEye6": "§5до прив’язаних координат.",
+  "tooltip.enigmaticlegacy.extradimensionalEyeLocation": "§dЗв’язане місце:",
   "tooltip.enigmaticlegacy.extradimensionalEyePos": "§d Локація: §5[§6%1$s§5, §6%2$s§5, §6%3$s§5]",
   "tooltip.enigmaticlegacy.extradimensionalEyeDimension": "§d Вимір: §6%s",
 
@@ -438,7 +438,7 @@
   "tooltip.enigmaticlegacy.voidStone3": "§5знищить увесь стос предмета.",
 
   "tooltip.enigmaticlegacy.hellBladeCharmUnequip": "§4Зараз не можна зняти.",
-  "tooltip.enigmaticlegacy.hellBladeCharm1": "§5Коли ви залишаєте цілі §6%1$s§5 здоров'я,",
+  "tooltip.enigmaticlegacy.hellBladeCharm1": "§5Коли ви залишаєте цілі §6%1$s§5 здоров’я,",
   "tooltip.enigmaticlegacy.hellBladeCharm2": "§5артефакт завдає значної шкоди цілі та лікує вас.",
 
   "tooltip.enigmaticlegacy.executionAxeBeheadingChance": "§6+%1$s §dшансу знеголовлення",
@@ -474,7 +474,7 @@
   "tooltip.enigmaticlegacy.majesticElytra3": "§5прискорення елітри зношуються швидше.",
 
   "tooltip.enigmaticlegacy.ichorBottle1": "§5Щоб зневажати богів, треба їх знати...",
-  "tooltip.enigmaticlegacy.ichorBottle2": "§5З'їжте, щоб назавжди отримати §6+1§d слот оберега§5.",
+  "tooltip.enigmaticlegacy.ichorBottle2": "§5З’їжте, щоб назавжди отримати §6+1§d слот оберега§5.",
 
   "tooltip.enigmaticlegacy.spelltunerContext": "§dНаразі прилаштовано: §6%1$s§d.",
   "tooltip.enigmaticlegacy.spelltunerContextAbsent": "§dНаразі прилаштовано: §4Нічого§d.",
@@ -540,7 +540,7 @@
   "tooltip.enigmaticlegacy.voidPearl4": "§5- будь-які істоти в темряві поряд із вами отримують",
   "tooltip.enigmaticlegacy.voidPearl5": "§5  величезну шкоду і важкі шкідливі ефекти.",
   "tooltip.enigmaticlegacy.voidPearl6": "§6  Ендермени§5 уражаються незалежно від рівня освітлення.",
-  "tooltip.enigmaticlegacy.voidPearl7": "§5- §dШанс у §6%1$s§5, що смертельна шкода не вб'є вас.",
+  "tooltip.enigmaticlegacy.voidPearl7": "§5- §dШанс у §6%1$s§5, що смертельна шкода не вб’є вас.",
 
   "tooltip.enigmaticlegacy.forgottenIceSkill": "§6- Заморожує навколишніх мобів і завдає величезної шкоди.",
   "tooltip.enigmaticlegacy.forgottenIce1": "§5- Невразливість до морозу та ефект Льодохода.",
@@ -551,7 +551,7 @@
   "tooltip.enigmaticlegacy.forgottenIce6": "§5- Ви вразливі до §dвогню§5.",
 
   "tooltip.enigmaticlegacy.revivalLeafSkill": "§6- Лікує навколишніх мобів ціною досвіду.",
-  "tooltip.enigmaticlegacy.revivalLeaf1": "§5- Повільне природне відновлення здоров'я.",
+  "tooltip.enigmaticlegacy.revivalLeaf1": "§5- Повільне природне відновлення здоров’я.",
   "tooltip.enigmaticlegacy.revivalLeaf2": "§5- Ціль атаки отруюється та повільніше регенерує.",
   "tooltip.enigmaticlegacy.revivalLeaf3": "§5- Невразливість до ефектів §dГолоду§5, §dОтрути§5 та §dВисушення§5.",
   "tooltip.enigmaticlegacy.revivalLeaf4": "§5- Рослини поряд ростуть швидше.",
@@ -585,10 +585,10 @@
   "tooltip.enigmaticlegacy.theCube7": "§5- Нападники ближнього бою отримуватимуть випадковий шкідливий ефект.",
   "tooltip.enigmaticlegacy.theCube8": "§5- Невразливість до шкоди від тиску, падінь, зіткнень, ",
   "tooltip.enigmaticlegacy.theCube9": "§5  проколювання, телепортації, вогню та лави.",
-  "tooltip.enigmaticlegacy.theCube10": "§5- Маючи більше §61 здоров'я§5, ви переживете смертельну шкоду,",
-  "tooltip.enigmaticlegacy.theCube11": "§5  залишившись із §61 серцем§5. При §6здоров'ї не більше 1§5 відбувається",
+  "tooltip.enigmaticlegacy.theCube10": "§5- Маючи більше §61 здоров’я§5, ви переживете смертельну шкоду,",
+  "tooltip.enigmaticlegacy.theCube11": "§5  залишившись із §61 серцем§5. При §6здоров’ї не більше 1§5 відбувається",
   "tooltip.enigmaticlegacy.theCube12": "§5  спроба застосувати активну здібність для уникнення смертельної шкоди.",
-  "tooltip.enigmaticlegacy.theCube13": "§5  У разі успіху відновлює ваше здоров'я до §630%§5 та застосовує потужні бафи.",
+  "tooltip.enigmaticlegacy.theCube13": "§5  У разі успіху відновлює ваше здоров’я до §630%§5 та застосовує потужні бафи.",
 
   "tooltip.enigmaticlegacy.etheriumCore1": "§5- §6%1$s§5 захисту, §6%2$s§5 твердості обладунків",
   "tooltip.enigmaticlegacy.etheriumCore2": "§5- §6%1$s§5 стійкости до відкидання",
@@ -617,12 +617,12 @@
   "tooltip.enigmaticlegacy.antiqueBag4": "§5Цей предмет також працює у§d скрині Енду§5.",
 
   "tooltip.enigmaticlegacy.forbiddenFruitLore": "§5Знання - найвеличніший дар.",
-  "tooltip.enigmaticlegacy.forbiddenFruit1": "§5З'ївши цей плід ви більше ніколи",
+  "tooltip.enigmaticlegacy.forbiddenFruit1": "§5З’ївши цей плід ви більше ніколи",
   "tooltip.enigmaticlegacy.forbiddenFruit2": "§5не відчуватимете голод, але будь-яка форма ",
   "tooltip.enigmaticlegacy.forbiddenFruit3": "§5регенерації матиме на §6%1$s§5 слабший ефект.",
 
   "tooltip.enigmaticlegacy.loreInscriber1": "§6ПКМ§5, щоб відкрити §6інтерфейс§5.",
-  "tooltip.enigmaticlegacy.loreInscriber2": "§5щоб вписати йому форматоване ім'я та рядки історії.",
+  "tooltip.enigmaticlegacy.loreInscriber2": "§5щоб вписати йому форматоване ім’я та рядки історії.",
   "tooltip.enigmaticlegacy.loreInscriber3": "§5Використовуйте §d&§6[0-f]§5, щоб застосувати форматування кольорів до",
   "tooltip.enigmaticlegacy.loreInscriber4": "§5будь-якого наступного тексту у полі назви.",
   "tooltip.enigmaticlegacy.loreInscriber5": "§5Використовуйте §d&§6[k/l/m/n/o/r]§5, щоб застосувати форматування шрифту.",
@@ -633,8 +633,8 @@
   "tooltip.enigmaticlegacy.loreInscriber10": "§5щоб видалити останній доданий рядок",
   "tooltip.enigmaticlegacy.loreInscriber11": "§5або певний рядок історії відповідно.",
 
-  "tooltip.enigmaticlegacy.loreFragment1": "§5Використовуйте §6%1$s§5? щоб вписати ім'я та історію.",
-  "tooltip.enigmaticlegacy.loreFragment2": "§5Закінчивши, об'єднайте з будь-яким предметом на §6ковадлі§5,",
+  "tooltip.enigmaticlegacy.loreFragment1": "§5Використовуйте §6%1$s§5? щоб вписати ім’я та історію.",
+  "tooltip.enigmaticlegacy.loreFragment2": "§5Закінчивши, об’єднайте з будь-яким предметом на §6ковадлі§5,",
   "tooltip.enigmaticlegacy.loreFragment3": "§5щоб прикріпити записи до цього предмета.",
 
   "tooltip.enigmaticlegacy.eternallyBound1": "§5Одягнувши його, ви зробите перстень частиною себе.",
@@ -705,7 +705,7 @@
   "tooltip.enigmaticlegacy.theTwist1": "§6+%1$s§d шкоди§5 проти босів і гравців",
   "tooltip.enigmaticlegacy.theTwist2": "§6+%1$s§d відкидання",
 
-  "tooltip.enigmaticlegacy.astralFruit": "§5З'їжте, щоб назавжди отримати §6+1§d слот персня§5.",
+  "tooltip.enigmaticlegacy.astralFruit": "§5З’їжте, щоб назавжди отримати §6+1§d слот персня§5.",
 
   "tooltip.enigmaticlegacy.enchantersPearl1": "§6+1§d слот оберега",
   "tooltip.enigmaticlegacy.enchantersPearl2": "§5Ви отримуєте більшу кількість та силу зачарувань",
@@ -729,7 +729,7 @@
   "tooltip.enigmaticlegacy.berserkCharm3": "§6+%1$s §dшвидкости руху",
   "tooltip.enigmaticlegacy.berserkCharm4": "§6+%1$s §dстійкости",
   "tooltip.enigmaticlegacy.berserkCharm5": "§5Ці характеристики множаться на процент від",
-  "tooltip.enigmaticlegacy.berserkCharm6": "§5здоров'я, кого вам на цей момент бракує.",
+  "tooltip.enigmaticlegacy.berserkCharm6": "§5здоров’я, кого вам на цей момент бракує.",
   "tooltip.enigmaticlegacy.berserkCharm7": "§dПоточні характеристики:",
   "tooltip.enigmaticlegacy.berserkCharm8": "§5Вхідне ураження скидає §6Палючу міць§5,",
   "tooltip.enigmaticlegacy.berserkCharm9": "§5яка зменшує шкоду відповідно до кількості втрачених накопичень.",
@@ -808,14 +808,14 @@
   "tooltip.enigmaticlegacy.scorchedCharm4": "§5Активує викрадення життя від атак по цілях, що горять.",
   "tooltip.enigmaticlegacy.scorchedCharm5": "§6%1$s §5шансу протистояти шкоді від атаки.",
 
-  "tooltip.enigmaticlegacy.earthPromise1": "§5При отриманні шкоди, що становить §6%1$s §5вашого здоров'я,",
+  "tooltip.enigmaticlegacy.earthPromise1": "§5При отриманні шкоди, що становить §6%1$s §5вашого здоров’я,",
   "tooltip.enigmaticlegacy.earthPromise2": "§5артефакт блокує атаку та йде на відновлення на§6 %1$s §5 с.",
 
   "tooltip.enigmaticlegacy.blessStone1": "§5Візьми цей камінь із собою у забуття,",
   "tooltip.enigmaticlegacy.blessStone2": "§5і тоді §6Перстень Семи Проклять",
   "tooltip.enigmaticlegacy.blessStone3": "§5перетвориться на §6Перстень Спокути§5.",
 
-  "tooltip.enigmaticlegacy.nightScroll1": "§6Фантоми§5 не будуть з'являтися поблизу вас.",
+  "tooltip.enigmaticlegacy.nightScroll1": "§6Фантоми§5 не будуть з’являтися поблизу вас.",
   "tooltip.enigmaticlegacy.nightScroll2": "§5Надає бонуси залежно від освітленості.",
   "tooltip.enigmaticlegacy.nightScroll3": "§6+%1$s §dшкоди",
   "tooltip.enigmaticlegacy.nightScroll4": "§6+%1$s §dстійкости",
@@ -869,19 +869,19 @@
   "tooltip.enigmaticlegacy.eldritchAmuletStat1": "§6+%1$s §dшкоди",
   "tooltip.enigmaticlegacy.eldritchAmuletStat2": "§6+%1$s §dвикрадання життя",
 
-  "tooltip.enigmaticlegacy.enigmaticEye1": "§5Воно пов'язано з місцем за межами вашого простору і",
+  "tooltip.enigmaticlegacy.enigmaticEye1": "§5Воно пов’язано з місцем за межами вашого простору і",
   "tooltip.enigmaticlegacy.enigmaticEye2": "§5часу. Ви можете пробудити око, якщо хочете ризикнути",
   "tooltip.enigmaticlegacy.enigmaticEye3": "§5привернути увагу когось... або чогось.",
 
   "tooltip.enigmaticlegacy.enigmaticEyeAwakened1": "§5Тепер, коли ви привернули його увагу, той, хто використовує",
   "tooltip.enigmaticlegacy.enigmaticEyeAwakened2": "§5око, щоб спостерігати за вами і світом, здається, не потребує",
-  "tooltip.enigmaticlegacy.enigmaticEyeAwakened3": "§5його для того, щоб зв'язатися з вами. Чи то він не здатен,",
+  "tooltip.enigmaticlegacy.enigmaticEyeAwakened3": "§5його для того, щоб зв’язатися з вами. Чи то він не здатен,",
   "tooltip.enigmaticlegacy.enigmaticEyeAwakened4": "§5чи то просто не бажає встановлювати будь-який контакт, окрім",
   "tooltip.enigmaticlegacy.enigmaticEyeAwakened5": "§5ментального. Це так і залишається загадкою.",
-  "tooltip.enigmaticlegacy.enigmaticEyeAwakened6": "§5Розкриває справжнє ім'я гравців, які носять §6Чарівливу емблему§5.",
+  "tooltip.enigmaticlegacy.enigmaticEyeAwakened6": "§5Розкриває справжнє ім’я гравців, які носять §6Чарівливу емблему§5.",
 
   "tooltip.enigmaticlegacy.desolationRing1": "§6Запобігає випаданню будь-яких предметів з убитих мобів.",
-  "tooltip.enigmaticlegacy.desolationRing2": "§6Нейтральні істоти§5 не будуть з'являтися поблизу вас.",
+  "tooltip.enigmaticlegacy.desolationRing2": "§6Нейтральні істоти§5 не будуть з’являтися поблизу вас.",
   "tooltip.enigmaticlegacy.desolationRing3": "§6Вороги§5 не будуть активно націлюватися на вас.",
 
   "tooltip.enigmaticlegacy.violenceScrollLore1": "§5З проклятою істотою загалом не варто наживати собі ворога.",
@@ -948,7 +948,7 @@
 
   "gui.enigmaticlegacy.permanent_death_screen_title": "Кінець",
   "gui.enigmaticlegacy.antique_bag": "§rАнтикварна книжкова торба",
-  "gui.enigmaticlegacy.lore_inscriber": "Вписати ім'я та історію",
+  "gui.enigmaticlegacy.lore_inscriber": "Вписати ім’я та історію",
   "gui.enigmaticlegacy.blazing_core_bar_title": "Жар",
   "gui.enigmaticlegacy.spellstone_crafting": "Крафт",
   "gui.enigmaticlegacy.jei.spellstone_crafting": "Створювання заклятих каменів",
@@ -1019,7 +1019,7 @@
   "enigmaticlegacyplus.configuration.armorDebuff.tooltip": "Наскільки менш ефективною будуть обладунки для носіїв персня. Вимірюється у відсотках.",
   "enigmaticlegacyplus.configuration.monsterDamageDebuff": "§5Четверте прокляття§d - коефіцієнт ослаблення шкоди монстрам",
   "enigmaticlegacyplus.configuration.monsterDamageDebuff.tooltip": "Наскільки зменшиться шкода, яку монстри отримують від носіїв персня. Вимірюється у відсотках.",
-  "enigmaticlegacyplus.configuration.eternalBurning": "§5П'яте прокляття§d - вічне горіння",
+  "enigmaticlegacyplus.configuration.eternalBurning": "§5П’яте прокляття§d - вічне горіння",
   "enigmaticlegacyplus.configuration.eternalBurning.tooltip": "Встановіть true, щоб носії цього прокляття горіли вічно.",
   "enigmaticlegacyplus.configuration.soulCrystalsMode": "§5Шосте прокляття§d - режим втрати кристалів душі",
   "enigmaticlegacyplus.configuration.soulCrystalsMode.tooltip": "Режим втрати кристалів душі.",
@@ -1033,7 +1033,7 @@
   "enigmaticlegacyplus.configuration.experienceBonus.tooltip": "Наскільки більше досвіду випадатиме з мобів носіям персня. Вимірюється у відсотках.",
   "enigmaticlegacyplus.configuration.enchantingBonus": "§5Четверте благословення§d - бонус сили зачарування",
   "enigmaticlegacyplus.configuration.enchantingBonus.tooltip": "Скільки додаткової сили зачарування надає перстень на столі зачарувань.",
-  "enigmaticlegacyplus.configuration.enableSpecialDrops": "§5П'яте благословення§d - особливі предмети семи проклять",
+  "enigmaticlegacyplus.configuration.enableSpecialDrops": "§5П’яте благословення§d - особливі предмети семи проклять",
   "enigmaticlegacyplus.configuration.enableSpecialDrops.tooltip": "Встановіть true, щоб увімкнути додаткову таблицю луту.",
   "enigmaticlegacyplus.configuration.enableEnderRing": "§5Шосте благословення§d - функціонал кільця Енду",
   "enigmaticlegacyplus.configuration.enableEnderRing.tooltip": "Встановіть false, щоб вимкнути функцію кільця Енду.",
@@ -1044,7 +1044,7 @@
   "enigmaticlegacyplus.configuration.ultraHardcore": "Хардкорний режим",
   "enigmaticlegacyplus.configuration.ultraHardcore.tooltip": "Якщо true, Перстень Семи Проклять буде автоматично одягнено в слот для персня гравця при вході в новий світ, замість того, щоб просто додатися до його інвентарю.",
   "enigmaticlegacyplus.configuration.maxSoulCrystalLoss": "Максимальна кількість втрачених кристалів душі",
-  "enigmaticlegacyplus.configuration.maxSoulCrystalLoss.tooltip": "Максимальна кількість кристалів душі, яку гравець може втратити, перш ніж вони перестануть випадати. Якщо встановлено 10 - гравець може втратити їх усі, і це призведе до безповоротної смерті. Кожен втрачений кристал зменшує максимальне можливе здоров'я на 10%.",
+  "enigmaticlegacyplus.configuration.maxSoulCrystalLoss.tooltip": "Максимальна кількість кристалів душі, яку гравець може втратити, перш ніж вони перестануть випадати. Якщо встановлено 10 - гравець може втратити їх усі, і це призведе до безповоротної смерті. Кожен втрачений кристал зменшує максимальне можливе здоров’я на 10%.",
   "enigmaticlegacyplus.configuration.abyssThreshold": "Поріг часу безодні",
   "enigmaticlegacyplus.configuration.abyssThreshold.tooltip": "Необхідний час для активації предметів безодні у відсотках.",
   "enigmaticlegacyplus.configuration.forTheWorthy": "Покращення монстрів",
@@ -1086,11 +1086,11 @@
   "enigmaticlegacyplus.configuration.regenerationSpeed.tooltip": "Час між лікуваннями. Вимірюється в тактах.",
   "enigmaticlegacyplus.configuration.lootingBonusAlt": "§5Четверте благословення§d - додатковий рівень грабунку",
   "enigmaticlegacyplus.configuration.lootingBonusAlt.tooltip": "Скільки додаткових рівнів грабунку надає перстень.",
-  "enigmaticlegacyplus.configuration.fortuneBonusAlt": "§5П'яте благословення§d - додатковий рівень удачі",
+  "enigmaticlegacyplus.configuration.fortuneBonusAlt": "§5П’яте благословення§d - додатковий рівень удачі",
   "enigmaticlegacyplus.configuration.fortuneBonusAlt.tooltip": "Скільки додаткових рівнів удачі надає перстень.",
   "enigmaticlegacyplus.configuration.redemptionLevel": "Необхідна частка часу для кожного рівня спокути",
   "enigmaticlegacyplus.configuration.firstCurseModifier": "Коефіцієнт коригування першого прокляття",
-  "enigmaticlegacyplus.configuration.healthThreshold": "Поріг здоров'я",
+  "enigmaticlegacyplus.configuration.healthThreshold": "Поріг здоров’я",
   "enigmaticlegacyplus.configuration.lavaHealAmount": "Обсяг лавового зцілення",
   "enigmaticlegacyplus.configuration.lifestealModifier": "Модифікатор викрадення життя",
   "enigmaticlegacyplus.configuration.resistanceProbability": "Імовірність спрацювання стійкости",
@@ -1179,7 +1179,7 @@
   "quote.horrible_existence_1": "Яке жахливе буття... Воскреснути з мертвих, тільки щоб бути вбитою знов.",
   "quote.horrible_existence_2": "Тобі, мабуть, справді не знайомо співчуття.",
 
-  "quote.countless_dead_1": "Незліченна кількість мертвих душ, об'єднаних в мерзоту такої жахливої форми, що вона не піддається опису.",
+  "quote.countless_dead_1": "Незліченна кількість мертвих душ, об’єднаних в мерзоту такої жахливої форми, що вона не піддається опису.",
   "quote.countless_dead_2": "Земля заплямована самою присутністю цієї мерзенної сутності.",
 
   "quote.with_dragons_1": "З неминучою загибеллю дракона це місце здається ще більш порожнім і безглуздим, ніж раніше.",
@@ -1191,7 +1191,7 @@
   "quote.terrifying_form_2": "На ній лежить прокляття, схоже на твоє. Прокляття безсмертя.",
 
   "quote.toll_paid_1": "Великою ціною, ти звільнишся від обтяжливого тягаря ненависті та печалі...",
-  "quote.toll_paid_2": "...ув'язнених у цьому персні.",
+  "quote.toll_paid_2": "...ув’язнених у цьому персні.",
 
   "book.enigmaticlegacy.landing_text": "Перед вами лежить криниця великих знань, місце, де знаходяться деякі з найбільших таємниць цього світу, скрупульозно досліджені і ретельно каталогізовані.<br2/>У міру того, як ваша подорож продовжуватиметься і світ відкриватиметься перед вами, ви зможете повертатися до знань, зібраних на цих сторінках, і споглядати їх знову.",
 
@@ -1205,24 +1205,24 @@
   "book.enigmaticlegacy.entry.soul_loss.heading.1": "Кристал",
   "book.enigmaticlegacy.entry.soul_loss.page.1": "Кожна смерть має свої наслідки, але є одна, набагато більш значуща, ніж всі інші, з якими вам доводилося стикатися раніше.<br2/>Здається, що кожного разу, коли ви вмираєте в цьому світі, частина вашої душі відокремлюється від вас, залишаючись на місці вашої кончини. Вона не залишається безтілесною занадто довго, натомість швидко проявляється у фізичній",
   "book.enigmaticlegacy.entry.soul_loss.page.2": "реальності, у формі, відомій як Кристал душі. На щастя для вас, те, що ви є частиною цієї реальності, робить її менш вразливою, ніж інакше.<br2/> Кристали душі плавають у повітрі, невразливі і не реагують на будь-яку силу, що діє на них, адже є частиною напівбога,",
-  "book.enigmaticlegacy.entry.soul_loss.page.3": "душа якого може бути знищена лише чимось вищим за його природу. Навіть інші напівбоги не можуть сподіватися забрати або знищити ваші кристали.<br2/>З кожним втраченим фрагментом вашої душі, ваша життєва сила згасає, ви слабшаєте і вас легше вбити. Але варто вам наблизитися до свого Кристала душі, і втрачений фрагмент миттєво звільниться зі своєї кришталевої в'язниці, знову зливаючись з вашим єством.",
+  "book.enigmaticlegacy.entry.soul_loss.page.3": "душа якого може бути знищена лише чимось вищим за його природу. Навіть інші напівбоги не можуть сподіватися забрати або знищити ваші кристали.<br2/>З кожним втраченим фрагментом вашої душі, ваша життєва сила згасає, ви слабшаєте і вас легше вбити. Але варто вам наблизитися до свого Кристала душі, і втрачений фрагмент миттєво звільниться зі своєї кришталевої в’язниці, знову зливаючись з вашим єством.",
   "book.enigmaticlegacy.entry.soul_loss.page.4": "Сподіваємося, що навіть за найгірших обставин ви не втратите всі свої життєві сили. У міру того, як тканина вашої душі стоншується, вона стає все більш і більш стійкою до того, щоб бути розірваною на частини ще раз.<br2/>Можна з упевненістю припустити, що в якийсь момент ви не зможете втратити більше фрагментів своєї душі, скільки б разів ви не вмирали - хоча до того часу ви залишитеся в неймовірно вразливому стані до будь-якої фізичної загрози.",
 
   "book.enigmaticlegacy.entry.earth_heart.name": "Серце землі",
   "book.enigmaticlegacy.entry.earth_heart.heading.1": "Серце",
   "book.enigmaticlegacy.entry.earth_heart.heading.2": "Уламок",
-  "book.enigmaticlegacy.entry.earth_heart.page.1": "Подібно до того, як існує Серце моря, предмет, пов'язаний з природою безкрайніх океанів і морів, що вкривають поверхню Верхнього світу, існує Серце землі, що народилося в її скелястих глибинах і вбирає в себе частину їхньої первісної енергії. Його можна знайти в найглибших кімнатах і залах підземель глибоко під поверхнею Верхнього світу, загублених і забутих у задушливій темряві.",
+  "book.enigmaticlegacy.entry.earth_heart.page.1": "Подібно до того, як існує Серце моря, предмет, пов’язаний з природою безкрайніх океанів і морів, що вкривають поверхню Верхнього світу, існує Серце землі, що народилося в її скелястих глибинах і вбирає в себе частину їхньої первісної енергії. Його можна знайти в найглибших кімнатах і залах підземель глибоко під поверхнею Верхнього світу, загублених і забутих у задушливій темряві.",
   "book.enigmaticlegacy.entry.earth_heart.page.2": "Стихійна сила, яку містить це серце, схожа на ту, що зберігається в заклятих каменях, але, на відміну від останніх, вона не походить з первісного хаосу, що заклинав початок усіх світів, а народилася набагато пізніше, повільно конденсуючись у земній корі протягом багатьох геологічних епох.",
   "book.enigmaticlegacy.entry.earth_heart.page.3": "Отримана форма не приймає свого носія і не дозволяє безперешкодно вивільнити неочищену енергію, що зберігається всередині, але може слугувати основою для потужних реліквій, що потребують такої енергії, якщо її правильно використовувати.",
 
   "book.enigmaticlegacy.entry.infernal_cinder.name": "Пекельний попіл",
   "book.enigmaticlegacy.entry.infernal_cinder.heading.1": "Попіл",
-  "book.enigmaticlegacy.entry.infernal_cinder.page.1": "Палючі полум'я пекла залишили такий попіл розкиданим по всьому Незеру. Попіл досі випромінює свою лютість, шукаючи вихід для виплеску.<br2/>Ви здатні використовувати попіл для створення багатьох предметів, але очевидно, що всі вони трохи екстремальні та сповнені індивідуальності. Не ставтеся до них легковажно, якщо не можете впоратися з ними.",
+  "book.enigmaticlegacy.entry.infernal_cinder.page.1": "Палючі полум’я пекла залишили такий попіл розкиданим по всьому Незеру. Попіл досі випромінює свою лютість, шукаючи вихід для виплеску.<br2/>Ви здатні використовувати попіл для створення багатьох предметів, але очевидно, що всі вони трохи екстремальні та сповнені індивідуальності. Не ставтеся до них легковажно, якщо не можете впоратися з ними.",
   "book.enigmaticlegacy.entry.infernal_cinder.page.2": "Між тим, сумісність між попелом і прокляттями відмінна. Якщо ви несете одночасно кілька проклять, не соромтеся робити сміливі спроби, оскільки вони не підведуть.",
 
   "book.enigmaticlegacy.entry.ichor_droplet.name": "Крапля іхору",
   "book.enigmaticlegacy.entry.ichor_droplet.heading.1": "Іхор",
-  "book.enigmaticlegacy.entry.ichor_droplet.page.1": "Для цієї так званої «крові богів» ви нарешті знайшли стабільне джерело отримання, а саме полювання на верескливих ґастів, що літають у пеклі.<br2/>Сила прокляття активувала крихітну залишкову «божественність» у крові та сльозах гаста, дозволивши іхору знову з'явитися перед усіма.",
+  "book.enigmaticlegacy.entry.ichor_droplet.page.1": "Для цієї так званої «крові богів» ви нарешті знайшли стабільне джерело отримання, а саме полювання на верескливих ґастів, що літають у пеклі.<br2/>Сила прокляття активувала крихітну залишкову «божественність» у крові та сльозах гаста, дозволивши іхору знову з’явитися перед усіма.",
   "book.enigmaticlegacy.entry.ichor_droplet.page.2": "Однак не замислюйтесь, звідки насправді походить ця «божественність», оскільки це вже давно таємниця давнини. Для вас зараз все, про що потрібно думати, це як використовувати та розвивати цей несподіваний продукт. Наприклад, зварити кілька екстремальних зілль.",
 
   "book.enigmaticlegacy.entry.etherium.name": "Етерій",
@@ -1241,13 +1241,13 @@
 
   "book.enigmaticlegacy.entry.twisted_heart.name": "Спотворене серце",
   "book.enigmaticlegacy.entry.twisted_heart.page.1": "...отже, ви самі обрали собі таку долю. Ви напевно усвідомлювали, якого горя і жалю коштуватиме цей вибір багато разів на довгому шляху, але ви все одно зробили його. Чи знаєте ви хоча б чому?<br2/>Як би там не було, шляху назад немає - тільки вперед, у спробі використати силу великих проклять,",
-  "book.enigmaticlegacy.entry.twisted_heart.page.2": "з якими ви тепер пов'язані. Сподіваємося, ця місія не така складна, як може здатися, якщо ви зможете отримати доступ до необхідних інгредієнтів, адже самі прокляття ніби активно шукають нові способи поширювати ниточки своєї погані",
+  "book.enigmaticlegacy.entry.twisted_heart.page.2": "з якими ви тепер пов’язані. Сподіваємося, ця місія не така складна, як може здатися, якщо ви зможете отримати доступ до необхідних інгредієнтів, адже самі прокляття ніби активно шукають нові способи поширювати ниточки своєї погані",
   "book.enigmaticlegacy.entry.twisted_heart.page.3": "у навколишній світ - їм потрібна лише невелика допомога від вас.<br2/>Як тільки ви привласнили Серце землі, ви помітили, що воно резонує з темною силою персня, дещо збиваючи пульсації чистої енергії всередині нього. Сподіваємось, цей вплив не настільки сильний, щоб миттєво заплямувати серце, зробивши його непридатним для регулярного використання. Але з невеликою кількістю ретельно підібраних",
-  "book.enigmaticlegacy.entry.twisted_heart.page.4": "таємничих інгредієнтів і часткою вашої напівбожественної сили, ви можете посилити зв'язок між серцевиною серця і прокляттям, яке ви несете, дозволяючи останньому зіпсувати його і перетворити на щось зовсім інше.<br2/>Спотворене серце - продукт цього нечестивого ритуалу, артефакт, що втілює частину великого прокляття, темнішого і могутнішого, ніж те, що містилося в Серці землі раніше.",
+  "book.enigmaticlegacy.entry.twisted_heart.page.4": "таємничих інгредієнтів і часткою вашої напівбожественної сили, ви можете посилити зв’язок між серцевиною серця і прокляттям, яке ви несете, дозволяючи останньому зіпсувати його і перетворити на щось зовсім інше.<br2/>Спотворене серце - продукт цього нечестивого ритуалу, артефакт, що втілює частину великого прокляття, темнішого і могутнішого, ніж те, що містилося в Серці землі раніше.",
 
   "book.enigmaticlegacy.entry.evil_essence.name": "Мерзенна сутність",
   "book.enigmaticlegacy.entry.evil_essence.heading.1": "Сутність",
-  "book.enigmaticlegacy.entry.evil_essence.page.1": "Хоча зірка Незеру є ядром фізичної сутності Візера, ця субстанція є проявом чистої енергії його, здавалося б, незнищенної і вічної душі. Крихітна частка цієї енергії, але в твоїх руках вона має незмірний потенціал.<br2/>Здається, вона має дивний зв'язок з вашою власною проклятою істотою, і саме завдяки цьому взагалі ви змогли",
+  "book.enigmaticlegacy.entry.evil_essence.page.1": "Хоча зірка Незеру є ядром фізичної сутності Візера, ця субстанція є проявом чистої енергії його, здавалося б, незнищенної і вічної душі. Крихітна частка цієї енергії, але в твоїх руках вона має незмірний потенціал.<br2/>Здається, вона має дивний зв’язок з вашою власною проклятою істотою, і саме завдяки цьому взагалі ви змогли",
   "book.enigmaticlegacy.entry.evil_essence.page.2": "отримати цю сутність. Вона тягнеться до вас, коли ви наближаєтесь, ніби згинаючись від бажання вчепитися. Можливо, ви дозволите їй це зробити?... Ні, це була б дурна ідея.<br2/>Але одне не підлягає сумніву - ця матерія містить величезну кількість",
   "book.enigmaticlegacy.entry.evil_essence.page.3": "темної, спотвореної сили, яку ви, так сталося, здатні використати. Ви неодмінно знайдете, що з нею робити.",
 
@@ -1258,12 +1258,12 @@
   "book.enigmaticlegacy.entry.sacred_crystal.name": "Священний кристал",
   "book.enigmaticlegacy.entry.sacred_crystal.heading.1": "Кристал",
   "book.enigmaticlegacy.entry.sacred_crystal.page.1": "Розірвіть ці, здавалося б, священні творіння та захопіть ядра духів чистого іхору. Кристал наповнений силою, не схожою на жодну іншу, чистою та священною, але прокляття у вашому тілі, здається, не відштовхують його. <br2/>Дивний опір та ефекти відновлення духа чистого іхору були ідеально успадковані в цьому предметі, який",
-  "book.enigmaticlegacy.entry.sacred_crystal.page.2": "можна використовувати для створення деяких предметів захисту.<br2/>Однак цікавим є взаємозв'язок між прокляттям і властивою йому силою. Чи можна йому протистояти? Чи можна його повернути? Чи можна його замінити?...",
+  "book.enigmaticlegacy.entry.sacred_crystal.page.2": "можна використовувати для створення деяких предметів захисту.<br2/>Однак цікавим є взаємозв’язок між прокляттям і властивою йому силою. Чи можна йому протистояти? Чи можна його повернути? Чи можна його замінити?...",
 
   "book.enigmaticlegacy.entry.abyssal_heart.name": "Серце безодні",
   "book.enigmaticlegacy.entry.abyssal_heart.heading.1": "Серце",
   "book.enigmaticlegacy.entry.abyssal_heart.page.1": "Коли ця неземна мерзота вперше потрапила до ваших рук, непідвладна опису суміш почуттів заволоділа вашим розумом, серед яких знайшлося місце жаху і хвилюванню, захопленню і огиді. Погляд його самотнього ока дивився на вас з незбагненним наміром, але коли перша хвиля емоцій відступила - ви дійшли висновку,",
   "book.enigmaticlegacy.entry.abyssal_heart.page.2": "що він не становить для вас жодної загрози.<br2/>Втім, ви не знаєте, чим він є насправді і звідки він прийшов. Можливо, ваше нестерпне існування і намагання жити всупереч Семи Прокляттям помітила якась безіменна древня сила, і через ваше",
-  "book.enigmaticlegacy.entry.abyssal_heart.page.3": "проклятуще єство вона вирішила направити себе у світ. Можливо, це просто випадковість, збіг обставин у самій реальності, що дозволила з'явитися чомусь подібному. Можливо, це ваш хворий розум зачав цей жах у якійсь кошмарній гарячці, а з його розростанням - розтлінням прокльонів зумів проявити його у смертному царстві? <br2/>Можливо, краще ніколи не знати, бо деякі істини є набагато",
+  "book.enigmaticlegacy.entry.abyssal_heart.page.3": "проклятуще єство вона вирішила направити себе у світ. Можливо, це просто випадковість, збіг обставин у самій реальності, що дозволила з’явитися чомусь подібному. Можливо, це ваш хворий розум зачав цей жах у якійсь кошмарній гарячці, а з його розростанням - розтлінням прокльонів зумів проявити його у смертному царстві? <br2/>Можливо, краще ніколи не знати, бо деякі істини є набагато",
   "book.enigmaticlegacy.entry.abyssal_heart.page.4": "тривожнішими за все, що може вигадати людська уява.<br2/>Не зважаючи на це, тепер ви є законним власником цієї речі. І не мине багато часу, як ви зможете використати її якимось неймовірно жорстоким, жахаючим чином... Світ постраждає вдесятеро більше за всі страждання, які він заподіяв вам."
 }

@@ -6,7 +6,7 @@
   "armorstatues.dataSync.failure.outOfRange": "За межами досяжності",
   "armorstatues.dataSync.finished": "Завершено відправку даних стійки для обладунків, що стоять в черзі",
   "armorstatues.screen.vanillaTweaks.checkTarget": "Перевірити ціль стійки для обладунків",
-  "armorstatues.screen.vanillaTweaks.checkTarget.description": "Виділяє найближчу до гравця стійку для обладунків в межах трьох блоків, яку буде скориговано. Через те, як працюють пакети даних, конструктор не обов'язково є тією стійкою для обладунків, яка відкрила меню конструктора.",
+  "armorstatues.screen.vanillaTweaks.checkTarget.description": "Виділяє найближчу до гравця стійку для обладунків в межах трьох блоків, яку буде скориговано. Через те, як працюють пакети даних, конструктор не обов’язково є тією стійкою для обладунків, яка відкрила меню конструктора.",
   "armorstatues.screen.vanillaTweaks.lock": "Заблокувати",
   "armorstatues.screen.vanillaTweaks.lock.description": "Блокування стійки для обладунків запобігає її зміні за допомогою меню конструктора та вимикає взаємодію зі слотами спорядження.",
   "armorstatues.screen.vanillaTweaks.swapMainhandAndHead": "Обміняти руку та шолом",

@@ -36,13 +36,13 @@
   "bountiful.advancement.rush_order.desc": "Виконайте завдання менш ніж за хвилину",
 
   "bountiful.advancement.procrastinator.title": "Майстер прокрастинації",
-  "bountiful.advancement.procrastinator.desc": "Виконайте завдання за менш ніж п'ять секунд до його спливання",
+  "bountiful.advancement.procrastinator.desc": "Виконайте завдання за менш ніж п’ять секунд до його спливання",
 
   "bountiful.advancement.town_crier.title": "Міський глашатай",
   "bountiful.advancement.town_crier.desc": "Отримайте місію!",
 
 	"bountiful.advancement.printing_press.title": "Брошурування",
-	"bountiful.advancement.printing_press.desc": "Об'єднайте дві місії на ковадлі",
+	"bountiful.advancement.printing_press.desc": "Об’єднайте дві місії на ковадлі",
 
 	"bountiful.advancement.ninety_five_theses.title": "95 цейвох",
 	"bountiful.advancement.ninety_five_theses.desc": "Розмістіть по місії кожного типу на дошці оголошень",
@@ -53,7 +53,7 @@
   "bountiful.bounty": "Завдання",
 
   "bountiful.decree.armorer.name": "Обладунки",
-  "bountiful.decree.butcher.name": "М'ясник",
+  "bountiful.decree.butcher.name": "М’ясник",
   "bountiful.decree.chef.name": "Запаси шеф-кухаря",
   "bountiful.decree.cleric.name": "Запаси церковника",
   "bountiful.decree.farmer.name": "Фермерство",

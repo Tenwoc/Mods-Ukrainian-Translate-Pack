@@ -11,11 +11,11 @@
     "commands.thermoo.temperature.get.min.success": "%s може мати мінімальну температуру %d",
     "commands.thermoo.temperature.get.current.success": "Поточна температура %s становить %d",
     "commands.thermoo.temperature.add.success.single": "Додано температуру %d до %s (тепер %d)",
-    "commands.thermoo.temperature.add.success.multiple": "Додано температуру %d до %d об'єктів",
+    "commands.thermoo.temperature.add.success.multiple": "Додано температуру %d до %d об’єктів",
     "commands.thermoo.temperature.remove.success.single": "Видалено температуру %d з %s (тепер %d)",
-    "commands.thermoo.temperature.remove.success.multiple": "Вилучено температуру %d для %d об'єктів",
+    "commands.thermoo.temperature.remove.success.multiple": "Вилучено температуру %d для %d об’єктів",
     "commands.thermoo.temperature.set.success.single": "Встановити температуру %s на %d",
-    "commands.thermoo.temperature.set.success.multiple": "Встановити температуру об'єктів %s на %d",
+    "commands.thermoo.temperature.set.success.multiple": "Встановити температуру об’єктів %s на %d",
     "commands.thermoo.environment.printcontroller.success": "Контролер виведено у консоль",
 
     "commands.thermoo.environment.checktemperature.success": "Пасивна зміна температури у %s, %s, %s (%s) становить %d"

@@ -5,93 +5,93 @@ navigation:
   icon: fluix_glass_cable
   position: 110
 categories:
-- network infrastructure
+  - network infrastructure
 item_ids:
-- ae2:white_glass_cable
-- ae2:orange_glass_cable
-- ae2:magenta_glass_cable
-- ae2:light_blue_glass_cable
-- ae2:yellow_glass_cable
-- ae2:lime_glass_cable
-- ae2:pink_glass_cable
-- ae2:gray_glass_cable
-- ae2:light_gray_glass_cable
-- ae2:cyan_glass_cable
-- ae2:purple_glass_cable
-- ae2:blue_glass_cable
-- ae2:brown_glass_cable
-- ae2:green_glass_cable
-- ae2:red_glass_cable
-- ae2:black_glass_cable
-- ae2:fluix_glass_cable
-- ae2:white_covered_cable
-- ae2:orange_covered_cable
-- ae2:magenta_covered_cable
-- ae2:light_blue_covered_cable
-- ae2:yellow_covered_cable
-- ae2:lime_covered_cable
-- ae2:pink_covered_cable
-- ae2:gray_covered_cable
-- ae2:light_gray_covered_cable
-- ae2:cyan_covered_cable
-- ae2:purple_covered_cable
-- ae2:blue_covered_cable
-- ae2:brown_covered_cable
-- ae2:green_covered_cable
-- ae2:red_covered_cable
-- ae2:black_covered_cable
-- ae2:fluix_covered_cable
-- ae2:white_covered_dense_cable
-- ae2:orange_covered_dense_cable
-- ae2:magenta_covered_dense_cable
-- ae2:light_blue_covered_dense_cable
-- ae2:yellow_covered_dense_cable
-- ae2:lime_covered_dense_cable
-- ae2:pink_covered_dense_cable
-- ae2:gray_covered_dense_cable
-- ae2:light_gray_covered_dense_cable
-- ae2:cyan_covered_dense_cable
-- ae2:purple_covered_dense_cable
-- ae2:blue_covered_dense_cable
-- ae2:brown_covered_dense_cable
-- ae2:green_covered_dense_cable
-- ae2:red_covered_dense_cable
-- ae2:black_covered_dense_cable
-- ae2:fluix_covered_dense_cable
-- ae2:white_smart_cable
-- ae2:orange_smart_cable
-- ae2:magenta_smart_cable
-- ae2:light_blue_smart_cable
-- ae2:yellow_smart_cable
-- ae2:lime_smart_cable
-- ae2:pink_smart_cable
-- ae2:gray_smart_cable
-- ae2:light_gray_smart_cable
-- ae2:cyan_smart_cable
-- ae2:purple_smart_cable
-- ae2:blue_smart_cable
-- ae2:brown_smart_cable
-- ae2:green_smart_cable
-- ae2:red_smart_cable
-- ae2:black_smart_cable
-- ae2:fluix_smart_cable
-- ae2:white_smart_dense_cable
-- ae2:orange_smart_dense_cable
-- ae2:magenta_smart_dense_cable
-- ae2:light_blue_smart_dense_cable
-- ae2:yellow_smart_dense_cable
-- ae2:lime_smart_dense_cable
-- ae2:pink_smart_dense_cable
-- ae2:gray_smart_dense_cable
-- ae2:light_gray_smart_dense_cable
-- ae2:cyan_smart_dense_cable
-- ae2:purple_smart_dense_cable
-- ae2:blue_smart_dense_cable
-- ae2:brown_smart_dense_cable
-- ae2:green_smart_dense_cable
-- ae2:red_smart_dense_cable
-- ae2:black_smart_dense_cable
-- ae2:fluix_smart_dense_cable
+  - ae2:white_glass_cable
+  - ae2:orange_glass_cable
+  - ae2:magenta_glass_cable
+  - ae2:light_blue_glass_cable
+  - ae2:yellow_glass_cable
+  - ae2:lime_glass_cable
+  - ae2:pink_glass_cable
+  - ae2:gray_glass_cable
+  - ae2:light_gray_glass_cable
+  - ae2:cyan_glass_cable
+  - ae2:purple_glass_cable
+  - ae2:blue_glass_cable
+  - ae2:brown_glass_cable
+  - ae2:green_glass_cable
+  - ae2:red_glass_cable
+  - ae2:black_glass_cable
+  - ae2:fluix_glass_cable
+  - ae2:white_covered_cable
+  - ae2:orange_covered_cable
+  - ae2:magenta_covered_cable
+  - ae2:light_blue_covered_cable
+  - ae2:yellow_covered_cable
+  - ae2:lime_covered_cable
+  - ae2:pink_covered_cable
+  - ae2:gray_covered_cable
+  - ae2:light_gray_covered_cable
+  - ae2:cyan_covered_cable
+  - ae2:purple_covered_cable
+  - ae2:blue_covered_cable
+  - ae2:brown_covered_cable
+  - ae2:green_covered_cable
+  - ae2:red_covered_cable
+  - ae2:black_covered_cable
+  - ae2:fluix_covered_cable
+  - ae2:white_covered_dense_cable
+  - ae2:orange_covered_dense_cable
+  - ae2:magenta_covered_dense_cable
+  - ae2:light_blue_covered_dense_cable
+  - ae2:yellow_covered_dense_cable
+  - ae2:lime_covered_dense_cable
+  - ae2:pink_covered_dense_cable
+  - ae2:gray_covered_dense_cable
+  - ae2:light_gray_covered_dense_cable
+  - ae2:cyan_covered_dense_cable
+  - ae2:purple_covered_dense_cable
+  - ae2:blue_covered_dense_cable
+  - ae2:brown_covered_dense_cable
+  - ae2:green_covered_dense_cable
+  - ae2:red_covered_dense_cable
+  - ae2:black_covered_dense_cable
+  - ae2:fluix_covered_dense_cable
+  - ae2:white_smart_cable
+  - ae2:orange_smart_cable
+  - ae2:magenta_smart_cable
+  - ae2:light_blue_smart_cable
+  - ae2:yellow_smart_cable
+  - ae2:lime_smart_cable
+  - ae2:pink_smart_cable
+  - ae2:gray_smart_cable
+  - ae2:light_gray_smart_cable
+  - ae2:cyan_smart_cable
+  - ae2:purple_smart_cable
+  - ae2:blue_smart_cable
+  - ae2:brown_smart_cable
+  - ae2:green_smart_cable
+  - ae2:red_smart_cable
+  - ae2:black_smart_cable
+  - ae2:fluix_smart_cable
+  - ae2:white_smart_dense_cable
+  - ae2:orange_smart_dense_cable
+  - ae2:magenta_smart_dense_cable
+  - ae2:light_blue_smart_dense_cable
+  - ae2:yellow_smart_dense_cable
+  - ae2:lime_smart_dense_cable
+  - ae2:pink_smart_dense_cable
+  - ae2:gray_smart_dense_cable
+  - ae2:light_gray_smart_dense_cable
+  - ae2:cyan_smart_dense_cable
+  - ae2:purple_smart_dense_cable
+  - ae2:blue_smart_dense_cable
+  - ae2:brown_smart_dense_cable
+  - ae2:green_smart_dense_cable
+  - ae2:red_smart_dense_cable
+  - ae2:black_smart_dense_cable
+  - ae2:fluix_smart_dense_cable
 ---
 
 # Кабелі
@@ -103,7 +103,7 @@ item_ids:
 
 Хоча МЕ мережі також створюються суміжними МЕ-сумісними машинами, кабелі є основним способом розширення МЕ мережі на більші площі.
 
-Можна використовувати кабелі різних кольорів, щоб суміжні кабелі не були з'єднані один з одним, що дозволяє ефективніше розподіляти [канали](../ae2-mechanics/channels.md). Вони також впливають на колір підключених до них компонентів, і таким чином ви зможете всюди мати не тільки фіолетові компоненти. Флюїксові кабелі можуть з'єднуватися з усіма іншими забарвленими кабелями.
+Можна використовувати кабелі різних кольорів, щоб суміжні кабелі не були з’єднані один з одним, що дозволяє ефективніше розподіляти [канали](../ae2-mechanics/channels.md). Вони також впливають на колір підключених до них компонентів, і таким чином ви зможете всюди мати не тільки фіолетові компоненти. Флюїксові кабелі можуть з’єднуватися з усіма іншими забарвленими кабелями.
 
 Зверніть увагу, **КОЛЬОРИ КАБЕЛІВ НІЯК НЕ ВПЛИВАЮТЬ НА КАНАЛИ**
 
@@ -113,7 +113,7 @@ item_ids:
 
 ## Ще одне зауваження
 
-**Це не труби для предметів, рідин, енергії, чи щось інше.** Вони не мають внутрішнього інвентарю, постачальники шаблонів та машини не передають предмети в них напряму; все, що вони роблять, це з'єднують [пристрої](../ae2-mechanics/devices.md) AE2 разом у мережу.
+**Це не труби для предметів, рідин, енергії, чи щось інше.** Вони не мають внутрішнього інвентарю, постачальники шаблонів та машини не передають предмети в них напряму; все, що вони роблять, це з’єднують [пристрої](../ae2-mechanics/devices.md) AE2 разом у мережу.
 
 ## Скляний кабель
 

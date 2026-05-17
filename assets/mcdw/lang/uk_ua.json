@@ -283,7 +283,7 @@
   "tooltip_info_item.mcdw.great_axeblade_1": "Вдалий коваль перетворив",
   "tooltip_info_item.mcdw.great_axeblade_2": "невдачу в майстерні",
   "tooltip_info_item.mcdw.great_axeblade_3": "на диво на полі бою,",
-  "tooltip_info_item.mcdw.great_axeblade_4": "з'єднавши дві зброї",
+  "tooltip_info_item.mcdw.great_axeblade_4": "з’єднавши дві зброї",
   "tooltip_info_item.mcdw.great_axeblade_5": "в щось нове",
   
   "tooltip_info_item.mcdw.heartstealer_1": "Подарований одному з",
@@ -315,14 +315,14 @@
   "tooltip_info_item.mcdw.katana_3": "створено для нанесення точної шкоди.",
   
   "tooltip_info_item.mcdw.masters_katana_1": "Катана Майстра існувала ",
-  "tooltip_info_item.mcdw.masters_katana_2": "протягом століть, з'являючись ",
+  "tooltip_info_item.mcdw.masters_katana_2": "протягом століть, з’являючись ",
   "tooltip_info_item.mcdw.masters_katana_3": "героям у потрібний момент.",
   
   "tooltip_info_item.mcdw.dark_katana_1": "Клинок, який не заспокоїться,",
   "tooltip_info_item.mcdw.dark_katana_2": "доки битва не буде виграна.",
   
   "tooltip_info_item.mcdw.rapier_1": "Рапіра, спритний та вузький",
-  "tooltip_info_item.mcdw.rapier_2": "клинок, що б'є зі лютою швидкою.",
+  "tooltip_info_item.mcdw.rapier_2": "клинок, що б’є зі лютою швидкою.",
   
   "tooltip_info_item.mcdw.beestinger_1": "Бджолиний клинок - стрімкий клинок.,",
   "tooltip_info_item.mcdw.beestinger_2": "натхненний бджолиним жалом, може ",
@@ -487,7 +487,7 @@
   "tooltip_info_item.mcdw.stormlander_3": "є скарбом вигнанців.",
   
   "tooltip_info_item.mcdw.boneclub_1": "Ті, хто володіють Кістяною палицею, віддають перевагу менш",
-  "tooltip_info_item.mcdw.boneclub_2": "тонкому підходу до розв'язання проблем.",
+  "tooltip_info_item.mcdw.boneclub_2": "тонкому підходу до розв’язання проблем.",
   
   "tooltip_info_item.mcdw.bone_cudgel_1": "Кістяному кистеню настільки багато років, що",
   "tooltip_info_item.mcdw.bone_cudgel_2": "його можна вважати стародавнім скарбом, але",
@@ -578,7 +578,7 @@
   "tooltip_info_item.mcdw.elite_power_bow_2": "Конструкція лука була ",
   "tooltip_info_item.mcdw.elite_power_bow_3": "втрачена безслідно.",
   
-  "tooltip_info_item.mcdw.guardian_bow_1": "Викуваний зі скам'янілих коралів,",
+  "tooltip_info_item.mcdw.guardian_bow_1": "Викуваний зі скам’янілих коралів,",
   "tooltip_info_item.mcdw.guardian_bow_2": "Лук Вартового є залишком",
   "tooltip_info_item.mcdw.guardian_bow_3": "затонулих цивілізацій втрачених епох.",
   
@@ -587,12 +587,12 @@
   "tooltip_info_item.mcdw.haunted_bow_3": "тягнуться до непізнаної Порожнечі.",
   
   "tooltip_info_item.mcdw.hunters_promise_1": "Цей зачарований лук поглиблює",
-  "tooltip_info_item.mcdw.hunters_promise_2": "зв'язок між мисливцем",
+  "tooltip_info_item.mcdw.hunters_promise_2": "зв’язок між мисливцем",
   "tooltip_info_item.mcdw.hunters_promise_3": "і його вірним другом-звіром.",
   "tooltip_ench_item.mcdw.hunters_promise_1": "Супутник мисливця",
 
   "tooltip_info_item.mcdw.hunting_bow_1": "Цей зачарований лук поглиблює",
-  "tooltip_info_item.mcdw.hunting_bow_2": "зв'язок між мисливцем",
+  "tooltip_info_item.mcdw.hunting_bow_2": "зв’язок між мисливцем",
   "tooltip_info_item.mcdw.hunting_bow_3": "і його вірним другом-звіром.",
   
   "tooltip_info_item.mcdw.longbow_1": "Довгий лук, хоч і створений",
@@ -611,7 +611,7 @@
   "tooltip_info_item.mcdw.mechanical_shortbow_2": "технології швидкої стрільби,",
   "tooltip_info_item.mcdw.mechanical_shortbow_3": "цей лук здатен нанести швидкий удар.",
   
-  "tooltip_info_item.mcdw.nocturnal_bow_1": "Душі, прив'язані до лука,",
+  "tooltip_info_item.mcdw.nocturnal_bow_1": "Душі, прив’язані до лука,",
   "tooltip_info_item.mcdw.nocturnal_bow_2": "направляють стріли в ціль",
   "tooltip_info_item.mcdw.nocturnal_bow_3": "і змушують його злегка світитися.",
   
@@ -708,7 +708,7 @@
   "tooltip_info_item.mcdw.phantom_bow_1": "Стріли, що злітають із",
   "tooltip_info_item.mcdw.phantom_bow_2": "Фантомного лука, обрушуються",
   "tooltip_info_item.mcdw.phantom_bow_3": "на ваших ворогів, як кошмарний",
-  "tooltip_info_item.mcdw.phantom_bow_4": "привид, що дав луку ім'я.",
+  "tooltip_info_item.mcdw.phantom_bow_4": "привид, що дав луку ім’я.",
   
   "tooltip_info_item.mcdw.web_bow_1": "Виготовлений з павутини",
   "tooltip_info_item.mcdw.web_bow_2": "могутніх павуків, Павутинний лук",
@@ -839,16 +839,16 @@
   
   "enchantment.mcdw.accelerate.desc": "Збільшує швидкість атаки за кожен наступний постріл. Скидається через три секунди після атаки.",
   "enchantment.mcdw.ambush.desc": "Завдає додаткової шкоди під час присідання і невидимості.",
-  "enchantment.mcdw.anima_conduit.desc": "Кожна кулька досвіду відновлює невелику кількість здоров'я.",
+  "enchantment.mcdw.anima_conduit.desc": "Кожна кулька досвіду відновлює невелику кількість здоров’я.",
   "enchantment.mcdw.bonus_shot.desc": "Робить додатковий постріл по вторинній цілі.",
   "enchantment.mcdw.burst_bowstring.desc": "Стріляє по найближчих мобах, коли ви стрибаєте, витрачаючи по одній стрілі за стрибок на рівень. Снаряди завдають 40% шкоди від стріли.",
   "enchantment.mcdw.chain_reaction.desc": "Шанс вистрілити додаткові снаряди з цілі, ураженої стрілою.",
   "enchantment.mcdw.chains.desc": "Шанс притягнути мобів разом і уповільнити їх.",
   "enchantment.mcdw.charge.desc": "Шанс отримати ефект швидкости під час атаки ворога.",
   "enchantment.mcdw.cobweb_shot.desc": "Покриває ворога або блок павутиною, коли ваша стріла влучає в ціль.",
-  "enchantment.mcdw.committed.desc": "Шанс завдати шкоди, що залежить від здоров'я цілі.",
+  "enchantment.mcdw.committed.desc": "Шанс завдати шкоди, що залежить від здоров’я цілі.",
   "enchantment.mcdw.critical_hit.desc": "Шанс завдати критичного удару без стрибка.",
-  "enchantment.mcdw.dipping_poison.desc": "Дає 8 отруєних стріл під час пиття зілля здоров'я.",
+  "enchantment.mcdw.dipping_poison.desc": "Дає 8 отруєних стріл під час пиття зілля здоров’я.",
   "enchantment.mcdw.dynamo.desc": "Збільшує шкоду від наступної атаки після стрибка. Ефект може накопичуватися до 20 разів.",
   "enchantment.mcdw.echo.desc": "Шанс завдати звукової шкоди по площі в радіусі 3 блоків.",
   "enchantment.mcdw.enigma_resonator.desc": "Завдає шкоди, що залежить від кількості досвіду користувача.",
@@ -860,7 +860,7 @@
   "enchantment.mcdw.guarding_strike.desc": "Дає ефект стійкості за вбивство мобів.",
   "enchantment.mcdw.illagers_bane.desc": "Завдає додаткової шкоди розбійникам.",
   "enchantment.mcdw.jungle_poison.desc": "Шанс отруїти ціль.",
-  "enchantment.mcdw.leeching.desc": "Лікує пропорційно максимальному здоров'ю цілі після її смерті.",
+  "enchantment.mcdw.leeching.desc": "Лікує пропорційно максимальному здоров’ю цілі після її смерті.",
   "enchantment.mcdw.levitation_shot.desc": "Ваші стріли мають ефект левітації, як від кулі шалкера.",
   "enchantment.mcdw.overcharge.desc": "Продовжуйте утримувати кнопку дальньої атаки, щоб вдвічі, втричі або вчетверо зарядити лук, збільшуючи його шкоду щоразу.",
   "enchantment.mcdw.pain_cycle.desc": "Атаки виснажують ваше життя, щоб надати одне накопичення Циклу Болю. Із 5 накопиченнями ваш біль перенаправляється в наступну атаку.",
@@ -870,8 +870,8 @@
   "enchantment.mcdw.radiance.desc": "Шанс створити хмару зцілення навколо цілі.",
   "enchantment.mcdw.radiance_shot.desc": "Шанс створити хмару зцілення навколо цілі, ураженої стрілою.",
   "enchantment.mcdw.rampaging.desc": "Шанс отримати прискорення, що накопичується під час убивства.",
-  "enchantment.mcdw.refreshment.desc": "Заповнює порожні пляшки зіллям здоров'я при вбивстві холодною зброєю.",
-  "enchantment.mcdw.refreshment_shot.desc": "Заповнює порожні пляшки зіллям здоров'я при вбивстві дальньою зброєю.",
+  "enchantment.mcdw.refreshment.desc": "Заповнює порожні пляшки зіллям здоров’я при вбивстві холодною зброєю.",
+  "enchantment.mcdw.refreshment_shot.desc": "Заповнює порожні пляшки зіллям здоров’я при вбивстві дальньою зброєю.",
   "enchantment.mcdw.replenish.desc": "Шанс відновити стрілу при пострілі.",
   "enchantment.mcdw.ricochet.desc": "Стріла відскакує від цілі до цілі.",
   "enchantment.mcdw.rushdown.desc": "Шанс отримати прискорення, що накопичується, при вбивстві.",

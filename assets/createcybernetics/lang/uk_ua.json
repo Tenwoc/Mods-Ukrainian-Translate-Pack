@@ -24,7 +24,7 @@
   "gui.engineeringtable.title": "Інженерний стіл",
   "gui.createcybernetics.grafting_table.title": "Стіл щеплень",
   "gui.armcannon.title": "Ручна гармата",
-  "gui.spinalinjector.title": "Спінальний ін'єктор",
+  "gui.spinalinjector.title": "Спінальний ін’єктор",
   "gui.heatengine.title": "Тепловий двигун",
   "gui.chipwarecreative.title": "Творчі слоти нейрочипів",
   "gui.infolog.title": "Інфожурнал",
@@ -82,7 +82,7 @@
   "item.createcybernetics.datura_seed_pod": "Насіннєва коробочка дурману",
 
   "item.createcybernetics.frontal_lobe": "Лобова частка",
-  "item.createcybernetics.parietal_lobe": "Тім'яна частка",
+  "item.createcybernetics.parietal_lobe": "Тім’яна частка",
   "item.createcybernetics.occipital_lobe": "Потилична частка",
   "item.createcybernetics.temporal_lobe": "Скронева частка",
   "item.createcybernetics.cerebellum": "Мозочок",
@@ -189,7 +189,7 @@
   "item.createcybernetics.bodypart_lungs": "Легені",
   "item.createcybernetics.bodypart_liver": "Печінка",
   "item.createcybernetics.bodypart_intestines": "Кишківник",
-  "item.createcybernetics.bodypart_muscle": "М'язова тканина",
+  "item.createcybernetics.bodypart_muscle": "М’язова тканина",
   "item.createcybernetics.bodypart_skin": "Шкірна тканина",
 
   "item.createcybernetics.bodypart_guardianretina": "Сітківка вартового",
@@ -208,7 +208,7 @@
   "item.createcybernetics.bodypart_sculkbrain": "Скалкований мозок",
   "item.createcybernetics.bodypart_sculkliver": "Скалкована печінка",
   "item.createcybernetics.bodypart_sculkintestines": "Скалкований кишківник",
-  "item.createcybernetics.bodypart_sculkmuscle": "Скалкові м'язи",
+  "item.createcybernetics.bodypart_sculkmuscle": "Скалкові м’язи",
   "item.createcybernetics.bodypart_sculkskin": "Скалкована шкіра",
 
 
@@ -250,7 +250,7 @@
   "item.createcybernetics.armupgrades_crafthands": "Майструвальні маніпулятори",
   "item.createcybernetics.armupgrades_drillfist": "Бурокулак",
   "item.createcybernetics.armupgrades_firestarter": "Запальник",
-  "item.createcybernetics.armupgrades_pneumaticwrist": "Пневматичне зап'ястя",
+  "item.createcybernetics.armupgrades_pneumaticwrist": "Пневматичне зап’ястя",
   "item.createcybernetics.armupgrades_reinforcedknuckles": "Посилені кісточки",
 
   "item.createcybernetics.legupgrades_metaldetector": "Металодетектор",
@@ -264,8 +264,8 @@
   "item.createcybernetics.boneupgrades_boneflex": "Цитратне підсилення",
   "item.createcybernetics.boneupgrades_bonelacing": "Кісткове армування",
   "item.createcybernetics.boneupgrades_elytra": "Розгортні елітри",
-  "item.createcybernetics.boneupgrades_piezo": "П'єзоелектричний генератор енергії",
-  "item.createcybernetics.boneupgrades_spinalinjector": "Спінальний ін'єктор",
+  "item.createcybernetics.boneupgrades_piezo": "П’єзоелектричний генератор енергії",
+  "item.createcybernetics.boneupgrades_spinalinjector": "Спінальний ін’єктор",
   "item.createcybernetics.boneupgrades_sandevistan": "Сандевістан",
   "item.createcybernetics.boneupgrades_cyberskull": "Титановий череп",
 
@@ -316,7 +316,7 @@
   "item.createcybernetics.skinupgrades_metalplating": "Металеве бронювання",
   "item.createcybernetics.skinupgrades_manaskin": "Мана-асимілятор",
 
-  "item.createcybernetics.muscleupgrades_synthmuscle": "Міомерні м'язи",
+  "item.createcybernetics.muscleupgrades_synthmuscle": "Міомерні м’язи",
   "item.createcybernetics.muscleupgrades_wiredreflexes": "Провідні рефлекси",
 
   "item.createcybernetics.wetware_blubber": "Жир полярного ведмедя",
@@ -359,7 +359,7 @@
   "item.createcybernetics.scavenged_crafthands": "Майструвальні маніпулятори",
   "item.createcybernetics.scavenged_drillfist": "Бурокулак",
   "item.createcybernetics.scavenged_firestarter": "Запальник",
-  "item.createcybernetics.scavenged_pneumaticwrist": "Пневматичне зап'ястя",
+  "item.createcybernetics.scavenged_pneumaticwrist": "Пневматичне зап’ястя",
   "item.createcybernetics.scavenged_reinforcedknuckles": "Посилені кісточки",
   "item.createcybernetics.scavenged_metaldetector": "Металодетектор",
   "item.createcybernetics.scavenged_anklebracers": "Гомілкові фіксатори",
@@ -371,8 +371,8 @@
   "item.createcybernetics.scavenged_boneflex": "Цитратне підсилення",
   "item.createcybernetics.scavenged_bonelacing": "Кісткове армування",
   "item.createcybernetics.scavenged_elytra": "Розгортні елітри",
-  "item.createcybernetics.scavenged_piezo": "П'єзоелектричний генератор енергії",
-  "item.createcybernetics.scavenged_spinalinjector": "Спінальний ін'єктор",
+  "item.createcybernetics.scavenged_piezo": "П’єзоелектричний генератор енергії",
+  "item.createcybernetics.scavenged_spinalinjector": "Спінальний ін’єктор",
   "item.createcybernetics.scavenged_sandevistan": "Сандевістан",
   "item.createcybernetics.scavenged_eyeofdefender": "Око захисника",
   "item.createcybernetics.scavenged_consciousnesstransmitter": "Голкотрансмітер",
@@ -410,7 +410,7 @@
   "item.createcybernetics.scavenged_syntheticsetules": "Синтетичні щетинки",
   "item.createcybernetics.scavenged_sweat": "Покращені потові залози",
   "item.createcybernetics.scavenged_metalplating": "Металеве бронювання",
-  "item.createcybernetics.scavenged_synthmuscle": "Синтетичні м'язи",
+  "item.createcybernetics.scavenged_synthmuscle": "Синтетичні м’язи",
   "item.createcybernetics.scavenged_wiredreflexes": "Провідні рефлекси",
 
 
@@ -453,7 +453,7 @@
 
   "key.categories.createcybernetics": "Create Cybernetics",
   "key.createcybernetics.cyberware_wheel": "Відкрити радіальне меню перемикача",
-  "key.createcybernetics.spinal_injector": "Відкрити спінальний ін'єктор",
+  "key.createcybernetics.spinal_injector": "Відкрити спінальний ін’єктор",
   "key.createcybernetics.arm_cannon": "Відкрити ручну гармату",
   "key.createcybernetics.arm_cannon_wheel": "Відкрити радіальне меню гармати руки",
   "key.createcybernetics.heat_engine": "Відкрити тепловий двигун",
@@ -494,8 +494,8 @@
   "advancement.lungs_removed.desc": "Втратьте легені",
   "advancement.boneless": "Дай волю собі внутрішньому...",
   "advancement.boneless.desc": "Втратьте скелет",
-  "advancement.missing_muscle": "Я не маю м'язів, але мушу качати",
-  "advancement.missing_muscle.desc": "Втратьте м'язи",
+  "advancement.missing_muscle": "Я не маю м’язів, але мушу качати",
+  "advancement.missing_muscle.desc": "Втратьте м’язи",
   "advancement.missing_limbs": "Це плотська рана",
   "advancement.missing_limbs.desc": "Втратьте кінцівки",
   "advancement.david_special": "Трюк Девіда Мартінеса",
@@ -540,7 +540,7 @@
   "death.attack.createcybernetics.boneless": "%1$s відтепер безхребетний... чи все ще?",
   "death.attack.createcybernetics.boneless.player": "%1$s не завжди був безхребетним, але %2$s доброчинно йому допоміг.",
   "death.attack.createcybernetics.missing_muscle": "%1$s тепер шкіра та кістки.",
-  "death.attack.createcybernetics.missing_muscle.player": "%1$s не послухався %2$s та втратив м'язи.",
+  "death.attack.createcybernetics.missing_muscle.player": "%1$s не послухався %2$s та втратив м’язи.",
 
   "death.attack.createcybernetics.davids_demise": "%1$s довів тіло до межі зі своїм сандевістаном.",
   "death.attack.createcybernetics.davids_demise.player": "%1$s був розірваний %2$s, намагаючись утекти зі своїм сандевістаном.",
@@ -548,11 +548,11 @@
 
   "enchantment.createcybernetics.harvester": "Жнець",
 
-  "item.createcybernetics.neuropozyne_autoinjector": "Автоін'єктор нейропозину",
+  "item.createcybernetics.neuropozyne_autoinjector": "Автоін’єктор нейропозину",
   "item.createcybernetics.neuropozyne_autoinjector.duration": "Нейропозин (20:00)",
-  "item.createcybernetics.neuropozyne_autoinjector.desc": "Ін'єкція подовжує тривалість до цілої доби",
+  "item.createcybernetics.neuropozyne_autoinjector.desc": "Ін’єкція подовжує тривалість до цілої доби",
 
-  "item.createcybernetics.empty_autoinjector": "Порожній автоін'єктор",
+  "item.createcybernetics.empty_autoinjector": "Порожній автоін’єктор",
 
   "item.minecraft.potion.effect.neuropozyne_potion": "Зілля нейропозину",
   "item.minecraft.splash_potion.effect.neuropozyne_potion": "Вибухове зілля нейропозину",
@@ -607,7 +607,7 @@
   "tooltip.createcybernetics.lungsupgrades_tooltip": "§9§lПОКРАЩЕННЯ ЛЕГЕНІВ",
   "tooltip.createcybernetics.organsupgrades_tooltip": "§9§lПОКРАЩЕННЯ ОРГАНІВ",
   "tooltip.createcybernetics.skinupgrades_tooltip": "§9§lПОКРАЩЕННЯ ШКІРИ",
-  "tooltip.createcybernetics.muscleupgrades_tooltip": "§9§lПОКРАЩЕННЯ М'ЯЗІВ",
+  "tooltip.createcybernetics.muscleupgrades_tooltip": "§9§lПОКРАЩЕННЯ М’ЯЗІВ",
   "tooltip.createcybernetics.wetwareupgrades_tooltip": "§4§lЖИВОТЕХНІЧНІ ПОКРАЩЕННЯ",
 
   "tooltip.createcybernetics.scavenged_tooltip": "§6§oСМІТТЯРСЬКИЙ ІМПЛАНТ",
@@ -644,7 +644,7 @@
   "tooltip.createcybernetics.eyeupgrades_underwatervision.tooltip1": "§1Покращує видимість під водою",
   "tooltip.createcybernetics.eyeupgrades_underwatervision.tooltip2": "§7Потрібно §9кіберочі",
   "tooltip.createcybernetics.eyeupgrades_underwatervision.energy": "Витрачає 3 енергії",
-  "tooltip.createcybernetics.eyeupgrades_zoom.tooltip1": "§1Дозволяє бачити об'єкти віддаль",
+  "tooltip.createcybernetics.eyeupgrades_zoom.tooltip1": "§1Дозволяє бачити об’єкти віддаль",
   "tooltip.createcybernetics.eyeupgrades_zoom.tooltip2": "§7Потрібні §9кіберочі",
   "tooltip.createcybernetics.eyeupgrades_zoom.energy": "Витрачає 2 енергії",
   "tooltip.createcybernetics.eyeupgrades_trajectorycalculator.tooltip1": "§1Показує прогнозовану траєкторію для снаряда в руці",
@@ -671,7 +671,7 @@
   "tooltip.createcybernetics.armupgrades_pneumaticwrist.tooltip1": "§1Додає відкидання до атак у блитжньому бою і +2 до досяжності до блоків",
   "tooltip.createcybernetics.armupgrades_pneumaticwrist.tooltip2": "§7Потрібна §9кіберрука",
   "tooltip.createcybernetics.armupgrades_pneumaticwrist.energy": "Витрачає 3 енергії",
-  "tooltip.createcybernetics.armupgrades_reinforcedknuckles.tooltip1": "§1Дозволяє добувати кам'яні блоки без інструмента",
+  "tooltip.createcybernetics.armupgrades_reinforcedknuckles.tooltip1": "§1Дозволяє добувати кам’яні блоки без інструмента",
   "tooltip.createcybernetics.armupgrades_reinforcedknuckles.tooltip2": "§7Потрібна §9кіберрука",
 
   "tooltip.createcybernetics.legupgrades_metaldetector.tooltip1": "§1Може виявляти магнетичні блоки на глибині до 15 блоків",
@@ -695,7 +695,7 @@
   "tooltip.createcybernetics.boneupgrades_bonebattery.energy": "Уміщує 120 тис енергії",
   "tooltip.createcybernetics.boneupgrades_boneflex.tooltip1": "§1Нівелює шкоду від падіння ще на +3 блоки за кожне накопичення",
   "tooltip.createcybernetics.boneupgrades_boneflex.tooltip2": "§3Накопичується до 3×",
-  "tooltip.createcybernetics.boneupgrades_bonelacing.tooltip1": "§1Додає 2 серця здоров'я за кожне накопичення",
+  "tooltip.createcybernetics.boneupgrades_bonelacing.tooltip1": "§1Додає 2 серця здоров’я за кожне накопичення",
   "tooltip.createcybernetics.boneupgrades_bonelacing.tooltip2": "§3Накопичується до 3×",
   "tooltip.createcybernetics.boneupgrades_elytra.tooltip1": "§1Зрощує елітри з хребтом",
   "tooltip.createcybernetics.boneupgrades_elytra.tooltip2": "§7Потрібен §9лінійний каркас",
@@ -750,7 +750,7 @@
   "tooltip.createcybernetics.heartupgrades_defibrillator.tooltip1": "§1Оживляє 1 раз",
   "tooltip.createcybernetics.heartupgrades_defibrillator.tooltip2": "§7Потрібно §cсерце",
   "tooltip.createcybernetics.heartupgrades_defibrillator.energy": "Витрачає 50 енергії",
-  "tooltip.createcybernetics.heartupgrades_stemcell.tooltip1": "§1Дає регенерацію, коли здоров'я падає нижче 5",
+  "tooltip.createcybernetics.heartupgrades_stemcell.tooltip1": "§1Дає регенерацію, коли здоров’я падає нижче 5",
   "tooltip.createcybernetics.heartupgrades_stemcell.energy": "Витрачає 5 енергії",
   "tooltip.createcybernetics.heartupgrades_platelets.tooltip1": "§1Дає пасивну регенерацію у спокої",
   "tooltip.createcybernetics.heartupgrades_platelets.energy": "Витрачає 5 енергії",
@@ -790,12 +790,12 @@
 
   "tooltip.createcybernetics.skinupgrades_arterialturbine.tooltip1": "§1Генерує енергію від руху",
   "tooltip.createcybernetics.skinupgrades_arterialturbine.tooltip2": "§3Накопичується до 4×",
-  "tooltip.createcybernetics.skinupgrades_arterialturbine.energy": "Відновлює 3/10/25/50 енергії кров'яного тиску",
+  "tooltip.createcybernetics.skinupgrades_arterialturbine.energy": "Відновлює 3/10/25/50 енергії кров’яного тиску",
   "tooltip.createcybernetics.skinupgrades_chromatophores.tooltip1": "§1Дозволяє ідеально маскуватися в будь-якому середовищі",
   "tooltip.createcybernetics.skinupgrades_chromatophores.energy": "Витрачає 7 енергії",
   "tooltip.createcybernetics.skinupgrades_synthskin.tooltip1": "§1Приховує §9кіберкінцівки",
   "tooltip.createcybernetics.skinupgrades_immuno.tooltip1": "§1Зменшує відторгнення, але робить вразливим до негативних ефектів",
-  "tooltip.createcybernetics.skinupgrades_faceplate.tooltip1": "§1Дозволяє змінювати «обличчя», щоб міняти відображуване ім'я",
+  "tooltip.createcybernetics.skinupgrades_faceplate.tooltip1": "§1Дозволяє змінювати «обличчя», щоб міняти відображуване ім’я",
   "tooltip.createcybernetics.skinupgrades_netheriteplating.tooltip1": "§1Надає імунітет до вогню та лави",
   "tooltip.createcybernetics.skinupgrades_solarskin.tooltip1": "§1Генерує енергію на сонці",
       "tooltip.createcybernetics.skinupgrades_solarskin.tooltip2": "§3Накопичується до 3×",

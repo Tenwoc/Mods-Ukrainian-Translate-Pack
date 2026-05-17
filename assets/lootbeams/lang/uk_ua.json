@@ -44,10 +44,10 @@
   "lootbeams.config.item.onlyEquipment.description": "Чи повинні промені відображатися тільки на обладунках.\n (Сюди входять: Мечі, Інструменти, Броня, Щити, Луки, Арбалети, Тризуби, Стріли, і Вудки)",
 
   "lootbeams.config.item.whitelist": "Білий список",
-  "lootbeams.config.item.whitelist.description": "Ім'я в регістрі предметів, на яких будуть промені завжди.\n Наприклад: \"minecraft:stone\", \"minecraft:iron_ingot\", \nМожна так само вказати Mod Id для включення всіх предметів з мода.",
+  "lootbeams.config.item.whitelist.description": "Ім’я в регістрі предметів, на яких будуть промені завжди.\n Наприклад: \"minecraft:stone\", \"minecraft:iron_ingot\", \nМожна так само вказати Mod Id для включення всіх предметів з мода.",
 
   "lootbeams.config.item.blacklist": "Чорний список",
-  "lootbeams.config.item.blacklist.description": "Ім'я в Регістрі предметів, на яких будуть промені, НЕ БУДЕ НІКОЛИ. Володіє пріоритетом взагалі на все.\nМожна так само вказати Mod Id для включення всіх предметів з мода.",
+  "lootbeams.config.item.blacklist.description": "Ім’я в Регістрі предметів, на яких будуть промені, НЕ БУДЕ НІКОЛИ. Володіє пріоритетом взагалі на все.\nМожна так само вказати Mod Id для включення всіх предметів з мода.",
 
 
   "lootbeams.config.nametags": "Теги Предметів",
@@ -59,7 +59,7 @@
   "lootbeams.config.nametags.render.description": "Відповідає за те, чи варто їх відмальовувати.",
 
   "lootbeams.config.nametags.renderOnlook": "Відображати Теги під час погляду",
-  "lootbeams.config.nametags.renderOnlook.description": "У разі ввімкнення теги з'являтимуться тільки під час наведення на предмет.",
+  "lootbeams.config.nametags.renderOnlook.description": "У разі ввімкнення теги з’являтимуться тільки під час наведення на предмет.",
 
   "lootbeams.config.nametags.renderStackCount": "Відображати Кількість",
   "lootbeams.config.nametags.renderStackCount.description": "Відображає кількість викинутого предмета в Тезі.",
@@ -86,7 +86,7 @@
   "lootbeams.config.nametags.rarities.description": "Можна вказати, які рідкості повинні відображатися. \nExample: \"Екзотичний\", \"Стародавній\". \nЦі рядки повинні бути другим рядком у предмета при наведенні в інвентарі. \nВ основному використовується в модпаках.",
 
   "lootbeams.config.nametags.alwaysDrawRarities": "Відображати рідкості",
-  "lootbeams.config.nametags.alwaysDrawRarities.description": "Можна вказати предмети, на яких рідкості повинні відображатися завжди. \nНаприклад: \"#minecraft:music_discs\" відображатиме маленьким тегом автори та ім'я треку. \nЗверніть увагу, що цей текст є тільки другим рядком лінії під ім'ям предмета, тож це не спрацює з відображенням усіх зачарувань. (але 1 зачарування виглядає добре)",
+  "lootbeams.config.nametags.alwaysDrawRarities.description": "Можна вказати предмети, на яких рідкості повинні відображатися завжди. \nНаприклад: \"#minecraft:music_discs\" відображатиме маленьким тегом автори та ім’я треку. \nЗверніть увагу, що цей текст є тільки другим рядком лінії під ім’ям предмета, тож це не спрацює з відображенням усіх зачарувань. (але 1 зачарування виглядає добре)",
 
   "lootbeams.config.nametags.whiteRarities": "Білі рідкості",
   "lootbeams.config.nametags.whiteRarities.description": "Чи повинні рідкості ігнорувати свій колір і відображатися білими \n(В основному використовується в модпаках)"

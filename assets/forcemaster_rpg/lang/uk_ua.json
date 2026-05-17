@@ -3,8 +3,8 @@
 
   "item.forcemaster_rpg.forcemaster_spell_book": "Майстерність сили",
 
-  "item.forcemaster_rpg.wooden_knuckle": "Дерев'яний кастет",
-  "item.forcemaster_rpg.stone_knuckle": "Кам'яний кастет",
+  "item.forcemaster_rpg.wooden_knuckle": "Дерев’яний кастет",
+  "item.forcemaster_rpg.stone_knuckle": "Кам’яний кастет",
   "item.forcemaster_rpg.iron_knuckle": "Залізний кастет",
   "item.forcemaster_rpg.golden_knuckle": "Золотий кастет",
   "item.forcemaster_rpg.diamond_knuckle": "Діамантовий кастет",
@@ -24,8 +24,8 @@
 
   "spell.forcemaster_rpg.straight_punch.name": "Прямий удар",
   "spell.forcemaster_rpg.straight_punch.description": "Потужний удар, що завдає {damage} фізичної шкоди та послаблює ціль.",
-  "spell.forcemaster_rpg.stonehand.name": "Кам'яна рука",
-  "spell.forcemaster_rpg.stonehand.description": "Накладає на гравця ефект Кам'яної руки на {effect_duration} секунд. Дає шанс оглушити ціль при атаці кулаком.",
+  "spell.forcemaster_rpg.stonehand.name": "Кам’яна рука",
+  "spell.forcemaster_rpg.stonehand.description": "Накладає на гравця ефект Кам’яної руки на {effect_duration} секунд. Дає шанс оглушити ціль при атаці кулаком.",
   "spell.forcemaster_rpg.asal.name": "Ассалам алейкум",
   "spell.forcemaster_rpg.asal.description": "Концентрований удар, завдає {damage}_0 таємничої і {damage}_1 фізичної шкоди, виснажує заклинателя.",
   "spell.forcemaster_rpg.barq_esna.name": "Baraqijal Esna",
@@ -35,7 +35,7 @@
   "spell.forcemaster_rpg.belial_smashing.name": "Небесний розгром",
   "spell.forcemaster_rpg.belial_smashing.description": "Випускає заряд у напрямку, збиваючи цілі з ніг і завдаючи {damage} фізичної шкоди.",
   "spell.forcemaster_rpg.sonichand.name": "Надзвуковий кулак",
-  "spell.forcemaster_rpg.sonichand.description": "Безперервно б'є у повітря, створюючи вакуум, який завдає {damage}_0 таємничої та {damage}_1 фізичної шкоди ",
+  "spell.forcemaster_rpg.sonichand.description": "Безперервно б’є у повітря, створюючи вакуум, який завдає {damage}_0 таємничої та {damage}_1 фізичної шкоди ",
   "spell.forcemaster_rpg.arcane_blast.name": "Таємничий вибух",
   "spell.forcemaster_rpg.arcane_blast.description": "Випускає заряд вибуху, який пробивають цілі наскрізь, завдаючи {pierce} шкоди і {damage} таємничої шкоди."
 }

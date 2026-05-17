@@ -26,7 +26,7 @@ item_ids:
 
 <Recipe id="yet_another_industrialization:materials/battery_alloy/craft/machine_casing" />
 
-Введення/виведення енергії відбувається через спеціальні роз'єми:
+Введення/виведення енергії відбувається через спеціальні роз’єми:
 
 <Recipe id="yet_another_industrialization:craft/large_storage_unit_input_hatch" />
 

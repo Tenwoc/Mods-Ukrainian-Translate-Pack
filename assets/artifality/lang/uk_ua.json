@@ -12,9 +12,9 @@
     "block.artifality.lunastone": "Місячний камінь",
     "block.artifality.lunalight": "Місячне світло",
     "block.artifality.lunar_portal": "Місячний портал",
-    "block.artifality.lunar_trading_pedestal": "Місячний торговий п'єдестал",
+    "block.artifality.lunar_trading_pedestal": "Місячний торговий п’єдестал",
 
-    "block.artifality.upgrading_pedestal": "П'єдестал покращення",
+    "block.artifality.upgrading_pedestal": "П’єдестал покращення",
     "tooltip.artifality.upgrading_pedestal.0": "Дозволяє покращити ваші",
     "tooltip.artifality.upgrading_pedestal.1": "артефакти, клацніть ПКМ з 3",
     "tooltip.artifality.upgrading_pedestal.2": "інкрементальними кулями, щоб покращити",
@@ -191,13 +191,13 @@
     "advancements.artifality.positive_vision.description": "Створіть всі три лінзи",
 
     "advancements.artifality.upgrader_first.name": "Покращення?",
-    "advancements.artifality.upgrader_first.description": "Створіть п'єдестал покращення",
+    "advancements.artifality.upgrader_first.description": "Створіть п’єдестал покращення",
 
     "advancements.artifality.upgrader_second.name": "Покращення!",
-    "advancements.artifality.upgrader_second.description": "Удоскональте п'єдестал покращення до 2-го рівня",
+    "advancements.artifality.upgrader_second.description": "Удоскональте п’єдестал покращення до 2-го рівня",
 
     "advancements.artifality.upgrader_third.name": "Я обожнюю покращення!",
-    "advancements.artifality.upgrader_third.description": "Удоскональте П'єдестал покращення до 3-го рівня",
+    "advancements.artifality.upgrader_third.description": "Удоскональте П’єдестал покращення до 3-го рівня",
 
     "advancements.artifality.rethink_life.name": "Навіщо?",
     "advancements.artifality.rethink_life.description": "Покращіть всі артефакти до 3-го рівня",

@@ -19,7 +19,7 @@
   "item.rogues.aeternium_sickle": "Етернієвий серп",
   "item.rogues.ruby_sickle": "Рубіновий серп",
 
-  "item.rogues.stone_double_axe": "Кам'яна дворучна сокира",
+  "item.rogues.stone_double_axe": "Кам’яна дворучна сокира",
   "item.rogues.iron_double_axe": "Залізна дворучна сокира",
   "item.rogues.golden_double_axe": "Золота дворучна сокира",
   "item.rogues.diamond_double_axe": "Діамантова дворучна сокира",
@@ -65,9 +65,9 @@
   "block.rogues.arms_workbench": "Станція зброяра",
   "block.rogues.arms_workbench.hint": "Верстак торговця зброєю",
 
-  "spell.rogues.slice_and_dice.name": "М'ясорубка",
+  "spell.rogues.slice_and_dice.name": "М’ясорубка",
   "spell.rogues.slice_and_dice.description": "Ввійдіть в бойовий транс, під час якого кожна ваша атака надасть додаткову силу, накопичуючись до {max_stack} разів. Закінчується через {effect_duration} с.",
-  "effect.rogues.slice_and_dice": "М'ясорубка",
+  "effect.rogues.slice_and_dice": "М’ясорубка",
   "effect.rogues.slice_and_dice.description": "Шкода від атак збільшена",
 
   "spell.rogues.shock_powder.name": "Шоковий порошок",
@@ -76,7 +76,7 @@
   "effect.rogues.shock.description": "Рух і дії заблоковані",
 
   "spell.rogues.shadow_step.name": "Тіньовий поступ",
-  "spell.rogues.shadow_step.description": "Пройдіть крізь тіні, щоб з'явитися позаду вашої цілі.",
+  "spell.rogues.shadow_step.description": "Пройдіть крізь тіні, щоб з’явитися позаду вашої цілі.",
   "effect.rogues.shadow_step": "Тіньовий поступ",
   "effect.rogues.shadow_step.description": "Непомітність",
 

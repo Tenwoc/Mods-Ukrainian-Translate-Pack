@@ -9,8 +9,8 @@
 
   "item.harvest_scythes.creative_scythe": "§5Творча коса",
 
-  "item.harvest_scythes.wooden_scythe": "Дерев'яна коса",
-  "item.harvest_scythes.stone_scythe": "Кам'яна коса",
+  "item.harvest_scythes.wooden_scythe": "Дерев’яна коса",
+  "item.harvest_scythes.stone_scythe": "Кам’яна коса",
   "item.harvest_scythes.iron_scythe": "Залізна коса",
   "item.harvest_scythes.golden_scythe": "Золота коса",
   "item.harvest_scythes.diamond_scythe": "Діамантова коса",
@@ -96,8 +96,8 @@
 
   "item.harvest_scythes.creative_machete": "§5Творче мачете",
 
-  "item.harvest_scythes.wooden_machete": "Дерев'яне мачете",
-  "item.harvest_scythes.stone_machete": "Кам'яне мачете",
+  "item.harvest_scythes.wooden_machete": "Дерев’яне мачете",
+  "item.harvest_scythes.stone_machete": "Кам’яне мачете",
   "item.harvest_scythes.iron_machete": "Залізне мачете",
   "item.harvest_scythes.golden_machete": "Золоте мачете",
   "item.harvest_scythes.diamond_machete": "Діамантове мачете",
@@ -188,6 +188,6 @@
   "enchantment.harvest_scythes.blind_harvest_curse": "Прокляття сліпої жниви",
   
   "enchantment.harvest_scythes.crop_reaper.desc": "Збільшує діапазон збирання врожаю",
-  "enchantment.harvest_scythes.leaf_eater.desc": "Знищує з'єднане листя",
+  "enchantment.harvest_scythes.leaf_eater.desc": "Знищує з’єднане листя",
   "enchantment.harvest_scythes.blind_harvest_curse.desc": "Воно виросло?"
 }

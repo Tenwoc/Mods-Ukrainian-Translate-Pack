@@ -13,7 +13,7 @@
   "spawnanimations.midnightconfig.activation_distance": "Відстань активації",
   "spawnanimations.midnightconfig.activation_distance.tooltip": "Усталено: §a20 блоків§f\nМоби, що знаходяться до гравця ближче, ніж це значення, відтворюватимуть анімацію.\nЯкщо встановити це значення на 0, використовуватиметься значення, специфічне для світу.",
   "spawnanimations.midnightconfig.activation_mode": "Activation Mode",
-  "spawnanimations.midnightconfig.activation_mode.tooltip": "Усталено: §aКласичний§f\n§nКласичний§r: Моби поза зоною досяжності залишатимуться прихованими, поки гравець не опиниться в їхній зоні досяжності.\n§nВанільний§r: Моби поза зоною досяжності з'являтимуться звичайно",
+  "spawnanimations.midnightconfig.activation_mode.tooltip": "Усталено: §aКласичний§f\n§nКласичний§r: Моби поза зоною досяжності залишатимуться прихованими, поки гравець не опиниться в їхній зоні досяжності.\n§nВанільний§r: Моби поза зоною досяжності з’являтимуться звичайно",
   "spawnanimations.midnightconfig.hide_worn_armor_and_tools": "Приховувати споряджені обладунки та інструменти",
   "spawnanimations.midnightconfig.hide_worn_armor_and_tools.tooltip": "Усталено: §aТак§f\nЯкщо увімкнено, зберігає споряджені обладунки та інструменти в ногах, а в деяких версіях — у слоті для легінсів прихованої сутності.\n§6⚠ Примітка: Якщо ввімкнено, це може вплинути на шанси випадання споряджених обладунків та інструментів з ферм мобів.",
   "spawnanimations.midnightconfig.play_animation_on_unsupported_blocks": "Відтворювати анімацію руйнування блоку на непідтримуваних блоках",
@@ -26,7 +26,7 @@
   "spawnanimations.midnightconfig.enum.mode.CLASSIC": "§aКласичний",
   "spawnanimations.midnightconfig.enum.mode.VANILLA": "§aВанільний",
 
-  "modmenu.summaryTranslation.spawnanimations": "Ворожі моби викопуються з землі або ж просто з'являються, коли породжуються!",
+  "modmenu.summaryTranslation.spawnanimations": "Ворожі моби викопуються з землі або ж просто з’являються, коли породжуються!",
   "modmenu.donate": "Підтримка",
   "modmenu.modrinth": "Modrinth",
   "modmenu.curseforge": "CurseForge",

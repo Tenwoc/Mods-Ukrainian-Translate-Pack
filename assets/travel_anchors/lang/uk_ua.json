@@ -10,7 +10,7 @@
 
   "screen.travel_anchors.travel_anchor": "Якір подорожі",
   "screen.travel_anchors.search": "Пошук",
-  "screen.travel_anchors.nameless": "Введіть ім'я, щоб використовувати його",
+  "screen.travel_anchors.nameless": "Введіть ім’я, щоб використовувати його",
 
   "tooltip.travel_anchors.travel_anchor_block": "Подивіться на це за допомогою Посоха мандрівника або заклинання телепортації, щоб телепортуватися.",
   "tooltip.travel_anchors.travel_staff": "ПКМ крадькома, щоб телепортуватися на невелику відстань. Подивіться на якір подорожі, щоб скасувати дію.",

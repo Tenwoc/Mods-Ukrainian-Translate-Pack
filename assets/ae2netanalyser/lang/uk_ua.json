@@ -7,7 +7,7 @@
   "gui.ae2netanalyser.network_analyser.reset": "Скинути кол.",
   "gui.ae2netanalyser.network_analyser.mode.FULL": "Повний",
   "gui.ae2netanalyser.network_analyser.mode.NODES": "Вузли",
-  "gui.ae2netanalyser.network_analyser.mode.CHANNELS": "З'єднання",
+  "gui.ae2netanalyser.network_analyser.mode.CHANNELS": "З’єднання",
   "gui.ae2netanalyser.network_analyser.mode.NONUM": "Без чисел",
   "gui.ae2netanalyser.network_analyser.mode.P2P": "P2P",
   "gui.ae2netanalyser.network_analyser.LINK.NORMAL": "Звичайний",

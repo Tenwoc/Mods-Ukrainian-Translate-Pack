@@ -7,7 +7,7 @@
 
   "entity.conjurer_illager.conjurer": "Фокусник",
   "entity.conjurer_illager.throwing_card": "Метальна карта",
-  "entity.conjurer_illager.bouncing_ball": "М'ячик",
+  "entity.conjurer_illager.bouncing_ball": "М’ячик",
 
   "advancements.conjurer_illager.find_theatre": "Час починати шоу!",
   "advancements.conjurer_illager.find_theatre.desc": "Знайдіть театр",
@@ -29,6 +29,6 @@
   "subtitles.entity.conjurer.prepare_rabbit": "Фокусник готує кролика",
   "subtitles.entity.conjurer.prepare_attack": "Фокусник готує атаку",
   "subtitles.entity.conjurer.prepare_displacement": "Фокусник готується до переміщення",
-  "subtitles.entity.bouncy_ball.bounce": "М'ячик відскокує",
-  "subtitles.entity.bouncy_ball.vanish": "М'ячик лопається"
+  "subtitles.entity.bouncy_ball.bounce": "М’ячик відскокує",
+  "subtitles.entity.bouncy_ball.vanish": "М’ячик лопається"
 }

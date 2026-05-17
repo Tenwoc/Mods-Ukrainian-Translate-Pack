@@ -5,8 +5,8 @@
 
   "item.rarcompat.mimi_dust": "Мімі-пил",
 
-  "tooltip.relics.umbrella.description": "Пом'якшує падіння, забезпечуючи безпечне приземлення з будь-якої висоти. При вмілому використанні може послужити вірним щитом, що не підпускає ворогів.",
-  "tooltip.relics.umbrella.ability.glider": "М'яке падіння",
+  "tooltip.relics.umbrella.description": "Пом’якшує падіння, забезпечуючи безпечне приземлення з будь-якої висоти. При вмілому використанні може послужити вірним щитом, що не підпускає ворогів.",
+  "tooltip.relics.umbrella.ability.glider": "М’яке падіння",
   "tooltip.relics.umbrella.ability.glider.description": "При утриманні в руці знижує вертикальну швидкість гравця, пригнічуючи шкоду від падіння. При натисканні ЛКМ відштовхує гравця назад і йде у перезаряджання на %2$s секунд. Використовувати відштовхування можна до %1$s разів поспіль, перш ніж гравець торкнеться землі.",
   "tooltip.relics.umbrella.ability.shield": "Повітряний щит",
   "tooltip.relics.umbrella.ability.shield.description": "При використанні працює як щит, що відкидає цілі на відстань до %1$s блоків.",
@@ -74,7 +74,7 @@
   "tooltip.relics.scarf_of_invisibility.leveling_source.invisible.description": "+%1$s одиниць досвіду за кожне застосування невидимості від здібності %2$s.",
 
   "tooltip.relics.flame_pendant.description": "Спопеляє кожного, хто наважиться напасти на володаря реліквії.",
-  "tooltip.relics.flame_pendant.ability.fire": "Полум'яна оборона",
+  "tooltip.relics.flame_pendant.ability.fire": "Полум’яна оборона",
   "tooltip.relics.flame_pendant.ability.fire.description": "З шансом у %2$s%% підпалює ціль, що атакувала гравця, на %1$s секунд.",
   "tooltip.relics.flame_pendant.leveling_source.fire.title": "Блискавична оборона",
   "tooltip.relics.flame_pendant.leveling_source.fire.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s.",
@@ -104,11 +104,11 @@
   "tooltip.relics.cowboy_hat.leveling_source.overlord.title": "Ласо",
   "tooltip.relics.cowboy_hat.leveling_source.overlord.description": "+%1$s одиниць досвіду за кожне застосування здібності %2$s.",
 
-  "tooltip.relics.crystal_heart.description": "Наділяє володаря реліквії додатковою силою, збільшуючи його максимальне здоров'я.",
+  "tooltip.relics.crystal_heart.description": "Наділяє володаря реліквії додатковою силою, збільшуючи його максимальне здоров’я.",
   "tooltip.relics.crystal_heart.ability.heart": "Воля до життя",
-  "tooltip.relics.crystal_heart.ability.heart.description": "Збільшує обсяг здоров'я гравця на %1$s одиниць.",
+  "tooltip.relics.crystal_heart.ability.heart.description": "Збільшує обсяг здоров’я гравця на %1$s одиниць.",
   "tooltip.relics.crystal_heart.leveling_source.heart.title": "Воля до життя",
-  "tooltip.relics.crystal_heart.leveling_source.heart.description": "+%1$s одиниць досвіду за кожне спрацьовування регенерації здоров'я. Імовірність отримання досвіду обернено пропорційна співвідношенню поточного здоров'я з максимальним.",
+  "tooltip.relics.crystal_heart.leveling_source.heart.description": "+%1$s одиниць досвіду за кожне спрацьовування регенерації здоров’я. Імовірність отримання досвіду обернено пропорційна співвідношенню поточного здоров’я з максимальним.",
 
   "tooltip.relics.universal_attractor.description": "Маніпулює слабким магнітним полем навколо володаря реліквії, контролюючи гравітацію найближчих предметів.",
   "tooltip.relics.universal_attractor.ability.attractor": "Магнетизм",
@@ -138,7 +138,7 @@
   "tooltip.relics.vampiric_glove.ability.vampire": "Крадіжка життя",
   "tooltip.relics.vampiric_glove.ability.vampire.description": "Зцілює гравця на %1$s%% від завданої ним шкоди.",
   "tooltip.relics.vampiric_glove.leveling_source.vampire.title": "Крадіжка життя",
-  "tooltip.relics.vampiric_glove.leveling_source.vampire.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s. Імовірність отримання досвіду прямо пропорційна співвідношенню отриманого зцілення з максимальним здоров'ям гравця.",
+  "tooltip.relics.vampiric_glove.leveling_source.vampire.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s. Імовірність отримання досвіду прямо пропорційна співвідношенню отриманого зцілення з максимальним здоров’ям гравця.",
 
   "tooltip.relics.golden_hook.description": "Дозволяє власнику реліквії акуратніше здійснювати атаки, зберігаючи після вбивства моба більше досвіду.",
   "tooltip.relics.golden_hook.ability.hook": "Жага знань",
@@ -235,16 +235,16 @@
   "tooltip.relics.whoopee_cushion.leveling_source.push.title": "Метеоризм",
   "tooltip.relics.whoopee_cushion.leveling_source.push.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s.",
 
-  "tooltip.relics.kitty_slippers.description": "Наділяє носія реліквії властивостями сімейства котячих, зокрема м'якими лапками і незліченними життями.",
+  "tooltip.relics.kitty_slippers.description": "Наділяє носія реліквії властивостями сімейства котячих, зокрема м’якими лапками і незліченними життями.",
   "tooltip.relics.kitty_slippers.ability.passive": "Котячий погляд",
   "tooltip.relics.kitty_slippers.ability.passive.description": "Розлякує всіх кріперів і фантомів біля гравця.",
-  "tooltip.relics.kitty_slippers.ability.fall": "М'які лапки",
+  "tooltip.relics.kitty_slippers.ability.fall": "М’які лапки",
   "tooltip.relics.kitty_slippers.ability.fall.description": "Збільшує безпечну для падіння висоту на %1$s блоків.",
-  "tooltip.relics.kitty_slippers.leveling_source.fall.title": "М'які лапки",
+  "tooltip.relics.kitty_slippers.leveling_source.fall.title": "М’які лапки",
   "tooltip.relics.kitty_slippers.leveling_source.fall.description": "+%1$s одиниць досвіду за кожне падіння з висоти, що стала безпечною через здатність %2$s.",
-  "tooltip.relics.kitty_slippers.ability.resurrected": "Дев'ять життів",
-  "tooltip.relics.kitty_slippers.ability.resurrected.description": "З шансом в %1$s%% захищає гравця від отримання фатальної шкоди, залишаючи 1 одиницю здоров'я.",
-  "tooltip.relics.kitty_slippers.leveling_source.resurrected.title": "Дев'ять життів",
+  "tooltip.relics.kitty_slippers.ability.resurrected": "Дев’ять життів",
+  "tooltip.relics.kitty_slippers.ability.resurrected.description": "З шансом в %1$s%% захищає гравця від отримання фатальної шкоди, залишаючи 1 одиницю здоров’я.",
+  "tooltip.relics.kitty_slippers.leveling_source.resurrected.title": "Дев’ять життів",
   "tooltip.relics.kitty_slippers.leveling_source.resurrected.description": "+%1$s одиниць досвіду за кожну одиницю шкоди від останньої фатальної атаки, відверненої здатністю %2$s.",
 
   "tooltip.relics.bunny_hoppers.description": "Зміцнює ноги носія реліквії, дозволяючи йому сильніше відштовхуватися від землі.",
@@ -303,7 +303,7 @@
 
   "tooltip.relics.chorus_totem.description": "Дозволяє носію реліквії повернути час назад при здійсненні необдуманих дій.",
   "tooltip.relics.chorus_totem.ability.past": "Часова петля",
-  "tooltip.relics.chorus_totem.ability.past.description": "Кожна атака, здійснена по носію реліквії, з шансом в %1$s%% за кожен відсоток відсутнього у нього здоров'я переміщує нападника у випадкову локацію в радіусі %2$s блоків.",
+  "tooltip.relics.chorus_totem.ability.past.description": "Кожна атака, здійснена по носію реліквії, з шансом в %1$s%% за кожен відсоток відсутнього у нього здоров’я переміщує нападника у випадкову локацію в радіусі %2$s блоків.",
   "tooltip.relics.chorus_totem.leveling_source.past.title": "Часова петля",
   "tooltip.relics.chorus_totem.leveling_source.past.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s.",
 
@@ -314,8 +314,8 @@
   "tooltip.relics.running_shoes.leveling_source.runner.description": "+%1$s одиниць досвіду за кожну секунду бігу.",
 
   "tooltip.relics.flippers.description": "Зміцнює ноги носія реліквії, дозволяючи плавати швидше.",
-  "tooltip.relics.flippers.ability.swimmer": "Риб'ячий хвіст",
+  "tooltip.relics.flippers.ability.swimmer": "Риб’ячий хвіст",
   "tooltip.relics.flippers.ability.swimmer.description": "Збільшує швидкість плавання гравця на %1$s%%.",
-  "tooltip.relics.flippers.leveling_source.swimmer.title": "Риб'ячий хвіст",
+  "tooltip.relics.flippers.leveling_source.swimmer.title": "Риб’ячий хвіст",
   "tooltip.relics.flippers.leveling_source.swimmer.description": "+%1$s одиниць досвіду за кожну секунду плавання."
 }

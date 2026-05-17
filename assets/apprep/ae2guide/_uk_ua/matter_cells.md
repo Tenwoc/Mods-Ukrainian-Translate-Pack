@@ -36,7 +36,7 @@ item_ids:
   <IsometricCamera yaw="195" pitch="30" />
 
   <BoxAnnotation color="#dddddd" min="0 0 0" max="1 1 0.3">
-    Щоб вона з'явилася, використайте повний бак матерії двічі.
+    Щоб вона з’явилася, використайте повний бак матерії двічі.
   </BoxAnnotation>
 </GameScene>
 

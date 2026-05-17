@@ -25,8 +25,8 @@
 
   "enchantment.qu-enchantments.freezing_aspect": "Аспект заморожування",
   "enchantment.qu-enchantments.freezing_aspect.desc": "Змушує мобів сповільнюватися, коли їх вражають цим предметом.",
-  "enchantment.qu-enchantments.leeching_aspect": "Аспект п'явки",
-  "enchantment.qu-enchantments.leeching_aspect.desc": "Надає трохи здоров'я, коли використовується для атаки на мобів.",
+  "enchantment.qu-enchantments.leeching_aspect": "Аспект п’явки",
+  "enchantment.qu-enchantments.leeching_aspect.desc": "Надає трохи здоров’я, коли використовується для атаки на мобів.",
   "enchantment.qu-enchantments.shaped_glass": "Кришталь",
   "enchantment.qu-enchantments.shaped_glass.desc": "Значно збільшує шкоду, але у відповідь предмет швидше втрачає міцність.",
   "enchantment.qu-enchantments.nightblood": "Нічна кров",
@@ -63,7 +63,7 @@
   "enchantment.qu-enchantments.agitation_curse.desc": "Моби стануть вороже ставитися до всіх, хто носить це прокляття.",
   "enchantment.qu-enchantments.lucky_miner": "Щасливий шахтар",
   "enchantment.qu-enchantments.lucky_miner.desc": "Збільшує ймовірність того, що під час видобутку користувач знайде руду навколо себе. Складається логарифмічно.",
-  "enchantment.qu-enchantments.lightning_bound": "Зв'язаний блискавкою",
+  "enchantment.qu-enchantments.lightning_bound": "Зв’язаний блискавкою",
   "enchantment.qu-enchantments.lightning_bound.desc": "Шанс при попаданні викликати удар блискавки по цілі. Складається лінійно.",
 
   "block.qu-enchantments.hot_obsidian": "Гарячий обсидіан",
@@ -84,7 +84,7 @@
 
   "text.autoconfig.qu-enchantments.option.accuracyOptions": "Параметри заклинання точності",
   "text.autoconfig.qu-enchantments.option.accuracyOptions.isEnabled": "Увімкнено: ",
-  "text.autoconfig.qu-enchantments.option.accuracyOptions.randomSelection": "З'являтися як здобич: ",
+  "text.autoconfig.qu-enchantments.option.accuracyOptions.randomSelection": "З’являтися як здобич: ",
   "text.autoconfig.qu-enchantments.option.accuracyOptions.enchantingTable": "Доступно на столі заклинання: ",
   "text.autoconfig.qu-enchantments.option.accuracyOptions.bookOffer": "Продається: ",
 
@@ -98,7 +98,7 @@
 
   "text.autoconfig.qu-enchantments.option.agitationCurseOptions": "Параметри агітаційного прокляття",
   "text.autoconfig.qu-enchantments.option.agitationCurseOptions.isEnabled": "Увімкнено: ",
-  "text.autoconfig.qu-enchantments.option.agitationCurseOptions.randomSelection": "З'являється як здобич: ",
+  "text.autoconfig.qu-enchantments.option.agitationCurseOptions.randomSelection": "З’являється як здобич: ",
   "text.autoconfig.qu-enchantments.option.agitationCurseOptions.bookOffer": "Можна продати: ",
   "text.autoconfig.qu-enchantments.option.agitationCurseOptions.radius": "Радіус дії: ",
 
@@ -111,7 +111,7 @@
 
   "text.autoconfig.qu-enchantments.option.bashingOptions": "Параметри удару",
   "text.autoconfig.qu-enchantments.option.bashingOptions.isEnabled": "Увімкнено: ",
-  "text.autoconfig.qu-enchantments.option.bashingOptions.randomSelection": "З'являється як здобич: ",
+  "text.autoconfig.qu-enchantments.option.bashingOptions.randomSelection": "З’являється як здобич: ",
   "text.autoconfig.qu-enchantments.option.bashingOptions.enchantingTable": "Доступно на чарівному столі: ",
   "text.autoconfig.qu-enchantments.option.bashingOptions.bookOffer": "Можна продати: ",
   "text.autoconfig.qu-enchantments.option.bashingOptions.knockbackStrength": "Сила удару: ",
@@ -144,14 +144,14 @@
   "text.autoconfig.qu-enchantments.option.inaneAspectOptions.bookOffer": "Можна продати: ",
   "text.autoconfig.qu-enchantments.option.inaneAspectOptions.duration": "Безглузда тривалість: ",
 
-  "text.autoconfig.qu-enchantments.option.leechingAspectOptions": "Параметри аспекту п'явки",
+  "text.autoconfig.qu-enchantments.option.leechingAspectOptions": "Параметри аспекту п’явки",
   "text.autoconfig.qu-enchantments.option.leechingAspectOptions.isEnabled": "Увімкнено: ",
   "text.autoconfig.qu-enchantments.option.leechingAspectOptions.randomSelection": "Спавн як здобич: ",
   "text.autoconfig.qu-enchantments.option.leechingAspectOptions.enchantingTable": "Доступно на чарівному столі: ",
   "text.autoconfig.qu-enchantments.option.leechingAspectOptions.bookOffer": "Можна продати: ",
   "text.autoconfig.qu-enchantments.option.leechingAspectOptions.healing": "Кількість зцілення: ",
 
-  "text.autoconfig.qu-enchantments.option.lightningBoundOptions": "Опції блискавичного зв'язування",
+  "text.autoconfig.qu-enchantments.option.lightningBoundOptions": "Опції блискавичного зв’язування",
   "text.autoconfig.qu-enchantments.option.lightningBoundOptions.isEnabled": "Увімкнено: ",
   "text.autoconfig.qu-enchantments.option.lightningBoundOptions.randomSelection": "Відродитися як здобич: ",
   "text.autoconfig.qu-enchantments.option.lightningBoundOptions.enchantingTable": "Доступно на чарівному столі: ",
@@ -176,15 +176,15 @@
   "text.autoconfig.qu-enchantments.option.nightbloodOptions.enchantingTable": "Доступно на столі зачарувань: ",
   "text.autoconfig.qu-enchantments.option.nightbloodOptions.bookOffer": "Продається: ",
   "text.autoconfig.qu-enchantments.option.nightbloodOptions.disablesExperience": "Вимкнути скидання досвіду: ",
-  "text.autoconfig.qu-enchantments.option.nightbloodOptions.witherDuration.@Tooltip": "Кількість тиків для ефекту в'янення, що накладається на будь-яку істоту, яка не може бути вбита з одного удару.",
-  "text.autoconfig.qu-enchantments.option.nightbloodOptions.witherDuration": "Тривалість ефекту в'янення: ",
-  "text.autoconfig.qu-enchantments.option.nightbloodOptions.witherAmplifier": "Підсилювач ефекту в'янення: ",
-  "text.autoconfig.qu-enchantments.option.nightbloodOptions.drainRate.@Tooltip": "Швидкість, з якою буде зменшуватися хп, голод і здоров'я власника.",
+  "text.autoconfig.qu-enchantments.option.nightbloodOptions.witherDuration.@Tooltip": "Кількість тиків для ефекту в’янення, що накладається на будь-яку істоту, яка не може бути вбита з одного удару.",
+  "text.autoconfig.qu-enchantments.option.nightbloodOptions.witherDuration": "Тривалість ефекту в’янення: ",
+  "text.autoconfig.qu-enchantments.option.nightbloodOptions.witherAmplifier": "Підсилювач ефекту в’янення: ",
+  "text.autoconfig.qu-enchantments.option.nightbloodOptions.drainRate.@Tooltip": "Швидкість, з якою буде зменшуватися хп, голод і здоров’я власника.",
   "text.autoconfig.qu-enchantments.option.nightbloodOptions.drainRate": "Швидкість виснаження інвестицій: ",
 
   "text.autoconfig.qu-enchantments.option.omenOfImmunityOptions": "Опції Ознаки імунітету",
   "text.autoconfig.qu-enchantments.option.omenOfImmunityOptions.isEnabled": "Увімкнено: ",
-  "text.autoconfig.qu-enchantments.option.omenOfImmunityOptions.randomSelection": "З'являтися як здобич: ",
+  "text.autoconfig.qu-enchantments.option.omenOfImmunityOptions.randomSelection": "З’являтися як здобич: ",
   "text.autoconfig.qu-enchantments.option.omenOfImmunityOptions.enchantingTable": "Доступно на столі заклинання: ",
   "text.autoconfig.qu-enchantments.option.omenOfImmunityOptions.bookOffer": "Продається: ",
   "text.autoconfig.qu-enchantments.option.omenOfImmunityOptions.breakOnNoDurability": "Руна ламається без довговічності: ",
@@ -212,7 +212,7 @@
 
   "text.autoconfig.qu-enchantments.option.skywalkerOptions": "Параметри Скайуокера",
   "text.autoconfig.qu-enchantments.option.skywalkerOptions.isEnabled": "Увімкнено: ",
-  "text.autoconfig.qu-enchantments.option.skywalkerOptions.randomSelection": "З'являється як здобич: ",
+  "text.autoconfig.qu-enchantments.option.skywalkerOptions.randomSelection": "З’являється як здобич: ",
   "text.autoconfig.qu-enchantments.option.skywalkerOptions.enchantingTable": "Доступно на чаклунському столі: ",
   "text.autoconfig.qu-enchantments.option.skywalkerOptions.bookOffer": "Можна продати: ",
   "text.autoconfig.qu-enchantments.option.skywalkerOptions.radius": "Радіус: ",
@@ -229,7 +229,7 @@
 
   "text.autoconfig.qu-enchantments.option.stripMinerOptions": "Параметри стрип-шахтаря",
   "text.autoconfig.qu-enchantments.option.stripMinerOptions.isEnabled": "Увімкнено: ",
-  "text.autoconfig.qu-enchantments.option.stripMinerOptions.randomSelection": "З'являється як здобич: ",
+  "text.autoconfig.qu-enchantments.option.stripMinerOptions.randomSelection": "З’являється як здобич: ",
   "text.autoconfig.qu-enchantments.option.stripMinerOptions.enchantingTable": "Доступно на чарівному столі: ",
   "text.autoconfig.qu-enchantments.option.stripMinerOptions.bookOffer": "Можна продати: ",
   "text.autoconfig.qu-enchantments.option.stripMinerOptions.radius.@Tooltip": "Радіус дії заклинання II рівня.",

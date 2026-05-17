@@ -72,7 +72,7 @@
   "spell.wizards.fire_breath.description": "Спалює цілі попереду, щосекунди завдаючи до {damage} шкоди від магії вогню.",
   "spell.wizards.fire_meteor.name": "Метеор",
   "spell.wizards.fire_meteor.description": "Розбиває метеор об ціль, завдаючи до {damage} шкоди від магії вогню в межах {impact_range} блоків.",
-  "spell.wizards.fire_wall.name": "Стіна полум'я",
+  "spell.wizards.fire_wall.name": "Стіна полум’я",
   "spell.wizards.fire_wall.description": "Створює стіну вогню на {cloud_duration} секунд, що безперервно завдає до {damage} шкоди від магії вогню ворогам, що намагаються пройти крізь.",
 
   "spell.wizards.ice_lance.name": "Крижаний спис",

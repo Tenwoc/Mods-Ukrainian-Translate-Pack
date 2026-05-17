@@ -1,12 +1,12 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: Кристалічний збирач
-    icon: extendedae:crystal_assembler
+  parent: epp_intro/epp_intro-index.md
+  title: Кристалічний збирач
+  icon: extendedae:crystal_assembler
 categories:
-- extended foundation
+  - extended foundation
 item_ids:
-- extendedae:crystal_assembler
+  - extendedae:crystal_assembler
 ---
 
 # Кристалічний збирач
@@ -17,6 +17,6 @@ item_ids:
 
 Розширені пристрої ExtendedAE занадто складні для створення на верстаку — вам знадобиться кристалічний збирач для створення більшості з них.
 
-**Примітка: Бік з екраном не може під'єднатися до мережі.**
+**Примітка: Бік з екраном не може під’єднатися до мережі.**
 
 Кристалічний збирач також є надійним середовищем для виконання рецептів трансформації, які до цього ви могли виконувати тільки у світі.

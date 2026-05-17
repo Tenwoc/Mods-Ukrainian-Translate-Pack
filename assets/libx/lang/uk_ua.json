@@ -2,7 +2,7 @@
   "libx.misc.copy": "Натисніть, щоб скопіювати в буфер обміну.",
   "libx.command.argument.enum.invalid": "Невірне значення %s: %s",
   "libx.command.entitydata.modified": "Змінено дані сутностей %s",
-  "libx.command.entitydata.modified_player": "Змінено дані об'єктів %s. (Попередження: Ви змінили NBT гравця)",
+  "libx.command.entitydata.modified_player": "Змінено дані об’єктів %s. (Попередження: Ви змінили NBT гравця)",
   "libx.command.entitydata.player_modify_no_permission": "Лише оператори з рівнем доступу 4 можуть змінювати NBT гравця.",
   "libx.command.reload.common": "Перезавантаження всіх спільних конфігурацій LibX.",
   "libx.command.reload.client": "Перезавантаження всіх конфігурацій клієнтів LibX.",
@@ -49,5 +49,5 @@
   "libx.config.gui.component.arguments": "Аргументи",
   "libx.config.gui.component.type_text": "Текст",
   "libx.config.gui.component.type_translate": "Переклад",
-  "libx.config.gui.component.type_key": "Прив'язка клавіш"
+  "libx.config.gui.component.type_key": "Прив’язка клавіш"
 }

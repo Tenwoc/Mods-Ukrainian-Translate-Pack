@@ -120,8 +120,8 @@
   "tag.item.endermanoverhaul.ender_pearls": "Перлини Енду",
   "tooltip.endermanoverhaul.ancient_pearl_1": "Викликає дружнього ендермена, що боротиметься за вас",
   "tooltip.endermanoverhaul.ancient_pearl_2": "Клацніть ПКМ крадькома по викликаному ендермену, щоби повернути перлину",
-  "tooltip.endermanoverhaul.ancient_pet": "Здоров'я улюбленця: %.1f",
-  "tooltip.endermanoverhaul.bound_to": "Прив'язано до: %s",
+  "tooltip.endermanoverhaul.ancient_pet": "Здоров’я улюбленця: %.1f",
+  "tooltip.endermanoverhaul.bound_to": "Прив’язано до: %s",
   "tooltip.endermanoverhaul.bubble_pearl": "Точна перлина Енду без гравітації",
   "tooltip.endermanoverhaul.corrupted_blade": "Випадковим чином телепортує цілі",
   "tooltip.endermanoverhaul.corrupted_pearl": "Телепортує цілі у випадкове місце",
@@ -129,9 +129,9 @@
   "tooltip.endermanoverhaul.crimson_pearl": "Застосовує силу II після телепортації",
   "tooltip.endermanoverhaul.hood": "Дозволяє вам дивитися на ендермена не розлютивши його",
   "tooltip.endermanoverhaul.icy_pearl": "Заморожує цілі поблизу при влучанні",
-  "tooltip.endermanoverhaul.not_bound": "Неприв'язана",
-  "tooltip.endermanoverhaul.soul_pearl_1": "Shift-ПКМ, щоб прив'язати сутність",
-  "tooltip.endermanoverhaul.soul_pearl_2": "Телепортує прив'язану сутність до цільового місця",
+  "tooltip.endermanoverhaul.not_bound": "Неприв’язана",
+  "tooltip.endermanoverhaul.soul_pearl_1": "Shift-ПКМ, щоб прив’язати сутність",
+  "tooltip.endermanoverhaul.soul_pearl_2": "Телепортує прив’язану сутність до цільового місця",
   "tooltip.endermanoverhaul.summoner_pearl": "Телепортує ближні цілі при влучанні",
   "tooltip.endermanoverhaul.warped_pearl": "Застосовує стійкість II при телепортації"
 }

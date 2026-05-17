@@ -32,7 +32,7 @@
   "ftbfiltersystem.gui.compound": "Комбіновані фільтри",
   "ftbfiltersystem.gui.basic": "Базові фільтри",
   "ftbfiltersystem.gui.fuzzy_match": "Нечіткий збіг компонентів?",
-  "ftbfiltersystem.gui.custom_name": "Власне ім'я",
+  "ftbfiltersystem.gui.custom_name": "Власне ім’я",
   "filter.ftbfiltersystem.and.name": "Усе з",
   "filter.ftbfiltersystem.and.tooltip": "Комбінований фільтр: цей фільтр відповідає, якщо ВСІ його дочірні фільтри відповідають.",
   "filter.ftbfiltersystem.or.name": "Будь-що з",
@@ -62,6 +62,6 @@
   "filter.ftbfiltersystem.custom.name": "Користувацький",
   "filter.ftbfiltersystem.custom.tooltip": "Розширений фільтр, призначений для моддерів та розробників модпаків. Виконує CustomFilterEvent при спробі збігу; встановлює результат події, щоб вказати на успішний або невдалий збіг. Використовуйте текстове поле, щоб надати дані у довільній формі, які передаються до події як параметр \"data\".",
   "filter.ftbfiltersystem.expression.name": "Вираз",
-  "filter.ftbfiltersystem.expression.tooltip": "Дозволяє ввести або завантажити буквальне вираження фільтра з предмета Фільтру у вашому інвентарі. Для більшої зрозумілості можна (але не обов'язково!) присвоїти йому власне ім'я.",
+  "filter.ftbfiltersystem.expression.tooltip": "Дозволяє ввести або завантажити буквальне вираження фільтра з предмета Фільтру у вашому інвентарі. Для більшої зрозумілості можна (але не обов’язково!) присвоїти йому власне ім’я.",
   "filter.ftbfiltersystem.root.name": "Корінь (Усе з)"
 }

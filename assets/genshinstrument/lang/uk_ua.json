@@ -21,7 +21,7 @@
     "label.genshinstrument.vintage_lyre_options": "Параметри старовинної ліри",
 
     "genshinstrument.genshin_disclaimer.title": "Відмова від відповідальності!",
-    "genshinstrument.genshin_disclaimer.content": "Genshin Instruments - це %s і %s Minecraft мод, який жодним чином не пов'язаний ні з Genshin Impact, ні з HoYoverse.\n\nТаким чином, всі активи, пов'язані з Genshin, що використовуються в грі, такі як звуки, зображення, інструменти і т.д., є повною власністю HoYoverse.\n\nЯк користувач, ви несете повну відповідальність за свої дії в грі, включаючи (але не обмежуючись цим!) відтворення та обмін/публікацію будь-яких пісень, які можуть бути захищені законами про авторські права.",
+    "genshinstrument.genshin_disclaimer.content": "Genshin Instruments - це %s і %s Minecraft мод, який жодним чином не пов’язаний ні з Genshin Impact, ні з HoYoverse.\n\nТаким чином, всі активи, пов’язані з Genshin, що використовуються в грі, такі як звуки, зображення, інструменти і т.д., є повною власністю HoYoverse.\n\nЯк користувач, ви несете повну відповідальність за свої дії в грі, включаючи (але не обмежуючись цим!) відтворення та обмін/публікацію будь-яких пісень, які можуть бути захищені законами про авторські права.",
     "genshinstrument.genshin_disclaimer.bolden1": "неофіційний",
     "genshinstrument.genshin_disclaimer.bolden2": "зроблено фанатами",
 
@@ -115,7 +115,7 @@
     "genshinstrument.advancements.main.windsong_lyre.title": "Звук вітру",
     "genshinstrument.advancements.main.windsong_lyre.description": "Грайте на лірі вітру",
     
-    "genshinstrument.advancements.main.vintage_lyre.title": "Ліс пам'ятатиме",
+    "genshinstrument.advancements.main.vintage_lyre.title": "Ліс пам’ятатиме",
     "genshinstrument.advancements.main.vintage_lyre.description": "Зіграйтете на старовинній лірі",
     
     "genshinstrument.advancements.main.glorious_drum.title": "Зовсім не шахрайство",

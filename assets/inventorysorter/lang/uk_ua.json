@@ -38,7 +38,7 @@
   "key.inventorysorter.cmd.addblacklist": "Додано до чорного списку: ",
   "key.inventorysorter.cmd.invalidscreen": "Ідентифікатор екрану недійсний",
 
-  "key.inventorysorter.sorttype.name": "ім'ям",
+  "key.inventorysorter.sorttype.name": "ім’ям",
   "key.inventorysorter.sorttype.category": "категорією",
   "key.inventorysorter.sorttype.mod": "модом",
   "key.inventorysorter.sorttype.id": "ID",

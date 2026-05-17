@@ -36,6 +36,7 @@ navigation:
             ![Calculation Pattern](../assets/diagrams/calculation_pattern_small.png)
             ![Engineering Pattern](../assets/diagrams/engineering_pattern_small.png)
         </Row>
+
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4.7 2 0" max="5 3 1" thickness=".05">
@@ -142,35 +143,35 @@ navigation:
 
 ## Конфігурації
 
-* <ItemLink id="pattern_provider" /> (1) не має налаштувань, але містить необхідні <ItemLink id="processing_pattern" />. Зверніть увагу, що шаблони закодовані на отримання процесорів безпосередньо від початкових ресурсів та **НЕ** включають [штампи](../items-blocks-machines/presses.md).
+- <ItemLink id="pattern_provider" /> (1) не має налаштувань, але містить необхідні <ItemLink id="processing_pattern" />. Зверніть увагу, що шаблони закодовані на отримання процесорів безпосередньо від початкових ресурсів та **НЕ** включають [штампи](../items-blocks-machines/presses.md).
 
   ![Logic Pattern](../assets/diagrams/logic_pattern.png)
   ![Calculation Pattern](../assets/diagrams/calculation_pattern.png)
   ![Engineering Pattern](../assets/diagrams/engineering_pattern.png)
 
-* <ItemLink id="storage_bus" /> (2, 17, 18, 20) не мають налаштувань.
-* <ItemLink id="export_bus" /> (3-7) фільтруються за відповідним складником. Вони мають по 2 <ItemLink id="speed_card" />.
-    <Row>
-      <ItemImage id="silicon" scale="2" />
-      <ItemImage id="minecraft:gold_ingot" scale="2" />
-      <ItemImage id="certus_quartz_crystal" scale="2" />
-      <ItemImage id="minecraft:diamond" scale="2" />
-      <ItemImage id="minecraft:redstone" scale="2" />
-    </Row>
-* <ItemLink id="import_bus" /> (13-16, 19) не мають налаштувань. Вони мають по 2 <ItemLink id="speed_card" />.
-* <ItemLink id="inscriber" /> не мають налаштувань. Вони мають по відповідному [штампу](../items-blocks-machines/presses.md), та по 4 <ItemLink id="speed_card" />.
-   <Row>
-     <ItemImage id="silicon_press" scale="2" />
-     <ItemImage id="logic_processor_press" scale="2" />
-     <ItemImage id="calculation_processor_press" scale="2" />
-     <ItemImage id="engineering_processor_press" scale="2" />
-   </Row>
+- <ItemLink id="storage_bus" /> (2, 17, 18, 20) не мають налаштувань.
+- <ItemLink id="export_bus" /> (3-7) фільтруються за відповідним складником. Вони мають по 2 <ItemLink id="speed_card" />.
+  <Row>
+  <ItemImage id="silicon" scale="2" />
+  <ItemImage id="minecraft:gold_ingot" scale="2" />
+  <ItemImage id="certus_quartz_crystal" scale="2" />
+  <ItemImage id="minecraft:diamond" scale="2" />
+  <ItemImage id="minecraft:redstone" scale="2" />
+  </Row>
+- <ItemLink id="import_bus" /> (13-16, 19) не мають налаштувань. Вони мають по 2 <ItemLink id="speed_card" />.
+- <ItemLink id="inscriber" /> не мають налаштувань. Вони мають по відповідному [штампу](../items-blocks-machines/presses.md), та по 4 <ItemLink id="speed_card" />.
+  <Row>
+  <ItemImage id="silicon_press" scale="2" />
+  <ItemImage id="logic_processor_press" scale="2" />
+  <ItemImage id="calculation_processor_press" scale="2" />
+  <ItemImage id="engineering_processor_press" scale="2" />
+  </Row>
 
 ## Як це працює
 
 1. <ItemLink id="pattern_provider" /> переміщує складники в діжку.
 2. Перша [трубна підмережа](pipe-subnet.md) (помаранчева) витягує кремній, редстоуновий пил та відповідний складник процесора (золотий злиток, кристал істинного кварцу або діамант) з діжки та поміщає їх у відповідний <ItemLink id="inscriber" />.
 3. Перші чотири <ItemLink id="inscriber" /> штапмують <ItemLink id="printed_silicon" />, та <ItemLink id="printed_logic_processor" />, <ItemLink id="printed_calculation_processor" />, чи <ItemLink id="printed_engineering_processor" />.
-4. Друга та третя [трубні підмережі](pipe-subnet.md) (зелені) витягують друковані схеми з перших чотирьох <ItemLink id="inscriber" /> та поміщають їх у п'ятий <ItemLink id="inscriber" /> для завершувального збирання.
-5. П'ятий <ItemLink id="inscriber" /> збирає [процесор](../items-blocks-machines/processors.md).
+4. Друга та третя [трубні підмережі](pipe-subnet.md) (зелені) витягують друковані схеми з перших чотирьох <ItemLink id="inscriber" /> та поміщають їх у п’ятий <ItemLink id="inscriber" /> для завершувального збирання.
+5. П’ятий <ItemLink id="inscriber" /> збирає [процесор](../items-blocks-machines/processors.md).
 6. Четверта [трубна підмережа](pipe-subnet.md) (фіолетова) поміщає процесор у постачальника шаблонів, тим самим повертаючи його до основної мережі.

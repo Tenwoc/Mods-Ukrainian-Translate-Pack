@@ -32,7 +32,7 @@
   "config.screenshot_viewer.screen_scroll_speed": "Швидкість прокрутки",
   "config.screenshot_viewer.screen_scroll_speed.desc": "Швидкість прокрутки екрана (від 1 до 50).",
   "config.screenshot_viewer.screenshot_element_background_opacity": "Непрозорість тла для елементів знімка екрана",
-  "config.screenshot_viewer.screenshot_element_background_opacity.desc": "Непрозорість фону, що з'являється при наведенні на елементи знімка екрана (від 0 до 100).",
+  "config.screenshot_viewer.screenshot_element_background_opacity.desc": "Непрозорість фону, що з’являється при наведенні на елементи знімка екрана (від 0 до 100).",
   "config.screenshot_viewer.render_screenshot_element_font_shadow": "Відображати тінь шрифту елемента знімка екрана",
   "config.screenshot_viewer.render_screenshot_element_font_shadow.desc": "Якщо під текстом елементів знімка екрана має відображатися тінь від шрифту.",
   "config.screenshot_viewer.screenshot_element_text_color": "Колір тексту елементів знімка екрана",

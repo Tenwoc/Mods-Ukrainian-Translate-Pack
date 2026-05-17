@@ -9,7 +9,7 @@
   "item.apotheosis.gem.irons_apothic:core/bloody_pearl": "Кривава перлина",
   "item.apotheosis.gem.irons_apothic:core/effervescent_brimstone": "Спінена сірка",
   "item.apotheosis.gem.irons_apothic:core/golems_onyx": "Онікс ґолема",
-  "item.apotheosis.gem.irons_apothic:core/whispering_tentaculite": "Шепітливий тентак'юліт",
+  "item.apotheosis.gem.irons_apothic:core/whispering_tentaculite": "Шепітливий тентак’юліт",
   "item.apotheosis.gem.irons_apothic:core/charged_lodestone": "Магнетизований камінь",
   "item.apotheosis.gem.irons_apothic:core/mossy_agate": "Моховитий агат",
   "item.apotheosis.gem.irons_apothic:external/sky_meteoritill": "Небесний метеоритил",
@@ -121,7 +121,7 @@
   "affix.irons_apothic:elemental/school_ender/armor.suffix": "бастіону Енду",
   "affix.irons_apothic:elemental/school_evocation/armor": "Захисний",
   "affix.irons_apothic:elemental/school_evocation/armor.suffix": "захисного шторму",
-  "affix.irons_apothic:elemental/school_fire/armor": "Доторкнутий полум'ям",
+  "affix.irons_apothic:elemental/school_fire/armor": "Доторкнутий полум’ям",
   "affix.irons_apothic:elemental/school_fire/armor.suffix": "вогнетривкого серця",
   "affix.irons_apothic:elemental/school_holy/armor": "Освячений",
   "affix.irons_apothic:elemental/school_holy/armor.suffix": "божественної егіди",
@@ -130,9 +130,9 @@
   "affix.irons_apothic:elemental/school_lightning/armor": "Статичний",
   "affix.irons_apothic:elemental/school_lightning/armor.suffix": "штормового плащу",
   "affix.irons_apothic:elemental/school_nature/armor": "Земний",
-  "affix.irons_apothic:elemental/school_nature/armor.suffix": "кам'яної шкіри",
+  "affix.irons_apothic:elemental/school_nature/armor.suffix": "кам’яної шкіри",
   "affix.irons_apothic:elemental/school_abyssal/armor": "Глибоководний",
-  "affix.irons_apothic:elemental/school_abyssal/armor.suffix": "бар'єру безодні",
+  "affix.irons_apothic:elemental/school_abyssal/armor.suffix": "бар’єру безодні",
   "affix.irons_apothic:elemental/school_aqua/armor": "Океанічний",
   "affix.irons_apothic:elemental/school_aqua/armor.suffix": "хвильових гребенів",
   "affix.irons_apothic:elemental/school_sound/armor": "Резонансний",
@@ -142,5 +142,5 @@
   "affix.irons_apothic:elemental/school_symmetry/armor": "Збалансований",
   "affix.irons_apothic:elemental/school_symmetry/armor.suffix": "дзеркального захисту",
   "affix.irons_apothic:elemental/school_wind/armor": "Повітряний",
-  "affix.irons_apothic:elemental/school_wind/armor.suffix": "небесного бар'єра"
+  "affix.irons_apothic:elemental/school_wind/armor.suffix": "небесного бар’єра"
 }

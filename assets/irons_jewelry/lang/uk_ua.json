@@ -27,8 +27,8 @@
   "pattern.irons_jewelry.improved_gemset_ring.item": "Вишуканий перстень (%s)",
   "pattern.irons_jewelry.superior_gemset_ring": "Бездоганний дорогоцінний перстень",
   "pattern.irons_jewelry.superior_gemset_ring.item": "Бездоганний перстень (%s-%s)",
-  "pattern.irons_jewelry.tearstone_ring": "Сльозокам'яний перстень",
-  "pattern.irons_jewelry.tearstone_ring.item": "Сльозокам'яний перстень (%s)",
+  "pattern.irons_jewelry.tearstone_ring": "Сльозокам’яний перстень",
+  "pattern.irons_jewelry.tearstone_ring.item": "Сльозокам’яний перстень (%s)",
   "pattern.irons_jewelry.stoneplate_ring": "Каменеплитний перстень",
   "pattern.irons_jewelry.stoneplate_ring.item": "Каменеплитний перстень (%s)",
   "pattern.irons_jewelry.piglin_signet_ring": "Перстень з печаткою піґлінів",
@@ -143,7 +143,7 @@
   "action.irons_jewelry.explode.self": "підриває %s власника (радіусом %s блоків)",
   "action.irons_jewelry.explode.wind_burst": "заряд вітру",
   "action.irons_jewelry.heal.name": "Зцілення",
-  "action.irons_jewelry.heal": "зцілює %s здоров'я",
+  "action.irons_jewelry.heal": "зцілює %s здоров’я",
   "action.irons_jewelry.create_items.name": "Створення предметів",
   "action.irons_jewelry.create_items.chance": "із %s%% ймовірністю створює предмети: %s %s",
   "action.irons_jewelry.create_items": "створює предмети: %s %s",
@@ -217,11 +217,11 @@
   "damage_type.minecraft.player_explosion": "Вибух",
   "damage_type.minecraft.sonic_boom": "Звуковий удар",
   "damage_type.minecraft.bad_respawn_point": "Навмисний дизайн гри",
-  "damage_type.minecraft.outside_border": "Бар'єр",
+  "damage_type.minecraft.outside_border": "Бар’єр",
   "damage_type.minecraft.generic_kill": "Загальний",
   "damage_type.apothic_attributes.bleeding": "Кровотеча",
   "damage_type.apothic_attributes.cold_damage": "Холод",
   "damage_type.apothic_attributes.fire_damage": "Вогонь",
   "damage_type.apothic_attributes.detonation": "Детонація",
-  "damage_type.apothic_attributes.current_hp_damage": "Поточне здоров'я"
+  "damage_type.apothic_attributes.current_hp_damage": "Поточне здоров’я"
 }

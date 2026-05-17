@@ -30,7 +30,7 @@
   "gui.diet.config.buttonY.name": "Вертикальна позиція кнопки",
   "gui.diet.config.buttonY.description": "Позиція кнопки інтерфейсу дієти в інвентарі гравця по осі Y.",
   "gui.diet.config.addButton.name": "Наявність кнопки у інвентарі",
-  "gui.diet.config.addButton.description": "Якщо ввімкнено, в інвентарі гравця з'являється кнопка для переходу до інтерфейсу дієти.",
+  "gui.diet.config.addButton.description": "Якщо ввімкнено, в інвентарі гравця з’являється кнопка для переходу до інтерфейсу дієти.",
   "gui.diet.config.textColor.name": "Колір тексту меню дієти",
   "gui.diet.config.textColor.description": "Основний колір тексту інтерфейсу дієти у вигляді цілого або шістнадцяткового числа.",
   "gui.diet.config.deathPenaltyMin.name": "Мінімальний відсоток штрафу смерті",
@@ -47,6 +47,6 @@
   "gui.diet.config.foodOverrides.description": "Якість їжі перезаписує значення приросту дієти.\nФормат:\"modid:name;quality\"",
   "gui.diet.config.generateGroupsForEmptyItems.name": "Створення груп продуктів для некласифікованих предметів",
   "gui.diet.config.generateGroupsForEmptyItems.description": "Якщо ввімкнено, групи продуктів призначаються некласифікованим предметам на основі інгредієнтів.",
-  "gui.diet.config.hideTooltipsUntilEaten.name": "Приховування підказок для нез'їдених товарів",
-  "gui.diet.config.hideTooltipsUntilEaten.description": "Якщо ввімкнено, підказки груп продуктів приховані, доки гравець не з'їсть цей тип предмета."
+  "gui.diet.config.hideTooltipsUntilEaten.name": "Приховування підказок для нез’їдених товарів",
+  "gui.diet.config.hideTooltipsUntilEaten.description": "Якщо ввімкнено, підказки груп продуктів приховані, доки гравець не з’їсть цей тип предмета."
 }

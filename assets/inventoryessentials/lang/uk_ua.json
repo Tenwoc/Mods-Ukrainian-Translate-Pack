@@ -22,5 +22,5 @@
   "config.inventoryessentials.bulkTransferArmorSets": "Масово перекладати добіри обладунків",
   "config.inventoryessentials.bulkTransferArmorSets.tooltip": "Чи повинна броня, на яку натискають у інвентарі, замінюватися на всю відповідну броню.",
   "config.inventoryessentials.whereDidTheConfigsGo": "Налаштування переміщені до керувань",
-  "config.inventoryessentials.whereDidTheConfigsGo.tooltip": "Тепер ви можете перейти в налаштування і відв'язати відповідні клавіші Inventory Essentials!"
+  "config.inventoryessentials.whereDidTheConfigsGo.tooltip": "Тепер ви можете перейти в налаштування і відв’язати відповідні клавіші Inventory Essentials!"
 }

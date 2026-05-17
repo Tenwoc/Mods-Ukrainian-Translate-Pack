@@ -8,8 +8,8 @@
   "origin.origins.arachnid.name": "Павукоподібний",
   "origin.origins.arachnid.description": "Їх здібності лазати та ловити ворогів в павутину робить Павукоподібних найкращими мисливцями.",
 
-  "origin.origins.blazeborn.name": "Полум'яник",
-  "origin.origins.blazeborn.description": "Останні нащадки Пломенів, Полум'яники, мають вроджений імунітет до небезпек Незеру.",
+  "origin.origins.blazeborn.name": "Полум’яник",
+  "origin.origins.blazeborn.description": "Останні нащадки Пломенів, Полум’яники, мають вроджений імунітет до небезпек Незеру.",
 
   "origin.origins.avian.name": "Птахоподібний",
   "origin.origins.avian.description": "Птахоподібні втратили можливість до польоту дуже давно. Зараз цих мирних створінь можна побачити паруючими з одного місця на інше.",
@@ -27,7 +27,7 @@
   "origin.origins.enderian.description": "Народжені як діти Ендер Дракона, Ендерійці здатдні до телепортації але вразливі до води.",
 
   "origin.origins.shulk.name": "Шалк",
-  "origin.origins.shulk.description": "Будучи пов'язаними до Шалкерів, тіло Шалків вкрито захисною панциро-подібною шкірою.",
+  "origin.origins.shulk.description": "Будучи пов’язаними до Шалкерів, тіло Шалків вкрито захисною панциро-подібною шкірою.",
 
   "power.origins.water_breathing.name": "Зябри",
   "power.origins.water_breathing.description": "Ви можете дихати під водою, але не на суші.",
@@ -48,13 +48,13 @@
   "power.origins.fragile.description": "У вас на 3 сердечка менше, ніж у звичайних людей.",
 
   "power.origins.webbing.name": "Павутиномет",
-  "power.origins.webbing.description": "Коли ви б'єте ворога в ближньому бою, вони застрягають в павутині.",
+  "power.origins.webbing.description": "Коли ви б’єте ворога в ближньому бою, вони застрягають в павутині.",
 
   "power.origins.climbing.name": "Лазання",
   "power.origins.climbing.description": "Ви спроможні лазати по любому виду стін, не тільки по драбині.",
 
   "power.origins.carnivore.name": "Хижак",
-  "power.origins.carnivore.description": "Ваша дієта обмежена м'ясом, ви не можете їсти овочі.",
+  "power.origins.carnivore.description": "Ваша дієта обмежена м’ясом, ви не можете їсти овочі.",
 
   "power.origins.fire_immunity.name": "Імунітет до вогню",
   "power.origins.fire_immunity.description": "У вас є імунітет до любої шкоди від вогню.",
@@ -74,11 +74,11 @@
   "power.origins.tailwind.name": "Попутний вітер",
   "power.origins.tailwind.description": "Ви трохи швидші пішки ніж ішні.",
 
-  "power.origins.slow_falling.name": "Наче пір'їнка",
-  "power.origins.slow_falling.description": "Ви падаєте на землю так само обережно, як пір'їнка, тільки якщо ви не спішитеся.",
+  "power.origins.slow_falling.name": "Наче пір’їнка",
+  "power.origins.slow_falling.description": "Ви падаєте на землю так само обережно, як пір’їнка, тільки якщо ви не спішитеся.",
 
   "power.origins.vegetarian.name": "Вегетаріанець",
-  "power.origins.vegetarian.description": "Ви не здатні їсти м'ясо.",
+  "power.origins.vegetarian.description": "Ви не здатні їсти м’ясо.",
 
   "power.origins.fresh_air.name": "Свіже повітря",
   "power.origins.fresh_air.description": "Коли ви намагаєтесь поспати, ваше ліжко має бути щонайменше на 86 висоті, щоб ви могли дихати свіжим повітрям.",
@@ -101,7 +101,7 @@
   "power.origins.sprint_jump.name": "Сильні ноги",
   "power.origins.sprint_jump.description": "Ви можете стрибати вище якщо ви біжите.",
 
-  "power.origins.nine_lives.name": "Дев'ять життів",
+  "power.origins.nine_lives.name": "Дев’ять життів",
   "power.origins.nine_lives.description": "У вас на 1 сердечко менше ніж у звичайних людей.",
 
   "power.origins.cat_vision.name": "Нічний спосіб життя",
@@ -214,7 +214,7 @@
   "origins.gui.badge.recipe.crafting.shaped": "Рецепт майстрування (сформований):",
   "origins.gui.badge.recipe.crafting.shapeless": "Рецепт майстрування (безформний):",
 
-  "origins.gui.unbound_key": "§oвідв'язати§r",
+  "origins.gui.unbound_key": "§oвідв’язати§r",
 
   "origin.origins.random.name": "Випадково",
   "origin.origins.random.description": "Вам буде випадково призначено одне з:",

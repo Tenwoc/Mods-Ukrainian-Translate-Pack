@@ -15,7 +15,7 @@
   "item.paraglider.essence": "Сутність",
 
   "tooltip.paraglider.paraglider_broken": "Зламаний",
-  "tooltip.paraglider.heart_container.1": "Збільшує максимальний запас здоров'я на %s, до %s разів.",
+  "tooltip.paraglider.heart_container.1": "Збільшує максимальний запас здоров’я на %s, до %s разів.",
   "tooltip.paraglider.heart_container.1.hearts": "1 серце",
   "tooltip.paraglider.stamina_vessel.1": "Збільшує максимальну витривалість у %s разів.",
   "tooltip.paraglider.anti_vessel.0": "Повертає всі використані вами Сердечні Вмістилища та Ємності Витривалости.",
@@ -71,7 +71,7 @@
   "bargain.dialog.horned_statue.success.consumes_stamina.1": "Я не заперечуватиму, якщо ти захочеш дати мені більше §bЄмностей Витривалости§r.",
   "bargain.dialog.horned_statue.failure.not_enough_items.0": "Я знаюся на шахрайстві, хлопче, і можу з упевненістю сказати, що у тебе немає потрібних грошей.",
   "bargain.dialog.horned_statue.failure.not_enough_heart.0": "Я не бачу, як ти можеш зменшити кількість §bСердечних Вмістилищ§r.",
-  "bargain.dialog.horned_statue.failure.not_enough_heart.1": "Обережно... Віддаш ще трохи своїх §bСердечних Вмістилищ§r, і це може фатально вплинути на твоє здоров'я.",
+  "bargain.dialog.horned_statue.failure.not_enough_heart.1": "Обережно... Віддаш ще трохи своїх §bСердечних Вмістилищ§r, і це може фатально вплинути на твоє здоров’я.",
   "bargain.dialog.horned_statue.failure.not_enough_stamina.0": "Я не бачу, як ти можеш зменшити свої §bЄмності Витривалости§r.",
   "bargain.dialog.horned_statue.failure.not_enough_stamina.1": "Обережно... Даш мені ще трохи своїх §bЄмностей Витривалости§r, і ти не матимеш сили стояти.",
   "bargain.dialog.horned_statue.failure.not_enough_essence.0": "У мене зараз немає жодної з ваших §bсесенцій§r.",

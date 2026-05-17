@@ -1,12 +1,12 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: МЕ Бездротовий хаб
-    icon: extendedae:wireless_hub
+  parent: epp_intro/epp_intro-index.md
+  title: МЕ Бездротовий хаб
+  icon: extendedae:wireless_hub
 categories:
-- extended devices
+  - extended devices
 item_ids:
-- extendedae:wireless_hub
+  - extendedae:wireless_hub
 ---
 
 # МЕ Бездротовий хаб
@@ -17,7 +17,7 @@ item_ids:
 
 МЕ Бездротовий хаб працює так само, як <ItemLink id="extendedae:wireless_connect" />, але може сполучатися із 8 хабами/сполучниками.
 
-## Конфігурація з'єднання
+## Конфігурація з’єднання
 
 У ME Бездротового хаба є 8 портів. Він автоматично знайде доступний порт, коли ви сполучите його, використовуючи <ItemLink id="extendedae:wireless_tool" />.
 

@@ -7,9 +7,9 @@ navigation:
     "ae2:facade_item": "minecraft:stone"
   position: 110
 categories:
-- network infrastructure
+  - network infrastructure
 item_ids:
-- ae2:facade
+  - ae2:facade
 ---
 
 # Фасади
@@ -21,7 +21,7 @@ item_ids:
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Вони можуть покривати всі сторони кабелю, але не перекриватимуть [кабельні компоненти](../ae2-mechanics/cable-subparts.md) та з'єднання.
+Вони можуть покривати всі сторони кабелю, але не перекриватимуть [кабельні компоненти](../ae2-mechanics/cable-subparts.md) та з’єднання.
 
 <GameScene zoom="6"  interactive={true}>
   <ImportStructure src="../assets/assemblies/facades_2.snbt" />

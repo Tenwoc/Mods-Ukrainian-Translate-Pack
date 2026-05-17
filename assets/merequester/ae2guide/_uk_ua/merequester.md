@@ -20,7 +20,7 @@ item_ids:
 
 ## Вступ
 
-Для початку розмістіть <ItemLink id="requester"/> та з'єднайте його зі своєю мережею. Переконайтеся, що він знаходиться в одній мережі разом із вашою [логістикою автовироблення](ae2:ae2-mechanics/autocrafting.md). Вона повинна включати [процесор вироблення](ae2:ae2-mechanics/autocrafting.md#процесори-вироблення) та <ItemLink id="ae2:pattern_provider"/>.
+Для початку розмістіть <ItemLink id="requester"/> та з’єднайте його зі своєю мережею. Переконайтеся, що він знаходиться в одній мережі разом із вашою [логістикою автовироблення](ae2:ae2-mechanics/autocrafting.md). Вона повинна включати [процесор вироблення](ae2:ae2-mechanics/autocrafting.md#процесори-вироблення) та <ItemLink id="ae2:pattern_provider"/>.
 
 <RecipeFor id="requester"/>
 

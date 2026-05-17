@@ -121,9 +121,9 @@
   "item.farmersdelight.melon_popsicle": "Кавунове морозиво",
   "item.farmersdelight.glow_berry_custard": "Сяйно-ягідний заварний крем",
 
-  "item.farmersdelight.earthworm": "Дощовий черв'як",
+  "item.farmersdelight.earthworm": "Дощовий черв’як",
 
-  "item.farmersdelight.flint_knife": "Крем'яний ніж",
+  "item.farmersdelight.flint_knife": "Крем’яний ніж",
   "item.farmersdelight.iron_knife": "Залізний ніж",
   "item.farmersdelight.golden_knife": "Золотий ніж",
   "item.farmersdelight.diamond_knife": "Діамантовий ніж",
@@ -208,7 +208,7 @@
   "farmersdelight.tooltip.horse_feed.when_feeding": "Якщо згодувати прирученому коню:",
   "farmersdelight.tooltip.milk_bottle": "Очищає 1 ефект",
   "farmersdelight.tooltip.hot_cocoa": "Очищає 1 шкідливий ефект",
-  "farmersdelight.tooltip.melon_juice": "Відновлює трохи здоров'я",
+  "farmersdelight.tooltip.melon_juice": "Відновлює трохи здоров’я",
 
   "farmersdelight.advancement.root": "Farmer's Delight",
   "farmersdelight.advancement.root.desc": "Цілий світ смаків чекає на вас!",
@@ -221,7 +221,7 @@
   "farmersdelight.advancement.place_organic_compost.desc": "Покладіть трохи органічного компосту. Краще компостується на сонці, воді та грибах!",
   "farmersdelight.advancement.get_rich_soil": "Вирощування їжі",
   "farmersdelight.advancement.get_rich_soil.desc": "Органічний компост повільно розкладається на родючий ґрунт, покращуючи вашу ферму!",
-  "farmersdelight.advancement.get_ham": "Дикий м'ясник",
+  "farmersdelight.advancement.get_ham": "Дикий м’ясник",
   "farmersdelight.advancement.get_ham.desc": "Використайте ніж, щоб дістати шинку зі свиней чи хоґлінів",
   "farmersdelight.advancement.use_cutting_board": "Стежте за пальцями",
   "farmersdelight.advancement.use_cutting_board.desc": "Маючи в руках інструмент, використайте дошку для нарізання, щоб розділити предмет",
@@ -269,7 +269,7 @@
   "farmersdelight.subtitles.rotten_tomato.throw": "Гнилий помідор летить",
   "farmersdelight.subtitles.rotten_tomato.hit": "Гнилий помідор бризкає",
 
-  "farmersdelight.block.feast.use_container": "Щоб це з'їсти, вам потрібна %s.",
+  "farmersdelight.block.feast.use_container": "Щоб це з’їсти, вам потрібна %s.",
   "farmersdelight.block.rice.invalid_placement": "За межами мілководдя ця культура не виживе.",
   "farmersdelight.block.cutting_board.invalid_item": "Здається, це не можна розрізати...",
   "farmersdelight.block.cutting_board.invalid_tool": "Можливо, іншим інструментом...",
@@ -288,7 +288,7 @@
   "farmersdelight.rei.decomposition.light": "Процес пришвидшується під впливом сонячного світла",
   "farmersdelight.rei.decomposition.fluid": "Процес пришвидшується з додаванням води",
   "farmersdelight.rei.decomposition.accelerators": "Процес пришвидшується за допомогою додавання активаторів (див. нижче)",
-  "farmersdelight.rei.info.straw": "Сухе рослинне волокно, яке використовується в майструванні. Отримується шляхом зрізання ножем трав'янистих культур і рослин.",
+  "farmersdelight.rei.info.straw": "Сухе рослинне волокно, яке використовується в майструванні. Отримується шляхом зрізання ножем трав’янистих культур і рослин.",
   "farmersdelight.rei.info.knife": "Ножі — це легка холодна зброя. Вони можуть збирати сіно з трав і гарантують отримання додаткового луту з тварин.",
-  "farmersdelight.rei.info.ham": "Великий шматок м'яса зі свинячої або хоґлінської ніжки. Вам знадобиться щось легше меча, щоб розрізати її..."
+  "farmersdelight.rei.info.ham": "Великий шматок м’яса зі свинячої або хоґлінської ніжки. Вам знадобиться щось легше меча, щоб розрізати її..."
 }

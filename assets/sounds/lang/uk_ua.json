@@ -110,7 +110,7 @@
 
   "sounds.config.chat.messaging": "Обмін повідомленнями",
   "sounds.config.mentionKeywords.option": "Ключові слова згадки",
-  "sounds.config.mentionKeywords.option.description": "Список ключових слів, які викликають звуковий ефект згадки, коли з'являються в чаті.",
+  "sounds.config.mentionKeywords.option.description": "Список ключових слів, які викликають звуковий ефект згадки, коли з’являються в чаті.",
   "sounds.config.option.ignoreSystemChats": "Ігнорувати системні повідомлення",
   "sounds.config.option.description.ignoreSystemChats": "Чи слід ігнорувати системні повідомлення в чаті під час відтворення звукових ефектів?",
   "sounds.config.typing.option": "Набір тексту в чаті",

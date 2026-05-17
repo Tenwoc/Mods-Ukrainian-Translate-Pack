@@ -5,10 +5,10 @@ navigation:
   icon: toggle_bus
   position: 110
 categories:
-- network infrastructure
+  - network infrastructure
 item_ids:
-- ae2:toggle_bus
-- ae2:inverted_toggle_bus
+  - ae2:toggle_bus
+  - ae2:inverted_toggle_bus
 ---
 
 # Шина перемикання
@@ -18,9 +18,9 @@ item_ids:
 <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Шина, яка функціонує як <ItemLink id="fluix_glass_cable" /> чи інші кабелі, але дозволяє перемикати стан її з'єднання редстоуновим сигналом. Це дозволяє відрізати ділянки [МЕ мережі](../ae2-mechanics/me-network-connections.md).
+Шина, яка функціонує як <ItemLink id="fluix_glass_cable" /> чи інші кабелі, але дозволяє перемикати стан її з’єднання редстоуновим сигналом. Це дозволяє відрізати ділянки [МЕ мережі](../ae2-mechanics/me-network-connections.md).
 
-Коли подається сигнал редстоуну, компонент дозволяє з'єднання, а <ItemLink id="inverted_toggle_bus" /> забезпечує зворотну поведінку, вимикаючи з'єднання.
+Коли подається сигнал редстоуну, компонент дозволяє з’єднання, а <ItemLink id="inverted_toggle_bus" /> забезпечує зворотну поведінку, вимикаючи з’єднання.
 
 Зверніть увагу, що перемикання цих компонентів може призвести до перевантаження мережі та перерахунку підключених пристроїв.
 

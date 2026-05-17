@@ -10,7 +10,7 @@
   "ping.key.goto": "Позначка (Йти сюди)",
 
   "_comment": "Subtitles",
-  "ping.subtitle.bloop": "З'являється позначка",
+  "ping.subtitle.bloop": "З’являється позначка",
 
   "_comment": "Gui",
   "ping.pingSelect.title" : "Вибір позначки"

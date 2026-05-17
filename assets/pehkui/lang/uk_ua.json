@@ -4,7 +4,7 @@
   "argument.entity.options.pehkui.scale_nbt.description": "Сутності зі шкалою NBT",
   "argument.pehkui.modifier.invalid": "Невідомий модифікатор масштабу '%s'",
   "argument.pehkui.type.invalid": "Невідомий тип масштабу '%s'",
-  "argument.pehkui.easing.invalid": "Невідоме пом'якшення '%s'",
+  "argument.pehkui.easing.invalid": "Невідоме пом’якшення '%s'",
   
   "commands.pehkui.debug.audit.end": "Аудит середовища Mixin завершено!",
   "commands.pehkui.debug.audit.end.client": "Аудит середовища Mixin (клієнт) завершено!",
@@ -36,7 +36,7 @@
   "pehkui.configgui.scaledReach": "Чи вмикати шкалу досяжності",
   "pehkui.configgui.scaledAttack": "Чи вмикати шкалу шкоди при атаці",
   "pehkui.configgui.scaledDefense": "Чи вмикати шкалу захисту",
-  "pehkui.configgui.scaledHealth": "Чи вмикати шкалу здоров'я",
+  "pehkui.configgui.scaledHealth": "Чи вмикати шкалу здоров’я",
   "pehkui.configgui.scaledItemDrops": "Чи вмикати шкалу падіння предметів",
   "pehkui.configgui.scaledProjectiles": "Чи вмикати шкалу вистрілених снарядів",
   "pehkui.configgui.scaledExplosions": "Чи вмикати шкалу вибуху",

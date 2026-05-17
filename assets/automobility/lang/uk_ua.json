@@ -69,7 +69,7 @@
   "automobile_control.drift": "Дрифтувати",
   "automobile_control.honk": "Сигналити",
 
-  "prefab.automobility.wooden_motorcar": "Дерев'яний легковий автомобіль",
+  "prefab.automobility.wooden_motorcar": "Дерев’яний легковий автомобіль",
   "prefab.automobility.copper_motorcar": "Мідний легковий автомобіль",
   "prefab.automobility.steel_motorcar": "Сталевий легковий автомобіль",
   "prefab.automobility.golden_motorcar": "Золотий легковий автомобіль",
@@ -128,7 +128,7 @@
   "stat.automobility.engine.speed": "Швидкість",
   "stat.automobility.engine.speed.readout": "%s",
 
-  "frame.automobility.wooden_motorcar": "Дерев'яний легковий автомобіль",
+  "frame.automobility.wooden_motorcar": "Дерев’яний легковий автомобіль",
   "frame.automobility.copper_motorcar": "Мідний легковий автомобіль",
   "frame.automobility.steel_motorcar": "Сталевий легковий автомобіль",
   "frame.automobility.golden_motorcar": "Золотий легковий автомобіль",
@@ -173,7 +173,7 @@
   "wheel.automobility.steel": "Сталеве",
   "wheel.automobility.convertible": "Кабріолетне",
 
-  "engine.automobility.stone": "Кам'яний",
+  "engine.automobility.stone": "Кам’яний",
   "engine.automobility.copper": "Мідний",
   "engine.automobility.iron": "Залізний",
   "engine.automobility.gold": "Золотий",

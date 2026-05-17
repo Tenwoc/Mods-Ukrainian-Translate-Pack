@@ -5,10 +5,10 @@ navigation:
   icon: certus_quartz_cutting_knife
   position: 410
 categories:
-- tools
+  - tools
 item_ids:
-- ae2:certus_quartz_cutting_knife
-- ae2:nether_quartz_cutting_knife
+  - ae2:certus_quartz_cutting_knife
+  - ae2:nether_quartz_cutting_knife
 ---
 
 # Кварцові ножі
@@ -21,7 +21,7 @@ item_ids:
 
 Ножі потрібні для створення двох предметів: <ItemLink id="name_press" /> та <ItemLink id="cable_anchor" />.
 
-Щоб створити штамп іменування, застосуйте ніж та вставте металевий злиток. Потім вам потрібно буде ввести ім'я, яке ви хочете штампувати, на пластині, а потім просто вийміть готовий штамп.
+Щоб створити штамп іменування, застосуйте ніж та вставте металевий злиток. Потім вам потрібно буде ввести ім’я, яке ви хочете штампувати, на пластині, а потім просто вийміть готовий штамп.
 
 ## Рецепти
 

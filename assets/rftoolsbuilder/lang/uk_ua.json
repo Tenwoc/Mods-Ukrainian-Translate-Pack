@@ -29,11 +29,11 @@
   "item.rftoolsbuilder.shape_card_pump": "Фігурна картка (насос)",
   "item.rftoolsbuilder.shape_card_pump_clear": "Фігурна картка (очисний насос)",
   "item.rftoolsbuilder.shape_card_quarry": "Фігурна картка (очищення)",
-  "item.rftoolsbuilder.shape_card_quarry_clear": "Фігурна картка (очищення кар'єру)",
-  "item.rftoolsbuilder.shape_card_quarry_clear_fortune": "Фігурна картка (очищення кар'єру фортуни)",
-  "item.rftoolsbuilder.shape_card_quarry_clear_silk": "Фігурна картка (очищення кар'єру шовку)",
+  "item.rftoolsbuilder.shape_card_quarry_clear": "Фігурна картка (очищення кар’єру)",
+  "item.rftoolsbuilder.shape_card_quarry_clear_fortune": "Фігурна картка (очищення кар’єру фортуни)",
+  "item.rftoolsbuilder.shape_card_quarry_clear_silk": "Фігурна картка (очищення кар’єру шовку)",
   "item.rftoolsbuilder.shape_card_quarry_fortune": "Фігурна картка (очищення фортуни)",
-  "item.rftoolsbuilder.shape_card_quarry_silk": "Фігурна картка (кар'єр шовку)",
+  "item.rftoolsbuilder.shape_card_quarry_silk": "Фігурна картка (кар’єр шовку)",
   "item.rftoolsbuilder.shape_card_void": "Фігурна карта (Порожнеча)",
   "item.rftoolsbuilder.space_chamber_card": "Картка простору",
   "item.rftoolsbuilder.vehicle_card": "Картка транспортного засобу",
@@ -41,7 +41,7 @@
   "item.rftoolsbuilder.vehicle_status_module": "Модуль статусу транспортного засобу",
   "itemGroup.rftoolsbuilder": "RFTools Builder",
 
-  "key.unmountVehicle": "Від'єднати транспортний засіб",
+  "key.unmountVehicle": "Від’єднати транспортний засіб",
 
   "message.rftoolsbuilder.shiftmessage": "<Натисніть Shift для подробиць>",
 
@@ -90,13 +90,13 @@
   "message.rftoolsbuilder.mover_status.header": "Екран стану переміщувача. За допомогою цього блоку ви можете отримати більше інформації про цю платформу",
   "message.rftoolsbuilder.mover_status.gold": "Покладіть це у свій транспортний засіб!",
 
-  "message.rftoolsbuilder.vehicle_builder.header": "Використовуючи картку простору, пов'язану з камерою простору, цей блок може зробити транспортний засіб у картці транспортного засобу",
+  "message.rftoolsbuilder.vehicle_builder.header": "Використовуючи картку простору, пов’язану з камерою простору, цей блок може зробити транспортний засіб у картці транспортного засобу",
   "message.rftoolsbuilder.vehicle_card.header": "Картка транспортного засобу. Використовуйте конструктор транспортних засобів, щоб додати транспортний засіб до цієї картки",
   "message.rftoolsbuilder.vehicle_card.name": "Назва: ",
   "message.rftoolsbuilder.vehicle_card.contents": "Вміст: ",
 
-  "message.rftoolsbuilder.space_chamber_card.header": "Використовуйте цю картку для зв'язку з просторовою камерою",
-  "message.rftoolsbuilder.space_chamber_card.gold": "Клацніть ПКМ на контролері просторової камери, щоб встановити канал для цієї картки. Клацніть ПКМ в повітрі, щоб показати огляд вмісту області. Вставте її в конструктор, щоб скопіювати/перемістити прив'язану область",
+  "message.rftoolsbuilder.space_chamber_card.header": "Використовуйте цю картку для зв’язку з просторовою камерою",
+  "message.rftoolsbuilder.space_chamber_card.gold": "Клацніть ПКМ на контролері просторової камери, щоб встановити канал для цієї картки. Клацніть ПКМ в повітрі, щоб показати огляд вмісту області. Вставте її в конструктор, щоб скопіювати/перемістити прив’язану область",
   "message.rftoolsbuilder.space_chamber_card.cost": "Базова вартість: ",
   "message.rftoolsbuilder.space_chamber_card.channel": "Канал: ",
   "message.rftoolsbuilder.space_chamber_card.extra": "(остаточна вартість залежить від рівня інфузії)",

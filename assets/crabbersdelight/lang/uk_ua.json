@@ -11,8 +11,8 @@
   "item.crabbersdelight.cooked_shrimp": "Варена креветка",
 
   "item.crabbersdelight.clam": "Молюск",
-  "item.crabbersdelight.raw_clam_meat": "Сире м'ясо молюска",
-  "item.crabbersdelight.cooked_clam_meat": "Варене м'ясо молюска",
+  "item.crabbersdelight.raw_clam_meat": "Сире м’ясо молюска",
+  "item.crabbersdelight.cooked_clam_meat": "Варене м’ясо молюска",
 
   "item.crabbersdelight.raw_squid_tentacles": "Сирі мацаки кальмара",
   "item.crabbersdelight.cooked_squid_tentacles": "Смажені мацаки кальмара",
@@ -20,15 +20,15 @@
   "item.crabbersdelight.raw_glow_squid_tentacles": "Сирі мацаки сяйного кальмара",
   "item.crabbersdelight.cooked_glow_squid_tentacles": "Смажені мацаки сяйного кальмара",
 
-  "item.crabbersdelight.raw_frog_leg": "Сира жаб'яча лапка",
-  "item.crabbersdelight.cooked_frog_leg": "Смажена жаб'яча лапка",
+  "item.crabbersdelight.raw_frog_leg": "Сира жаб’яча лапка",
+  "item.crabbersdelight.cooked_frog_leg": "Смажена жаб’яча лапка",
 
   "item.crabbersdelight.kelp_shake": "Коктейль з ламінарії",
   "item.crabbersdelight.crab_cakes": "Крабові котлети",
   "item.crabbersdelight.crab_legs": "Крабова нога",
   "item.crabbersdelight.cooked_tropical_fish": "Варена тропічна риба",
   "item.crabbersdelight.shrimp_skewer": "Шашлик з креветок",
-  "item.crabbersdelight.surf_and_turf": "Море і м'ясо",
+  "item.crabbersdelight.surf_and_turf": "Море і м’ясо",
   "item.crabbersdelight.fish_stick": "Рибні палички",
   "item.crabbersdelight.clam_bake": "Запіканка з молюсків",
   "item.crabbersdelight.clam_chowder": "Суп з молюсків",
@@ -43,7 +43,7 @@
   "item.crabbersdelight.jar_of_pickles": "Банка огірків",
   "item.crabbersdelight.sea_pickle_juice": "Розсіл морських огірків",
   "item.crabbersdelight.squid_kebab": "Кебаб зі кальмаром",
-  "item.crabbersdelight.frog_leg_kebab": "Кебаб із жаб'ячою ногою",
+  "item.crabbersdelight.frog_leg_kebab": "Кебаб із жаб’ячою ногою",
   "item.crabbersdelight.coral_crunch": "Коралові снеки",
 
   "item.crabbersdelight.soggy_flesh": "Замочена плоть",
@@ -111,7 +111,7 @@
   "block.crabbersdelight.tropical_fish_barrel": "Діжка з тропічною рибою",
   "block.crabbersdelight.squid_barrel": "Діжка зі кальмарами",
   "block.crabbersdelight.glow_squid_barrel": "Діжка із сяйними кальмарами",
-  "block.crabbersdelight.frog_leg_barrel": "Діжка із жаб'ячими ніжками",
+  "block.crabbersdelight.frog_leg_barrel": "Діжка із жаб’ячими ніжками",
   "block.crabbersdelight.lanternfish_barrel": "Діжка з рибою-ліхтариком",
   "block.crabbersdelight.nautilus_shell_block": "Блок мушель навтилуса",
   "block.crabbersdelight.pearl_block": "Перловий блок",

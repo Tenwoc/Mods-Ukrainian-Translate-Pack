@@ -19,7 +19,7 @@
   "jei.tooltip.ingredient.list.disabled": "JEI вимкнуто.",
   "jei.tooltip.ingredient.list.disabled.how.to.fix": "Для активації натисніть %s.",
   "jei.tooltip.bookmarks": "Обране JEI",
-  "jei.tooltip.bookmarks.usage.nokey": "Додайте прив'язку клавіши для Обраного JEI у налаштуваннях керування.",
+  "jei.tooltip.bookmarks.usage.nokey": "Додайте прив’язку клавіши для Обраного JEI у налаштуваннях керування.",
   "jei.tooltip.bookmarks.usage.key": "Наведіть курсор на інгредієнт і натисніть \"%s\", щоб додати його до закладок.",
   "jei.tooltip.bookmarks.not.enough.space": "Тут недостатньо місця для відображення списку Обраних JEI.",
 
@@ -106,7 +106,7 @@
   "config.jei.interface.bookmarkOverlayEnabled.comment": "Показувати списку обраного поруч із відкритими графічними інтерфейсами.",
   "config.jei.search": "Пошук",
   "config.jei.search.comment": "Налаштування, які відповідають за пошук.",
-  "config.jei.search.modNameSearchMode": "@Ім'яМоду",
+  "config.jei.search.modNameSearchMode": "@Ім’яМоду",
   "config.jei.search.modNameSearchMode.comment": "Режим пошуку за іменем мода(префікс: @)",
   "config.jei.search.tooltipSearchMode": "#СпливаючаПідказка",
   "config.jei.search.tooltipSearchMode.comment": "Режим пошуку по спливаючій підказці (префікс: #)",

@@ -71,9 +71,9 @@
   "sodium.extras.options.displayfps.gravity.right": "Праворуч",
 
   "sodium.extras.options.displayfps.system.title": "Відображення метрик",
-  "sodium.extras.options.displayfps.system.desc": "Відображає використання пам'яті та використання GPU поруч із лічильником FPS.",
+  "sodium.extras.options.displayfps.system.desc": "Відображає використання пам’яті та використання GPU поруч із лічильником FPS.",
   "sodium.extras.options.displayfps.system.gpu": "Тільки графіка",
-  "sodium.extras.options.displayfps.system.ram": "Тільки пам'ять",
+  "sodium.extras.options.displayfps.system.ram": "Тільки пам’ять",
 
   "sodium.extras.options.displayfps.margin.title": "Поле тексту",
   "sodium.extras.options.displayfps.margin.desc": "Зсув відображення FPS",

@@ -2,7 +2,7 @@
   "item.reliquified_lenders_cataclysm.scouring_eye": "Око-шукач",
   "tooltip.relics.scouring_eye.description": "Око, вирване з очниці одного з легендарних монстрів Енду. Попри роки, що минули, воно все ще живе і шукає ціль для наступної битви...",
   "tooltip.relics.scouring_eye.ability.glowing_scour": "Переслідування",
-  "tooltip.relics.scouring_eye.ability.glowing_scour.description": "Запам'ятовує останню ціль, яку гравець атакував протягом %2$s секунд. Коли здатність активована, гравець телепортується до запам'ятованої цілі, а здатність переходить у режим перезаряджання на %1$s секунд.",
+  "tooltip.relics.scouring_eye.ability.glowing_scour.description": "Запам’ятовує останню ціль, яку гравець атакував протягом %2$s секунд. Коли здатність активована, гравець телепортується до запам’ятованої цілі, а здатність переходить у режим перезаряджання на %1$s секунд.",
   "tooltip.relics.scouring_eye.ability.glowing_scour.predicate.target": "Ціль обрано",
   "tooltip.relics.scouring_eye.ability.glowing_scour.predicate.tp_allowed": "Умови телепортації виконані",
   "tooltip.relics.scouring_eye.leveling_source.glowing_scour.title": "Переслідування",

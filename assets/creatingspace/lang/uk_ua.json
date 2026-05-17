@@ -310,13 +310,13 @@
   "creatingspace.ponder.rocket_debugging.text_2": "Немає останнього польоту",
   "creatingspace.ponder.rocket_debugging.text_3": "Якщо не вистачає палива, ви отримаєте ось таке повідомлення:",
   "creatingspace.ponder.rocket_debugging.text_4": "Не вистачає пального",
-  "creatingspace.ponder.rocket_debugging.text_5": "Додайте більше пального, якого не вистачає, щоб розв'язати проблему:",
+  "creatingspace.ponder.rocket_debugging.text_5": "Додайте більше пального, якого не вистачає, щоб розв’язати проблему:",
   "creatingspace.ponder.rocket_debugging.text_6": "Якщо є достатньо палива, але пропорція неправильна, ви отримаєте таке повідомлення:",
   "creatingspace.ponder.rocket_debugging.text_7": "Неправильне співвідношення пального",
-  "creatingspace.ponder.rocket_debugging.text_8": "Збалансуйте паливо, щоб розв'язати проблему",
+  "creatingspace.ponder.rocket_debugging.text_8": "Збалансуйте паливо, щоб розв’язати проблему",
   "creatingspace.ponder.rocket_debugging.text_9": "Якщо ракета занадто важка, ви отримаєте повідомлення:",
   "creatingspace.ponder.rocket_debugging.text_10": "Недостатня тяга",
-  "creatingspace.ponder.rocket_debugging.text_11": "Додайте більше двигунів, щоб розв'язати проблему",
+  "creatingspace.ponder.rocket_debugging.text_11": "Додайте більше двигунів, щоб розв’язати проблему",
 
 
 
@@ -412,7 +412,7 @@
   "creatingspace.schedule.condition.time_of_day": "Час доби",
   "creatingspace.schedule.condition.fluid_threshold": "Поріг рідини",
   "creatingspace.schedule.condition.item_threshold": "Поріг предметів",
-  "creatingspace.schedule.condition.redstone_link": "Редстоуновий зв'язок",
+  "creatingspace.schedule.condition.redstone_link": "Редстоуновий зв’язок",
   "creatingspace.schedule.condition.player_count": "Кількість гравців-пасажирів",
   "creatingspace.schedule.condition.idle": "Неактивний інвентар",
   "creatingspace.science.mass": "Маса",

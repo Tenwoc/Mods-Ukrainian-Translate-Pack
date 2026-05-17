@@ -6,9 +6,9 @@
     "itemGroup.enderchests": "EnderChests",
 
     "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
-    "error.enderchests.bag.nolink1": "Неможливо прив'язати торбу, ви не є власником цієї скрині",
-    "error.enderchests.bag.nolink2": "Неможливо прив'язати торбу, власник скрині невідомий",
-    "error.enderchests.bag.nolink3": "Неможливо прив'язати торбу, ви не в одній команді",
+    "error.enderchests.bag.nolink1": "Неможливо прив’язати торбу, ви не є власником цієї скрині",
+    "error.enderchests.bag.nolink2": "Неможливо прив’язати торбу, власник скрині невідомий",
+    "error.enderchests.bag.nolink3": "Неможливо прив’язати торбу, ви не в одній команді",
     "error.enderchests.bag.corrupted": "Неможливо відкрити торбу; Відсутні дані NBT стосу",
 
     "error.enderchests.chest.public.disabled": "Публічні скрині вимкнено, щоб користуватися ними, їх потрібно покращити",

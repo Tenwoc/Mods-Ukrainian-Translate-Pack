@@ -42,7 +42,7 @@
     "info.apothic_enchanting.masterwork": "Шедевр",
     "info.apothic_enchanting.twisted": "Химерно",
     "info.apothic_enchanting.corrupted": "Проклято",
-    "info.apothic_enchanting.enchanting": "Столи зачарування тепер можуть мати понад 30 рівнів.  Деякі чари можуть з'являтися лише після 30-го рівня.",
+    "info.apothic_enchanting.enchanting": "Столи зачарування тепер можуть мати понад 30 рівнів.  Деякі чари можуть з’являтися лише після 30-го рівня.",
     "gui.apothic_enchanting.enchant.eterna": "Етерна",
     "gui.apothic_enchanting.enchant.quanta": "Кванта",
     "gui.apothic_enchanting.enchant.arcana": "Аркана",
@@ -98,7 +98,7 @@
     "info.apothic_enchanting.tradeable.not": "Неможливо виторгувати",
     "info.apothic_enchanting.treasure": "Скарб",
     "info.apothic_enchanting.treasure.not": "Не скарб",
-    "info.apothic_enchanting.filtering_shelf": "Вставте зачаровані книги, щоб вони не з'являлися у столі.",
+    "info.apothic_enchanting.filtering_shelf": "Вставте зачаровані книги, щоб вони не з’являлися у столі.",
     "info.apothic_enchanting.filtering_shelf2": "Надає етерну та аркану залежно від кількості вкладених книг.",
     "info.apothic_enchanting.limit": "[Межа: %s]",
 
@@ -152,7 +152,7 @@
     "item.apothic_enchanting.ender_lead": "Повідець Енду",
     "item.apothic_enchanting.ender_lead.desc": "Може захоплювати і переміщувати більшість сутностей",
     "item.apothic_enchanting.occult_ender_lead": "Окультний повідець Енду",
-    "item.apothic_enchanting.occult_ender_lead.desc": "Може захоплювати і переміщувати більшість сутностей, а також прив'язувати їх до породжувачів",
+    "item.apothic_enchanting.occult_ender_lead.desc": "Може захоплювати і переміщувати більшість сутностей, а також прив’язувати їх до породжувачів",
 
     "item.apothic_enchanting.music_disc_eterna": "Платівка",
     "jukebox_song.apothic_enchanting.eterna": "Firel — Eterna",

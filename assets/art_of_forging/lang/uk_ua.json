@@ -15,9 +15,9 @@
 	"tetra.stats.art_of_forging:evoking_maw.tooltip_short": "Викликає ікла заклинача в момент удару",
 
 	"art_of_forging.effect.life_steal.name": "Крадіжка життя",
-	"art_of_forging.effect.life_steal.tooltip": "Ймовірність забрати §e%s здоров'я§r після успішної атаки (§e%s шанс).",
+	"art_of_forging.effect.life_steal.tooltip": "Ймовірність забрати §e%s здоров’я§r після успішної атаки (§e%s шанс).",
 	"tetra.stats.art_of_forging:life_steal": "Крадіжка життя",
-	"tetra.stats.art_of_forging:life_steal.tooltip_short": "Ймовірність забрати здоров'я після успішної атаки",
+	"tetra.stats.art_of_forging:life_steal.tooltip_short": "Ймовірність забрати здоров’я після успішної атаки",
 
 	"art_of_forging.effect.knockback.name": "Відкидання",
 	"art_of_forging.effect.knockback.tooltip": "Відбиває ціль на значення додаткової §e%s потужності§r (Цей ефект також можна обернути, щоб підтягувати цілі до себе).",
@@ -52,7 +52,7 @@
 	"art_of_forging.effect.vengeance.name": "Помста",
 	"art_of_forging.effect.vengeance.tooltip": "Ви завдаєте на §e%s% більше шкоди§r, коли маєте §e%s або менше сердець§r.",
 	"tetra.stats.art_of_forging:vengeance": "Помста",
-	"tetra.stats.art_of_forging:vengeance.tooltip_short": "Ви завдаєте тим більше шкоди, чим менше у вас здоров'я",
+	"tetra.stats.art_of_forging:vengeance.tooltip_short": "Ви завдаєте тим більше шкоди, чим менше у вас здоров’я",
 
 	"art_of_forging.effect.resolve.name": "Рішучість",
 	"art_of_forging.effect.resolve.tooltip": "Ви отримуєте силу та стійкість на §e%s секунд§r, коли маєте §e%s або менше сердець§r.",
@@ -70,14 +70,14 @@
 	"tetra.stats.art_of_forging:infernal_rebuke.tooltip_short": "Підпалює ворогів та відкидає їх із деяким шансом",
 
 	"art_of_forging.effect.hubris.name": "Прокляття гордині",
-	"art_of_forging.effect.hubris.tooltip": "Маючи 90%% або більше здоров'я ви завдаєте на §e%s більше шкоди§r. Однак при втраті здоров'я до 30%% або нижче шкода від зброї зменшується до менш ніж половини від початкової шкоди.",
+	"art_of_forging.effect.hubris.tooltip": "Маючи 90%% або більше здоров’я ви завдаєте на §e%s більше шкоди§r. Однак при втраті здоров’я до 30%% або нижче шкода від зброї зменшується до менш ніж половини від початкової шкоди.",
 	"tetra.stats.art_of_forging:hubris": "Прокляття гордині",
-	"tetra.stats.art_of_forging:hubris.tooltip_short": "При повному здоров'ї ви завдаєте більше шкоди, однак, при втраті здоров'я зменшується і ваша шкода",
+	"tetra.stats.art_of_forging:hubris.tooltip_short": "При повному здоров’ї ви завдаєте більше шкоди, однак, при втраті здоров’я зменшується і ваша шкода",
 
 	"art_of_forging.effect.slaughtering.name": "Нищення",
-	"art_of_forging.effect.slaughtering.tooltip": "Ви завдаєте на §e%s більше шкоди§r, коли у вашої цілі більше §e%s% здоров'я§r.",
+	"art_of_forging.effect.slaughtering.tooltip": "Ви завдаєте на §e%s більше шкоди§r, коли у вашої цілі більше §e%s% здоров’я§r.",
 	"tetra.stats.art_of_forging:slaughtering": "Нищення",
-	"tetra.stats.art_of_forging:slaughtering.tooltip_short": "Ви завдаєте більше шкоди , коли у вашої цілі більше певного рівня здоров'я",
+	"tetra.stats.art_of_forging:slaughtering.tooltip_short": "Ви завдаєте більше шкоди , коли у вашої цілі більше певного рівня здоров’я",
 
 	"art_of_forging.effect.carnage.name": "Різанина",
 	"art_of_forging.effect.carnage.tooltip": "Атакуючи ціль, ви завдаєте 10%% більше шкоди. За кожну наступну атаку додається ще 10%% шкоди, аж до 40%%. Це накопичення втрачається після смерті.",
@@ -85,9 +85,9 @@
 	"tetra.stats.art_of_forging:carnage.tooltip_short": "Атакуючи ціль, ви завдаєте більше шкоди, що може накопичуватися за кожну атаку, доки ви живі",
 
 	"art_of_forging.effect.judgement.name": "Вирок",
-	"art_of_forging.effect.judgement.tooltip": "Якщо ваш ворог має §e%s здоров'я§r, ви отримуєте §e%s% шансу§r миттєво вбити її.",
+	"art_of_forging.effect.judgement.tooltip": "Якщо ваш ворог має §e%s здоров’я§r, ви отримуєте §e%s% шансу§r миттєво вбити її.",
 	"tetra.stats.art_of_forging:judgement": "Вирок",
-	"tetra.stats.art_of_forging:judgement.tooltip_short": "Якщо ваш ворог має менше певної кількості здоров'я, ви отримуєте шанс миттєво вбити її",
+	"tetra.stats.art_of_forging:judgement.tooltip_short": "Якщо ваш ворог має менше певної кількості здоров’я, ви отримуєте шанс миттєво вбити її",
 
 	"art_of_forging.effect.retribution.name": "Відплата",
 	"art_of_forging.effect.retribution.tooltip": "Ви завдаєте на §e%s більше шкоди§r, коли вас було атаковано із §e%s% шансом§r зашкодити вашому нападнику.",
@@ -159,7 +159,7 @@
 	"tetra.stats.art_of_forging:third_sight.tooltip_short": "Надає світіння кожній живій істоті, що ви зашкодили",
 
 	"art_of_forging.effect.conquering.name": "Завоювання",
-	"art_of_forging.effect.conquering.tooltip": "Тримання цієї зброї надає вам силу, водночас послаблюючи ваших ворогів за атаку. Досягнувши максимальної кількості вбивств, ви отримуєте збільшену силу ціною зменшення максимального здоров'я.",
+	"art_of_forging.effect.conquering.tooltip": "Тримання цієї зброї надає вам силу, водночас послаблюючи ваших ворогів за атаку. Досягнувши максимальної кількості вбивств, ви отримуєте збільшену силу ціною зменшення максимального здоров’я.",
 	"tetra.stats.art_of_forging:conquering": "Завоювання",
 	"tetra.stats.art_of_forging:conquering.tooltip_short": "Тримання цієї зброї надає вам силу, водночас послаблюючи ваших ворогів за атаку.",
 
@@ -360,23 +360,23 @@
 	"tetra/schematic/bow/stave/dreadnought_stave.description": "Замінює держалко на відважне держалко з наданих матеріалів. Відважні держалка потужніші, ніж звичайні держалка для лука.\n \n§fМіцність§r матеріалу збільшує §fсилу§r та зменшує §fчас натягання§r.\n§fГнучкість§r матеріалу збільшує §fсилу§r та трохи зменшує §fчас натягання§r.",
 	"tetra/schematic/bow/stave/dreadnought_stave.slot1": "Матеріал",
 
-	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.name": "Кайло черв'яка порожнечі",
-	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.description": "Голова кайла, зроблена з щелеп черв'яка порожнечі, нічого особистого, хлопче.",
-	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.slot1": "Кайло черв'яка порожнечі",
+	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.name": "Кайло черв’яка порожнечі",
+	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.description": "Голова кайла, зроблена з щелеп черв’яка порожнечі, нічого особистого, хлопче.",
+	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.slot1": "Кайло черв’яка порожнечі",
 
-	"tetra.module.double/void_worm_pickaxe.item_name": "Кайло черв'яка порожнечі",
-	"tetra.module.double/void_worm_pickaxe.name": "Кайло черв'яка порожнечі",
-	"tetra.module.double/void_worm_pickaxe.description": "Голова кайла, зроблена з щелеп черв'яка порожнечі, нічого особистого, хлопче.",
-	"tetra.variant.void_worm_pickaxe/void_worm_pickaxe": "Кайло черв'яка порожнечі",
+	"tetra.module.double/void_worm_pickaxe.item_name": "Кайло черв’яка порожнечі",
+	"tetra.module.double/void_worm_pickaxe.name": "Кайло черв’яка порожнечі",
+	"tetra.module.double/void_worm_pickaxe.description": "Голова кайла, зроблена з щелеп черв’яка порожнечі, нічого особистого, хлопче.",
+	"tetra.variant.void_worm_pickaxe/void_worm_pickaxe": "Кайло черв’яка порожнечі",
 
-	"tetra/schematic/sword/void_worm_cleaver.name": "Тесак черв'яка порожнечі",
-	"tetra/schematic/sword/void_worm_cleaver.description": "Клинок з нижньої щелепи Пожира... тобто черв'яка порожнечі.",
-	"tetra/schematic/sword/void_worm_cleaver.slot1": "Тесак черв'яка порожнечі",
+	"tetra/schematic/sword/void_worm_cleaver.name": "Тесак черв’яка порожнечі",
+	"tetra/schematic/sword/void_worm_cleaver.description": "Клинок з нижньої щелепи Пожира... тобто черв’яка порожнечі.",
+	"tetra/schematic/sword/void_worm_cleaver.slot1": "Тесак черв’яка порожнечі",
 
-	"tetra.module.sword/void_worm_cleaver.item_name": "Тесак черв'яка порожнечі",
-	"tetra.module.sword/void_worm_cleaver.name": "Тесак черв'яка порожнечі",
+	"tetra.module.sword/void_worm_cleaver.item_name": "Тесак черв’яка порожнечі",
+	"tetra.module.sword/void_worm_cleaver.name": "Тесак черв’яка порожнечі",
 	"tetra.module.sword/void_worm_cleaver.description": "НЕ МОЖНА ВБИТИ БОГА.",
-	"tetra.variant.void_worm_cleaver/void_worm_cleaver": "Тесак черв'яка порожнечі",
+	"tetra.variant.void_worm_cleaver/void_worm_cleaver": "Тесак черв’яка порожнечі",
 
 	"tetra/schematic/sword/shifting_blade.name": "§dМінливе лезо§r",
 	"tetra/schematic/sword/shifting_blade.description": "Дивне лезо, виготовлене з блоків аметисту. Його властивості надають йому магічної гостроти.",
@@ -606,14 +606,14 @@
 	"tetra.module.sword/tonal_blade.material_name": "%s тональне лезо",
 	"tetra.module.sword/tonal_blade.prefix": "%s",
 
-	"tetra/schematic/bow/stave/remembrance_stave.name": "Пам'ятання",
+	"tetra/schematic/bow/stave/remembrance_stave.name": "Пам’ятання",
 	"tetra/schematic/bow/stave/remembrance_stave.description": "Лук, створений за допомогою дивної магії потойбічного закону. Використовувався, щоб боротися і захищати світ, який був дорогий для Неї.",
-	"tetra/schematic/bow/stave/remembrance_stave.slot1": "Пам'ятай Її.",
+	"tetra/schematic/bow/stave/remembrance_stave.slot1": "Пам’ятай Її.",
 
-	"tetra.module.bow/remembrance_stave.item_name": "Пам'ятання",
-	"tetra.module.bow/remembrance_stave.name": "Пам'ятання",
+	"tetra.module.bow/remembrance_stave.item_name": "Пам’ятання",
+	"tetra.module.bow/remembrance_stave.name": "Пам’ятання",
 	"tetra.module.bow/remembrance_stave.description": "Лук, створений за допомогою дивної магії потойбічного закону. Використовувався, щоб боротися і захищати світ, який був дорогий для Неї.",
-	"tetra.variant.remembrance_stave/remembrance_stave": "Пам'ятання",
+	"tetra.variant.remembrance_stave/remembrance_stave": "Пам’ятання",
 
 	"tetra/schematic/sword/rending_scissor_complete.name": "§cСічущі ножиці§r",
 	"tetra/schematic/sword/rending_scissor_complete.description": "Повноцінне ножичне лезо із загартованих ниток життя",
@@ -769,11 +769,11 @@
 	"tetra.improvement.blade/vengeance_tier.description": "Збільшує шкоду помсти",
 
 	"tetra/schematic/sword/crucible/hone_vengeance_1.name": "Шлях: Лють",
-	"tetra/schematic/sword/crucible/hone_vengeance_1.description": "Збільшує шкоду помсти на 5%%. при низькому здоров'ї.",
+	"tetra/schematic/sword/crucible/hone_vengeance_1.description": "Збільшує шкоду помсти на 5%%. при низькому здоров’ї.",
 	"tetra/schematic/sword/crucible/hone_vengeance_2.name": "Відточення: Розлючення II",
-	"tetra/schematic/sword/crucible/hone_vengeance_2.description": "Відточення покращення помсти. Шкода збільшується до 15%%. при низькому здоров'ї.",
+	"tetra/schematic/sword/crucible/hone_vengeance_2.description": "Відточення покращення помсти. Шкода збільшується до 15%%. при низькому здоров’ї.",
 	"tetra/schematic/sword/crucible/hone_vengeance_3.name": "Відточення: Розлючення III",
-	"tetra/schematic/sword/crucible/hone_vengeance_3.description": "Більше відточення покращення помсти. Шкода збільшується до 20%% при низькому здоров'ї.",
+	"tetra/schematic/sword/crucible/hone_vengeance_3.description": "Більше відточення покращення помсти. Шкода збільшується до 20%% при низькому здоров’ї.",
 
 	"tetra.improvement.blade/infernal.name": "Пекельність",
 	"tetra.improvement.blade/infernal.prefix": "Пекельність",
@@ -928,8 +928,8 @@
 
 	"tetra.variant_category.reagent.label": "Реагент",
 
-	"tetra.material.warped_muscle": "Химерний м'яз",
-	"tetra.material.warped_muscle.prefix": "Химерний м'яз",
+	"tetra.material.warped_muscle": "Химерний м’яз",
+	"tetra.material.warped_muscle.prefix": "Химерний м’яз",
 
 	"tetra.variant.spike/serrated_tooth": "Зазубрений акулячий зуб",
 
@@ -939,8 +939,8 @@
 	"tetra.material.echo_shard": "Уламок відлуння",
 	"tetra.material.echo_shard.prefix": "Уламок відлуння",
 
-	"tetra.material.socket_void_worm_eye": "Око черв'яка порожнечі",
-	"tetra.material.socket_void_worm_eye.prefix": "§dОко черв'яка порожнечі§r",
+	"tetra.material.socket_void_worm_eye": "Око черв’яка порожнечі",
+	"tetra.material.socket_void_worm_eye.prefix": "§dОко черв’яка порожнечі§r",
 
 	"tetra.material.blaze_powder": "Порох пломіня",
 	"tetra.material.blaze_powder.prefix": "§6Порох пломіня§r",
@@ -951,8 +951,8 @@
 	"tetra.material.glass": "Скло",
 	"tetra.material.glass.prefix": "§fСкло§r",
 
-	"tetra.material.glowstone_dust": "Світлокам'яний пил",
-	"tetra.material.glowstone_dust.prefix": "§eСвітлокам'яний пил§r",
+	"tetra.material.glowstone_dust": "Світлокам’яний пил",
+	"tetra.material.glowstone_dust.prefix": "§eСвітлокам’яний пил§r",
 
 	"tetra.material.magma_cream": "Магматичний крем",
 	"tetra.material.magma_cream.prefix": "§cМагматичний крем§r",
@@ -1002,7 +1002,7 @@
 
 	"item.tetra.scroll.bow/string/compound_string.prefix": "Мистецтво ковальства, розділ 8",
 	"item.tetra.scroll.bow/string/compound_string.name": "Складена тятива",
-	"item.tetra.scroll.bow/string/compound_string.description": "Містить знання про те, як обв'язати складну тятиву лука",
+	"item.tetra.scroll.bow/string/compound_string.description": "Містить знання про те, як обв’язати складну тятиву лука",
 	"item.tetra.scroll.bow/string/compound_string.description_extended": "§7[§8Shift+ПКМ§7]§8, щоб прочитати більше",
 
 	"item.tetra.scroll.utilize/hammer.prefix": "Мистецтво ковальства, розділ 9",
@@ -1037,14 +1037,14 @@
 
 
 
-	"tetra.variant.sword_socket/void_worm_eye": "Скріплене [§dОко черв'яка порожнечі§r]",
-	"tetra.variant.sword_socket/void_worm_eye.description": "Легендарне око черв'яка порожнечі, прикріплене до гарди.\n \nБог не боїться смерті, що забезпечує всі комбінації ефектів самоцвітів.",
+	"tetra.variant.sword_socket/void_worm_eye": "Скріплене [§dОко черв’яка порожнечі§r]",
+	"tetra.variant.sword_socket/void_worm_eye.description": "Легендарне око черв’яка порожнечі, прикріплене до гарди.\n \nБог не боїться смерті, що забезпечує всі комбінації ефектів самоцвітів.",
 
-	"tetra.variant.double_socket/void_worm_eye": "Скріплене [§dОко черв'яка порожнечі§r]",
-	"tetra.variant.double_socket/void_worm_eye.description": "Легендарне око черв'яка порожнечі, прикріплене з боку головки інструмента.\n \nБог не боїться смерті, що забезпечує всі комбінації ефектів самоцвітів.",
+	"tetra.variant.double_socket/void_worm_eye": "Скріплене [§dОко черв’яка порожнечі§r]",
+	"tetra.variant.double_socket/void_worm_eye.description": "Легендарне око черв’яка порожнечі, прикріплене з боку головки інструмента.\n \nБог не боїться смерті, що забезпечує всі комбінації ефектів самоцвітів.",
 
-	"tetra.variant.single_socket/void_worm_eye": "Скріплене [§dОко черв'яка порожнечі§r]",
-	"tetra.variant.single_socket/void_worm_eye.description": "Легендарне око черв'яка порожнечі, прикріплене в місці з'єднання головки з руків'ям.\n \nБог не боїться смерті, що забезпечує всі комбінації ефектів самоцвітів.",
+	"tetra.variant.single_socket/void_worm_eye": "Скріплене [§dОко черв’яка порожнечі§r]",
+	"tetra.variant.single_socket/void_worm_eye.description": "Легендарне око черв’яка порожнечі, прикріплене в місці з’єднання головки з руків’ям.\n \nБог не боїться смерті, що забезпечує всі комбінації ефектів самоцвітів.",
 
 
 
@@ -1101,7 +1101,7 @@
 	"tetra.advancements.art_of_forging.murasama_blade.description": "Оновіть лезо катани до легендарної Мурасами",
 
 	"tetra.advancements.art_of_forging.remembrance_upgrade.title": "Ви не одні",
-	"tetra.advancements.art_of_forging.remembrance_upgrade.description": "Створіть держалко Пам'ятання, використавши темну сферу",
+	"tetra.advancements.art_of_forging.remembrance_upgrade.description": "Створіть держалко Пам’ятання, використавши темну сферу",
 
 	"tetra.advancements.art_of_forging.euclidean_dagger_upgrade.title": "Ніч належить тобі",
 	"tetra.advancements.art_of_forging.euclidean_dagger_upgrade.description": "Створіть Евклідів кинджал, використавши герб Едену",
@@ -1198,9 +1198,9 @@
 
 
 
-	"item.tetra.scroll.art_of_forging.details": "§l§nМистецтво ковальства§r\\n FКування - практика перетворення металу на все, що ви забажаєте. Якщо раніше це була жадана практика, до якої могли долучитися лише Стародавні Ковалі та Бог Ковальства, то тепер я відкрив новий метод створення ваших власних інструментів. Я передаю свої знання вам, сподіваючись, що з часом ви викуєте власні шедеври. \r§l§nФламберги§r\\n Фламберг. Не тільки вражаючий у використанні в бою, але й приголомшливий за дизайном. Він має культове хвилясте лезо, яке ідеально підходить для уражень, що залишають вашого супротивника стікати кров'ю. Можливо, навмисно чи ненавмисно, лезо може бути відточеним, щоб підпалювати ворогів після поранення. \r§l§nАлебарди§r\\n Сильна і класична зброя. Використовувалася переважно для облоги, і не дарма: ця зброя поєднує в собі риси клинка, сокири та палиці. Найкраще підходить для пробивання обладунків ворогів, а також для скидання ворогів з коней та завдання їм шкоди. \r§l§nБулави§r\\n Булави - смертельна зброя для будь-якого броньованого супротивника. Ця булава ігнорує броню, завдаючи нищівних ударів. Звичайно, ціною швидкости. Неприємна зброя, яку варто мати у своєму арсеналі, завойовник на полі бою. \r§l§nВідважне§r\\n Відважне держалко - це ідеальне поєднання швидкости та люті, що дозволяє рейнджеру повалити на ворогів шквал стріл. Ідеально підходить для того, щоб оглушити, хто стоїть на вашому шляху, а також для здійснення помсти. Може використовуватися як зі стандартними луками, так і з арбалетами. \r§l§nКатана§r\\n Клинок, що походить зі східних куточків світу. Поєднання збалансованого леза та ретельної майстерності робить цей клинок ідеальним для тих, хто хоче мати якісну зброю. Катаною можна розрубати що завгодно на шматки та луски. \r§l§nСкладна тятива§r\\n Складні тятиви, виготовлені шляхом переплетення двох тятив, а не однієї. Хоча це сповільнює швидкість натягу, але компенсує це силою удару стріли, яка сильніша за звичайну тятиву. У поєднанні з дредноутною тятивою - ідеальна комбінація для ведення бою на далеких дистанціях. \r§l§nКаменярський молот§r\\n Молот має прихований потенціал. Використовуючи певний каст в ньому, ви можете розблокувати каменярський молот. Цей молот ідеально підходить для буріння тунелів і отворів, здатний розривати землю без особливих зусиль. Якщо вам потрібен інструмент для швидкої роботи з камінням і рудами, то ви знайшли ідеальний варіант для себе. \n§l§nТональне лезо§r\\n Ретельно сформоване лезо, схоже на інструмент, ця зброя компенсує свою низьку шкоду унікальною здатністю. Лезо здатне налаштовуватися на резонансні частоти ворога, змушуючи його дезорієнтуватися на деякий час. \r§c§l§nГорнило§r\\n §kСторінка незрозуміла і розірвана. Можливо, чогось не вистачає?§r",
+	"item.tetra.scroll.art_of_forging.details": "§l§nМистецтво ковальства§r\\n FКування - практика перетворення металу на все, що ви забажаєте. Якщо раніше це була жадана практика, до якої могли долучитися лише Стародавні Ковалі та Бог Ковальства, то тепер я відкрив новий метод створення ваших власних інструментів. Я передаю свої знання вам, сподіваючись, що з часом ви викуєте власні шедеври. \r§l§nФламберги§r\\n Фламберг. Не тільки вражаючий у використанні в бою, але й приголомшливий за дизайном. Він має культове хвилясте лезо, яке ідеально підходить для уражень, що залишають вашого супротивника стікати кров’ю. Можливо, навмисно чи ненавмисно, лезо може бути відточеним, щоб підпалювати ворогів після поранення. \r§l§nАлебарди§r\\n Сильна і класична зброя. Використовувалася переважно для облоги, і не дарма: ця зброя поєднує в собі риси клинка, сокири та палиці. Найкраще підходить для пробивання обладунків ворогів, а також для скидання ворогів з коней та завдання їм шкоди. \r§l§nБулави§r\\n Булави - смертельна зброя для будь-якого броньованого супротивника. Ця булава ігнорує броню, завдаючи нищівних ударів. Звичайно, ціною швидкости. Неприємна зброя, яку варто мати у своєму арсеналі, завойовник на полі бою. \r§l§nВідважне§r\\n Відважне держалко - це ідеальне поєднання швидкости та люті, що дозволяє рейнджеру повалити на ворогів шквал стріл. Ідеально підходить для того, щоб оглушити, хто стоїть на вашому шляху, а також для здійснення помсти. Може використовуватися як зі стандартними луками, так і з арбалетами. \r§l§nКатана§r\\n Клинок, що походить зі східних куточків світу. Поєднання збалансованого леза та ретельної майстерності робить цей клинок ідеальним для тих, хто хоче мати якісну зброю. Катаною можна розрубати що завгодно на шматки та луски. \r§l§nСкладна тятива§r\\n Складні тятиви, виготовлені шляхом переплетення двох тятив, а не однієї. Хоча це сповільнює швидкість натягу, але компенсує це силою удару стріли, яка сильніша за звичайну тятиву. У поєднанні з дредноутною тятивою - ідеальна комбінація для ведення бою на далеких дистанціях. \r§l§nКаменярський молот§r\\n Молот має прихований потенціал. Використовуючи певний каст в ньому, ви можете розблокувати каменярський молот. Цей молот ідеально підходить для буріння тунелів і отворів, здатний розривати землю без особливих зусиль. Якщо вам потрібен інструмент для швидкої роботи з камінням і рудами, то ви знайшли ідеальний варіант для себе. \n§l§nТональне лезо§r\\n Ретельно сформоване лезо, схоже на інструмент, ця зброя компенсує свою низьку шкоду унікальною здатністю. Лезо здатне налаштовуватися на резонансні частоти ворога, змушуючи його дезорієнтуватися на деякий час. \r§c§l§nГорнило§r\\n §kСторінка незрозуміла і розірвана. Можливо, чогось не вистачає?§r",
 
-	"item.tetra.scroll.otherworldly.details": "§l§nІНШОСВІТНЕ§r\\n Погравшись з покинутим зруйнованим порталом, мені вдалося знайти зв'язок між цим світом та іншими світами в цій потойбічній реальності.",
+	"item.tetra.scroll.otherworldly.details": "§l§nІНШОСВІТНЕ§r\\n Погравшись з покинутим зруйнованим порталом, мені вдалося знайти зв’язок між цим світом та іншими світами в цій потойбічній реальності.",
 
 	"item.tetra.scroll.true_crucible.details": "§c§l§nГорнило§r\\n Горнило - потужний клинок, викуваний зі злоби та гніву. Бувши потужною зброєю сама по собі, виковування її так само як це зробив Архітектор, дозволяє клинку набути езотеричних властивостей, приховуючи частину фізичної шкоди в метафізичному плані."
 }

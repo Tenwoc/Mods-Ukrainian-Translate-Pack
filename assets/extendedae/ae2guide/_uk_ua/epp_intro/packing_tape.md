@@ -27,7 +27,7 @@ item_ids:
 
 ### Усталений список
 
-|                                  Пристрій                                  |                              Ім'я                              |
+|                                  Пристрій                                  |                              Ім’я                              |
 | :------------------------------------------------------------------------: | :------------------------------------------------------------: |
 |    <ItemImage id="extendedae:ex_interface_part" scale="3"></ItemImage>     |    <ItemLink id="extendedae:ex_interface_part"></ItemLink>     |
 | <ItemImage id="extendedae:ex_pattern_provider_part" scale="3"></ItemImage> | <ItemLink id="extendedae:ex_pattern_provider_part"></ItemLink> |

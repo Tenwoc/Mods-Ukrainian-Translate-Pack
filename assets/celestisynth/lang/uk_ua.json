@@ -17,7 +17,7 @@
   "item.celestisynth.celestial_tier": "НЕБЕСНИЙ КЛАС",
   "item.celestisynth.starlit_fuel_amount": "Зоресяйне паливо: %s",
 
-  "item.celestisynth.solar_crystal_armor_bonus": "При отриманні шкоди броня спалахує колом полум'я, завдаючи шкоди та спалюючи навколишні цілі. Кожна частина обладунку збільшує шкоду від спалаху і тривалість вогню.",
+  "item.celestisynth.solar_crystal_armor_bonus": "При отриманні шкоди броня спалахує колом полум’я, завдаючи шкоди та спалюючи навколишні цілі. Кожна частина обладунку збільшує шкоду від спалаху і тривалість вогню.",
   "item.celestisynth.lunar_stone_armor_bonus": "Коли власник отримує поранення, броня має 1/5 шанс значно зменшити отриману шкоду. Кожна частина обладунку збільшує значення зменшення шкоди.",
 
   "item.celestisynth.celestial_core": "Небесне ядро",
@@ -43,10 +43,10 @@
   "item.celestisynth.solar_crystal_chestplate": "Сонце-кришталевий нагрудник",
   "item.celestisynth.solar_crystal_leggings": "Сонце-кришталеві наголінники",
   "item.celestisynth.solar_crystal_boots": "Сонце-кришталеві чоботи",
-  "item.celestisynth.lunar_stone_helmet": "Місячно-кам'яний шолом",
-  "item.celestisynth.lunar_stone_chestplate": "Місячно-кам'яний нагрудник",
-  "item.celestisynth.lunar_stone_leggings": "Місячно-кам'яні наголінники",
-  "item.celestisynth.lunar_stone_boots": "Місячно-кам'яні чоботи",
+  "item.celestisynth.lunar_stone_helmet": "Місячно-кам’яний шолом",
+  "item.celestisynth.lunar_stone_chestplate": "Місячно-кам’яний нагрудник",
+  "item.celestisynth.lunar_stone_leggings": "Місячно-кам’яні наголінники",
+  "item.celestisynth.lunar_stone_boots": "Місячно-кам’яні чоботи",
 
   "item.celestisynth.celestial_debugger": "СУПЕР-ПУПЕР налагоджувач Celestial",
 
@@ -88,11 +88,11 @@
   "item.celestisynth.solaris.passive_2": "Формування сонячних бомб",
   "item.celestisynth.solaris.passive_desc_2": "Утримуючи ПКМ із Солярісом, гравець може викликати до 5 сонячних бомб, які будуть кружляти навколо нього. Поранення цілі перенаправляє сонячну бомбу на неї.",
 
-  "item.celestisynth.solaris.skill_1": "Кружляюче полум'я - Повне коло",
+  "item.celestisynth.solaris.skill_1": "Кружляюче полум’я - Повне коло",
   "item.celestisynth.solaris.condition_1": "Активація: ПКМ",
   "item.celestisynth.solaris.desc_1": "Виконуйте граціозний оберт, завдаючи шкоди та спалюючи істот поблизу.",
 
-  "item.celestisynth.solaris.skill_2": "Кружляюче полум'я - Прямий ривок душі",
+  "item.celestisynth.solaris.skill_2": "Кружляюче полум’я - Прямий ривок душі",
   "item.celestisynth.solaris.condition_2": "Активація: ПКМ крадькома",
   "item.celestisynth.solaris.desc_2": "Мчить вперед, вражаючи й тимчасово запалюючи істот на своєму шляху.",
 
@@ -153,7 +153,7 @@
 
   "item.celestisynth.breezebreaker.skill_5": "Колесо смерті Зефіра",
   "item.celestisynth.breezebreaker.condition_5": "Активація: ПКМ у повітрі",
-  "item.celestisynth.breezebreaker.desc_5": "Створює навколо гравця вертикальне колесо вітру, яке знищує довколишні об'єкти своєю руйнівною силою.",
+  "item.celestisynth.breezebreaker.desc_5": "Створює навколо гравця вертикальне колесо вітру, яке знищує довколишні об’єкти своєю руйнівною силою.",
 
   "------------------- POLTERGEIST ------------------":  "",
 
@@ -168,9 +168,9 @@
   "item.celestisynth.poltergeist.condition_1": "Активація: ПКМ",
   "item.celestisynth.poltergeist.desc_1": "Виконує потужний удар, який завдає значної шкоди в широкому діапазоні, спустошуючи кількох супротивників. Ще один нищівний удар після послідовності з десяти послідовних ударів генерує величезну силу, викликаючи істоту-аберанта. Перезаряджання цього вміння миттєво закінчується, якщо воно було застосовано в повітрі.",
 
-  "item.celestisynth.poltergeist.skill_2": "Бар'єрний виклик",
+  "item.celestisynth.poltergeist.skill_2": "Бар’єрний виклик",
   "item.celestisynth.poltergeist.condition_2": "Активація: ПКМ крадькома",
-  "item.celestisynth.poltergeist.desc_2": "Створює захисний бар'єр, здатний розбивати будь-які снаряди, що летять на нього, і одночасно відкидати гравця назад.",
+  "item.celestisynth.poltergeist.desc_2": "Створює захисний бар’єр, здатний розбивати будь-які снаряди, що летять на нього, і одночасно відкидати гравця назад.",
 
   "------------------- AQUAFLORA ------------------":  "",
 
@@ -210,7 +210,7 @@
 
   "item.celestisynth.rainfall_serenity.skill_2": "Квазарний дощ",
   "item.celestisynth.rainfall_serenity.condition_2": "Активація: влучити в істоту зброєю",
-  "item.celestisynth.rainfall_serenity.desc_2": "Коли лазер влучає в ціль з «Квазарною міткою», над нею з'являється портал, і лазери падають навколо цілі дощем.",
+  "item.celestisynth.rainfall_serenity.desc_2": "Коли лазер влучає в ціль з «Квазарною міткою», над нею з’являється портал, і лазери падають навколо цілі дощем.",
 
   "item.celestisynth.rainfall_serenity.skill_3": "Умиротворіння",
   "item.celestisynth.rainfall_serenity.condition_3": "Активація: ПКМ крадькома",
@@ -238,7 +238,7 @@
 
   "item.celestisynth.frostbound.skill_2": "Заклик морозу катастрофи",
   "item.celestisynth.frostbound.condition_2": "Активація: ПКМ крадькома",
-  "item.celestisynth.frostbound.desc_2": "Викликає перед собою до п'яти великих крижаних утворень, які завдають шкоди істотам і сковують їх морозом.",
+  "item.celestisynth.frostbound.desc_2": "Викликає перед собою до п’яти великих крижаних утворень, які завдають шкоди істотам і сковують їх морозом.",
 
   "------------------- KERES ------------------":  "",
 
@@ -249,7 +249,7 @@
   "item.celestisynth.keres.passive_1": "Черговість пекельної кари",
   "item.celestisynth.keres.passive_desc_1": "Після послідовної атаки цілей 5 разів поспіль, власник активує стан Пекельної кари - який посилює вампіризм Кереса і багаторазово викидає самонавідні тіньові снаряди у бік найближчих ворогів.",
   "item.celestisynth.keres.passive_2": "Кривава жертва",
-  "item.celestisynth.keres.passive_desc_2": "Використовуючи вміння Кереса власник жертвує 1,5 здоров'я кожні кілька секунд, але кожне вміння певною мірою відновлює здоров'я власника, коли воно потрапляє в ціль.",
+  "item.celestisynth.keres.passive_desc_2": "Використовуючи вміння Кереса власник жертвує 1,5 здоров’я кожні кілька секунд, але кожне вміння певною мірою відновлює здоров’я власника, коли воно потрапляє в ціль.",
   "item.celestisynth.keres.passive_3": "Ураження проклятою карою",
   "item.celestisynth.keres.passive_desc_3": "Коли вміння вражає ціль, воно накладає на неї ефект «Проклята кара» на 5 секунд. Ефект значно знижує швидкість зцілення цілі.",
 
@@ -263,7 +263,7 @@
   "item.celestisynth.keres.condition_3": "Утримуйте ПКМ 10 або більше секунд",
   "item.celestisynth.keres.desc_3": "Випускає гігантський удар, який стирає блоки і завдає величезної шкоди цілям на своєму шляху. Змах ігнорує всю броню.",
 
-  "item.celestisynth.keres.notice": "Неможливо пожертвувати кров'ю. Потрібна регенерація.",
+  "item.celestisynth.keres.notice": "Неможливо пожертвувати кров’ю. Потрібна регенерація.",
   "item.celestisynth.keres.notice1": "Жертва.",
 
   "chant.celestisynth.keres": "Нехай кров...",

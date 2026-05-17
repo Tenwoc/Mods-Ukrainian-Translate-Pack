@@ -16,10 +16,10 @@
   "compactcrafting.top.awaiting_catalyst": "Очікування каталізатора...",
   "compactcrafting.top.progress": "%s / %s",
 
-  "tooltip.compactcrafting.proxy_bound": "Прив'язано з: %s",
+  "tooltip.compactcrafting.proxy_bound": "Прив’язано з: %s",
   "tooltip.compactcrafting.proxy_hint": "Використовуйте польові проксі для автоматизації роботи поля за допомогою редстоуну.",
-  "tooltip.compactcrafting.proxy_bind_hint": "ПКМ крадькома на проекторі для прив'язки до поля.",
-  "tooltip.compactcrafting.proxy_unbind_hint": "ПКМ крадькома в повітрі для від'єднання від поля.",
+  "tooltip.compactcrafting.proxy_bind_hint": "ПКМ крадькома на проекторі для прив’язки до поля.",
+  "tooltip.compactcrafting.proxy_unbind_hint": "ПКМ крадькома в повітрі для від’єднання від поля.",
 
   "messages.compactcrafting.no_field_cap": "Блок за адресою %s не має посилання на поле.",
   "messages.compactcrafting.no_field_found": "Не вдалося знайти інформацію про поле мініатюризації.",

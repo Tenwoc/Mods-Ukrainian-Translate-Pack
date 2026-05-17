@@ -8,7 +8,7 @@
   "gui.itemcollectors.basic_collector.range": "Діапазон (%1$dx%2$dx%3$d)",
   "gui.itemcollectors.advanced_collector.durability.on": "Збіг NBT",
   "gui.itemcollectors.advanced_collector.show_area.off": "Прихований діапазон",
-  "itemcollectors.advanced_collector.info": "Може підбирати об'єкти в області навколо себе, об'єкти можна відфільтрувати",
+  "itemcollectors.advanced_collector.info": "Може підбирати об’єкти в області навколо себе, об’єкти можна відфільтрувати",
   "gui.itemcollectors.advanced_collector.durability.off": "Ігнорувати NBT",
   "gui.itemcollectors.basic_collector.range.decrease": "Зменшити діапазон",
   "itemcollectors.block.basic_collector": "Базовий збирач предметів",

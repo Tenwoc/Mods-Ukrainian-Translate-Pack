@@ -67,7 +67,7 @@
     "school.cataclysm_spellbooks.technomancy": "Техномагія",
 
 
-    "item.cataclysm_spellbooks.abyss_spell_book": "Книга Р'лієга",
+    "item.cataclysm_spellbooks.abyss_spell_book": "Книга Р’лієга",
     "item.cataclysm_spellbooks.desert_spell_book": "Пустельна книга заклинань",
     "item.cataclysm_spellbooks.ignis_spell_book": "Книга заклинань Ігніса",
     "item.cataclysm_spellbooks.codex_of_malice_spell_book": "Кодекс злості",
@@ -196,7 +196,7 @@
     "spell.cataclysm_spellbooks.infernal_strike.guide": "Вистрілює мініатюрним спалювачем в обрану ціль і накладає Палаюче клеймо",
 
     "spell.cataclysm_spellbooks.incineration": "Спалення",
-    "spell.cataclysm_spellbooks.incineration.guide": "Випускає уперед полум'яні удари",
+    "spell.cataclysm_spellbooks.incineration.guide": "Випускає уперед полум’яні удари",
 
     "spell.cataclysm_spellbooks.conjure_ignited_reinforcement": "Запалені укріплення",
     "spell.cataclysm_spellbooks.conjure_ignited_reinforcement.guide": "Випускає запалених поверненців і берсерків вам на допомогу",
@@ -214,7 +214,7 @@
     "spell.cataclysm_spellbooks.hellish_blade.guide": "Випускає копію спалювача над ціллю, який завдає шкоди, оглушує та накладає Палаюче клеймо при влучанні",
 
     "spell.cataclysm_spellbooks.abyss_fireball": "Розгортання блиску",
-    "spell.cataclysm_spellbooks.abyss_fireball.guide": "Випускає потік стрибучих вогняних куль, які змінюються залежно від вашого здоров'я і накладають Палаюче клеймо при влучанні",
+    "spell.cataclysm_spellbooks.abyss_fireball.guide": "Випускає потік стрибучих вогняних куль, які змінюються залежно від вашого здоров’я і накладають Палаюче клеймо при влучанні",
 
     "spell.cataclysm_spellbooks.amethyst_puncture": "Аметистовий прокол",
     "spell.cataclysm_spellbooks.amethyst_puncture.guide": "Випускає аметистовий кластер в обрану ціль",
@@ -352,7 +352,7 @@
     "spell.cataclysm_spellbooks.pharaohs_wrath.guide": "Наповніть себе розпаленою люттю, яка збільшує вашу шкоду і силу заклинань, кожного разу як ви зазнаєте удару. Після закінчення гніву ви ослабнете",
 
     "spell.cataclysm_spellbooks.hemorrhaging_impact": "Кровоточивий удар",
-    "spell.cataclysm_spellbooks.hemorrhaging_impact.guide": "Зарядіть свою зброю, випустивши потужний кров'яний спис і кілька кров'яних шипів. Кров'яний спис викликає кровотечу при влучанні, а ви зцілюєтеся на 75% від завданої шкоди",
+    "spell.cataclysm_spellbooks.hemorrhaging_impact.guide": "Зарядіть свою зброю, випустивши потужний кров’яний спис і кілька кров’яних шипів. Кров’яний спис викликає кровотечу при влучанні, а ви зцілюєтеся на 75% від завданої шкоди",
 
     "spell.cataclysm_spellbooks.scorched_earth": "Випалена земля",
     "spell.cataclysm_spellbooks.scorched_earth.guide": "Зарядіть свою зброю, випустивши шквал розтоплених куль. Кожна куля залишає зону дії, яка завдає інтенсивної вогневої шкоди істотам, що потрапили в неї",
@@ -373,7 +373,7 @@
     "ui.cataclysm_spellbooks.bone_speed_2": "%d швидкости снаряда",
     "ui.cataclysm_spellbooks.bone_speed_3": "%d швидкости снаряда",
     "ui.cataclysm_spellbooks.blazing_bone_speed": "%d швидкости снаряда",
-    "ui.cataclysm_spellbooks.fireball_details": "Зі здоров'ям менше половини перетворює вогневу кулю у вогневу кулю душ, зі здоров'ям менше ніж 30% у вогневу кулю порожнечі",
+    "ui.cataclysm_spellbooks.fireball_details": "Зі здоров’ям менше половини перетворює вогневу кулю у вогневу кулю душ, зі здоров’ям менше ніж 30% у вогневу кулю порожнечі",
     "ui.cataclysm_spellbooks.recast_count": "Може виконувати це заклинання %d послідовно перед перезаряджанням",
     "ui.cataclysm_spellbooks.amethyst_speed": "Вистрілює аметистовими кластерами із %d швидкістю снарядів",
     "ui.cataclysm_spellbooks.gravity_storm.lifespan": "Викликає вихор порожнечі на %d секунд",
@@ -411,7 +411,7 @@
     "ui.cataclysm_spellbooks.thoths_witness_scroll_failure": "Тот не дозволить вам застосувати це за допомогою нікчемного сувою.",
     "ui.cataclysm_spellbooks.thoths_witness_armor_failure": "Вам не вистачає необхідного озброєння, щоб отримати чудо Тота; прикрасьте себе обладунками фараона.",
     "ui.cataclysm_spellbooks.quake_damage": "%d шкоди від землетрусу",
-    "ui.cataclysm_spellbooks.needle_damage": "%d шкоди від кров'яного шипа",
+    "ui.cataclysm_spellbooks.needle_damage": "%d шкоди від кров’яного шипа",
 
 
     "entity.cataclysm_spellbooks.abyssal_gnawers": "Глибинний гризун",
@@ -439,7 +439,7 @@
     "entity.cataclysm_spellbooks.summoned_coral_golem": "Кораловий ґолем",
     "entity.cataclysm_spellbooks.summoned_coralssus": "Коралсус",
     "entity.cataclysm_spellbooks.phantom_ancient_remnant": "Фантомні залишки",
-    "entity.cataclysm_spellbooks.blood_crystal": "Кристалізований кров'яний спис",
+    "entity.cataclysm_spellbooks.blood_crystal": "Кристалізований кров’яний спис",
     "entity.cataclysm_spellbooks.molten_bullet": "Розпечена куля",
     "entity.cataclysm_spellbooks.scorched_earth_aoe": "Область спаленої землі",
     "entity.cataclysm_spellbooks.frozen_bullet": "Кріокуля",
@@ -464,7 +464,7 @@
     "death.attack.cataclysm_spellbooks.surveillance_drone": "%1$s був якимось чином вбитий пасивним дроном спостереження %2$s",
     "death.attack.cataclysm_spellbooks.disabling_swipe": "%2$s вивів з ладу %1$s вимикаючим змахом",
     "death.attack.cataclysm_spellbooks.no_man_zone_aoe": "%1$s був зведений нанівець у нічийній зоні %2$s",
-    "death.attack.cataclysm_spellbooks.blood_crystal": "%1$s був пронизаний кристалізованим кров'яним списом %2$s",
+    "death.attack.cataclysm_spellbooks.blood_crystal": "%1$s був пронизаний кристалізованим кров’яним списом %2$s",
     "death.attack.cataclysm_spellbooks.molten_bullet": "%1$s був спалений розпеченою кулею %2$s",
     "death.attack.cataclysm_spellbooks.scorched_earth_aoe": "%1$s згорів від спаленої землі %2$s",
     "death.attack.cataclysm_spellbooks.frozen_bullet": "%1$s змерз до смерті від кріокулі %2$s",
@@ -482,7 +482,7 @@
     "death.attack.cataclysm_spellbooks.parting_shot.item": "%1$s був розпилений розсіченим пострілом %2$s за допомогою: %3$s",
     "death.attack.cataclysm_spellbooks.surveillance_drone.item": "%1$s був якимось чином вбитий пасивним дроном спостереження %2$s за допомогою: %3$s",
     "death.attack.cataclysm_spellbooks.disabling_swipe.item": "%2$s вивів з ладу %1$s вимикаючим змахом за допомогою: %3$s",
-    "death.attack.cataclysm_spellbooks.blood_crystal.item": "%1$s був пронизаний кристалізованим кров'яним списом %2$s за допомогою: %3$s",
+    "death.attack.cataclysm_spellbooks.blood_crystal.item": "%1$s був пронизаний кристалізованим кров’яним списом %2$s за допомогою: %3$s",
     "death.attack.cataclysm_spellbooks.molten_bullet.item": "%1$s був спалений розпеченою кулею %2$s за допомогою: %3$s",
     "death.attack.cataclysm_spellbooks.frozen_bullet.item": "%1$s змерз до смерті від кріокулі %2$s за допомогою: %3$s",
     "death.attack.cataclysm_spellbooks.glacial_block.item": "%1$s змерз до смерті у льодовиковому блоці %2$s за допомогою: %3$s"

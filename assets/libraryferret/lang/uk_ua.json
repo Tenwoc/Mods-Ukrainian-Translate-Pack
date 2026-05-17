@@ -5,7 +5,7 @@
   "gui.libraryferret.props.key_value": "Ключ: %s",
   "item.libraryferret.diamond_coins_jtl": "Діамантова монета",
   "gui.libraryferret.requiresave.message": "Ви хочете зберегти зміни, застосовані до конфігурації, у файлі властивостей? Якщо ви цього не зробите, ваші зміни будуть втрачені при завершенні сесії Minecraft.",
-  "gui.libraryferret.props.title_value": "Ім'я: %s",
+  "gui.libraryferret.props.title_value": "Ім’я: %s",
   "block.libraryferret.unbreakable_netherite_beacon": "Незнищенний незеритовий маяк",
   "gui.libraryferret.group.name.creative": "Творчий",
   "gui.libraryferret.props.name.boolean.creative.enable_item_group_ferret": "Увімкнути групу предметів",

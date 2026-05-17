@@ -14,7 +14,7 @@
   "advancements.fries.title": "Не так вже й «по-французьки»",
   "advancements.fries.descr": "Посмажте фрі у фритюрі",
   "advancements.wrapped_up.title": "Загорніть з собою",
-  "advancements.wrapped_up.descr": "Деякі закуски можна загорнути в папір, щоб швидше з'їсти",
+  "advancements.wrapped_up.descr": "Деякі закуски можна загорнути в папір, щоб швидше з’їсти",
   "advancements.step_3.title": "Крок 3: Летіть",
   "advancements.step_3.descr": "Покрийте себе олією",
   "advancements.lawn_defender.title": "Захисник газону",
@@ -38,10 +38,10 @@
   "advancements.cheese.title": "Відчуття гауди",
   "advancements.cheese.descr": "Розмістіть сир, щоб витримати його",
   "advancements.enderball.title": "Не замислюйтеся над цією сферою",
-  "advancements.enderball.descr": "З'їжте ендеркульку, щоб від'якоритися",
+  "advancements.enderball.descr": "З’їжте ендеркульку, щоб від’якоритися",
 
 
-  "effect.create_bic_bit.unanchored": "Без'якірність",
+  "effect.create_bic_bit.unanchored": "Без’якірність",
   "effect.create_bic_bit.oiled_up": "Змащеність",
 
   "block.create_bic_bit.crystallised_oil": "Кристалізована олія",

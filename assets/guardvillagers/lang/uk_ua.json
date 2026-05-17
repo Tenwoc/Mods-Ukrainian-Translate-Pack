@@ -1,7 +1,7 @@
 {
   "entity.guardvillagers.guard": "Вартовий",
   "item.guardvillagers.guard_spawn_egg": "Яйце виклику вартового",
-  "guardinventory.health": "Здоров'я: %s",
+  "guardinventory.health": "Здоров’я: %s",
   "guardinventory.armor": "Броня: %s",
   "guardvillagers.midnightconfig.useSteveModel": "Використовувати модель Стіва",
   "guardvillagers.midnightconfig.guardsRunFromPolarBears": "Вартові тікають від білого ведмедя",

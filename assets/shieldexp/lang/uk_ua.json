@@ -11,7 +11,7 @@
   "shieldexp.tooltip.attribute.stamina": " %s витривалости",
   "shieldexp.tooltip.attribute.blast_resistance": " %s захисту від вибухів",
 
-  "item.shieldexp.wooden_shield": "Дерев'яний щит",
+  "item.shieldexp.wooden_shield": "Дерев’яний щит",
   "item.shieldexp.golden_shield": "Золотий щит",
   "item.shieldexp.iron_shield": "Залізний щит",
   "item.shieldexp.diamond_shield": "Діамантовий щит",
@@ -24,6 +24,6 @@
   "shieldexp.advancements.get_diamond_shield.title": "Діамант незламний",
   "shieldexp.advancements.get_diamond_shield.description": "Створіть діамантовий щит",
 
-  "shieldexp.advancements.get_netherite_shield.title": "Нерухомий об'єкт",
+  "shieldexp.advancements.get_netherite_shield.title": "Нерухомий об’єкт",
   "shieldexp.advancements.get_netherite_shield.description": "Створіть незеритовий щит"
 }

@@ -29,7 +29,7 @@
   "tooltip.titanium.tank.action_fill": "<ЛКМ щоб залити з предмета",
   "tooltip.titanium.tank.can_drain_from_item": "Можна злити в предмет",
   "tooltip.titanium.tank.action_drain": "<ПКМ, щоб злити в предмет",
-  "tooltip.titanium.tank.no_tank": "<Не під'єднано до резервуара>",
+  "tooltip.titanium.tank.no_tank": "<Не під’єднано до резервуара>",
   "tooltip.titanium.tank.no_action": "Неможливо залити або злити з предмета",
   "titanium.rewards.remove_success": "Нагороду успішно видалено",
   "titanium.rewards.enabled_success": "Нагороду успішно увімкнено",

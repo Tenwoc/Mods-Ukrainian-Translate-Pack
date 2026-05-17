@@ -34,8 +34,8 @@
   "options.travelerscompass.tooltip.not_selected_2":"Виберіть один з режимів пошуку, щоб компас працював",
   "options.travelerscompass.tooltip.none": "Не знайдено",
   "options.travelerscompass.tooltip.disabled":"Ця функція вимкнена в конфігурації",
-  "options.travelerscompass.tooltip.forbidden":"Ви не можете шукати цей об'єкт",
-  "options.travelerscompass.tooltip.favorite":"§7Буде шукатися першим, навіть якщо він знаходиться далі, ніж інші об'єкти пошуку",
+  "options.travelerscompass.tooltip.forbidden":"Ви не можете шукати цей об’єкт",
+  "options.travelerscompass.tooltip.favorite":"§7Буде шукатися першим, навіть якщо він знаходиться далі, ніж інші об’єкти пошуку",
 
   "options.travelerscompass.tooltip.blocks.info": "§7▶Шукає все, що можна розмістити у світі",
   "options.travelerscompass.tooltip.mobs.info": "§7▶Шукає мобів на основі їхніх яєць виклику",
@@ -51,5 +51,5 @@
   "options.travelerscompass.tooltip.shift.block": "ПКМ крадькома, щоб шукати цей блок",
   "options.travelerscompass.tooltip.shift.entity": "ПКМ крадькома, щоб шукати цю сутність",
   "options.travelerscompass.tooltip.item.info": "Цей компас може шукати блоки, істот (за їхнім яйцем, дропом або вмістом інвентарю), селян (за їхніми товарами), породжувачі, рідини (за їхніми відрами), викинуті предмети, і вмістилища за їхнім вмістом.",
-  "config.jade.plugin_minecraft.travelerscompass": "Заборонений до обшуку об'єкт"
+  "config.jade.plugin_minecraft.travelerscompass": "Заборонений до обшуку об’єкт"
 }

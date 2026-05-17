@@ -29,6 +29,6 @@
   "text.autoconfig.combat_roll.option.client.hudBackgroundOpacity" : "Прозорість стрілки",
   "text.autoconfig.combat_roll.option.client.showHUDInCreative" : "Показувати стрілку в режимі творчости",
   "text.autoconfig.combat_roll.option.client.showWhenFull" : "Показувати стрілку, лише коли вона заповнена",
-  "text.autoconfig.combat_roll.option.client.showKeybinding" : "Показувати прив'язану клавішу у інтерфейсі",
+  "text.autoconfig.combat_roll.option.client.showKeybinding" : "Показувати прив’язану клавішу у інтерфейсі",
   "text.autoconfig.combat_roll.option.client.keybindingLabelPosition" : "Позиція позначки клавіши"
 }

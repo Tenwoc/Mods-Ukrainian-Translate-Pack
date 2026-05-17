@@ -5,14 +5,14 @@ navigation:
   icon: spatial_storage_cell_128
   position: 410
 categories:
-- tools
+  - tools
 item_ids:
-- ae2:spatial_storage_cell_2
-- ae2:spatial_storage_cell_16
-- ae2:spatial_storage_cell_128
-- ae2:spatial_cell_component_2
-- ae2:spatial_cell_component_16
-- ae2:spatial_cell_component_128
+  - ae2:spatial_storage_cell_2
+  - ae2:spatial_storage_cell_16
+  - ae2:spatial_storage_cell_128
+  - ae2:spatial_cell_component_2
+  - ae2:spatial_cell_component_16
+  - ae2:spatial_cell_component_128
 ---
 
 # Просторові комірки
@@ -23,14 +23,14 @@ item_ids:
     <ItemImage id="spatial_storage_cell_16" scale="4" />
 
     <ItemImage id="spatial_storage_cell_128" scale="4" />
+
   </Row>
 
-Просторові комірки використовуються для [зберігання фізичних об'ємів простору](../ae2-mechanics/spatial-io.md). Вони використовуються в <a href="spatial_io_port.md"> порті просторового зберігання</a>.
+Просторові комірки використовуються для [зберігання фізичних об’ємів простору](../ae2-mechanics/spatial-io.md). Вони використовуються в <a href="spatial_io_port.md"> порті просторового зберігання</a>.
 
 На відміну від [комірок зберіганняls](../items-blocks-machines/storage_cells.md), просторові комірки не можна переформатувати.
 
 Знову ж таки, **ВИ НЕ МОЖЕТЕ СКИНУТИ, ПЕРЕФОРМАТУВАТИ АБО ЗМІНИТИ РОЗМІР ПРОСТОРОВОЇ КОМІРКИ ПІСЛЯ ЇЇ ВИКОРИСТАННЯ.** Створіть нову комірку, якщо хочете використовувати інші розміри.
-
 
 ## Рецепти
 
@@ -40,6 +40,7 @@ item_ids:
     <Recipe id="network/cells/spatial_storage_cell_16_cubed_storage" />
 
     <Recipe id="network/cells/spatial_storage_cell_128_cubed_storage" />
+
   </Row>
 
 # Корпуси
@@ -58,7 +59,7 @@ item_ids:
 
 # Просторові компоненти
 
-Просторові компоненти є ядром комірок простору. Кожен рівень у 8 разів збільшує обсяги об'єму, який можна зберегти.
+Просторові компоненти є ядром комірок простору. Кожен рівень у 8 разів збільшує обсяги об’єму, який можна зберегти.
 
   <Row>
     <RecipeFor id="spatial_cell_component_2" />
@@ -66,4 +67,5 @@ item_ids:
     <RecipeFor id="spatial_cell_component_16" />
 
     <RecipeFor id="spatial_cell_component_128" />
+
   </Row>

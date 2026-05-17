@@ -135,8 +135,8 @@
   "item.dungeons_mobs.wraith_fire_charge": "Вогняний заряд мороку",
   "item.dungeons_mobs.blue_nethershroom": "Синій незергриб",
   "lore.dungeons_mobs.blue_nethershroom": "Отруйний гриб химерних лісів, він вибухає при виявленні близької загрози, подібно схожій істоті з верхнього світу.",
-  "item.dungeons_mobs.wooden_ladle": "Дерев'яний ківш",
-  "lore.dungeons_mobs.wooden_ladle": "Навіть дерев'яне пирладдя може стати смертоносною зброєю в руках того, хто буде бити знову і знову, і знову, і знову...",
+  "item.dungeons_mobs.wooden_ladle": "Дерев’яний ківш",
+  "lore.dungeons_mobs.wooden_ladle": "Навіть дерев’яне пирладдя може стати смертоносною зброєю в руках того, хто буде бити знову і знову, і знову, і знову...",
   "item.dungeons_mobs.mountaineer_axe": "Льодоруб",
   "lore.dungeons_mobs.mountaineer_axe": "Основний інструмент смарагдових альпіністів, хоча це переважно інструмент для скелелазіння, він практичний, як кирка для прокладання тунелів, і потужний, як сокира, щоб рубати ваших ворогів..",
   "item.dungeons_mobs.gold_mountaineer_axe": "Міцний льодоруб",
@@ -171,7 +171,7 @@
   "item.dungeons_mobs.vanguard_helmet": "Шолом поборника",
   "item.dungeons_mobs.vanguard_chestplate": "Нагрудник поборника",
   "item.dungeons_mobs.vanguard_leggings": "Наголінники поборника",
-  "lore.dungeons_mobs.vanguard_armor": "Старовинний обладунок, який носила невмируща гвардія чаклунського володаря, чиє ім'я загубилося в пісках часу..",
+  "lore.dungeons_mobs.vanguard_armor": "Старовинний обладунок, який носила невмируща гвардія чаклунського володаря, чиє ім’я загубилося в пісках часу..",
   "item.dungeons_mobs.chef_helmet": "Ковпак шеф-кухаря",
   "item.dungeons_mobs.chef_chestplate": "Фартух шеф-кухаря",
   "lore.dungeons_mobs.chef_armor": "Більше ніж безжальні варвари, поборники-кухарі є вершиною кулінарної культури замку Хайблок, які застосовують свої навички нарізки для приготування їжі, а не для вбивства невинних селян.",
@@ -244,9 +244,9 @@
   
   "item.dungeons_mobs.windcaller_helmet": "Вітряна перука",
   "item.dungeons_mobs.windcaller_chestplate": "Роба вітровода",
-  "lore.dungeons_mobs.windcaller_armor": "Нефритова касайка, яку носять вітроводи Святилища Гейла, висока перука монахів є невід'ємною частиною їхнього спілкування з вітром.",
+  "lore.dungeons_mobs.windcaller_armor": "Нефритова касайка, яку носять вітроводи Святилища Гейла, висока перука монахів є невід’ємною частиною їхнього спілкування з вітром.",
   
-  "item.dungeons_mobs.fungus_thrower_helmet": "Головна пов'язка грибного метальника",
+  "item.dungeons_mobs.fungus_thrower_helmet": "Головна пов’язка грибного метальника",
   "item.dungeons_mobs.fungus_thrower_chestplate": "Пояс грибного метальника",
   "lore.dungeons_mobs.fungus_thrower_armor": "У культурі клану піґлінів фіолетовий вважається кольором підступності, лише майстерно виготовлені мішки можуть містити смертоносні гриби химерних лісів.",
   
@@ -257,7 +257,7 @@
   "lore.dungeons_mobs.vanguard_shield": "Плин віків не зробив цей щит крихким, кажуть, що стіни щита, утворені невмирущим авангардом безіменного королівства, були незламними.",
 
   "item.dungeons_mobs.royal_guard_shield": "Щит королівстького гвардійця",
-  "lore.dungeons_mobs.royal_guard_shield": "З гордістю зображений жовтий хрест Архірозбійник, цей щит символізує оборонний обов'язок Королівської гвардії, могутнього оплоту Архірозбійника.",
+  "lore.dungeons_mobs.royal_guard_shield": "З гордістю зображений жовтий хрест Архірозбійник, цей щит символізує оборонний обов’язок Королівської гвардії, могутнього оплоту Архірозбійника.",
   "item.dungeons_mobs.royal_guard_shield.black": "Чорний щит королівстького гвардійця",
   "item.dungeons_mobs.royal_guard_shield.red": "Червоний щит королівстького гвардійця",
   "item.dungeons_mobs.royal_guard_shield.green": "Зелений щит королівстького гвардійця",
@@ -323,9 +323,9 @@
   "subtitles.entity.geomancer.death": "Геомант гине",
   "subtitles.entity.geomancer.pre_attack": "Геомант готує геомантію",
   "subtitles.entity.geomancer.attack": "Геомант викликає стовпи",
-  "subtitles.entity.geomancer.wall_spawn": "З'являється стіна геоманта",
+  "subtitles.entity.geomancer.wall_spawn": "З’являється стіна геоманта",
   "subtitles.entity.geomancer.wall_despawn": "Стіна геоманта щезає",
-  "subtitles.entity.geomancer.bomb_spawn": "З'являється бомба геоманта",  
+  "subtitles.entity.geomancer.bomb_spawn": "З’являється бомба геоманта",  
   
   "subtitles.entity.squall_golem.idle": "Шквальний ґолем скрипить",
   "subtitles.entity.squall_golem.hurt": "Шквального ґолема поранено",
@@ -373,7 +373,7 @@
   "subtitles.entity.iceologer.attack": "Льодолог атакує",
   
   "subtitles.entity.ice_chunk.idle_loop": "Шмат льоду потріскує",
-  "subtitles.entity.ice_chunk.summoned": "Шмат льоду з'являється",
+  "subtitles.entity.ice_chunk.summoned": "Шмат льоду з’являється",
   "subtitles.entity.ice_chunk.fall": "Шмат льоду падає",
   "subtitles.entity.ice_chunk.land": "Шмат льоду вдаряє зверху",
   
@@ -454,12 +454,12 @@
   "subtitles.entity.leapleaf.land": "Листостриб вдаряє зверху",
   "subtitles.entity.leapleaf.rest": "Листостриб відпочиває",
   
-  "subtitles.entity.quick_growing_vine.burst": "Швидкозростаюча лоза з'являється",
+  "subtitles.entity.quick_growing_vine.burst": "Швидкозростаюча лоза з’являється",
   "subtitles.entity.quick_growing_vine.burst_down": "Швидкозростаюча лоза втягується",
   "subtitles.entity.quick_growing_vine.hurt": "Швидкозростаючу лозу поранено",
   "subtitles.entity.quick_growing_vine.death": "Швидкозростаюча лоза гине",
   
-  "subtitles.entity.poison_quill_vine.burst": "Лоза отруйного пера з'являється",
+  "subtitles.entity.poison_quill_vine.burst": "Лоза отруйного пера з’являється",
   "subtitles.entity.poison_quill_vine.idle": "Лоза отруйного пера шухотить",
   "subtitles.entity.poison_quill_vine.hurt": "Лозу отруйного пера поранено",
   "subtitles.entity.poison_quill_vine.death": "Лоза отруйного пера гине",
@@ -479,12 +479,12 @@
   "subtitles.entity.wavewhisperer.summon_qgk": "Заклинатель хвиль викликає швидкозростаючі ламінарії",
   "subtitles.entity.wavewhisperer.summon_pa": "Заклинатель хвиль викликає отруйну анемону",
   
-  "subtitles.entity.quick_growing_kelp.burst": "Швидкозростаюча ламінарія з'являється",
+  "subtitles.entity.quick_growing_kelp.burst": "Швидкозростаюча ламінарія з’являється",
   "subtitles.entity.quick_growing_kelp.burst_down": "Швидкозростаюча ламінарія втягується",
   "subtitles.entity.quick_growing_kelp.hurt": "Швидкозростаючу ламінарію поранено",
   "subtitles.entity.quick_growing_kelp.death": "Швидкозростаюча ламінарія гине",
   
-  "subtitles.entity.poison_anemone.burst": "Отруйна анемона з'являється",
+  "subtitles.entity.poison_anemone.burst": "Отруйна анемона з’являється",
   "subtitles.entity.poison_anemone.idle": "Отруйна анемона шухотить",
   "subtitles.entity.poison_anemone.hurt": "Отруйну анемону поранено",
   "subtitles.entity.poison_anemone.death": "Отруйна анемона гине",

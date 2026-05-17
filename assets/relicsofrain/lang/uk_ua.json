@@ -42,7 +42,7 @@
   "item.relicsofrain.bustling_fungus": "Галасливий грибок",
   "tooltip.relics.bustling_fungus.description": "Лікує усіх союзників після 1.5-секундного стояння на місці.",
   "tooltip.relics.bustling_fungus.ability.healing": "Оздоровчий гриб",
-  "tooltip.relics.bustling_fungus.ability.healing.description": "Після того, як власник залишається нерухомим протягом 1.5 секунд, предмет створює область радіусом 2.5 м, в котрій союзники зцілюються на %1$s%% здоров'я щосекунди, доки власник залишається нерухомим.",
+  "tooltip.relics.bustling_fungus.ability.healing.description": "Після того, як власник залишається нерухомим протягом 1.5 секунд, предмет створює область радіусом 2.5 м, в котрій союзники зцілюються на %1$s%% здоров’я щосекунди, доки власник залишається нерухомим.",
   "tooltip.relics.bustling_fungus.leveling_source.healing.title": "Оздоровчий гриб",
   "tooltip.relics.bustling_fungus.leveling_source.healing.description": "Ця реліквія отримує 1 очко досвіду за кожний такт зцілення",
 
@@ -71,14 +71,14 @@
   "tooltip.relics.katana_trinket.ability.agility.description": "Дозволяє гравцеві бігти в будь-якому напрямку і не сповільнюватися після атак",
 
   "item.relicsofrain.crowbar": "Лом",
-  "tooltip.relics.crowbar.description": "Завдає додаткової шкоди ворогам, у яких понад 90% здоров'я.",
+  "tooltip.relics.crowbar.description": "Завдає додаткової шкоди ворогам, у яких понад 90% здоров’я.",
   "tooltip.relics.crowbar.ability.heavy_hitter": "Важкий ударник",
-  "tooltip.relics.crowbar.ability.heavy_hitter.description": "Коли власник атакує ворога, у якого залишилося понад 90% здоров'я, він наносить на %1$s%% більше шкоди",
+  "tooltip.relics.crowbar.ability.heavy_hitter.description": "Коли власник атакує ворога, у якого залишилося понад 90% здоров’я, він наносить на %1$s%% більше шкоди",
   "tooltip.relics.crowbar.ability.pry_it_open": "Відчиняй!",
   "tooltip.relics.crowbar.ability.pry_it_open.description": "Цей предмет миттєво розбиває дошки",
   "tooltip.relics.crowbar.leveling_source.heavy_hitter.title": "Важкий ударник",
   "tooltip.relics.crowbar.leveling_source.heavy_hitter.description": "Ця реліквія отримує 1 очко досвіду за кожний посилений удар",
-  "tooltip.relicsofrain.crowbar.damage_tip": "Коли здоров'я ворога вище за %1$s%%:",
+  "tooltip.relicsofrain.crowbar.damage_tip": "Коли здоров’я ворога вище за %1$s%%:",
   "tooltip.relicsofrain.crowbar.damage": " +%1$s%% шкоди при атаці",
 
   "item.relicsofrain.irradiant_pearl": "Промениста перлина",

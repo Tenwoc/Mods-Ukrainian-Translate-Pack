@@ -5,13 +5,13 @@ navigation:
   icon: silicon_press
   position: 010
 categories:
-- misc ingredients blocks
+  - misc ingredients blocks
 item_ids:
-- ae2:silicon_press
-- ae2:logic_processor_press
-- ae2:calculation_processor_press
-- ae2:engineering_processor_press
-- ae2:name_press
+  - ae2:silicon_press
+  - ae2:logic_processor_press
+  - ae2:calculation_processor_press
+  - ae2:engineering_processor_press
+  - ae2:name_press
 ---
 
 # Штампи
@@ -39,12 +39,14 @@ item_ids:
     <RecipeFor id="silicon_press" />
 
     <RecipeFor id="logic_processor_press" />
+
   </Row>
 
   <Row>
     <RecipeFor id="calculation_processor_press" />
 
     <RecipeFor id="engineering_processor_press" />
+
   </Row>
 </Column>
 
@@ -52,4 +54,4 @@ item_ids:
 
 Штамп іменування можна використовувати в штампувальному пресі для іменування предметів, подібно до ковадла.
 
-Щоб створити його, клацніть ПКМ, тримаючи в руках <ItemLink id="certus_quartz_cutting_knife" /> або <ItemLink id="nether_quartz_cutting_knife" /> та вставте злиток металу. Потім введіть текст у полі поряд, щоб визначити ім'я, яке буде штампуватися, а потім просто витягніть готовий штамп. Ви можете використовувати один або два штампи одночасно в штампувальному пресі. Якщо ви використовуєте два штампи, прес надрукує комбінацію обох іменувань, спочатку з верхнього слота, потім з нижнього.
+Щоб створити його, клацніть ПКМ, тримаючи в руках <ItemLink id="certus_quartz_cutting_knife" /> або <ItemLink id="nether_quartz_cutting_knife" /> та вставте злиток металу. Потім введіть текст у полі поряд, щоб визначити ім’я, яке буде штампуватися, а потім просто витягніть готовий штамп. Ви можете використовувати один або два штампи одночасно в штампувальному пресі. Якщо ви використовуєте два штампи, прес надрукує комбінацію обох іменувань, спочатку з верхнього слота, потім з нижнього.

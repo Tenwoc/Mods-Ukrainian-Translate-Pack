@@ -347,7 +347,7 @@
     "everythingcopper.screen.fuel_time": "Залишок часу: %s",
 
     "everythingcopper.bulb.tip1": "Перемикає свій стан при заживленні редстоуном.",
-    "everythingcopper.bulb.tip2": "Використовуйте світлокам'яний пил щоб увімкнути її на максимальну яскравість та редстоуновий смолоскип що перемикати її стан рукою.",
+    "everythingcopper.bulb.tip2": "Використовуйте світлокам’яний пил щоб увімкнути її на максимальну яскравість та редстоуновий смолоскип що перемикати її стан рукою.",
 
     "death.attack.everythingcopper.copper_poisoning": "%1$s був вбитий мідним отруєнням",
     "death.attack.everythingcopper.copper_poisoning.player": "%1$s був вбитий мідним отруєнням, граючи з %2$s",
@@ -359,7 +359,7 @@
     "death.attack.everythingcopper.copper_poisoning3.player": "%1$s подавився мідним самородком, поки втікав від %2$s. Не їжте під час бігу.",
 
     "advancements.adventure.consume_copper_nugget.title": "Поїдання міді у 4К",
-    "advancements.adventure.consume_copper_nugget.description": "З'їжте мідний самородок, це дуже корисно для вашого здоров'я.",
+    "advancements.adventure.consume_copper_nugget.description": "З’їжте мідний самородок, це дуже корисно для вашого здоров’я.",
     "advancements.adventure.summon_copper_golem.title": "Палітра ґолема",
     "advancements.adventure.summon_copper_golem.description": "Викличте мідного ґолема. Не з якоїсь конкретної причини, а просто тому що у вас занадто багато міді на руках."
 }

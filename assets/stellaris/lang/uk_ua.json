@@ -110,7 +110,7 @@
   "block.stellaris.polished_moon_stone": "Полірований місячний камінь",
   "block.stellaris.moon_stone_bricks": "Місячна цегла",
   "block.stellaris.cracked_moon_stone_bricks": "Тріснута місячна цегла",
-  "block.stellaris.moon_stone_pillar": "Місячна кам'яна колона",
+  "block.stellaris.moon_stone_pillar": "Місячна кам’яна колона",
   "block.stellaris.moon_pillar": "Місячна колона",
   "block.stellaris.moon_deepslate": "Місячний глибосланець",
 
@@ -135,7 +135,7 @@
   "block.stellaris.polished_mars_stone": "Полірований марсіанський камінь",
   "block.stellaris.mars_stone_bricks": "Марсіанська цегла",
   "block.stellaris.cracked_mars_stone_bricks": "Тріснута марсіанська цегла",
-  "block.stellaris.mars_stone_pillar": "Марсіанська кам'яна колона",
+  "block.stellaris.mars_stone_pillar": "Марсіанська кам’яна колона",
   "block.stellaris.mars_pillar": "Марсіанська колона",
   "block.stellaris.mars_deepslate": "Марсіанський глибосланець",
 
@@ -180,12 +180,12 @@
 
   "block.stellaris.venus_stone": "Венеріанський камінь",
   "block.stellaris.venus_cobblestone": "Венеріанський кругляк",
-  "block.stellaris.venus_stone_dust": "Венеріанський кам'яний пил",
+  "block.stellaris.venus_stone_dust": "Венеріанський кам’яний пил",
   "block.stellaris.chiseled_venus_stone": "Різьблений венеріанський камінь",
   "block.stellaris.polished_venus_stone": "Полірований венеріанський камінь",
   "block.stellaris.venus_stone_bricks": "Венеріанська цегла",
   "block.stellaris.cracked_venus_stone_bricks": "Тріснута венеріанська цегла",
-  "block.stellaris.venus_stone_pillar": "Венеріанська кам'яна колона",
+  "block.stellaris.venus_stone_pillar": "Венеріанська кам’яна колона",
   "block.stellaris.venus_pillar": "Венеріанська колона",
   "block.stellaris.venus_deepslate": "Венеріанський глибосланець",
 
@@ -204,12 +204,12 @@
 
   "block.stellaris.mercury_stone": "Меркурієвий камінь",
   "block.stellaris.mercury_cobblestone": "Меркурієвий кругляк",
-  "block.stellaris.mercury_stone_dust": "Меркурієвий кам'яний пил",
+  "block.stellaris.mercury_stone_dust": "Меркурієвий кам’яний пил",
   "block.stellaris.chiseled_mercury_stone": "Різьблений меркурієвий камінь",
   "block.stellaris.polished_mercury_stone": "Полірований меркурієвий камінь",
   "block.stellaris.mercury_stone_bricks": "Меркурієва цегла",
   "block.stellaris.cracked_mercury_stone_bricks": "Тріснута меркурієва цегла",
-  "block.stellaris.mercury_stone_pillar": "Меркурієва кам'яна колона",
+  "block.stellaris.mercury_stone_pillar": "Меркурієва кам’яна колона",
   "block.stellaris.mercury_pillar": "Меркурієва колона",
   "block.stellaris.mercury_deepslate": "Меркурієвий глибосланець",
 
@@ -704,7 +704,7 @@
   "biome.stellaris.infernal_venus_barrens": "Пекельна венеріанська околиця",
   "biome.stellaris.mars_desert": "Марсіанська пустеля",
   "biome.stellaris.mars_ice_spikes": "Марсіанські крижані шпилі",
-  "biome.stellaris.mars_rocky_plains": "Марсіанські кам'янисті рівнини",
+  "biome.stellaris.mars_rocky_plains": "Марсіанські кам’янисті рівнини",
   "biome.stellaris.mercury": "Меркурій",
   "biome.stellaris.mercury_fire_land": "Вогненні землі Меркурія",
   "biome.stellaris.moon_caves": "Місячні печери",

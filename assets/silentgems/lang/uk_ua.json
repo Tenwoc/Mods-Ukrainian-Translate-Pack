@@ -58,7 +58,7 @@
   "item.silentgems.gem": "%s",
   "item.silentgems.iron_potato": "Залізна картопля",
   "item.silentgems.iron_potato.desc": "Картопля, яка не йде на компроміси",
-  "item.silentgems.meaty_stew": "М'ясне рагу",
+  "item.silentgems.meaty_stew": "М’ясне рагу",
   "item.silentgems.potato_on_a_stick": "Картопля на палиці",
   "item.silentgems.potato_on_a_stick.desc": "Легенда живе",
   "item.silentgems.raw_silver": "Необроблене срібло",
@@ -77,9 +77,9 @@
   "item.silentgems.summon_kitty.desc": "Набагато менш дратівливий спосіб отримати кішок",
   "item.silentgems.summon_puppy": "Породжувач цуценя",
   "item.silentgems.summon_puppy.desc": "Проблеми з пошуком цих набридливих вовків?",
-  "item.silentgems.teleporter_linker": "З'єднувач телепортера",
+  "item.silentgems.teleporter_linker": "З’єднувач телепортера",
   "item.silentgems.uncooked_fishy_stew": "Сире рибне рагу",
-  "item.silentgems.uncooked_meaty_stew": "Сире м'ясне рагу",
+  "item.silentgems.uncooked_meaty_stew": "Сире м’ясне рагу",
 
   "itemGroup.silentgems": "Silent Gems",
 
@@ -93,7 +93,7 @@
   "silentgems.configuration.normalLight": "Звичайне значення світла",
   "silentgems.configuration.pottedLight": "Значення світла в горщику",
 
-  "trait.silentgems.barrier_jacket": "Бар'єрна куртка",
+  "trait.silentgems.barrier_jacket": "Бар’єрна куртка",
   "trait.silentgems.barrier_jacket.desc": "Надає більше магічної броні при вищій міцності",
   "trait.silentgems.booster": "Прискорювач",
   "trait.silentgems.booster.desc": "Дає прискорення швидкости",
@@ -110,7 +110,7 @@
   "trait.silentgems.hasty": "Квапливість",
   "trait.silentgems.hasty.desc": "Збільшує швидкість копання",
   "trait.silentgems.hearty": "Сердечність",
-  "trait.silentgems.hearty.desc": "Дає додаткове здоров'я",
+  "trait.silentgems.hearty.desc": "Дає додаткове здоров’я",
   "trait.silentgems.leaping": "Стрибучість",
   "trait.silentgems.leaping.desc": "Дає підсилення стрибка та повільне падіння",
   "trait.silentgems.neptunes_blessing": "Благословення Нептуна",

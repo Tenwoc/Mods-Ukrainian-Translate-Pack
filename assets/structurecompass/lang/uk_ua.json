@@ -13,9 +13,9 @@
   "item.structurecompass.structure_compass": "Структурний компас",
 
   "_comment": "Повідомлення",
-  "structurecompass.locate.invalid": "Прив'язана структура недійсна. Будь ласка, переприв'яжіть",
-  "structurecompass.locate.fail": "Прив'язана структура не може бути розташована поблизу",
-  "structurecompass.locate.distance": "Прив'язана структура знаходиться на відстані %s блоків",
+  "structurecompass.locate.invalid": "Прив’язана структура недійсна. Будь ласка, переприв’яжіть",
+  "structurecompass.locate.fail": "Прив’язана структура не може бути розташована поблизу",
+  "structurecompass.locate.distance": "Прив’язана структура знаходиться на відстані %s блоків",
   "structurecompass.locate.toggled": "Відображення компаса структури переключено %s",
 
   "_comment": "підказки",
@@ -26,7 +26,7 @@
   "structurecompass.structure.wrong_dimension.tooltip": "Ви не перебуваєте у вимірі, в якому було знайдено %s",
   "structurecompass.structure.unset.tooltip": "Не задано жодної структури, утримуйте ПКМ крадькома, щоб вибрати структуру",
 
-  "_comment": "прив'язки клавіш",
+  "_comment": "прив’язки клавіш",
   "category.structurecompass.main": "Structure Compass",
   "key.structurecompass.hide": "Приховати інтерфейс структурного компасу"
 }

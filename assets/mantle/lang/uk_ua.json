@@ -11,14 +11,14 @@
   "command.mantle.tags_for.no_held_potion": "Утримуваний предмет не є зіллям",
   "command.mantle.tags_for.no_held_fluid": "Неможливо отримати рідину з утримуваного предмета",
   "command.mantle.tags_for.no_held_enchantment": "Утримуваний предмет не зачарований",
-  "command.mantle.tags_for.no_targeted_entity": "У зоні досяжності немає об'єкта",
+  "command.mantle.tags_for.no_targeted_entity": "У зоні досяжності немає об’єкта",
   "command.mantle.tags_for.no_targeted_block_entity": "Немає цільової блокованої сутності",
   "command.mantle.tags_for.no_tags": "Немає міток",
   "command.mantle.book_test.not_found": "Невідома книга з ідентифікатором %s",
 
   "command.mantle.dump_tag.success": "До консольного журналу виведено комбінований тег %s '%s'",
   "command.mantle.dump_tag.read_error": "Помилка читання тегу %s '%s':",
-  "command.mantle.dump_tag.success_log": "Виведено об'єднаний тег %s '%s' у '%s'",
+  "command.mantle.dump_tag.success_log": "Виведено об’єднаний тег %s '%s' у '%s'",
   "command.mantle.dump_all_tags.success": "Виведено всі теги у '%s'",
   "command.mantle.dump_all_tags.type_success": "Виведено всі теги %s до '%s'",
 

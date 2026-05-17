@@ -19,7 +19,7 @@
   "message.gravestone.death_id_not_found": "Смерть з ID %s не знайдена",
   "message.gravestone.restore.success": "Успішно відновлено предмети гравця %s",
   "message.gravestone.death_not_found": "Смерть не знайдена",
-  "gui.obituary.name": "Ім'я",
+  "gui.obituary.name": "Ім’я",
   "gui.obituary.title": "Інформація про смерть",
   "gui.obituary.location": "Місцезнаходження",
   "gui.obituary.dimension": "Вимір",

@@ -25,7 +25,7 @@
   "hollowengine.no_permissions": "У вас недостатньо прав для цієї дії!",
   "hollowengine.enter_model_path": "Введіть шлях до моделі для запису:",
   "hollowengine.enter_replay": "Введіть назву запису:",
-  "hollowengine.enter_camera_path": "Введіть ім'я файлу:",
+  "hollowengine.enter_camera_path": "Введіть ім’я файлу:",
   "hollowengine.no_text_dialogue": "Тут повинен бути текст, але він не був написаний у скрипті...",
   "hollowengine.recoring_tooltip": "Запис | %1$sh %2$sm %3$ss",
   "hollowengine.model_example": "модель (modid:path_to_file)",
@@ -56,7 +56,7 @@
   "hollowengine.npc_choicer.timecore": "Додає моделі з BlockBench, включаючи анімовані. Підтримувані формати:",
   "hollowengine.npc_choicer.vanilla": "Додає моделі, які вже мають інші моби в грі, поки що тільки ванільні.",
   "hollowengine.progress_manager.event_list": "Список подій",
-  "hollowengine.progress_manager.no_tasks": "Поки що немає завдань, можливо, вони з'являться пізніше!",
+  "hollowengine.progress_manager.no_tasks": "Поки що немає завдань, можливо, вони з’являться пізніше!",
   "hollowengine.input_model_path": "Введіть шлях до моделі:",
   "hollowengine.model_edit.text": "текст",
   "ftbquests.task.hollowengine.story_event": "Подія сюжету",
@@ -69,7 +69,7 @@
   "npctool.hollowengine.npc.pose": "Редактор поз",
 
   "_comment": "Візуальні вузли скрипту",
-  "nodes.hollowengine.unlink": "Від'єднати",
+  "nodes.hollowengine.unlink": "Від’єднати",
 
   "nodes.hollowengine.no_desc": "Без опису",
 
@@ -104,9 +104,9 @@
   "nodes.hollowengine.server.player_by_nick": "Прізвисько гравця",
   "nodes.hollowengine.server.player_by_nick.desc": "Видає гравця, прізвисько якого ви вказали.\nЯкщо гравець не знаходиться на сервері, буде згенеровано помилку.",
   "nodes.hollowengine.server.nearest_player": "Найближчий гравець",
-  "nodes.hollowengine.server.nearest_player.desc": "Видає ім'я гравця, який знаходиться найближче до поточного персонажа.",
+  "nodes.hollowengine.server.nearest_player.desc": "Видає ім’я гравця, який знаходиться найближче до поточного персонажа.",
   "nodes.hollowengine.server.player_info": "Дані гравця",
-  "nodes.hollowengine.server.player_info.desc": "Виводить дані гравця:\n  Координати в світі\n  Координати очей в світі (наприклад, щоб персонаж дивився вам в очі, а не на ноги)\n  Нік гравця\n  Здоров'я гравця",
+  "nodes.hollowengine.server.player_info.desc": "Виводить дані гравця:\n  Координати в світі\n  Координати очей в світі (наприклад, щоб персонаж дивився вам в очі, а не на ноги)\n  Нік гравця\n  Здоров’я гравця",
   "nodes.hollowengine.server.message": "Повідомлення",
   "nodes.hollowengine.server.message.desc": "Виводить вказане повідомлення в чат.",
 
@@ -114,7 +114,7 @@
   "nodes.hollowengine.dialogues.end": "Кінець діалогу",
   "nodes.hollowengine.dialogues.say": "Повідомлення",
   "nodes.hollowengine.dialogues.choice": "Вибір",
-  "nodes.hollowengine.dialogues.name": "Ім'я",
+  "nodes.hollowengine.dialogues.name": "Ім’я",
 
   "nodes.hollowengine.waiters.wait": "Час очікування",
   "nodes.hollowengine.waiters.wait.desc": "Очікує вказану кількість тактів, а потім переходить до наступного вузла.",
@@ -131,8 +131,8 @@
   "pins.hollowengine.npc": "NPC",
   "pins.hollowengine.boolean": "Булеве значення",
   "pins.hollowengine.eye": "Координати погляду",
-  "pins.hollowengine.health": "Здоров'я",
-  "pins.hollowengine.name": "Ім'я",
+  "pins.hollowengine.health": "Здоров’я",
+  "pins.hollowengine.name": "Ім’я",
 
   "_comment": "Вузли Категорії",
   "node_categories.npcs": "NPC",

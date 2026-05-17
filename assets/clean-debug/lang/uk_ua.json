@@ -4,7 +4,7 @@
   "clean-debug.midnightconfig.hideTags": "Приховати теги",
   "clean-debug.midnightconfig.hideTags.tooltip": "Приховує теги блоку, на який ви дивитеся.",
   "clean-debug.midnightconfig.hardwareMode": "Апаратний режим",
-  "clean-debug.midnightconfig.hardwareMode.tooltip": "\"All\" показує всю інформацію про ваш комп'ютер, \"Reduced\" показує лише використання пам'яті, а \"None\" приховує все.",
+  "clean-debug.midnightconfig.hardwareMode.tooltip": "\"All\" показує всю інформацію про ваш комп’ютер, \"Reduced\" показує лише використання пам’яті, а \"None\" приховує все.",
   "clean-debug.midnightconfig.enum.HardwareMode.ALL": "All",
   "clean-debug.midnightconfig.enum.HardwareMode.REDUCED": "Reduced",
   "clean-debug.midnightconfig.enum.HardwareMode.NONE": "None",

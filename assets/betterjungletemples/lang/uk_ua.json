@@ -14,5 +14,5 @@
   "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.disableVanillaJungleTemples.@Tooltip": "Чи потрібно відключати ванільні храми джунглів.",
 
   "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled": "Увімкнути сумісність із Pick Your Poison",
-  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "Чи повинні отруйні дротики PYP з'являтися в покращених храмах джунглів."
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "Чи повинні отруйні дротики PYP з’являтися в покращених храмах джунглів."
 }

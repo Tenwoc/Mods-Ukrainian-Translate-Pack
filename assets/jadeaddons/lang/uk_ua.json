@@ -1,6 +1,6 @@
 {
 "config.waila.plugin_secretroomsmod.jadeaddons": "Увімкнено",
-"config.waila.plugin_create.blaze_burner": "Полум'яний пальник",
+"config.waila.plugin_create.blaze_burner": "Полум’яний пальник",
 "config.waila.plugin_create.crafting_blueprint": "Креслення креслення для крафтингу",
 "config.waila.plugin_create.placard": "Плакат",
 "config.waila.plugin_create.contraption_inv": "Інвентар споруди",
@@ -29,6 +29,6 @@
 
 "entity.tconstruct.glow_ball": "Сяйна куля",
 "entity.tconstruct.efln_ball": "EFLN",
-"entity.tconstruct.flint_shuriken": "Крем'яний сюрікен",
+"entity.tconstruct.flint_shuriken": "Крем’яний сюрікен",
 "entity.tconstruct.quartz_shuriken": "Кварцовий сюрікен"
 }

@@ -13,7 +13,7 @@
     "item.rftoolsutility.counterplus_module": "Модуль екрану лічильника+",
     "item.rftoolsutility.redstone_module": "Модуль екрану редстоуну",
     "item.rftoolsutility.machineinformation_module": "Модуль екрану з інформацією про машину",
-    "item.rftoolsutility.computer_module": "Екранний модуль комп'ютера",
+    "item.rftoolsutility.computer_module": "Екранний модуль комп’ютера",
     "item.rftoolsutility.button_module": "Модуль кнопочного екрану",
 
     "item.rftoolsutility.module_template": "Шаблон модуля",
@@ -85,7 +85,7 @@
     "message.rftoolsutility.invchecker.header": "Inventory Checker може перевіряти наявність предметів в інвентарі та надсилати сигнал редстоуну",
     "message.rftoolsutility.sensor.header": "Сенсор може виявляти різні речі, такі як моби, гравці, блоки, рідини та зростання врожаю, і за певних умов надсилати сигнал редстоуну",
     "message.rftoolsutility.sequencer.header": "Секвенсор може надсилати серії червоних імпульсів за певних вхідних сигналів. За бажанням послідовності можуть повторюватися",
-    "message.rftoolsutility.logic.header": "Логічний блок може об'єднати три вхідні сигнали в один вихідний сигнал за допомогою таблиці істинності",
+    "message.rftoolsutility.logic.header": "Логічний блок може об’єднати три вхідні сигнали в один вихідний сигнал за допомогою таблиці істинності",
     "message.rftoolsutility.timer.header": "Блок Timer може надсилати синхронізовані імпульси редстоуну",
     "message.rftoolsutility.wire.header": "Блок Wire - це дуже простий червоний дріт без затримок. Може робити тільки прямі лінії",
 
@@ -104,7 +104,7 @@
     "message.rftoolsutility.redstone_information.channels": "Канали: ",
 
     "message.rftoolsutility.redstone_receiver.header": "Приймач редстоуну може отримувати сигнали редстоуну віддалено (від передавача редстоуну або кнопкового модуля)",
-    "message.rftoolsutility.redstone_receiver.gold": "Натисніть ПКМ на передавачі матерії або іншому приймачі редстоуну, щоб встановити зв'язок",
+    "message.rftoolsutility.redstone_receiver.gold": "Натисніть ПКМ на передавачі матерії або іншому приймачі редстоуну, щоб встановити зв’язок",
     "message.rftoolsutility.redstone_receiver.channel": "Канал: ",
 
     "message.rftoolsutility.redstone_transmitter.header": "Передавач редстоуну приймає сигнали редстоуну і надсилає їх бездротовим способом на підключені приймачі",
@@ -190,11 +190,11 @@
 
     "message.rftoolsutility.matter_receiver.header": "Якщо ви розмістите цей блок у будь-якій точці світу, то зможете додзвонитися до нього за допомогою телефонного пристрою. Перш ніж телепортуватися до цього блоку, переконайтеся, що він має достатньо енергії!",
     "message.rftoolsutility.matter_receiver.gold": "Бонус від вливання: зменшене енергоспоживання",
-    "message.rftoolsutility.matter_receiver.info": "Ім'я: ",
+    "message.rftoolsutility.matter_receiver.info": "Ім’я: ",
 
     "message.rftoolsutility.matter_transmitter.header": "Якщо ви розмістите цей блок поруч з телефонним апаратом, то зможете зателефонувати до приймача матерії. Переконайтеся, що він має достатню потужність! Використовуйте Аналізатор призначення, що знаходиться поруч з цим блоком, для перевірки статусу призначення (червоний - погано, зелений - добре, жовтий - невідомо). Використовуйте Прискорювач матерії поруч з цим блоком, щоб мати можливість телепортуватися до приймачів без живлення",
     "message.rftoolsutility.matter_transmitter.gold": "Бонус від вливання: зменшується споживання енергії та збільшується швидкість телепортації",
-    "message.rftoolsutility.matter_transmitter.info": "Ім'я: ",
+    "message.rftoolsutility.matter_transmitter.info": "Ім’я: ",
     "message.rftoolsutility.matter_transmitter.once": "Один раз: ",
     "message.rftoolsutility.matter_transmitter.dialed": "Набирається на: ",
 

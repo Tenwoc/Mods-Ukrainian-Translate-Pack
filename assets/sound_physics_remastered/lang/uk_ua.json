@@ -22,7 +22,7 @@
   "cloth_config.sound_physics_remastered.block_absorption": "Поглинання звуку блоку",
   "cloth_config.sound_physics_remastered.block_absorption.description": "Кількість звуків, яка буде поглинена під час переміщення по блоках.",
   "cloth_config.sound_physics_remastered.occlusion_variation": "Коливання оклюзії",
-  "cloth_config.sound_physics_remastered.occlusion_variation.description": "Великі значення означають, що менші об'єкти не будуть розглядатися як такі, що затуляють.",
+  "cloth_config.sound_physics_remastered.occlusion_variation.description": "Великі значення означають, що менші об’єкти не будуть розглядатися як такі, що затуляють.",
   "cloth_config.sound_physics_remastered.default_block_reflectivity": "Усталені відбивні здатності блоку",
   "cloth_config.sound_physics_remastered.default_block_reflectivity.description": "Усталено у всіх блоків задано певну кількість звукової відбивної енергії. Менші значення спричиняють більш помірну імітацію відлуння з коротшими хвостами відлуння. Вищі значення спричиняють інтенсивнішу імітацію відлуння з вищими хвостами відлуння.",
   "cloth_config.sound_physics_remastered.default_block_occlusion_factor": "Усталений коефіцієнт оклюзії блоку",

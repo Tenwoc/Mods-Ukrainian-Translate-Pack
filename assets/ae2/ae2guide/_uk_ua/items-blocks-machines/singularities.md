@@ -5,10 +5,10 @@ navigation:
   icon: singularity
   position: 010
 categories:
-- misc ingredients blocks
+  - misc ingredients blocks
 item_ids:
-- ae2:singularity
-- ae2:quantum_entangled_singularity
+  - ae2:singularity
+  - ae2:quantum_entangled_singularity
 ---
 
 # Сингулярність
@@ -23,14 +23,14 @@ item_ids:
 
 <ItemImage id="quantum_entangled_singularity" scale="4" />
 
-Необхідна для сполучення двох [квантових мережевих мостів](quantum_bridge.md), і завжди створюється в парі. Щоб створити з'єднання, помістіть кожну з пари квантових заплутаних сингулярностей у [камеру квантового зв'язку](quantum_bridge.md#камера-квантового-звязку) обох мостів.
+Необхідна для сполучення двох [квантових мережевих мостів](quantum_bridge.md), і завжди створюється в парі. Щоб створити з’єднання, помістіть кожну з пари квантових заплутаних сингулярностей у [камеру квантового зв’язку](quantum_bridge.md#камера-квантового-звязку) обох мостів.
 
 Вони створюються шляхом викликання реакції двох предметів: <ItemLink id="minecraft:ender_pearl" />/<ItemLink id="ender_dust" />\
 та <ItemLink id="singularity" />. Будь-яка вибухова сила має бути достатньою для запуску реакції.
 
 <RecipeFor id="quantum_entangled_singularity" />
 
-***Cпрацює майже будь-який вибух, навіть від кріперів.***
+**_Cпрацює майже будь-який вибух, навіть від кріперів._**
 
 Завжди створюються парами, але потребує лише однієї сингулярності.
 
