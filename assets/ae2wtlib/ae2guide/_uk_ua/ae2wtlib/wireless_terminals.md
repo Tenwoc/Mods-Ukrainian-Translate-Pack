@@ -55,9 +55,9 @@ item_ids:
 
 <RecipeFor id="ae2wtlib:wireless_pattern_access_terminal" />
 
-## Термінали аддонів
+## Термінали доповнень
 
-Більшість бездротових терміналів з інших аддонів також можна об’єднати в <ItemLink id="ae2wtlib:wireless_universal_terminal" />.
+Більшість бездротових терміналів з інших доповнень також можна об’єднати в <ItemLink id="ae2wtlib:wireless_universal_terminal" />.
 
 ## Термінали, які не працюють в універсальному терміналі
 

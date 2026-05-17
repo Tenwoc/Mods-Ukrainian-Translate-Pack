@@ -6,6 +6,6 @@ navigation:
 
 # Applied Replicatics
 
-Мод-аддон, який інтегрує Replication у систему зберігання Applied Energistics 2.
+Мод-доповнення, який інтегрує Replication у систему зберігання Applied Energistics 2.
 
 <SubPages />

@@ -34,6 +34,6 @@
   "craftingtweaks.configuration.client.hideVanillaCraftingGuide.tooltip": "Ми усі знаємо, що JEI (та інші переглядачі) набагато кращий. Ця опція приховує кнопку книги рецептів, а не переміщує її.",
   "craftingtweaks.configuration.client.mode": "Режим",
   "craftingtweaks.configuration.client.mode.tooltip": "Встановіть значення DEFAULT, щоб увімкнути як кнопки, так і гарячі клавіші. Встановіть значення BUTTONS, щоб увімкнути лише кнопки. Встановіть значення HOTKEYS, щоб увімкнути лише гарячі клавіші. Встановіть значення DISABLED, щоб повністю вимкнути.",
-  "craftingtweaks.configuration.client.disabledAddons": "Вимкнені аддони",
+  "craftingtweaks.configuration.client.disabledAddons": "Вимкнені доповнення",
   "craftingtweaks.configuration.client.disabledAddons.tooltip": "Додайте сюди ідентифікатори модів, для яких ви хочете вимкнути підтримку Crafting Tweaks."
 }
