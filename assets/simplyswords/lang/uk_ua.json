@@ -626,7 +626,7 @@
   "item.simplyswords.ferocitysworditem.tooltip6": "дорівнює кількості накопиченнь.",
 
   "item.simplyswords.rendsworditem.tooltip1": "Унікальний ефект: Розрив душ",
-  "item.simplyswords.rendsworditem.tooltip2": "Шанс при попаданні нанести",
+  "item.simplyswords.rendsworditem.tooltip2": "Шанс при попаданні накласти",
   "item.simplyswords.rendsworditem.tooltip3": "ослаблюючий ефект, що накопичуюється.",
   "item.simplyswords.rendsworditem.tooltip4": "Поглиньте всі накопичення з ворогів",
   "item.simplyswords.rendsworditem.tooltip5": "навколо, щоб завдати їм шкоди і зцілити",
@@ -697,7 +697,7 @@
   "item.simplyswords.arcanethystsworditem.tooltip6":"а потім кидайте їх на землю.",
 
   "item.simplyswords.thunderbrandsworditem.tooltip1": "Унікальний ефект: Громовий блиск",
-  "item.simplyswords.thunderbrandsworditem.tooltip2": "Шанс при попаданні відновити перезарядку здібності.",
+  "item.simplyswords.thunderbrandsworditem.tooltip2": "Шанс при попаданні відновити перезаряджання здібності.",
   "item.simplyswords.thunderbrandsworditem.tooltip3": "Миттєво сповільнюєтесь і заряджаєте свою зброю,",
   "item.simplyswords.thunderbrandsworditem.tooltip4": "завдаючи найближчим супротивникам одиничної шкоди.",
   "item.simplyswords.thunderbrandsworditem.tooltip5": "Зарядивши зброю, кидайтеся вперед, збільшуючи",
@@ -705,7 +705,7 @@
   "item.simplyswords.thunderbrandsworditem.tooltip7": "на своєму шляху.",
 
   "item.simplyswords.stormsedgesworditem.tooltip1": "Унікальний ефект: Штормовий поштовх",
-  "item.simplyswords.stormsedgesworditem.tooltip2": "Шанс при попаданні відновити перезарядку здібності.",
+  "item.simplyswords.stormsedgesworditem.tooltip2": "Шанс при попаданні відновити перезаряджання здібності.",
   "item.simplyswords.stormsedgesworditem.tooltip3": "Стрибайте вперед, як блискавка,",
   "item.simplyswords.stormsedgesworditem.tooltip4": "і отримуйте миттєву невразливість,",
   "item.simplyswords.stormsedgesworditem.tooltip5": "а також підвищену швидкість і квапливість.",
@@ -732,10 +732,10 @@
   "item.simplyswords.stormbringersworditem.tooltip8": "завдаючи шкоди і відкинувши супротивника,",
   "item.simplyswords.stormbringersworditem.tooltip9": "а також зменшуючи при цьому час перезарядки здатності.",
   "item.simplyswords.stormbringersworditem.tooltip10":"Виконання кількох парирувань поспіль",
-  "item.simplyswords.stormbringersworditem.tooltip11":"збільшить шкоду і перезарядку здібності.",
+  "item.simplyswords.stormbringersworditem.tooltip11":"збільшить шкоду і перезаряджання здібності.",
 
   "item.simplyswords.shadowmistsworditem.tooltip1": "Унікальний ефект: Тіньовий туман",
-  "item.simplyswords.shadowmistsworditem.tooltip2": "Шанс при попаданні нанести магічну шкоду, яка",
+  "item.simplyswords.shadowmistsworditem.tooltip2": "Шанс при попаданні завдати магічної шкоди, яка",
   "item.simplyswords.shadowmistsworditem.tooltip3": "масштабується відповідно до рівня броні цілі.",
   "item.simplyswords.shadowmistsworditem.tooltip4": "Створіть сліпучий тіньовий туман біля своїх ніг",
   "item.simplyswords.shadowmistsworditem.tooltip5": "і просувайтеся вперед на невелику відстань.",
@@ -755,12 +755,12 @@
   "item.simplyswords.sunfiresworditem.tooltip6":"дружнім гравцям, які перебувають поблизу нього.",
 
   "item.simplyswords.whisperwindsworditem.tooltip1":"Унікальний ефект: Фатальне мерехтіння",
-  "item.simplyswords.whisperwindsworditem.tooltip2":"Шанс при попаданні відновити перезарядку здатності.",
+  "item.simplyswords.whisperwindsworditem.tooltip2":"Шанс при попаданні відновити перезаряджання здатності.",
   "item.simplyswords.whisperwindsworditem.tooltip3":"Зробіть стрімкий ривок уперед, отримуючи",
   "item.simplyswords.whisperwindsworditem.tooltip4":"стійкість і поглинання, а також відкидаючи",
   "item.simplyswords.whisperwindsworditem.tooltip5":"ворогів на своєму шляху за допомогою відлуння.",
   "item.simplyswords.whisperwindsworditem.tooltip6":"За кожну ціль, уражену ривком,",
-  "item.simplyswords.whisperwindsworditem.tooltip7":"ви завдаєте більшу кількість відлуння.",
+  "item.simplyswords.whisperwindsworditem.tooltip7":"ви завдаєте більшої кількости відлуння.",
 
   "item.simplyswords.emberlashsworditem.tooltip1": "Унікальний ефект: Спалення",
   "item.simplyswords.emberlashsworditem.tooltip2": "Ваші атаки спричиняють Спалення.",
@@ -919,7 +919,7 @@
 
   "item.simplyswords.levitationsworditem.tooltip1": "Рунічна сила: Ширяння",
   "item.simplyswords.uniquesworditem.runefused_power.float":"[ Рунозлиття: Ширяння ]",
-  "item.simplyswords.levitationsworditem.tooltip2": "Шанс при влучанні відмінити вплив",
+  "item.simplyswords.levitationsworditem.tooltip2": "Шанс при влучанні скасувати вплив",
   "item.simplyswords.levitationsworditem.tooltip3": "гравітації на ціль.",
   "item.simplyswords.speedsworditem.tooltip1":"Рунічна сила: Швидкість",
   "item.simplyswords.uniquesworditem.runefused_power.swiftness":"[ Рунозлиття: Швидкість ]",
@@ -1045,13 +1045,13 @@
   "item.simplyswords.uniquesworditem.netherfused_power.renewed.description":"Активуючи сигнатурну",
   "item.simplyswords.uniquesworditem.netherfused_power.renewed.description2": "здатність, ви маєте",
   "item.simplyswords.uniquesworditem.netherfused_power.renewed.description3": "шанс значно зменшити",
-  "item.simplyswords.uniquesworditem.netherfused_power.renewed.description4": "її перезарядку.",
+  "item.simplyswords.uniquesworditem.netherfused_power.renewed.description4": "її перезаряджання.",
 
   "item.simplyswords.uniquesworditem.netherfused_power.accelerant": "[ Незерзлиття: Прискорення ]",
   "item.simplyswords.uniquesworditem.netherfused_power.accelerant.description": "Сигнатурна здатність Берсреркінгу",
   "item.simplyswords.uniquesworditem.netherfused_power.accelerant.description2":"Берсерка більше не дарує вам",
-  "item.simplyswords.uniquesworditem.netherfused_power.accelerant.description3":"берсеркінгу, але його перезарядка",
-  "item.simplyswords.uniquesworditem.netherfused_power.accelerant.description4":"значно зменшився.",
+  "item.simplyswords.uniquesworditem.netherfused_power.accelerant.description3":"берсеркінгу, але його перезаряджання",
+  "item.simplyswords.uniquesworditem.netherfused_power.accelerant.description4":"значно зменшується.",
 
   "item.simplyswords.uniquesworditem.netherfused_power.leaping":"[ Незерзлиття: Стрибок ]",
   "item.simplyswords.uniquesworditem.netherfused_power.leaping.description":"При приземленні Руйнівним стрибком",

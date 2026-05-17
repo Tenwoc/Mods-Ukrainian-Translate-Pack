@@ -2306,7 +2306,7 @@
   "free_runner.mekanism.mode_change": "Режим вільнобігів змінено на: %1$s",
   "free_runner.mekanism.normal": "Звичайний",
   "free_runner.mekanism.safety": "Безпека",
-  "frequency.mekanism.delete_confirm": "Ви впевнені, що хочете видалити цю частоту? Цього не можна буде відмінити.",
+  "frequency.mekanism.delete_confirm": "Ви впевнені, що хочете видалити цю частоту? Цього не можна буде скасувати.",
   "frequency.mekanism.format": "Частота: %1$s",
   "frequency.mekanism.none": "Відсутня частота",
   "generic.mekanism.block_pos": "%1$s, %2$s, %3$s",

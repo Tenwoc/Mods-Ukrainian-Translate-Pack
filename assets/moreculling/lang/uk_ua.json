@@ -15,8 +15,6 @@
 	"moreculling.config.option.beaconBeamCulling.tooltip": "Виконує оптимізацію для променів маяку",
 	"moreculling.config.option.entityModelCulling": "Оптимізація моделей мобів",
 	"moreculling.config.option.entityModelCulling.tooltip": "Допоможе лише якщо, якщо ваш ГП є вразливим місцем і у вашого ЦП є запас продуктивності!",
-	"moreculling.config.option.dontCull": "Не оптимізувати",
-	"moreculling.config.option.dontCull.tooltip": "Додайте виключення по id блоку щоб запобігти його відсіюванню. Наприклад minecraft:bamboo",
 	"moreculling.config.option.blockStateCulling": "Оптимізація станів блоків",
 	"moreculling.config.option.blockStateCulling.tooltip": "Активує посилену оптимізацію блоків",
 	"moreculling.config.option.customItemFrameRenderer": "Оптимізація рамок для предметів(налаштовується)",

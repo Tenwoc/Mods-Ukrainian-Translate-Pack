@@ -80,7 +80,7 @@
   "ftbessentials.tpa.deny": "Відмовити❌",
   "ftbessentials.tpa.deny.tooltip": "Натисніть щоб відмовити",
   "ftbessentials.tpa.request_sent": "Запит надіслано!",
-  "ftbessentials.tpa.invalid_request": "Невірний запит!",
+  "ftbessentials.tpa.invalid_request": "Неправильний запит!",
   "ftbessentials.tpa.gone_offline": "Гравець вийшов із мережі!",
   "ftbessentials.tpa.denied": "Запит відхилено!",
   "ftbessentials.warp.set": "Варп встановлено!",

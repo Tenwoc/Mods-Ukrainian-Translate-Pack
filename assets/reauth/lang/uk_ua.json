@@ -39,7 +39,7 @@
   "reauth.msauth.code.error.http400": "Помилка: Не вдалося пройти автентифікацію",
   "reauth.msauth.code.error.http404": "Помилка: Цей ресурс не існує",
   "reauth.msauth.code.error.http405": "Помилка: Неправильний метод запиту",
-  "reauth.msauth.code.error.http415": "Помилка: Дані для автентифікації мають невірний формат",
+  "reauth.msauth.code.error.http415": "Помилка: Дані для автентифікації мають неправильний формат",
   "reauth.msauth.code.error.http501": "Помилка: Невідомий метод запиту",
   "reauth.msauth.step.initial": "Початок процесу автентифікації",
   "reauth.msauth.step.finished": "Успішний вхід в систему",

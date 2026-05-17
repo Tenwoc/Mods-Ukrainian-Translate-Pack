@@ -594,7 +594,7 @@
   "jm.hud.effects.hide": "Hide Effect Icons",
   "jm.hud.effects.hide.tooltip": "Hides effect icons.",
   "jm.hud.effects.style.reverse": "Показ значків зворотного ефекту",
-  "jm.hud.effects.style.reverse.tooltip": "Зворотній показ значків ефнктів. Вертикально знизу вгору, невертикально праворуч",
+  "jm.hud.effects.style.reverse.tooltip": "Зворотний показ значків ефнктів. Вертикально знизу вгору, невертикально праворуч",
   "jm.hud.effects.style.vertical": "Показ значка ефекту по вертикалі",
   "jm.hud.effects.style.vertical.tooltip": "Вертикальний показ значка спочатку зверху вниз",
   "jm.hud.minimap.key_movement_speed": "Зміщення пікселів переміщення клавіш мінімапи",

@@ -36,8 +36,8 @@
   "effect.obscure_api.knowledge.desc": "Відображає приховану інформацію про деякі елементи в їхніх підказках.",
   "effect.obscure_api.knowledge.description": "Відображає приховану інформацію про деякі елементи в їхніх підказках.",
   "effect.obscure_api.rush": "Квапливість",
-  "effect.obscure_api.rush.desc": "Кожен рівень зменшує перезарядку здібностей класу на 10%.",
-  "effect.obscure_api.rush.description": "Кожен рівень зменшує перезарядку здібностей класу на 10%.",
+  "effect.obscure_api.rush.desc": "Кожен рівень зменшує перезаряджання здібностей класу на 10%.",
+  "effect.obscure_api.rush.description": "Кожен рівень зменшує перезаряджання здібностей класу на 10%.",
 
   "enchantment.obscure_api.distance": "Дальність",
   "enchantment.obscure_api.distance.desc": "Збільшує радіус орбіти снаряда.",

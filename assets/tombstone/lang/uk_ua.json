@@ -1061,7 +1061,7 @@
   "tombstone.message.impregnate_duration": "Есенція істоти зникне через %s",
   "tombstone.message.impregnate_needle.failed": "Голка вже просочена",
   "tombstone.message.impregnate_needle.success": "Голка просочилася сутністю %s",
-  "tombstone.message.in_cooldown": "Перезарядка: %s",
+  "tombstone.message.in_cooldown": "Перезаряджання: %s",
   "tombstone.message.increase_of": "%s збільшено (+%s)",
   "tombstone.message.invalid_biome": "Назва біома недійсна",
   "tombstone.message.invalid_location": "Посада недійсна",

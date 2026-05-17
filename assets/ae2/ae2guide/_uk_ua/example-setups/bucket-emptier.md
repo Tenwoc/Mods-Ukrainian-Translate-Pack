@@ -7,7 +7,7 @@ navigation:
 
 # Спорожнювач відер
 
-Дивіться також [Наповнювач відер](bucket-filler.md).
+Див. також [Наповнювач відер](bucket-filler.md).
 
 Зауважте, що оскільки тут використовується <ItemLink id="pattern_provider" />, він призначений для інтеграції у вашу систему [автовироблення](../ae2-mechanics/autocrafting.md).
 
@@ -23,6 +23,7 @@ navigation:
         ![Fill Pattern](../assets/diagrams/water_empty_pattern_small.png)
         ![Fill Pattern](../assets/diagrams/lava_empty_pattern_small.png)
         </Row>
+
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="2.1 2 0.1" max="2.9 2.2 0.9">
@@ -55,17 +56,17 @@ navigation:
 
 ## Конфігурації
 
-* <ItemLink id="pattern_provider" /> (1) налаштовано на блокування вироблення «З сигналом редстоуна» та увімкнений режим блокування з відповідними <ItemLink id="processing_pattern" />s.
-  
-    ![Charger Pattern](../assets/diagrams/water_empty_pattern.png)
-    ![Charger Pattern](../assets/diagrams/lava_empty_pattern.png)
+- <ItemLink id="pattern_provider" /> (1) налаштовано на блокування вироблення «З сигналом редстоуна» та увімкнений режим блокування з відповідними <ItemLink id="processing_pattern" />s.
 
-* <ItemLink id="interface" /> (2) без налаштувань.
-* Перша <ItemLink id="storage_bus" /> (3) без налаштувань.
-* <ItemLink id="annihilation_plane" /> (4) не має інтерфейсу та не може бути налаштована.
-* <ItemLink id="import_bus" /> (5) відфільтрована на відра.
-<ItemImage id="minecraft:bucket" scale="2" />
-* Друга <ItemLink id="storage_bus" /> (6) без налаштувань.
+  ![Charger Pattern](../assets/diagrams/water_empty_pattern.png)
+  ![Charger Pattern](../assets/diagrams/lava_empty_pattern.png)
+
+- <ItemLink id="interface" /> (2) без налаштувань.
+- Перша <ItemLink id="storage_bus" /> (3) без налаштувань.
+- <ItemLink id="annihilation_plane" /> (4) не має інтерфейсу та не може бути налаштована.
+- <ItemLink id="import_bus" /> (5) відфільтрована на відра.
+  <ItemImage id="minecraft:bucket" scale="2" />
+- Друга <ItemLink id="storage_bus" /> (6) без налаштувань.
 
 ## Як це працює
 

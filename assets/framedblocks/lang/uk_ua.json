@@ -185,7 +185,7 @@
   "msg.framedblocks.frame_crafter.fail.missing_additive": "Відсутній додатковий інгредієнт",
   "msg.framedblocks.frame_crafter.fail.none": "Можна виправити",
   "msg.framedblocks.frame_crafter.fail.unexpected_additive": "Присутній неочікуваний додатковий інгредієнт",
-  "msg.framedblocks.framing_saw.transfer.invalid_recipe": "Невірний рецепт",
+  "msg.framedblocks.framing_saw.transfer.invalid_recipe": "Неправильний рецепт",
   "msg.framedblocks.framing_saw.transfer.not_implemented": "Не буде передано жодного предмета",
   "msg.framedblocks.lock_state": "Стан цього блоку зараз %s",
   "msg.framedblocks.lock_state.Заблоковано": "Заблоковано",

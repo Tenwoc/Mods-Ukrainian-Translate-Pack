@@ -7,7 +7,7 @@ navigation:
 
 # Наповнювач відер
 
-Дивіться також [Спорожнювач відер](bucket-emptier.md).
+Див. [Спорожнювач відер](bucket-emptier.md).
 
 Зауважте, що оскільки тут використовується <ItemLink id="pattern_provider" />, він призначений для інтеграції у вашу систему [автовироблення](../ae2-mechanics/autocrafting.md).
 
@@ -25,6 +25,7 @@ navigation:
         ![Fill Pattern](../assets/diagrams/water_fill_pattern_small.png)
         ![Fill Pattern](../assets/diagrams/lava_fill_pattern_small.png)
         </Row>
+
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3 1.1 0.1" max="3.2 1.9 0.9">
@@ -58,16 +59,16 @@ navigation:
 
 ## Конфігурації
 
-* <ItemLink id="pattern_provider" /> (1) налаштовано на блокування вироблення «З сигналом редстоуна» та увімкнений режим блокування з відповідними <ItemLink id="processing_pattern" />.
-  
-    ![Charger Pattern](../assets/diagrams/water_fill_pattern.png)
-    ![Charger Pattern](../assets/diagrams/lava_fill_pattern.png)
+- <ItemLink id="pattern_provider" /> (1) налаштовано на блокування вироблення «З сигналом редстоуна» та увімкнений режим блокування з відповідними <ItemLink id="processing_pattern" />.
 
-* <ItemLink id="interface" /> (2) без налаштувань.
-* Перша <ItemLink id="storage_bus" /> (3) без налаштувань.
-* <ItemLink id="formation_plane" /> (4) відфільтована на НЕ відра за допомогою картки інвертора. <Row><ItemImage id="minecraft:bucket" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
-* <ItemLink id="import_bus" /> (5) відфільтована на НЕ відра за допомогою картки інвертора. <Row><ItemImage id="minecraft:bucket" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
-* Друга <ItemLink id="storage_bus" /> (6) без налаштувань.
+  ![Charger Pattern](../assets/diagrams/water_fill_pattern.png)
+  ![Charger Pattern](../assets/diagrams/lava_fill_pattern.png)
+
+- <ItemLink id="interface" /> (2) без налаштувань.
+- Перша <ItemLink id="storage_bus" /> (3) без налаштувань.
+- <ItemLink id="formation_plane" /> (4) відфільтована на НЕ відра за допомогою картки інвертора. <Row><ItemImage id="minecraft:bucket" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
+- <ItemLink id="import_bus" /> (5) відфільтована на НЕ відра за допомогою картки інвертора. <Row><ItemImage id="minecraft:bucket" scale="2" /><ItemImage id="inverter_card" scale="2" /></Row>
+- Друга <ItemLink id="storage_bus" /> (6) без налаштувань.
 
 ## Як це працює
 

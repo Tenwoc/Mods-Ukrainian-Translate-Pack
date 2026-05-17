@@ -26,7 +26,7 @@
     "config.clienttweaks.tweaks.noOffhandTorchAtAll.tooltip": "Ця опція запобігає використанню смолоскипів з рук.",
     "config.clienttweaks.tweaks.noOffhandTorchWithBlock": "Не кидати смолоскипи з блокуванням",
     "config.clienttweaks.tweaks.noOffhandTorchWithBlock.tooltip": "Забороняє кидати смолоскипи з руки, якщо у вас є блок в основній руці.",
-    "config.clienttweaks.tweaks.noOffhandTorchWithFood": "Не кидати факел з їжею",
+    "config.clienttweaks.tweaks.noOffhandTorchWithFood": "Не кидати смолоскип з їжею",
     "config.clienttweaks.tweaks.noOffhandTorchWithFood.tooltip": "Заборона на розміщення смолоскипів з руки, якщо у вас в основній руці є їжа.",
     "config.clienttweaks.tweaks.noOffhandTorchWithEmptyHand": "Не кидати смолоскип з порожньою рукою",
     "config.clienttweaks.tweaks.noOffhandTorchWithEmptyHand.tooltip": "Запобігає використанню смолоскипів з другої руки, якщо основна рука порожня.",

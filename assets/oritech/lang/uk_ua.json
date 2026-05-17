@@ -1174,7 +1174,7 @@
   "text.config.oritech-config.section.reactor": "Ядерний реактор",
   "oritech.configuration.safeMode": "Безпечний режим",
   "oritech.configuration.safeMode.tooltip": "При ввімкненому безпечному режимі реактор лише увійде в період перезарядки замість\nвибуху при перегріві.",
-  "oritech.configuration.safeModeCooldown": "Перезарядка безпечного режиму",
+  "oritech.configuration.safeModeCooldown": "Перезаряджання безпечного режиму",
   "oritech.configuration.maxSize": "Максимальний розмір",
   "oritech.configuration.rfPerPulse": "RF за імпульс",
   "oritech.configuration.absorberRate": "Швидкість поглинача",

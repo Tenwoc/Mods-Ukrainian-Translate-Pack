@@ -297,7 +297,7 @@
   "mod.chiselsandbits.pattern.item.tooltip.mode.simple": "Режим розміщення: %s",
   "mod.chiselsandbits.change-tracking.undo.failed": "Ви не можете скасувати це!",
   "mod.chiselsandbits.change-tracking.undo.success": "Скасування виконано успішно",
-  "mod.chiselsandbits.change-tracking.redo.failed": "Ви не можете відмінити останнє скасування!",
+  "mod.chiselsandbits.change-tracking.redo.failed": "Ви не можете скасувати останнє скасування!",
   "mod.chiselsandbits.change-tracking.redo.success": "Повторна операція успішна",
   "mod.chiselsandbits.keys.category": "долота та долота",
   "mod.chiselsandbits.keys.key.modded-tool.open": "Відкрити меню інструментів",
