@@ -1,0 +1,16 @@
+{
+    "tconjei.tool_stats.harvest":  "Ремісничні характеристики",
+    "tconjei.tool_stats.ranged":  "Далекобійні характеристики",
+    "tconjei.tool_stats.armor":  "Захисні характеристики",
+    "tconjei.tool_stats.skull":  "Характеристики слизочерепа",
+
+    "tconjei.tooltip.tier": "Рівень %s;",
+    "tconjei.tooltip.material": "матеріал",
+    "tconjei.tooltip.separator": ", ",
+    "tconjei.tooltip.and": "та ",
+
+    "tconjei.tooltip.harvest": "ремісничий",
+    "tconjei.tooltip.ranged": "далекобійний",
+    "tconjei.tooltip.armor": "захисний",
+    "tconjei.tooltip.skull": "слизочерепний"
+}

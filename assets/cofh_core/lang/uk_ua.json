@@ -219,13 +219,13 @@
 
   "fluid_type.minecraft.milk": "Молоко",
 
-  "item.minecraft.lingering_potion.effect.amplification": "Осідаюче зілля посилення",
-  "item.minecraft.lingering_potion.effect.clarity": "Осідаюче зілля ясності",
-  "item.minecraft.lingering_potion.effect.enderference": "Осідаюче зілля ендерференції",
-  "item.minecraft.lingering_potion.effect.explosion_resistance": "Осідаюче зілля вибухостійкості",
-  "item.minecraft.lingering_potion.effect.lightning_resistance": "Осідаюче зілля стійкості до шоку",
-  "item.minecraft.lingering_potion.effect.love": "Осідаюче зілля любові",
-  "item.minecraft.lingering_potion.effect.magic_resistance": "Осідаюче зілля стійкості до магії",
+  "item.minecraft.lingering_potion.effect.amplification": "Осідальне зілля посилення",
+  "item.minecraft.lingering_potion.effect.clarity": "Осідальне зілля ясності",
+  "item.minecraft.lingering_potion.effect.enderference": "Осідальне зілля ендерференції",
+  "item.minecraft.lingering_potion.effect.explosion_resistance": "Осідальне зілля вибухостійкості",
+  "item.minecraft.lingering_potion.effect.lightning_resistance": "Осідальне зілля стійкості до шоку",
+  "item.minecraft.lingering_potion.effect.love": "Осідальне зілля любові",
+  "item.minecraft.lingering_potion.effect.magic_resistance": "Осідальне зілля стійкості до магії",
   "item.minecraft.lingering_potion.effect.panacea": "Осідаюча панацея",
 
   "item.minecraft.potion.effect.amplification": "Зілля посилення",

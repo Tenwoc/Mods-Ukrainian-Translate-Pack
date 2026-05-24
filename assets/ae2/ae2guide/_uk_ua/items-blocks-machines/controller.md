@@ -12,9 +12,8 @@ item_ids:
 
 # Контролер
 
-<BlockImage id="controller" p:state="online" scale="8" />
-
-Контролер є центром маршрутизації [МЕ мережі](../ae2-mechanics/me-network-connections.md). Без нього мережа стає «автономною» і може мати максимум 8 каналів, що використовують [пристрої](../ae2-mechanics/devices.md) total.
+<BlockImage id="controller" p:state="online" scale="8 />
+Контролер є центром маршрутизації [МЕ мережі](../ae2-mechanics/me-network-connections.md). Без нього мережа стає «автономною» і може мати максимум 8 каналів, що використовують [пристрої](../ae2-mechanics/devices.md).
 
 Неможливо мати 2 контролери в одній [МЕ мережі](../ae2-mechanics/me-network-connections.md).
 
@@ -29,7 +28,7 @@ item_ids:
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-Однак, є кілька правил, яких необхідно дотримуватися:
+Однак все ще є кілька правил, яких необхідно дотримуватися:
 
 1.  Усі блоки контролера в [МЕ мережі](../ae2-mechanics/me-network-connections.md) мають бути з’єднані; інакше блоки стануть червоними.
 2.  Розмір контролера має бути в межах 7x7x7; інакше він стане червоним.
