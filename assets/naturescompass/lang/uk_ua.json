@@ -7,7 +7,7 @@
     "_comment": "STRINGS - BUTTONS",
     "string.naturescompass.back": "Назад",
     "string.naturescompass.info": "Інформація",
-    "string.naturescompass.startSearch": "Почати пошук",
+    "string.naturescompass.searchForNext": "Знайти наступний",
     "string.naturescompass.selectBiome": "Вибрати біом",
     "string.naturescompass.sortBy": "Сорт. за",
     "string.naturescompass.teleport": "Телепортуватися",
@@ -32,6 +32,7 @@
     "string.naturescompass.dimension": "Вимір",
     "string.naturescompass.distance": "Дистанція",
     "string.naturescompass.found": "Знайдено",
+    "string.naturescompass.levels": "Рівні",
     "string.naturescompass.notFound": "Не знайдено",
     "string.naturescompass.radius": "Радіус",
     "string.naturescompass.samples": "Переліки",
@@ -39,7 +40,7 @@
     "string.naturescompass.searching": "Пошук",
     "string.naturescompass.source": "Джерело",
     "string.naturescompass.status": "Статус",
-    "string.naturescompass.tags": "Теги",
+    "string.naturescompass.tags": "Теґи",
 
     "_comment": "STRINGS - INFO",
     "string.naturescompass.baseHeight": "Початкова висота",
@@ -55,5 +56,9 @@
 
     "_comment": "STRINGS - PRECIPITATION",
     "string.naturescompass.snow": "Сніг",
-    "string.naturescompass.rain": "Дощ"
+    "string.naturescompass.rain": "Дощ",
+
+    "Застарілі": "рядки",
+    "string.naturescompass.startSearch": "Почати пошук"
+
 }

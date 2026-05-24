@@ -97,7 +97,7 @@
   "death.attack.crabbersdelight.falling_coconut": "%s був розчавлений падучим кокосом",
   "item.crabbersdelight.coconut_halve": "Половинка кокоса",
   "item.crabbersdelight.coconut_milk": "Кокосове молоко",
-  "farmersdelight.tooltip.coconut_milk": "Скидає 1 ефект",
+  "tooltip.farmersdelight.coconut_milk": "Скидає 1 ефект",
   "item.crabbersdelight.coconut_pudding": "Кокосовий пудинг",
 
   "block.crabbersdelight.crab_trap": "Крабова пастка",
@@ -118,6 +118,7 @@
   "block.crabbersdelight.scute_block": "Блок щитків",
   "block.crabbersdelight.sea_pickle_crate": "Ящик морських огірків",
   "block.crabbersdelight.seashells": "Мушлі",
+  "block.crabbersdelight.fish_plaque": "Рибальський трофей",
 
   "entity.crabbersdelight.crab": "Краб",
 
