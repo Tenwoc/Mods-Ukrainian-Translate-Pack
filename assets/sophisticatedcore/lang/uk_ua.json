@@ -267,7 +267,7 @@
   "gui.sophisticatedcore.settings.message.export_template.empty_name": "Ім’я файлу не може бути порожнім",
   "gui.sophisticatedcore.settings.message.export_template.invalid_characters": "Ім’я файлу містить недопустимі символи: %s",
   "gui.sophisticatedcore.error.remove.stack_low_multiplier": "Існує принаймні одне гніздо або покращення, яке вимагає множника, вищого за %s",
-  "gui.sophisticatedcore.error.add.needs_occupied_inventory_slots": "Принаймні в одному з останніх слотів %s є предмет, необхідний для %s",
+  "gui.sophisticatedcore.error.add.needs_occupied_inventory_slots": "Принаймні у %s з останніх слотів є предмети, що заважають встановити %s",
   "gui.sophisticatedcore.error.add.two_tank_upgrades_present": "В інших слотах вже є два вдосконалення резервуара",
   "gui.sophisticatedcore.error.add.tank_capacity_high": "Ранець не підтримує це вдосконалення резервуара. Оновіть ранець або додайте множник стосу, щоб отримати принаймні у %sx більше місткості",
   "gui.sophisticatedcore.error.add.battery_energy_high": "Ранець не підтримує це вдосконалення акумулятора. Оновіть ранець або додайте множник стосу, щоб отримати принаймні у %sx більше максимальної енергії",
