@@ -195,7 +195,7 @@
   "waystones.configuration.worldGen.wildWaystonesDimensionDenyList": "Список заборонених вимірів",
   "waystones.configuration.worldGen.wildWaystonesDimensionDenyList.tooltip": "Список вимірів, у яких не дозволяється генерувати дикі шляхокамені, навіть якщо біом має тег `has_structure/waystone`. Використовується лише тоді, коли wildWaystonesDimensionAllowList порожній.",
   "waystones.configuration.worldGen.nameGenerationMode": "Режим генерації імен",
-  "waystones.configuration.worldGen.nameGenerationMode.tooltip": "Встановіть значення «PRESET_FIRST», щоб спочатку використовувати імена з nameGenerationPresets. Встановіть значення «PRESET_ONLY», щоб використовувати лише ці власні імена. Встановіть значення «MIXED», щоб деякі дороговкази використовували власні імена, а інші — випадкові.",
+  "waystones.configuration.worldGen.nameGenerationMode.tooltip": "Встановіть значення «PRESET_FIRST», щоб спочатку використовувати імена з nameGenerationPresets. Встановіть значення «PRESET_ONLY», щоб використовувати лише ці власні імена. Встановіть значення «MIXED», щоб деякі шляхокамені використовували власні імена, а інші — випадкові.",
   "waystones.configuration.worldGen.nameGenerationTemplate": "Шаблон генерації імен",
   "waystones.configuration.worldGen.nameGenerationTemplate.tooltip": "Шаблон, який використовується під час генерації нових імен. Підтримувані заповнювачі: {Biome} (англійська назва біому) та {MrPork} (усталений генератор імен).",
   "waystones.configuration.worldGen.nameGenerationPresets": "Пресети генерації імен",

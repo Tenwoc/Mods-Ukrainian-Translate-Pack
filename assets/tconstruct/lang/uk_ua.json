@@ -1750,8 +1750,8 @@
   "block.tconstruct.bloodshroom_planks_stairs": "Кровогрибні сходи",
   "block.tconstruct.bloodshroom_log": "Кровогрибне стебло",
   "block.tconstruct.stripped_bloodshroom_log": "Обтесане кровогрибне стебло",
-  "block.tconstruct.bloodshroom_wood": "Кровогрибні гіфи",
-  "block.tconstruct.stripped_bloodshroom_wood": "Обтесані кровогрибні гіфи",
+  "block.tconstruct.bloodshroom_wood": "Кровогрибна ніжка",
+  "block.tconstruct.stripped_bloodshroom_wood": "Обтесана кровогрибна ніжка",
 
   "block.tconstruct.bloodshroom_fence": "Кровогрибний паркан",
   "block.tconstruct.bloodshroom_fence_gate": "Кровогрибна хвіртка",
@@ -1796,8 +1796,8 @@
 
   "__comment": "Tier 1 Materials",
   "material.tconstruct.wood": "Дерево",
-  "material.tconstruct.wood.crimson": "Багряні гіфи",
-  "material.tconstruct.wood.warped": "Химерні гіфи",
+  "material.tconstruct.wood.crimson": "Багряна ніжка",
+  "material.tconstruct.wood.warped": "Химерна ніжка",
   "material.tconstruct.wood.format": "%s з дерева",
   "material.tconstruct.wood.flavor": "Скільки б дерева точив деревоточець, якби точити дерево деревоточець міг?",
   "material.tconstruct.wood.encyclopedia": "Робить ремонт на 50% більш ефективним на деталь",

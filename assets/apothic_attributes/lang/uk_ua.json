@@ -153,15 +153,15 @@
     "death.attack.apothic_attributes:cold_damage.item": "%2$s обморозив %1$s до смерті за допомогою: %3$s",
     "death.attack.apothic_attributes:cold_damage.player": "%1$s замерз до смерті під час битви з %2$s",
 
-    "item.minecraft.potion.effect.minecraft.resistance": "Зілля Resistance",
-    "item.minecraft.splash_potion.effect.minecraft.resistance": "Вибухове зілля Resistance",
-    "item.minecraft.lingering_potion.effect.minecraft.resistance": "Осідальне зілля Resistance",
-    "item.minecraft.tipped_arrow.effect.minecraft.resistance": "Стріла Resistance",
+    "item.minecraft.potion.effect.minecraft.resistance": "Зілля стійкости",
+    "item.minecraft.splash_potion.effect.minecraft.resistance": "Вибухове зілля стійкости",
+    "item.minecraft.lingering_potion.effect.minecraft.resistance": "Осідальне зілля стійкости",
+    "item.minecraft.tipped_arrow.effect.minecraft.resistance": "Стріла стійкости",
 
-    "item.minecraft.potion.effect.minecraft.absorption": "Зілля Absorption",
-    "item.minecraft.splash_potion.effect.minecraft.absorption": "Вибухове зілля Absorption",
-    "item.minecraft.lingering_potion.effect.minecraft.absorption": "Осідальне зілля Absorption",
-    "item.minecraft.tipped_arrow.effect.minecraft.absorption": "Стріла Absorption",
+    "item.minecraft.potion.effect.minecraft.absorption": "Зілля поглинання",
+    "item.minecraft.splash_potion.effect.minecraft.absorption": "Вибухове зілля поглинання",
+    "item.minecraft.lingering_potion.effect.minecraft.absorption": "Осідальне зілля поглинання",
+    "item.minecraft.tipped_arrow.effect.minecraft.absorption": "Стріла поглинання",
 
     "item.minecraft.potion.effect.minecraft.haste": "Зілля квапливости",
     "item.minecraft.splash_potion.effect.minecraft.haste": "Вибухове зілля квапливости",
