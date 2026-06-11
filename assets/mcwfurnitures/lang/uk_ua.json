@@ -27,8 +27,8 @@
   "block.mcwfurnitures.oak_modern_desk": "Дубовий сучасний робочий стіл",
 
   "block.mcwfurnitures.oak_table": "Дубовий стіл",
-  "block.mcwfurnitures.oak_end_table": "Дубовий стіл Енду",
-  "block.mcwfurnitures.oak_coffee_table": "Дубовий кавовий стіл",
+  "block.mcwfurnitures.oak_end_table": "Дубовий приставний столик",
+  "block.mcwfurnitures.oak_coffee_table": "Дубовий кавовий столик",
   "block.mcwfurnitures.oak_glass_table": "Дубовий скляний стіл",
 
   "block.mcwfurnitures.oak_chair": "Дубовий стілець",
@@ -60,8 +60,8 @@
   "block.mcwfurnitures.birch_modern_desk": "Березовий сучасний робочий стіл",
 
   "block.mcwfurnitures.birch_table": "Березовий стіл",
-  "block.mcwfurnitures.birch_end_table": "Березовий стіл Енду",
-  "block.mcwfurnitures.birch_coffee_table": "Березовий кавовий стіл",
+  "block.mcwfurnitures.birch_end_table": "Березовий приставний столик",
+  "block.mcwfurnitures.birch_coffee_table": "Березовий кавовий столик",
   "block.mcwfurnitures.birch_glass_table": "Березовий скляний стіл",
 
   "block.mcwfurnitures.birch_chair": "Березовий стілець",
@@ -93,8 +93,8 @@
   "block.mcwfurnitures.spruce_modern_desk": "Смерековий сучасний робочий стіл",
 
   "block.mcwfurnitures.spruce_table": "Смерековий стіл",
-  "block.mcwfurnitures.spruce_end_table": "Смерековий стіл Енду",
-  "block.mcwfurnitures.spruce_coffee_table": "Смерековий кавовий стіл",
+  "block.mcwfurnitures.spruce_end_table": "Смерековий приставний столик",
+  "block.mcwfurnitures.spruce_coffee_table": "Смерековий кавовий столик",
   "block.mcwfurnitures.spruce_glass_table": "Смерековий скляний стіл",
 
   "block.mcwfurnitures.spruce_chair": "Смерековий стілець",
@@ -126,8 +126,8 @@
   "block.mcwfurnitures.jungle_modern_desk": "Тропічний сучасний робочий стіл",
 
   "block.mcwfurnitures.jungle_table": "Тропічний стіл",
-  "block.mcwfurnitures.jungle_end_table": "Тропічний стіл Енду",
-  "block.mcwfurnitures.jungle_coffee_table": "Тропічний кавовий стіл",
+  "block.mcwfurnitures.jungle_end_table": "Тропічний приставний столик",
+  "block.mcwfurnitures.jungle_coffee_table": "Тропічний кавовий столик",
   "block.mcwfurnitures.jungle_glass_table": "Тропічний скляний стіл",
 
   "block.mcwfurnitures.jungle_chair": "Тропічний стілець",
@@ -159,8 +159,8 @@
   "block.mcwfurnitures.acacia_modern_desk": "Акацієвий сучасний робочий стіл",
 
   "block.mcwfurnitures.acacia_table": "Акацієвий стіл",
-  "block.mcwfurnitures.acacia_end_table": "Акацієвий стіл Енду",
-  "block.mcwfurnitures.acacia_coffee_table": "Акацієвий кавовий стіл",
+  "block.mcwfurnitures.acacia_end_table": "Акацієвий приставний столик",
+  "block.mcwfurnitures.acacia_coffee_table": "Акацієвий кавовий столик",
   "block.mcwfurnitures.acacia_glass_table": "Акацієвий скляний стіл",
 
   "block.mcwfurnitures.acacia_chair": "Акацієвий стілець",
@@ -192,8 +192,8 @@
   "block.mcwfurnitures.dark_oak_modern_desk": "Темно-дубовий сучасний робочий стіл",
 
   "block.mcwfurnitures.dark_oak_table": "Темно-дубовий стіл",
-  "block.mcwfurnitures.dark_oak_end_table": "Темно-дубовий стіл Енду",
-  "block.mcwfurnitures.dark_oak_coffee_table": "Темно-дубовий кавовий стіл",
+  "block.mcwfurnitures.dark_oak_end_table": "Темно-дубовий приставний столик",
+  "block.mcwfurnitures.dark_oak_coffee_table": "Темно-дубовий кавовий столик",
   "block.mcwfurnitures.dark_oak_glass_table": "Темно-дубовий скляний стіл",
 
   "block.mcwfurnitures.dark_oak_chair": "Темно-дубовий стілець",
@@ -225,8 +225,8 @@
   "block.mcwfurnitures.crimson_modern_desk": "Багряний сучасний робочий стіл",
 
   "block.mcwfurnitures.crimson_table": "Багряний стіл",
-  "block.mcwfurnitures.crimson_end_table": "Багряний стіл Енду",
-  "block.mcwfurnitures.crimson_coffee_table": "Багряний кавовий стіл",
+  "block.mcwfurnitures.crimson_end_table": "Багряний приставний столик",
+  "block.mcwfurnitures.crimson_coffee_table": "Багряний кавовий столик",
   "block.mcwfurnitures.crimson_glass_table": "Багряний скляний стіл",
 
   "block.mcwfurnitures.crimson_chair": "Багряний стілець",
@@ -258,8 +258,8 @@
   "block.mcwfurnitures.warped_modern_desk": "Химерний сучасний робочий стіл",
 
   "block.mcwfurnitures.warped_table": "Химерний стіл",
-  "block.mcwfurnitures.warped_end_table": "Химерний стіл Енду",
-  "block.mcwfurnitures.warped_coffee_table": "Химерний кавовий стіл",
+  "block.mcwfurnitures.warped_end_table": "Химерний приставний столик",
+  "block.mcwfurnitures.warped_coffee_table": "Химерний кавовий столик",
   "block.mcwfurnitures.warped_glass_table": "Химерний скляний стіл",
 
   "block.mcwfurnitures.warped_chair": "Химерний стілець",
@@ -292,8 +292,8 @@
   "block.mcwfurnitures.mangrove_modern_desk": "Мангровий сучасний робочий стіл",
 
   "block.mcwfurnitures.mangrove_table": "Мангровий стіл",
-  "block.mcwfurnitures.mangrove_end_table": "Мангровий стіл Енду",
-  "block.mcwfurnitures.mangrove_coffee_table": "Мангровий кавовий стіл",
+  "block.mcwfurnitures.mangrove_end_table": "Мангровий приставний столик",
+  "block.mcwfurnitures.mangrove_coffee_table": "Мангровий кавовий столик",
   "block.mcwfurnitures.mangrove_glass_table": "Мангровий скляний стіл",
 
   "block.mcwfurnitures.mangrove_chair": "Мангровий стілець",
@@ -326,8 +326,8 @@
   "block.mcwfurnitures.stripped_oak_modern_desk": "Обтесаний дубовий сучасний робочий стіл",
 
   "block.mcwfurnitures.stripped_oak_table": "Обтесаний дубовий стіл",
-  "block.mcwfurnitures.stripped_oak_end_table": "Обтесаний дубовий стіл Енду",
-  "block.mcwfurnitures.stripped_oak_coffee_table": "Обтесаний дубовий кавовий стіл",
+  "block.mcwfurnitures.stripped_oak_end_table": "Обтесаний дубовий приставний столик",
+  "block.mcwfurnitures.stripped_oak_coffee_table": "Обтесаний дубовий кавовий столик",
   "block.mcwfurnitures.stripped_oak_glass_table": "Обтесаний дубовий скляний стіл",
 
   "block.mcwfurnitures.stripped_oak_chair": "Обтесаний дубовий стілець",
@@ -359,8 +359,8 @@
   "block.mcwfurnitures.stripped_birch_modern_desk": "Обтесаний березовий сучасний робочий стіл",
 
   "block.mcwfurnitures.stripped_birch_table": "Обтесаний березовий стіл",
-  "block.mcwfurnitures.stripped_birch_end_table": "Обтесаний березовий стіл Енду",
-  "block.mcwfurnitures.stripped_birch_coffee_table": "Обтесаний березовий кавовий стіл",
+  "block.mcwfurnitures.stripped_birch_end_table": "Обтесаний березовий приставний столик",
+  "block.mcwfurnitures.stripped_birch_coffee_table": "Обтесаний березовий кавовий столик",
   "block.mcwfurnitures.stripped_birch_glass_table": "Обтесаний березовий скляний стіл",
 
   "block.mcwfurnitures.stripped_birch_chair": "Обтесаний березовий стілець",
@@ -392,8 +392,8 @@
   "block.mcwfurnitures.stripped_spruce_modern_desk": "Обтесаний смерековий сучасний робочий стіл",
 
   "block.mcwfurnitures.stripped_spruce_table": "Обтесаний смерековий стіл",
-  "block.mcwfurnitures.stripped_spruce_end_table": "Обтесаний смерековий стіл Енду",
-  "block.mcwfurnitures.stripped_spruce_coffee_table": "Обтесаний смерековий кавовий стіл",
+  "block.mcwfurnitures.stripped_spruce_end_table": "Обтесаний смерековий приставний столик",
+  "block.mcwfurnitures.stripped_spruce_coffee_table": "Обтесаний смерековий кавовий столик",
   "block.mcwfurnitures.stripped_spruce_glass_table": "Обтесаний смерековий скляний стіл",
 
   "block.mcwfurnitures.stripped_spruce_chair": "Обтесаний смерековий стілець",
@@ -425,8 +425,8 @@
   "block.mcwfurnitures.stripped_jungle_modern_desk": "Обтесаний тропічний сучасний робочий стіл",
 
   "block.mcwfurnitures.stripped_jungle_table": "Обтесаний тропічний стіл",
-  "block.mcwfurnitures.stripped_jungle_end_table": "Обтесаний тропічний стіл Енду",
-  "block.mcwfurnitures.stripped_jungle_coffee_table": "Обтесаний тропічний кавовий стіл",
+  "block.mcwfurnitures.stripped_jungle_end_table": "Обтесаний тропічний приставний столик",
+  "block.mcwfurnitures.stripped_jungle_coffee_table": "Обтесаний тропічний кавовий столик",
   "block.mcwfurnitures.stripped_jungle_glass_table": "Обтесаний тропічний скляний стіл",
 
   "block.mcwfurnitures.stripped_jungle_chair": "Обтесаний тропічний стілець",
@@ -458,8 +458,8 @@
   "block.mcwfurnitures.stripped_acacia_modern_desk": "Обтесаний акацієвий сучасний робочий стіл",
 
   "block.mcwfurnitures.stripped_acacia_table": "Обтесаний акацієвий стіл",
-  "block.mcwfurnitures.stripped_acacia_end_table": "Обтесаний акацієвий стіл Енду",
-  "block.mcwfurnitures.stripped_acacia_coffee_table": "Обтесаний акацієвий кавовий стіл",
+  "block.mcwfurnitures.stripped_acacia_end_table": "Обтесаний акацієвий приставний столик",
+  "block.mcwfurnitures.stripped_acacia_coffee_table": "Обтесаний акацієвий кавовий столик",
   "block.mcwfurnitures.stripped_acacia_glass_table": "Обтесаний акацієвий скляний стіл",
 
   "block.mcwfurnitures.stripped_acacia_chair": "Обтесаний акацієвий стілець",
@@ -491,8 +491,8 @@
   "block.mcwfurnitures.stripped_dark_oak_modern_desk": "Обтесаний темно-дубовий сучасний робочий стіл",
 
   "block.mcwfurnitures.stripped_dark_oak_table": "Обтесаний темно-дубовий стіл",
-  "block.mcwfurnitures.stripped_dark_oak_end_table": "Обтесаний темно-дубовий стіл Енду",
-  "block.mcwfurnitures.stripped_dark_oak_coffee_table": "Обтесаний темно-дубовий кавовий стіл",
+  "block.mcwfurnitures.stripped_dark_oak_end_table": "Обтесаний темно-дубовий приставний столик",
+  "block.mcwfurnitures.stripped_dark_oak_coffee_table": "Обтесаний темно-дубовий кавовий столик",
   "block.mcwfurnitures.stripped_dark_oak_glass_table": "Обтесаний темно-дубовий скляний стіл",
 
   "block.mcwfurnitures.stripped_dark_oak_chair": "Обтесаний темно-дубовий стілець",
@@ -524,8 +524,8 @@
   "block.mcwfurnitures.stripped_crimson_modern_desk": "Обтесаний багряний сучасний робочий стіл",
 
   "block.mcwfurnitures.stripped_crimson_table": "Обтесаний багряний стіл",
-  "block.mcwfurnitures.stripped_crimson_end_table": "Обтесаний багряний стіл Енду",
-  "block.mcwfurnitures.stripped_crimson_coffee_table": "Обтесаний багряний кавовий стіл",
+  "block.mcwfurnitures.stripped_crimson_end_table": "Обтесаний багряний приставний столик",
+  "block.mcwfurnitures.stripped_crimson_coffee_table": "Обтесаний багряний кавовий столик",
   "block.mcwfurnitures.stripped_crimson_glass_table": "Обтесаний багряний скляний стіл",
 
   "block.mcwfurnitures.stripped_crimson_chair": "Обтесаний багряний стілець",
@@ -557,8 +557,8 @@
   "block.mcwfurnitures.stripped_warped_modern_desk": "Обтесаний химерний сучасний робочий стіл",
 
   "block.mcwfurnitures.stripped_warped_table": "Обтесаний химерний стіл",
-  "block.mcwfurnitures.stripped_warped_end_table": "Обтесаний химерний стіл Енду",
-  "block.mcwfurnitures.stripped_warped_coffee_table": "Обтесаний химерний кавовий стіл",
+  "block.mcwfurnitures.stripped_warped_end_table": "Обтесаний химерний приставний столик",
+  "block.mcwfurnitures.stripped_warped_coffee_table": "Обтесаний химерний кавовий столик",
   "block.mcwfurnitures.stripped_warped_glass_table": "Обтесаний химерний скляний стіл",
 
   "block.mcwfurnitures.stripped_warped_chair": "Обтесаний химерний стілець",
@@ -590,8 +590,8 @@
   "block.mcwfurnitures.stripped_mangrove_modern_desk": "Обтесаний мангровий сучасний робочий стіл",
 
   "block.mcwfurnitures.stripped_mangrove_table": "Обтесаний мангровий стіл",
-  "block.mcwfurnitures.stripped_mangrove_end_table": "Обтесаний мангровий стіл Енду",
-  "block.mcwfurnitures.stripped_mangrove_coffee_table": "Обтесаний мангровий кавовий стіл",
+  "block.mcwfurnitures.stripped_mangrove_end_table": "Обтесаний мангровий приставний столик",
+  "block.mcwfurnitures.stripped_mangrove_coffee_table": "Обтесаний мангровий кавовий столик",
   "block.mcwfurnitures.stripped_mangrove_glass_table": "Обтесаний мангровий скляний стіл",
 
   "block.mcwfurnitures.stripped_mangrove_chair": "Обтесаний мангровий стілець",

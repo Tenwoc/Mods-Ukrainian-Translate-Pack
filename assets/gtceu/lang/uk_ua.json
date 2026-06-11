@@ -108,6 +108,7 @@
   "behaviour.soft_hammer.disabled": "Робота зупинена",
   "behaviour.soft_hammer.disabled_cycle": "Робота зупиниться по завершенню поточного циклу",
   "behaviour.soft_hammer.enabled": "Робота відновлена",
+  "behaviour.soft_hammer.ignored": "Машина не може бути зупинена",
   "behaviour.wrench": "Повертає блоки клацанням ПКМ",
   "block.filter_casing.tooltip": "Створює§a вільне від частинок§7 середовище",
   "block.gtceu.acid_hazard_sign_block": "Блок зі знаком кислотної небезпеки",

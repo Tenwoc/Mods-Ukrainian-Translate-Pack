@@ -47,9 +47,9 @@
     "item.rftoolsutility.tablet_screen": "Планшет (екран)",
     "item.rftoolsutility.screen_link": "Посилання на екран",
 
-    "block.rftoolsutility.crafter1": "Створювач 1-го рівня",
-    "block.rftoolsutility.crafter2": "Створювач 2-го рівня",
-    "block.rftoolsutility.crafter3": "Створювач 3-го рівня",
+    "block.rftoolsutility.crafter1": "Майструвач 1-го рівня",
+    "block.rftoolsutility.crafter2": "Майструвач 2-го рівня",
+    "block.rftoolsutility.crafter3": "Майструвач 3-го рівня",
     "block.rftoolsutility.matter_booster": "Прискорювач матерії",
     "block.rftoolsutility.matter_transmitter": "Передавач матерії",
     "block.rftoolsutility.matter_receiver": "Приймач матерії",

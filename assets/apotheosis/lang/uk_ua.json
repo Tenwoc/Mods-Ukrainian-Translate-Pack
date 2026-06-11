@@ -1,6 +1,6 @@
 {
     "traslators": "@tenwoc",
-    "comment_id1": "/Adventure Module",
+    "comment_id": "/Adventure Module",
 
     "key.categories.apotheosis": "Apotheosis",
 
@@ -93,7 +93,7 @@
     "misc.apotheosis.affix_name.two": "%s %s",
     "misc.apotheosis.affix_name.three": "%s %s %s",
     "misc.apotheosis.affix_name.four": "%s %s %s %s",
-    "misc.apotheosis.affix_bounds": "[%s\u00A0-\u00A0%s]",
+    "misc.apotheosis.affix_bounds": "[%s - %s]",
 
     "misc.apotheosis.radial_state_updated": "Радіальний режим добування оновлено до \"%s\"",
     "misc.apotheosis.radial_state.require_not_sneaking": "Вимикати при підкраданні",
@@ -610,6 +610,11 @@
     "block.apotheosis.reforging_table.desc2": "Максимальна рідкість: %s",
     "block.apotheosis.augmenting_table": "Стіл доповнення",
     "block.apotheosis.augmenting_table.desc": "Використовує сигіли вдосконалення для доповнення окремих афіксів",
+    "block.apotheosis.gem_case": "Шкатулка",
+    "tooltip.apotheosis.gem_case.capacity": "Місткість: %s самоцвітів",
+    "tooltip.apotheosis.gem_case.unique_gems": "Містить %s різних самоцвітів",
+    "tooltip.apotheosis.gem_case.none_owned": "Немає власних",
+    "block.apotheosis.ender_gem_case": "Шкатулка дому Фаберже",
 
     "button.apotheosis.salvage": "Перероблення предметів",
     "button.apotheosis.no_salvage": "Нічого перероблювати",
@@ -623,6 +628,11 @@
     "button.apotheosis.augmenting.no_alternatives": "Немає доступних альтернатив",
     "button.apotheosis.augmenting.upgrade.cost": "Вартість: %sx %s",
     "button.apotheosis.augmenting.upgrade.exp_cost": "Вартість досвіду: %s рівні(в)",
+    "button.apotheosis.gem_case.upgrade": "Покращити 2 %s самоцвіти до %s",
+    "button.apotheosis.gem_case.upgrade_no_gems": "Недостатньо самоцвітів",
+    "button.apotheosis.gem_case.upgrade_no_materials": "Недостатньо матеріалів",
+    "button.apotheosis.gem_case.upgrade_cost": "Вартість: %s %s та %s %s",
+    "button.apotheosis.gem_case.upgrade_all": "Покращить стільки самоцвітів, скільки можливо!",
 
     "menu.apotheosis.gem_cutting": "Огранування самоцвітів",
     "container.apotheosis.salvage": "Перероблення",
@@ -682,6 +692,8 @@
     "loot_category.apotheosis.leggings.plural": "Наголінники",
     "loot_category.apotheosis.boots": "Чоботи",
     "loot_category.apotheosis.boots.plural": "Чоботи",
+    "loot_category.apotheosis.shears": "Ножиці",
+    "loot_category.apotheosis.shears.plural": "Ножиці",
 
     "info.apotheosis.boss_spawn": "%s пробудився поблизу!",
     "info.apotheosis.boss": "%s (Апофеотичний бос)",
@@ -711,14 +723,14 @@
 
     "elite.apotheosis.craig": "Крейг Вічний",
 
-    "comment_id2": "/Adventure + Gateways Compat",
+    "comment_id": "/Adventure + Gateways Compat",
 
     "misc.apotheosis.random": "Випадковий",
     "wave_entity.apotheosis.invader": "%s апофеотичний загарбник",
     "wave_entity.apotheosis.elite": "Елітний загарбник - %s",
     "wave_entity.apotheosis.true_random_invader": "Дійсно випадковий апофеотичний загарбник",
     "reward.apotheosis.affix_item": "Афіксний предмет (%s)",
-    "reward.apotheosis.random_affix": "Випадковий афіксний предмет",
+    "reward.apotheosis.random_affix_item": "Випадковий афіксний предмет",
     "reward.apotheosis.gem": "Апофеотичний самоцвіт (%s)",
     "reward.apotheosis.random_gem": "Випадковий апофеотичний самоцвіт",
     "reward.apotheosis.true_random_gem": "Дійсно випадковий апофеотичний самоцвіт",
@@ -853,7 +865,7 @@
     "advancements.apotheosis.challenge_gates.sigil_of_supremacy.title": "Неперевершено!                    ",
     "advancements.apotheosis.challenge_gates.sigil_of_supremacy.desc": "Здобудьте Сигіл перевершення з 100 хвилі нескінченних просторових воріт Апофеотичних загарбників",
 
-    "comment_id4": "/Potion Module",
+    "comment_id": "/Potion Module",
 
     "item.apotheosis.lucky_foot": "Щаслива кроляча лапка",
 
@@ -867,13 +879,13 @@
     "item.apotheosis.potion_charm.curios_only": "Працює лише у слоті аксесуарів",
     "misc.apotheosis.blacklisted_potion": "Неможливо перетворити в амулет.",
 
-    "comment_id5": "/Garden Module",
+    "comment_id": "/Garden Module",
     "item.apotheosis.ender_lead": "Повідець Енду",
     "info.apotheosis.noentity": "Захоплена сутність: Ніяка",
     "info.apotheosis.containedentity": "Захоплена сутність: %s",
     "info.apotheosis.ender_lead": "Повідець Енду — це предмет, який можна використовувати для переміщення тварин.  Ударте тварину, щоб захопити її, і клацніть ПКМ, щоб відпустити.  Початковий повідець не працює на інших типах сутностей.",
 
-    "comment_id6": "/Wanderer Trades",
+    "comment_id": "/Wanderer Trades",
     "name.apotheosis.captive_dreams": "Ловець снів",
     "name.apotheosis.stonebreaker": "Каменелом",
     "name.apotheosis.treecapitator": "Деревостягувач",
@@ -885,7 +897,7 @@
     "name.apotheosis.rune_forged_greaves": "Ковані рунами чоботи",
     "name.apotheosis.eternal_vigilance": "Вічна пильність",
 
-    "comment_id7": "/Misc",
+    "comment_id": "/Misc",
     "info.apoth.modifier_disabled": "Цей модифікатор вимкнений",
     "itemGroup.apotheosis.adventure": "Apotheosis: Модуль пригоди",
     "itemGroup.apotheosis.ench": "Apotheosis: Модуль зачарування",
@@ -926,48 +938,13 @@
     "apotheosis.subtitle.reforge": "Cтіл перекування кує",
     "apotheosis.subtitle.malice": "Сигіл злоби накладає злобу",  
 
-    "comment_id": "Guidebook",
+    "apotheosis.subtitle.invader_uncommon": "Прибуває незвичайний апофеотичний загарбник",
+    "apotheosis.subtitle.invader_rare": "Прибуває рідкісний апофеотичний загарбник",
+    "apotheosis.subtitle.invader_epic": "Прибуває епічний апофеотичний загарбник",
+    "apotheosis.subtitle.invader_mythic": "Прибуває міфічний апофеотичний загарбник",
 
+    "comment_id": "Guidebook",
     "book.apotheosis.name": "Хроніки тіней",
     "book.apotheosis.subtitle": "Керівництво по Апофеозу",
-    "book.apotheosis.landing": "Ласкаво просимо до світу Apotheosis.$(br2)Apotheosis організовано у $(#8080FF)модулі$(), як і зміст цієї книги.$(br2)Інформація вимкнених модулів прихована.",
-    
-        "item.apotheosis.gem.apotheosis:legacy": "Спадковий самоцвіт",
-        "affix.apotheosis:melee/attribute/elongated": "Подовжений",
-        "affix.apotheosis:melee/attribute/elongated.suffix": "віддалених битв",
-        "death.attack.apotheosis.execute": "%s було катовано.",
-        "reward.apotheosis.affix": "%s афіксний предмет",
-        "misc.apotheosis.invader": "%s апофеотичний загарбник",
-        "advancements.apotheosis.spawner.root": "Апофеотичні породжувачі",
-        "advancements.apotheosis.spawner.root.desc": "Породжувачі можна добувати та модифікувати, дивіться переглядач рецептів для подробиць.",
-        "advancements.apotheosis.spawner": "Апофеотичні породжувачі",
-        "advancements.apotheosis.spawner.desc": "Отримайте породжувач мобів за допомогою Шовкового дотику.",
-        "advancements.apotheosis.capturing": "Спіймався!",
-        "advancements.apotheosis.capturing.desc": "Отримайте яйце виклику моба за допомогою чар Захоплення",
-        "advancements.apotheosis.modifier": "Лише кілька змін...",
-        "advancements.apotheosis.modifier.desc": "Застосуйте модифікатор, щоб змінити характеристики породжувача.",
-        "advancements.apotheosis.spawncount": "Який здоровенний у тебе породжувач!",
-        "advancements.apotheosis.spawncount.desc": "Підвищте кількість спавну породжувача до 16",
-        "advancements.apotheosis.maxdelay": "Породжувач, що викривляє час",
-        "advancements.apotheosis.maxdelay.desc": "Зменште максимальну затримку спавну породжувача до 20",
-        "advancements.apotheosis.mindelay": "Я — швидкість",
-        "advancements.apotheosis.mindelay.desc": "Зменште мінімальну затримку спавну породжувача до 20",
-        "advancements.apotheosis.nearbyents": "Заснування орди",
-        "advancements.apotheosis.nearbyents.desc": "Підвищте обмежувач сутностей біля породжувача до 32",
-        "advancements.apotheosis.playerrange": "Бій з тилу",
-        "advancements.apotheosis.playerrange.desc": "Підвищте діапазон активації породжувача гравцем до 48",
-        "advancements.apotheosis.spawnrange": "З далеких далеч",
-        "advancements.apotheosis.spawnrange.desc": "Підвищте діапазон спавну породжувача до 32",
-        "advancements.apotheosis.conditions": "Неперевірений спавн",
-        "advancements.apotheosis.conditions.desc": "Позбавтеся умов спавну породжувача",
-        "advancements.apotheosis.players": "Готовий до промислового виробництва",
-        "advancements.apotheosis.players.desc": "Вимкніть породжувачу потребу у гравцях поруч",
-        "advancements.apotheosis.redstone": "А яке стоп-слово?",
-        "advancements.apotheosis.redstone.desc": "Додайте редстоуновий контроль до породжувача",
-        "advancements.apotheosis.light": "Кому потрібна ця темрява?",
-        "advancements.apotheosis.light.desc": "Дайте можливість породжувачу працювати при будь-якому рівні освітлення.",
-        "advancements.apotheosis.noai": "Зомбоящик",
-        "advancements.apotheosis.noai.desc": "Позбавте ШІ мобів з породжувача.",
-        "advancements.apotheosis.ultimate_spawner": "Ультимативний породжувач",
-        "advancements.apotheosis.ultimate_spawner.desc": "Створіть породжувач із мінімальними затримками, редстоуновим контролем, видаленим ШІ та ігноруванням умов і гравців."
+    "book.apotheosis.landing": "Ласкаво просимо до світу Apotheosis.$(br2)Apotheosis організовано у $(#8080FF)модулі$(), як і зміст цієї книги.$(br2)Інформація вимкнених модулів прихована."
 }
