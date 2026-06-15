@@ -410,5 +410,7 @@
   "item.createdeco.netherite_sheet": "Незеритовий лист",
   "item.createdeco.zinc_coin": "Цинкова монета",
   "item.createdeco.zinc_coinstack": "Стіс цинкових монет",
-  "item.createdeco.zinc_sheet": "Цинковий лист"
+  "item.createdeco.zinc_sheet": "Цинковий лист",
+  "itemGroup.createdeco.bricks_tab": "Create Deco: Цегла",
+  "itemGroup.createdeco.props_tab": "Create Deco: Прикраси"
 }
