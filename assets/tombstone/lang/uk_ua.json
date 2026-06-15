@@ -783,7 +783,7 @@
   "tombstone.compendium.voodoo_poppet.desc": "Лялька вуду забезпечує захист від певних типів смерті.\nПісля створення ви можете застосувати захист і зачарувати її душею могили, щоб запечатати магію.\nШанс спрацьовування становить 50% + 10% за рівень у Перевазі відьмака. \nКожна охорона надає різні корисні ефекти під час спрацьовування, тривалість цих ефектів можна налаштувати.\nПредмет залишається зачарованим, доки не буде знищено, коли спрацьовують усі варди.",
   "tombstone.config.activate_grave_by_sneaking": "Активувати могилу, сидячи",
   "tombstone.config.activate_grave_by_sneaking.tooltip": "Дозволяє активувати могилу під час присідання",
-  "tombstone.config.allow_creative_players_for_siege.tooltip": "Дозволити використовувати положення креативних гравців для визначення розташування місць",
+  "tombstone.config.allow_creative_players_for_siege.tooltip": "Дозволити використовувати положення творчих гравців для визначення розташування місць",
   "tombstone.config.allow_grave_gardian.tooltip": "Уповноважити торговця гробницею",
   "tombstone.config.allow_grave_in_water": "Водяна могила",
   "tombstone.config.allow_grave_in_water.tooltip": "Нехай твоя могила з’явиться у воді",

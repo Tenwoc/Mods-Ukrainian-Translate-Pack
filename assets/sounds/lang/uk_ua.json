@@ -98,7 +98,7 @@
   "sounds.config.itemCopy.option": "Клонування предмета",
   "sounds.config.itemCopy.option.description": "Звуковий ефект, який відтворюється, коли ви клонуєте предмет у своєму інвентарі.",
   "sounds.config.itemDelete.option": "Видалення предмета",
-  "sounds.config.itemDelete.option.description": "Звуковий ефект, який відтворюється, коли ви видаляєте предмет за допомогою кошика/смітника в креативному інвентарі.",
+  "sounds.config.itemDelete.option.description": "Звуковий ефект, який відтворюється, коли ви видаляєте предмет за допомогою кошика/смітника в творчому інвентарі.",
   "sounds.config.itemDrop.option": "Падіння предмета",
   "sounds.config.itemDrop.option.description": "Звуковий ефект, який відтворюється, коли ви кидаєте предмет зі свого інвентарю.",
   "sounds.config.itemDrag.option": "Перетягування предмета",

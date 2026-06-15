@@ -59,7 +59,7 @@
     "block.rftoolsutility.tank": "Резервуар",
     "block.rftoolsutility.screen": "Екран",
     "block.rftoolsutility.screen_controller": "Контролер екрану",
-    "block.rftoolsutility.creative_screen": "Креативний екран",
+    "block.rftoolsutility.creative_screen": "Творчий екран",
     "block.rftoolsutility.matter_beamer": "Випромінювач матерії",
     "block.rftoolsutility.spawner": "Породжувач",
     "block.rftoolsutility.environmental_controller": "Контролер навколишнього середовища",
@@ -210,7 +210,7 @@
     "message.rftoolsutility.spawner.gold": "Бонус від вливання: зменшене енергоспоживання",
 
     "message.rftoolsutility.screen.header": "Це модульний екран. Сам по собі він нічого не показує. Ви повинні вставити модулі, щоб керувати тим, що ви можете бачити. Цей екран не можна живити безпосередньо. Він має живитися дистанційно від розташованого поруч контролера екрана",
-    "message.rftoolsutility.creative_screen.header": "Це модульний екран. Сам по собі він нічого не показує. Ви повинні вставити модулі, щоб керувати тим, що ви бачите. Ця креативна версія звичайного екрану не потребує живлення",
+    "message.rftoolsutility.creative_screen.header": "Це модульний екран. Сам по собі він нічого не показує. Ви повинні вставити модулі, щоб керувати тим, що ви бачите. Ця творча версія звичайного екрану не потребує живлення",
 
     "message.rftoolsutility.screen_controller.header": "Перш ніж екран запрацює, він має отримати живлення від цього контролера. Навіть екран, який має лише модулі, що не потребують живлення, повинен мати контролер. Один контролер може живити багато екранів, якщо вони перебувають у зоні досяжності",
     "message.rftoolsutility.screen_controller.gold": "Бонус для інфузій: збільшений радіус дії екранів",

@@ -2551,6 +2551,8 @@
   "gtceu.jei.bedrock_fluid.salt_water_deposit": "Поклад солоної води",
   "gtceu.jei.bedrock_fluid_diagram": "Діаграма глибокореневих рідин",
   "gtceu.jei.bedrock_ore_diagram": "Діаграма глибокореневих руд",
+  "gtceu.jei.bedrock_vein_diagram.depleted": "Виснаженість: %s",
+  "gtceu.jei.bedrock_vein_diagram.yield": "Видобуток: %s",
   "gtceu.jei.fluid.dep_amount_hover": "На який обсяг буде виснажено поклад",
   "gtceu.jei.fluid.dep_chance_hover": "Відсоткова ймовірність того, що поклад буде виснажено під час збору",
   "gtceu.jei.fluid.dep_yield_hover": "Максимальний видобуток з покладу при його повному виснаженні",

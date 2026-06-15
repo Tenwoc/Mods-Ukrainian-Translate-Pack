@@ -30,7 +30,7 @@
     "botaniamisc.retainer.retain_missing": "Зберігати кількість відсутніх предметів",
     "botaniamisc.optifine_warning": "§4[WARNING]§r <Botania>: Optifine detected. Виявлено Optifine. Будь ласка, зверніть увагу, що Optifine спричиняє багато проблем з Botania, і ви можете стикнутися з проблемами, такими як мана не переміщується між квітами та розсіювачами, та відсутність інформації, коли ви тримаєте жезл і дивитеся на мана-басейн або розсіювач. Ми рекомендуємо Sodium як альтернативу для покращення продуктивності Optifine.",
   
-    "botaniamisc.creativePool0": "Креативний басейн мани містить нескінченну ману",
+    "botaniamisc.creativePool0": "Творчий басейн мани містить нескінченну ману",
     "botaniamisc.creativePool1": "Гідно егоїста",
     "botaniamisc.creativeSpark": "Дублює предмети у вкладеному блоці за запитом",
     "botaniamisc.toolRank": "%s\u00a77 Ранг",

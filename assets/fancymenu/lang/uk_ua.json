@@ -312,7 +312,7 @@
   "fancymenu.guicomponents.done": "Готово.",
   "fancymenu.helper.visibilityrequirement.gamemode.is_survival": "це виживання",
   "fancymenu.helper.visibilityrequirement.gamemode.is_survival.desc": "Перевірте, чи гравець перебуває у режимі виживання.",
-  "fancymenu.helper.visibilityrequirement.gamemode.is_creative": "є креативним",
+  "fancymenu.helper.visibilityrequirement.gamemode.is_creative": "є творчим",
   "fancymenu.helper.visibilityrequirement.gamemode.is_creative.desc": "Перевірте, чи перебуває програвач у творчому режимі.",
   "fancymenu.helper.visibilityrequirement.gamemode.is_adventure": "Чи є пригода",
   "fancymenu.helper.visibilityrequirement.gamemode.is_adventure.desc": "Перевірте, чи гравець перебуває в режимі пригод.",
