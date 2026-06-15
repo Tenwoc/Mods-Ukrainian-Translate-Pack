@@ -281,9 +281,9 @@
   "item.createdieselgenerators.wood_chip": "Щепа",
   "item.createdieselgenerators.yellow_cement_bucket": "Відро жовтого цементу",
   "itemGroup.cdg_creative_tab": "Create: Diesel Generators",
-  "mold.createdieselgenerators.bar": "Відливна злитка",
-  "mold.createdieselgenerators.bowl": "Відливна миски",
-  "mold.createdieselgenerators.chain": "Відливна ланцюга",
+  "mold.createdieselgenerators.bar": "Відливна форма злитка",
+  "mold.createdieselgenerators.bowl": "Відливна форма миски",
+  "mold.createdieselgenerators.chain": "Відливна форма ланцюга",
   "mold.createdieselgenerators.lines": "Хвиляста відливна форма",
   "sounds.createdieselgenerators.engine_normal": "Дизельний двигун реве"
 }
