@@ -815,7 +815,7 @@
   "tooltip.ad_astra.pipe.insert": "Встановити трубу на Введення",
   "tooltip.ad_astra.pipe.none": "Встановити трубу на Нічого",
   "tooltip.ad_astra.pipe.normal": "Встановити трубу на Нормальний",
-  "tooltip.ad_astra.previous": "Назід",
+  "tooltip.ad_astra.previous": "Назад",
   "tooltip.ad_astra.progress": "%s / %s",
   "tooltip.ad_astra.redstone_control": "Редстоуновий контроль",
   "tooltip.ad_astra.redstone_control.always_on": "Працювати завжди",
