@@ -1,0 +1,4 @@
+{
+    condition: "textCategory.stopy_for_all.splav",
+    fallback: "assets/1_/lang/alt/uk_ua.json"
+}

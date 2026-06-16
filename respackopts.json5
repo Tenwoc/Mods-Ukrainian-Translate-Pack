@@ -1,0 +1,44 @@
+{
+    id: "mutp",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    'conf':
+    {
+        textCategory:
+        {
+            endscreen: true,
+            postcredits: true,
+            splashes: true,
+            create_feets:
+            {
+                type: "enum",
+                values: ["splav", "stop"],
+                default: "splav"
+            },
+            stopy_for_all:
+            {
+                type: "enum",
+                values: ["splav", "stop"],
+                default: "splav"
+            },
+            mysticaloaktree_quotes: true
+        },
+        guideCategory:
+        {
+            ae2_guide: true,
+            apotheosis_guide: true,
+            arsocultas_patchouli: true,
+            bewitchment_guide: true,
+            bloodmagic_guide: true,
+            modularbees_guide: true
+        },
+        otherCategory:
+        {
+            ftbunearthed_gui: true,
+            gag_solicitors: true,
+            mythicmetals_gag: true,
+            simplefarming_customseeds: true,
+            tiered_tooltiplabels: true
+        }
+    }
+}

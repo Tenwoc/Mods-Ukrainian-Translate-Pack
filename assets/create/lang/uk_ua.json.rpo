@@ -1,0 +1,4 @@
+{
+    condition: "textCategory.create_feets.splav",
+    fallback: "assets/create/lang/alt/uk_ua.json"
+}

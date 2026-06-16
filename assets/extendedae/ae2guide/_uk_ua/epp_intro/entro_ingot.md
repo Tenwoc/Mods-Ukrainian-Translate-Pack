@@ -1,12 +1,12 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: Ентроїзований злиток
-    icon: extendedae:entro_ingot
+  parent: epp_intro/epp_intro-index.md
+  title: Ентроїзований злиток
+  icon: extendedae:entro_ingot
 categories:
-- entro system
+  - entro system
 item_ids:
-- extendedae:entro_ingot
+  - extendedae:entro_ingot
 ---
 
 # Ентроїзований злиток
@@ -15,6 +15,6 @@ item_ids:
 <ItemImage id="extendedae:entro_ingot" scale="4"></ItemImage>
 </Row>
 
-*«Ентропійний кристал занадто крихкий для використання в каркасі машини, але ми можемо сплавити його із золотим злитком, щоб покращити його пластичність».*
+_«Ентропійний кристал занадто крихкий для використання в каркасі машини, але ми можемо стопити його із золотим злитком, щоб покращити його пластичність»._
 
 З нього можна створити <ItemLink id="extendedae:machine_frame" /> та низку інших матеріалів ExtendedAE.

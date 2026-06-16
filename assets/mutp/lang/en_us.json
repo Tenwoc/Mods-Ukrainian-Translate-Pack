@@ -1,0 +1,52 @@
+{
+    "rpo.mutp": "Переклад модифікацій українською",
+    "rpo.mutp.tooltip": "",
+
+    "rpo.mutp.textCategory": "Налаштування тексту...",
+    "rpo.mutp.textCategory.tooltip": "Перемикайте використання перекладів та спірних моментів",
+
+        "rpo.mutp.textCategory.endscreen": "Поема Енду",
+        "rpo.mutp.textCategory.endscreen.tooltip": "Власний переклад Поеми Енду, яка з'являється після перемоги над Драконом Енду.",
+        "rpo.mutp.textCategory.postcredits": "Кінцева цитата",
+        "rpo.mutp.textCategory.postcredits.tooltip": "Власний переклад цитати у кінці титрів.",
+        "rpo.mutp.textCategory.splashes": "Сплеши",
+        "rpo.mutp.textCategory.splashes.tooltip": "Власний переклад сплешів (частковий).",
+
+        "rpo.mutp.textCategory.create_feets": "Create: «Сплави» або «Стопи»",
+        "rpo.mutp.textCategory.create_feets.tooltip": "В офіційному перекладі Create використовується термін «Стоп» для перекладу слова «Alloy». MUTP усталено змінює це на «Сплав». Виберіть той варіант, який вам більше до вподоби.",
+        "rpo.mutp.textCategory.create_feets.splav": "Сплав",
+        "rpo.mutp.textCategory.create_feets.stop": "Стоп",
+
+        "rpo.mutp.textCategory.mysticaloaktree_quotes": "Mystical Oak Tree",
+        "rpo.mutp.textCategory.mysticaloaktree_quotes.tooltip": "Деревна мудрість",
+
+    "rpo.mutp.guideCategory": "Посібники...",
+    "rpo.mutp.guideCategory.tooltip": "Перемикайте використання перекладів посібників",
+
+        "rpo.mutp.guideCategory.ae2_guide": "Applied Energistics 2",
+        "rpo.mutp.guideCategory.ae2_guide.tooltip": "Охоплює також посібники з доповнень AE2",
+        "rpo.mutp.guideCategory.apotheosis_guide": "Apotheosis",
+        "rpo.mutp.guideCategory.apotheosis_guide.tooltip": "Хроніка тіней",
+        "rpo.mutp.guideCategory.arsocultas_patchouli": "Ars Ocultas",
+        "rpo.mutp.guideCategory.arsocultas_patchouli.tooltip": "Тека Patchouli",
+        "rpo.mutp.guideCategory.bewitchment_guide": "Bewitchment",
+        "rpo.mutp.guideCategory.bewitchment_guide.tooltip": "Книга тіней - Відьомський кодекс",
+        "rpo.mutp.guideCategory.bloodmagic_guide": "Bloodmagic",
+        "rpo.mutp.guideCategory.bloodmagic_guide.tooltip": "Том Перітії",
+        "rpo.mutp.guideCategory.modularbees_guide": "Modular Bees",
+        "rpo.mutp.guideCategory.modularbees_guide.tooltip": "Книга модульних бджіл",
+
+    "rpo.mutp.otherCategory": "Інші ресурси...",
+    "rpo.mutp.otherCategory.tooltip": "Перемикайте використання інших ресурсів (зображень тощо...)",
+
+        "rpo.mutp.otherCategory.ftbunearthed_gui": "FTB Unearthed",
+        "rpo.mutp.otherCategory.ftbunearthed_gui.tooltip": "Переклад інтерфейсу",
+        "rpo.mutp.otherCategory.gag_solicitors": "Gadgets Agains Grind",
+        "rpo.mutp.otherCategory.gag_solicitors.tooltip": "Переклад таблички від мандрівного крамаря",
+        "rpo.mutp.otherCategory.mythicmetals_gag": "Mythic Metals",
+        "rpo.mutp.otherCategory.mythicmetals_gag.tooltip": "Заміна платівки зі Снуп Догом на Злого Репера Зеніка",
+        "rpo.mutp.otherCategory.simplefarming_customseeds": "Simple Farming",
+        "rpo.mutp.otherCategory.simplefarming_customseeds.tooltip": "Власні текстури насіння",
+        "rpo.mutp.otherCategory.tiered_tooltiplabels": "Tiered",
+        "rpo.mutp.otherCategory.tiered_tooltiplabels.tooltip": "Переклад ярликів рідкісностей у підказках предметів"
+}
