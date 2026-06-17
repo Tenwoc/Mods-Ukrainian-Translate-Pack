@@ -1,6 +1,6 @@
 {
     "rpo.mutp": "Переклад модифікацій українською",
-    "rpo.mutp.tooltip": "",
+    "rpo.mutp.tooltip": "Ви завжди можете запропонувати щось через Issues або Pull Requests на GitHub",
 
     "rpo.mutp.textCategory": "Тексти...",
     "rpo.mutp.textCategory.tooltip": "Перемикайте використання перекладів та спірних моментів",
@@ -13,7 +13,7 @@
         "rpo.mutp.textCategory.splashes.tooltip": "Власний переклад сплешів (частковий).",
 
         "rpo.mutp.textCategory.create_feets": "Create: «Сплави» або «Стопи»",
-        "rpo.mutp.textCategory.create_feets.tooltip": "В офіційному перекладі Create використовується термін «Стоп» для перекладу слова «Alloy». MUTP усталено змінює це на «Сплав». Ви можете повернути оригінальний переклад.",
+        "rpo.mutp.textCategory.create_feets.tooltip": "В офіційному перекладі Create використовується термін «Стоп» для перекладу слова «Alloy».\n MUTP усталено змінює це на «Сплав». Ви можете повернути оригінальний переклад.",
             "rpo.mutp.textCategory.create_feets.splav": "Сплав",
             "rpo.mutp.textCategory.create_feets.stop": "Стоп",
         "rpo.mutp.textCategory.stopy_for_all": "Стопи усім",
