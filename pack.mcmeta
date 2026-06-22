@@ -8,5 +8,17 @@
     },
     "min_format": 9,
     "max_format": 99999
-  }
+  },
+      "fastassetsload": {
+        "dont_ignore_assets": [
+          "minecraft",
+          "mutp",
+          "1_",
+          "1_splatus",
+          "enchantencore",
+          "tiered",
+          "example_mod",
+          "examplemod"
+        ]
+      }
 }
