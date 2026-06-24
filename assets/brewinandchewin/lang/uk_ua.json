@@ -82,11 +82,11 @@
   "brewinandchewin.container.keg.served_in": "Подається у: %s",
   "brewinandchewin.container.keg.temperature_requirement": "Повинно бути %s",
   "brewinandchewin.container.keg": "Кег",
-  "brewinandchewin.container.keg.cold": "Холодний %s",
-  "brewinandchewin.container.keg.chilly": "Прохолодний %s",
-  "brewinandchewin.container.keg.normal": "Нормальний %s",
-  "brewinandchewin.container.keg.warm": "Теплий %s",
-  "brewinandchewin.container.keg.hot": "Гарячий %s",
+  "brewinandchewin.container.keg.cold": "Холодно",
+  "brewinandchewin.container.keg.chilly": "Прохолодно",
+  "brewinandchewin.container.keg.normal": "Нормально",
+  "brewinandchewin.container.keg.warm": "Тепло",
+  "brewinandchewin.container.keg.hot": "Гаряче",
 
   "brewinandchewin.block.feast.use_knife": "Для цього потрібен ніж.",
 
