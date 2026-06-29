@@ -146,7 +146,7 @@
   "text.extended_industrialization.brewery_brews_multiple": "Варить %s зілля за раз.", 
   "text.extended_industrialization.brewery_requires_blazing_essence": "Потрібно %s для варіння зілля.", 
   "text.extended_industrialization.calcification_percentage": "Кальцинація: %d %%", 
-  "text.extended_industrialization.coils_lef_tier": "Запускає ВЕП партіями до %d за %s вартості EU.", 
+  "text.extended_industrialization.coils_lef_tier": "Виконує рецепти ВЕП партіями до %d, споживаючи %s EU.", 
   "text.extended_industrialization.color_blue": "Синій: ", 
   "text.extended_industrialization.color_green": "Зелений: ", 
   "text.extended_industrialization.color_red": "Червоний: ", 

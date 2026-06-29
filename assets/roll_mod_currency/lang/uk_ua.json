@@ -19,7 +19,7 @@
   "ftbquests.task.roll_mod_currency.currency": "Грошове завдання - %s %s",
   "ftbquests.reward.roll_mod_currency.currency": "Грошова нагорода - %s %s",
   "tooltip.roll_mod_currency.full_balance": "Ваш гаманець: %s",
-  "tooltip.roll_mod_currency.name": "Офіційна валюта Moderntech, що носить назву «%s§7»",
+  "tooltip.roll_mod_currency.name": "Офіційна валюта Moderntech, що носить назву «%s§7§a",
   "roll_mod_currency.balance.main": "Баланс: %s",
   "roll_mod_currency.playtime.reward.persistent": "§a+%s %s §7за відіграний час",
   "roll_mod_currency.playtime.reward.session": "§a+%s %s §7за годину онлайн",
