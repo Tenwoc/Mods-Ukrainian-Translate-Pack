@@ -1,0 +1,51 @@
+{
+  "itemGroup.scannable_unofficial": "Scannable",
+
+  "block.scannable_unofficial.scanner": "Сканер",
+
+  "container.scannable_unofficial.scanner": "Сканер",
+  "container.scannable_unofficial.block_module": "Модуль блоків",
+  "container.scannable_unofficial.entity_module": "Модуль сутностей",
+
+  "tooltip.scannable_unofficial.scanner.energy": "Енергія: %s / %s FE",
+  "tooltip.scannable_unofficial.scanner_module.energy": "Витрати енергії: %s FE",
+  "tooltip.scannable_unofficial.scanner.total_energy_cost": "Усього: %s FE на сканування",
+  "tooltip.scannable_unofficial.scanner.active_modules": "Активні модулі",
+  "tooltip.scannable_unofficial.scanner.inactive_modules": "Неактивні",
+
+  "item.scannable_unofficial.range_module.desc": "Збільшує діапазон сканування на 50%%",
+  "item.scannable_unofficial.fluid_module.desc": "Виявляє блоки рідин, такі як лаву та воду",
+  "item.scannable_unofficial.friendly_entity_module.desc": "Виявляє дружніх сутностей, таких як тварини та селяни",
+  "item.scannable_unofficial.hostile_entity_module.desc": "Виявляє ворожих сутностей, таких як монстри",
+  "item.scannable_unofficial.entity_module.desc": "Клацніть ПКМ по сутності, щоб визначити її як ціль пошуку",
+  "item.scannable_unofficial.block_module.desc": "Клацніть ПКМ по блоку, щоб визначити його як ціль пошуку",
+  "item.scannable_unofficial.blank_module.desc": "Модуль-заповнювач без функціоналу",
+  "item.scannable_unofficial.item_module.desc": "Виявляє певні предмети у містилах",
+
+  "tooltip.scannable_unofficial.scanner.block_module.list": "Обрані блоки:",
+  "tooltip.scannable_unofficial.scanner.entity_module.list": "Обрані сутності:",
+  "tooltip.scannable_unofficial.scanner.item_module.list": "Обрані предмети:",
+
+  "message.scannable_unofficial.scanner.no_target_items": "§cМодуль предметів не має налаштованих предметів! Натисніть ПКМ, щоб налаштувати його",
+  "message.scannable_unofficial.scanner.no_modules": "Не встановлено жодного модуля пошуку!",
+  "message.scannable_unofficial.scanner.no_energy": "Недостатньо енергії!",
+  "message.scannable_unofficial.scanner.no_free_slots": "Немає вільного місця!",
+
+  "gui.scannable_unofficial.scanner.active_modules": "Модулі",
+  "gui.scannable_unofficial.scanner.inactive_modules": "Неактивні",
+  "gui.scannable_unofficial.scanner.progress": "%s%%",
+  "gui.scannable_unofficial.scanner.overlay.distance": "%s (%sм)",
+  "gui.scannable_unofficial.scanner.block_module.list": "Блоки",
+  "gui.scannable_unofficial.scanner.entity_module.list": "Сутності",
+  "gui.scannable_unofficial.scanner.item_module.list": "Предмети",
+
+  "item.scannable_unofficial.scanner": "Сканер",
+  "item.scannable_unofficial.range_module": "Модуль діапазону",
+  "item.scannable_unofficial.fluid_module": "Модуль рідин",
+  "item.scannable_unofficial.friendly_entity_module": "Модуль дружніх сутностей",
+  "item.scannable_unofficial.hostile_entity_module": "Модуль ворожих сутностей",
+  "item.scannable_unofficial.entity_module": "Модуль сутностей",
+  "item.scannable_unofficial.block_module": "Модуль блоків",
+  "item.scannable_unofficial.item_module": "Модуль предметів",
+  "item.scannable_unofficial.blank_module": "Пустий модуль"
+}
