@@ -153,8 +153,8 @@
   "msg.roll_mod_currency.ah.cannotCancel": "Ви не можете скасувати лот, на який вже є ставки",
   "msg.roll_mod_currency.ah.nothingToClaim": "Вам нічого забирати",
   "msg.roll_mod_currency.ah.claimed": "Усі предмети забрано",
-  "msg.roll_mod_currency.ah.claimedPartial": "Забрано те, що вмістилося; решта залишилася у вашій Колекції",
-  "msg.roll_mod_currency.ah.toCollection": "Ваш інвентар був заповнений; предмети надіслано до вашої Колекції",
+  "msg.roll_mod_currency.ah.claimedPartial": "Не вдалося забрати все: ваш інвентар переповнений",
+  "msg.roll_mod_currency.ah.toCollection": "Не знайдено місця в інвентарі: предмети надіслано до вашої Колекції",
   "config.roll_mod_currency.server.breakLevel": "Рівень дозволу на знищення",
   "menu.roll_mod_currency.ah.notFound": "Лот не знайдено"
 }
