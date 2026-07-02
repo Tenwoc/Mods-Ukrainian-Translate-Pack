@@ -41,7 +41,7 @@
         "rpo.mutp.guideCategory.modularbees_guide.tooltip": "Книга модульних бджіл",
 
     "rpo.mutp.otherCategory": "Інші ресурси...",
-    "rpo.mutp.otherCategory.tooltip": "Перемикайте використання інших ресурсів (зображень тощо...)",
+    "rpo.mutp.otherCategory.tooltip": "Перемикайте використання інших ресурсів (текстур, звуків тощо...)",
 
         "rpo.mutp.otherCategory.ftbunearthed_gui": "FTB Unearthed",
         "rpo.mutp.otherCategory.ftbunearthed_gui.tooltip": "Переклад інтерфейсу",
@@ -49,8 +49,10 @@
         "rpo.mutp.otherCategory.gag_solicitors.tooltip": "Переклад таблички від мандрівного крамаря",
         "rpo.mutp.otherCategory.mythicmetals_gag": "Mythic Metals",
         "rpo.mutp.otherCategory.mythicmetals_gag.tooltip": "Заміна платівки зі Снуп Догом на Злого Репера Зеніка",
+        "rpo.mutp.otherCategory.scannable_ae2style": "Scannable Unofficial",
+        "rpo.mutp.otherCategory.scannable_ae2style.tooltip": "Власні текстури предметів, стилізовані під AE2",
         "rpo.mutp.otherCategory.simplefarming_customseeds": "Simple Farming",
-        "rpo.mutp.otherCategory.simplefarming_customseeds.tooltip": "Власні текстури насіння",
+        "rpo.mutp.otherCategory.simplefarming_customseeds.tooltip": "Власні текстури деякого насіння",
         "rpo.mutp.otherCategory.tiered_tooltiplabels": "Tiered",
         "rpo.mutp.otherCategory.tiered_tooltiplabels.tooltip": "Переклад ярликів рідкісностей у підказках предметів"
 }
