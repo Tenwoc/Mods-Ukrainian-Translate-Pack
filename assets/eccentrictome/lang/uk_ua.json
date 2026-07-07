@@ -3,7 +3,7 @@
     "eccentrictome.name": "Ексцентричний том (%s)",
     "item.eccentrictome.tome": "Ексцентричний том",
     "eccentrictome.configuration.common": "Налаштування Eccentric",
-    "eccentrictome.configuration.disable_overlay": "Вимкнути оверлей",
+    "eccentrictome.configuration.disable_overlay": "Вимкнути накладку",
     "eccentrictome.configuration.items": "Дозволені предмети",
     "eccentrictome.configuration.aliases": "Назви модів за id"
 }
