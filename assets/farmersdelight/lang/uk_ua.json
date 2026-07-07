@@ -520,10 +520,10 @@
   "farmersdelight.configuration.enableTomatoRopePermanence": "Постійність томатної мотузки",
   "farmersdelight.configuration.enableTomatoRopePermanence.tooltip": "Томатні культури, підвішені на мотузці, примусово розміщують блок мотузки при зламі. Через технічні обмеження це впливає, зокрема, на команди, через що не вдається виконати команду «setblock» для цього блоку з першої спроби.\n\nВимкніть це, якщо цей блок заважає вам редагувати регіон у творчому режимі або за допомогою команд. Для звичайного геймплею рекомендовано залишити увімкненим.",
 
-  "farmersdelight.configuration.enableNourishmentHungerOverlay": "Накладення ситості на індикатор голоду",
-  "farmersdelight.configuration.enableNourishmentHungerOverlay.tooltip": "Якщо увімкнено, на індикаторі їжі відображатиметься позолочене накладення, коли гравець має ефект ситості.",
-  "farmersdelight.configuration.enableComfortHealthOverlay": "Накладення затишку на індикатор здоров'я",
-  "farmersdelight.configuration.enableComfortHealthOverlay.tooltip": "Якщо увімкнено, на індикаторі здоров'я відображатиметься прокручуване накладення, коли гравець має ефект затишку.",
+  "farmersdelight.configuration.enableNourishmentHungerOverlay": "Накладка ситості на індикатор голоду",
+  "farmersdelight.configuration.enableNourishmentHungerOverlay.tooltip": "Якщо увімкнено, на індикаторі їжі відображатиметься позолочена накладка, коли гравець має ефект ситості.",
+  "farmersdelight.configuration.enableComfortHealthOverlay": "Накладка комфорту на індикатор здоров'я",
+  "farmersdelight.configuration.enableComfortHealthOverlay.tooltip": "Якщо увімкнено, на індикаторі здоров'я відображатиметься золота накладка, коли гравець має ефект комфорту.",
   "farmersdelight.configuration.enableFoodEffectTooltip": "Підказка ефектів їжі",
   "farmersdelight.configuration.enableFoodEffectTooltip.tooltip": "Якщо увімкнено, харчові предмети відображатимуть підказки з переліком ефектів, які вони надають при поїданні, якщо такі є. Застосовується до продуктів харчування як з Minecraft, так і з цього мода.",
 

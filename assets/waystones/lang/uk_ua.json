@@ -204,7 +204,7 @@
   "waystones.configuration.worldGen.spawnInVillages.tooltip": "Встановіть REGULAR, щоб шляхокамені з'являлися в деяких селах. Встановіть FREQUENT, щоб шляхокамені з'являлися в більшості сіл. Встановіть DISABLED, щоб вимкнути генерацію шляхокаменів у селах. Орієнтири з'являтимуться лише у стандартних або підтримуваних селах.",
   "waystones.configuration.client": "Параметри клієнта",
   "waystones.configuration.client.disableTextGlow": "Вимкнути світіння тексту",
-  "waystones.configuration.client.disableTextGlow.tooltip": "Якщо ввімкнено, накладення тексту на шляхокамені більше не відображатиметься завжди з повною яскравістю.",
+  "waystones.configuration.client.disableTextGlow.tooltip": "Якщо ввімкнено, накладка тексту на шляхокамені більше не відображатиметься завжди з повною яскравістю.",
   "waystones.configuration.journeyMap": "Інтеграція з JourneyMap",
   "waystones.configuration.journeyMap.enabled": "Увімкнути підтримку JourneyMap",
   "waystones.configuration.journeyMap.enabled.tooltip": "Якщо увімкнено, для кожного активованого каменю шляху будуть створюватися мітки JourneyMap.",

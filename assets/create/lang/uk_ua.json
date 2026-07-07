@@ -3123,7 +3123,7 @@
   "create.train_map.redstone_powered": "  Заживлено редстоуном",
   "create.train_map.schedule_interrupted": " <!> Розклад перервано",
   "create.train_map.section_reserved": "  Ділянку зарезервовано",
-  "create.train_map.toggle": "Накладення мережі поїздів",
+  "create.train_map.toggle": "Накладка мережі поїздів",
   "create.train_map.train_at_station": " >| %1$s",
   "create.train_map.train_moving_to_station": " >> %1$s (%2$sм)",
   "create.train_map.train_owned_by": "належить гравцю %1$s",

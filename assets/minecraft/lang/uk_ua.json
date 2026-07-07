@@ -5049,7 +5049,7 @@
     "key.debug.lightmapTexture": "Текстура мапи освітлення",
     "key.debug.modifier": "Клавіша-модифікатор налагодження",
     "key.debug.networkCharts": "Діаграми мережі",
-    "key.debug.overlay": "Перемкнути накладення",
+    "key.debug.overlay": "Перемкнути накладку",
     "key.debug.profiling": "Почати/зупинити профілювання",
     "key.debug.profilingChart": "Діаграма профілювання",
     "key.debug.reloadChunk": "Перезавантажити чанки",

@@ -36,7 +36,7 @@
   "treechop.gui.settings.tooltip.tooltips": "Показувати підказки",
   "treechop.gui.settings.title": "Налаштування %s",
   "treechop.key.cycle_sneak_behavior": "Циклічна поведінка підкрадання",
-  "treechop.key.open_settings_overlay": "Відкрити налаштування Накладення",
+  "treechop.key.open_settings_overlay": "Відкрити налаштування накладки",
   "treechop.key.toggle_chopping": "Перемикач Рубання",
   "treechop.key.toggle_felling": "Перемикач Вирубки",
   "treechop.setting.chop_in_creative_mode": "Рубання у творчому режимі",
