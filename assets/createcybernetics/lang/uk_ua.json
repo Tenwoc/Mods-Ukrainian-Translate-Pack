@@ -9,7 +9,7 @@
   "createcybernetics.configuration.tattooUploadMode": "Налаштування завантаження татуювання",
 
   "createcybernetics.configuration.engineeringDeconstructRolls": "Спроби деконструкції інженерного стола",
-  "createcybernetics.configuration.engineeringScavengedDeconstructRolls": "Спроби сміттярської деконструкції інженерного стола",
+  "createcybernetics.configuration.engineeringScavengedDeconstructRolls": "Спроби деконструкції вживаного обладнання інженерного стола",
 
   "createcybernetics.configuration.entitySlotRolls": "Спроби слотів сутностей",
   "createcybernetics.configuration.entityCyberwareRolls": "Спроби кіберобладнання сутностей",
@@ -567,15 +567,15 @@
 
   "key.createcybernetics.rippergui.trade_title": "Торгувати",
   "key.createcybernetics.rippergui.refurbish_title": "Відремонтувати",
-  "key.createcybernetics.rippergui.trade_input_desc": "Нове/сміттярське кіберобладнання",
-  "key.createcybernetics.rippergui.refurbish_input1_desc": "Сміттярське кіберобладнання",
+  "key.createcybernetics.rippergui.trade_input_desc": "Нове/вживане кіберобладнання",
+  "key.createcybernetics.rippergui.refurbish_input1_desc": "Вживане кіберобладнання",
   "key.createcybernetics.rippergui.refurbish_input2_desc": "20x Смарагдів",
 
 
   "advancement.cybernetics": "Кібернетика",
   "advancement.cybernetics.desc": "Станьте кіберпанком",
   "advancement.first_scavenged_cyberware": "Не думаю, що хочу вставляти це у себе...",
-  "advancement.first_scavenged_cyberware.desc": "Отримайте сміттярський кіберімплант",
+  "advancement.first_scavenged_cyberware.desc": "Отримайте вживаний кіберімплант",
   "advancement.first_cyberware": "Час хрому",
   "advancement.first_cyberware.desc": "Отримайте кіберімплант",
   "advancement.first_ripperdoc_visit": "Я хочу приварити це сюди",
