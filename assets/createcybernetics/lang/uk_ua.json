@@ -1,6 +1,6 @@
 {
 
-  "translate_authors": "discord: roll_54, tenwoc",
+  "translation_authors": "discord: roll_54, tenwoc",
 
   "createcybernetics.configuration.humanity": "Базове значення людяності",
   "createcybernetics.configuration.keepCyberware": "Зберігати імпланти після смерті",
@@ -169,7 +169,7 @@
   "item.createcybernetics.data_shard_cyan.desc": "Покращує точність лука",
   "item.createcybernetics.data_shard_blue": "Фрагмент даних",
   "item.createcybernetics.data_shard_blue.title": "Плавання",
-  "item.createcybernetics.data_shard_blue.desc": "Полегшує підводну діяльність",
+  "item.createcybernetics.data_shard_blue.desc": "Полегшує рухомість під водою",
   "item.createcybernetics.data_shard_purple": "Фрагмент даних",
   "item.createcybernetics.data_shard_purple.title": "Телепортація",
   "item.createcybernetics.data_shard_purple.desc": "Нівелює шкоду від перлин Ендеру",
@@ -709,7 +709,7 @@
                       "tooltip.createcybernetics.datashard_tooltip": "§e§oФРАГМЕНТ ДАНИХ",
 
                       "tooltip.createcybernetics.wetware_tooltip": "§c§lЖИВОТЕХНІКА",
-                      "tooltip.createcybernetics.basecyberware_tooltip": "§9§lБАЗОВІ ІМПЛАНТИ",
+                      "tooltip.createcybernetics.basecyberware_tooltip": "§9§lБАЗОВИЙ ІМПЛАНТ",
                       "tooltip.createcybernetics.eyeupgrades_tooltip": "§9§lПОКРАЩЕННЯ ОЧЕЙ",
                       "tooltip.createcybernetics.armupgrades_tooltip": "§9§lПОКРАЩЕННЯ РУК",
                       "tooltip.createcybernetics.legupgrades_tooltip": "§9§lПОКРАЩЕННЯ НІГ",
@@ -722,7 +722,7 @@
                       "tooltip.createcybernetics.muscleupgrades_tooltip": "§9§lПОКРАЩЕННЯ М’ЯЗІВ",
                       "tooltip.createcybernetics.wetwareupgrades_tooltip": "§4§lЖИВОТЕХНІЧНІ ПОКРАЩЕННЯ",
 
-                      "tooltip.createcybernetics.scavenged_tooltip": "§6§oСМІТТЯРСЬКИЙ ІМПЛАНТ",
+                      "tooltip.createcybernetics.scavenged_tooltip": "§6§oВЖИВАНИЙ ІМПЛАНТ",
 
 
 
@@ -742,7 +742,7 @@
           "tooltip.createcybernetics.eyeupgrades_hudlens.tooltip2": "§7Потрібні §cочні яблука",
           "tooltip.createcybernetics.eyeupgrades_hudlens.energy": "Витрачає 3 енергії",
       "tooltip.createcybernetics.eyeupgrades_navigationchip.tooltip1": "§1Додає мінімапу до зору",
-          "tooltip.createcybernetics.eyeupgrades_navigationchip.tooltip2": "§7Потрібно §9кіберочі§7 і §9HUDjack",
+          "tooltip.createcybernetics.eyeupgrades_navigationchip.tooltip2": "§7Потрібні §9кіберочі§7 та §9HUDjack",
           "tooltip.createcybernetics.eyeupgrades_navigationchip.energy": "Витрачає 3 енергії",
       "tooltip.createcybernetics.eyeupgrades_hudjack.tooltip1": "§1Додає HUD до зору",
           "tooltip.createcybernetics.eyeupgrades_hudjack.tooltip2": "§7Потрібні §9кіберочі",
@@ -751,10 +751,10 @@
           "tooltip.createcybernetics.eyeupgrades_nightvision.tooltip2": "§7Потрібні §9кіберочі",
           "tooltip.createcybernetics.eyeupgrades_nightvision.energy": "Витрачає 5 енергії",
       "tooltip.createcybernetics.eyeupgrades_targeting.tooltip1": "§1Наводить на останню атаковану істоту",
-          "tooltip.createcybernetics.eyeupgrades_targeting.tooltip2": "§7Потрібні §9кіберочі§7 і §9HUDjack",
+          "tooltip.createcybernetics.eyeupgrades_targeting.tooltip2": "§7Потрібні §9кіберочі§7 та §9HUDjack",
           "tooltip.createcybernetics.eyeupgrades_targeting.energy": "Витрачає 3 енергії",
       "tooltip.createcybernetics.eyeupgrades_underwatervision.tooltip1": "§1Покращує видимість під водою",
-          "tooltip.createcybernetics.eyeupgrades_underwatervision.tooltip2": "§7Потрібно §9кіберочі",
+          "tooltip.createcybernetics.eyeupgrades_underwatervision.tooltip2": "§7Потрібні §9кіберочі",
           "tooltip.createcybernetics.eyeupgrades_underwatervision.energy": "Витрачає 3 енергії",
       "tooltip.createcybernetics.eyeupgrades_zoom.tooltip1": "§1Дозволяє бачити об’єкти віддаль",
           "tooltip.createcybernetics.eyeupgrades_zoom.tooltip2": "§7Потрібні §9кіберочі",
@@ -764,7 +764,7 @@
           "tooltip.createcybernetics.eyeupgrades_trajectorycalculator.energy": "Витрачає 2 енергії",
 
       "tooltip.createcybernetics.armupgrades_armcannon.tooltip1": "§1Дозволяє запускати різні предмети та снаряди",
-      "tooltip.createcybernetics.armupgrades_armcannon.desc": "§7Встановіть та натисніть %s§7, щоб відкрити інтерфейс боєзапасів",
+      "tooltip.createcybernetics.armupgrades_armcannon.desc": "§7Встановіть та натисніть %s§7, щоб відкрити інтерфейс завантаження",
       "tooltip.createcybernetics.armupgrades_armcannon.desc2": "§7Встановіть та натисніть %s§7, щоб відкрити колесо боєзапасів",
           "tooltip.createcybernetics.armupgrades_armcannon.tooltip2": "§7Потрібна §9кіберрука",
       "tooltip.createcybernetics.armupgrades_flywheel.tooltip1": "§1Дозволяє швидко натягувати луки та арбалети",
@@ -815,7 +815,7 @@
           "tooltip.createcybernetics.boneupgrades_boneflex.tooltip2": "§3Накопичується до 3×",
       "tooltip.createcybernetics.boneupgrades_bonelacing.tooltip1": "§1Додає 2 серця здоров’я за кожне накопичення",
           "tooltip.createcybernetics.boneupgrades_bonelacing.tooltip2": "§3Накопичується до 3×",
-      "tooltip.createcybernetics.boneupgrades_capacitorframe.tooltip1": "§1Нейтралізує ефекти Електромагнітності і перетворює їх на додаткову енергію",
+      "tooltip.createcybernetics.boneupgrades_capacitorframe.tooltip1": "§1Нейтралізує ефекти EMP і перетворює їх на додаткову енергію",
       "tooltip.createcybernetics.boneupgrades_elytra.tooltip1": "§1Зрощує елітри з хребтом",
           "tooltip.createcybernetics.boneupgrades_elytra.tooltip2": "§7Потрібен §9лінійний каркас",
           "tooltip.createcybernetics.boneupgrades_elytra.energy": "Витрачає 1-2 енергії",
