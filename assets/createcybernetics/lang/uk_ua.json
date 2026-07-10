@@ -235,7 +235,7 @@
   "item.createcybernetics.cyberzombie_spawn_egg": "Яйце виклику кіберзомбі",
   "item.createcybernetics.cyberskeleton_spawn_egg": "Яйце виклику кіберскелета",
   "item.createcybernetics.smasher_spawn_egg": "Яйце виклику смешера",
-  "item.createcybernetics.ripper_spawn_egg": "Яйце виклику розривача",
+  "item.createcybernetics.ripper_spawn_egg": "Яйце виклику ріпера",
   "item.createcybernetics.tathog_spawn_egg": "Яйце виклику татгоґа",
   "item.createcybernetics.punklin_spawn_egg": "Яйце виклику панкліна",
   "item.createcybernetics.pigstrom_spawn_egg": "Яйце виклику піґстрома",
@@ -334,7 +334,7 @@
   "item.createcybernetics.armupgrades_firestarter": "Запальник",
   "item.createcybernetics.armupgrades_pneumaticwrist": "Пневматичне зап’ястя",
   "item.createcybernetics.armupgrades_reinforcedknuckles": "Посилені кісточки",
-  "item.createcybernetics.armupgrades_ripperclaw": "Клешня розривача",
+  "item.createcybernetics.armupgrades_ripperclaw": "Клешня ріпера",
   "item.createcybernetics.armupgrades_arccannon": "Електродугова гармата",
 
   "item.createcybernetics.legupgrades_metaldetector": "Металодетектор",
@@ -542,7 +542,7 @@
   "block.createcybernetics.datura_bush": "Кущ дурману",
 
 
-  "entity.createcybernetics.ripper": "Розривач",
+  "entity.createcybernetics.ripper": "Ріпер",
   "entity.createcybernetics.tathog": "Татгоґ",
 
   "entity.createcybernetics.smasher": "Смешер",
