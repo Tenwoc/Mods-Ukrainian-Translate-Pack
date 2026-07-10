@@ -28,7 +28,7 @@
   "commands.createcybernetics.implants.clear_success": "Очищено всі імпланти та відновлено стандартні органи для %s.",
   "command.createcybernetics.keep_cyberware.query": "Збереження імплантів встановлено на %s (тільки під час виконання).",
   "command.createcybernetics.keep_cyberware.set": "Збереження імплантів наразі %s (тільки під час виконання, щоб зробити постійним, змініть у конфігурації).",
-  "commands.createcybernetics.energy_debug.set": "Відлагодження енергії: %s",
+  "commands.createcybernetics.energy_debug.set": "Налагодження енергії: %s",
   "commands.createcybernetics.tattoo.reload": "Оновлений реєстр татуювань.",
   "commands.createcybernetics.tattoo.pending.empty": "Татуювань в очікуванні немає.",
   "commands.createcybernetics.tattoo.pending.header": "Татуювання в очікуванні:",
@@ -229,7 +229,7 @@
   "item.createcybernetics.quickhack_drain": "§bПрограма швидкого злому",
   "item.createcybernetics.quickhack_drain.desc": "§7Drain.exe",
   "item.createcybernetics.quickhack_drain.desc2": "Рівень успішності: 75%",
-  "item.createcybernetics.quickhack_drain.desc3": "Зводить енергоспоживання кіберобладнання до мінімуму.",
+  "item.createcybernetics.quickhack_drain.desc3": "Робить енергоспоживання кіберобладнання максимально неефективним.",
 
 
   "item.createcybernetics.cyberzombie_spawn_egg": "Яйце виклику кіберзомбі",
@@ -969,7 +969,7 @@
       "tooltip.createcybernetics.wetware_wardenantlers.tooltip1": "§cДозволяє бачити звуки",
       "tooltip.createcybernetics.wetware_sculkheart.tooltip1": "§cСтворює рівномірний ритм серцебиття та накладає темряву на гравців поруч",
       "tooltip.createcybernetics.wetware_gooeymuscle.tooltip1": "§cЗнижує вплив невеликих падінь і значно зменшує шкоду від булави",
-      "tooltip.createcybernetics.wetware_electrocytemuscle.tooltip1": "§cПри атаці випускає електричний розряд у бік усіх істот поблизу; час відновлення — 2 хвилини",
+      "tooltip.createcybernetics.wetware_electrocytemuscle.tooltip1": "§cПри отриманні шкоди випускає електричний розряд у бік усіх істот поблизу; час відновлення — 2 хвилини",
 
 
 
