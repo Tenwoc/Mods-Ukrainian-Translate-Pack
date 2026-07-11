@@ -8,7 +8,6 @@
         {
             endscreen: true,
             postcredits: true,
-            splashes: true,
             create_feets:
             {
                 type: "enum",
