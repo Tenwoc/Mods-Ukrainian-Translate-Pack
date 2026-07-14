@@ -22,9 +22,9 @@
   "block.tconstruct.mud_bricks_stairs": "Сходи з лимпача",
 
   "block.tconstruct.blazewood": "Пломенедерево",
-  "block.tconstruct.blazewood_slab": "Пломенедерев’яна плита",
-  "block.tconstruct.blazewood_stairs": "Пломенедерев’яні сходи",
-  "block.tconstruct.blazewood_fence": "Пломенедерев’яний паркан",
+  "block.tconstruct.blazewood_slab": "Пломенедерев'яна плита",
+  "block.tconstruct.blazewood_stairs": "Пломенедерев'яні сходи",
+  "block.tconstruct.blazewood_fence": "Пломенедерев'яний паркан",
 
   "block.tconstruct.nahuatl": "Ацтекські дошки",
   "block.tconstruct.nahuatl_slab": "Ацтекська плита",
@@ -545,7 +545,7 @@
   "item.tconstruct.rabbit_stew_bucket": "Відро тушкованого кролика",
   "fluid.tconstruct.rabbit_stew.fluid_effect": "Тушкований кролик – найкраща зріджена їжа, ідеальна для сьорбання.",
 
-  "block.tconstruct.meat_soup_fluid": "М’ясний суп",
+  "block.tconstruct.meat_soup_fluid": "М'ясний суп",
   "fluid.tconstruct.meat_soup": "М’ясний суп",
   "fluid.tconstruct.flowing_meat_soup": "Зріджений м’ясний суп",
   "item.tconstruct.meat_soup_bucket": "Відро м’ясного супу",
@@ -891,7 +891,7 @@
   "item.tconstruct.molten_constantan_bucket": "Відро розтопленого константану",
   "fluid.tconstruct.molten_constantan.fluid_effect": "Розтоплений константан, можливо, корисний проти людей, але не так сильно проти монстрів.",
 
-  "block.tconstruct.molten_pewter_fluid": "Розтоплений п’ютер",
+  "block.tconstruct.molten_pewter_fluid": "Розтоплений п'ютер",
   "fluid.tconstruct.molten_pewter": "Розтоплений п’ютер",
   "fluid.tconstruct.flowing_molten_pewter": "Зріджений розтоплений п’ютер",
   "item.tconstruct.molten_pewter_bucket": "Відро розтопленого п’ютеру",
@@ -1056,7 +1056,7 @@
   "block.tconstruct.sky_cake": "Небослизовий торт",
   "block.tconstruct.ichor_cake": "Іхоровий торт",
   "block.tconstruct.ender_cake": "Ендерслизовий торт",
-  "block.tconstruct.blood_cake": "Кров’яний торт",
+  "block.tconstruct.blood_cake": "Кров'яний торт",
   "block.tconstruct.magma_cake": "Магматичний торт",
 
   "item.tconstruct.piggy_backpack": "Свиноранець",
@@ -4204,13 +4204,13 @@
 
 
   "_cmnt": "Застарілі рядки",
-  "block.tconstruct.blood_slime": "Кров’яний блок",
+  "block.tconstruct.blood_slime": "Кров'яний блок",
   "block.tconstruct.blood_slime.tooltip": "Пружний, але не липкий",
   "block.tconstruct.blood_congealed_slime": "Зсіла кров",
   "block.tconstruct.blood_congealed_slime.tooltip": "Дозволяє вам дуже високо стрибати",
   "block.tconstruct.lavawood": "Лаводерево",
-  "block.tconstruct.lavawood_slab": "Лаводерев’яна плита",
-  "block.tconstruct.lavawood_stairs": "Лаводерев’яні сходи",
+  "block.tconstruct.lavawood_slab": "Лаводерев'яна плита",
+  "block.tconstruct.lavawood_stairs": "Лаводерев'яні сходи",
   "item.tconstruct.sign_head_sand_cast": "Піщана форма дошки таблички",
   "item.tconstruct.round_plate_sand_cast": "Піщана форма для круглої пластини",
   "item.tconstruct.sign_head_red_sand_cast": "Червоно-піщана форма дошки таблички",

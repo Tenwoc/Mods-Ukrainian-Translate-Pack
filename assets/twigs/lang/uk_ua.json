@@ -17,7 +17,7 @@
   "block.twigs.opaline_seashell": "Опалова мушля",
   "block.twigs.roseate_seashell": "Рожева мушля",
   "block.twigs.tangerine_seashell": "Мандаринова мушля",
-  "block.twigs.petrified_lichen": "Скам’янілий лишайник",
+  "block.twigs.petrified_lichen": "Скам'янілий лишайник",
 
   "block.twigs.paper_lantern": "Паперовий ліхтар",
   "block.twigs.allium_paper_lantern": "Паперовий ліхтар",
@@ -66,15 +66,15 @@
   "block.twigs.gravel_brick_slab": "Плита з гравійної цегли",
   "block.twigs.gravel_brick_stairs": "Сходи з гравійної цегли",
 
-  "block.twigs.smooth_stone_bricks": "Гладка кам’яна цегла",
-  "block.twigs.smooth_stone_brick_wall": "Стіна з гладкої кам’яної цегли",
-  "block.twigs.smooth_stone_brick_slab": "Плита з гладкої кам’яної цегли",
-  "block.twigs.smooth_stone_brick_stairs": "Сходи з гладкої кам’яної цегли",
+  "block.twigs.smooth_stone_bricks": "Гладка кам'яна цегла",
+  "block.twigs.smooth_stone_brick_wall": "Стіна з гладкої кам'яної цегли",
+  "block.twigs.smooth_stone_brick_slab": "Плита з гладкої кам'яної цегли",
+  "block.twigs.smooth_stone_brick_stairs": "Сходи з гладкої кам'яної цегли",
 
   "block.twigs.quartz_column": "Колона з кварцу",
-  "block.twigs.stone_column": "Кам’яна колона",
+  "block.twigs.stone_column": "Кам'яна колона",
   "block.twigs.deepslate_column": "Глибосланцева колона",
-  "block.twigs.blackstone_column": "Чорнокам’яна колона",
+  "block.twigs.blackstone_column": "Чорнокам'яна колона",
 
   "block.twigs.copper_pillar": "Мідний стовп",
   "block.twigs.exposed_copper_pillar": "Наражений мідний стовп",
@@ -90,7 +90,7 @@
 
   "block.twigs.bamboo_mat": "Бамбуковий килимок",
   "block.twigs.compacted_dripstone": "Ущільнений крапельний камінь",
-  "block.twigs.rocky_dirt": "Скам’янілий ґрунт",
+  "block.twigs.rocky_dirt": "Скам'янілий ґрунт",
 
   "block.twigs.cobblestone_bricks": "Круглякова цегла",
   "block.twigs.cobblestone_brick_stairs": "Сходи з круглякової цегли",
@@ -102,14 +102,14 @@
   "block.twigs.mossy_cobblestone_brick_slab": "Плита з моховитої круглякової цегли",
   "block.twigs.mossy_cobblestone_brick_wall": "Стіна з моховитої круглякової цегли",
 
-  "block.twigs.twisting_polished_blackstone_bricks": "Кручена полірована чорнокам’яна цегла",
-  "block.twigs.twisting_polished_blackstone_brick_wall": "Стіна з крученої полірованої чорнокам’яної цегли",
-  "block.twigs.twisting_polished_blackstone_brick_slab": "Плита з крученої полірованої чорнокам’яної цегли",
-  "block.twigs.twisting_polished_blackstone_brick_stairs": "Сходи з крученої полірованої чорнокам’яної цегли",
-  "block.twigs.weeping_polished_blackstone_bricks": "Плакуча полірована чорнокам’яна цегла",
-  "block.twigs.weeping_polished_blackstone_brick_wall": "Стіна з плакучої полірованої чорнокам’яної цегли",
-  "block.twigs.weeping_polished_blackstone_brick_slab": "Плита з плакучої полірованої чорнокам’яної цегли",
-  "block.twigs.weeping_polished_blackstone_brick_stairs": "Сходи з плакучої полірованої чорнокам’яної цегли",
+  "block.twigs.twisting_polished_blackstone_bricks": "Кручена полірована чорнокам'яна цегла",
+  "block.twigs.twisting_polished_blackstone_brick_wall": "Стіна з крученої полірованої чорнокам'яної цегли",
+  "block.twigs.twisting_polished_blackstone_brick_slab": "Плита з крученої полірованої чорнокам'яної цегли",
+  "block.twigs.twisting_polished_blackstone_brick_stairs": "Сходи з крученої полірованої чорнокам'яної цегли",
+  "block.twigs.weeping_polished_blackstone_bricks": "Плакуча полірована чорнокам'яна цегла",
+  "block.twigs.weeping_polished_blackstone_brick_wall": "Стіна з плакучої полірованої чорнокам'яної цегли",
+  "block.twigs.weeping_polished_blackstone_brick_slab": "Плита з плакучої полірованої чорнокам'яної цегли",
+  "block.twigs.weeping_polished_blackstone_brick_stairs": "Сходи з плакучої полірованої чорнокам'яної цегли",
 
   "block.twigs.tuff_stairs": "Туфові сходи",
   "block.twigs.tuff_slab": "Туфова плита",

@@ -149,7 +149,7 @@
 
   "gui.spell_engine.spell_binding" : "Зв’язування заклинань",
   "gui.spell_engine.spell_binding.title" : "Зв’язані заклинання",
-  "block.spell_engine.spell_binding": "Стіл зв’язування заклинань",
+  "block.spell_engine.spell_binding": "Стіл зв'язування заклинань",
   "block.spell_engine.spell_binding.description": "Використовуйте його для створення та заповнення книг заклинань.",
   "gui.spell_engine.spell_binding.already_bound" : "Заклинання вже зв’язано",
   "gui.spell_engine.spell_binding.no_more_slots" : "Більше немає слотів для заклинань",

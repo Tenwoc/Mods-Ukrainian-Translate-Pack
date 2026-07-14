@@ -52,7 +52,7 @@
   "block.extendedexchange.relay.max_transfer": "Максимальний об’єм транпортування EMC: %s/s",
   "block.extendedexchange.relay.relay_bonus": "Бонус ретрансляції: %s/s",
   "block.extendedexchange.relay.tooltip": "Дружній до TPS сервера. Передає EMC лише раз на секунду.",
-  "block.extendedexchange.stone_table": "Кам’янийц стіл трансмутацій",
+  "block.extendedexchange.stone_table": "Кам'яний стіл трансмутацій",
   "block.extendedexchange.stone_table.learn": "Вивчити",
   "block.extendedexchange.stone_table.tooltip": "Альтернатива стола трансмутацій ProjectE",
   "block.extendedexchange.stone_table.unlearn": "Забути",

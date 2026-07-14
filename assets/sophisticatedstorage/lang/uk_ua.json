@@ -51,7 +51,7 @@
   "block.sophisticatedstorage.storage_output": "Вихід сховища",
   "item.sophisticatedstorage.storage_link": "Зв’язок сховищ",
   "block.sophisticatedstorage.storage_link.tooltip": "Передає предмети з прив’язаного контролера сховищ до прилеглих сховищ\nСховища зв’язуються інструментом сховищ",
-  "block.sophisticatedstorage.storage_link": "Зв’язок сховищ",
+  "block.sophisticatedstorage.storage_link": "Зв'язок сховищ",
   "item.sophisticatedstorage.controller": "Контролер сховищ",
   "block.sophisticatedstorage.controller.tooltip": "Передає предмети до прилеглих сховищ.",
   "block.sophisticatedstorage.controller": "Контролер сховищ",
