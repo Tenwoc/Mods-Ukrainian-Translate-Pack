@@ -1,6 +1,40 @@
 {
   "text.autoconfig.extra_details.title": "Налаштування Panda's Extra Details",
 
+	"text.autoconfig.extra_details.option.blockSettings.blacklist": "Чорний список",
+	"text.autoconfig.extra_details.option.blockSettings.blacklist.@Tooltip": "Не підтримує скрині та стоячі таблички",
+
+	"text.autoconfig.extra_details.option.blockSettings.sign": "Табличка",
+	"text.autoconfig.extra_details.option.blockSettings.sign.enabled": "Увімкнено",
+	"text.autoconfig.extra_details.option.blockSettings.sign.pitchTilt": "Оберт",
+	"text.autoconfig.extra_details.option.blockSettings.sign.yawTilt": "Нахил",
+	"text.autoconfig.extra_details.option.blockSettings.sign.rollTilt": "Схил",
+	"text.autoconfig.extra_details.option.blockSettings.sign.randomTilt": "Випадковий напрям",
+
+	"text.autoconfig.extra_details.option.blockSettings.hangingSign": "Вивіска",
+	"text.autoconfig.extra_details.option.blockSettings.hangingSign.enabled": "Увімкнено",
+
+	"text.autoconfig.extra_details.option.blockSettings.door": "Двері",
+	"text.autoconfig.extra_details.option.blockSettings.door.enabled": "Увімкнено",
+	"text.autoconfig.extra_details.option.blockSettings.door.animationSpeed": "Швидкість анімації",
+
+	"text.autoconfig.extra_details.option.blockSettings.trapdoor": "Люк",
+	"text.autoconfig.extra_details.option.blockSettings.trapdoor.enabled": "Увімкнено",
+	"text.autoconfig.extra_details.option.blockSettings.trapdoor.animationSpeed": "Швидкість анімації",
+
+	"text.autoconfig.extra_details.option.blockSettings.fenceGate": "Хвіртка",
+	"text.autoconfig.extra_details.option.blockSettings.fenceGate.enabled": "Увімкнено",
+	"text.autoconfig.extra_details.option.blockSettings.fenceGate.animationSpeed": "Швидкість анімації",
+
+	"text.autoconfig.extra_details.option.blockSettings.lever": "Важіль",
+	"text.autoconfig.extra_details.option.blockSettings.lever.enabled": "Увімкнено",
+	"text.autoconfig.extra_details.option.blockSettings.lever.animationSpeed": "Швидкість анімації",
+
+	"text.autoconfig.extra_details.option.blockSettings.chest": "Скриня",
+	"text.autoconfig.extra_details.option.blockSettings.chest.enabled": "Увімкнено",
+	"text.autoconfig.extra_details.option.blockSettings.chest.animationSpeed": "Швидкість анімації",
+
+
 
   "text.autoconfig.extra_details.category.enabled_features": "Увімкнені особливості",
 
