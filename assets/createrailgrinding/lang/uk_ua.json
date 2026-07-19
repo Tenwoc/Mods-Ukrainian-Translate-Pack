@@ -1,0 +1,46 @@
+{
+    "createrailgrinding.dismount_prompt": "Натисніть %1$s, щоби встати з рейки",
+    "createrailgrinding.catch_prompt": "Утримуйте %1$s, щоб упіймати рейки",
+    "key.categories.createrailgrinding": "Rail Grinding",
+    "key.createrailgrinding.catch": "Упіймати рейку",
+    "key.createrailgrinding.grind_jump": "Зістрибнути з рейки",
+    "key.createrailgrinding.grind_crouch": "Нахилитись (прискоритись на рейці)",
+    "effect.createrailgrinding.railgrindboost": "Понадзвуковий вітер",
+    "effect.createrailgrinding.railgrindboost.description": "Мотиваційні солодкі ласощі _підвищують_ ваші _ навички ковзання по рейках._",
+    "effect.createrailgrinding.railgrindboost.condition": "При споживанні",
+    "effect.createrailgrinding.railgrindboost.behaviour": "Надає ефект _Понадзвукового вітру_, який збільшує _швидкість_, _прискорення_ та _силу стрибка_ під час _ковзання на рейці_.",
+
+    "item.createrailgrinding.diving_boots.tooltip.condition1": "Коли поряд із коліями",
+    "item.createrailgrinding.diving_boots.tooltip.behaviour1": "Надає здібність _ковзати_ на рейках _залізничих колій._ _Взаємодійте_ із _колією_ порожньою рукою, або утримуйте _%1$s_, коли знаходитесь біля _колії._",
+    "item.createrailgrinding.diving_boots.tooltip.condition2": "Під час ковзання по рейці",
+    "item.createrailgrinding.diving_boots.tooltip.behaviour2": "Утримуйте _%1$s_, щоби прискорюватись. Утримуйте _%2$s_, щоб зістрибнути з рейки. _Взаємодійте_ із _колією_, щоб зупинитися.",
+
+    "enchantment.createrailgrinding.railgrind_enchantment": "Залізничний вершник",
+    "enchantment.createrailgrinding.railgrind_enchantment.desc": "Дозволяє ковзати по рейках залізничних колій",
+
+    "advancement.createrailgrinding.railgrind_advancement": "Екстремальне спорядження",
+    "advancement.createrailgrinding.railgrind_advancement.desc": "Прокотіться по рейках залізничних колій за допомогою пірнальних чоботів або чар залізничного вершника",
+
+    "advancement.createrailgrinding.railgrind_effect_advancement": "Ривок із понадзвуковою швидкістю",
+    "advancement.createrailgrinding.railgrind_effect_advancement.desc": "Прискорте своє ковзання по рейках, з’ївши шоколад",
+
+    "advancement.createrailgrinding.custom_boots_advancement": "Перекиди зі швидкістю звуку",
+    "advancement.createrailgrinding.custom_boots_advancement.desc": "Отримайте рейкові ковзани з особливою подобою швидкісника",
+
+    "advancement.createrailgrinding.falldamage_negate_advancement": "Щодо низькобюджетних рейсів…",
+    "advancement.createrailgrinding.falldamage_negate_advancement.desc": "Врятуйте себе від смертельного падіння, вчасно вхопившись за рейку",
+
+    "subtitles.createrailgrinding.grind_collide": "Дзенькіт",
+    "subtitles.createrailgrinding.grind_slow_loop": "Ковзання",
+    "subtitles.createrailgrinding.grind_fast_loop": "Скрегіт",
+
+    "createrailgrinding.ponder.rail_grinding_intro.header": "Ковзання по рейках",
+    "createrailgrinding.ponder.rail_grinding_intro.text_1": "Пірнальні чоботи підходять для ковзання по рейках",
+    "createrailgrinding.ponder.rail_grinding_intro.text_2": "Клацніть ПКМ по колії порожньою рукою, щоб почати ковзати по рейці",
+    "createrailgrinding.ponder.rail_grinding_intro.text_3": "Клацніть ПКМ по колії порожньою рукою, щоб зупинити ковзання",
+    "createrailgrinding.ponder.rail_grinding_intro.text_4": "Утримуйте %1$s, щоби вхопитися за рейки",
+    "createrailgrinding.ponder.rail_grinding_intro.text_5": "Утримуйте %1$s, щоби прискоритися",
+    "createrailgrinding.ponder.rail_grinding_intro.text_6": "Утримуйте %1$s, щоби зістрибнути з рейки",
+    "createrailgrinding.ponder.rail_grinding_intro.text_7": "Утримування %1$s автоматично зафіксує вас на найближчій рейці",
+    "createrailgrinding.ponder.rail_grinding_intro.text_8": "В момент хапання за рейку шкода від падіння зменшується, а імпульс зберігається."
+}
