@@ -22,6 +22,7 @@
   "main_screen.btn.next_sounds": "Наступні звуки",
   "main_screen.btn.previous_sounds": "Попередні звуки",
   "main_screen.btn.anchors.disabled": "Якорі вимкнено!",
+  "main_screen.btn.anchors.customskinloader": "Custom Skin Loader порушує роботу прив’язок R/W, їх неможливо використовувати з цим модом.",
   "main_screen.btn.anchors.set_message": "Спочатку встановіть прив’язку",
   "main_screen.btn.anchors.set": "Встановити прив’язку",
   "main_screen.btn.anchors.set_range": "Діапазон: 1 - 32",
@@ -37,7 +38,7 @@
   "main_screen.side_screen.z": "Z: %s",
   "main_screen.side_screen.radius": "Радіус: %s",
   "main_screen.side_screen.dimension": "Вимір: %s",
-  "main_screen.side_screen.title": "Заголовок: ",
+  "main_screen.side_screen.title": "Назва: ",
 
   "tip.disable": "Ви можете вимкнути ці підказки у конфігурації",
   "tip.change_volume": "Ви можете змінити гучність приглушених звуків, перетягуючи повзунок",
@@ -53,13 +54,37 @@
   "tip.set_anchors": "Натисніть будь-яку з пронумерованих кнопок, а потім натисніть кнопку з маркером (праворуч), щоб встановити позицію прив’язки",
   "tip.modify_anchors": "Після того, як ви встановили прив’язки, ви можете натиснути кнопку маркера, щоб перемістити позицію в будь-який час.",
   "tip.modify_anchors_2": "Ви можете змінити назву і діапазон прив’язок після того, як ви встановили позицію",
-  "tip.reset_recent_sounds": "Утримуючи клавішу Shift на екрані нещодвніх, натисніть кнопку смітника, щоб очистити список нещодавніх звуків",
+  "tip.reset_recent_sounds": "Утримуючи клавішу Shift на екрані нещодавніх, натисніть кнопку смітника, щоб очистити список нещодавніх звуків",
 
   "log.warn.loadAnchorList": "ESM: Список прив’язок не знайдено; Створення порожнього списку прив’язок",
   "log.error.loadAnchorList": "ESM: Помилка завантаження списку прив’язок:\\n %s",
   "log.error.saveAnchorList": "ESM: Помилка збереження списку прив’язок\\n %s",
   "log.warn.loadMuffledList": "ESM: Не знайдено список приглушення; створення порожнього списку приглушення",
   "log.error.loadMuffledList": "ESM: Помилка завантаження списку приглушених звуків:\\n %s",
-  "log.error.saveMuffledList": "ESM: Помилка збереження списку приглушених звуків:\\n %s"
+  "log.error.saveMuffledList": "ESM: Помилка збереження списку приглушених звуків:\\n %s",
 
+  "forbiddenSounds.button": "Встановити недоступні звуки",
+  "general.button": "Головна",
+  "Anchors.button": "Прив’язки",
+  "inventory_button.button": "Кнопка в інвентарі",
+  "extremesoundmuffler.configuration.inventory_button": "Кнопка в інвентарі",
+  "extremesoundmuffler.configuration.Anchors": "Прив’язки",
+  "extremesoundmuffler.configuration.general": "Головна",
+
+  "extremesoundmuffler.configuration.forbiddenSounds": "Недоступні звуки",
+  "extremesoundmuffler.configuration.modsMuffled": "Заглушені моди",
+  "extremesoundmuffler.configuration.useDarkTheme": "Використовувати темну тему",
+  "extremesoundmuffler.configuration.leftButtons": "Кнопки ліворуч",
+  "extremesoundmuffler.configuration.lawfulAllList": "Список усіх доступних звуків",
+  "extremesoundmuffler.configuration.defaultMuteVolume": "Типова гучність приглушення",
+  "extremesoundmuffler.configuration.showTip": "Показувати підказки",
+
+  "extremesoundmuffler.configuration.disableInventoryButton": "Вимкнути кнопку в інвентарі",
+  "extremesoundmuffler.configuration.invButtonX": "Координата X кнопки в інвентарі",
+  "extremesoundmuffler.configuration.invButtonY": "Координата Y кнопки в інвентарі",
+  "extremesoundmuffler.configuration.disableCreativeInventoryButton": "Вимкнути кнопку у творчому інвентарі",
+  "extremesoundmuffler.configuration.creativeInvButtonX": "Координата X кнопки у творчому інвентарі",
+  "extremesoundmuffler.configuration.creativeInvButtonY": "Координата Y кнопки у творчому інвентарі",
+
+  "extremesoundmuffler.configuration.disableAnchors": "Вимкнути прив’язки"
 }
