@@ -157,7 +157,7 @@
     "createpropulsion.ponder.shared.thruster_2x2.back_only_intro": "Конструкції 2x2 приймають рідину лише з боку заднього впуску.",
     "createpropulsion.ponder.shared.thruster_2x2.composed_of_blocks": "Конструкція 2x2x2 складається з 8 звичайних рушіїв.",
     "createpropulsion.ponder.shared.thruster_2x2.no_clutch_first_invalid": "Перший рядок (без зчеплення) тут недійсний: він не качає у задній впускний отвір.",
-    "createpropulsion.ponder.shared.thruster_2x2.no_clutch_not_rear": "Оскільки ця лінія не живить задні резервуари, рушій нічого не робить..",
+    "createpropulsion.ponder.shared.thruster_2x2.no_clutch_not_rear": "Оскільки ця лінія не живить задні резервуари, рушій нічого не робить.",
     "createpropulsion.ponder.shared.thruster_2x2.top_feed_invalid": "У мультиблоки можна подавати лише з задньої сторони.",
     "createpropulsion.ponder.shared.thruster_2x2.remove_invalid_top": "Видаліть недійсну верхню лінію та подавайте з задньої сторони.",
     "createpropulsion.ponder.shared.thruster_2x2.valid_rear": "Конструкції приймають паливо лише через задній мідний шар.",

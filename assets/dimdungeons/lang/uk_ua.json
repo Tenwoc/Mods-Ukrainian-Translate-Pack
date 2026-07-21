@@ -42,9 +42,9 @@
   "item.dimdungeons.item_trophy_7": "Панель з рожевою стрілкою",
   "item.dimdungeons.item_trophy_8": "Живопис Ультроса",
   "item.dimdungeons.item_trophy_1_line1": "Трофей 1/8",
-  "item.dimdungeons.item_trophy_1_line2": "Рідкісний гриб. Він не росте на міцелії..",
+  "item.dimdungeons.item_trophy_1_line2": "Рідкісний гриб. Він не росте на міцелії…",
   "item.dimdungeons.item_trophy_2_line1": "Трофей 2/8",
-  "item.dimdungeons.item_trophy_2_line2": "Цей благословенний меч спить, чекаючи на особливого героя..",
+  "item.dimdungeons.item_trophy_2_line2": "Цей благословенний меч спить, чекаючи на особливого героя…",
   "item.dimdungeons.item_trophy_3_line1": "Трофей 3/8",
   "item.dimdungeons.item_trophy_3_line2": "Бажаний символ жадібності. Але чи не варті діаманти більше, ніж каміння?",
   "item.dimdungeons.item_trophy_4_line1": "Трофей 4/8",
@@ -309,7 +309,7 @@
 	"config.dimdungeons.advancedEnemyHealthScaling": "advancedEnemyHealthScaling",
 
 	"commands.gendungeon.success": "Побудовано підземелля %s.",
-	"commands.gendungeon.failed": "Не вдалося створити підземелля тут, ймовірно, тому що воно вже існує або координати знаходяться поза межами діапазону..",
+	"commands.gendungeon.failed": "Не вдалося створити підземелля тут, ймовірно, тому що воно вже існує або координати знаходяться поза межами діапазону.",
 
   "enemy.dimdungeons.minecraft:enderman": "Ендермен",
   "enemy.dimdungeons.minecraft:guardian": "Вартовий",

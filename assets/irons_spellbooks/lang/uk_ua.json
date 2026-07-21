@@ -880,7 +880,7 @@
   "death.attack.irons_spellbooks.shadow_slash.item": "%2$s розсік %1$s за допомогою: %3$s",
   "death.attack.irons_spellbooks.throw.item": "%2$s вбив %1$s за допомогою кинутого: %3$s",
 
-  "death.attack.unstable_portal_owner": "Приголомшена таємничою хвилею, сутність %1$s розлетілася, немов зоряний пил, по всьому світу..",
+  "death.attack.unstable_portal_owner": "Приголомшена таємничою хвилею, сутність %1$s розлетілася, немов зоряний пил, по всьому світу.",
 
   "effect.irons_spellbooks.blood_slashed": "Поріз",
   "effect.irons_spellbooks.angel_wings": "Крила янгола",
