@@ -84,7 +84,7 @@
   "mod_gui.brandonscore.entity_filter.player.name": "Ім’я:",
   "mod_gui.brandonscore.entity_filter.player.suggestion": "(Введіть тут ім’я гравця)",
   "mod_gui.brandonscore.entity_filter.player.true": "Включити гравця(ів)",
-  "mod_gui.brandonscore.entity_filter.search": "Шукати...",
+  "mod_gui.brandonscore.entity_filter.search": "Шукати…",
   "mod_gui.brandonscore.entity_filter.set_stack": "Скиньте стос, щоб встановити\nАбо натисніть, щоб очистити",
   "mod_gui.brandonscore.entity_filter.tamable.false": "Виключити вихованців",
   "mod_gui.brandonscore.entity_filter.tamable.info": "Застосовується до вихованців, які не належать гравцеві.",

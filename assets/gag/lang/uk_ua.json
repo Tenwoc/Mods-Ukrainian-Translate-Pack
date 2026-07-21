@@ -27,7 +27,7 @@
   "item.gag.hearthstone.target.respawn": "Ваша точка відродження",
   "item.gag.hearthstone.target.unbound": "🧭 не встановлено",
   "item.gag.hearthstone.too_weak": "Здається, цей харстоун надто слабкий, щоб дістатися до дому звідси.",
-  "item.gag.hearthstone.warmup": "Телепортація через %s секунд...",
+  "item.gag.hearthstone.warmup": "Телепортація через %s секунд…",
   "item.gag.labeling_tool": "Інструмент іменування",
   "item.gag.labeling_tool.info": "Використовується для безкоштовної зміни назви будь-якого предмета у вашому інвентарі.",
   "item.gag.labeling_tool.text_box": "Перейменувати предмет",
@@ -53,7 +53,7 @@
           "strikethrough": true,
           "text": "пляшці"
         },
-        "мішку..."
+        "мішку…"
       ],
       "text": "Якщо б я тільки міг зберегти час у "
     }

@@ -62,7 +62,7 @@
   "tooltip.relics.ring_of_thrift.leveling_source.thrift.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s.",
 
   "item.reliquified_ars_nouveau.archmage_glove": "Рукавичка архімага",
-  "tooltip.relics.archmage_glove.description": "Секрет вищих чарівників, що могли виконувати сотні заклять, не відчуваючи й краплі втоми. Хоча, коли секрет розкрито... Називати їх чарівниками вже язик не повернеться. Фокусники - не інакше...",
+  "tooltip.relics.archmage_glove.description": "Секрет вищих чарівників, що могли виконувати сотні заклять, не відчуваючи й краплі втоми. Хоча, коли секрет розкрито… Називати їх чарівниками вже язик не повернеться. Фокусники - не інакше…",
   "tooltip.relics.archmage_glove.ability.multicasted": "Спритні пальці",
   "tooltip.relics.archmage_glove.ability.multicasted.description": "Під час виконання закляття існує шанс у %1$s%% повторно застосувати його. Якщо ефект спрацьовує, закляття виконується знову, і процес триває доти, доки шанс не перестане спрацьовувати. Кожне повторення не витрачає мани гравця, а всього повторень не може бути більше 5. Працює тільки на закляття рожевого кольору [255 25 180].",
   "tooltip.relics.archmage_glove.leveling_source.multicasted.title": "Спритні пальці",
@@ -83,14 +83,14 @@
   "tooltip.relics.spiked_cloak.leveling_source.spikes.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s.",
 
   "item.reliquified_ars_nouveau.wing_of_the_wild_stalker": "Крило дикуна-переслідувача",
-  "tooltip.relics.wing_of_the_wild_stalker.description": "Крило чи то величезного кажана, чи то ще якогось чудовиська...",
+  "tooltip.relics.wing_of_the_wild_stalker.description": "Крило чи то величезного кажана, чи то ще якогось чудовиська…",
   "tooltip.relics.wing_of_the_wild_stalker.ability.wings": "Занурення",
   "tooltip.relics.wing_of_the_wild_stalker.ability.wings.description": "Під час виконання подвійного стрибка гравець переходить у режим польоту на елітрах. Повторне натискання активує стрімкий ривок уперед на %1$s блоків. До приземлення доступно не більше %2$s послідовних ривків.",
   "tooltip.relics.wing_of_the_wild_stalker.leveling_source.wings.title": "Занурення",
   "tooltip.relics.wing_of_the_wild_stalker.leveling_source.wings.description": "+%1$s одиниць досвіду за кожну секунду польоту від здібності %2$s.",
 
   "item.reliquified_ars_nouveau.whirlisprig_petals": "Пелюстки виточки",
-  "tooltip.relics.whirlisprig_petals.description": "Паросток, підозріло схожий на той, що росте на головах у виточок... Який жах...",
+  "tooltip.relics.whirlisprig_petals.description": "Паросток, підозріло схожий на той, що росте на головах у виточок… Який жах…",
   "tooltip.relics.whirlisprig_petals.ability.petals": "Вознесіння",
   "tooltip.relics.whirlisprig_petals.ability.petals.description": "При затисканні клавіші стрибка на час до %1$s секунд плавно підіймає гравця вгору. При падінні з небезпечної висоти автоматично застосовує до гравця ефект уповільненого падіння.",
   "tooltip.relics.whirlisprig_petals.leveling_source.petals.title": "Вознесіння",
@@ -98,7 +98,7 @@
 
   "entity.reliquified_ars_nouveau.whirling_broom": "Вита мітла",
   "item.reliquified_ars_nouveau.whirling_broom": "Вита мітла",
-  "tooltip.relics.whirling_broom.description": "Назва цієї мітли і підозріла схожість мітелки з пелюстками виточки навівають злегка моторошні думки... однак в іншому, це просто чудовий засіб для переміщення!",
+  "tooltip.relics.whirling_broom.description": "Назва цієї мітли і підозріла схожість мітелки з пелюстками виточки навівають злегка моторошні думки… однак в іншому, це просто чудовий засіб для переміщення!",
   "tooltip.relics.whirling_broom.ability.broom": "Поклик відьми",
   "tooltip.relics.whirling_broom.ability.broom.description": "Викликає мітлу, яка контролюється стандартними клавішами пересування. Висота польоту не може перевищувати %1$s блоків над землею. Мітла має %4$s одиниць здоров’я, що регенеруються кожні 5 секунд, у разі повного виснаження запасу здоров’я мітла зникає, а здатність йде на перезаряджання на 1 хвилину. При затисканні клавіші бігу мітла витрачає %2$s мани на секунду і прискорюється на %3$s%%.",
   "tooltip.relics.whirling_broom.ability.broom.predicate.broom": "Належні умови для призову мітли",

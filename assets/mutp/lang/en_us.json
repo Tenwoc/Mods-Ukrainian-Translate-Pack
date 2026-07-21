@@ -2,7 +2,7 @@
     "rpo.mutp": "Переклад модифікацій українською",
     "rpo.mutp.tooltip": "",
 
-    "rpo.mutp.textCategory": "Налаштування тексту...",
+    "rpo.mutp.textCategory": "Налаштування тексту…",
     "rpo.mutp.textCategory.tooltip": "Перемикайте використання перекладів та спірних моментів",
 
         "rpo.mutp.textCategory.endscreen": "Поема Енду",
@@ -20,7 +20,7 @@
         "rpo.mutp.textCategory.mysticaloaktree_quotes": "Mystical Oak Tree",
         "rpo.mutp.textCategory.mysticaloaktree_quotes.tooltip": "Деревна мудрість",
 
-    "rpo.mutp.guideCategory": "Посібники...",
+    "rpo.mutp.guideCategory": "Посібники…",
     "rpo.mutp.guideCategory.tooltip": "Перемикайте використання перекладів посібників",
 
         "rpo.mutp.guideCategory.ae2_guide": "Applied Energistics 2",
@@ -36,8 +36,8 @@
         "rpo.mutp.guideCategory.modularbees_guide": "Modular Bees",
         "rpo.mutp.guideCategory.modularbees_guide.tooltip": "Книга модульних бджіл",
 
-    "rpo.mutp.otherCategory": "Інші ресурси...",
-    "rpo.mutp.otherCategory.tooltip": "Перемикайте використання інших ресурсів (зображень тощо...)",
+    "rpo.mutp.otherCategory": "Інші ресурси…",
+    "rpo.mutp.otherCategory.tooltip": "Перемикайте використання інших ресурсів (зображень тощо…)",
 
         "rpo.mutp.otherCategory.ftbunearthed_gui": "FTB Unearthed",
         "rpo.mutp.otherCategory.ftbunearthed_gui.tooltip": "Переклад інтерфейсу",

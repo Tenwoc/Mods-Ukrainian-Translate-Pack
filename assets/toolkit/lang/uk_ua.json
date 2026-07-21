@@ -3,7 +3,7 @@
   "commands.toolkit.hand.handempty": "-РУКА ПОРОЖНЯ--",
   "commands.toolkit.clipboard.copied": "§e--Копіюється до буфера обміну--",
   "commands.toolkit.oredist.missing": "Відсутні аргументи §r[AreaSize]",
-  "commands.toolkit.remove.lagwarring": "§c--ПОПЕРЕДЖЕННЯ-- Вхідна затримка... видалено багато блоків",
+  "commands.toolkit.remove.lagwarring": "§c--ПОПЕРЕДЖЕННЯ-- Вхідна затримка… видалено багато блоків",
   "commands.toolkit.remove.done": "-Видалення блоків виконано--",
   "commands.toolkit.la.missing": "Відсутній аргумент 0=блок/1=рідина",
   "commands.unknown.argument": "--Невідомий аргумент--",

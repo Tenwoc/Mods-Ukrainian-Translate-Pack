@@ -13,7 +13,7 @@
   "compactcrafting.jei.miniaturization.catalyst": "Киньте цей предмет у поле мініатюризації, щоб почати виготовлення.",
 
   "compactcrafting.top.current_recipe": "Рецепт: ",
-  "compactcrafting.top.awaiting_catalyst": "Очікування каталізатора...",
+  "compactcrafting.top.awaiting_catalyst": "Очікування каталізатора…",
   "compactcrafting.top.progress": "%s / %s",
 
   "tooltip.compactcrafting.proxy_bound": "Прив’язано з: %s",

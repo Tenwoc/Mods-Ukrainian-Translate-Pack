@@ -726,7 +726,7 @@
   "advancement.create_dd.tin_ingot": "Залізний Дроворуб!",
   "advancement.create_dd.tin_ingot.desc": "Витопіть олов’яний злиток!",
   "advancement.create_dd.deforester_saw": "ДЕРЕВО!!!",
-  "advancement.create_dd.deforester_saw.desc": "Отримайте визеленювальну... пилу?",
+  "advancement.create_dd.deforester_saw.desc": "Отримайте визеленювальну… пилу?",
   "advancement.create_dd.excavation_drill": "БУР РОБЕ БРРРРРР!!!",
   "advancement.create_dd.excavation_drill.desc": "Отримайте землерийний бур!",
   "advancement.create_dd.ember_alloy": "Димчастий сплав",
@@ -781,7 +781,7 @@
   "create_dd.ponder.hydraulic_press.header": "Обробкою предметів механічним пресом",
   "create_dd.ponder.hydraulic_press.text_1": "Гідравлічний прес може обробляти предмети під собою",
   "create_dd.ponder.hydraulic_press.text_2": "Вхідні предмети повинні бути кинуті або поміщені на депо під пресом",
-  "create_dd.ponder.hydraulic_press.text_3": "Коли предмети подаються конвеєром...",
+  "create_dd.ponder.hydraulic_press.text_3": "Коли предмети подаються конвеєром…",
   "create_dd.ponder.hydraulic_press.text_4": "...прес буде затримувати та обробляти їх автоматично",
 
   "create_dd.ponder.motors.header": "Генерацією сили обертання двигунами",

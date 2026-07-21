@@ -1,7 +1,7 @@
 {
   "config.entity_features": "Налаштування «Entity Features»",
   "config.entity_features.optifine_settings": "Сумісність з OptiFine",
-  "config.entity_features.search": "Пошук...",
+  "config.entity_features.search": "Пошук…",
   "config.entity_texture_features.settings_button_loc.title": "Розміщення кнопки налаштувань",
   "config.entity_texture_features.settings_button_loc.tooltip": "Визначає, де в меню пакетів ресурсів буде кнопка налаштувань ETF або повністю вимикає її",
   "config.entity_features.button_tooltip": "Відкрити налаштування «Entity Features»",

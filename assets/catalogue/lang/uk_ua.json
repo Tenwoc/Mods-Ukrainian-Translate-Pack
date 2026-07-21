@@ -1,7 +1,7 @@
 {
     "fml.menu.mods.filter_updates": "Показувати лише моди з оновленнями",
     "catalogue.gui.internal_libraries": "Показати внутрішні бібліотеки",
-    "catalogue.gui.no_selection": "Не вибрано жодного модифікатора...",
+    "catalogue.gui.no_selection": "Не вибрано жодного модифікатора…",
     "catalogue.gui.mod_list": "Моди",
     "catalogue.gui.search": "Пошук",
     "catalogue.gui.config": "Конфігурація",
@@ -25,7 +25,7 @@
     "catalogue.gui.sort.alphabetically_reverse": "Я → А",
     "catalogue.gui.sort.favourites_first": "Спершу обрані",
     "catalogue.gui.hide_libraries": "Приховати бібліотеки",
-    "catalogue.gui.no_mods": "Немає модів...",
+    "catalogue.gui.no_mods": "Немає модів…",
     "catalogue.gui.mod_count": "Модів: %s",
     "catalogue.gui.library_count": "Бібліотек: %s",
     "catalogue.gui.advanced_search.info": "Розширені пошукові запити ігноруватимуть активні фільтри",

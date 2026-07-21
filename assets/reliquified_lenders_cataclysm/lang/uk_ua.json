@@ -1,6 +1,6 @@
 {
   "item.reliquified_lenders_cataclysm.scouring_eye": "Око-шукач",
-  "tooltip.relics.scouring_eye.description": "Око, вирване з очниці одного з легендарних монстрів Енду. Попри роки, що минули, воно все ще живе і шукає ціль для наступної битви...",
+  "tooltip.relics.scouring_eye.description": "Око, вирване з очниці одного з легендарних монстрів Енду. Попри роки, що минули, воно все ще живе і шукає ціль для наступної битви…",
   "tooltip.relics.scouring_eye.ability.glowing_scour": "Переслідування",
   "tooltip.relics.scouring_eye.ability.glowing_scour.description": "Запам’ятовує останню ціль, яку гравець атакував протягом %2$s секунд. Коли здатність активована, гравець телепортується до запам’ятованої цілі, а здатність переходить у режим перезаряджання на %1$s секунд.",
   "tooltip.relics.scouring_eye.ability.glowing_scour.predicate.target": "Ціль обрано",
@@ -8,7 +8,7 @@
   "tooltip.relics.scouring_eye.leveling_source.glowing_scour.title": "Переслідування",
   "tooltip.relics.scouring_eye.leveling_source.glowing_scour.description": "+%1$s одиниць досвіду за кожну телепортацію до цілі за допомогою здатності %2$s.",
   "item.reliquified_lenders_cataclysm.void_vortex_in_bottle": "Порожнеча у пляшці",
-  "tooltip.relics.void_vortex_in_bottle.description": "Домашнє завдання учня з сумнозвісної школи магії, де учні проходять смертельні випробування, ловлячи блискавки, хмари або вихори в банки...",
+  "tooltip.relics.void_vortex_in_bottle.description": "Домашнє завдання учня з сумнозвісної школи магії, де учні проходять смертельні випробування, ловлячи блискавки, хмари або вихори в банки…",
   "tooltip.relics.void_vortex_in_bottle.ability.spawn_vortex": "Вихор порожнечі",
   "tooltip.relics.void_vortex_in_bottle.ability.spawn_vortex.description": "Після вбивства цілі викликає вихор порожнечі висотою %1$s блоків, який втягує цілі поблизу і переходить у режим перезаряджання на %3$s секунд. Через 5 секунд вихор вибухає, завдаючи %2$s шкоди всім цілям поблизу. Якщо поблизу є слабший або рівний вихор, він поглинає його, збільшуючи розмір і тривалість дії.",
   "tooltip.relics.void_vortex_in_bottle.leveling_source.spawn_vortex.title": "Вихор порожнечі",

@@ -742,7 +742,7 @@
 
   "tooltip.soulsweapons.essence_of_eventide.part_1": "Ви відчуваєте сильне почуття туги, наче воно",
   "tooltip.soulsweapons.essence_of_eventide.part_2": "відчайдушно хоче повернутися до чогось.",
-  "tooltip.soulsweapons.shard_of_uncertainty.part_1": "Здається, він ідеально встає у певний п’єдестал...",
+  "tooltip.soulsweapons.shard_of_uncertainty.part_1": "Здається, він ідеально встає у певний п’єдестал…",
   "tooltip.soulsweapons.chaos_orb.1": "Всі кольори світла і темряви проходять",
   "tooltip.soulsweapons.chaos_orb.2": "крізь цю кулю. Підкиньте її в небо,",
   "tooltip.soulsweapons.chaos_orb.3": "щоб викликати божеств дня і ночі.",
@@ -792,7 +792,7 @@
   "tooltip.soulsweapons.withered_chest.lore.4": "кінець демонічної раси наближався.",
   "tooltip.soulsweapons.withered_chest.lore.enhanced.1": "Коли серце і егіду наповнюють новою",
   "tooltip.soulsweapons.withered_chest.lore.enhanced.2": "силою і міццю, серце ледь чутно б’ється",
-  "tooltip.soulsweapons.withered_chest.lore.enhanced.3": "ще раз...",
+  "tooltip.soulsweapons.withered_chest.lore.enhanced.3": "ще раз…",
 
   "tooltip.soulsweapons.chungus_emerald.part_1": "Використовуйте для бартеру із помірнорозмірним Чангусом",
   "tooltip.soulsweapons.blood_vial_recipe_page.part_1": "Вирвана сторінка, на якій детально описано, як створювати ампули з кров’ю..",
@@ -806,7 +806,7 @@
   "tooltip.soulsweapons.blood_vial_recipe_page.part_9": "з чудовими цілющими властивостями при застосуванні.",
   "tooltip.soulsweapons.blood_vial_recipe_page.part_10": "",
   "tooltip.soulsweapons.blood_vial_recipe_page.part_11": "Дійсно дивно, як демонічні серця",
-  "tooltip.soulsweapons.blood_vial_recipe_page.part_12": "можуть мати всі ці цінні властивості...",
+  "tooltip.soulsweapons.blood_vial_recipe_page.part_12": "можуть мати всі ці цінні властивості…",
 
   "enchantment.soulsweapons.fast_hands": "Швидкі руки",
   "enchantment.soulsweapons.fast_hands.desc": "Скорочує час заряджання гармат і луків (модель не змінюється).",
@@ -836,8 +836,8 @@
   "advancements.soulsweapons.arkenplate.title": "Ковчег викуплення",
   "advancements.soulsweapons.bloodthirsty.description": "Використовуйте Кровопивцю в стані Спраги крові",
   "advancements.soulsweapons.bloodthirsty.title": "Пофарбуй мене в кров",
-  "advancements.soulsweapons.bluemoon_tools.description": "Створіть зброю з прекрасних каменів, їм не вистачає лише сирої сили...",
-  "advancements.soulsweapons.bluemoon_tools.title": "Е... підробка?",
+  "advancements.soulsweapons.bluemoon_tools.description": "Створіть зброю з прекрасних каменів, їм не вистачає лише сирої сили…",
+  "advancements.soulsweapons.bluemoon_tools.title": "Е… підробка?",
   "advancements.soulsweapons.blunderbuss.description": "Створіть Мисливський пістолет-пукалку, що більший розмір вибуху, то більша шкода!",
   "advancements.soulsweapons.blunderbuss.title": "Судний день",
   "advancements.soulsweapons.cannon.description": "Створіть Мисливську гармату, цільтеся в горобців і обруште руйнівний залп!",
@@ -905,5 +905,5 @@
   "advancements.soulsweapons.verglas.description": "Отримайте крижаний камінь, холодний гладкий матеріал, у якому, здається, замкнена якась особлива рідина",
   "advancements.soulsweapons.verglas.title": "Хибна вода",
   "advancements.soulsweapons.whirligig_sawblade.description": "Отримайте Вихрову пилу. Розтерзайте ворогів у небуття!",
-  "advancements.soulsweapons.whirligig_sawblade.title": "Рвати й місити... до самого кінця."
+  "advancements.soulsweapons.whirligig_sawblade.title": "Рвати й місити… до самого кінця."
 }

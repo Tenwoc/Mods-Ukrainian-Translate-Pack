@@ -86,7 +86,7 @@
   "gui.waystones.inventory.no_waystones_activated": "Ви ще не активували жодного шляхокаменю.",
   "gui.waystones.inventory.confirm_return": "Ви дійсно хочете повернутися до цього шляхокаменю?",
   "gui.waystones.inventory.confirm_return_bound_to": "Прив’язаний до: %s",
-  "gui.waystones.inventory.return_to_waystone": "Повернутися до шляхокаменю...",
+  "gui.waystones.inventory.return_to_waystone": "Повернутися до шляхокаменю…",
   "gui.waystones.inventory.return_to_nearest_waystone": "Повернутися до найближчого шляхокаменю",
   "chat.waystones.waystone_activated": "Активовано шляхокамінь: %s",
   "chat.waystones.scroll_bound": "Сувій прив’язування: %s",

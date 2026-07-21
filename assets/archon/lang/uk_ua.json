@@ -175,7 +175,7 @@
   "text.archon.inigo.spawn": "[Ініго]Готово. Почати плавлення.",
   "text.archon.inigo.kill": "[Ініго]Ціль відправлено.",
   "text.archon.null.spawn": "[Нуль]Все колись закінчується. Це буде твоїм.",
-  "text.archon.null.kill": "[Нуль]Поглинений порожнечею...",
+  "text.archon.null.kill": "[Нуль]Поглинений порожнечею…",
 
   "container.archon.scripture": "Скриптова таблиця",
   "container.archon.add_xp": "Додати досвід",

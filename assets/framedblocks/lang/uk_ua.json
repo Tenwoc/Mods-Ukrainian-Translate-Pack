@@ -501,7 +501,7 @@
   "msg.framedblocks.frame_crafter.fail.unexpected_additive_0": "Неочікуваний додатковий інгредієнт, присутній у першому слоті",
   "msg.framedblocks.frame_crafter.fail.unexpected_additive_1": "Неочікуваний додатковий інгредієнт, присутній у другому слоті",
   "msg.framedblocks.frame_crafter.fail.unexpected_additive_2": "Неочікуваний додатковий інгредієнт, присутній у третьому слоті",
-  "msg.framedblocks.framing_saw.search": "Пошук...",
+  "msg.framedblocks.framing_saw.search": "Пошук…",
   "msg.framedblocks.framing_saw.transfer.invalid_recipe": "Неправильний рецепт",
   "msg.framedblocks.framing_saw.transfer.not_implemented": "Не буде передано жодного предмета",
   "msg.framedblocks.lock_state": "Цей блок наразі %s",

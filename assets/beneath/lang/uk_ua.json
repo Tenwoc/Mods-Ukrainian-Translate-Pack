@@ -165,7 +165,7 @@
   "beneath.screen.lost_page.reward": "Винагорода",
   "beneath.screen.lost_page.punishment": "Покарання",
   "beneath.lost_page.cobble": "Будь-який кругляк",
-  "beneath.punishment": "Ви отримали покарання... %s",
+  "beneath.punishment": "Ви отримали покарання… %s",
   "beneath.enum.punishment.none": "Жодного покарання!",
   "beneath.enum.punishment.levitation": "Левітація!",
   "beneath.enum.punishment.drunkenness": "День пияцтва!",

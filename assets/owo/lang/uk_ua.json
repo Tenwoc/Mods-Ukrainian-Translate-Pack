@@ -4,7 +4,7 @@
   "text.owo.configure_hot_reload.choose_ui_model_source": "Виберіть джерело моделі інтерфейсу",
   "text.owo.configure_hot_reload.save": "Зберегти",
   "text.owo.configure_hot_reload.reload_from.unset": "Unset",
-  "text.owo.config.search": "Пошук...",
+  "text.owo.config.search": "Пошук…",
   "text.owo.config.search.matches": "%d з %d",
   "text.owo.config.search.no_matches": "Немає відповідностей",
   "text.owo.config.must_restart": "Щоб застосувати деякі зміни, потрібно перезапустити систему",

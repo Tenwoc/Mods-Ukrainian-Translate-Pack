@@ -155,7 +155,7 @@
 
 	"gui.immersivepetroleum.derrick.status_console.desc": "Консоль стану щоглового крану",
 	"gui.immersivepetroleum.derrick.msg.disabled": "Вимкнено контролером",
-	"gui.immersivepetroleum.derrick.msg.drilling": "Буріння... %1$s",
+	"gui.immersivepetroleum.derrick.msg.drilling": "Буріння… %1$s",
 	"gui.immersivepetroleum.derrick.msg.out_of_pipes": "Нестача труб",
 	"gui.immersivepetroleum.derrick.msg.not_enough_power": "Недостатньо енергії",
 	"gui.immersivepetroleum.derrick.msg.missing": "Відсутньо: %1$s",
@@ -186,7 +186,7 @@
 	"gui.immersivepetroleum.seismicsurvey.worldcoords": "Світ: x%1$d z%2$d",
 	"gui.immersivepetroleum.seismicsurvey.takenhere": "Зразок було взято тут.",
 	"gui.immersivepetroleum.seismicsurvey.possibility": "Можливий резервуар невідомого типу",
-	"gui.immersivepetroleum.seismicsurvey.awaitingresponse": "Очікування даних від сервера...",
+	"gui.immersivepetroleum.seismicsurvey.awaitingresponse": "Очікування даних від сервера…",
 	
 	"_comment": "################## Effects ##################",
 	

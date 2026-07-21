@@ -832,7 +832,7 @@
   "effect.extradelight.sour_pucker.description": "Звужує ваше поле зору!",
   "effect.extradelight.sunshine": "Сонячне світло",
   "effect.extradelight.sunshine.description": "Зменшує рівень темряви/сліпоти",
-  "extradelight.advancement.badfood.desc": "Можливо, їсти те, що ви знайшли в підземеллі, було не найкращою ідеєю...",
+  "extradelight.advancement.badfood.desc": "Можливо, їсти те, що ви знайшли в підземеллі, було не найкращою ідеєю…",
   "extradelight.advancement.badfood.name": "Настінне курча",
   "extradelight.advancement.burn_mint.desc": "Підпаліть м’яту.",
   "extradelight.advancement.burn_mint.name": "Як тобі таке, кропиво?!",
@@ -889,7 +889,7 @@
   "extradelight.advancement.keg.desc": "Зробіть кег.",
   "extradelight.advancement.keg.name": "Наливай!",
   "extradelight.advancement.lid.desc": "Зробіть кришку для своєї чаші, чи голови",
-  "extradelight.advancement.lid.name": "Накрийте кришкою та потримайте 5 хвилин...",
+  "extradelight.advancement.lid.name": "Накрийте кришкою та потримайте 5 хвилин…",
   "extradelight.advancement.meals.desc": "Приготуйте всі доступні страви.",
   "extradelight.advancement.meals.name": "Справжній гурман",
   "extradelight.advancement.melting_pot.desc": "Зробіть водяну баню.",
@@ -905,7 +905,7 @@
   "extradelight.advancement.pickle.desc": "Отримайте огірок, а може два",
   "extradelight.advancement.pickle.name": "Гей-гей-гей!",
   "extradelight.advancement.sink.desc": "Зробіть раковину.",
-  "extradelight.advancement.sink.name": "Все що завгодно, крім...",
+  "extradelight.advancement.sink.name": "Все що завгодно, крім…",
   "extradelight.advancement.snacks.desc": "Зробіть кожну доступну закуску.",
   "extradelight.advancement.snacks.name": "Закуси!",
   "extradelight.advancement.spoon.desc": "Зробіть ложку, вона вам знадобиться.",
@@ -928,7 +928,7 @@
   "extradelight.container.chiller.not_chilled": "Не охолоджено",
   "extradelight.container.oven": "Піч для випікання",
   "extradelight.container.oven.served_on": "Подається у %s",
-  "extradelight.corn_dimension.death": "Наступного разу будьте обережнішими на кукурудзяному полі...",
+  "extradelight.corn_dimension.death": "Наступного разу будьте обережнішими на кукурудзяному полі…",
   "extradelight.dynamicname.1": "%s",
   "extradelight.dynamicname.2": "%s %s",
   "extradelight.dynamicname.3": "%s та %s %s",
@@ -1806,5 +1806,5 @@
   "tag.item.extradelight.toast_or_bread_slice": "Скибочка хліба, звичайна та підсмажена",
   "tag.item.extradelight.toast_topping": "Начинки для тостів",
   "tooltip.dynamic.ingredients": "Інгредієнти",
-  "tooltip.see_more": "Натисніть Shift, щоб побачити більше..."
+  "tooltip.see_more": "Натисніть Shift, щоб побачити більше…"
 }

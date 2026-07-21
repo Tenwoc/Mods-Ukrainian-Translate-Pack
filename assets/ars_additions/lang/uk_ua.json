@@ -36,7 +36,7 @@
   "tooltip.ars_additions.exploration_warp_scroll.desc": "Цей стародавній варп-сувій вщерть наповнений нестабільною магією.",
   "tooltip.ars_additions.exploration_warp_scroll.failed": "Не вдається знайти найближчу структуру.",
   "tooltip.ars_additions.exploration_warp_scroll.located": "Знайдена структура. Щасти.",
-  "tooltip.ars_additions.exploration_warp_scroll.locating": "Пошук структури...",
+  "tooltip.ars_additions.exploration_warp_scroll.locating": "Пошук структури…",
   "tooltip.ars_additions.exploration_warp_scroll.use": "Киньте в рамку зруйнованого варп-порталу або натисніть %s для телепортації.",
 
   "chat.ars_additions.warp_index.bound": "Прив’язано до: %s",

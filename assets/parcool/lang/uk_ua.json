@@ -110,7 +110,7 @@
   "parcool.message.zipline.set_point": "Встановлена точка : [%s]",
   "parcool.message.zipline.reset_point": "Скинути реєстрацію точки",
   "parcool.message.zipline.change_tension": "Змінити натяг : %s",
-  "parcool.message.error.limitation.not_synced": "[Попередження] Обмеження ParCool не синхронізовано. Відправлено запит на сервер. Зачекайте, будь ласка...",
+  "parcool.message.error.limitation.not_synced": "[Попередження] Обмеження ParCool не синхронізовано. Відправлено запит на сервер. Зачекайте, будь ласка…",
   "parcool.message.error.limitation.fail_sync": "[Помилка] Не вдалося синхронізувати обмеження ParCool. Можливо, є проблеми з підключенням до сервера. Якщо після перевірки підключення проблема не вирішилася, повідомте про це розробника.",
   "parcool.command.message.invalidActionName": "Немає такої дії : %s",
   "parcool.command.message.invalidConfigName": "Немає такого обмеження : %s",

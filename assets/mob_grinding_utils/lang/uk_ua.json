@@ -109,7 +109,7 @@
   "block.mob_grinding_utils.dragon_muffler.tooltip_2": "в радіусі 32 блоків.",
   "block.mob_grinding_utils.dragon_muffler.tooltip_3": "Натисніть ПКМ щоб приховати панель боса.",
 
-  "block.mob_grinding_utils.dark_oak_stone.tooltip_1": "А вони казали, що це неможливо...",
+  "block.mob_grinding_utils.dark_oak_stone.tooltip_1": "А вони казали, що це неможливо…",
 
   "block.mob_grinding_utils.entity_conveyor.tooltip_1": "Конвеєр для переміщення мобів і предметів вздовж горизонтального напрямку.",
   "block.mob_grinding_utils.entity_conveyor.tooltip_2": "На цьому блоці можуть з’являтися моби.",
@@ -155,7 +155,7 @@
   "tooltip.fanupgrade_distance": "Модифікатор відстані: +1. Максимум 10.",
 
   "tooltip.chickenfeed_1": "Корм для курей.",
-  "tooltip.chickenfeed_2": "Одноразове використання для курки...",
+  "tooltip.chickenfeed_2": "Одноразове використання для курки…",
   "tooltip.chickenfeed_3": "Містить:",
   "tooltip.chickenfeed_4": "Створює гниле яйце.",
   "tooltip.chickenfeed_5": "Золоте яйце.",

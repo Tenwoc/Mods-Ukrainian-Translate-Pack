@@ -50,7 +50,7 @@
   "text.universal_shops.price": "Ціна: %s",
   "text.universal_shops.select_anything": "Виберіть будь-що",
   "text.universal_shops.free": "Безкоштовно",
-  "text.universal_shops.configure": "Налаштувати...",
+  "text.universal_shops.configure": "Налаштувати…",
   "text.universal_shops.virtual_money.cant_store": "Неможливо зберегти баланс!",
   "text.universal_shops.virtual_money.not_enough_money": "Транзакція не вдалася! %s",
   "text.universal_shops.virtual_money.no_account": "Ви не маєте необхідного облікового запису!",

@@ -146,10 +146,10 @@
 
   "entity.graveyard.ghouling.wait": "Я залишуся тут.",
   "entity.graveyard.ghouling.nowait": "Я піду за тобою.",
-  "entity.graveyard.ghouling.spawn": "Я слухаю і виконую...",
-  "entity.graveyard.ghouling.respawn": "Смерть... лише невеличка незручність.",
+  "entity.graveyard.ghouling.spawn": "Я слухаю і виконую…",
+  "entity.graveyard.ghouling.respawn": "Смерть… лише невеличка незручність.",
   "entity.graveyard.ghouling.obey": "Я не виконуватиму твоїх наказів, ти мені не господар!",
-  "entity.graveyard.nameless_hanged.wait": "Так, я бачу тебе... але дай мені хоч раз насолодитися сонцем. Повертайся вночі.",
+  "entity.graveyard.nameless_hanged.wait": "Так, я бачу тебе… але дай мені хоч раз насолодитися сонцем. Повертайся вночі.",
 
   "subtitles.entity.graveyard.ghouling.spawn": "Упир з’являється",
   "subtitles.entity.graveyard.ghouling.death": "Упир гине",
@@ -204,7 +204,7 @@
   "subtitles.item.graveyard.vial.splash": "Капає кров",
   "subtitles.entity.graveyard.nameless_hanged.ambient": "Rope creaks",
   "subtitles.entity.graveyard.nameless_hanged.breath": "Безіменний повішений бореться за життя",
-  "subtitles.entity.graveyard.nameless_hanged.interact": "Безіменний повішений бачить вас наскрізь...",
+  "subtitles.entity.graveyard.nameless_hanged.interact": "Безіменний повішений бачить вас наскрізь…",
   "subtitles.block.graveyard.coffin.open": "Труна зі скрипом відкривається",
   "subtitles.block.graveyard.coffin.close": "Труна закривається",
   "subtitles.block.graveyard.ossuary.open": "Кістниця відкривається",
