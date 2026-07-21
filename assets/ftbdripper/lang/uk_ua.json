@@ -1,4 +1,7 @@
 {
 	"item.ftbdripper.water_bowl": "Миска води",
-	"block.ftbdripper.dripper": "Крапельник"
+	"block.ftbdripper.dripper": "Крапельник",
+	"ftbdripper.messages.empty": "Порожньо",
+	"ftbdripper.messages.not_empty": "%d/%d з %s",
+	"ftbdripper.messages.chance": "Шанс: %s%%"
 }
