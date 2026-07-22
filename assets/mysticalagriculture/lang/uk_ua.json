@@ -297,7 +297,7 @@
   "tooltip.mysticalagriculture.mst_id": "MST ID: %s",
   "tooltip.mysticalagriculture.augment_id": "ID доповнення: %s",
   "tooltip.mysticalagriculture.added_by": "Додано: %s",
-  "tooltip.mysticalagriculture.set_bonus": "Ефект добіру: %s",
+  "tooltip.mysticalagriculture.set_bonus": "Ефект комплекту: %s",
   "tooltip.mysticalagriculture.augments": "Доповнення:",
   "tooltip.mysticalagriculture.required_biomes": "Необхідні біоми:",
   "tooltip.mysticalagriculture.chance": "Шанс: %s",

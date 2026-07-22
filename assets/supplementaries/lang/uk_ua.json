@@ -348,7 +348,7 @@
   "gui.supplementaries.lunch_basket": "Кошик для обіду",
   "gui.supplementaries.notice_board": "Інформаційна дошка",
   "gui.supplementaries.optifine.message": "Перш ніж продовжити, зверніть увагу, що Optifine відомий тим, що викликає проблеми та збої.\n\n Мод не підходить для модифікованого середовища та мав багато випадків жахливої ​​сумісності навіть із самим Forge.\n\n Щобільше, з погляду продуктивності, існують набагато кращі та надзвичайно продуктивніші альтернативи, такі як Modern fix, Sodium, а також Iris для шейдерів.\n\nНезалежно від того, граєте ви в модифіковану чи звичайну версію, вам завжди слід використовувати моди, перелічені нижче.",
-  "gui.supplementaries.optifine.suggestions": "Ось добірка модів, які ми рекомендуємо використовувати замість них.",
+  "gui.supplementaries.optifine.suggestions": "Ось комплектка модів, які ми рекомендуємо використовувати замість них.",
   "gui.supplementaries.optifine.title": "ПОПЕРЕДЖЕННЯ: ВИЯВЛЕНО OPTIFINE",
   "gui.supplementaries.orange_trader.get": "Я отримаю:",
   "gui.supplementaries.orange_trader.receive": "Ти отримаєш:",

@@ -649,7 +649,7 @@
   "tooltip.enigmaticlegacy.etheriumChestplate1": "§5Невидиме коли одягнуто.",
   "tooltip.enigmaticlegacy.etheriumLeggings1": "§5Невидимі коли одягнуті.",
   "tooltip.enigmaticlegacy.etheriumBoots1": "§5Невидимі коли одягнуті.",
-  "tooltip.enigmaticlegacy.etheriumArmorSetBonus1": "§dЕфект добіру:",
+  "tooltip.enigmaticlegacy.etheriumArmorSetBonus1": "§dЕфект комплекту:",
   "tooltip.enigmaticlegacy.etheriumArmorSetBonus2": "§5- Коли ваше здоров’я падає нижче §6%1$s§5, генерує",
   "tooltip.enigmaticlegacy.etheriumArmorSetBonus3": "§5  потужний щит, який відбиває більшість снарядів,",
   "tooltip.enigmaticlegacy.etheriumArmorSetBonus4": "§5  забезпечує §6%1$s§6 стійкости§5 і відкидає",
@@ -1609,7 +1609,7 @@
   
   
   "book.enigmaticlegacy.entry.etherium_armor.name": "Етерієва броня",
-  "book.enigmaticlegacy.entry.etherium_armor.heading.1": "Добір обладунків",
+  "book.enigmaticlegacy.entry.etherium_armor.heading.1": "Комплект обладунків",
   "book.enigmaticlegacy.entry.etherium_armor.page.1": "Звичайно, вам не знадобилося багато часу, щоб здогадатися, що новознайдена сила етерію може стати в пригоді у спробі викувати ідеальну броню. Етерієві обладунки, можливо, не є справді досконалими, але вони перевершують все, що ви можете створити або на що можете претендувати.<br2/>Одна з їхніх перших помітних властивостей полягає в тому, що якщо ви вдягнете їх на своє тіло,",
   "book.enigmaticlegacy.entry.etherium_armor.page.2": "то самі обладунки стануть абсолютно невидимими і важитимуть набагато менше, ніж обладунки, викувані зі звичайних металів. Доки щось не спробує взаємодіяти з вами або з цим обладунком, можна навіть забути, що ви його носите, настільки непомітною є його вага для того, хто його носить.",
   "book.enigmaticlegacy.entry.etherium_armor.page.3": "Ця легкість, однак, не означає, що вони гірше поглинає ворожі атаки. Обладунки перевершують навіть незеритову броню, яку надзвичайно важко пробити. До того ж вони неймовірно міцні - навіть найбільш нищівні удари не залишають на їхній поверхні жодної подряпини.<br2/>І, ніби цього було недостатньо, окремі частини обладунку ніби резонують одна з одною, спонукаючи вивільнити внутрішню енергію металу.",

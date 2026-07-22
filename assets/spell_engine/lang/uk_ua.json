@@ -156,7 +156,7 @@
   "gui.spell_engine.spell_binding.available" : "Зв’язати заклинання",
   "gui.spell_engine.spell_binding.level_req_fail" : "Потрібний рівень: %s",
 
-  "equipment_set.logic.bonus.count" : "(%s) Добір: ",
+  "equipment_set.logic.bonus.count" : "(%s) Комплект: ",
   "equipment_set.test.fire_power" : "Вогняна регалія",
 
   "advancements.rpg_classes.root.title": "Заклинання",

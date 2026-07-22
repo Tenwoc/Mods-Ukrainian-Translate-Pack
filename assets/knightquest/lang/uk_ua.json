@@ -220,8 +220,8 @@
   "tooltip.item.knightquest.squire_helmet": "§8§oЧомусь Самайн обожнює цей капелюх…",
   "block.knightquest.great_chalice": "Велика чаша",
 
-  "tooltip.item.knightquest.set_bonus": "Ефект добіру:",
-  "tooltip.item.knightquest.full_set_bonus": "Ефект повного добіру:",
+  "tooltip.item.knightquest.set_bonus": "Ефект комплекту:",
+  "tooltip.item.knightquest.full_set_bonus": "Ефект повного комплекту:",
   "tooltip.item.knightquest.full_helmet_bonus": "Ефект шолома:",
   "tooltip.item.knightquest.bat_helmet.bonus": "§7§o-Надає нічний зір вночі",
   "tooltip.item.knightquest.path_helmet.bonus": "§7§o-Надає швидкість вдень",
