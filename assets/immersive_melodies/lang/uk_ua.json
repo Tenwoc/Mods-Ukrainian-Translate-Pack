@@ -2,16 +2,23 @@
   "itemGroup.immersive_melodies.immersive_melodies_tab": "Immersive Melodies",
 
   "item.immersive_melodies.bagpipe": "Волинка",
-  "item.immersive_melodies.didgeridoo": "Диджериду",
+  "item.immersive_melodies.didgeridoo": "Диджеріду",
   "item.immersive_melodies.flute": "Флейта",
   "item.immersive_melodies.lute": "Лютня",
   "item.immersive_melodies.piano": "Фортепіано",
   "item.immersive_melodies.triangle": "Трикутник",
   "item.immersive_melodies.trumpet": "Труба",
+  "item.immersive_melodies.tiny_drum": "Маленький барабан",
+  "item.immersive_melodies.vielle": "Фідель",
+  "item.immersive_melodies.ender_bass": "Ендерова шарманка",
+  "item.immersive_melodies.handpan": "Гендпан",
 
   "immersive_melodies.playing": "Грає",
 
-  "immersive_melodies.error.empty": "Не вдається розібрати файл.",
+  "immersive_melodies.error.empty": "Не вдається прочитати файл.",
+  "immersive_melodies.error.unknown_file_type": "Тип файлу має бути .abc або .midi.",
+  "immersive_melodies.error.upload.no_permission": "Вам не надано дозволу завантажувати файли!",
+  "immersive_melodies.free_playing": "Грайте ноти своєю клавіатурою!",
 
   "immersive_melodies.close": "Закрити",
   "immersive_melodies.search": "Пошук",
@@ -19,7 +26,9 @@
   "immersive_melodies.remove_favorite": "Видалити з улюбленого",
   "immersive_melodies.delete": "Видалити",
   "immersive_melodies.play": "Грати",
+  "immersive_melodies.tracks": "Список треків",
   "immersive_melodies.help": "Відкрити довідку",
   "immersive_melodies.pause": "Пауза",
-  "immersive_melodies.read": "Натисніть, щоб дізнатися, як додати свої мелодії!"
+  "immersive_melodies.read": "Натисніть, щоб дізнатися, як додати свої треки!",
+  "immersive_melodies.keyboard": "Грайте за допомогою власної клавіатури!"
 }

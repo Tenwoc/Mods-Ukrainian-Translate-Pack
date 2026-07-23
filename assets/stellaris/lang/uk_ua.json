@@ -300,7 +300,7 @@
   "block.stellaris.water_separator": "Водний сепаратор",
   "block.stellaris.oxygen_distributor": "Розподільник кисню",
   "block.stellaris.vacuumator": "Вакууматор",
-  "block.stellaris.pumpjack": "Видобувна качалка",
+  "block.stellaris.pumpjack": "Верстат-гойдалка",
   "block.stellaris.fuel_refinery": "Нафтопереробник",
   "block.stellaris.upgrade_station": "Станція вдосконалення",
   "block.stellaris.diesel_generator": "Дизельний генератор",
@@ -443,7 +443,7 @@
   "item.stellaris.oxygen_tank": "Кисневий балон",
   "item.stellaris.big_oxygen_tank": "Великий кисневий балон",
 
-  "item.stellaris.pumpjack_drill": "Бур видобувної качалки",
+  "item.stellaris.pumpjack_drill": "Бур верстата-гойдалки",
 
   "item.stellaris.raw_steel_ingot": "Злиток необробленої сталі",
   "item.stellaris.raw_desh_ingot": "Злиток необробленого дешу",

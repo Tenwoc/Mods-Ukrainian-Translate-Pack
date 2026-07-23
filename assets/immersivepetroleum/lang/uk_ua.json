@@ -4,7 +4,7 @@
 	"_comment": "################## Blocks ##################",
 	
 	"block.immersivepetroleum.fluid_diesel": "Дизель",
-	"block.immersivepetroleum.fluid_crude_oil": "Сира нафта",
+	"block.immersivepetroleum.fluid_crude_oil": "Нафта",
 	"block.immersivepetroleum.fluid_lubricant": "Мастило",
 	"block.immersivepetroleum.fluid_gasoline": "Бензин",
 	"block.immersivepetroleum.fluid_napalm": "Напалм",
@@ -20,7 +20,7 @@
 	"block.immersivepetroleum.flarestack": "Факельна лінія",
 	"block.immersivepetroleum.seismic_survey": "Інструмент сейсмічної розвідки",
 	
-	"block.immersivepetroleum.pumpjack": "Качалка",
+	"block.immersivepetroleum.pumpjack": "Верстат-гойдалка",
 	"block.immersivepetroleum.distillation_tower": "Дистиляційна вежа",
 	"block.immersivepetroleum.coker_unit": "Коксувальний агрегат",
 	"block.immersivepetroleum.hydrotreater": "Нафтоперероблювальна устава високого тиску",
@@ -29,7 +29,7 @@
 	
 	"fluid_type.immersivepetroleum.diesel": "Дизель",
 	"fluid_type.immersivepetroleum.diesel_sulfur": "Сульфований дизель",
-	"fluid_type.immersivepetroleum.crudeoil": "Сира нафта",
+	"fluid_type.immersivepetroleum.crudeoil": "Нафта",
 	"fluid_type.immersivepetroleum.lubricant": "Мастило",
 	"fluid_type.immersivepetroleum.gasoline": "Бензин",
 	"fluid_type.immersivepetroleum.napalm": "Напалм",
@@ -54,7 +54,7 @@
 	"item.immersivepetroleum.petcoke_dust": "Пил нафтового коксу",
 	"item.immersivepetroleum.diesel_bucket": "Відро дизелю",
 	"item.immersivepetroleum.diesel_sulfur_bucket": "Відро сульфованого дизелю",
-	"item.immersivepetroleum.crudeoil_bucket": "Відро сирої нафти",
+	"item.immersivepetroleum.crudeoil_bucket": "Відро нафти",
 	"item.immersivepetroleum.lubricant_bucket": "Відро мастила",
 	"item.immersivepetroleum.gasoline_bucket": "Відро бензину",
 	"item.immersivepetroleum.napalm_bucket": "Відро напалму",
@@ -201,7 +201,7 @@
 	"ie.manual.entry.reservoirs.title": "Рідинні резервуари",
 	"ie.manual.entry.reservoirs.subtitle": "Чорне золото",
 	
-	"ie.manual.entry.reservoirs.oil0": "Під час видобутку корисних копалин поблизу корінних порід ви іноді помічали плямисту чорну легкозаймисту речовину: <link;immersivepetroleum:fluids;§o§nсиру нафту§r>. Сира нафта — це лише одна з багатьох рідин, які можна знайти під корінною породою, але ви не зможете самостійно розкрити ці запаси.\n\nЗа допомогою <link;immersivepetroleum:derrick;§o§nспеціально §o§ndрозробленої §o§nмашини§r> ви можете отримати доступ до вмісту цих родовищ.<np>",
+	"ie.manual.entry.reservoirs.oil0": "Під час видобутку корисних копалин поблизу корінних порід ви іноді помічали плямисту чорну легкозаймисту речовину: <link;immersivepetroleum:fluids;§o§nнафту§r>. Нафта — це лише одна з багатьох рідин, які можна знайти під корінною породою, але ви не зможете самостійно розкрити ці запаси.\n\nЗа допомогою <link;immersivepetroleum:derrick;§o§nспеціально §o§ndрозробленої §o§nмашини§r> ви можете отримати доступ до вмісту цих родовищ.<np>",
 	"ie.manual.entry.reservoirs.oil1": "§o§nІнструмент §o§nсейсмічної §o§nрозвідки§r можна використовувати для пошуку родовищ рідини шляхом прослуховування відбитих інфразвукових хвиль від вибуху <link;revolver_cartridges;§o§nдробових патронів§r;buckshot>. Потрібно завантажити дробові патрони та клацнути ПКМ, щоб створити карту навколишніх рідинних родовищ, яку можна використовувати для тріангуляції їх точного розміщення.<np>",
 	"ie.manual.entry.reservoirs.oil2": "З одного родовища може надходити лише один тип рідини, типи яких перелічені на наступних сторінках.<np>",
 	
@@ -219,7 +219,7 @@
 	
 	"ie.manual.entry.reservoirs.content": "%1$s %6$s\nВоно містить від %3$s до %4$s відер %2$s.%5$s",
 	"ie.manual.entry.reservoirs.replenish": "\nПісля того, як тиск у родовищі опуститься нижче %3$dB, %1$dmB/такт відстеженого %2$s поповниться до рівноважного тиску.",
-	"ie.manual.entry.reservoirs.replenish_depleted": "\nПісля вичерпання родовища, %1$dmB/такт відстеженого %2$s можна витягти за допомогою качалки.",
+	"ie.manual.entry.reservoirs.replenish_depleted": "\nПісля вичерпання родовища, %1$dmB/такт відстеженого %2$s можна витягти за допомогою гойдалки.",
 	
 	"_comment": "################## Chat ##################",
 	
@@ -252,7 +252,7 @@
 	"advancement.immersivepetroleum.mb_oiltank": "Самопідживлювальна слава!",
 	"advancement.immersivepetroleum.mb_oiltank.desc": "Сконструюйте резервуар для нафти",
 	"advancement.immersivepetroleum.mb_pumpjack": "Це жахливо!",
-	"advancement.immersivepetroleum.mb_pumpjack.desc": "Сконструюйте качалку",
+	"advancement.immersivepetroleum.mb_pumpjack.desc": "Сконструюйте верстат-гойдалку",
 	"advancement.immersivepetroleum.mb_distillationtower": "Це тільки початок",
 	"advancement.immersivepetroleum.mb_distillationtower.desc": "Сконструюйте дистиляційну вежу",
 	"advancement.immersivepetroleum.bitumen": "Вона така липка!",
