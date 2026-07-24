@@ -1,10 +1,10 @@
 {
-  "screen.screenshot_viewer.manage_screenshots": "Керування знімками екрана...",
+  "screen.screenshot_viewer.manage_screenshots": "Керування знімками екрана…",
   "screen.screenshot_viewer.screenshot_manager.zoom": "Режим масштабування (утримуйте Ctrl)",
   "screen.screenshot_viewer.screenshot_manager.no_screenshots": "Схоже, ви ще не зробили жодного знімка екрана!",
   "screen.screenshot_viewer.button.refresh": "Оновити знімки екрана",
   "screen.screenshot_viewer.no_config": "Конфігурація в грі не підтримується. Подумайте про встановлення модифікації 'Configured'.",
-  "screen.screenshot_viewer.button.config": "Налаштувати...",
+  "screen.screenshot_viewer.button.config": "Налаштувати…",
   "screen.screenshot_viewer.button.order": "Порядок сортування",
   "screen.screenshot_viewer.button.order.ascending": "Сортування за зростанням",
   "screen.screenshot_viewer.button.order.descending": "Сортування за спаданням",

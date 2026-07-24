@@ -19,7 +19,7 @@
   "ftbessentials.teleport.history_empty": "Історія телепортацій порожня!",
   "ftbessentials.teleport.max_less_than_min": "Максимальна відстань телепортації не може бути меншою за мінімальну!",
   "ftbessentials.rtp.not_here": "Ви не можете використовувати /rtp у цьому вимірі!",
-  "ftbessentials.rtp.looking": "Пошук випадкової локації...",
+  "ftbessentials.rtp.looking": "Пошук випадкової локації…",
   "ftbessentials.rtp.found": "Знайдено вдалу локацію після %s спроб(и) @ %s",
   "ftbessentials.rtp.failed": "Не вдалося знайти дійсну локацію для телепортації!",
   "ftbessentials.jump.failed": "Не можна стрибнути: %s",

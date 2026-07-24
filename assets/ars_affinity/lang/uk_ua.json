@@ -128,7 +128,7 @@
   "tooltip.ars_affinity.anchor_charm.shift_info": "Споживає один заряд за виконання закляття",
   "chat.ars_affinity.anchor_charm.charging_started": "Розпочато підзарядку %s",
   "tooltip.ars_affinity.anchor_charm.charging": "Підзарядка %s",
-  "tooltip.ars_affinity.anchor_charm.charging_progress": "Заряджання... %d%%",
+  "tooltip.ars_affinity.anchor_charm.charging_progress": "Заряджання… %d%%",
 
   "ars_affinity.source_per_charge": "Джерело за заряд: %d",
   "ars_affinity.point_allocated.message": "Ваша спорідненість: %s, збільшилася на %s %s",
@@ -159,7 +159,7 @@
   "advancements.ars_affinity.affinity_earth_mastery.description": "Заробіть усі доступні очки спорідненості школи Землі.",
   "advancements.ars_affinity.affinity_air_mastery.title": "Як приборкати повітря",
   "advancements.ars_affinity.affinity_air_mastery.description": "Заробіть усі доступні очки спорідненості школи Повітря.",
-  "advancements.ars_affinity.affinity_abjuration_mastery.title": "Ти... не мій син",
+  "advancements.ars_affinity.affinity_abjuration_mastery.title": "Ти… не мій син",
   "advancements.ars_affinity.affinity_abjuration_mastery.description": "Заробіть усі доступні очки спорідненості школи Зречення.",
   "advancements.ars_affinity.affinity_conjuration_mastery.title": "Для мого наступного трюку мені знадобиться Ксівілай",
   "advancements.ars_affinity.affinity_conjuration_mastery.description": "Заробіть усі доступні очки спорідненості школи Виклику.",

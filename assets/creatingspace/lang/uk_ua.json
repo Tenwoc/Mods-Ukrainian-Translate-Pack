@@ -298,8 +298,8 @@
   "container.creatingspace.synthesizer": "Синтез",
 
   "creatingspace.ponder.rocket_building.header": "Будівництво ракет",
-  "creatingspace.ponder.rocket_building.text_1": "Щоб побудувати ракету, потрібне управління ракетою...",
-  "creatingspace.ponder.rocket_building.text_2": "...Достатньо пального, метан і кисень у рівній пропорції...",
+  "creatingspace.ponder.rocket_building.text_1": "Щоб побудувати ракету, потрібне управління ракетою…",
+  "creatingspace.ponder.rocket_building.text_2": "...Достатньо пального, метан і кисень у рівній пропорції…",
   "creatingspace.ponder.rocket_building.text_3": "...І достатня тяга, щоб підняти ракету",
   "creatingspace.ponder.rocket_building.text_4": "Сидіння може запобігти падінню з ракети",
   "creatingspace.ponder.rocket_building.text_5": "Якщо немає достатньої тяги або пального, ракета відмовиться летіти",
@@ -322,7 +322,7 @@
 
 
   "creatingspace.ponder.synthesizer.header": "Створювання метану",
-  "creatingspace.ponder.synthesizer.text_1": "Вам потрібно додати водень сюди...",
+  "creatingspace.ponder.synthesizer.text_1": "Вам потрібно додати водень сюди…",
   "creatingspace.ponder.synthesizer.text_2": "...Потім покласти вугільний пил, та зачекати поки метан створиться",
   "creatingspace.ponder.synthesizer.text_3": "Машина створює 320мВ метану кожні 4 секунди",
 

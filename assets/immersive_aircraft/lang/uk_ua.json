@@ -9,8 +9,6 @@
   "key.immersive_aircraft.multi_control_down": "Вниз",
   "key.immersive_aircraft.multi_control_pull": "Тягнути руль",
   "key.immersive_aircraft.multi_control_push": "Штовхнути руль",
-  "key.immersive_aircraft.multi_dismount": "Злізти",
-  "key.immersive_aircraft.multi_boost": "Ракетний прискорювач",
   "key.immersive_aircraft.multi_use": "Використовувати зброю/машину",
 
   "key.immersive_aircraft.fallback_control_left": "Ліворуч",
@@ -21,15 +19,18 @@
   "key.immersive_aircraft.fallback_control_down": "Вниз",
   "key.immersive_aircraft.fallback_control_pull": "Тягнути руль",
   "key.immersive_aircraft.fallback_control_push": "Штовхнути руль",
-  "key.immersive_aircraft.fallback_dismount": "Злізти",
-  "key.immersive_aircraft.fallback_boost": "Ракетний прискорювач",
   "key.immersive_aircraft.fallback_use": "Використовувати зброю/машину",
+
+  "key.immersive_aircraft.dismount": "Злізти",
+  "key.immersive_aircraft.boost": "Ракетне прискорення",
 
   "entity.immersive_aircraft.airship": "Дирижабль",
   "entity.immersive_aircraft.cargo_airship": "Вантажний дирижабль",
+  "entity.immersive_aircraft.warship": "Бойовий дирижабль",
   "entity.immersive_aircraft.biplane": "Біплан",
   "entity.immersive_aircraft.gyrodyne": "Гвинтокрил",
   "entity.immersive_aircraft.quadrocopter": "Квадрокоптер",
+  "entity.immersive_aircraft.bamboo_hopper": "Бамбуковий двобалковий літак",
 
   "item.immersive_aircraft.hull": "Корпус",
   "item.immersive_aircraft.engine": "Двигун",
@@ -44,6 +45,8 @@
   "item.immersive_aircraft.industrial_gears": "Промислові шестерні",
   "item.immersive_aircraft.sturdy_pipes": "Стійкі труби",
   "item.immersive_aircraft.gyroscope": "Гіроскоп",
+  "item.immersive_aircraft.gyroscope_dials": "Вдосконалений гіроскоп",
+  "item.immersive_aircraft.gyroscope_hud": "Електронний гіроскоп",
   "item.immersive_aircraft.hull_reinforcement": "Зміцнення корпусу",
   "item.immersive_aircraft.improved_landing_gear": "Покращені шасі",
 
@@ -62,15 +65,19 @@
 
   "item.immersive_aircraft.airship": "Дирижабль",
   "item.immersive_aircraft.cargo_airship": "Вантажний дирижабль",
+  "item.immersive_aircraft.warship": "Бойовий дирижабль",
   "item.immersive_aircraft.biplane": "Біплан",
   "item.immersive_aircraft.gyrodyne": "Гвинтокрил",
   "item.immersive_aircraft.quadrocopter": "Квадрокоптер",
+  "item.immersive_aircraft.bamboo_hopper": "Бамбуковий двобалковий літак",
 
   "item.immersive_aircraft.airship.description": "Дирижаблі, це звісно не найшвидший вид транспорту, але ними легко маневрувати.",
   "item.immersive_aircraft.cargo_airship.description": "Повільний і ненажерливий, але перевозить цілий склад.",
+  "item.immersive_aircraft.warship.description": "Летюча фортеця — повільна, але добре озброєна.",
   "item.immersive_aircraft.biplane.description": "Швидко і досить надійно. Переконайтеся, що ваша злітно-посадкова смуга достатньо довга.",
   "item.immersive_aircraft.gyrodyne.description": "Навіщо цілий двигун, якщо можна запустити літак своїми силами? Гарненько штовхніть - і він полетить!",
   "item.immersive_aircraft.quadrocopter.description": "Шедевр інженерної думки! 4 двигуни, прив’язані до бамбука. Ідеально для будівництва, та й на цьому все.",
+  "item.immersive_aircraft.bamboo_hopper.description": "Масивний літак із трьома сидіннями та понтонами, що дозволяють безпечно приземлятися на воду.",
 
   "immersive_aircraft.gyrodyne_target": "%d%% потужності, продовжуйте штовхати!",
   "immersive_aircraft.gyrodyne_target_reached": "Необхідна частота досягнута, готовий до зльоту!",
@@ -95,11 +102,12 @@
   "option.immersive_aircraft.windClearWeather": "Базовий ефект вітру.",
   "option.immersive_aircraft.windRainWeather": "Вітер під час дощу.",
   "option.immersive_aircraft.windThunderWeather": "Додатковий вітер під час грози.",
-  "option.immersive_aircraft.repairSpeed": "Відновлення в один клік.",
+  "option.immersive_aircraft.repairSpeed": "Відновлення на клік.",
+  "option.immersive_aircraft.repairExhaustion": "Виснаження гравця на клік",
   "option.immersive_aircraft.collisionDamage": "Пошкодження при зіткненні.",
   "option.immersive_aircraft.burnFuelInCreative": "Спалюйте паливо у творчому режимі.",
   "option.immersive_aircraft.acceptVanillaFuel": "Прийміть ванільне паливо.",
-  "option.immersive_aircraft.useCustomKeybindSystem": "Використання комбінацій клавіш може призвести до поломки деяких модів.",
+  "option.immersive_aircraft.useCustomKeybindSystem": "Використання комбінацій клавіш може призвести до несправностей деяких модів.",
   "option.immersive_aircraft.showHotbarEngineGauge": "Відобразити індикатор двигуна над панеллю інструментів.",
   "option.immersive_aircraft.enableCrashExplosion": "Увімкнути вибух.",
   "option.immersive_aircraft.enableCrashBlockDestruction": "Увімкнути руйнівний вибух.",
@@ -109,6 +117,14 @@
   "option.immersive_aircraft.preventKillThroughCrash": "Не вб’є гравця при падінні.",
   "option.immersive_aircraft.healthBarRow": "Змістити індикатор здоров’я транспортних засобів.",
   "option.immersive_aircraft.damagePerHealthPoint": "Вищі значення роблять літаки довговічнішими.",
+  "option.immersive_aircraft.weaponsAreDestructive": "Дозволяє деякій зброї руйнувати блоки.",
+  "option.immersive_aircraft.dropInventory": "Скидає вміст інвентарю замість того, щоби утримувати його у предметі апарата.",
+  "option.immersive_aircraft.dropUpgrades": "Скидає усі модифікатори замість того, щоби утримувати їх у предметі апарата.",
+  "option.immersive_aircraft.regenerateHealthEveryNTicks": "Автоматично регенерує здоров’я кожен наданий такт, симулюючи ванільну поведінку.",
+  "option.immersive_aircraft.requireShiftForRepair": "Ремонтування здійснюється лише при утримуванні shift, інкаше ви просто зайдете в апарат.",
+
+  "immersive_aircraft.tooltip.no_target": "Має бути зібране на твердій поверхні!",
+  "immersive_aircraft.tooltip.no_space": "Не вистачає місця!",
 
   "immersive_aircraft.slot.booster": "Відсік для дакетного прискорювача",
   "immersive_aircraft.slot.weapon": "Відсік зброї",
@@ -122,6 +138,10 @@
   "immersive_aircraft.upgrade.acceleration": "%s%% швидкости зльоту",
   "immersive_aircraft.upgrade.durability": "%s%% міцности",
   "immersive_aircraft.upgrade.fuel": "%s%% швидкості споживання палива",
-  "immersive_aircraft.upgrade.wind": "%s%% супротиву вітру",
-  "immersive_aircraft.upgrade.stabilizer": "%s%% стабілізації"
+  "immersive_aircraft.upgrade.wind": "%s%% спротиву вітру",
+  "immersive_aircraft.upgrade.stabilizer": "%s%% стабілізації",
+  "immersive_aircraft.upgrade.dials": "Механічна приладова панель",
+  "immersive_aircraft.upgrade.hud": "Електронна приладова панель",
+
+  "immersive_aircraft.tooltip.inventory": "Містить %s предметів."
 }

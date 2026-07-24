@@ -26,7 +26,7 @@
   "hollowengine.enter_model_path": "Введіть шлях до моделі для запису:",
   "hollowengine.enter_replay": "Введіть назву запису:",
   "hollowengine.enter_camera_path": "Введіть ім’я файлу:",
-  "hollowengine.no_text_dialogue": "Тут повинен бути текст, але він не був написаний у скрипті...",
+  "hollowengine.no_text_dialogue": "Тут повинен бути текст, але він не був написаний у скрипті…",
   "hollowengine.recoring_tooltip": "Запис | %1$sh %2$sm %3$ss",
   "hollowengine.model_example": "модель (modid:path_to_file)",
   "hollowengine.model_edit.creating": "Створення моделі NPC",

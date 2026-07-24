@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: "Змішані шлюзи"
+  title: "Змішані люки"
   icon: "yet_another_industrialization:turbo_mixed_input_hatch"
   position: 3
   parent: yet_another_industrialization:utilities.md
@@ -17,7 +17,7 @@ item_ids:
   - yet_another_industrialization:highly_advanced_mixed_output_hatch
 ---
 
-# Змішані шлюзи
+# Змішані люки
 
 ###### _Для найтісніших фабрик_
 
@@ -30,7 +30,7 @@ item_ids:
     <IsometricCamera yaw="0" pitch="0" />
 </GameScene>
 
-Комбіновані шлузи, що вводять/виводять як предмети, так і рідини в одному блоці! Вони мають точно такий самий обсяг сховища, як і їхні окремі аналоги, тому немає жодних недоліків у їх використанні порівняно зі звичайними шлюзами.
+Комбіновані люки, що вводять/виводять як предмети, так і рідини в одному блоці! Вони мають точно такий самий обсяг сховища, як і їхні окремі аналоги, тому немає жодних недоліків у їх використанні порівняно зі звичайними люками.
 
 <Recipe id="yet_another_industrialization:craft/bronze_mixed_input_hatch" />
 

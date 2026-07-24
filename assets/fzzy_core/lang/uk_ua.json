@@ -1,5 +1,8 @@
 {
 	"enchantment.fzzy_core.none": "Нема",
 	"enchantment.amethyst_imbuement.none.desc": "Немає опису.",
-	"modifiers.base_text": "Модифікатори: "
+	"modifiers.base_text": "Модифікатори: ",
+	"augment_damage.check_can_use": "Недостатньо міцности, щоби використати доповнення!",
+	"augment_damage.damage": "У предмета закінчилася мана!",
+	"augment_damage.burnout": "Доповнення зламалося!: "
 }

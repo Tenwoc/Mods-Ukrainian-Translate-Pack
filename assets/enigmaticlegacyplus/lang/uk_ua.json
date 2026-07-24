@@ -17,7 +17,7 @@
   "advancement.enigmaticlegacy.etherium_core.desc": "Викуйте етерієве ядро",
 
   "advancement.enigmaticlegacy.all_spellstone.title": "Кам’яний гримуар",
-  "advancement.enigmaticlegacy.all_spellstone.desc": "Зберіть кожен унікальний заклятий камінь. Якби існував спосіб об’єднати їх усі...",
+  "advancement.enigmaticlegacy.all_spellstone.desc": "Зберіть кожен унікальний заклятий камінь. Якби існував спосіб об’єднати їх усі…",
 
   "advancement.enigmaticlegacy.the_cube.title": "Цей кубик зцілив мене від смертності",
   "advancement.enigmaticlegacy.the_cube.desc": "Зберіть усі закляті камені у форму, однаково потужну та неприродну - неевклідовий куб",
@@ -71,7 +71,7 @@
   "advancement.enigmaticlegacy.unholy_grail.desc": "Випийте з нечестивого грааля",
 
   "advancement.enigmaticlegacy.unholy_grail_worthy.title": "Нечестива перевага",
-  "advancement.enigmaticlegacy.unholy_grail_worthy.desc": "Використайте силу нечистого грааля... але якою ціною",
+  "advancement.enigmaticlegacy.unholy_grail_worthy.desc": "Використайте силу нечистого грааля… але якою ціною",
 
   "advancement.enigmaticlegacy.lore_inscriber.title": "Літописець",
   "advancement.enigmaticlegacy.lore_inscriber.desc": "Отримайте чорнильницю Архітектора",
@@ -161,7 +161,7 @@
   "item.enigmaticlegacyplus.blank_scroll": "Чистий сувій",
   "item.enigmaticlegacyplus.blazing_core": "Пломеневе ядро",
   "item.enigmaticlegacyplus.bless_amplifier": "Том ворожіння",
-  "item.enigmaticlegacyplus.bless_potion": "Зілля...",
+  "item.enigmaticlegacyplus.bless_potion": "Зілля…",
   "item.enigmaticlegacyplus.bless_stone": "Святий камінь",
   "item.enigmaticlegacyplus.chaos_elytra": "Зневага хаосу",
   "item.enigmaticlegacyplus.cosmic_heart": "Серце космосу",
@@ -309,12 +309,12 @@
   "tooltip.enigmaticlegacy.unwitnessedAmulet3": "§5знаєте його походження і призначення,",
   "tooltip.enigmaticlegacy.unwitnessedAmulet4": "§5і чи є воно взагалі — час повільно ",
   "tooltip.enigmaticlegacy.unwitnessedAmulet5": "§5змиває невиразні клапті розбитих спогадів.",
-  "tooltip.enigmaticlegacy.unwitnessedAmulet6": "§5Спогади про щось важливе...",
+  "tooltip.enigmaticlegacy.unwitnessedAmulet6": "§5Спогади про щось важливе…",
   "tooltip.enigmaticlegacy.unwitnessedAmuletUse": "§6Клацніть ПКМ§5 для перетворення.",
   "tooltip.enigmaticlegacy.enigmaticAmulet1": "§5Вони наче нагадують про щось, але",
   "tooltip.enigmaticlegacy.enigmaticAmulet2": "§5ви не можете пригадати, що саме.",
   "tooltip.enigmaticlegacy.enigmaticAmulet3": "§5Час повільно змиває останні сліди",
-  "tooltip.enigmaticlegacy.enigmaticAmulet4": "§5тих втрачених спогадів...",
+  "tooltip.enigmaticlegacy.enigmaticAmulet4": "§5тих втрачених спогадів…",
   "tooltip.enigmaticlegacy.enigmaticAmuletShift1": "§5У разі смерті із цим предметом на собі чи",
   "tooltip.enigmaticlegacy.enigmaticAmuletShift2": "§5в інвентарі він створить §6позавимірну",
   "tooltip.enigmaticlegacy.enigmaticAmuletShift3": "§6місткість§5, яка надійно збереже ваші предмети,",
@@ -473,7 +473,7 @@
   "tooltip.enigmaticlegacy.majesticElytra2": "§5щоб безперервно прискорюватися вперед. Під час",
   "tooltip.enigmaticlegacy.majesticElytra3": "§5прискорення елітри зношуються швидше.",
 
-  "tooltip.enigmaticlegacy.ichorBottle1": "§5Щоб зневажати богів, треба їх знати...",
+  "tooltip.enigmaticlegacy.ichorBottle1": "§5Щоб зневажати богів, треба їх знати…",
   "tooltip.enigmaticlegacy.ichorBottle2": "§5З’їжте, щоб назавжди отримати §6+1§d слот оберега§5.",
 
   "tooltip.enigmaticlegacy.spelltunerContext": "§dНаразі прилаштовано: §6%1$s§d.",
@@ -607,7 +607,7 @@
   "tooltip.enigmaticlegacy.creationHeart7": "§5  тиску, голоду, порожнечі, шипів, вогню та",
   "tooltip.enigmaticlegacy.creationHeart8": "§5  шкоди від лави.",
 
-  "tooltip.enigmaticlegacy.unholyGrail": "§5Краще не пити з нього...",
+  "tooltip.enigmaticlegacy.unholyGrail": "§5Краще не пити з нього…",
 
   "tooltip.enigmaticlegacy.voidTome": "§5Використайте, щоб отримати §6+1§d слот для таємничого сувою§5.",
 
@@ -659,7 +659,7 @@
   "tooltip.enigmaticlegacy.cursedRingBless7": "§5§m- Ви здатні створювати та використовувати унікальні артефакти.",
   "tooltip.enigmaticlegacy.cursedRingLore1": "§5Викуваний колись доісторичним богом, він вабить",
   "tooltip.enigmaticlegacy.cursedRingLore2": "§5смертних і вищих істот обіцянками незліченних",
-  "tooltip.enigmaticlegacy.cursedRingLore3": "§5багатств і незмірної могутності...",
+  "tooltip.enigmaticlegacy.cursedRingLore3": "§5багатств і незмірної могутності…",
   "tooltip.enigmaticlegacy.cursedRingLore4": "§5Зарозумілість чи невігластво змушують їх вірити,",
   "tooltip.enigmaticlegacy.cursedRingLore5": "§5що вони можуть використати силу персня,",
   "tooltip.enigmaticlegacy.cursedRingLore6": "§5і за це розплачуються стражданнями,",
@@ -676,7 +676,7 @@
   "tooltip.enigmaticlegacy.redemptionRingBless7": "§5- Ви здатні створювати та використовувати унікальні артефакти.",
   "tooltip.enigmaticlegacy.redemptionRingLore1": "§5Цей перстень сяє унікальним сяйвом,",
   "tooltip.enigmaticlegacy.redemptionRingLore2": "§5що нагадуює про ті роки тортуру,",
-  "tooltip.enigmaticlegacy.redemptionRingLore3": "§5а також свідчить про доведену силу......",
+  "tooltip.enigmaticlegacy.redemptionRingLore3": "§5а також свідчить про доведену силу…...",
   "tooltip.enigmaticlegacy.redemptionRingLore4": "",
   "tooltip.enigmaticlegacy.blessLevel": "Рівень благословення: %1$s",
 
@@ -701,7 +701,7 @@
   "tooltip.enigmaticlegacy.fourthCurseAlteration": "§5- §dЗавжди завдає повної шкоди.",
 
   "tooltip.enigmaticlegacy.theTwistLore1": "§5На шляху до того, щоб все це забрати,",
-  "tooltip.enigmaticlegacy.theTwistLore2": "§5не може бути кращого способу дізнатися...",
+  "tooltip.enigmaticlegacy.theTwistLore2": "§5не може бути кращого способу дізнатися…",
   "tooltip.enigmaticlegacy.theTwist1": "§6+%1$s§d шкоди§5 проти босів і гравців",
   "tooltip.enigmaticlegacy.theTwist2": "§6+%1$s§d відкидання",
 
@@ -777,7 +777,7 @@
   "tooltip.enigmaticlegacy.totemofMalice4_alt": "§5§mДозволяє уникнути смерті, коли лежить в руці або слоті аксесуара.",
   "tooltip.enigmaticlegacy.totemofMalice5_alt": "§5§mЗавдає шкоди навколишнім мобам в момент активації.",
 
-  "tooltip.enigmaticlegacy.enderSlayer1": "§5Винищити їх усіх...",
+  "tooltip.enigmaticlegacy.enderSlayer1": "§5Винищити їх усіх…",
   "tooltip.enigmaticlegacy.enderSlayer2": "§5Це єдиний вихід?",
   "tooltip.enigmaticlegacy.enderSlayer3": "§6+%1$s §dшкоди§5 мешканцям §6Енду§5.",
   "tooltip.enigmaticlegacy.enderSlayer4": "§6+%1$s §dвідкидання§5 мешканцям §6Енду§5.",
@@ -871,7 +871,7 @@
 
   "tooltip.enigmaticlegacy.enigmaticEye1": "§5Воно пов’язано з місцем за межами вашого простору і",
   "tooltip.enigmaticlegacy.enigmaticEye2": "§5часу. Ви можете пробудити око, якщо хочете ризикнути",
-  "tooltip.enigmaticlegacy.enigmaticEye3": "§5привернути увагу когось... або чогось.",
+  "tooltip.enigmaticlegacy.enigmaticEye3": "§5привернути увагу когось… або чогось.",
 
   "tooltip.enigmaticlegacy.enigmaticEyeAwakened1": "§5Тепер, коли ви привернули його увагу, той, хто використовує",
   "tooltip.enigmaticlegacy.enigmaticEyeAwakened2": "§5око, щоб спостерігати за вами і світом, здається, не потребує",
@@ -935,7 +935,7 @@
   "message.enigmaticlegacy.command.setcursetime": "Час %1$s із сімома прокляттями встановлено на %2$s тактів.",
   "message.enigmaticlegacy.command.setnocursetime": "Час %1$s без семи проклять встановлено на %2$s тактів.",
   "message.enigmaticlegacy.generator_simulation_complete": "Орієнтовна генерація завершена у §632768§5 екземплярах; перегляньте файл §6latest.log§5, щоб побачити результати.",
-  "message.enigmaticlegacy.cursed_sleep": "Сім проклять пробуджують невимовний страх і гризучу невпевненість всередині, коли ти наближаєшся до спокусливого царства снів. Ні надії для безнадійних, ні сну для безсонних...",
+  "message.enigmaticlegacy.cursed_sleep": "Сім проклять пробуджують невимовний страх і гризучу невпевненість всередині, коли ти наближаєшся до спокусливого царства снів. Ні надії для безнадійних, ні сну для безсонних…",
   "message.enigmaticlegacy.permanent_death_screen": "Здійснюючи подвиг, людина доводить свою мужність.\nНехай твоя розбита душа нарешті знайде спокій.",
 
   "subtitle.enigmaticlegacy.misc.charge_on": "Заряджання",
@@ -1135,62 +1135,62 @@
   "enigmaticlegacyplus.configuration.deathQuoteChance": "Шанс отримати цитати після смерті",
 
   "quote.no_peril_1": "Де немає ризику в місії - не може бути й слави в її виконанні.",
-  "quote.end_doorstep_1": "Поріг Енду... від нього тебе відділяє лише один крок.",
+  "quote.end_doorstep_1": "Поріг Енду… від нього тебе відділяє лише один крок.",
   "quote.only_because_1": "Лише те, що ти пав, не значить, що ти здався.",
   "quote.demise_is_1": "Смерть - лише тимчасова незручність для такого напівбога, як ти.",
   "quote.we_fall_1": "Ми падаємо, щоб навчитися підійматися.",
   "quote.you_will_endure_1": "Ти переживеш цю втрату і навчишся з неї.",
-  "quote.oblivion_rejects_1": "Забуття не приймає тебе... скористайся цією можливістю, поки ще можеш.",
+  "quote.oblivion_rejects_1": "Забуття не приймає тебе… скористайся цією можливістю, поки ще можеш.",
   "quote.setback_1": "Борися - побореш.",
   "quote.death_may_1": "Смерть може перешкодити завоюванню, але тільки зламана воля може його зупинити.",
   "quote.eternity_to_keep_1": "Ти маєш вічність спроб. Роби, що потрібно.",
   "quote.violence_calls_1": "Насильство вимагає помсти. Повернись і роздай її!",
   "quote.immortal_1": "Ти безсмертний! Повернись і дай цьому жалюгідному створінню продемонструвати цей факт.",
-  "quote.appalling_presence_1": "Ця оболонка зникла... але жахлива присутність назавжди залишиться в цьому світі.",
-  "quote.its_destruction_1": "Його знищення - невелика втіха... враховуючи наслідки його жахливого існування.",
+  "quote.appalling_presence_1": "Ця оболонка зникла… але жахлива присутність назавжди залишиться в цьому світі.",
+  "quote.its_destruction_1": "Його знищення - невелика втіха… враховуючи наслідки його жахливого існування.",
 
   "quote.i_wandered_1": "Так, я блукав цими землями багато разів.",
   "quote.i_wandered_2": "Спустошене нагадування про все, що було, і все, що могло б бути.",
 
-  "quote.another_demigod_1": "Ще один напівбог блукає цією покинутою землею...",
+  "quote.another_demigod_1": "Ще один напівбог блукає цією покинутою землею…",
   "quote.another_demigod_2": "Дозволь мені супроводжувати тебе у твоїй подорожі. Можливо, тобі вдасться те, що не вдалося іншим.",
 
-  "quote.another_eon_1": "Ще одна епоха, ще один мандрівник. Ще одна історія, яку треба розповісти...",
+  "quote.another_eon_1": "Ще одна епоха, ще один мандрівник. Ще одна історія, яку треба розповісти…",
   "quote.another_eon_2": "Я спостерігатиму за твоєю з великою цікавістю.",
 
-  "quote.perhaps_you_1": "Можливо, саме ти відкриєш давно забуту історію цієї землі...",
+  "quote.perhaps_you_1": "Можливо, саме ти відкриєш давно забуту історію цієї землі…",
   "quote.perhaps_you_2": "Якщо так, то я маю бути свідком твоїх досягнень.",
 
-  "quote.sulfur_air_1": "Сірка в повітрі, гострий запах обгорілого каміння і плоті...",
+  "quote.sulfur_air_1": "Сірка в повітрі, гострий запах обгорілого каміння і плоті…",
   "quote.sulfur_air_2": "Це місце — справжнє пекло.",
 
   "quote.tortured_rocks_1": "Понівечені скелі, бліді, як кістки, зависли над безмежною, всепоглинальною чорнотою.",
-  "quote.tortured_rocks_2": "Енд... майже як гарячковий сон.",
+  "quote.tortured_rocks_2": "Енд… майже як гарячковий сон.",
 
-  "quote.breathes_relieved_1": "Світ видихає з полегшенням без обтяжливої присутності цього жахіття...",
+  "quote.breathes_relieved_1": "Світ видихає з полегшенням без обтяжливої присутності цього жахіття…",
   "quote.breathes_relieved_2": "Принаймні, поки.",
 
-  "quote.whether_it_is_1": "Чи то влада, чи то спокута, яку ти шукаєш, повертаючи Візера з могили і назад...",
+  "quote.whether_it_is_1": "Чи то влада, чи то спокута, яку ти шукаєш, повертаючи Візера з могили і назад…",
   "quote.whether_it_is_2": "...принаймні, ти даєш цьому проклятому створінню мету.",
 
-  "quote.poor_creature_1": "Бідолашне створіння. Остання у своєму роді, приречена охороняти богом забутий острів...",
+  "quote.poor_creature_1": "Бідолашне створіння. Остання у своєму роді, приречена охороняти богом забутий острів…",
   "quote.poor_creature_2": "...посеред небуття. Дайте їй заслужений відпочинок.",
 
-  "quote.horrible_existence_1": "Яке жахливе буття... Воскреснути з мертвих, тільки щоб бути вбитою знов.",
+  "quote.horrible_existence_1": "Яке жахливе буття… Воскреснути з мертвих, тільки щоб бути вбитою знов.",
   "quote.horrible_existence_2": "Тобі, мабуть, справді не знайомо співчуття.",
 
   "quote.countless_dead_1": "Незліченна кількість мертвих душ, об’єднаних в мерзоту такої жахливої форми, що вона не піддається опису.",
   "quote.countless_dead_2": "Земля заплямована самою присутністю цієї мерзенної сутності.",
 
   "quote.with_dragons_1": "З неминучою загибеллю дракона це місце здається ще більш порожнім і безглуздим, ніж раніше.",
-  "quote.with_dragons_2": "Чи будеш ти блукати цими понівеченими, безлюдними землями...",
+  "quote.with_dragons_2": "Чи будеш ти блукати цими понівеченими, безлюдними землями…",
   "quote.with_dragons_3": "...чи повернешся до фасаду здорового глузду і жвавості, який пропонує Верхній світ?",
-  "quote.with_dragons_4": "Звичайно, ми обидва знаємо відповідь... Ти не можеш встояти перед дослідженням невідомого, хай то зараз чи пізніше.",
+  "quote.with_dragons_4": "Звичайно, ми обидва знаємо відповідь… Ти не можеш встояти перед дослідженням невідомого, хай то зараз чи пізніше.",
 
   "quote.terrifying_form_1": "...його жахливу постать можна знищити, але не його душу.",
   "quote.terrifying_form_2": "На ній лежить прокляття, схоже на твоє. Прокляття безсмертя.",
 
-  "quote.toll_paid_1": "Великою ціною, ти звільнишся від обтяжливого тягаря ненависті та печалі...",
+  "quote.toll_paid_1": "Великою ціною, ти звільнишся від обтяжливого тягаря ненависті та печалі…",
   "quote.toll_paid_2": "...ув’язнених у цьому персні.",
 
   "book.enigmaticlegacy.landing_text": "Перед вами лежить криниця великих знань, місце, де знаходяться деякі з найбільших таємниць цього світу, скрупульозно досліджені і ретельно каталогізовані.<br2/>У міру того, як ваша подорож продовжуватиметься і світ відкриватиметься перед вами, ви зможете повертатися до знань, зібраних на цих сторінках, і споглядати їх знову.",
@@ -1236,7 +1236,7 @@
   "book.enigmaticlegacy.entry.astral_dust.page.2": "красу його єдиної миті<br2/> Таємнича сила, яку вона містить, може бути величезною, але вона вимагає дбайливого ставлення і формування, щоб бути корисною в конструктивному сенсі. Однак з часом, без сумніву, ви відкриєте для себе безліч можливих застосувань, які вона може мати.",
 
   "book.enigmaticlegacy.entry.cosmic_heart.name": "Серце космосу",
-  "book.enigmaticlegacy.entry.cosmic_heart.page.1": "За допомогою тонкого підбору таємничих інгредієнтів, тих, що містять силу інших вимірів, ви можете змінити земну природу Серця моря, перетворивши його на щось інше... Набагато могутніше.<br2/>Сила самого космосу тепер лежить у вас на долоні. Тільки час покаже, яких неймовірних",
+  "book.enigmaticlegacy.entry.cosmic_heart.page.1": "За допомогою тонкого підбору таємничих інгредієнтів, тих, що містять силу інших вимірів, ви можете змінити земну природу Серця моря, перетворивши його на щось інше… Набагато могутніше.<br2/>Сила самого космосу тепер лежить у вас на долоні. Тільки час покаже, яких неймовірних",
   "book.enigmaticlegacy.entry.cosmic_heart.page.2": "подвигів можна з нею, досягти з нею, які фантастичні артефакти можуть живитися її енергіями, що викривляють реальність.<br2/>Але одне можна сказати безумовно - світ затремтить під кроками їхнього носія.",
 
   "book.enigmaticlegacy.entry.twisted_heart.name": "Спотворене серце",
@@ -1265,5 +1265,5 @@
   "book.enigmaticlegacy.entry.abyssal_heart.page.1": "Коли ця неземна мерзота вперше потрапила до ваших рук, непідвладна опису суміш почуттів заволоділа вашим розумом, серед яких знайшлося місце жаху і хвилюванню, захопленню і огиді. Погляд його самотнього ока дивився на вас з незбагненним наміром, але коли перша хвиля емоцій відступила - ви дійшли висновку,",
   "book.enigmaticlegacy.entry.abyssal_heart.page.2": "що він не становить для вас жодної загрози.<br2/>Втім, ви не знаєте, чим він є насправді і звідки він прийшов. Можливо, ваше нестерпне існування і намагання жити всупереч Семи Прокляттям помітила якась безіменна древня сила, і через ваше",
   "book.enigmaticlegacy.entry.abyssal_heart.page.3": "проклятуще єство вона вирішила направити себе у світ. Можливо, це просто випадковість, збіг обставин у самій реальності, що дозволила з’явитися чомусь подібному. Можливо, це ваш хворий розум зачав цей жах у якійсь кошмарній гарячці, а з його розростанням - розтлінням прокльонів зумів проявити його у смертному царстві? <br2/>Можливо, краще ніколи не знати, бо деякі істини є набагато",
-  "book.enigmaticlegacy.entry.abyssal_heart.page.4": "тривожнішими за все, що може вигадати людська уява.<br2/>Не зважаючи на це, тепер ви є законним власником цієї речі. І не мине багато часу, як ви зможете використати її якимось неймовірно жорстоким, жахаючим чином... Світ постраждає вдесятеро більше за всі страждання, які він заподіяв вам."
+  "book.enigmaticlegacy.entry.abyssal_heart.page.4": "тривожнішими за все, що може вигадати людська уява.<br2/>Не зважаючи на це, тепер ви є законним власником цієї речі. І не мине багато часу, як ви зможете використати її якимось неймовірно жорстоким, жахаючим чином… Світ постраждає вдесятеро більше за всі страждання, які він заподіяв вам."
 }

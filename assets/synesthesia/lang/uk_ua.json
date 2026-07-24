@@ -1,0 +1,10 @@
+{
+  "synesthesia.button.visualizer.tooltip": "Візуалізатор звуків",
+  "synesthesia.button.visualizer.enabled": "Візуалізатор звуків: увімкнено",
+  "synesthesia.button.visualizer.disabled": "Візуалізатор звуків: вимкнено",
+  "key.synesthesia.toggle": "Перемкнути візуалізатор звуків",
+  "key.category.synesthesia.category": "Synesthesia",
+  "message.synesthesia.enabled": "Візуалізатор звуків увімкнено",
+  "message.synesthesia.disabled": "Візуалізатор звуків вимкнено",
+  "synesthesia.configuration.render.renderThroughWalls": "Відображати крізь стіни"
+}

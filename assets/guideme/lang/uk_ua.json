@@ -7,7 +7,7 @@
   "guideme.configuration.guide": "Посібники",
   "guideme.configuration.ignoreTranslatedGuides": "Ігнорувати переклади довідника",
   "guideme.configuration.ignoreTranslatedGuides.tooltip": "Завжди завантажувати оригінальну версію довідників GuideME, незалежно від вибраної мови інтерфейсу користувача",
-  "guideme.configuration.showDebugGuiOverlays": "Показати оверлей налагодження",
+  "guideme.configuration.showDebugGuiOverlays": "Показати накладку налагодження",
   "guideme.configuration.title": "Налаштування GuideME",
   "guideme.guidebook.Blasting": "Перетоплення",
   "guideme.guidebook.Close": "Закрити",

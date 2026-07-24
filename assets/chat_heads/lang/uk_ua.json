@@ -1,5 +1,5 @@
 {
-  "modmenu.descriptionTranslation.chat_heads": "Бачте, з ким ви спілкуєтесь!\nЦей мод додає голови гравців поруч з їхніми повідомленнями в чаті..",
+  "modmenu.descriptionTranslation.chat_heads": "Бачте, з ким ви спілкуєтесь!\nЦей мод додає голови гравців поруч з їхніми повідомленнями в чаті.",
   "text.autoconfig.chat_heads.title": "Chat Heads",
   "text.autoconfig.chat_heads.option.offsetNonPlayerText": "Відступ тексту від негравців",
   "text.autoconfig.chat_heads.option.offsetNonPlayerText.@Tooltip": "Якщо увімкнено, весь текст буде вирівняно",

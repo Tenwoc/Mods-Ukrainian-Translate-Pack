@@ -13,7 +13,7 @@
   "autooredictconv.command.odc.help.7": "/odc reload - Перезавантажує файл конфігурації з диска.",
   "autooredictconv.command.odc.help.8": "/odc remove [tag] - Видаляє перетворення певного тега або всі перетворення для тегів утримуваного предмета, якщо тег не вказано.",
   "autooredictconv.command.odc.detect": "Теги для предмету '§b{0}§r':",
-  "autooredictconv.command.odc.dump": "Перелік усіх тегів предмета...",
+  "autooredictconv.command.odc.dump": "Перелік усіх тегів предмета…",
   "autooredictconv.command.odc.find": "Тег §b{0}§r міститься у таких предметах:",
   "autooredictconv.command.odc.list": "Налаштовані перетворення:",
   "autooredictconv.command.odc.list.tag": "§nПеретворення тегів§r",

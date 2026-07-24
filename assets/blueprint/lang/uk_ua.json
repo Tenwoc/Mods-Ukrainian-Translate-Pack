@@ -10,7 +10,7 @@
 	"blueprint.config.slabfish_hat.backpack.tooltip": "Перемикає рюкзак плиториби. Доступно для патронів Рівна 3+.",
 	"blueprint.config.slabfish_hat.type": "Тип",
 	"blueprint.config.slabfish_hat.type.tooltip": "Перемикає тид капелюха плиториби. Доступно для патронів Рівна 4+.",
-	"blueprint.screen.slabfish_settings": "Налаштування капелюху плиториби...",
+	"blueprint.screen.slabfish_settings": "Налаштування капелюху плиториби…",
 	"blueprint.screen.slabfish_settings.title": "Налаштування капелюха плиториби",
 	"blueprint.screen.slabfish_settings.tooltip": "Налаштування капелюха плиториби для патронів Team Abnormals. Стати меценатом %s.",
 	"blueprint.message.redirect": "Перенаправлення",

@@ -4,7 +4,7 @@
   "drippyloadingscreen.background.color.config.color": "HEX Колір:",
   "drippyloadingscreen.background.color.config.invalid_color": "§xВи повинні спочатку ввести правильний HEX-колір!",
   "drippyloadingscreen.background.color.desc": "Простий кольоровий фон у форматі HEX.",
-  "drippyloadingscreen.early_loading.context.background.hide_logger": "Приховати оверлей журналу: %s",
+  "drippyloadingscreen.early_loading.context.background.hide_logger": "Приховати накладку журналу: %s",
   "drippyloadingscreen.early_loading.context.background.preserve_aspect_ratio": "Зберегти співвідношення сторін фону: %s",
   "drippyloadingscreen.early_loading.context.background.set_image": "Встановити фонове зображення",
   "drippyloadingscreen.early_loading.context.background.window_size": "Встановити розмір вікна раннього завантаження",

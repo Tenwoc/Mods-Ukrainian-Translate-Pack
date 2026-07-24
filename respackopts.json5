@@ -8,7 +8,6 @@
         {
             endscreen: true,
             postcredits: true,
-            splashes: true,
             create_feets:
             {
                 type: "enum",
@@ -37,6 +36,7 @@
             ftbunearthed_gui: true,
             gag_solicitors: true,
             mythicmetals_gag: true,
+            scannable_ae2style: true,
             simplefarming_customseeds: true,
             tiered_tooltiplabels: true
         }

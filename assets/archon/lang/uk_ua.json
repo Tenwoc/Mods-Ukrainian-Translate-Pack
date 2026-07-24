@@ -11,7 +11,7 @@
   "block.archon.magical_bookshelf": "Чарівна книжкова полиця",
   "block.archon.glisteel_block": "Блискучий блок",
   "block.archon.mana_berry_bush": "Кущ ягід мани",
-  "block.archon.summoning_pedestal": "П’єдестал заклинання",
+  "block.archon.summoning_pedestal": "П'єдестал заклинання",
   "block.archon.scripture_table": "Стіл Писань",
   "block.archon.mana_catalyst": "Каталізатор мани",
   "block.archon.diamond_mana_catalyst": "Діамантовий каталізатор мани",
@@ -175,7 +175,7 @@
   "text.archon.inigo.spawn": "[Ініго]Готово. Почати плавлення.",
   "text.archon.inigo.kill": "[Ініго]Ціль відправлено.",
   "text.archon.null.spawn": "[Нуль]Все колись закінчується. Це буде твоїм.",
-  "text.archon.null.kill": "[Нуль]Поглинений порожнечею...",
+  "text.archon.null.kill": "[Нуль]Поглинений порожнечею…",
 
   "container.archon.scripture": "Скриптова таблиця",
   "container.archon.add_xp": "Додати досвід",

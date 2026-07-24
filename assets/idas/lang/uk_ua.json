@@ -4,5 +4,8 @@
   "item.idas.music_disc_calidum": "Платівка",
   "item.idas.music_disc_calidum.desc": "Cama — calidum",
   "item.idas.disc_fragment_slither": "Фрагмент платівки Slither",
-  "itemGroup.idastab": "Integrated Dungeons and Structures"
+  "itemGroup.idastab": "Integrated Dungeons and Structures",
+  "jukebox_song.idas.slither": "Cama — Slither",
+  "jukebox_song.idas.calidum": "Cama — calidum",
+  "itemGroup.idas": "IDAS"
 }

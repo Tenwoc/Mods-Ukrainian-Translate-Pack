@@ -89,7 +89,7 @@
   "sodium.console.config_not_loaded": "Файл конфігурації Sodium є нечитабельним або його було пошкоджено. Деякі параметри було тимчасово скинуто до значень за замовчуванням. Будь ласка, відкрийте меню налаштування відео, щоб виправити цю проблему.",
   "sodium.console.config_file_was_reset": "Файл конфігурації було скинуто до відомих і безпечних усталених значень.",
   "sodium.options.search": "Пошук",
-  "sodium.options.search.hint": "Пошук...",
+  "sodium.options.search.hint": "Пошук…",
   "sodium.options.open_external_page_button": "Відкрити",
   "sodium.options.view_bobbing.tooltip": "Якщо ця опція увімкнена, вид гравця буде коливатися та рухатися вгору-вниз під час руху. Гравці, які відчувають відчуття нудоти під час гри, можуть скористатися вимкненням цієї функції.",
   "sodium.options.always_defer_chunk_updates.name": "Завжди відкладати оновлення",

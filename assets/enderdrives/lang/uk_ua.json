@@ -17,7 +17,7 @@
   "enderdrives.transfer_mode.output": "Вихідний",
   "screen.enderdrives.frequency_selector": "Обирач частоти Енду",
   "screen.enderdrives.frequency": "Частота комірки Енду",
-  "screen.enderdrives.frequency_placeholder": "Частота...",
+  "screen.enderdrives.frequency_placeholder": "Частота…",
   "screen.enderdrives.frequency_label": "Частота",
   "screen.enderdrives.toggle_scope": "Натисніть, щоб перемкнути режим доступу",
   "screen.enderdrives.tooltip.plus_256": "+256",
