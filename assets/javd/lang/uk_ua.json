@@ -1,8 +1,10 @@
 {
-  "javd.invalid.world": "Не вдалося знайти світ '%s'",
-  "javd.invalid.pos": "Не вдалося знайти правильне розташування порталу",
-  "block.javd.portal_block" : "Портал Порожнечі",
-  "block.javd.void_portal_block" : "Портал Порожнечі",
+  "advancement.javd.enter_void_dimension": "У нескінченність та небуття",
+  "advancement.javd.enter_void_dimension.description": "Увійдіть до порожнього виміру",
   "biome.javd.void" : "Порожнеча",
-  "block.javd.void_portal_block.name" : "Портал Порожнечі"
+  "block.javd.portal_block" : "Портал Порожнечі",
+  "dimension.javd.void": "The Void",
+  "item.javd.portal_block": "Void Portal",
+  "javd.invalid.pos": "Не вдалося знайти правильне розташування порталу",
+  "javd.invalid.world": "Не вдалося знайти світ '%s'"
 }

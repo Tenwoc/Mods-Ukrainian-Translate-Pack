@@ -12,7 +12,7 @@
     "config.itemzoom.toggle.enabled.comment": "Якщо встановлено \"false\", Item Zoom буде вимкнено.",
     "config.itemzoom.zoom.amount": "Величина збільшення",
     "config.itemzoom.zoom.amount.comment": "Встановіть менше значення, щоб зменшити розмір перегляду.",
-    "config.itemzoom.jei.only": "Тільки накладання JEI",
+    "config.itemzoom.jei.only": "Тільки накладка JEI",
     "config.itemzoom.jei.only.comment": "Відображати лише предмети зі списку інгредієнтів та закладок JEI.",
     "config.itemzoom.show.help.text": "Відображати текст підказки",
     "config.itemzoom.show.help.text.comment": "Відображати назву \"Item Zoom\" та гарячу клавішу для перемикання цього режиму під збільшеним переглядом наближення.",
