@@ -6224,5 +6224,6 @@
   "message.gtceu.new_veins": "Виявлено %d нових жил!",
   "metaarmor.nms.boosted_jump.disabled": "Комплект NanoMuscle™: Посилення стрибків вимкнено",
   "metaarmor.nms.boosted_jump.enabled": "Комплект NanoMuscle™: Посилення стрибків увімкнено",
-  "recipe.condition.rock_breaker.tooltip": "Прилеглі розміщені рідини"
+  "recipe.condition.rock_breaker.tooltip": "Прилеглі розміщені рідини",
+  "gtceu.jade.changes_eu_sec": "%s EU/с"
 }
