@@ -1963,6 +1963,7 @@
   "config.jade.plugin_gtceu.cable_info": "[GTCEu] Інфо кабелів",
   "config.jade.plugin_gtceu.controllable_provider": "[GTCEu] Контролювання",
   "config.jade.plugin_gtceu.data_bank": "[GTCEu] Інфо зберігача даних",
+  "config.jade.plugin_gtceu.diode_provider": "[GTCEu] Інфо діода",
   "config.jade.plugin_gtceu.electric_container_provider": "[GTCEu] Електричний контейнер",
   "config.jade.plugin_gtceu.energy_converter_provider": "[GTCEu] Режим енергетичного конвертера",
   "config.jade.plugin_gtceu.exhaust_vent_info": "[GTCEu] Інфо витяжної вентиляції",
