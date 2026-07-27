@@ -9,7 +9,7 @@
   "tooltip.relics.cloak_of_concealment.leveling_source.absorption.title": "Мана-бар’єр",
   "tooltip.relics.cloak_of_concealment.leveling_source.absorption.description": "+%1$s одиниць досвіду за кожне одномоментне поглинання 1.5 одиниць шкоди і більше за допомогою здібності %2$s.",
 
-  "item.reliquified_ars_nouveau.flaming_bracer": "Полум’яний наруч",
+  "item.reliquified_ars_nouveau.flaming_bracer": "Полум'яний наруч",
   "tooltip.relics.flaming_bracer.description": "Частина легендарного полум’яного обладунку, що навіть без інших його частин здатна висікати з тіла жертви язики магічного полум’я.",
   "tooltip.relics.flaming_bracer.ability.pyroclastic": "Пірокінез",
   "tooltip.relics.flaming_bracer.ability.pyroclastic.description": "При заподіюванні шкоди в ближньому бою по цілі в полум’ї з шансом у %1$s%% викидає з неї магічний вогонь. Якщо спрацьовування успішне, здатність повторюється, викидаючи додаткову одиницю магічного вогню і продовжуючи процес доти, доки ймовірність не перестане спрацьовувати. Максимальне число спрацьовувань - %2$s.",

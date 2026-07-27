@@ -152,7 +152,7 @@
   "tootltip2.createcybernetics.exosuit1": "§7Потрібен §9нейронний процесор",
 
   "item.createcybernetics.frontal_lobe": "Лобна частка",
-  "item.createcybernetics.parietal_lobe": "Тім’яна частка",
+  "item.createcybernetics.parietal_lobe": "Тім'яна частка",
   "item.createcybernetics.occipital_lobe": "Потилична частка",
   "item.createcybernetics.temporal_lobe": "Скронева частка",
   "item.createcybernetics.cerebellum": "Мозочок",
@@ -443,7 +443,7 @@
   "item.createcybernetics.bodypart_lungs": "Легені",
   "item.createcybernetics.bodypart_liver": "Печінка",
   "item.createcybernetics.bodypart_intestines": "Кишківник",
-  "item.createcybernetics.bodypart_muscle": "М’язова тканина",
+  "item.createcybernetics.bodypart_muscle": "М'язова тканина",
   "item.createcybernetics.bodypart_skin": "Шкірна тканина",
 
   "item.createcybernetics.bodypart_guardianretina": "Сітківка вартового",
@@ -462,7 +462,7 @@
   "item.createcybernetics.bodypart_sculkbrain": "Скалковий мозок",
   "item.createcybernetics.bodypart_sculkliver": "Скалкова печінка",
   "item.createcybernetics.bodypart_sculkintestines": "Скалковий кишківник",
-  "item.createcybernetics.bodypart_sculkmuscle": "Скалкові м’язи",
+  "item.createcybernetics.bodypart_sculkmuscle": "Скалкові м'язи",
   "item.createcybernetics.bodypart_sculkskin": "Скалкова шкіра",
 
 
@@ -504,7 +504,7 @@
   "item.createcybernetics.armupgrades_crafthands": "Майструвальні маніпулятори",
   "item.createcybernetics.armupgrades_drillfist": "Бурокулак",
   "item.createcybernetics.armupgrades_firestarter": "Запальник",
-  "item.createcybernetics.armupgrades_pneumaticwrist": "Пневматичне зап’ястя",
+  "item.createcybernetics.armupgrades_pneumaticwrist": "Пневматичне зап'ястя",
   "item.createcybernetics.armupgrades_reinforcedknuckles": "Посилені кісточки",
   "item.createcybernetics.armupgrades_ripperclaw": "Клешня ріпера",
   "item.createcybernetics.armupgrades_arccannon": "Електродугова гармата",
@@ -521,8 +521,8 @@
   "item.createcybernetics.boneupgrades_bonelacing": "Кісткове армування",
   "item.createcybernetics.boneupgrades_capacitorframe": "Високовольтна конденсаторна рама",
   "item.createcybernetics.boneupgrades_elytra": "Розгортні елітри",
-  "item.createcybernetics.boneupgrades_piezo": "П’єзоелектричний генератор енергії",
-  "item.createcybernetics.boneupgrades_spinalinjector": "Спинний ін’єктор",
+  "item.createcybernetics.boneupgrades_piezo": "П'єзоелектричний генератор енергії",
+  "item.createcybernetics.boneupgrades_spinalinjector": "Спинний ін'єктор",
   "item.createcybernetics.boneupgrades_sandevistan": "Сандевістан",
   "item.createcybernetics.boneupgrades_cyberskull": "Титановий череп",
 
@@ -576,7 +576,7 @@
   "item.createcybernetics.skinupgrades_empthreading": "EMP-різьба",
   "item.createcybernetics.skinupgrades_manaskin": "Мана-асимілятор",
 
-  "item.createcybernetics.muscleupgrades_synthmuscle": "Міомерні м’язи",
+  "item.createcybernetics.muscleupgrades_synthmuscle": "Міомерні м'язи",
   "item.createcybernetics.muscleupgrades_wiredreflexes": "Провідні рефлекси",
 
   "item.createcybernetics.wetware_blubber": "Жир полярного ведмедя",
@@ -621,7 +621,7 @@
   "item.createcybernetics.scavenged_crafthands": "Майструвальні маніпулятори",
   "item.createcybernetics.scavenged_drillfist": "Бурокулак",
   "item.createcybernetics.scavenged_firestarter": "Запальник",
-  "item.createcybernetics.scavenged_pneumaticwrist": "Пневматичне зап’ястя",
+  "item.createcybernetics.scavenged_pneumaticwrist": "Пневматичне зап'ястя",
   "item.createcybernetics.scavenged_reinforcedknuckles": "Посилені кісточки",
   "item.createcybernetics.scavenged_arccannon": "Електродугова гармата",
   "item.createcybernetics.scavenged_metaldetector": "Металодетектор",
@@ -635,8 +635,8 @@
   "item.createcybernetics.scavenged_bonelacing": "Кісткове армування",
   "item.createcybernetics.scavenged_capacitorfram": "Високовольтна конденсаторна рама",
   "item.createcybernetics.scavenged_elytra": "Розгортні елітри",
-  "item.createcybernetics.scavenged_piezo": "П’єзоелектричний генератор енергії",
-  "item.createcybernetics.scavenged_spinalinjector": "Спінальний ін’єктор",
+  "item.createcybernetics.scavenged_piezo": "П'єзоелектричний генератор енергії",
+  "item.createcybernetics.scavenged_spinalinjector": "Спінальний ін'єктор",
   "item.createcybernetics.scavenged_capacitorframe": "Високовольтна конденсаторна рама",
   "item.createcybernetics.scavenged_sandevistan": "Сандевістан",
   "item.createcybernetics.scavenged_eyeofdefender": "Око захисника",
@@ -681,7 +681,7 @@
   "item.createcybernetics.scavenged_sweat": "Покращені потові залози",
   "item.createcybernetics.scavenged_metalplating": "Металеве бронювання",
   "item.createcybernetics.scavenged_manaskin": "Мана-асимілятор",
-  "item.createcybernetics.scavenged_synthmuscle": "Синтетичні м’язи",
+  "item.createcybernetics.scavenged_synthmuscle": "Синтетичні м'язи",
   "item.createcybernetics.scavenged_wiredreflexes": "Провідні рефлекси",
 
 
@@ -832,11 +832,11 @@
 
   "enchantment.createcybernetics.harvester": "Жнець",
 
-  "item.createcybernetics.neuropozyne_autoinjector": "Автоін’єктор нейропозину",
+  "item.createcybernetics.neuropozyne_autoinjector": "Автоін'єктор нейропозину",
   "item.createcybernetics.neuropozyne_autoinjector.duration": "Нейропозин (20:00)",
-  "item.createcybernetics.neuropozyne_autoinjector.desc": "Ін’єкція подовжує дію на цілий день",
+  "item.createcybernetics.neuropozyne_autoinjector.desc": "Ін'єкція подовжує дію на цілий день",
 
-  "item.createcybernetics.empty_autoinjector": "Порожній автоін’єктор",
+  "item.createcybernetics.empty_autoinjector": "Порожній автоін'єктор",
 
   "item.minecraft.potion.effect.neuropozyne_potion": "Зілля нейропозину",
   "item.minecraft.splash_potion.effect.neuropozyne_potion": "Вибухове зілля нейропозину",

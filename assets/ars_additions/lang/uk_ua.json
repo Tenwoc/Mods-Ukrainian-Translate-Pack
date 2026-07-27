@@ -198,7 +198,7 @@
   "tooltip.ars_additions.reliquary.marked.location": "X: %s, Y: %s, Z: %s",
   "tooltip.ars_additions.reliquary.marked.name": "%s \"%s\"",
 
-  "item.ars_additions.bound_wayfinder": "Зв’язаний шляхошукач",
+  "item.ars_additions.bound_wayfinder": "Зв'язаний шляхошукач",
   "item.ars_additions.wayfinder": "Шляхошукач",
   "item.ars_additions.xp_jar": "Банка ремісничої мудрості",
   "chat.ars_additions.charm.charging_started": "%s заряджається. Розмістіть поряд джерело, щоб прискорити процес.",

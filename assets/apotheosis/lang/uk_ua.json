@@ -570,7 +570,7 @@
     "item.apotheosis.sigil_of_enhancement.desc": "Живить стіл доповнення",
 
     "item.apotheosis.sigil_of_unnaming": "Сигіл позбавлення імені",
-    "item.apotheosis.sigil_of_unnaming.desc": "Видаляє афіксне ім’я предмета",
+    "item.apotheosis.sigil_of_unnaming.desc": "Видаляє афіксне ім'я предмета",
 
     "item.apotheosis.sigil_of_malice": "Сигіл злоби",
     "item.apotheosis.sigil_of_malice.desc": "Додає Дотик злоби до афіксного предмета",
@@ -580,7 +580,7 @@
 
     "item.apotheosis.iron_upgrade_smithing_template": "Ковальський шаблон",
     "upgrade.apotheosis.iron": "Залізне покращення ",
-    "item.apotheosis.iron_upgrade_smithing_template.applies_to": "Кам’яне та кольчужне спорядження",
+    "item.apotheosis.iron_upgrade_smithing_template.applies_to": "Кам'яне та кольчужне спорядження",
     "item.apotheosis.iron_upgrade_smithing_template.ingredients": "4 залізних злитки",
     "item.apotheosis.iron_upgrade_smithing_template.base_slot_description": "Розмістіть частину кольчужних обладунків чи кам’яного спорядження",
     "item.apotheosis.iron_upgrade_smithing_template.additions_slot_description": "Розмістіть чотири залізних злитки",

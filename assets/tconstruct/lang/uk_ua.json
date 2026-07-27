@@ -203,7 +203,7 @@
   "item.tconstruct.bacon": "Бекон",
   "item.tconstruct.cheese_ingot": "Сир",
   "block.tconstruct.cheese_block": "Сирний блок",
-  "item.tconstruct.cheese.tooltip": "Очищає випадковий ефект після з’їдання",
+  "item.tconstruct.cheese.tooltip": "Очищає випадковий ефект після з'їдання",
 
   "item.tconstruct.earth_slime_crystal": "Cлизовий кристал",
   "block.tconstruct.earth_slime_crystal_block": "Блок слизових кристалів",
@@ -378,7 +378,7 @@
   "item.tconstruct.small_axe_head_cast": "Золота форма леза малої сокири",
   "item.tconstruct.small_blade_cast": "Золота форма малого леза",
   "item.tconstruct.bow_limb_cast": "Золота форма тятиви лука",
-  "item.tconstruct.bow_grip_cast": "Золота форма руків’я лука",
+  "item.tconstruct.bow_grip_cast": "Золота форма руків'я лука",
   "item.tconstruct.adze_head_cast": "Золота форма леза тесла",
 
   "_comment": "Large Head Gold Casts",
@@ -429,7 +429,7 @@
   "item.tconstruct.small_axe_head_sand_cast": "Піщана форма леза малої сокири",
   "item.tconstruct.small_blade_sand_cast": "Піщана форма малого леза",
   "item.tconstruct.bow_limb_sand_cast": "Піщана форма тятиви лука",
-  "item.tconstruct.bow_grip_sand_cast": "Піщана форма руків’я лука",
+  "item.tconstruct.bow_grip_sand_cast": "Піщана форма руків'я лука",
   "item.tconstruct.adze_head_sand_cast": "Піщана форма для леза тесла",
 
   "_comment": "Large Head Sand Casts",
@@ -479,7 +479,7 @@
   "item.tconstruct.small_axe_head_red_sand_cast": "Червоно-піщана форма леза малої сокири",
   "item.tconstruct.small_blade_red_sand_cast": "Червоно-піщана форма малого леза",
   "item.tconstruct.bow_limb_red_sand_cast": "Червоно-піщана форма тятиви лука",
-  "item.tconstruct.bow_grip_red_sand_cast": "Червоно-піщана форма руків’я лука",
+  "item.tconstruct.bow_grip_red_sand_cast": "Червоно-піщана форма руків'я лука",
   "item.tconstruct.adze_head_red_sand_cast": "Червоно-піщана форма леза тесла",
 
   "_comment": "Large Head Red Sand Casts",
@@ -548,8 +548,8 @@
   "block.tconstruct.meat_soup_fluid": "М'ясний суп",
   "fluid.tconstruct.meat_soup": "М’ясний суп",
   "fluid.tconstruct.flowing_meat_soup": "Зріджений м’ясний суп",
-  "item.tconstruct.meat_soup_bucket": "Відро м’ясного супу",
-  "item.tconstruct.meat_soup": "М’ясний суп",
+  "item.tconstruct.meat_soup_bucket": "Відро м'ясного супу",
+  "item.tconstruct.meat_soup": "М'ясний суп",
   "fluid.tconstruct.meat_soup.fluid_effect": "Не питайте, чиє м’ясо у цьому супі, просто сьорбайте та насолоджуйтесь його смаком.",
 
 
@@ -894,7 +894,7 @@
   "block.tconstruct.molten_pewter_fluid": "Розтоплений п'ютер",
   "fluid.tconstruct.molten_pewter": "Розтоплений п’ютер",
   "fluid.tconstruct.flowing_molten_pewter": "Зріджений розтоплений п’ютер",
-  "item.tconstruct.molten_pewter_bucket": "Відро розтопленого п’ютеру",
+  "item.tconstruct.molten_pewter_bucket": "Відро розтопленого п'ютеру",
   "fluid.tconstruct.molten_pewter.fluid_effect": "Розтоплене олово, ймовірно, менш ризиковане, ніж отрута, для підвищення сили, але не набагато.",
 
   "block.tconstruct.molten_steel_fluid": "Розтоплена сталь",
@@ -1038,7 +1038,7 @@
   "item.tconstruct.netherite_item_frame": "Незеритова рамка",
   "entity.tconstruct.item_frame": "Незвичайна рамка для предметів",
 
-  "item.tconstruct.glow_ball": "Світлом’ячик",
+  "item.tconstruct.glow_ball": "Світлом'ячик",
   "item.tconstruct.glow_ball.tooltip": "Не їстівний.",
   "entity.tconstruct.glow_ball": "Світлом’ячик",
   "item.tconstruct.efln_ball": "ВКРМ",
@@ -1231,7 +1231,7 @@
   "item.tconstruct.large_plate": "Велика пластина",
   
   "item.tconstruct.bow_limb": "Плече лука",
-  "item.tconstruct.bow_grip": "Руків’я лука",
+  "item.tconstruct.bow_grip": "Руків'я лука",
   "item.tconstruct.bowstring": "Тятива",
   "item.tconstruct.arrow_head": "Головка стріли",
   "item.tconstruct.arrow_shaft": "Держалко стріли",
@@ -1241,10 +1241,10 @@
   "item.tconstruct.chestplate_plating": "Нагрудна пластина",
   "item.tconstruct.leggings_plating": "Наголінна пластина",
   "item.tconstruct.boots_plating": "Чобітна пластина",
-  "item.tconstruct.helmet_plating_dummy": "Кам’яна наголівна пластина",
-  "item.tconstruct.chestplate_plating_dummy": "Кам’яна нагрудна пластина",
-  "item.tconstruct.leggings_plating_dummy": "Кам’яна наголінна пластина",
-  "item.tconstruct.boots_plating_dummy": "Кам’яна чобітна пластина",
+  "item.tconstruct.helmet_plating_dummy": "Кам'яна наголівна пластина",
+  "item.tconstruct.chestplate_plating_dummy": "Кам'яна нагрудна пластина",
+  "item.tconstruct.leggings_plating_dummy": "Кам'яна наголінна пластина",
+  "item.tconstruct.boots_plating_dummy": "Кам'яна чобітна пластина",
   "item.tconstruct.maille": "Кольчуга",
   "item.tconstruct.shield_core": "Основа щита",
 
@@ -1256,7 +1256,7 @@
   "item.tconstruct.vein_hammer.description": "Гірничий молот є широким шахтарським знаряддям. Він добуває сполучені блоки одного виду, ідеально для добування руд.",
 
   "item.tconstruct.mattock.description": "Кайломотика є універсальним знаряддям для сільського господарства. Вона ефективна для добування дерева, ґрунту, піску, гравію та рослин.\nТільки не викопай собі могилу!",
-  "item.tconstruct.pickadze.description": "Кайлотесло є універсальним знаряддям для гірництва. Вона ефективна для добування каменю, ґрунту, піску та гравію, але недостатньо гостре для добування твердіших кам’яних блоків, включаючи більшість руд.",
+  "item.tconstruct.pickadze.description": "Кайлотесло є універсальним знаряддям для гірництва. Вона ефективна для добування каменю, ґрунту, піску та гравію, але недостатньо гостре для добування твердіших кам'яних блоків, включаючи більшість руд.",
   "item.tconstruct.excavator.description": "Заступ є широким копальним знаряддям. Він викопує велику площу ґрунту й снігу в широкому радіусі.\nТераформування!",
 
   "item.tconstruct.hand_axe.description": "Ручна сокира рубає дерево й легко справляється з листям. Також із неї виходить непогана зброя.\nСіче на січку!",
@@ -1628,15 +1628,15 @@
   "block.tconstruct.blood_ender_slime_grass.tooltip": "Дозволяє вам вище стрибати та створює кровогриби при удобрюванні",
 
   "block.tconstruct.ichor_vanilla_slime_grass": "Іхоровий нілій",
-  "block.tconstruct.ichor_vanilla_slime_grass.tooltip": "Такий м’який! Дозволяє вам вище стрибати",
+  "block.tconstruct.ichor_vanilla_slime_grass.tooltip": "Такий м'який! Дозволяє вам вище стрибати",
   "block.tconstruct.ichor_earth_slime_grass": "Іхоровий нілій",
-  "block.tconstruct.ichor_earth_slime_grass.tooltip": "Такий м’який! Дозволяє вам вище стрибати",
+  "block.tconstruct.ichor_earth_slime_grass.tooltip": "Такий м'який! Дозволяє вам вище стрибати",
   "block.tconstruct.ichor_sky_slime_grass": "Іхоровий нілій",
-  "block.tconstruct.ichor_sky_slime_grass.tooltip": "Такий м’який! Дозволяє вам вище стрибати",
+  "block.tconstruct.ichor_sky_slime_grass.tooltip": "Такий м'який! Дозволяє вам вище стрибати",
   "block.tconstruct.ichor_ichor_slime_grass": "Іхоровий нілій",
-  "block.tconstruct.ichor_ichor_slime_grass.tooltip": "Такий м’який! Дозволяє вам вище стрибати",
+  "block.tconstruct.ichor_ichor_slime_grass.tooltip": "Такий м'який! Дозволяє вам вище стрибати",
   "block.tconstruct.ichor_ender_slime_grass": "Іхоровий нілій",
-  "block.tconstruct.ichor_ender_slime_grass.tooltip": "Такий м’який! Дозволяє вам вище стрибати",
+  "block.tconstruct.ichor_ender_slime_grass.tooltip": "Такий м'який! Дозволяє вам вище стрибати",
 
   "block.tconstruct.ender_vanilla_slime_grass": "Ендерслизова трава",
   "block.tconstruct.ender_vanilla_slime_grass.tooltip": "Дозволяє вам вище стрибати та породжує ендерслимаків в Енді",

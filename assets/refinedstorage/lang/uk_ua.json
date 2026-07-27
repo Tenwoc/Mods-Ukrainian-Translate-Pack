@@ -302,7 +302,7 @@
   "item.refinedstorage.network_card": "Мережева карта",
   "item.refinedstorage.wrench": "Гайковий ключ",
   "item.refinedstorage.security_card": "Картка безпеки",
-  "item.refinedstorage.security_card.owner": "Прив’язана до %s",
+  "item.refinedstorage.security_card.owner": "Прив'язана до %s",
   "item.refinedstorage.processor_binding": "Сполучний процесорний компонент",
   "item.refinedstorage.cover": "Кришка",
   "item.refinedstorage.hollow_cover": "Порожниста кришка",

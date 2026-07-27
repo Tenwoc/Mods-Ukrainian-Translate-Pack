@@ -57,7 +57,7 @@
 
   "item.immersive_aircraft.rotary_cannon.description": "Швидкострільна гармата, що працює на пороху.",
   "item.immersive_aircraft.bomb_bay.description": "Кидає тротил, не руйнує блоки, але завдає великої шкоди.",
-  "item.immersive_aircraft.telescope.description": "Об’ємніша версія підзорної труби.",
+  "item.immersive_aircraft.telescope.description": "Об'ємніша версія підзорної труби.",
   "item.immersive_aircraft.heavy_crossbow.description": "Важкий арбалет з потужним ударом потребує стріл.",
 
   "item.immersive_aircraft.item.upgrade": "Покращення",
@@ -76,7 +76,7 @@
   "item.immersive_aircraft.warship.description": "Летюча фортеця — повільна, але добре озброєна.",
   "item.immersive_aircraft.biplane.description": "Швидко і досить надійно. Переконайтеся, що ваша злітно-посадкова смуга достатньо довга.",
   "item.immersive_aircraft.gyrodyne.description": "Навіщо цілий двигун, якщо можна запустити літак своїми силами? Гарненько штовхніть - і він полетить!",
-  "item.immersive_aircraft.quadrocopter.description": "Шедевр інженерної думки! 4 двигуни, прив’язані до бамбука. Ідеально для будівництва, та й на цьому все.",
+  "item.immersive_aircraft.quadrocopter.description": "Шедевр інженерної думки! 4 двигуни, прив'язані до бамбука. Ідеально для будівництва, та й на цьому все.",
   "item.immersive_aircraft.bamboo_hopper.description": "Масивний літак із трьома сидіннями та понтонами, що дозволяють безпечно приземлятися на воду.",
 
   "immersive_aircraft.gyrodyne_target": "%d%% потужності, продовжуйте штовхати!",

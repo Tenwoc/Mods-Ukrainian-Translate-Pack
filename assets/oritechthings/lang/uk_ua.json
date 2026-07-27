@@ -1,7 +1,7 @@
 {
   "block.oritechthings.accelerator_magnetic_field": "Генератор магнітного поля прискорювача",
-  "block.oritechthings.accelerator_magnetic_field.controller_set": "Прив’язано генератор магнітного поля до прискорювача частинок у ",
-  "block.oritechthings.accelerator_magnetic_field.error": "Не вдалося прив’язати магнітне поле до прискорювача частинок.",
+  "block.oritechthings.accelerator_magnetic_field.controller_set": "Прив'язано генератор магнітного поля до прискорювача частинок у ",
+  "block.oritechthings.accelerator_magnetic_field.error": "Не вдалося прив'язати магнітне поле до прискорювача частинок.",
   "block.oritechthings.accelerator_magnetic_field.invalid_controller": "Недійсний прискорювач частинок! Потрібно вказати прискорювач частинок.",
   "block.oritechthings.accelerator_magnetic_field.outside_area": "Генератор магнітного поля повинен бути розміщений усередині кільця прискорювача частинок на тій ж висоті!",
   "block.oritechthings.addon_block_acceptor_tier_2": "Доповнювач приймання 2 рівня",
@@ -124,7 +124,7 @@
   "tooltip.oritechthings.advanced_target_designator.magnetic_field": "§9• Генератор магнітного поля прискорювача частинок",
   "tooltip.oritechthings.advanced_target_designator.speed_sensor": "§9• Датчик швидкости прискорювача частинок",
   "tooltip.oritechthings.advanced_target_designator.usage": "§7Сумісні машини:",
-  "tooltip.oritechthings.frame_placer": "Застосуйте крадькома на машині, що використовує портальні рами, \n(наприклад руйнівник,) щоба автоматично побудувати кнструкцію портальної рами",
+  "tooltip.oritechthings.frame_placer": "Застосуйте крадькома на машині, що використовує портальні рами, \n(наприклад руйнівник), щоби автоматично побудувати кнструкцію портальної рами",
   "tooltip.oritechthings.item_extra_info": "Утримайте Ctrl, щоб побачити подробиці",
   "tooltip.oritechthings.particle_accelerator_speed_sensor": "Датчик швидкости прискорювача частинок",
   "tooltip.oritechthings.particle_accelerator_speed_sensor.target_designator_benefit": "§6⚡ Дозволяє віддалено зв’язуватись та відслідковувати прискорювачі",

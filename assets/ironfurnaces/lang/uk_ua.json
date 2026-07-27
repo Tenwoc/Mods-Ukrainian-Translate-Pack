@@ -1,6 +1,6 @@
 {
     "_comment": "Елементи",
-    "item.ironfurnaces.upgrade_iron": "Оновлення печі з кам’яної до залізної",
+    "item.ironfurnaces.upgrade_iron": "Оновлення печі з кам'яної до залізної",
     "item.ironfurnaces.upgrade_gold": "Оновлення печі з залізної до золотої",
     "item.ironfurnaces.upgrade_diamond": "Оновлення печі з золотої до діамантової",
     "item.ironfurnaces.upgrade_emerald": "Оновлення печі з діамантової до смарагдової",
@@ -21,12 +21,12 @@
     "item.ironfurnaces.rainbow_core": "Райдужне ядро",
     "item.ironfurnaces.rainbow_plating": "Райдужне покриття",
     "item.ironfurnaces.rainbow_coal": "Райдужне вугілля",
-    "item.ironfurnaces.upgrade_copper": "Оновлення печі з кам’яної до мідної",
+    "item.ironfurnaces.upgrade_copper": "Оновлення печі з кам'яної до мідної",
     "item.ironfurnaces.upgrade_silver": "Оновлення печі з мідної до срібної",
     "item.ironfurnaces.upgrade_silver2": "Оновлення печі з залізної до срібної",
     "item.ironfurnaces.upgrade_iron2": "Оновлення печі з мідної до залізної",
     "item.ironfurnaces.upgrade_gold2": "Оновлення печі з срібної до золотої",
-    "item.ironfurnaces.item_copy": "З’єднувач налаштувань печі",
+    "item.ironfurnaces.item_copy": "З'єднувач налаштувань печі",
 
     "_comment": "TAB",
     "itemGroup.ironfurnaces": "Iron Furnaces",
@@ -160,6 +160,6 @@
     "ironfurnaces.update.failed": "[{\"text\":\"The Update Check for \"},{\"text\":\"Iron Furnaces \",\"color\":\"dark_green\"},{\"text\":\"failed! Перевірте журнали для отримання додаткової інформації!\",\"color\":\"none\"}]",
 
     "item.ironfurnaces.augment_xp": "Доповнення: Досвід",
-    "item.ironfurnaces.item_linker": "Райдужний з’єднувач"
+    "item.ironfurnaces.item_linker": "Райдужний з'єднувач"
 
 }

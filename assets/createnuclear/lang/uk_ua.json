@@ -131,7 +131,7 @@
   "block.createnuclear.reactor_core": "Активна зона реактора",
   "block.createnuclear.reactor_core.tooltip.summary": "_Блок_, що використовується у побудові _реактора_",
   "block.createnuclear.reactor_fluid_input": "Рідинний вхід реактора",
-  "block.createnuclear.reactor_fluid_input.tooltip.behaviour1": "Введіть _воду_ або _рідкий азот_ у великих об’ємах, щоб заживити _реактор_ та запобігти його _вибуху_.",
+  "block.createnuclear.reactor_fluid_input.tooltip.behaviour1": "Введіть _воду_ або _рідкий азот_ у великих об'ємах, щоб заживити _реактор_ та запобігти його _вибуху_.",
   "block.createnuclear.reactor_fluid_input.tooltip.condition1": "Коли реактор зібрано",
   "block.createnuclear.reactor_fluid_input.tooltip.summary": "_Рідинний вхід реактора_ — це блок, що використовується для подачі _води_ або _рідкого азоту_ у реактор.",
   "block.createnuclear.reactor_frame": "Каркас реактора",

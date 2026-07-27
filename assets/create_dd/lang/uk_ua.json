@@ -135,8 +135,8 @@
   "item.create_dd.industrial_iron_nugget": "Промисловий залізний самородок",
   "item.create_dd.industrial_iron_sheet": "Промисловий залізний лист",
 
-  "item.create_dd.tin_ingot": "Олов’яний злиток",
-  "item.create_dd.tin_nugget": "Олов’яний самородок",
+  "item.create_dd.tin_ingot": "Олов'яний злиток",
+  "item.create_dd.tin_nugget": "Олов'яний самородок",
   "item.create_dd.raw_tin": "Необроблене олово",
 
   "item.create_dd.lapis_alloy": "Лазуритовий сплав",
@@ -144,7 +144,7 @@
 
   "item.create_dd.andesite_sheet": "Лист андезитового сплаву",
   "item.create_dd.zinc_sheet": "Цинковий лист",
-  "item.create_dd.tin_sheet": "Олов’яний лист",
+  "item.create_dd.tin_sheet": "Олов'яний лист",
 
   "item.create_dd.coal_piece": "Шматок вугілля",
   "item.create_dd.diamond_shard": "Діамантовий уламок",
@@ -829,7 +829,7 @@
   "item.create_dd.refined_radiance.tooltip.summary": "Хроматичний матеріал, вилитий _у Найчистішому Сяянні.",
   "item.create_dd.overcharge_alloy.tooltip": "ПЕРЕЗАРЯДЖЕНИЙ СПЛАВ",
   "item.create_dd.overcharge_alloy.tooltip.summary": "Хроматичний матеріал, вилитий _у Безмежній Енергетичній Силі_.",
-  "item.create_dd.blaze_gold.tooltip": "ПОЛУМ’ЯНА ЛАТУНЬ",
+  "item.create_dd.blaze_gold.tooltip": "ПОЛУМ'ЯНА ЛАТУНЬ",
   "item.create_dd.blaze_gold.tooltip.summary": "Хроматичний матеріал, вилитий _душею Пекельного Захисника_.",
   "item.create_dd.stargaze_singularity.tooltip": "ЗОРЕОЧНА СИНГУЛЯРНІСТЬ",
   "item.create_dd.stargaze_singularity.tooltip.summary": "Занепалий хроматичний матеріал, засклений _високо в Зоряному нічному небі_.",

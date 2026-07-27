@@ -1,7 +1,7 @@
 {
 
     "item.xnet.xnet_manual": "Посібник XNet",
-    "item.xnet.connector_upgrade": "Комплект для оновлення роз’єму",
+    "item.xnet.connector_upgrade": "Комплект для оновлення роз'єму",
 
     "block.xnet.facade": "Facade",
     "item.xnet.facade_blue": "Синій фасад",
@@ -11,18 +11,18 @@
     "item.xnet.facade_routing": "Фасад маршрутизації",
 
     "block.xnet.connector": "Конектор",
-    "item.xnet.connector_blue": "Синій роз’єм",
-    "item.xnet.connector_red": "Червоний роз’єм",
-    "item.xnet.connector_yellow": "Жовтий роз’єм",
-    "item.xnet.connector_green": "Зелений роз’єм",
-    "item.xnet.connector_routing": "Роз’єм маршрутизації",
+    "item.xnet.connector_blue": "Синій роз'єм",
+    "item.xnet.connector_red": "Червоний роз'єм",
+    "item.xnet.connector_yellow": "Жовтий роз'єм",
+    "item.xnet.connector_green": "Зелений роз'єм",
+    "item.xnet.connector_routing": "Роз'єм маршрутизації",
 
     "block.xnet.advanced_connector": "Розширений роз'єм",
-    "item.xnet.advanced_connector_blue": "Розширений синій роз’єм",
-    "item.xnet.advanced_connector_red": "Розширений червоний роз’єм",
-    "item.xnet.advanced_connector_yellow": "Розширений жовтий роз’єм",
-    "item.xnet.advanced_connector_green": "Розширений зелений роз’єм",
-    "item.xnet.advanced_connector_routing": "Роз’єм розширеної маршрутизації (NOT)",
+    "item.xnet.advanced_connector_blue": "Розширений синій роз'єм",
+    "item.xnet.advanced_connector_red": "Розширений червоний роз'єм",
+    "item.xnet.advanced_connector_yellow": "Розширений жовтий роз'єм",
+    "item.xnet.advanced_connector_green": "Розширений зелений роз'єм",
+    "item.xnet.advanced_connector_routing": "Роз'єм розширеної маршрутизації (NOT)",
 
     "block.xnet.netcable": "Мережевий кабель",
     "item.xnet.netcable_blue": "Синій мережевий кабель",
