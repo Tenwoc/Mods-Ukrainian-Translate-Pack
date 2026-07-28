@@ -29,7 +29,7 @@
 	
 	"fluid_type.immersivepetroleum.diesel": "Дизель",
 	"fluid_type.immersivepetroleum.diesel_sulfur": "Сульфований дизель",
-	"fluid_type.immersivepetroleum.crudeoil": "Нафта",
+	"fluid_type.immersivepetroleum.crudeoil": "Сира нафта",
 	"fluid_type.immersivepetroleum.lubricant": "Мастило",
 	"fluid_type.immersivepetroleum.gasoline": "Бензин",
 	"fluid_type.immersivepetroleum.napalm": "Напалм",
@@ -54,7 +54,7 @@
 	"item.immersivepetroleum.petcoke_dust": "Пил нафтового коксу",
 	"item.immersivepetroleum.diesel_bucket": "Відро дизелю",
 	"item.immersivepetroleum.diesel_sulfur_bucket": "Відро сульфованого дизелю",
-	"item.immersivepetroleum.crudeoil_bucket": "Відро нафти",
+	"item.immersivepetroleum.crudeoil_bucket": "Відро сирої нафти",
 	"item.immersivepetroleum.lubricant_bucket": "Відро мастила",
 	"item.immersivepetroleum.gasoline_bucket": "Відро бензину",
 	"item.immersivepetroleum.napalm_bucket": "Відро напалму",
