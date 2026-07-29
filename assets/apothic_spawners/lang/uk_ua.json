@@ -20,10 +20,10 @@
     "misc.apothic_spawners.off": "%s: Вимкнено",
     
     "stat.apothic_spawners.min_delay": "Мін. затримка породження",
-    "stat.apothic_spawners.min_delay.desc": "Мінімальна кількість тактів між спавнами",
+    "stat.apothic_spawners.min_delay.desc": "Мінімальна кількість тактів між породженнями",
     
     "stat.apothic_spawners.max_delay": "Макс. затримка породження",
-    "stat.apothic_spawners.max_delay.desc": "Максимальна кількість тактів між спавнами",
+    "stat.apothic_spawners.max_delay.desc": "Максимальна кількість тактів між породженнями",
     
     "stat.apothic_spawners.spawn_count": "Обсяг породження",
     "stat.apothic_spawners.spawn_count.desc": "Кількість істот, що з’являються одночасно",
@@ -32,10 +32,10 @@
     "stat.apothic_spawners.max_nearby_entities.desc": "Загальна кількість істот, що можуть перебувати поблизу",
     
     "stat.apothic_spawners.req_player_range": "Радіус активації",
-    "stat.apothic_spawners.req_player_range.desc": "На якій відстані від гравця може бути спавн, перш ніж він припинить спавн",
+    "stat.apothic_spawners.req_player_range.desc": "На якій відстані від гравця може відбуватися породження",
     
     "stat.apothic_spawners.spawn_range": "Дистанція породження",
-    "stat.apothic_spawners.spawn_range.desc": "Радіус, у якому моби можуть спавнитись",
+    "stat.apothic_spawners.spawn_range.desc": "Область навколо породжувача, у якій моби можуть з’являтися",
     
     "stat.apothic_spawners.ignore_players": "Ігнорування гравців",
     "stat.apothic_spawners.ignore_players.desc": "Породжувач не потребує гравця поблизу",
