@@ -95,7 +95,7 @@
     "misc.apotheosis.affix_name.two": "%s %s",
     "misc.apotheosis.affix_name.three": "%s %s %s",
     "misc.apotheosis.affix_name.four": "%s %s %s %s",
-    "misc.apotheosis.affix_bounds": "[%s - %s]",
+    "misc.apotheosis.affix_bounds": "[%s\u00A0-\u00A0%s]",
 
     "misc.apotheosis.radial_state_updated": "Радіальний режим добування оновлено до \"%s\"",
     "misc.apotheosis.radial_state.require_not_sneaking": "Вимикати при підкраданні",
@@ -765,7 +765,7 @@
 
     "disconnect.apotheosis.tier_changes_disabled": "Ручну зміну світового рівня вимкнено в конфігурації.",
 
-    "elite.apotheosis.craig": "Крейг Вічний",
+    "elite.apotheosis.craig": "Крейґ Вічний",
 
     "comment_id": "/Adventure + Gateways Compat",
 
