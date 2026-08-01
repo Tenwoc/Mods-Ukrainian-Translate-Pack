@@ -5,9 +5,9 @@ navigation:
   icon: molecular_assembler
   position: 310
 categories:
-- machines
+  - machines
 item_ids:
-- ae2:molecular_assembler
+  - ae2:molecular_assembler
 ---
 
 # Молекулярний збирач
@@ -36,7 +36,7 @@ item_ids:
 
 Молекулярний збирач підтримує такі [модифікатори](upgrade_cards.md):
 
-*   <ItemLink id="speed_card" />
+- <ItemLink id="speed_card" />
 
 ## Рецепт
 
@@ -44,4 +44,4 @@ item_ids:
 
 ## Примітка
 
-Optifine порушує функцію «перенесення до прилеглих містил», тому більшість установок майстрування зі збирачами не працюватимуть.
+Optifine порушує функцію «перенесення до прилеглих містил», тому більшість устав майстрування зі збирачами не працюватимуть.

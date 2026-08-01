@@ -1,0 +1,35 @@
+{
+  "item.ae2helpers.result_import_card": "Картка імпорту результатів вироблення",
+
+  "ae2helpers.configuration.title": "Налаштування ae2helpers",
+  "ae2helpers.configuration.section.ae2helpers.common.toml": "Налаштування ae2helpers",
+  "ae2helpers.configuration.section.ae2helpers.common.toml.title": "Налаштування ae2helpers",
+  "ae2helpers.configuration.items": "Список предметів",
+  "ae2helpers.configuration.logDirtBlock": "Логувати блок ґрунту",
+  "ae2helpers.configuration.magicNumberIntroduction": "Текст магічного числа",
+  "ae2helpers.configuration.magicNumber": "Магічне число",
+  "ae2helpers.configuration.enableAutoImport": "Увімкнути автоімпортування у сітку майстрування",
+
+  "ae2helpers.crafthelper.title": "Автоімпортувати вироблені предмети у сітку майстрування",
+  "ae2helpers.crafthelper.enabled": "Увімкнено",
+  "ae2helpers.crafthelper.disabled": "Вимкнено",
+  "ae2helpers.crafthelper.tooltip": "[AE2Helpers] Автоматично переміщує предмети у сітку майстрування, що були вироблені за запитом у переглядачі рецептів",
+
+  "ae2helpers.importcard.pattern": "МЕ Постачальник шаблонів (лише спрямований)",
+  "ae2helpers.importcard.screen.title": "Налаштування імпортування картки",
+  "ae2helpers.importcard.resultsonly": "Імпортувати тільки результати вироблення",
+  "ae2helpers.importcard.resultsonly.tooltip": "Якщо увімкнено, імпортуватимуться лише очікувані результати поточного шаблона.\nЯкщо вимкнено, імпортуватиметься усе, що можливо.",
+  "ae2helpers.importcard.sync": "Синхронізуватися із процесорами обробки",
+  "ae2helpers.importcard.sync.tooltip": "Якщо увімкнено, постійно перевірятиметься, чи все ще потребує предметів процесор.\nЗупиняє імпорт, якщо завдання було перервано чи виконано іншими засобами.\nПрацює, якщо увімкнено параметр «Імпортувати тільки результати вироблення»",
+  "ae2helpers.importcard.direction": "Сторона імпортування",
+  "ae2helpers.importcard.direction.tooltip": "Сторона машини, з якої слід виводити результат.\n«Автоматична» сторона використовуватиме бік, прилеглий до постачальника шаблонів.",
+  "ae2helpers.importcard.direction.auto": "Автоматична (лицьовий бік)",
+  "ae2helpers.importcard.tooltip.mode": "Режим: ",
+  "ae2helpers.importcard.tooltip.crafting_results": "Тільки результати вироблення",
+  "ae2helpers.importcard.tooltip.everything": "Усе",
+  "ae2helpers.importcard.tooltip.sync": "Синх. з процесором: ",
+  "ae2helpers.importcard.tooltip.enabled": "Увімкнена",
+  "ae2helpers.importcard.tooltip.disabled": "Вимкнена",
+  "ae2helpers.importcard.tooltip.side": "Напрям: ",
+  "ae2helpers.importcard.tooltip.hint": "ПКМ, щоби налаштувати"
+}
