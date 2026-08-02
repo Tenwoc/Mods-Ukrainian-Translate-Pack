@@ -175,7 +175,7 @@
   "gui.sophisticatedbackpacks.status.mob_catcher_inventory_blocked": "Мобів з інвентарями не можна захопити",
   "gui.sophisticatedbackpacks.status.mob_catcher_hostile_needs_advanced": "Ворожі моби потребують наявності вдосконаленого «Ловця мобів»",
   "gui.sophisticatedbackpacks.status.mob_catcher_too_large": "Для утримання цього моба необхідно %s слотів, що більше, ніж надає це покращення (%s)",
-  "gui.sophisticatedbackpacks.status.mob_catcher_no_space": "Наявна непорожня область слотів у %sx%s",
+  "gui.sophisticatedbackpacks.status.mob_catcher_no_space": "Потребується порожня область слотів у %sx%s",
   "gui.sophisticatedbackpacks.status.mob_catcher_release_failed": "Не вдається випустити моба тут",
   "gui.sophisticatedbackpacks.status.mob_catcher_no_release_space": "Тут недостатньо місця, щоб випустити моба",
   "gui.sophisticatedbackpacks.mob_catcher.click_to_release": "Клацніть, щоб випустити",
