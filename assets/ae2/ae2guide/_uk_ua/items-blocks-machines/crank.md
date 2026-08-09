@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: items-blocks-machines/items-blocks-machines-index.md
-  title: Дерев’яний кривошип
+  title: Дерев'яний кривошип
   icon: crank
   position: 310
 categories:

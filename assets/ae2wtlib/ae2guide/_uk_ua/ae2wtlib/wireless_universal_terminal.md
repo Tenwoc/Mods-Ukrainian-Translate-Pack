@@ -16,9 +16,9 @@ item_ids:
 
 <ItemLink id="ae2wtlib:wireless_universal_terminal" /> – це поєднання кількох [бездротових терміналів](wireless_terminals.md) в єдиний предмет.
 
-Усі [бездротові термінали AE2WTLib](wireless_terminals.md) можна об’єднати в один термінал.
+Усі [бездротові термінали AE2WTLib](wireless_terminals.md) можна об'єднати в один термінал.
 
-<ItemLink id="ae2:wireless_terminal" /> від AE2 **_НЕ_** можна об’єднати в <ItemLink id="ae2wtlib:wireless_universal_terminal" />.
+<ItemLink id="ae2:wireless_terminal" /> від AE2 **_НЕ_** можна об'єднати в <ItemLink id="ae2wtlib:wireless_universal_terminal" />.
 
 ## Інтерфейс
 

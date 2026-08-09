@@ -172,6 +172,6 @@ navigation:
 1. <ItemLink id="pattern_provider" /> переміщує складники в діжку.
 2. Перша [трубна підмережа](pipe-subnet.md) (помаранчева) витягує кремній, редстоуновий пил та відповідний складник процесора (золотий злиток, кристал істинного кварцу або діамант) з діжки та поміщає їх у відповідний <ItemLink id="inscriber" />.
 3. Перші чотири <ItemLink id="inscriber" /> штапмують <ItemLink id="printed_silicon" />, та <ItemLink id="printed_logic_processor" />, <ItemLink id="printed_calculation_processor" />, чи <ItemLink id="printed_engineering_processor" />.
-4. Друга та третя [трубні підмережі](pipe-subnet.md) (зелені) витягують друковані схеми з перших чотирьох <ItemLink id="inscriber" /> та поміщають їх у п’ятий <ItemLink id="inscriber" /> для завершувального збирання.
-5. П’ятий <ItemLink id="inscriber" /> збирає [процесор](../items-blocks-machines/processors.md).
+4. Друга та третя [трубні підмережі](pipe-subnet.md) (зелені) витягують друковані схеми з перших чотирьох <ItemLink id="inscriber" /> та поміщають їх у п'ятий <ItemLink id="inscriber" /> для завершувального збирання.
+5. П'ятий <ItemLink id="inscriber" /> збирає [процесор](../items-blocks-machines/processors.md).
 6. Четверта [трубна підмережа](pipe-subnet.md) (фіолетова) поміщає процесор у постачальника шаблонів, тим самим повертаючи його до основної мережі.
