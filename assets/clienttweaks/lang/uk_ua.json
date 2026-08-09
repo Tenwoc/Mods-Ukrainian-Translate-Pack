@@ -41,7 +41,7 @@
     "config.clienttweaks.tweaks.masterVolumeSlider": "Повзунок загальної гучності",
     "config.clienttweaks.tweaks.masterVolumeSlider.tooltip": "Повертає повзунок основного рівня гучності на екран параметрів. Заощаджує ваш клік!",
     "config.clienttweaks.tweaks.musicVolumeSlider": "Повзунок гучності музики",
-    "config.clienttweaks.tweaks.musicVolumeSlider.tooltip": "Дозволяє повернути повзунок гучності музики на екран параметрів. Заощаджує клацання!",
+    "config.clienttweaks.tweaks.musicVolumeSlider.tooltip": "Дає змогу повернути повзунок гучності музики на екран параметрів. Заощаджує клацання!",
     "config.clienttweaks.tweaks.paneBuildingSupport": "Панельна підтримка будівель",
     "config.clienttweaks.tweaks.paneBuildingSupport.tooltip": "Ця опція зробить більший хітбокс залізним ґратам та шибкам під час їх розміщення, що полегшить прицілювання.",
     "config.clienttweaks.tweaks.chainBuildingSupport": "Підтримка будування ланцюгів",

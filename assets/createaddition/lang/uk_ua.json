@@ -201,7 +201,7 @@
 
 	"block.createaddition.redstone_relay": "Редстоунове реле",
 	"block.createaddition.redstone_relay.tooltip": "РЕДСТОУНОВЕ РЕЛЕ",
-	"block.createaddition.redstone_relay.tooltip.summary": "Дозволяє _⚡_ переходити від _вхідного з’єднувача_ до _вихідного з'єднувача_ під час отримання _редстоун сигналу_.",
+	"block.createaddition.redstone_relay.tooltip.summary": "Дає змогу _⚡_ переходити від _вхідного з’єднувача_ до _вихідного з'єднувача_ під час отримання _редстоун сигналу_.",
 	"block.createaddition.redstone_relay.tooltip.condition1": "Низький струм",
 	"block.createaddition.redstone_relay.tooltip.behaviour1": "Підключається до _низькострумових роз'ємів_.",
 	"block.createaddition.redstone_relay.tooltip.condition2": "Вихід",
@@ -211,7 +211,7 @@
 
 	"block.createaddition.digital_adapter": "Цифровий адаптер",
 	"block.createaddition.digital_adapter.tooltip": "ЦИФРОВИЙ АДАПТЕР",
-	"block.createaddition.digital_adapter.tooltip.summary": "Периферійний пристрій, який дозволяє _комп'ютерам(Computercraft)_взаємодіяти з _табло_, вимірювачами _швидкости_ і _навантаження_, а також _регуляторами швидкости обертання_.",
+	"block.createaddition.digital_adapter.tooltip.summary": "Периферійний пристрій, який дає змогу _комп'ютерам(Computercraft)_взаємодіяти з _табло_, вимірювачами _швидкости_ і _навантаження_, а також _регуляторами швидкости обертання_.",
 
 	"block.createaddition.chocolate_cake": "Шоколадний торт",
 	"block.createaddition.honey_cake": "Медівник",

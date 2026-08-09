@@ -1,12 +1,12 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: Розширений штампувальний прес
-    icon: extendedae:ex_inscriber
+  parent: epp_intro/epp_intro-index.md
+  title: Розширений штампувальний прес
+  icon: extendedae:ex_inscriber
 categories:
-- extended devices
+  - extended devices
 item_ids:
-- extendedae:ex_inscriber
+  - extendedae:ex_inscriber
 ---
 
 # Розширений штампувальний прес
@@ -19,6 +19,6 @@ item_ids:
 
 Він може виконувати 4 обробки одночасно.
 
-Є кнопка, яка дозволяє змінити максимальний розмір стосу інвентарю, як і у звичайному.
+Є кнопка, яка дає змогу змінити максимальний розмір стосу інвентарю, як і у звичайному.
 
 Рекомендується встановити розмір стосу на 1, коли використовується <ItemLink id="ae2:pattern_provider" />, щоб уникнути можливих проблем.

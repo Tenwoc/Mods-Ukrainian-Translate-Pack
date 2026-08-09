@@ -54,12 +54,11 @@ navigation:
 ## Конфігурації шаблони
 
 - <ItemLink id="pattern_provider" /> (1) стоїть без змін, з відповідними <ItemLink id="processing_pattern" />s
-
   - Для <ItemLink id="fluix_crystal" /> базовий рецепт з JEI/REI працює добре:
 
     ![Fluix Pattern](../assets/diagrams/fluix_pattern.png)
 
-  - <ItemLink id="flawed_budding_quartz" /> ймовірно, найкраще створювати безпосередньо з <ItemLink id="quartz_block" />, що дозволяє уникнути проблем зі складниками одного рецепту, що є результатами іншого, через що шина зберігання не зможе фільтрувати:
+  - <ItemLink id="flawed_budding_quartz" /> ймовірно, найкраще створювати безпосередньо з <ItemLink id="quartz_block" />, що дає змогу уникнути проблем зі складниками одного рецепту, що є результатами іншого, через що шина зберігання не зможе фільтрувати:
 
     ![Flawed Budding Pattern](../assets/diagrams/flawed_budding_pattern.png)
 

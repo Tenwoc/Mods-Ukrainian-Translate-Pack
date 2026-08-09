@@ -145,7 +145,7 @@
   "lore.dungeons_mobs.diamond_mountaineer_axe": "Мрія всіх альпіністів, тільки розбійники, які вміють або яким пощастило добути і продавати рідкісні гірські смарагди, можуть дозволити собі цей інструмент.",
 
   "item.dungeons_mobs.windcaller_staff": "Посох вітровода",
-  "lore.dungeons_mobs.windcaller_staff": "Звук, що виникає при зіткненні шторму зі своєрідною формою нефритового посоха, дозволяє його власникові визначити напрямок вітру.",
+  "lore.dungeons_mobs.windcaller_staff": "Звук, що виникає при зіткненні шторму зі своєрідною формою нефритового посоха, дає змогу його власникові визначити напрямок вітру.",
   "ability.dungeons_mobs.windcaller_staff": "Стріляє поривом вітру, який відкидає ворогів назад.",
   "item.dungeons_mobs.geomancer_staff": "Посох геоманта",
   "lore.dungeons_mobs.geomancer_staff": "На вигляд звичайна тростина, геоманти використовують цей посох, щоб посилати поштовхи в землю, вивільняючи її вибухову силу.",
@@ -190,7 +190,7 @@
   "item.dungeons_mobs.iceologer_chestplate": "Накидка льодолога",
   "item.dungeons_mobs.iceologer_leggings": "Штани льодолога",
   "item.dungeons_mobs.iceologer_boots": "Чоботи льодолога",
-  "lore.dungeons_mobs.iceologer_armor": "Лазурові шати, які носять льодологи Самотньої фортеці. Хитромудрі руни дозволяють її власникові закликати грізну силу зими.",
+  "lore.dungeons_mobs.iceologer_armor": "Лазурові шати, які носять льодологи Самотньої фортеці. Хитромудрі руни дають змогу її власникові закликати грізну силу зими.",
   
   "item.dungeons_mobs.illusioner_helmet": "Капюшон ілюзора",
   "item.dungeons_mobs.illusioner_chestplate": "Роба ілюзора",

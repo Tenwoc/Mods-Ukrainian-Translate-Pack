@@ -126,7 +126,7 @@
     "effect.apothic_attributes.detonation.desc": "По закінченню ефекту завдає шкоди на основі залишкових тактів горіння.",
     "effect.apothic_attributes.detonation.description": "По закінченню ефекту завдає шкоди на основі залишкових тактів горіння.",
 
-    "effect.minecraft.night_vision.desc": "Дозволяє бачити у темряві.",
+    "effect.minecraft.night_vision.desc": "Дає змогу бачити у темряві.",
     "effect.minecraft.invisibility.desc": "Робить невидимим вас, але не ваше спорядження.",
     "effect.minecraft.jump_boost.desc": "Збільшує висоту стрибка.",
     "effect.minecraft.fire_resistance.desc": "Нівелює шкоду від вогню.",

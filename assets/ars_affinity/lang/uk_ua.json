@@ -13,7 +13,7 @@
   "ars_affinity.perk.PASSIVE_SOULSPIKE": "До %d%% шансу зачаклувати/послабити нападників.",
   "ars_affinity.perk.PASSIVE_HEALING_AMPLIFICATION": "Посилює Зцілення %d%% та знижує його споживання ситості",
   "ars_affinity.perk.PASSIVE_BLIGHTED": "Лікувальні закляття тепер на %d%% менш ефективні й спричиняють нудоту",
-  "ars_affinity.perk.PASSIVE_COLD_WALKER": "Зменшує тертя та дозволяє рухатися на %d%% швидше на холодних поверхнях.",
+  "ars_affinity.perk.PASSIVE_COLD_WALKER": "Зменшує тертя та дає змогу рухатися на %d%% швидше на холодних поверхнях.",
   "ars_affinity.perk.PASSIVE_DEFLECTION": "Ворожі снаряди відображаються назад (%d секунд відновлення)",
   "ars_affinity.perk.PASSIVE_STONE_SKIN": "Нівелює ворожі атаки у ближньому бою (%d секунд відновлення)",
   "ars_affinity.perk.PASSIVE_HYDRATION": "Відновлює 1 очно ситості кожні %d секунд поки ви мокрий",

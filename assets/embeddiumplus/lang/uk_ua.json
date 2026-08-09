@@ -86,11 +86,11 @@
   "embeddium.plus.options.darkness.nether.title": "Увімкнути на Nether",
   "embeddium.plus.options.darkness.nether.desc": "Якщо увімкнено, справжню темряву буде застосовано в Незері.",
   "embeddium.plus.options.darkness.nether.brightness.title": "Яскравість туману Незеру",
-  "embeddium.plus.options.darkness.nether.brightness.desc": "Дозволяє налаштувати яскравість туману в Незері, коли ввімкнено темряву.",
+  "embeddium.plus.options.darkness.nether.brightness.desc": "Дає змогу налаштувати яскравість туману в Незері, коли ввімкнено темряву.",
   "embeddium.plus.options.darkness.end.title": "Увімкнути в Енді",
   "embeddium.plus.options.darkness.end.desc": "Якщо увімкнено, справжню темряву буде застосовано у Енді.",
   "embeddium.plus.options.darkness.end.brightness.title": "Яскравість туману в Енді",
-  "embeddium.plus.options.darkness.end.brightness.desc": "Дозволяє налаштувати яскравість туману в Енді, коли увімкнено темряву.",
+  "embeddium.plus.options.darkness.end.brightness.desc": "Дає змогу налаштувати яскравість туману в Енді, коли увімкнено темряву.",
   "embeddium.plus.options.darkness.blocklightonly.title": "Блокувати лише світло",
   "embeddium.plus.options.darkness.blocklightonly.desc": "Якщо увімкнено, вимикає яскравість неба, туману та місяця, роблячи блоки єдиним джерелом світла",
   "embeddium.plus.options.darkness.moonphase.title": "Використовувати фази місяця",
@@ -98,7 +98,7 @@
   "embeddium.plus.options.darkness.moonphase.fresh.title": "Яскравість нового місяця (мін)",
   "embeddium.plus.options.darkness.moonphase.fresh.desc": "Налаштуйте яскравість на нового місяця, або мінімальний рівень яскравості на темну фазу місяця",
   "embeddium.plus.options.darkness.moonphase.full.title": "Яскравість у повний місяць (макс)",
-  "embeddium.plus.options.darkness.moonphase.full.desc": "Дозволяє налаштувати яскравість у повний місяць або максимальний рівень яскравості на темну фазу місяця",
+  "embeddium.plus.options.darkness.moonphase.full.desc": "Дає змогу налаштувати яскравість у повний місяць або максимальний рівень яскравості на темну фазу місяця",
 
   "embeddium.plus.options.dynlights.page": "Динамічне освітлення",
   "embeddium.plus.options.dynlights.tiles.title": "Використовується для блокових об’єктів",
@@ -108,7 +108,7 @@
   "embeddium.plus.options.dynlights.speed.title": "Швидкість оновлення освітлення",
   "embeddium.plus.options.dynlights.speed.desc": "Керує частотою оновлення динамічного освітлення.\n\nПерерахунок освітлення може бути дорогим, тому повільніші значення дадуть кращу продуктивність.",
   "embeddium.plus.options.fadein.title": "Якість зникання чанків",
-  "embeddium.plus.options.fadein.desc": "Дозволяє керувати швидкістю затухання чанків. Не впливає на продуктивність, Fancy просто працює довше, але виглядає трохи крутіше. Наразі не працює",
+  "embeddium.plus.options.fadein.desc": "Дає змогу керувати швидкістю затухання чанків. Не впливає на продуктивність, Fancy просто працює довше, але виглядає трохи крутіше. Наразі не працює",
 
   "embeddium.plus.options.leaves_culling.title": "Відсіювання листя",
   "embeddium.plus.options.leaves_culling.desc": "Зменшує кількість однотипних граней на листі, контролює глибину відсіювання",
@@ -121,7 +121,7 @@
   "embeddium.plus.options.fastchest.title": "Використовувати швидкі скрині",
   "embeddium.plus.options.fastchest.desc": "Якщо увімкнено, замінює модель скрині на статичну модель, як звичайний блок. Вимикає анімацію скрині, але працює швидше у кімнатах зі скринями\n\nОпція не має ефекту при встановленому flywheel та запущеному пакетному або інстанційному бекенді\nВАЖЛИВО: ввімкнення/вимкнення цієї опції вимагає також ввімкнення/вимкнення ресурспаків скрині.",
   "embeddium.plus.options.fastbeds.title": "Використовувати швидкі ліжка",
-  "embeddium.plus.options.fastbeds.desc": "Якщо увімкнено, замінює динамічну модель ліжка на статичну, як звичайний блок. Збільшує продуктивність, а також дозволяє використовувати користувацькі моделі з пакетами ресурсів\nВАЖЛИВО: ввімкнення/вимкнення цієї опції вимагає також ввімкнення/вимкнення ресурспаків ліжка",
+  "embeddium.plus.options.fastbeds.desc": "Якщо увімкнено, замінює динамічну модель ліжка на статичну, як звичайний блок. Збільшує продуктивність, а також дає змогу використовувати користувацькі моделі з пакетами ресурсів\nВАЖЛИВО: ввімкнення/вимкнення цієї опції вимагає також ввімкнення/вимкнення ресурспаків ліжка",
   "embeddium.plus.options.fog.title": "Використовувати туман",
   "embeddium.plus.options.fog.desc": "Якщо вимкнено, прибирає ефект туману лише у верхньому світі",
   "embeddium.plus.options.blueband.title": "Використовувати небесно-блакитну смугу",
@@ -145,7 +145,7 @@
   "embeddium.plus.options.zoom.speed.title": "Швидкість масштабування",
   "embeddium.plus.options.zoom.speed.desc": "Швидкість прив’язки клавіш збільшення/зменшення та прокрутки масштабу (якщо увімкнено).\nDEFAULT: `20`.",
   "embeddium.plus.options.zoom.scrolling.title": "Прокрутка масштабу",
-  "embeddium.plus.options.zoom.scrolling.desc": "Дозволяє збільшувати та зменшувати масштаб, прокручуючи мишею вгору та вниз, коли масштабування активоване.\nЦе запобігає прокручуванню на панелі швидкого доступу під час масштабування, якщо його увімкнено.",
+  "embeddium.plus.options.zoom.scrolling.desc": "Дає змогу збільшувати та зменшувати масштаб, прокручуючи мишею вгору та вниз, коли масштабування активоване.\nЦе запобігає прокручуванню на панелі швидкого доступу під час масштабування, якщо його увімкнено.",
   "embeddium.plus.options.zoom.smoothness.title": "Плавність масштабування",
   "embeddium.plus.options.zoom.smoothness.desc": "Зміни FOV буде розподілено на стільки-то мілісекунд.\nВстановіть `0`, щоб вимкнути анімацію.",
   "embeddium.plus.options.zoom.easing_exponent.animation.title": "Експонента згладжування анімації",
@@ -169,7 +169,7 @@
 
   "embeddium.plus.options.others.page": "Інші",
   "embeddium.plus.options.others.borderless.attachmode.title": "Повноекранний режим без меж на F11",
-  "embeddium.plus.options.others.borderless.attachmode.desc": "Дозволяє налаштувати спосіб приєднання повноекранного режиму\n\nДОДАВАННЯ - додає його між віконним і повноекранним режимами\nЗАМІНА - замінює повноекранний режим на повноекранний\nВИМК - вимикає приєднання повноекранного режиму до клавіші F11",
+  "embeddium.plus.options.others.borderless.attachmode.desc": "Дає змогу налаштувати спосіб приєднання повноекранного режиму\n\nДОДАВАННЯ - додає його між віконним і повноекранним режимами\nЗАМІНА - замінює повноекранний режим на повноекранний\nВИМК - вимикає приєднання повноекранного режиму до клавіші F11",
   "embeddium.plus.options.others.languagescreen.fastreload.title": "Швидке перезавантаження мови",
   "embeddium.plus.options.others.languagescreen.fastreload.desc": "Якщо увімкнено, оновлення мови перезавантажуватиме лише мову, а не всі ресурси, що прискорює роботу на 99,9%."
 }

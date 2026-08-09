@@ -5,10 +5,10 @@ navigation:
   icon: formation_core
   position: 010
 categories:
-- misc ingredients blocks
+  - misc ingredients blocks
 item_ids:
-- ae2:formation_core
-- ae2:annihilation_core
+  - ae2:formation_core
+  - ae2:annihilation_core
 ---
 
 # Ядра формування та руйнування
@@ -19,7 +19,7 @@ item_ids:
   <ItemImage id="annihilation_core" scale="4" />
 </Row>
 
-Це основні компоненти AE2 для логістичних [пристроїв](../ae2-mechanics/devices.md). Використовуючи <ItemLink id="fluix_crystal" /> та [логічний процесор](processors.md) вони дозволяють пристроям вводити та виводити предмети, блоки, рідини тощо. (Фактичної функції немає, це лише проміжний елемент у майструванні)
+Це основні компоненти AE2 для логістичних [пристроїв](../ae2-mechanics/devices.md). Використовуючи <ItemLink id="fluix_crystal" /> та [логічний процесор](processors.md) вони дають змогу пристроям вводити та виводити предмети, блоки, рідини тощо. (Фактичної функції немає, це лише проміжний елемент у майструванні)
 
 ## Рецепти
 

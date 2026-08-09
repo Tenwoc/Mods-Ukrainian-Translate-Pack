@@ -53,7 +53,7 @@
   "origin.medievalorigins.troll.description": "-§l Примітні зміни§r: \n§o§cНАРАЗІ НЕ РЕАЛІЗОВАНО§r\nВеликі, неповороткі велетні, що походять з гір, тролі агресивні і самодостатні - вони вважають за краще жити і боротися поодинці.",
 
   "origin.medievalorigins.yeti.name": "Єті",
-  "origin.medievalorigins.yeti.description": "-§l Примітні зміни§r: \n§o§2+ На основі морозу, Міцний§r\n§o§6• Великий: 203см/6'8\"§r\n§o§c- Чутливий до тепла§r\nГустошерсті звірі з морозних лісів, єті панують над льодом, що дозволяє їм заморожувати ворогів, але вони особливо вразливі до вогняних атак.",
+  "origin.medievalorigins.yeti.description": "-§l Примітні зміни§r: \n§o§2+ На основі морозу, Міцний§r\n§o§6• Великий: 203см/6'8\"§r\n§o§c- Чутливий до тепла§r\nГустошерсті звірі з морозних лісів, єті панують над льодом, що дає їм змогу заморожувати ворогів, але вони особливо вразливі до вогняних атак.",
 
   
   "power.medievalorigins.alfiq/clawed.name": "Пазуристий",
@@ -88,13 +88,13 @@
   "power.medievalorigins.arachnae/brittle.description": "Екзоскелет павука не може витримати броню важчу за залізо. Цьому можна запобігти за допомогою заклинання.",
 
   "power.medievalorigins.arachnae/climber.name": "Скелелаз",
-  "power.medievalorigins.arachnae/climber.description": "Тонкі щетинки на ногах арахн дозволяють їм лазити по стінах.",
+  "power.medievalorigins.arachnae/climber.description": "Тонкі щетинки на ногах арахн дають їм змогу лазити по стінах.",
   
   "power.medievalorigins.arachnae/fragile_exoskeleton.name": "Крихкий екзоскелет",
   "power.medievalorigins.arachnae/fragile_exoskeleton.description": "Екзоскелет арахн вразливий до пошкоджень. Їхнє здоров’я слабше, ніж у звичайної людини.",
   
   "power.medievalorigins.arachnae/many_eyes.name": "Багатокість",
-  "power.medievalorigins.arachnae/many_eyes.description": "Вісім очей арахни пристосовані до темряви і дозволяють їй чітко бачити навіть при дуже слабкому освітленні.",
+  "power.medievalorigins.arachnae/many_eyes.description": "Вісім очей арахни пристосовані до темряви і дають їй змогу чітко бачити навіть при дуже слабкому освітленні.",
   
   "power.medievalorigins.arachnae/venomous_bite.name": "Отруйний укус",
   "power.medievalorigins.arachnae/venomous_bite.description": "Ікла арахни містять отруту, і кожен укус - це шанс отруїти свого супротивника.",
@@ -172,7 +172,7 @@
   "power.medievalorigins.wood_elf/forest_vision.description": "Після століть, проведених у гаю, очі лісових ельфів добре пристосовані до життя серед дерев; перебуваючи в лісі, вони можуть добре бачити навіть вночі.",
 
   "power.medievalorigins.wood_elf/eagle_eyed.name": "Орлиний зір",
-  "power.medievalorigins.wood_elf/eagle_eyed.description": "Покращене сприйняття лісових ельфів дозволяє їм відстежувати ворога ще деякий час після удару, навіть якщо його немає в полі зору.",
+  "power.medievalorigins.wood_elf/eagle_eyed.description": "Покращене сприйняття лісових ельфів дає їм змогу відстежувати ворога ще деякий час після удару, навіть якщо його немає в полі зору.",
 
   "power.medievalorigins.wood_elf/empowered_shot.name": "Зосередженість",
   "power.medievalorigins.wood_elf/empowered_shot.description": "Зарядившись кілька секунд, випустіть стрілу з величезною швидкістю, яка пронизує ворогів, летить далі і завдає значно більшої шкоди.",
@@ -223,7 +223,7 @@
   "power.medievalorigins.goblin/durability.description": "Золото в руках гобліна зберігається набагато довше, ніж у більшості інших, хто поводиться з ним необережно.",
 
   "power.medievalorigins.goblin/nippy.name": "Спритність",
-  "power.medievalorigins.goblin/nippy.description": "Незважаючи на низький зріст, гобліни досить швидкі, що дозволяє їм тікати від сильніших ворогів замість того, щоб битися.",
+  "power.medievalorigins.goblin/nippy.description": "Незважаючи на низький зріст, гобліни досить швидкі, що дає їм змогу тікати від сильніших ворогів замість того, щоб битися.",
 
   "power.medievalorigins.goblin/stunted.name": "Низькорослість",
   "power.medievalorigins.goblin/stunted.description": "Гобліни на дві третини нижчі за людину.",
@@ -316,7 +316,7 @@
   "power.medievalorigins.ogre/stocky.description": "Огр сильний. Важко вбити.",
 
   "power.medievalorigins.pixie/curse_of_flight.name": "Прокляття польоту",
-  "power.medievalorigins.pixie/curse_of_flight.description": "Крила, які дозволяють піксі літати, також заважають навіть найдосвідченішим майстрам створити нагрудник, яка б їх вмістила.",
+  "power.medievalorigins.pixie/curse_of_flight.description": "Крила, які дають змогу піксі літати, також заважають навіть найдосвідченішим майстрам створити нагрудник, яка б їх вмістила.",
 
   "power.medievalorigins.pixie/feather_footed.name": "Пір’єногість",
   "power.medievalorigins.pixie/feather_footed.description": "Малий розмір піксі означає, що вони не отримують шкоди від падіння.",
@@ -421,7 +421,7 @@
   "power.medievalorigins.yeti/flammable.description": "Через свою зимову природу єті вразливі до вогню.",
 
   "power.medievalorigins.yeti/frigid_pulse.name": "Холодний пульс",
-  "power.medievalorigins.yeti/frigid_pulse.description": "У жилах єті тече потужна магія, що дозволяє ім за командою закувати групу ворогів у кригу. Не діє в підземеллі та на босів.",
+  "power.medievalorigins.yeti/frigid_pulse.description": "У жилах єті тече потужна магія, що дає змогу ім за командою закувати групу ворогів у кригу. Не діє в підземеллі та на босів.",
 
   "power.medievalorigins.yeti/from_whence_you_came.name": "Звідки ти прийшов",
   "power.medievalorigins.yeti/from_whence_you_came.description": "Найкраще розвиваючись на землях, звідки вони походять, єті рухаються швидше і носяться по снігу, щоб звести нанівець шкоду від падіння в крижаних біомах.",
@@ -463,7 +463,7 @@
   "power.medievalorigins.revenant/poor_reputation.description": "Селяни відмовляться торгувати з відродженцями, а залізні ґолеми нападуть на них, як тільки побачать. Однак їх приймають до лав розбійники.",
 
   "power.medievalorigins.revenant/siphon.name": "Вилучення есенції",
-  "power.medievalorigins.revenant/siphon.description": "При ураженні відродженці повільно накопичують силу, яка дозволяє їм висмоктувати життя зі своїх ворогів. Це впливає на всіх істот, добре це чи погано, окрім викликаних мерців.",
+  "power.medievalorigins.revenant/siphon.description": "При ураженні відродженці повільно накопичують силу, яка дає їм змогу висмоктувати життя зі своїх ворогів. Це впливає на всіх істот, добре це чи погано, окрім викликаних мерців.",
 
   "power.medievalorigins.revenant/unguarded.name": "Без охорони",
   "power.medievalorigins.revenant/unguarded.description": "Одержимість духовним світом робить відродженців більш відкритими для атак у фізичному світі. Більшість мобів завдають їм більше шкоди.",
@@ -508,7 +508,7 @@
   "badges.medievalorigins.pixie.hover": "Натисніть %s, щоб зависнути на місці. Натисніть ще раз, щоб вільно падати.",
   "badges.medievalorigins.pixie.disable_effects": "Натисніть %s крадькома, щоб вимкнути звуки та ефекти частинок",
 
-  "badges.medievalorigins.high_elf.glacial_step": "§bЛьодовиковий крок:§r Тримайте крижану брилу, щоб маніпулювати ентропією молекул води, дозволяючи вам ходити так, ніби ви володієте льодоходом",
+  "badges.medievalorigins.high_elf.glacial_step": "§bЛьодовиковий крок:§r Тримайте крижану брилу, щоб маніпулювати ентропією молекул води, даючи вам змогу ходити так, ніби ви володієте льодоходом",
   "badges.medievalorigins.high_elf.extrusive_movement": "§4Екструзійний рух:§r Тримайте обсидіан, щоб спрямувати потік тепла, і вільно ходіть по розпеченій лаві",
   "badges.medievalorigins.high_elf.instant_cure": "§eМиттєве лікування:§r Клацніть ПКМ на селянина із золотим яблуком, щоб безпосередньо спрямувати на нього цілющу енергію, без потреби послаблювати.",
   "badges.medievalorigins.high_elf.void_warp": "§5Викривлення Порожнечі:§r Натисніть %s, тримаючи перлину Енду, щоб розірвати тканину реальності і телепортуватися прямо туди, куди ви дивитеся, на відстань до 50 блоків",

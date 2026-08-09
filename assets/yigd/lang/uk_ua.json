@@ -103,7 +103,7 @@
   "text.autoconfig.yigd.option.graveConfig.claimPriority": "Вимагати пріоритет",
   "text.autoconfig.yigd.option.graveConfig.graveRobbing": "Пограбування могил",
   "text.autoconfig.yigd.option.graveConfig.graveRobbing.enabled": "Увімкнено",
-  "text.autoconfig.yigd.option.graveConfig.graveRobbing.onlyMurderer": "Дозволяти тільки вбивцям",
+  "text.autoconfig.yigd.option.graveConfig.graveRobbing.onlyMurderer": "Дати змогу тільки вбивцям",
   "text.autoconfig.yigd.option.graveConfig.graveRobbing.afterTime": "Можна грабувати через певний час",
   "text.autoconfig.yigd.option.graveConfig.graveRobbing.timeUnit": "Одиниця часу",
   "text.autoconfig.yigd.option.graveConfig.graveRobbing.robPriority": "Пріоритет пограбування",

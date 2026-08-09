@@ -1,7 +1,7 @@
 {
   "allthearcanistgear.perk_desc.thread_flight": "Надає творчий політ. Потребує слот хоча б 4 рівня.",
-  "allthearcanistgear.perk_desc.thread_spectral_sight": "Надає спектральний зір, що дозволяє вам бачити створінь крізь стіни. Зір надається на 8 блоків за кожний рівень.",
-  "allthearcanistgear.perk_desc.thread_truesight": "Надає істинний зір, що дозволяє вам бачити більше довкола. Рівень 1 дає нічне бачення, рівень 2 - імунітет до сліпоти, рівень 3 - імунітет до темряви, рівень 4 - лавовий зір.",
+  "allthearcanistgear.perk_desc.thread_spectral_sight": "Надає спектральний зір, що дає вам змогу бачити створінь крізь стіни. Зір надається на 8 блоків за кожний рівень.",
+  "allthearcanistgear.perk_desc.thread_truesight": "Надає істинний зір, що дає вам змогу бачити більше довкола. Рівень 1 дає нічне бачення, рівень 2 - імунітет до сліпоти, рівень 3 - імунітет до темряви, рівень 4 - лавовий зір.",
   "allthearcanistgear.perk_desc.thread_vitality": "Додає серце за кожний рівень.",
   "allthearcanistgear.thread_of": "Пряжа: %s",
   "chat.allthearcanistgear.low_tier": "Для руйнування цього блоку потрібна могутніша книга заклять.",

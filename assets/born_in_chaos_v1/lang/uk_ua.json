@@ -638,7 +638,7 @@
   "gamerule.disappearanceofSpiritsUndertheSun": "Зникнення духів під сонцем",
   "gamerule.disappearanceofSpiritsUndertheSun.description": "Зникнення духів під сонцем",
   "gamerule.generationofInfectedDiamonds": "Генерація заражених діамантів",
-  "gamerule.generationofInfectedDiamonds.description": "Дозволяє вимкнути або увімкнути генерацію заражених термітами діамантів",
+  "gamerule.generationofInfectedDiamonds.description": "Дає змогу вимкнути або увімкнути генерацію заражених термітами діамантів",
   "gamerule.maggotsAppearance": "Поява опаришів",
   "gamerule.maggotsAppearance.description": "Поява опаришів після смерті зомбі",
   "gamerule.naughtinessMechanics": "Механіка неслухняності",

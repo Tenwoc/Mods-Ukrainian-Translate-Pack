@@ -68,7 +68,7 @@
   "item.relicsofrain.katana_trinket": "Сувенірна катана",
   "tooltip.relics.katana_trinket.description": "Чудове доповнення до вашого ранця!",
   "tooltip.relics.katana_trinket.ability.agility": "Прудкість",
-  "tooltip.relics.katana_trinket.ability.agility.description": "Дозволяє гравцеві бігти в будь-якому напрямку і не сповільнюватися після атак",
+  "tooltip.relics.katana_trinket.ability.agility.description": "Дає змогу гравцеві бігти в будь-якому напрямку і не сповільнюватися після атак",
 
   "item.relicsofrain.crowbar": "Лом",
   "tooltip.relics.crowbar.description": "Завдає додаткової шкоди ворогам, у яких понад 90% здоров’я.",

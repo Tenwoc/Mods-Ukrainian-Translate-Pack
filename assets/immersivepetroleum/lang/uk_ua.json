@@ -87,10 +87,10 @@
 	"desc.immersivepetroleum.info.reservoir.lava": "Магматична комора",
 	
 	"desc.immersivepetroleum.flavour.upgrade_reinforced_hull": "Робить моторний човен вогнестійким та збільшує його міцність",
-	"desc.immersivepetroleum.flavour.upgrade_icebreaker": "Дозволяє моторному човну руйнувати лід та завдавати шкоди мобам",
+	"desc.immersivepetroleum.flavour.upgrade_icebreaker": "Дає змогу моторному човну руйнувати лід та завдавати шкоди мобам",
 	"desc.immersivepetroleum.flavour.upgrade_tank": "Збільшує місткість паливного бака для моторного човна",
-	"desc.immersivepetroleum.flavour.upgrade_rudders": "Дозволяє робити крутіші повороти на моторному човні",
-	"desc.immersivepetroleum.flavour.upgrade_paddles": "Дозволяє веслувати на моторному човні, коли пальне закінчується",
+	"desc.immersivepetroleum.flavour.upgrade_rudders": "Дає змогу робити крутіші повороти на моторному човні",
+	"desc.immersivepetroleum.flavour.upgrade_paddles": "Дає змогу веслувати на моторному човні, коли пальне закінчується",
 	
 	"desc.immersivepetroleum.flavour.asphalt": "Збільшує швидкість руху на %1$s",
 	"desc.immersivepetroleum.flavour.paraffin_wax": "Збільшує швидкість руху на 5%%. Слизький.",

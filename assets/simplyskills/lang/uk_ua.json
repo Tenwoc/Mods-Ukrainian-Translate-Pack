@@ -281,7 +281,7 @@
 
   "item.simplyskills.malevolent_manuscript.tooltip1":   "Повертає всі очки, вкладені ",
   "item.simplyskills.malevolent_manuscript.tooltip2":   "у ваше базове дерево вмінь, ",
-  "item.simplyskills.malevolent_manuscript.tooltip3":   "дозволяючи вам змінити спеціалізацію.",
+  "item.simplyskills.malevolent_manuscript.tooltip3":   "даючи вам змогу змінити спеціалізацію.",
   "item.simplyskills.malevolent_manuscript.tooltip4":   "Це також поглинає всі знання ",
   "item.simplyskills.malevolent_manuscript.tooltip5":   "ваших спеціалізацій, ",
   "item.simplyskills.malevolent_manuscript.tooltip6":   "очищуючи весь вкладений досвід.",
@@ -334,11 +334,11 @@
   "text.autoconfig.simplyskills.option.client.disableDefaultPuffishTrees":                                   "Вимкнути усталені дерева навичок",
   "text.autoconfig.simplyskills.option.client.disableDefaultPuffishTrees.@Tooltip":                          "Вимикає усталені дерева 'Видобуток' і 'Бій', \nякі постачаються разом з навичками Puffish.",
   "text.autoconfig.simplyskills.option.client.enableBuildSharing":                                           "Увімкнути спільний доступ до збірки",
-  "text.autoconfig.simplyskills.option.client.enableBuildSharing.@Tooltip":                                  "Дозволяє гравцям використовувати хроніки навичок, \nстворені іншими гравцями.",
+  "text.autoconfig.simplyskills.option.client.enableBuildSharing.@Tooltip":                                  "Дає змогу гравцям використовувати хроніки навичок, \nстворені іншими гравцями.",
   "text.autoconfig.simplyskills.option.client.skillChronicleCooldown":                                        "Перезаряджання хроніки навичок",
   "text.autoconfig.simplyskills.option.client.skillChronicleCooldown.@Tooltip":                               "Час перезаряджання для предмета хроніки навичок у тиках (20 такт = 1 секунда).",
   "text.autoconfig.simplyskills.option.client.removeUnlockRestrictions":                                     "Зняти обмеження на розблокування",
-  "text.autoconfig.simplyskills.option.client.removeUnlockRestrictions.@Tooltip":                            "Дозволяє розблокувати спеціалізації без \nшляху до них у дереві вмінь.\nТакож дозволяє розблокувати більше однієї спеціалізації.\n\nНе рекомендується, за винятком дуже особливих випадків використання.",
+  "text.autoconfig.simplyskills.option.client.removeUnlockRestrictions.@Tooltip":                            "Дає змогу розблокувати спеціалізації без \nшляху до них у дереві вмінь.\nТакож дає змогу розблокувати більше однієї спеціалізації.\n\nНе рекомендується, за винятком дуже особливих випадків використання.",
   "text.autoconfig.simplyskills.option.client.spellHasteCooldownReductionModifier":                          "Модифікатор зменшення швидкости перезаряджання заклинань",
   "text.autoconfig.simplyskills.option.client.spellHasteCooldownReductionModifier.@Tooltip":                 "Визначає, наскільки сильно Поспішність заклинань впливає на перезаряджання.\nВище значення означає, що Поспішність заклинань ще більше зменшує перезаряджання.",
   "text.autoconfig.simplyskills.option.client.minimumAchievableCooldown":                                    "Мінімально досяжний час перезаряджання (у секундах)",
@@ -352,7 +352,7 @@
   "text.autoconfig.simplyskills.option.client.enableDDR":                                                    "Увімкнути динамічну стійкість до пошкоджень (DDR)",
   "text.autoconfig.simplyskills.option.client.enableDDR.@Tooltip":                                           "Динамічна стійкість до шкоди (DDR) використовується для зменшення повзучості гравця в умовах, коли багато модів можуть взаємодіяти таким чином, що призводить до смішних цифр пошкоджень.\n\nDDR працює шляхом зменшення пошкоджень, які отримує істота, коли DPS відносно її maxHP\nперевищує певний поріг.",
   "text.autoconfig.simplyskills.option.client.enableDDRDebugLog":                                            "Увімкнути журнал налагодження DDR",
-  "text.autoconfig.simplyskills.option.client.enableDDRDebugLog.@Tooltip":                                   "Дозволяє виводити аналітику DDR до журналу.",
+  "text.autoconfig.simplyskills.option.client.enableDDRDebugLog.@Tooltip":                                   "Дає змогу виводити аналітику DDR до журналу.",
   "text.autoconfig.simplyskills.option.client.DDRHealthRequirement":                                         "Вимога до здоров’я для DDR",
   "text.autoconfig.simplyskills.option.client.DDRHealthRequirement.@Tooltip":                                "Максимальний рівень здоров’я, який повинен мати суб’єкт, щоб отримати вигоду від DDR.",
   "text.autoconfig.simplyskills.option.client.DDRHealthThreshold":                                           "Поріг здоров’я DDR",
@@ -362,7 +362,7 @@
   "text.autoconfig.simplyskills.option.client.DDRAttackSpeedWeight":                                         "DDR AttackSpeed Weight",
   "text.autoconfig.simplyskills.option.client.DDRAttackSpeedWeight.@Tooltip":                                "Вплив високої швидкости атаки на DDR (чим вища швидкість, тим більше ослаблення).",
   "text.autoconfig.simplyskills.option.client.DDRAffectsPlayers":                                            "DDR також впливає на гравців",
-  "text.autoconfig.simplyskills.option.client.DDRAffectsPlayers.@Tooltip":                                   "Дозволяє DDR впливати на гравців. Корисно, коли це потрібно в PvP.",
+  "text.autoconfig.simplyskills.option.client.DDRAffectsPlayers.@Tooltip":                                   "Дає змогу DDR впливати на гравців. Корисно, коли це потрібно в PvP.",
   "text.autoconfig.simplyskills.option.client.enableDAS":                                                    "Увімкнути динамічне масштабування атрибутів (DAS)",
   "text.autoconfig.simplyskills.option.client.enableDAS.@Tooltip":                                           "Динамічне масштабування атрибутів призводить до того, що об’єкти отримують збільшені атрибути залежно від кількості гравців поблизу та їхніх сукупних вкладених очок навичок.\nDAS може використовуватися самостійно або разом з динамічним опором пошкодженням.\n\nЗНАЧЕННЯ ДУЖЕ ЧУТЛИВІ!",
   "text.autoconfig.simplyskills.option.client.enableDASDebugLog":                                            "Увімкнути журнал налагодження DAS",
@@ -1127,7 +1127,7 @@
   "text.skills.spellbladeSignatureElementalSurgeNoLightning.description": "§7Видаляє Блискавичні нови з вашого пулу заклять §6[Стихійного Сплеску]§7 .\nЯкщо в пулі заклять не залишилося жодної стихії, Стихійний Сплеск вивільнить Таємничу нову.",
 
   "text.skills.spellbladeSignatureElementalImpact.title": "Сигнатурна здібність: §6[Стихійний удар]§7",
-  "text.skills.spellbladeSignatureElementalImpact.description": "\nДозволяє вам кидатися вперед з надзвичайною силою, випускаючи стихійні вибухи під час руху.\n\n§a30 секунд перезаряджання§7",
+  "text.skills.spellbladeSignatureElementalImpact.description": "\nДає вам змогу кидатися вперед з надзвичайною силою, випускаючи стихійні вибухи під час руху.\n\n§a30 секунд перезаряджання§7",
 
   "text.skills.spellbladeSignatureElementalImpactMagnet.title": "§f[Магніт]",
   "text.skills.spellbladeSignatureElementalImpactMagnet.description": "§7Ваш §6[Стихійний удар]§7 тепер втягує сусідніх ворогів у зону дії удару.",
@@ -1584,13 +1584,13 @@
   "text.skills.necromancerEndlessServitude.description": "§7Коли ваші міньйони гинуть, вони мають 20% шанс повторно викликати себе.\n\nЦей шанс збільшується на 5% за кожен шкідливий ефект на вашому міньйоні під час його смерті.\nМаксимальний шанс 60%.",
 
   "text.skills.necromancerWraithLegion.title": "§f[Легіон мороку]",
-  "text.skills.necromancerWraithLegion.description": "§7Видаляє Страхоблисків з пулу заклять, що дозволяє вам викликати тільки Мороків.\n\nВаш ліміт заклять також збільшується на 1.\n\nКрім того, закляття ваших §fМороків§7 мають 5% шанс за кожен шкідливий ефект на них викликати у цілі агонію.\n\n§f(Агонія)§7 змушує істоту отримувати додаткову шкоду кожного разу, коли в неї влучає снаряд закляття.",
+  "text.skills.necromancerWraithLegion.description": "§7Видаляє Страхоблисків з пулу заклять, що дає вам змогу викликати тільки Мороків.\n\nВаш ліміт заклять також збільшується на 1.\n\nКрім того, закляття ваших §fМороків§7 мають 5% шанс за кожен шкідливий ефект на них викликати у цілі агонію.\n\n§f(Агонія)§7 змушує істоту отримувати додаткову шкоду кожного разу, коли в неї влучає снаряд закляття.",
 
   "text.skills.portalSapphire.title": "§7§6[Перехід: §fСапфір§6]§7",
-  "text.skills.portalSapphire.description": "§7\nРозблоковує вузли переходу одного типу, що дозволяє вам легше пересуватися по дереву навичок.",
+  "text.skills.portalSapphire.description": "§7\nРозблоковує вузли переходу одного типу, що дає вам змогу легше пересуватися по дереву навичок.",
 
   "text.skills.portalRuby.title": "§7§6[Перехід: §fРубін§6]§7",
-  "text.skills.portalRuby.description": "§7\nРозблоковує вузли переходу одного типу, що дозволяє вам легше пересуватися по дереву навичок.",
+  "text.skills.portalRuby.description": "§7\nРозблоковує вузли переходу одного типу, що дає вам змогу легше пересуватися по дереву навичок.",
 
 
   "text.skills.ascendancyRighteousHammers.title": "Здатність Вознесіння: §6[Праведний молот]§7",
@@ -1618,7 +1618,7 @@
   "text.skills.ascendancyRapidfire.description": "§7\nВстаньте в позицію для стрільби і випустіть шквал стріл.\nВи можете вільно пересуватися в цій позиції, але не можете виконувати інші дії.\nВимагає лук або арбалет в основній руці.\nДіє 6 секунд.\n\n§6[За кожне Вознесіння]§7\n§7\nЗбільшує тривалість ефекту.\n\n§6[За 30+ Вознесінь]§7\nКожна третя випущена стріла тепер дає вам накопичення Влучності.\n\n§а30 секунд перезаряджання§7",
 
   "text.skills.ascendancyCataclysm.title": "Здатність Вознесіння: §6[Катаклізм]§7",
-  "text.skills.ascendancyCataclysm.description": "§7\nЗафіксуйтеся на місці, та направте потужне закляття, яке змусить кілька комет спуститися вздовж лінії перед вами.\n\nВикористовується з найвищим атрибутом сили закляття морозу або вогню.\n\nДіє 3.5 секунд.\n\n§6[За кожне Вознесіння]§7\nЗбільшує частоту комет, дозволяючи використовувати більше комет за одне закляття.\n\n§6[За 30+ Вознесінь]\n\nЗа кожну викликану комету ви накопичуєте Зачаклованість.\n\n§a70 секунд перезаряджання§7",
+  "text.skills.ascendancyCataclysm.description": "§7\nЗафіксуйтеся на місці, та направте потужне закляття, яке змусить кілька комет спуститися вздовж лінії перед вами.\n\nВикористовується з найвищим атрибутом сили закляття морозу або вогню.\n\nДіє 3.5 секунд.\n\n§6[За кожне Вознесіння]§7\nЗбільшує частоту комет, даючи змогу використовувати більше комет за одне закляття.\n\n§6[За 30+ Вознесінь]\n\nЗа кожну викликану комету ви накопичуєте Зачаклованість.\n\n§a70 секунд перезаряджання§7",
 
   "text.skills.ascendancyGhostwalk.title": "Здатність Вознесіння: §6[Примарний поступ]§7",
   "text.skills.ascendancyGhostwalk.description": "§7\nУвійдіть у спектральну форму і пронесіть себе вперед, ставши невразливим до шкоди і посилаючи душі атакувати ворогів поблизу. Шкода залежить від сили закляття душі.\n\nДіє 3 секунди.\n\n§6[За кожні 10 Вознесінь]§7\nПри використанні накопичує 1 Шок душі.\n\n§6[За 30+ Вознесінь]§7\nВи тепер зцілюєтеся від половини шкоди, завданої Примарним поступом.\n\n§a45 секунд перезаряджання§7",

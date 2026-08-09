@@ -57,7 +57,7 @@
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.@Tooltip": "Мале підземелля",
 
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableHeads": "Дозволити черепи та голови",
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableHeads.@Tooltip[0]": "Чи слід дозволяти підземеллям розміщувати черепи скелетів та голови інших мобів.",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableHeads.@Tooltip[0]": "Чи слід дати змогу підземеллям розміщувати черепи скелетів та голови інших мобів.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableHeads.@Tooltip[1]": "Ця опція може бути корисною для деяких творців мод-паків.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableHeads.@Tooltip[2]": "Усталено: §2true",
 

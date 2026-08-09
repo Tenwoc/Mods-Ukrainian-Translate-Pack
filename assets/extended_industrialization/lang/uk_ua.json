@@ -274,7 +274,7 @@
   "text.extended_industrialization.tesla_handheld_help_4": "- Очищайте за допомогою %s + %s у повітрі.", 
   "text.extended_industrialization.tesla_handheld_linked": "Сполучено з %s", 
   "text.extended_industrialization.tesla_handheld_selected": "Вибрано передавач для отримання.", 
-  "text.extended_industrialization.tesla_interdimensional_upgrade_help": "Знімає обмеження дальності для вежі Тесла та дозволяє передавати енергію між вимірами.", 
+  "text.extended_industrialization.tesla_interdimensional_upgrade_help": "Знімає обмеження дальності для вежі Тесла та дає змогу передавати енергію між вимірами.", 
   "text.extended_industrialization.tesla_lethal_coil_help_1": "Завдає шкоди істотам у межах %s блоків при живленні.", 
   "text.extended_industrialization.tesla_lethal_coil_values": "Напруга визначає величину шкоди та необхідну енергію:", 
   "text.extended_industrialization.tesla_network_receiver_linked": "Сполучено з %s", 
@@ -319,5 +319,5 @@
   "text.extended_industrialization.universal_transformer_to_tier_input": "Оболонка для рівня кабелю, до якого конвертувати (за замовчуванням LV).", 
   "text.extended_industrialization.voltage_value_for_cost": "  - %s: %s за %s", 
   "text.extended_industrialization.waste_collector_help": "При розміщенні під тваринами збирає нечистоти.", 
-  "text.extended_industrialization.windings_tesla_tower_tier": "Дозволяє вежі Тесла передавати до %s у межах %s блоків з пасивним витоком %s." 
+  "text.extended_industrialization.windings_tesla_tower_tier": "Дає змогу вежі Тесла передавати до %s у межах %s блоків з пасивним витоком %s." 
 }

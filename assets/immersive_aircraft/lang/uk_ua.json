@@ -77,7 +77,7 @@
   "item.immersive_aircraft.biplane.description": "Швидко і досить надійно. Переконайтеся, що ваша злітно-посадкова смуга достатньо довга.",
   "item.immersive_aircraft.gyrodyne.description": "Навіщо цілий двигун, якщо можна запустити літак своїми силами? Гарненько штовхніть - і він полетить!",
   "item.immersive_aircraft.quadrocopter.description": "Шедевр інженерної думки! 4 двигуни, прив'язані до бамбука. Ідеально для будівництва, та й на цьому все.",
-  "item.immersive_aircraft.bamboo_hopper.description": "Масивний літак із трьома сидіннями та понтонами, що дозволяють безпечно приземлятися на воду.",
+  "item.immersive_aircraft.bamboo_hopper.description": "Масивний літак із трьома сидіннями та понтонами, що дають змогу безпечно приземлятися на воду.",
 
   "immersive_aircraft.gyrodyne_target": "%d%% потужності, продовжуйте штовхати!",
   "immersive_aircraft.gyrodyne_target_reached": "Необхідна частота досягнута, готовий до зльоту!",
@@ -117,7 +117,7 @@
   "option.immersive_aircraft.preventKillThroughCrash": "Не вб’є гравця при падінні.",
   "option.immersive_aircraft.healthBarRow": "Змістити індикатор здоров’я транспортних засобів.",
   "option.immersive_aircraft.damagePerHealthPoint": "Вищі значення роблять літаки довговічнішими.",
-  "option.immersive_aircraft.weaponsAreDestructive": "Дозволяє деякій зброї руйнувати блоки.",
+  "option.immersive_aircraft.weaponsAreDestructive": "Дає змогу деякій зброї руйнувати блоки.",
   "option.immersive_aircraft.dropInventory": "Скидає вміст інвентарю замість того, щоби утримувати його у предметі апарата.",
   "option.immersive_aircraft.dropUpgrades": "Скидає усі модифікатори замість того, щоби утримувати їх у предметі апарата.",
   "option.immersive_aircraft.regenerateHealthEveryNTicks": "Автоматично регенерує здоров’я кожен наданий такт, симулюючи ванільну поведінку.",

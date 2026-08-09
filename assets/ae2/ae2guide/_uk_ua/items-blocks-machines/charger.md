@@ -5,9 +5,9 @@ navigation:
   icon: charger
   position: 310
 categories:
-- machines
+  - machines
 item_ids:
-- ae2:charger
+  - ae2:charger
 ---
 
 # Зарядний пристрій
@@ -26,7 +26,7 @@ item_ids:
 
 ## Проста автоматизація
 
-Як приклад, можливість обертання дозволяє напівавтоматизувати зарядні пристрої ось так:
+Як приклад, можливість обертання дає змогу напівавтоматизувати зарядні пристрої ось так:
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/charger_hopper.snbt" />

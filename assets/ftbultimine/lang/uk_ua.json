@@ -29,7 +29,7 @@
 	"ftbultimine.shape.ftbultimine.escape_tunnel": "Тунель підйому",
 	"ftbultimine.config": "Налаштування FTB Ultimine",
 	"item.ftbultimine.ultiminer": "Ультимайнер",
-	"item.ftbultimine.ultiminer.tooltip": "Дозволяє використовувати %s, коли активний",
+	"item.ftbultimine.ultiminer.tooltip": "Дає змогу використовувати %s, коли активний",
 	"ftbultimine.client_settings": "Налаштування клієнта",
 	"ftbultimine.client_settings.general": "Загальне",
 	"ftbultimine.client_settings.general.require_ultimine_key_for_cycling": "Потребувати затискати клавішу Ultimine для перемикання форм",

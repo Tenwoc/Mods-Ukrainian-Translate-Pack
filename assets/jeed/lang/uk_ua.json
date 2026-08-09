@@ -20,7 +20,7 @@
   "effect.minecraft.oozing.description": "Змушує уражені сутності породжувати два слизи при смерті.",
   "effect.minecraft.infested.description": "Надає ураженим сутностям 10% шанс породити від 1 до 2 лусківниць при пораненні.",
   "effect.minecraft.fire_resistance.description": "Надає імунітет до ураження вогнем або лавою.",
-  "effect.minecraft.glowing.description": "Позначає уражені сутності контурним світінням, що дозволяє бачити їх крізь блоки.",
+  "effect.minecraft.glowing.description": "Позначає уражені сутності контурним світінням, що дає змогу бачити їх крізь блоки.",
   "effect.minecraft.haste.description": "Збільшує швидкість видобутку та атаки; вищі рівні збільшують обидва показники ще більше.",
   "effect.minecraft.health_boost.description": "Збільшує максимальне здоров’я; вищі рівні дають більше додаткових сердець.",
   "effect.minecraft.hero_of_the_village.description": "Дає знижки на торгівлю з селянами та змушує селян кидати предмети в гравця залежно від їхньої професії.",
@@ -43,7 +43,7 @@
   "effect.minecraft.speed.description": "Збільшує швидкість ходьби; вищі рівні роблять користувача швидшим і збільшують його поле зору.",
   "effect.minecraft.strength.description": "Збільшує шкоду в ближньому бою; вищі рівні збільшують силу підвищення шкоди.",
   "effect.minecraft.unluck.description": "Може зменшити шанси на високоякісний і більший лут; вищі рівні зменшують шанс на хороший лут.",
-  "effect.minecraft.water_breathing.description": "Запобігає утопленню і дозволяє дихати під водою.",
+  "effect.minecraft.water_breathing.description": "Запобігає утопленню і дає змогу дихати під водою.",
   "effect.minecraft.weakness.description": "Зменшує шкоду в ближньому бою; вищі рівні зменшують завдану шкоду ще більше.",
   "effect.minecraft.wither.description": "Завдає смертельної шкоди з часом; вищі рівні завдають більше шкоди за секунду.",
 
@@ -51,13 +51,13 @@
   "effect.abundance.supportive.description": "Надає регенерацію тваринам, силу нейтральним мобам і стійкість монстрам.",
 
   "effect.alexsmobs.bug_pheromones.description": "Зробить ворожих членистоногих нейтральними до користувача.",
-  "effect.alexsmobs.clinging.description": "Дозволяє ходити догори ногами по стелі.",
+  "effect.alexsmobs.clinging.description": "Дає змогу ходити догори ногами по стелі.",
   "effect.alexsmobs.debilitating_sting.description": "Ефект, який отруює жертву, але паралізує членистоногих. Він припиняється, якщо жертва має половину здоров’я і не є членистоногим. Завдається тарантулом-яструбом.",
   "effect.alexsmobs.ender_flu.description": "Після природного закінчення ефекту користувач отримує величезну шкоду і з’являється ендеріофаг. Завдається ендеріофагом.",
   "effect.alexsmobs.exsanguination.description": "Поступово виснажує здоров’я.",
   "effect.alexsmobs.fear.description": "Змушує ціль не рухатися. Ефект застосовується, коли тигр показує себе користувачеві.",
   "effect.alexsmobs.knockback_resistance.description": "Надає 50% стійкості до відкидання.",
-  "effect.alexsmobs.lava_vision.description": "Дозволяє бачити крізь лаву.",
+  "effect.alexsmobs.lava_vision.description": "Дає змогу бачити крізь лаву.",
   "effect.alexsmobs.oiled.description": "Масло плаває на воді. Покрийте себе маслом, щоб плавати на поверхні води та зовні під дощем.",
   "effect.alexsmobs.orcas_might.description": "Надає підвищену швидкість атаки. Ефект може застосовуватися під час плавання з косаткою.",
   "effect.alexsmobs.poison_resistance.description": "Надає імунітет до отрути.",
@@ -80,7 +80,7 @@
   "effect.ars_nouveau.mana_regen.description": "Швидше відновлює ману.",
 
   "effect.astralsorcery.bleed.description": "Швидко завдає шкоди з часом",
-  "effect.astralsorcery.cheat_death.description": "Дозволяє сутності обдурити смерть. При активації підпалює мобів поблизу, надає стійкість до вогню та регенерацію при використанні",
+  "effect.astralsorcery.cheat_death.description": "Дає змогу сутності обдурити смерть. При активації підпалює мобів поблизу, надає стійкість до вогню та регенерацію при використанні",
   "effect.astralsorcery.drop_modifier.description": "Змінює дроп",
 
   "effect.atmospheric.gelled.description": "Спочатку гасить вогонь, трохи збільшує регенерацію життя та трохи зменшує вхідну вогняну шкоду. Якщо ефект отримано знову, поки він ще активний, користувач буде отруєний.",
@@ -93,7 +93,7 @@
   "effect.autumnity.foul_taste.description": "Наступний з’їдений харчовий продукт знімає ефект, але поповнює на 50% більше очок голоду, ніж зазвичай.",
 
   "effect.botania.allure.description": "У гравця, на якого діє ефект, вудка оновлюється вдвічі частіше, що фактично подвоює швидкість риболовлі.",
-  "effect.botania.bloodthirst.description": "Дозволяє ворожим монстрам з’являтися в радіусі 64 блоків від користувача, незалежно від рівня освітлення та інших умов появи. Це включає можливість появи слимаків за межами слизових чанків.",
+  "effect.botania.bloodthirst.description": "Дає змогу ворожим монстрам з’являтися в радіусі 64 блоків від користувача, незалежно від рівня освітлення та інших умов появи. Це включає можливість появи слимаків за межами слизових чанків.",
   "effect.botania.clear.description": "Очищає всі ефекти статусу.",
   "effect.botania.emptiness.description": "Запобігає природному спавну мобів у радіусі 128 блоків навколо ураженої сутності.",
   "effect.botania.feather_feet.description": "Скасовує шкоду від падіння. Цей ефект не запобігає шкоді від падіння з інших причин, таких як перлини Енду.",
@@ -135,7 +135,7 @@
 
   "effect.forbidden_arcanus.darkened.description": "Поєднання сліпоти та повільності.",
   "effect.forbidden_arcanus.fly.description": "Надає творчий політ.",
-  "effect.forbidden_arcanus.spectral_vision.description": "Дозволяє бачити сутності крізь блоки: ворожі моби будуть світитися червоним, а пасивні — зеленим.",
+  "effect.forbidden_arcanus.spectral_vision.description": "Дає змогу бачити сутності крізь блоки: ворожі моби будуть світитися червоним, а пасивні — зеленим.",
 
   "effect.fruitful.sustaining.description": "Збільшує поживність усієї з’їденої їжі.",
 
@@ -163,7 +163,7 @@
   "effect.mowziesmobs.poison_resist.description": "Надає імунітет до отрути.",
   "effect.mowziesmobs.suns_blessing.description": "Клацніть ПКМ порожньою рукою, щоб викликати сонячний удар, клацніть ПКМ з натиснутою клавішею Shift порожньою рукою, щоб вистрілити сонячним променем.",
 
-  "effect.neapolitan.agility.description": "Дозволяє перелазити через будь-які блоки, як через драбини.",
+  "effect.neapolitan.agility.description": "Дає змогу перелазити через будь-які блоки, як через драбини.",
   "effect.neapolitan.berserking.description": "Вбивство мобів підвищує ефект на 1 рівень кожного разу, кожен рівень додає сили та захисту.",
   "effect.neapolitan.harmony.description": "Змушує більшість ворожих мобів тікати від користувача.",
   "effect.neapolitan.slipping.description": "Змушує користувача рухатися по землі у випадкових напрямках.",
@@ -184,7 +184,7 @@
 
   "effect.seasonals.fall_flavor.description": "«Смакує як осінь!» Автоматично відновлює голод і насичення з часом.",
   "effect.seasonals.fall_flavour.description": "Надає користувачеві імунітет до шкоди від колючих рослин і шипів.",
-  "effect.seasonals.puppeteering.description": "Дозволяє гравцеві підбирати та переміщати мобів з меншим здоров’ям.",
+  "effect.seasonals.puppeteering.description": "Дає змогу гравцеві підбирати та переміщати мобів з меншим здоров’ям.",
   "effect.seasonals.thorn_resistance.description": "Знижує шкоду від колючих рослин і шипів.",
 
   "effect.tetra.bleeding.description": "Завдає шкоди з часом.",
@@ -236,7 +236,7 @@
   "effect.cofh_core.chilled.description": "Зменшує швидкість руху на 30% і шкоду від атак на 1,5 серця за кожен рівень.",
 
   "effect.species.wither_resistance.description": "Надає імунітет до ефекту висушування.",
-  "effect.species.birtd.description": "Оглушує уражених і не дозволяє їм рухатися, але не захищатися.",
+  "effect.species.birtd.description": "Оглушує уражених і не дає їм змогу рухатися, але не захищатися.",
   "effect.mynethersdelight.b_pungent.description": "Завдає шкоди від вогню, коли знаходиться поблизу джерела тепла. Замість цього лікує, якщо ви також маєте стійкість до вогню.",
   "effect.mynethersdelight.g_pungent.description": "Зцілює від джерел тепла в поєднанні з вогнестійкістю. Завдає шкоди без неї.",
   "effect.enigmaticlegacy.growing_hunger.description": "Згодом виснажує голод, але надає збільшену шкоду та крадіжку життя.",

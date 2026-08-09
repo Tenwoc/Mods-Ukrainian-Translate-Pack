@@ -15,7 +15,7 @@
     "block.artifality.lunar_trading_pedestal": "Місячний торговий п'єдестал",
 
     "block.artifality.upgrading_pedestal": "П'єдестал покращення",
-    "tooltip.artifality.upgrading_pedestal.0": "Дозволяє покращити ваші",
+    "tooltip.artifality.upgrading_pedestal.0": "Дає змогу покращити ваші",
     "tooltip.artifality.upgrading_pedestal.1": "артефакти, клацніть ПКМ з 3",
     "tooltip.artifality.upgrading_pedestal.2": "інкрементальними кулями, щоб покращити",
     "tooltip.artifality.upgrading_pedestal.3": "до 2-го рівня, або ж зіркою",
@@ -102,21 +102,21 @@
     "tooltip.artifality.zeus_staff.3": "На 2-му рівні може заряджати кріперів.",
 
     "item.artifality.forest_staff": "Посох лісу",
-    "tooltip.artifality.forest_staff.0": "Дозволяє легко висаджувати",
+    "tooltip.artifality.forest_staff.0": "Дає змогу легко висаджувати",
     "tooltip.artifality.forest_staff.1": "паростки та удобрювати їх,",
     "tooltip.artifality.forest_staff.2": "забираючи необхідні паростки",
     "tooltip.artifality.forest_staff.3": "і кісткове борошно",
     "tooltip.artifality.forest_staff.4": "інвентарю гравця.",
 
     "item.artifality.harvest_staff": "Посох врожаю",
-    "tooltip.artifality.harvest_staff.0": "Дозволяє легко збирати",
+    "tooltip.artifality.harvest_staff.0": "Дає змогу легко збирати",
     "tooltip.artifality.harvest_staff.1": "врожай і удобрювати його,",
     "tooltip.artifality.harvest_staff.2": "забираючи необхідне насіння",
     "tooltip.artifality.harvest_staff.3": "і кісткове борошно",
     "tooltip.artifality.harvest_staff.4": "з інвентарю гравця.",
 
     "item.artifality.floral_staff": "Квітковий посох",
-    "tooltip.artifality.floral_staff.0": "Дозволяє легко вирощувати",
+    "tooltip.artifality.floral_staff.0": "Дає змогу легко вирощувати",
     "tooltip.artifality.floral_staff.1": "квіти та збирати їх,",
     "tooltip.artifality.floral_staff.2": "забираючи необхідне кісткове борошно",
     "tooltip.artifality.floral_staff.3": "з інвентарю гравця.",

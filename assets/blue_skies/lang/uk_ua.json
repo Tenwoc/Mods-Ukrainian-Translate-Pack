@@ -1228,7 +1228,7 @@
   "gui.blue_skies.item.ability.venom_sac": "Вистрілює отруйною кулькою.",
   "gui.blue_skies.item.ability.soulbound": "Має вбудовану вірність.",
   "gui.blue_skies.item.ability.secondary.lightportal": "Запалює портали Blue Skies",
-  "gui.blue_skies.item.ability.teleportation": "Дозволяє телепортуватися до зоряних випромінювачів коштом перезаряджання.",
+  "gui.blue_skies.item.ability.teleportation": "Дає змогу телепортуватися до зоряних випромінювачів коштом перезаряджання.",
 
   "gui.blue_skies.item.con": "Вади",
   "gui.blue_skies.item.con.regen": "Виліковує ціль",

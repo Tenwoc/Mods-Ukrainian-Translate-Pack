@@ -321,7 +321,7 @@
   "advancements.refinedstorage.connecting": "З’єднання",
   "advancements.refinedstorage.connecting.description": "Ви можете розмістити всі пристрої впритул один до одного або використовувати кабелі, щоб з’єднати їх",
   "advancements.refinedstorage.conditional_connecting": "Умовне з’єднання",
-  "advancements.refinedstorage.conditional_connecting.description": "Створіть реле, яке дозволяє з’єднувати або роз’єднувати мережевий сигнал за допомогою редстоуна",
+  "advancements.refinedstorage.conditional_connecting.description": "Створіть реле, яке дає змогу з’єднувати або роз’єднувати мережевий сигнал за допомогою редстоуна",
   "advancements.refinedstorage.drives": "Приводи",
   "advancements.refinedstorage.drives.description": "Створіть дисковий привід, щоб мати можливість зберігати свої диски",
   "advancements.refinedstorage.manipulating_disks": "Керування дисками",

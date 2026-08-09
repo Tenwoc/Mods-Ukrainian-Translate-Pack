@@ -259,7 +259,7 @@
   "tooltip.item.knightquest.silverfish_helmet.bonus": "§7§o-Надає швидкість нижче рівня Y 50",
   "tooltip.item.knightquest.witch_helmet.bonus": "§7§o-Надає регенерацію при вбивстві монстра",
   "tooltip.item.knightquest.skulk_helmet.bonus": "§7§o-Надає стійкість при рівні освітленості нижче 4",
-  "tooltip.item.knightquest.skeleton_helmet.bonus": "§7§o-Дозволяє стрілам пронизувати ворогів",
+  "tooltip.item.knightquest.skeleton_helmet.bonus": "§7§o-Дає змогу стрілам пронизувати ворогів",
   "tooltip.item.knightquest.strawhat_helmet.bonus": "§7§o-Надає водяне дихання",
 
   "entity.knightquest.netherman": "Незермен, Архітектор Хаосу",
@@ -293,7 +293,7 @@
   "tooltip.weapon.knightquest.cleaver.passive": "§e⚡ Пасивна здатність:§f Збільшує шкоду на %7$d%% проти ворогів з більш ніж %8$d%% здоров’я",
 
   "tooltip.weapon.knightquest.nail.active": "§6⚔ Активна здатність:§f Виконує швидкий ривок вперед",
-  "tooltip.weapon.knightquest.nail.passive": "§e⚡ Пасивна здатність:§f Дозволяє виконати подвійний стрибок у повітрі",
+  "tooltip.weapon.knightquest.nail.passive": "§e⚡ Пасивна здатність:§f Дає змогу виконати подвійний стрибок у повітрі",
 
   "tooltip.weapon.knightquest.khopesh.active": "§6⚔ Активна здатність:§f Відображає вхідні атаки протягом %4$d с",
   "tooltip.weapon.knightquest.khopesh.passive": "§e⚡ Пасивна здатність:§f %3$d%% шанс підпалити супротивника при ударі",

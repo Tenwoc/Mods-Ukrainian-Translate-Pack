@@ -78,7 +78,7 @@
     "item.storagedrawers.balance_fill_upgrade.desc": "Рівномірно розподіляє предмети між слотами",
     "item.storagedrawers.balance_fill_upgrade.warn": "Не працює із поточними налаштуваннями мода",
     "item.storagedrawers.portability_upgrade": "Покращення: Портативне кріплення",
-    "item.storagedrawers.portability_upgrade.desc": "Дозволяє переносити заповнені шухляди",
+    "item.storagedrawers.portability_upgrade.desc": "Дає змогу переносити заповнені шухляди",
     "item.storagedrawers.portability_upgrade.warn": "Не працює із поточними налаштуваннями мода",
     "item.storagedrawers.hopper_upgrade": "Покращення: Лійка",
     "item.storagedrawers.hopper_upgrade.desc": "Змушує збирати предмети у світі як лійка",

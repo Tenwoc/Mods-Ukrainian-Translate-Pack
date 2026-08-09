@@ -35,7 +35,7 @@
   "drippyloadingscreen.settings.allow_universal": "Дозволити універсальні розкладки: %s",
   "drippyloadingscreen.settings.allow_universal.desc": "Чи мають універсальні розкладки \nзастосовуватись до екрана завантаження.",
   "drippyloadingscreen.settings.customize_early_loading_screen": "Кастомізація РАННЬОГО екрана завантаження",
-  "drippyloadingscreen.settings.customize_early_loading_screen.desc": "Дозволяє вам налаштувати екран раннього завантаження NeoForge (цю потворну річ перед екраном завантаження Drippy).\n\n§xЩоб використовувати це, вам потрібно встановити \"Drippy Early Loading Module\".\n§xВи можете завантажити модуль з CurseForge та Modrinth.",
+  "drippyloadingscreen.settings.customize_early_loading_screen.desc": "Дає вам змогу налаштувати екран раннього завантаження NeoForge (цю потворну річ перед екраном завантаження Drippy).\n\n§xЩоб використовувати це, вам потрібно встановити \"Drippy Early Loading Module\".\n§xВи можете завантажити модуль з CurseForge та Modrinth.",
   "drippyloadingscreen.settings.customize_early_loading_screen.module_missing": "Відсутня залежність!\n\nВам потрібно встановити \"§xDrippy Early Loading Module§r\", щоб налаштувати екран раннього завантаження NeoForge.\n\nВи можете завантажити модуль з §lCurseForge§r та §lModrinth§r.",
   "drippyloadingscreen.settings.customize_loading_screen": "Налаштувати екран завантаження",
   "drippyloadingscreen.settings.early_fade_out_elements": "Раннє зникання елементів: %s",

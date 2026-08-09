@@ -22,7 +22,7 @@ item_ids:
 
 ## Інтерфейс
 
-<ItemLink id="ae2wtlib:wireless_universal_terminal" /> додає кнопку до інтерфейсу термінала, яка дозволяє перемикатися до наступного (або останнього) [бездротового термінала](wireless_terminals.md).
+<ItemLink id="ae2wtlib:wireless_universal_terminal" /> додає кнопку до інтерфейсу термінала, яка дає змогу перемикатися до наступного (або останнього) [бездротового термінала](wireless_terminals.md).
 
 ## Оновлення
 

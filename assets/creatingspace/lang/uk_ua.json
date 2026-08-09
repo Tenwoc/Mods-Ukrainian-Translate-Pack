@@ -7,7 +7,7 @@
   "block.creatingspace.rocket_generator": "Ракетний двигун",
   "block.creatingspace.rocket_generator.tooltip.summary": "Машина, яка спалює метан і кисень для створення сили обертання Запускається за сигналом редстоуну, якщо завантажена стартовим зарядом",
   "block.creatingspace.catalyst_carrier": "Носій каталізатора",
-  "block.creatingspace.catalyst_carrier.tooltip.summary": "Дозволяє реакції між рідинами в резервуарі ",
+  "block.creatingspace.catalyst_carrier.tooltip.summary": "Дає змогу реакції між рідинами в резервуарі ",
 
   "block.creatingspace.chemical_synthesizer": "Хімічний синтезатор",
   "block.creatingspace.chemical_synthesizer.tooltip.summary": "Необхідний для виробництва метану, застарілий !!",

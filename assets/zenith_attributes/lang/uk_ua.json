@@ -142,11 +142,11 @@
   "effect.zenith_attributes.flying.desc": "Дає творчий політ.",
   "effect.zenith_attributes.flying.description": "Дає творчий політ.",
 
-  "effect.minecraft.night_vision.desc": "Дозволяє бачити в темряві.",
+  "effect.minecraft.night_vision.desc": "Дає змогу бачити в темряві.",
   "effect.minecraft.invisibility.desc": "Робить вас невидимим, але не ваше спорядження.",
   "effect.minecraft.jump_boost.desc": "Збільшує висоту стрибка.",
   "effect.minecraft.fire_resistance.desc": "Робить вас несприйнятливим до вогню.",
-  "effect.minecraft.water_breathing.desc": "Дозволяє дихати під водою.",
+  "effect.minecraft.water_breathing.desc": "Дає змогу дихати під водою.",
   "effect.minecraft.instant_health.desc": "Миттєво відновлює трохи здоров’я.",
   "effect.minecraft.instant_damage.desc": "Миттєво завдає трохи магічної шкоди.",
   "effect.minecraft.poison.desc": "Періодично завдає нелетальної шкоди.",

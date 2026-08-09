@@ -695,7 +695,7 @@
   "createcasing.ponder.mechanical_saw_processing.text_5": "Без фільтра пила буде по колу перебирати всі можливі вихідні вироби",
   "createcasing.ponder.mechanical_roller_fill.header": "Заповнення місцевости котком",
   "createcasing.ponder.mechanical_roller_fill.text_1": "У розібраному стані котки можна налаштовувати на інші режими",
-  "createcasing.ponder.mechanical_roller_fill.text_2": "Режими «заповнення» дозволяють заповнювати проміжки між мощеними блоками та місцевістю",
+  "createcasing.ponder.mechanical_roller_fill.text_2": "Режими «заповнення» дають змогу заповнювати проміжки між мощеними блоками та місцевістю",
   "createcasing.ponder.mechanical_roller_fill.text_3": "«Пряме заповнення» передбачає розміщення простих колон блоків униз до самої поверхні",
   "createcasing.ponder.mechanical_roller_fill.text_4": "Під час «нахиленого заповнення» розміщені нижче шари стають дедалі більшими за розміром",
   "createcasing.ponder.mechanical_roller_fill.text_5": "На відміну від режиму «прибирати і мостити», жоден з цих режимів не передбачає ламання блоків котками",

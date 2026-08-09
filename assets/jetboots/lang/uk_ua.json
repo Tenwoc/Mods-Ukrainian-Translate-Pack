@@ -58,7 +58,7 @@
   "jetboots.tooltip.item.thruster_upgrade.info": "§7Розблоковує перемикач супершвидкости§r",
   "jetboots.tooltip.item.turn_off": "Використовуйте %s, щоб увімкнути/вимкнути ракетні чоботи",
   "jetboots.tooltip.item.underwater_upgrade": "§bВодонепроникний§r",
-  "jetboots.tooltip.item.underwater_upgrade.info": "§7Дозволяє реактивним чоботам працювати під водою§r",
+  "jetboots.tooltip.item.underwater_upgrade.info": "§7Дає змогу реактивним чоботам працювати під водою§r",
   "key.jetboots.engine": "Увімкнути режим двигуна реактивних чобіт",
   "key.jetboots.helmet": "Увімкнути режим шолома захисника",
   "key.jetboots.helmet_vision": "Увімкнути шолом нічного бачення",

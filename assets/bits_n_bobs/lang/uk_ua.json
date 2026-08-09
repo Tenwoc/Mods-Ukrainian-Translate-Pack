@@ -213,7 +213,7 @@
   "item.bits_n_bobs.cookie_dough": "Печивне тісто",
   "item.bits_n_bobs.icon_lightbulb": "Фальшива газорозрядна лампа",
   "item.bits_n_bobs.test_rope": "Тестова мотузка",
-  "message.bits_n_bobs.cogwheel_chain.chain_addition_aborted.axis_change_forbidden_by_type": "Цей тип ланцюга не дозволяє змінювати вісь!",
+  "message.bits_n_bobs.cogwheel_chain.chain_addition_aborted.axis_change_forbidden_by_type": "Цей тип ланцюга не дає змогу змінювати вісь!",
   "message.bits_n_bobs.cogwheel_chain.chain_addition_aborted.cannot_revisit_node": "Не можна двічі протягувати ланцюг через одну й ту саму шестерню",
   "message.bits_n_bobs.cogwheel_chain.chain_addition_aborted.cogwheels_cannot_touch": "Зчеплювані шестерні не повинні торкатися",
   "message.bits_n_bobs.cogwheel_chain.chain_addition_aborted.config_forbids": "Зчеплення шестерень вимкнено на сервері",

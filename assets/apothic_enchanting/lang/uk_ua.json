@@ -45,7 +45,7 @@
     "block.apothic_enchanting.apothic_enchanting_table": "Апофеотичний стіл зачарування",
     "block.apothic_enchanting.apothic_enchanting_table.desc": "Стилізований варіант стола зачарування.",
     "block.apothic_enchanting.raven_enchanting_table": "Стіл зачарування Ворона",
-    "block.apothic_enchanting.raven_enchanting_table.desc": "Дозволяє вручну встановлювати головні характеристики зачарування.",
+    "block.apothic_enchanting.raven_enchanting_table.desc": "Дає змогу вручну встановлювати головні характеристики зачарування.",
 
     "info.apothic_enchanting.ench_power": "Надає %s силу зачарування.",
     "info.apothic_enchanting.masterwork": "Шедевр",
@@ -212,7 +212,7 @@
     "enchantment.apothic_enchanting.knowledge_of_the_ages.desc": "Безпосередньо перетворює дроп сутностей на досвід.",
 
     "enchantment.apothic_enchanting.natures_blessing": "Благословення природи",
-    "enchantment.apothic_enchanting.natures_blessing.desc": "Дозволяє мотиці удобрювати рослини.",
+    "enchantment.apothic_enchanting.natures_blessing.desc": "Дає змогу мотиці удобрювати рослини.",
 
     "enchantment.apothic_enchanting.rebounding": "Відскакування",
     "enchantment.apothic_enchanting.rebounding.desc": "Нападники в ближньому бою можуть опинитися набагато далі.",

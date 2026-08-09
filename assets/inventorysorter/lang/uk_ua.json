@@ -50,7 +50,7 @@
   "inventorysorter.cmd.sortIntoBundles.set": "Сортування у мішки тепер",
   "inventorysorter.cmd.sortIntoBundles.get": "Сортування у мішки наразі",
   "inventorysorter.config.sortIntoHotbarBundles": "Впливати на мішки у панелі швидкого доступу під час сортування інвентаю гравця",
-  "inventorysorter.config.sortIntoHotbarBundles.tooltip": "Дозволяє сортуванню інвентарю гравця переміщувати відповідні предмети у мішки на панелі швидкого досутпу",
+  "inventorysorter.config.sortIntoHotbarBundles.tooltip": "Дає змогу сортуванню інвентарю гравця переміщувати відповідні предмети у мішки на панелі швидкого досутпу",
   "inventorysorter.config.sortType": "Метод сортування",
   "inventorysorter.config.showTooltip": "Підказка до кнопки сортування",
   "inventorysorter.config.showTooltip.tooltip": "Підказка показує тип сортування при наведенні на кнопку сортування",

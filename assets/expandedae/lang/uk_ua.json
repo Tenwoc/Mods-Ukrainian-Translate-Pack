@@ -39,7 +39,7 @@
   "group.wireless_exp_pattern_encoding_terminal.name": "Бездротовий розгорнутий термінал кодування шаблонів",
   "gui.expandedae.blocking_mode.all": "Блокує, якщо цільовий блок має вміст",
   "gui.expandedae.blocking_mode.default": "Усталений режим блокування",
-  "gui.expandedae.blocking_mode.smart": "Дозволяє лише той самий шаблон",
+  "gui.expandedae.blocking_mode.smart": "Дає змогу лише той самий шаблон",
   "gui.expandedae.buttons.pattern.div": "§c÷%d§f",
   "gui.expandedae.buttons.pattern.mult": "§bx%d§f",
   "gui.expandedae.buttons.tooltips.pattern.div": "Ділить вміст на §b%d§f",

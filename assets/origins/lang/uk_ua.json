@@ -132,7 +132,7 @@
   "power.origins.aerial_combatant.description": "Ви завдаєте суттєво більше шкоди при польоті на Елітрах.",
 
   "power.origins.throw_ender_pearl.name": "Телепортація",
-  "power.origins.throw_ender_pearl.description": "Коли б ви не хотіли, ви можете жбурнути Перлину Енду, яка не завдає шкоди, дозволяючи вам телепортуватись.",
+  "power.origins.throw_ender_pearl.description": "Коли б ви не хотіли, ви можете жбурнути Перлину Енду, яка не завдає шкоди, даючи вам змогу телепортуватись.",
 
   "power.origins.pumpkin_hate.name": "Гарбузофобія",
   "power.origins.pumpkin_hate.description": "Ви боїтесь гарбузів. З поважних причин.",
@@ -187,7 +187,7 @@
   "text.autoconfig.origins.option.phantomizedOverlayStrength": "Сила Оверлею Фантомної форми",
 
   "item.origins.orb_of_origin": "Сфера походження",
-  "item.origins.orb_of_origin.layer_generic": "Дозволяє вам обрати нове %s.",
+  "item.origins.orb_of_origin.layer_generic": "Дає вам змогу обрати нове %s.",
   "item.origins.orb_of_origin.layer_specific": "Встановить вашу %1$s на \"%2$s\".",
 
   "enchantment.origins.water_protection": "Водяний захист",

@@ -79,7 +79,7 @@
     "enchantment.backpacked.looted": "Здобувач",
     "enchantment.backpacked.looted.desc": "Здобич, отримана в результаті вбивства моба, поміщається безпосередньо в рюкзак.",
     "enchantment.backpacked.marksman": "Стрілець",
-    "enchantment.backpacked.marksman.desc": "Дозволяє лукам використовувати стріли з рюкзака. Це також працює з іншими предметами, з яких можна стріляти, та їхніми відповідними снарядами.",
+    "enchantment.backpacked.marksman.desc": "Дає змогу лукам використовувати стріли з рюкзака. Це також працює з іншими предметами, з яких можна стріляти, та їхніми відповідними снарядами.",
     "enchantment.backpacked.repairman": "Ремонтник",
     "enchantment.backpacked.repairman.desc": "Ремонтує всі предмети з Лагодженням у рюкзаку під час накопичення досвіду.",
     "item.backpacked.backpack": "Рюкзак",

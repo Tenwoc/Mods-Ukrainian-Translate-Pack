@@ -41,5 +41,5 @@
   "clean-debug.midnightconfig.hideCaveDust": "Приховати інформацію налагодження Cave Dust",
 
   "modmenu.descriptionTranslation.clean-debug": "Видаляє непотрібну інформацію з екрана налагодження.",
-  "modmenu.summaryTranslation.clean-debug": "Дозволяє налаштувати те, що ви бачите на екрані F3."
+  "modmenu.summaryTranslation.clean-debug": "Дає змогу налаштувати те, що ви бачите на екрані F3."
 }

@@ -48,7 +48,7 @@
   "kiwi.config.eval.printExpression": "Друкувати вираз",
   "kiwi.config.eval.printExpression.desc": "",
   "kiwi.config.globalTooltip": "Глобальна підказка",
-  "kiwi.config.globalTooltip.desc": "Дозволяє функції глобально додавати підказки предметів",
+  "kiwi.config.globalTooltip.desc": "Дає змогу функції глобально додавати підказки предметів",
   "kiwi.config.high": "Високе",
   "kiwi.config.kSwitch": "Перемикач K",
   "kiwi.config.kSwitch.creativeOnly": "Тільки творчість",

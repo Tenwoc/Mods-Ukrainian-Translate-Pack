@@ -1,7 +1,7 @@
 {
   "spell_engine.mod_name" : "Spell Engine",
   "enchantment.spell_engine.spell_infinity" : "Нестримність",
-  "enchantment.spell_engine.spell_infinity.desc" : "Дозволяє предмету не споживати рунічні заряди",
+  "enchantment.spell_engine.spell_infinity.desc" : "Дає змогу предмету не споживати рунічні заряди",
   "itemGroup.spell_engine.general" : "Заклинання",
   "item.spell_engine.scroll" : "Сувій заклинань",
   "item.spell_engine.scroll.table_hint" : "Можна прикріпити до книги заклинань за допомогою столу зв'язування заклинань.",

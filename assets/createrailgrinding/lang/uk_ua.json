@@ -16,7 +16,7 @@
     "item.createrailgrinding.diving_boots.tooltip.behaviour2": "Утримуйте _%1$s_, щоби прискорюватись. Утримуйте _%2$s_, щоб зістрибнути з рейки. _Взаємодійте_ із _колією_, щоб зупинитися.",
 
     "enchantment.createrailgrinding.railgrind_enchantment": "Залізничний вершник",
-    "enchantment.createrailgrinding.railgrind_enchantment.desc": "Дозволяє ковзати по рейках залізничних колій",
+    "enchantment.createrailgrinding.railgrind_enchantment.desc": "Дає змогу ковзати по рейках залізничних колій",
 
     "advancement.createrailgrinding.railgrind_advancement": "Екстремальне спорядження",
     "advancement.createrailgrinding.railgrind_advancement.desc": "Прокотіться по рейках залізничних колій за допомогою пірнальних чоботів або чар залізничного вершника",

@@ -33,7 +33,7 @@
   "tooltip.relics.novelty_drinking_hat.leveling_source.nutrition.title": "Швидке пиття",
   "tooltip.relics.novelty_drinking_hat.leveling_source.nutrition.description": "+%1$s одиниць досвіду за кожен випитий напій.",
 
-  "tooltip.relics.snorkel.description": "Дозволяє на довше занурюватися під воду і досліджувати глибини без ризиків захлинутися.",
+  "tooltip.relics.snorkel.description": "Дає змогу на довше занурюватися під воду і досліджувати глибини без ризиків захлинутися.",
   "tooltip.relics.snorkel.ability.diving": "Контроль дихання",
   "tooltip.relics.snorkel.ability.diving.description": "Застосовує ефект підводного дихання на %1$s секунд при повному зануренні у воду.",
   "tooltip.relics.snorkel.ability.passive": "Чистий зір",
@@ -122,7 +122,7 @@
   "tooltip.relics.cross_necklace.leveling_source.invulnerability.title": "Недоторканність",
   "tooltip.relics.cross_necklace.leveling_source.invulnerability.description": "+%1$s одиниць досвіду за кожне отримання шкоди.",
 
-  "tooltip.relics.night_vision_goggles.description": "Дозволяє власнику реліквії чіткіше бачити в темряві.",
+  "tooltip.relics.night_vision_goggles.description": "Дає змогу власнику реліквії чіткіше бачити в темряві.",
   "tooltip.relics.night_vision_goggles.ability.vision": "Гамма-бачення",
   "tooltip.relics.night_vision_goggles.ability.vision.description": "Збільшує яскравість погано освітлених місць, а також знижує ефективність сліпоти і темряви на %1$s%%.",
   "tooltip.relics.night_vision_goggles.leveling_source.vision.title": "Гамма-бачення",
@@ -130,7 +130,7 @@
 
   "tooltip.relics.cloud_in_a_bottle.description": "Підвищує прудкість власника реліквії, даючи змогу здійснювати додаткові стрибки в повітрі.",
   "tooltip.relics.cloud_in_a_bottle.ability.jump": "Повітряний стрибок",
-  "tooltip.relics.cloud_in_a_bottle.ability.jump.description": "Дозволяє здійснювати до %1$s додаткових стрибків у повітрі.",
+  "tooltip.relics.cloud_in_a_bottle.ability.jump.description": "Дає змогу здійснювати до %1$s додаткових стрибків у повітрі.",
   "tooltip.relics.cloud_in_a_bottle.leveling_source.jump.title": "Повітряний стрибок",
   "tooltip.relics.cloud_in_a_bottle.leveling_source.jump.description": "+%1$s одиниць досвіду за кожен здійснений додатковий стрибок від здібності %2$s.",
 
@@ -140,7 +140,7 @@
   "tooltip.relics.vampiric_glove.leveling_source.vampire.title": "Крадіжка життя",
   "tooltip.relics.vampiric_glove.leveling_source.vampire.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s. Імовірність отримання досвіду прямо пропорційна співвідношенню отриманого зцілення з максимальним здоров’ям гравця.",
 
-  "tooltip.relics.golden_hook.description": "Дозволяє власнику реліквії акуратніше здійснювати атаки, зберігаючи після вбивства моба більше досвіду.",
+  "tooltip.relics.golden_hook.description": "Дає змогу власнику реліквії акуратніше здійснювати атаки, зберігаючи після вбивства моба більше досвіду.",
   "tooltip.relics.golden_hook.ability.hook": "Жага знань",
   "tooltip.relics.golden_hook.ability.hook.description": "Збільшує кількість одержуваного досвіду при вбивстві мобів на %1$s%%.",
   "tooltip.relics.golden_hook.leveling_source.hook.title": "Жага знань",
@@ -156,7 +156,7 @@
   "tooltip.relics.onion_ring.leveling_source.onion.title": "Голод шахтаря",
   "tooltip.relics.onion_ring.leveling_source.onion.description": "+%1$s одиниць досвіду за кожен здобутий блок. Імовірність отримання досвіду прямо пропорційна поточній ситості. Не працює на блоки з моментальним руйнуванням.",
 
-  "tooltip.relics.digging_claws.description": "Зміцнює руки власника реліквії, дозволяючи ефективніше розбивати будь-які блоки.",
+  "tooltip.relics.digging_claws.description": "Зміцнює руки власника реліквії, даючи змогу ефективніше розбивати будь-які блоки.",
   "tooltip.relics.digging_claws.ability.passive": "Руки-кайла",
   "tooltip.relics.digging_claws.ability.passive.description": "Знижує необхідний рівень інструменту для всіх блоків на 1.",
   "tooltip.relics.digging_claws.ability.fast_mining": "Швидкісний видобуток",
@@ -180,7 +180,7 @@
   "tooltip.relics.antidote_vessel.leveling_source.devourer.title": "Алхімічний дотик",
   "tooltip.relics.antidote_vessel.leveling_source.devourer.description": "+%1$s одиниць досвіду за кожен вкрадений ефект за допомогою здібності %2$s.",
 
-  "tooltip.relics.power_glove.description": "Дозволяє носію реліквії здійснювати посилені атаки.",
+  "tooltip.relics.power_glove.description": "Дає змогу носію реліквії здійснювати посилені атаки.",
   "tooltip.relics.power_glove.ability.power": "Сильний удар",
   "tooltip.relics.power_glove.ability.power.description": "Збільшує завдану гравцем шкоду на %1$s%%, але йде у перезаряджання в 5 секунд після кожної атаки.",
   "tooltip.relics.power_glove.leveling_source.power.title": "Сильний удар",
@@ -196,7 +196,7 @@
 
   "tooltip.relics.snowshoes.description": "Підвищує мобільність носія реліквії в суворих снігових умовах.",
   "tooltip.relics.snowshoes.ability.passive": "Легка хода",
-  "tooltip.relics.snowshoes.ability.passive.description": "Дозволяє пересуватися по пухкому снігу не провалюючись.",
+  "tooltip.relics.snowshoes.ability.passive.description": "Дає змогу пересуватися по пухкому снігу не провалюючись.",
   "tooltip.relics.snowshoes.ability.speed": "Снігохід",
   "tooltip.relics.snowshoes.ability.speed.description": "Збільшує швидкість пересування по снігу на %1$s%%.",
   "tooltip.relics.snowshoes.leveling_source.speed.title": "Снігохід",
@@ -206,7 +206,7 @@
   "tooltip.relics.steadfast_spikes.ability.resistance": "Зчеплення",
   "tooltip.relics.steadfast_spikes.ability.resistance.description": "Збільшує опір віддачі та слизьким блокам на %1$s%%.",
   "tooltip.relics.steadfast_spikes.ability.passive": "Чіпкі кігті",
-  "tooltip.relics.steadfast_spikes.ability.passive.description": "Дозволяє повільно сповзати по стінах, нівелюючи шкоду від падіння.",
+  "tooltip.relics.steadfast_spikes.ability.passive.description": "Дає змогу повільно сповзати по стінах, нівелюючи шкоду від падіння.",
   "tooltip.relics.steadfast_spikes.leveling_source.resistance_1.title": "Зчеплення з поверхнею",
   "tooltip.relics.steadfast_spikes.leveling_source.resistance_1.description": "+%1$s одиниць досвіду за кожну ослаблену віддачу здатністю %2$s.",
   "tooltip.relics.steadfast_spikes.leveling_source.resistance_2.title": "Опір ковзанню",
@@ -218,14 +218,14 @@
   "tooltip.relics.rooted_boots.leveling_source.devouring.title": "Травоїдність",
   "tooltip.relics.rooted_boots.leveling_source.devouring.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s.",
 
-  "tooltip.relics.warp_drive.description": "Дозволяє носію реліквії контрольовано переносити своє тіло на невеликі відстані.",
+  "tooltip.relics.warp_drive.description": "Дає змогу носію реліквії контрольовано переносити своє тіло на невеликі відстані.",
   "tooltip.relics.warp_drive.ability.teleport": "Транслокація",
   "tooltip.relics.warp_drive.ability.teleport.description": "При використанні телепортує гравця на позицію по лінії погляду в межах %1$s блоків, після чого йде у перезаряджання на %2$s секунд.",
   "tooltip.relics.warp_drive.ability.teleport.predicate.teleport": "Погляд на позицію телепортації",
   "tooltip.relics.warp_drive.leveling_source.teleport.title": "Транслокація",
   "tooltip.relics.warp_drive.leveling_source.teleport.description": "+%1$s одиниць досвіду за кожні 10 блоків, подоланих за допомогою телепортації від здібності %2$s.",
 
-  "tooltip.relics.charm_of_shrinking.description": "Дозволяє власнику реліквії стиснути власне тіло, щоб проникнути в раніше недосяжні місця.",
+  "tooltip.relics.charm_of_shrinking.description": "Дає змогу власнику реліквії стиснути власне тіло, щоб проникнути в раніше недосяжні місця.",
   "tooltip.relics.charm_of_shrinking.ability.shrinking": "Компресія",
   "tooltip.relics.charm_of_shrinking.ability.shrinking.description": "Зменшує розмір гравця на %1$s%%.",
 
@@ -247,9 +247,9 @@
   "tooltip.relics.kitty_slippers.leveling_source.resurrected.title": "Дев’ять життів",
   "tooltip.relics.kitty_slippers.leveling_source.resurrected.description": "+%1$s одиниць досвіду за кожну одиницю шкоди від останньої фатальної атаки, відверненої здатністю %2$s.",
 
-  "tooltip.relics.bunny_hoppers.description": "Зміцнює ноги носія реліквії, дозволяючи йому сильніше відштовхуватися від землі.",
+  "tooltip.relics.bunny_hoppers.description": "Зміцнює ноги носія реліквії, даючи йому змогу сильніше відштовхуватися від землі.",
   "tooltip.relics.bunny_hoppers.ability.hold": "Стрибун",
-  "tooltip.relics.bunny_hoppers.ability.hold.description": "Дозволяє здійснювати високі стрибки за допомогою безперервного утримання клавіші стрибка на час до %1$s секунд.",
+  "tooltip.relics.bunny_hoppers.ability.hold.description": "Дає змогу здійснювати високі стрибки за допомогою безперервного утримання клавіші стрибка на час до %1$s секунд.",
   "tooltip.relics.bunny_hoppers.leveling_source.hold.title": "Стрибун",
   "tooltip.relics.bunny_hoppers.leveling_source.hold.description": "+%1$s одиниць досвіду за кожен здійснений високий стрибок від здібності %2$s.",
 
@@ -267,9 +267,9 @@
   "tooltip.relics.panic_necklace.leveling_source.panic.title": "Паніка",
   "tooltip.relics.panic_necklace.leveling_source.panic.description": "+%1$s одиниць досвіду за кожне отримання шкоди від моба, на якого поширюється дія здібності %2$s.",
 
-  "tooltip.relics.helium_flamingo.description": "На деякий час дозволяє носію реліквії розсікати повітря так само, як він розсікає воду.",
+  "tooltip.relics.helium_flamingo.description": "На деякий час дає змогу носію реліквії розсікати повітря так само, як він розсікає воду.",
   "tooltip.relics.helium_flamingo.ability.flying": "Повітряний плавець",
-  "tooltip.relics.helium_flamingo.ability.flying.description": "При здійсненні подвійного стрибка дозволяє гравцеві плавати в повітрі на час до %1$s секунд. Швидкість пересування в повітрі пропорційна швидкости плавання гравця з бонусом у додаткові %2$s%%.",
+  "tooltip.relics.helium_flamingo.ability.flying.description": "При здійсненні подвійного стрибка дає змогу гравцеві плавати в повітрі на час до %1$s секунд. Швидкість пересування в повітрі пропорційна швидкости плавання гравця з бонусом у додаткові %2$s%%.",
   "tooltip.relics.helium_flamingo.leveling_source.flying.title": "Повітряний плавець",
   "tooltip.relics.helium_flamingo.leveling_source.flying.description": "+%1$s одиниць досвіду за кожну секунду плавання в повітрі від здібності %2$s.",
 
@@ -301,19 +301,19 @@
   "tooltip.relics.pickaxe_heater.leveling_source.heater.title": "Концентрація жару",
   "tooltip.relics.pickaxe_heater.leveling_source.heater.description": "+%1$s одиниць досвіду за кожен перетоплений здатністю %2$s блок.",
 
-  "tooltip.relics.chorus_totem.description": "Дозволяє носію реліквії повернути час назад при здійсненні необдуманих дій.",
+  "tooltip.relics.chorus_totem.description": "Дає змогу носію реліквії повернути час назад при здійсненні необдуманих дій.",
   "tooltip.relics.chorus_totem.ability.past": "Часова петля",
   "tooltip.relics.chorus_totem.ability.past.description": "Кожна атака, здійснена по носію реліквії, з шансом в %1$s%% за кожен відсоток відсутнього у нього здоров’я переміщує нападника у випадкову локацію в радіусі %2$s блоків.",
   "tooltip.relics.chorus_totem.leveling_source.past.title": "Часова петля",
   "tooltip.relics.chorus_totem.leveling_source.past.description": "+%1$s одиниць досвіду за кожне спрацьовування здібності %2$s.",
 
-  "tooltip.relics.running_shoes.description": "Зміцнює ноги носія реліквії, дозволяючи рухатися швидше.",
+  "tooltip.relics.running_shoes.description": "Зміцнює ноги носія реліквії, даючи змогу рухатися швидше.",
   "tooltip.relics.running_shoes.ability.runner": "Широкий крок",
   "tooltip.relics.running_shoes.ability.runner.description": "Збільшує швидкість бігу гравця на %1$s%%.",
   "tooltip.relics.running_shoes.leveling_source.runner.title": "Широкий крок",
   "tooltip.relics.running_shoes.leveling_source.runner.description": "+%1$s одиниць досвіду за кожну секунду бігу.",
 
-  "tooltip.relics.flippers.description": "Зміцнює ноги носія реліквії, дозволяючи плавати швидше.",
+  "tooltip.relics.flippers.description": "Зміцнює ноги носія реліквії, даючи змогу плавати швидше.",
   "tooltip.relics.flippers.ability.swimmer": "Риб’ячий хвіст",
   "tooltip.relics.flippers.ability.swimmer.description": "Збільшує швидкість плавання гравця на %1$s%%.",
   "tooltip.relics.flippers.leveling_source.swimmer.title": "Риб’ячий хвіст",

@@ -18,7 +18,7 @@
 			"images": [
 				"apotheosis:textures/gui/book/slot_selector.png"
 			],
-			"text": "Дозволяє вибрати, який слот для зачарування оглянути."
+			"text": "Дає змогу вибрати, який слот для зачарування оглянути."
         },
 		{
 			"type": "patchouli:text",
@@ -42,7 +42,7 @@
 			"images": [
 				"apotheosis:textures/gui/book/power_slider.png"
 			],
-			"text": "Це дозволяє змінювати імітований рівень потужности."
+			"text": "Це дає змогу змінювати імітований рівень потужности."
         },
 		{
 			"type": "patchouli:text",

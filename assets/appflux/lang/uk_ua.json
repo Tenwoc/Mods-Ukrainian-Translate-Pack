@@ -41,7 +41,7 @@
   "item.appflux.printed_energy_processor": "Друкована енергетична схема",
   "item.appflux.energy_processor_press": "Штамп енергетичної схеми",
   "item.appflux.induction_card": "Картка індукції",
-  "item.appflux.induction_card.tooltip": "Дозволяє пристроям AE приймати та передавати енергію",
+  "item.appflux.induction_card.tooltip": "Дає змогу пристроям AE приймати та передавати енергію",
   "item.appflux.part_flux_accessor": "Кабельний флаксовий приймач",
   "block.appflux.flux_accessor": "Флаксовий приймач",
   "block.appflux.charged_redstone_block": "Блок зарядженого редстоунового кристалу",

@@ -238,7 +238,7 @@
 	"ftbquests.quest.misc.exclusive": "Ексклюзивна гілка квестів",
 	"ftbquests.quest.misc.exclusive.desc": "Виконання завдання квесту робить інші гілки недоступними",
 	"ftbquests.quest.tasks_ignore_dependencies": "Ігнорувати залежності задач",
-	"ftbquests.quest.tasks_ignore_dependencies.tooltip": "Дозволяє починати задачі без завершення залежностей",
+	"ftbquests.quest.tasks_ignore_dependencies.tooltip": "Дає змогу починати задачі без завершення залежностей",
 	"ftbquests.quest.dependencies.dependency_requirement": "Вимога залежностей",
 	"ftbquests.quest.dependency_requirement.tooltip": "Ігнорується, якщо мінімально потрібно залежностей > 0",
 	"ftbquests.quest.dependency_requirement.all_completed": "Всі завершені",

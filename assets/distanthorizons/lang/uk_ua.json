@@ -341,7 +341,7 @@
     "distanthorizons.config.server.enableAdaptiveTransferSpeed.@tooltip": "Вмикає адаптивну швидкість передачі на основі продуктивності клієнта.\nЯкщо true, DH автоматично налаштовуватиме швидкість передачі, щоб мінімізувати затримку з’єднання.\nЯкщо false, швидкість передачі залишатиметься фіксованою.",
     "distanthorizons.config.server.experimental": "Експериментально",
     "distanthorizons.config.server.experimental.enableNSizedGeneration": "Увімкнути генерацію розміру N",
-    "distanthorizons.config.server.experimental.enableNSizedGeneration.@tooltip": "Якщо ввімкнено на клієнті, це дозволяє завантажувати нижчі рівні деталізації за потреби, щоб пришвидшити генерацію ландшафту.\nЦе також має бути ввімкнено на сервері; інакше це не матиме ефекту.\nДля кращої продуктивності під час перемикання рівнів деталізації LOD рекомендується ввімкнути [upsampleLowerDetailLodsToFillHoles].",
+    "distanthorizons.config.server.experimental.enableNSizedGeneration.@tooltip": "Якщо ввімкнено на клієнті, це дає змогу завантажувати нижчі рівні деталізації за потреби, щоб пришвидшити генерацію ландшафту.\nЦе також має бути ввімкнено на сервері; інакше це не матиме ефекту.\nДля кращої продуктивності під час перемикання рівнів деталізації LOD рекомендується ввімкнути [upsampleLowerDetailLodsToFillHoles].",
     "distanthorizons.config.enum.EDhApiQualityPreset.CUSTOM": "Налаштування",
     "distanthorizons.config.enum.EDhApiQualityPreset.MINIMUM": "1. Мінімальний",
     "distanthorizons.config.enum.EDhApiQualityPreset.LOW": "2. Низький",

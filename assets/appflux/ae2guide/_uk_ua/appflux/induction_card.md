@@ -16,4 +16,4 @@ item_ids:
 </Row>
 
 Картка індукції може перетворити <ItemLink id="ae2:pattern_provider" /> чи <ItemLink id="ae2:interface" /> у
-<ItemLink id="appflux:flux_accessor" />, дозволяючи їм передавати/отримувати енергію.
+<ItemLink id="appflux:flux_accessor" />, даючи їм змогу передавати/отримувати енергію.

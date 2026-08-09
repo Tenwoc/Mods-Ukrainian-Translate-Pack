@@ -31,12 +31,12 @@
     "message.rftoolsstorage.storage_scanner.header": "Ця машина просканує всі найближчі запаси і покаже їх у списку. Потім ви можете шукати та отримувати доступ до предметів з цих сховищ",
     "message.rftoolsstorage.storage_scanner.gold": "Приємний бонус: зменшене енергоспоживання",
 
-    "message.rftoolsstorage.storage_control_module.header": "Цей екранний модуль дозволяє відстежувати 9 різних предметів за допомогою сканера для зберігання. Цей модуль також можна поєднати з планшетом для віддаленого доступу до системи, керованої сканером зберігання",
+    "message.rftoolsstorage.storage_control_module.header": "Цей екранний модуль дає змогу відстежувати 9 різних предметів за допомогою сканера для зберігання. Цей модуль також можна поєднати з планшетом для віддаленого доступу до системи, керованої сканером зберігання",
     "message.rftoolsstorage.storage_control_module.gold": "Підступно натисніть ПКМ на сканер для зберігання, щоб встановити ціль для цього модуля зберігання",
     "message.rftoolsstorage.storage_control_module.uses": "Енергоспоживання: ",
     "message.rftoolsstorage.storage_control_module.info": "Сканер сховища: ",
 
-    "message.rftoolsstorage.dump_module.header": "Модуль для екрана, який дозволяє скидати велику кількість предметів на пов’язаний сканер накопичувача",
+    "message.rftoolsstorage.dump_module.header": "Модуль для екрана, який дає змогу скидати велику кількість предметів на пов’язаний сканер накопичувача",
     "message.rftoolsstorage.dump_module.gold": "Підступно натисніть ПКМ на сканері сховища, щоб встановити ціль для цього модуля дампа",
     "message.rftoolsstorage.dump_module.uses": "Енергоспоживання: ",
     "message.rftoolsstorage.dump_module.info": "Сканер сховища: ",
@@ -50,5 +50,5 @@
     "message.rftoolsstorage.storage_module.items": "Вміст: ",
     "message.rftoolsstorage.storage_module.advanced": "Розширений: ",
 
-    "message.rftoolsstorage.modular_storage.header": "Ця модульна система зберігання може зберігати багато предметів і дозволяє легко здійснювати пошук і фільтрацію. Перш ніж використовувати модуль сховища, ви повинні вставити предмет, перш ніж ви зможете його використовувати"
+    "message.rftoolsstorage.modular_storage.header": "Ця модульна система зберігання може зберігати багато предметів і дає змогу легко здійснювати пошук і фільтрацію. Перш ніж використовувати модуль сховища, ви повинні вставити предмет, перш ніж ви зможете його використовувати"
 }

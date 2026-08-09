@@ -43,7 +43,7 @@
   "text.config.alloy_forgery.option.allowBlastingFurnaceAdaption.tooltip": "Перемикач для ввімкнення або вимкнення плавильної обробки для всіх рецептів плавильної печі",
 
   "text.config.alloy_forgery.option.baseInputAmount": "Базова кількість вхідних матеріалів",
-  "text.config.alloy_forgery.option.baseInputAmount.tooltip": "Дозволяє налаштувати базову кількість вхідних матеріалів для рецептів обробки",
+  "text.config.alloy_forgery.option.baseInputAmount.tooltip": "Дає змогу налаштувати базову кількість вхідних матеріалів для рецептів обробки",
 
   "text.config.alloy_forgery.option.higherTierOutputIncrease": "Додаткова кількість матеріалу по рівню",
   "text.config.alloy_forgery.option.higherTierOutputAmount.tooltip": "Налаштовує додаткову кількість вихідного матеріалу, що збільшується при досягненні 3 рівня"

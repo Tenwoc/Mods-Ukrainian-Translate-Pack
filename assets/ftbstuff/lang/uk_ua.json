@@ -141,7 +141,7 @@
   "ftbstuff.making": "Роблення:",
   "ftbstuff.processing_time": "Час обробки: %d с",
   "ftbstuff.sluice": "Шлюз",
-  "ftbstuff.sluice.props.auto": "Дозволяє автоматизацію: %s | %s",
+  "ftbstuff.sluice.props.auto": "Дає змогу автоматизацію: %s | %s",
   "ftbstuff.sluice.props.auto.fluid": "Рідини",
   "ftbstuff.sluice.props.auto.item": "Предмети",
   "ftbstuff.sluice.props.fluid_usage": "Множник використання рідини: %sx",

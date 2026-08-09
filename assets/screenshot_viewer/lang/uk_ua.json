@@ -24,7 +24,7 @@
   "config.screenshot_viewer.show_button_on_title_screen": "Показувати кнопку на головному екрані",
   "config.screenshot_viewer.show_button_on_title_screen.desc": "Показувати кнопку для доступу до знімків екрана безпосередньо на головному екрані.",
   "config.screenshot_viewer.enable_screenshot_enlargement_animation": "Увімкнути анімацію збільшення знімка екрана",
-  "config.screenshot_viewer.enable_screenshot_enlargement_animation.desc": "Дозволяє вказати, чи слід відтворювати анімацію збільшення знімка екрана при натисканні на нього для збільшення.",
+  "config.screenshot_viewer.enable_screenshot_enlargement_animation.desc": "Дає змогу вказати, чи слід відтворювати анімацію збільшення знімка екрана при натисканні на нього для збільшення.",
   "config.screenshot_viewer.prompt_when_deleting_screenshot": "Підказка при видаленні знімка екрана",
   "config.screenshot_viewer.prompt_when_deleting_screenshot.desc": "Попередження у вигляді екрана підтвердження при спробі видалити знімок.",
   "config.screenshot_viewer.initial_screenshot_amount_per_row": "Початкова кількість знімків екрана в рядку",

@@ -28,7 +28,7 @@
   "servercountryflags.config.field.borderColor.description": "Колір рамки навколо прапорів",
 
   "servercountryflags.config.field.reloadOnRefresh.name": "Перезавантажувати при оновленні",
-  "servercountryflags.config.field.reloadOnRefresh.description": "Дозволяє перезавантажувати прапори при оновленні списку серверів",
+  "servercountryflags.config.field.reloadOnRefresh.description": "Дає змогу перезавантажувати прапори при оновленні списку серверів",
 
   "servercountryflags.config.field.showDistance.name": "Показувати відстань",
   "servercountryflags.config.field.showDistance.description": "Показує приблизну відстань між сервером і вами, коли ви наводите курсор на прапорець",

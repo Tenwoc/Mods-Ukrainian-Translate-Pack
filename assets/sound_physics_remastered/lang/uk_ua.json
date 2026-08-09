@@ -28,7 +28,7 @@
   "cloth_config.sound_physics_remastered.default_block_occlusion_factor": "Усталений коефіцієнт оклюзії блоку",
   "cloth_config.sound_physics_remastered.default_block_occlusion_factor.description": "Стандартне значення оклюзії для всіх блоків. Менші значення означають, що звуки будуть менш приглушені за стінами. Вищі значення означають, що звуки не будуть чутні через товстіші стіни.",
   "cloth_config.sound_physics_remastered.sound_distance_allowance": "Відстань допустимого звуку",
-  "cloth_config.sound_physics_remastered.sound_distance_allowance.description": "Minecraft не дозволяє відтворювати звуки за межами певної відстані. Цей параметр - множник для того, як далеко має відтворюватися звукове джерело. Цей параметр впливає тільки на світи гри наодинці або коли мод встановлено на сервері.",
+  "cloth_config.sound_physics_remastered.sound_distance_allowance.description": "Minecraft не дає змогу відтворювати звуки за межами певної відстані. Цей параметр - множник для того, як далеко має відтворюватися звукове джерело. Цей параметр впливає тільки на світи гри наодинці або коли мод встановлено на сервері.",
   "cloth_config.sound_physics_remastered.air_absorption": "Поглинання повітря",
   "cloth_config.sound_physics_remastered.air_absorption.description": "Значення, що контролює кількість високочастотних звуків, які поглинає повітря на відстані. Значення 1.0 є фізично правильним для повітря з нормальною вологістю і температурою. Вищі значення означають, що повітря поглинає більше високочастотних звуків на відстані. 0 вимикає цей ефект.",
   "cloth_config.sound_physics_remastered.underwater_filter": "Підводний фільтр",

@@ -195,7 +195,7 @@
     "framework_config.controllable.client.client.options.pitchSensitivity": "Чутливість до висоти тону",
     "framework_config.controllable.client.client.options.pitchSensitivity.tooltip": "Чутливість повороту камери за кутом нахилу при застосуванні швидкості обертання. Значення 1.0 означає застосування 100% швидкості обертання до кута нахилу.",
     "framework_config.controllable.client.client.options.quickCraft": "Швидке майстрування",
-    "framework_config.controllable.client.client.options.quickCraft.tooltip": "Якщо увімкнено, дозволяє швидко створювати рецепти при натисканні на предмет у книзі рецептів",
+    "framework_config.controllable.client.client.options.quickCraft.tooltip": "Якщо увімкнено, дає змогу швидко створювати рецепти при натисканні на предмет у книзі рецептів",
     "framework_config.controllable.client.client.options.radialThumbstick": "Кільцеве меню джойстика",
     "framework_config.controllable.client.client.options.radialThumbstick.tooltip": "Використовувати джойстик для прокрутки предметів у радіальному меню",
     "framework_config.controllable.client.client.options.renderMiniPlayer": "Відображати куклу гравця",

@@ -83,7 +83,7 @@
   "item.cognition.flask_of_poseidon.description": "Розміщує блок води коштом досвіду.",
   "item.cognition.flask_of_hades.description": "Розміщує блок лави коштом досвіду.",
   "item.cognition.flask_of_chaos.description": "Знищує блок рідини коштом досвіду.",
-  "item.cognition.transforming_focus.description": "Дозволяє метаморферу виконувати рецепти перетворення.",
+  "item.cognition.transforming_focus.description": "Дає змогу метаморферу виконувати рецепти перетворення.",
   "item.cognition.memory_tablet.description": "Віддалений доступ до обеліска та відновлення досвіду. §nSHIFT§r         §n+ ПКМ§r по обеліску, щоби зв'язати з ним.",
   "item.cognition.fortuitous_amulet.description": "Робить вас вдалим! Успадковує властивості просвітленого амулета та підсилює випадіння досвіду з мобів.",
   "block.cognition.experience_obelisk.description": "Сховище та обмінник досвіду. пасивно поглинає сфери досвіду поблизу.",

@@ -19,7 +19,7 @@
   "text.autoconfig.chat_heads.option.handleSystemMessages": "Обробка системних повідомлень",
   "text.autoconfig.chat_heads.option.handleSystemMessages.@Tooltip": "Чи можна додавати заголовки до «чистих» повідомлень сервера.\nЗверніть увагу, що багато серверів (наприклад, ті, що використовують плагін FreedomChat)\nперетворюють повідомлення гравців на повідомлення сервера!\nВимикайте цю опцію тільки якщо ви знаєте, що робите!",
   "text.autoconfig.chat_heads.option.nameAliases": "Псевдоніми",
-  "text.autoconfig.chat_heads.option.nameAliases.@Tooltip": "Деякі сервери дозволяють встановлювати псевдоніми, які автоматично\nне визначаються. Тут ви можете самостійно співставити псевдоніми\nта їх профільні імена за наступним зразком:\nпсевдонім -> ім’яПрофілю",
+  "text.autoconfig.chat_heads.option.nameAliases.@Tooltip": "Деякі сервери дають змогу встановлювати псевдоніми, які автоматично\nне визначаються. Тут ви можете самостійно співставити псевдоніми\nта їх профільні імена за наступним зразком:\nпсевдонім -> ім’яПрофілю",
   "text.chat_heads.config.error.title": "Неможливо відкрити меню параметрів",
   "text.chat_heads.config.error.no_cloth_config": "Не встановлено мод Cloth Config!",
   "text.chat_heads.config.error.cloth_config_curseforge_link": "Відкрити сторінку мода Cloth Config на CurseForge",

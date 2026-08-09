@@ -1,12 +1,12 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: Модифікатор шаблонів
-    icon: extendedae:pattern_modifier
+  parent: epp_intro/epp_intro-index.md
+  title: Модифікатор шаблонів
+  icon: extendedae:pattern_modifier
 categories:
-- extended items
+  - extended items
 item_ids:
-- extendedae:pattern_modifier
+  - extendedae:pattern_modifier
 ---
 
 # Модифікатор шаблонів
@@ -41,7 +41,7 @@ item_ids:
 
 ## Режим заміни
 
-Дозволяє замінювати певну вхідну та вихідну річ шаблона на іншу.
+Дає змогу замінювати певну вхідну та вихідну річ шаблона на іншу.
 
 ![PM3](../pic/pm4.png)
 
@@ -59,7 +59,7 @@ item_ids:
 
 ## Режим властивостей
 
-Дозволяє змінювати режими підставляння предметів та рідин для шаблонів.
+Дає змогу змінювати режими підставляння предметів та рідин для шаблонів.
 
 ![PM8](../pic/pm8.png)
 
@@ -68,4 +68,3 @@ item_ids:
 У цьому режимі ви можете коміювати будь-який заданий шаблон.
 
 ![PM7](../pic/pm3.png)
-

@@ -635,7 +635,7 @@
   "config.betternether.subbiomes": "Налаштування підбіомів",
   "container.chest_of_drawers": "Комод",
   "container.forge": "Кузня",
-  "description.config.betternether.client.cosmetic.fog_density": "BetterNether додає ефект туману до Незеру. Цей параметр дозволяє змінювати щільність туману. Менші значення зроблять туман менш густим, а більші - більш густим.",
+  "description.config.betternether.client.cosmetic.fog_density": "BetterNether додає ефект туману до Незеру. Цей параметр дає змогу змінювати щільність туману. Менші значення зроблять туман менш густим, а більші - більш густим.",
   "description.config.betternether.default_game_rules.egg_plant.mob_damage": "Коли моби торкаються баклажанів, вони отримують шкоду.",
   "description.config.betternether.default_game_rules.egg_plant.player_damage": "Коли гравці торкаються баклажанів, вони отримують шкоду.",
   "description.config.betternether.default_game_rules.piglin.ignore_nether_armor": "Піґлін сприйматиме броню BetterNether як золоту і не атакуватиме вас, якщо ви вдягнете її.",
