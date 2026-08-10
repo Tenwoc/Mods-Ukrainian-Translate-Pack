@@ -2920,7 +2920,7 @@
   "_comment": "Interaction",
   "modifier.tconstruct.blocking": "Блокування",
   "modifier.tconstruct.blocking.flavor": "Некубовий тип",
-  "modifier.tconstruct.blocking.description": "Взаємодія з інструментом дозволить блокувати вхідну шкоду",
+  "modifier.tconstruct.blocking.description": "Взаємодія з інструментом дасть змогу блокувати вхідну шкоду",
   "modifier.tconstruct.parrying": "Парирування",
   "modifier.tconstruct.parrying.flavor": "Рефлекси ніндзя",
   "modifier.tconstruct.parrying.description": "Надають короткочасне блокування після атаки, що дає змогу відбити багато атак",

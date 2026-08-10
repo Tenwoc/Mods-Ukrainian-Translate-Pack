@@ -302,7 +302,7 @@
   "gui.draconicevolution.item_config.show_unavailable": "Недоступне: Сховати",
   "gui.draconicevolution.item_config.show_unavailable.info": "Показувати властивості, якщо зв’язаний предмет недоступний.",
   "gui.draconicevolution.item_config.toggle_advanced.info": "Перемкнути вдосконалений режим налаштування",
-  "gui.draconicevolution.item_config.toggle_global_binding.info": "Глобальна прив’язка\nЦей параметр дозволить вам використовувати цю комбінацію клавіш, коли цей графічний інтерфейс закрито.\nЦе працюватиме з будь-якою клавішею, навіть якщо вона конфліктує з іншою комбінацією клавіш.",
+  "gui.draconicevolution.item_config.toggle_global_binding.info": "Глобальна прив’язка\nЦей параметр дасть вам змогу використовувати цю комбінацію клавіш, коли цей графічний інтерфейс закрито.\nЦе працюватиме з будь-якою клавішею, навіть якщо вона конфліктує з іншою комбінацією клавіш.",
   "gui.draconicevolution.item_config.toggle_hidden.info": "Показати/приховати інвентар",
   "gui.draconicevolution.item_config.toggle_preset.info": "Перемкнути режим пресетів\nПеретворює цю групу властивостей на набір пресетів.",
   "gui.draconicevolution.modular_item.module_grid": "Поле для модулів",

@@ -33,7 +33,7 @@
   "effect.ars_nouveau.flight.description": "Надає здатність використовувати творчий політ.",
   "effect.ars_nouveau.gravity.description": "Спричиняє швидке падіння та подвоює шкоду нього.",
   "effect.ars_nouveau.spell_damage.description": "Збільшує силу заклять.",
-  "effect.ars_nouveau.bounce.description": "Змушує віскакувати вгору при ударі об землю після падіння. Присідання дозволить приземлитися без отримання шкоди від падіння",
+  "effect.ars_nouveau.bounce.description": "Змушує віскакувати вгору при ударі об землю після падіння. Присідання дасть змогу приземлитися без отримання шкоди від падіння",
   "effect.ars_nouveau.magic_find.description": "Змушує світитись магічних мобів у межах 75 блоків та розкриває закляття на рунах.",
   "effect.ars_nouveau.recovery.description": "Збільшує обсяг зцілення з усіх джерел.",
   "effect.ars_nouveau.blasting.description": "Жива бомба з годинниковим механізмом. Чи потрібно говорити більше?",

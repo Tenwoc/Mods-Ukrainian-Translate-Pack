@@ -29,7 +29,7 @@ AE2WTLib покращує функціонал «запитування» бло
 <ItemLink id="ae2:wireless_crafting_terminal" /> підтримує такі [модифікатори](ae2:items-blocks-machines/upgrade_cards.md):
 
 - <ItemLink id="ae2:energy_card" /> збільшить місткість акумулятора
-- <ItemLink id="ae2wtlib:quantum_bridge_card" /> дозволить терміналу мати необмежений радіус дії, навіть у різних вимірах, та автоматично заряджатиме термінал від МЕ мережі
+- <ItemLink id="ae2wtlib:quantum_bridge_card" /> дасть змогу терміналу мати необмежений радіус дії, навіть у різних вимірах, та автоматично заряджатиме термінал від МЕ мережі
 - <ItemLink id="ae2wtlib:magnet_card" /> додасть функціонал магніту
 
 ## Рецепт

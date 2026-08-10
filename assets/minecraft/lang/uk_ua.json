@@ -8163,7 +8163,7 @@
     "test_instance_block.starting": "Запуск тесту %s",
     "test_instance_block.test_id": "ID тестового примірника",
     "title.32bit.deprecation": "Виявлено 32-розрядну систему: це може завадити вам грати в майбутньому, оскільки буде потрібна 64-розрядна система!",
-    "title.32bit.deprecation.realms": "Незабаром для Minecraft буде необхідна 64-розрядна система, що не дозволить вам грати чи користуватися Realms на цьому пристрої. Передплату Realms потрібно буде скасувати самостійно.",
+    "title.32bit.deprecation.realms": "Незабаром для Minecraft буде необхідна 64-розрядна система, що не дасть змогу вам грати чи користуватися Realms на цьому пристрої. Передплату Realms потрібно буде скасувати самостійно.",
     "title.32bit.deprecation.realms.check": "Не показувати цей екран знову",
     "title.32bit.deprecation.realms.header": "Виявлено 32-розрядну систему",
     "title.credits": "© Mojang Studios. Не поширювати!",

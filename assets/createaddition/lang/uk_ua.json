@@ -271,7 +271,7 @@
 
 	"createaddition.ponder.liquid_blaze_burner.header": "Спалювання рідкого палива",
 	"createaddition.ponder.liquid_blaze_burner.text_1": "Дайте пальнику пломеня соломинку",
-	"createaddition.ponder.liquid_blaze_burner.text_2": "Це дозволить давати рідке паливо відрами",
+	"createaddition.ponder.liquid_blaze_burner.text_2": "Це дасть змогу давати рідке паливо відрами",
 	"createaddition.ponder.liquid_blaze_burner.text_3": "- або по трубах.",
 
 	"createaddition.ponder.modular_accumulator.header": "Мультиблочний акумулятор",
@@ -301,7 +301,7 @@
 	"createaddition.ponder.pei_transfer.text_7": "Після того, як деякий час не буде обміну енергією, апарат продовжить свій шлях.",
 
 	"createaddition.ponder.pei_redstone.header": "Управляння редстоуном",
-	"createaddition.ponder.pei_redstone.text_1": "Сила Редстоуна не дозволить стаціонарному інтерфейсу ввімкнутись.",
+	"createaddition.ponder.pei_redstone.text_1": "Сила Редстоуна не дасть змогу стаціонарному інтерфейсу ввімкнутись.",
 
 	"createaddition.schedule.condition.energy_threshold": "Стан енергоносіїв",
 	"createaddition.schedule.condition.threshold.unit": "Kfe",
