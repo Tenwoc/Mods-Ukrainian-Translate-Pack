@@ -57,7 +57,7 @@
   "artifacts.config.general.slots.enableTrinketsCompat.description.0": "Чи повинний Artifacts додавати слоти у меню Trinket,",
   "artifacts.config.general.slots.enableTrinketsCompat.description.1": "та дозволити споряджати туди артефакти",
   "artifacts.config.general.slots.enableTrinketsCompat.title": "Увімкнути сумісність з Trinkets",
-  "artifacts.config.general.slots.removeSlotRestrictions.description.0": "Коли увімкнено, дає змогу надягати артефакти куди завгодно",
+  "artifacts.config.general.slots.removeSlotRestrictions.description.0": "Коли увімкнено, дозволяє надягати артефакти куди завгодно",
   "artifacts.config.general.slots.removeSlotRestrictions.description.1": "(Поки сумісно лише з Curios та Trinkets, не з Accessories)",
   "artifacts.config.general.slots.removeSlotRestrictions.title": "Вимкнути обмеження слотів",
   "artifacts.config.general.slots.title": "Слоти",

@@ -184,7 +184,7 @@
   "screen.travelersbackpack.filter_half_nutrition": "Годувати тільки, якщо гравець може засвоїти принаймні половину насичення їжі",
   "screen.travelersbackpack.filter_always_eat": "Годувати, якщо гравець голодний, незалежно від рівня насиченості",
   "screen.travelersbackpack.filter_block_bad_effects": "Ігнорувати їжу зі шкідливими ефектами",
-  "screen.travelersbackpack.filter_allow_bad_effects": "Дати змогу їжу зі шкідливими ефектами",
+  "screen.travelersbackpack.filter_allow_bad_effects": "Дозволити їжу зі шкідливими ефектами",
   "item.travelersbackpack.backpack_tank": "Резервуар наплічника",
   "item.travelersbackpack.hose_nozzle": "Насадка для шланга",
   "item.travelersbackpack.hose": "Шланг",

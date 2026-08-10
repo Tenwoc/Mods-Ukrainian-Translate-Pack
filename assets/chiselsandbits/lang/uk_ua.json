@@ -247,7 +247,7 @@
   "commands.setbit.spaceOccupied": "Фрагмент не може бути розміщений, місце зайнято",
   "mod.chiselsandbits.chisel.station.name": "Довбальна станція",
   "mod.chiselsandbits.chisel.station.help": "Дає змогу масово виготовляти шаблони з одного матеріалу.",
-  "mod.chiselsandbits.chisel.station.help.long": "Дає змогу багаторазово повторювати один і той самий шаблон. Однак дає змогу використовувати лише один матеріал, замінюючи будь-який матеріал, що виходить з деталі.",
+  "mod.chiselsandbits.chisel.station.help.long": "Дає змогу багаторазово повторювати один і той самий шаблон. Однак дозволяє використовувати лише один матеріал, замінюючи будь-який матеріал, що виходить з деталі.",
   "mod.chiselsandbits.modification.table.help": "Дає змогу модифікувати незапечатані шаблони.",
   "mod.chiselsandbits.modification.table.help.long": "До незапечатаної деталі можна застосувати кілька різних операцій. Крім того, ви можете бачити модифікацію деталі перед її застосуванням.",
   "mod.chiselsandbits.advancements.root.title": "Chisels & Bits!",
