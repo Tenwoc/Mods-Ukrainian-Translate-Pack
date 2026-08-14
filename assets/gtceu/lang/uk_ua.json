@@ -1978,6 +1978,7 @@
   "config.jade.plugin_gtceu.multiblock_structure": "[GTCEu] Багатоблокова конструкція",
   "config.jade.plugin_gtceu.parallel_info": "[GTCEu] Інфо паралелізації",
   "config.jade.plugin_gtceu.primitive_pump": "[GTCEu] Інфо примітивної помпи",
+  "config.jade.plugin_gtceu.programmed_circuit_info": "[GTCEu] Інфо програмної плати",
   "config.jade.plugin_gtceu.recipe_logic_provider": "[GTCEu] Логіка рецептів",
   "config.jade.plugin_gtceu.recipe_output_info": "[GTCEu] Інфо виводу рецептів",
   "config.jade.plugin_gtceu.stained_color": "[GTCEu] Інфо заплямованого блоку",
@@ -3365,7 +3366,6 @@
   "gtceu.multiblock.cracker.description": "Нафтова крекінгова устава - це багатоблокова конструкція, яка використовується для перетворення легкого та важкого палива на їх крекінгові варіанти.",
   "gtceu.multiblock.cracking_unit.energy": "Вик. енергії: %s%%",
   "gtceu.multiblock.data_bank.description": "База даних - це багатоблокова конструкція, яка використовується для спільного використання дослідницьких даних конвеєрної лінії між кількома конвеєрними лініями. Крім того, це дає змогу конвеєрним лініям зчитувати складніші дослідницькі дані з модулів даних.",
-
   "gtceu.multiblock.data_bank.error_power": "Низький рівень живлення, дані не постачаються!",
   "gtceu.multiblock.data_bank.providing": "Надання даних.",
   "gtceu.multiblock.dimension": "§eРозміри: §r%sx%sx%s",
@@ -6063,7 +6063,7 @@
   "tooltip.gtceu.hazard_trigger.none": "Ніяк",
   "tooltip.gtceu.hazard_trigger.protection": "Захищає:",
   "tooltip.gtceu.hazard_trigger.skin_contact": "Від контакту зі шкірою",
-  "tooltip.gtceu.medical_condition.description": "§l§cНЕБЕЗПЕЧНО §7Утримуйте Shift для подробиц",
+  "tooltip.gtceu.medical_condition.description": "§l§cНЕБЕЗПЕЧНО §7Утримуйте Shift для подробиць",
   "tooltip.gtceu.medical_condition.description_shift": "§l§cНЕБЕЗПЕЧНО:",
   
   "comment": "outdated lines",
