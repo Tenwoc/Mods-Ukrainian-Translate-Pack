@@ -10,7 +10,7 @@
 
 
     "effect.cataclysm_spellbooks.abyssal_predator_effect": "Хижак безодні",
-    "effect.cataclysm_spellbooks.abyssal_predator_effect.description": "Збільшує швидкість пересування, швидкість плавання та шкоду у воді або під дощем.",
+    "effect.cataclysm_spellbooks.abyssal_predator_effect.description": "Збільшує швидкість руху, швидкість плавання та шкоду у воді або під дощем.",
     "effect.cataclysm_spellbooks.incapacitated_effect": "Недієздатність",
     "effect.cataclysm_spellbooks.incapacitated_effect.description": "Сповільнює гравця та унеможливлює обертання голови.",
     "effect.cataclysm_spellbooks.abyssal_gnawer_timer": "Викликаний глибинний гризун",
@@ -22,7 +22,7 @@
     "effect.cataclysm_spellbooks.shutdown_effect": "Завершення роботи",
     "effect.cataclysm_spellbooks.shutdown_effect.description": "Унеможливлює атакування та використання предметів, й також завдає шкоди з часом.",
     "effect.cataclysm_spellbooks.rewired_effect": "Перепрограмування",
-    "effect.cataclysm_spellbooks.rewired_effect.description": "Збільшує шкоду та швидкість пересування коштом зменшеного захисту та твердости броні.",
+    "effect.cataclysm_spellbooks.rewired_effect.description": "Збільшує шкоду та швидкість руху коштом зменшеного захисту та твердости броні.",
     "effect.cataclysm_spellbooks.hardware_update_effect": "Оновлене обладнання",
     "effect.cataclysm_spellbooks.hardware_update_effect.description": "Збільшує шкоду та захист.",
     "effect.cataclysm_spellbooks.software_update_effect": "Оновлена прошивка",

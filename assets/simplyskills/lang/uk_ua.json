@@ -52,8 +52,8 @@
   "effect.simplyskills.fanofblades":                    "Віяло клинків",
   "effect.simplyskills.bullrush":                       "Суєта",
   "effect.simplyskills.immobilize":                     "Знерухомлення",
-  "effect.simplyskills.immobilize.desc":                "Завдає шкоди і уповільнює рух при спробі пересування.",
-  "effect.simplyskills.immobilize.description":                "Завдає шкоди і уповільнює рух при спробі пересування.",
+  "effect.simplyskills.immobilize.desc":                "Завдає шкоди і уповільнює при спробі зрушитися.",
+  "effect.simplyskills.immobilize.description":                "Завдає шкоди і уповільнює при спробі зрушитися.",
 
   "effect.simplyskills.elemental_surge":                "Стихійний Сплеск",
   "effect.simplyskills.spellweaver":                    "Чароткач",
@@ -117,8 +117,8 @@
   "effect.simplyskills.might.description":                     "Збільшує на 10% шкоду в ближньому бою за накопичення.",
 
   "effect.simplyskills.exhaustion":                     "Виснаження",
-  "effect.simplyskills.exhaustion.desc":                "Ви втрачаєте 1% шкоди при атаці, швидкости атаки та швидкости пересування за накопичення.",
-  "effect.simplyskills.exhaustion.description":                "Ви втрачаєте 1% шкоди при атаці, швидкости атаки та швидкости пересування за накопичення.",
+  "effect.simplyskills.exhaustion.desc":                "Ви втрачаєте 1% шкоди при атаці, швидкости атаки та швидкости руху за накопичення.",
+  "effect.simplyskills.exhaustion.description":                "Ви втрачаєте 1% шкоди при атаці, швидкости атаки та швидкости руху за накопичення.",
 
   "effect.simplyskills.revealed":                       "Виявлений",
   "effect.simplyskills.revealed.desc":                  "Ви не можете увійти в стан Непомітності.",
@@ -178,8 +178,8 @@
   "effect.simplyskills.marksmanship.description":              "Збільшує на 10% шкоду від дальньої стрільби за накопичення.",
 
   "effect.simplyskills.agile":                          "Спритність",
-  "effect.simplyskills.agile.desc":                     "Збільшує на 5% швидкість атаки, швидкість пересування, швидкість заклинань і далекобійність за кожне накопичення.",
-  "effect.simplyskills.agile.description":                     "Збільшує на 5% швидкість атаки, швидкість пересування, швидкість заклинань і далекобійність за кожне накопичення.",
+  "effect.simplyskills.agile.desc":                     "Збільшує на 5% швидкість атаки, швидкість руху, швидкість заклинань і далекобійність за кожне накопичення.",
+  "effect.simplyskills.agile.description":                     "Збільшує на 5% швидкість атаки, швидкість руху, швидкість заклинань і далекобійність за кожне накопичення.",
 
   "effect.simplyskills.bone_armor":                     "Кістяна броня",
   "effect.simplyskills.bone_armor.desc":                "Дає 10% збільшення броні та міцності за кожну кістку. Кістка втрачається при ударі",
@@ -242,8 +242,8 @@
   "effect.simplyskills.melody_of_war.description":             "Отримайте збільшену шкоду та регенерацію.",
 
   "effect.simplyskills.melody_of_swiftness":            "Мелодія швидкости",
-  "effect.simplyskills.melody_of_swiftness.desc":       "Отримайте збільшену швидкість пересування та Грацію дельфіна.",
-  "effect.simplyskills.melody_of_swiftness.description":       "Отримайте збільшену швидкість пересування та Грацію дельфіна.",
+  "effect.simplyskills.melody_of_swiftness.desc":       "Отримайте збільшену швидкість руху та Грацію дельфіна.",
+  "effect.simplyskills.melody_of_swiftness.description":       "Отримайте збільшену швидкість руху та Грацію дельфіна.",
 
   "effect.simplyskills.melody_of_protection":           "Мелодія захисту",
   "effect.simplyskills.melody_of_protection.desc":      "Отримайте Силу та ігноруйте 10% шкоди.",
@@ -254,8 +254,8 @@
   "effect.simplyskills.melody_of_safety.description":          "Відновлюйте 10% від максимального здоров’я на секунду.",
 
   "effect.simplyskills.melody_of_concentration":        "Мелодія концентрації",
-  "effect.simplyskills.melody_of_concentration.desc":   "Отримайте збільшену швидкість атаки та пересування.",
-  "effect.simplyskills.melody_of_concentration.description":   "Отримайте збільшену швидкість атаки та пересування.",
+  "effect.simplyskills.melody_of_concentration.desc":   "Отримайте збільшену швидкість атаки та руху.",
+  "effect.simplyskills.melody_of_concentration.description":   "Отримайте збільшену швидкість атаки та руху.",
 
   "effect.simplyskills.melody_of_bloodlust":            "Мелодія жаги крові",
   "effect.simplyskills.melody_of_bloodlust.desc":       "Отримайте збільшену швидкість атаки та шкоду.",
@@ -393,8 +393,8 @@
   "text.autoconfig.simplyskills.option.client.DASArmorToughness.@Tooltip":                                   "Кількість міцності броні, що додається (помножена на витрачені очки вміння)",
   "text.autoconfig.simplyskills.option.client.DASToughnessAddMulti":                                                    "DAS additional Armor Toughness multiplier",
   "text.autoconfig.simplyskills.option.client.DASToughnessAddMulti.@Tooltip":                                           "An additional multiplier that will only be in effect if the entity base health is higher than the value set for 'DAS Additional Multiplier HP Requirement'",
-  "text.autoconfig.simplyskills.option.client.DASSpeed":                                                     "DAS Швидкість пересування",
-  "text.autoconfig.simplyskills.option.client.DASSpeed.@Tooltip":                                            "Кількість швидкости пересування, що додається (помножена на витрачені очки вміння)",
+  "text.autoconfig.simplyskills.option.client.DASSpeed":                                                     "DAS Швидкість руху",
+  "text.autoconfig.simplyskills.option.client.DASSpeed.@Tooltip":                                            "Кількість швидкости руху, що додається (помножена на витрачені очки вміння)",
   "text.autoconfig.simplyskills.option.client.DASSpeedAddMulti":                                                    "DAS additional Movespeed multiplier",
   "text.autoconfig.simplyskills.option.client.DASSpeedAddMulti.@Tooltip":                                           "An additional multiplier that will only be in effect if the entity base health is higher than the value set for 'DAS Additional Multiplier HP Requirement'",
   "text.autoconfig.simplyskills.option.client.DASKnockbackResist":                                           "DAS Стійкість до віддачі",
@@ -572,7 +572,7 @@
   "text.autoconfig.simplyskills.option.rogue.passiveRogueExploitationDeathMarkStacks":                       "§a[Пасивна]§7 Накопичення Експлуатація Знака смерті",
   "text.autoconfig.simplyskills.option.rogue.passiveRogueFleetfootedSpeedDuration":                          "§a[Пасивна]§7 Тривалість використання швидкости Швидкохід",
   "text.autoconfig.simplyskills.option.rogue.passiveRogueFleetfootedSpeedStacks":                            "§a[Пасивна]§7 накопичень швидкости швидкохідності",
-  "text.autoconfig.simplyskills.option.rogue.passiveRogueFleetfootedSpeedMaxStacks":                         "§a[Пасивна]§7 максимальних накопичень швидкости пересування на човнах",
+  "text.autoconfig.simplyskills.option.rogue.passiveRogueFleetfootedSpeedMaxStacks":                         "§a[Пасивна]§7 максимальних накопичень швидкости руху на човнах",
 
 
   "text.autoconfig.simplyskills.option.rogue.signatureRoguePreparationDuration":                             "§6[Сигнатура]§7 Тривалість підготовки",
@@ -809,7 +809,7 @@
 
   "text.category.tree.title":                                                                                 "Прості навички",
   "text.skills.pathWayfarer.title":                                                                           "Шлях §bМандрівника",
-  "text.skills.pathWayfarer.description":                                                                     "§a+10% §f[+]§7 швидкости пересування",
+  "text.skills.pathWayfarer.description":                                                                     "§a+10% §f[+]§7 швидкости руху",
 
   "text.skills.initiate.title":                                                                               "Шлях §bОкультиста§7",
   "text.skills.initiate.description":                                                                         "§a+1§7 до всіх типів магії",
@@ -844,8 +844,8 @@
   "text.skills.ranged_damage_multi+2%.title": "§a+5% §f[+]§7 шкоди в дальньому бою",
   "text.skills.attack_speed+1%.title": "§a+2% §f[+]§7 швидкости атаки",
   "text.skills.attack_speed_multi+2%.title": "§a+3% §f[+]§7 швидкости атаки",
-  "text.skills.movement_speed+1%.title": "§a+2% §f[+]§7 швидкости пересування",
-  "text.skills.movement_speed_multi+1.5%.title": "§a+3% §f[+]§7 швидкости пересування",
+  "text.skills.movement_speed+1%.title": "§a+2% §f[+]§7 швидкости руху",
+  "text.skills.movement_speed_multi+1.5%.title": "§a+3% §f[+]§7 швидкости руху",
   "text.skills.luck+0.25.title": "§a+0.25 §7вдачі",
   "text.skills.stamina+5%.title": "§a+3% §f[+]§7 витривалости",
   "text.skills.stamina_multi+7%.title": "§a+5% §f[+]§7 витривалости",
@@ -869,7 +869,7 @@
   "text.skills.melee_damage+0.5%.title": "§a+0.5%§f [+]§7 шкоди в ближньому бою",
   "text.skills.ranged_damage+0.5%.title": "§a+0.5%§f [+]§7 шкоди в дальньому бою",
   "text.skills.attack_speed+0.3%.title": "§a+0.3%§f [+]§7 швидкости атаки",
-  "text.skills.movement_speed+0.2%.title": "§a+0.2%§f [+]§7 швидкости пересування",
+  "text.skills.movement_speed+0.2%.title": "§a+0.2%§f [+]§7 швидкости руху",
   "text.skills.stamina+0.5%.title": "§a+0.5%§f [+]§7 витривалости",
   "text.skills.jump+0.2%.title": "§a+0.2%§f [+]§7 висоти стрибка",
 
@@ -884,7 +884,7 @@
   "text.skills.wayfarerStealth.description": "§7Активує Непомітність, коли ви присідаєте.\n\n§f(Непомітність)\n\n§f(Непомітність)§7 змушує вас зливатися з тінню, повністю уникаючи виявлення монстрами. Нанесення або отримання шкоди знімає Непомітність.",
 
   "text.skills.wayfarerSneak.title": "§7§a[Підкрадання]§7",
-  "text.skills.wayfarerSneak.description": "§7Збільшує швидкість, коли ви пересуваєтесь крадькома. Підкрадаючись, ви додатково накопичуєте Могутність.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.",
+  "text.skills.wayfarerSneak.description": "§7Збільшує швидкість, коли ви рухаєтесь крадькома. Підкрадаючись, ви додатково накопичуєте Могутність.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди при атаці за накопичення.",
 
   "text.skills.wayfarerReflexive.title": "§7§a[Рефлексія]§7",
   "text.skills.wayfarerReflexive.description": "§7Коли вашу Непомітність примусово порушено, ви маєте шанс застосувати здатність Майстерність Ухилення від Снарядів.\n\nКоли вашу Непомітність порушено атакою, ви отримуєте Могутність та Влучність.\n\n§f(Влучність)§7 дає §a+10% §f[x]§7 додаткової шкоди від дальнього бою за накопичення.\n\n§f(Могутність)§7 дає §a+10% §f[x]§7 додаткової шкоди від дальньої атаки за накопичення.",
@@ -914,10 +914,10 @@
   "text.skills.initiateLightningRod.description": "§7Під час штормів ви періодично накопичуєте Блискавичне Припасування.\n\n§f(Блискавичне Припасування)§7 Збільшує шкоду від заклять магії блискавки на §a+2% §f[x]§7 за накопичення.",
 
   "text.skills.initiateEldritchEnfeeblement.title": "§7§a[Древнє послаблення]§7",
-  "text.skills.initiateEldritchEnfeeblement.description": "§7Ви збільшуєте шкоду від закляття на §a+5% §f[x]§7, але ваша швидкість пересування зменшується на §c10% §f[x]§7.\n\nВи отримуєте шанс, рівний вашому критичному шансу закляття, відновити здоров’я під час використання закляття.\nКількість відновленого здоров’я співвідноситься з вашою критичною шкодою закляття.",
+  "text.skills.initiateEldritchEnfeeblement.description": "§7Ви збільшуєте шкоду від закляття на §a+5% §f[x]§7, але ваша швидкість руху зменшується на §c10% §f[x]§7.\n\nВи отримуєте шанс, рівний вашому критичному шансу закляття, відновити здоров’я під час використання закляття.\nКількість відновленого здоров’я співвідноситься з вашою критичною шкодою закляття.",
 
   "text.skills.initiateHasty.title": "§7§a[Поспішність]§7",
-  "text.skills.initiateHasty.description": "§7Ваша швидкість пересування збільшується на §a+15% §f[x]§7, але ви отримуєте повільність §7, коли отримуєте пошкодження.",
+  "text.skills.initiateHasty.description": "§7Ваша швидкість руху збільшується на §a+15% §f[x]§7, але ви отримуєте повільність §7, коли отримуєте пошкодження.",
 
   "text.skills.initiatePerilousPrecision.title": "§7§a[Небезпечна точність]§7",
   "text.skills.initiatePerilousPrecision.description": "§7Критичний шанс вашого закляття збільшується на §a+5% §f[x]§7, але ваше максимальне здоров’я зменшується на §c15% §f[x]§7.\n\nВи маєте 50% шанс при використанні закляття накласти Бар’єр.\nЦей шанс зменшується на відсоток, що дорівнює вашому максимальному здоров’ю.",
@@ -965,10 +965,10 @@
   "text.skills.warriorBound.description": "§7Після активації Землетрусу ви на короткий час отримуєте прискорення стрибка.",
 
   "text.skills.warriorDeathDefy.title": "§7§a[Виклик смерті]§7",
-  "text.skills.warriorDeathDefy.description": "§7Коли у вас низький рівень здоров’я, ви отримуєте регенерацію та Виснаження відповідно до відсотка здоров’я, що залишився.\n\n§f(Виснаження)§7 зменшує вашу атаку ближнього бою, швидкість пересування та швидкість атаки на §c1% §f[x]§7 за накопичення.",
+  "text.skills.warriorDeathDefy.description": "§7Коли у вас низький рівень здоров’я, ви отримуєте регенерацію та Виснаження відповідно до відсотка здоров’я, що залишився.\n\n§f(Виснаження)§7 зменшує вашу атаку ближнього бою, швидкість руху та швидкість атаки на §c1% §f[x]§7 за накопичення.",
 
   "text.skills.warriorFrenzy.title": "§7§a[Шаленство]§7",
-  "text.skills.warriorFrenzy.description": "§7Ви отримуєте на 75% більше шкоди від ближнього бою, але щоразу, коли ви влучаєте у ворога, ви накопичуєте Виснаження.\n\n§f(Виснаження)§7 Зменшує вашу атаку ближнього бою, швидкість пересування та швидкість атаки на §c1% §f[x]§7 за накопичення.",
+  "text.skills.warriorFrenzy.description": "§7Ви отримуєте на 75% більше шкоди від ближнього бою, але щоразу, коли ви влучаєте у ворога, ви накопичуєте Виснаження.\n\n§f(Виснаження)§7 Зменшує вашу атаку ближнього бою, швидкість руху та швидкість атаки на §c1% §f[x]§7 за накопичення.",
 
   "text.skills.warriorCarnage.title": "§7§a[Різанина]§7",
   "text.skills.warriorCarnage.description": "§7Коли у вас накопичено принаймні 75 Люті або Виснаження, ви отримуєте Посилення здоров’я та Знерухомлюючу ауру.\n\n§f(Знерухомлююча аура)§7 періодично завдає Знерухомлення ворогам, що знаходяться поблизу.\n\n§f(Знерухомлення)§7 сильно уповільнює і завдає шкоди жертві, коли та намагається рухатись.",
@@ -1034,10 +1034,10 @@
   "text.skills.bulwarkRebuke.description": "§725% шанс при блокуванні накласти на атакуючого слабкість.",
 
   "text.skills.wayfarerSlender.title": "§7§a[Стрункий]§7",
-  "text.skills.wayfarerSlender.description": "§7 Спритність. Чим менше у вас броні, тим більше Спритності ви накопичуєте.\n\n§f(Спритність)§7 дає §a+5% §f[x]§7 додаткової швидкости атаки, швидкости пересування, швидкости заклять і дальнобійності за накопичення.",
+  "text.skills.wayfarerSlender.description": "§7 Спритність. Чим менше у вас броні, тим більше Спритності ви накопичуєте.\n\n§f(Спритність)§7 дає §a+5% §f[x]§7 додаткової швидкости атаки, швидкости руху, швидкости заклять і дальнобійності за накопичення.",
 
   "text.skills.roguePath.title": "Шлях §bРозбійника§7",
-  "text.skills.roguePath.description": "§7\n§7§a[Стрункий]§7\n§7Дає Спритність. Чим менше у вас броні, тим більше Спритності ви накопичуєте.\n\n§f(Спритність)§7 дає §a+5% §f[x]§7 додаткової швидкости атаки, швидкости пересування, швидкости заклять і дальнобійності за накопичення.§7\n\nУтримуйте §f[SHIFT]§7 для більших подробиць:",
+  "text.skills.roguePath.description": "§7\n§7§a[Стрункий]§7\n§7Дає Спритність. Чим менше у вас броні, тим більше Спритності ви накопичуєте.\n\n§f(Спритність)§7 дає §a+5% §f[x]§7 додаткової швидкости атаки, швидкости руху, швидкости заклять і дальнобійності за накопичення.§7\n\nУтримуйте §f[SHIFT]§7 для більших подробиць:",
   "text.skills.roguePath.extra_description": "\n§7Розбійник§7 - майстер хитрощів і вивертів. Вони процвітають у тіні, використовуючи свої виняткові навички, щоб залишатися непоміченими і заставати ворогів зненацька за допомогою точних ударів. Якщо їх спіймають на відкритій місцевості, вони більш ніж здатні ухилитися від ворожих атак і втекти назад у безпечну тінь.",
 
   "text.skills.rogueSmokeBomb.title": "§7§a[Димова шашка]§7",
@@ -1077,11 +1077,11 @@
   "text.skills.rogueFleetfooted.description": "§7Коли вас примусово виводять зі стану Непомітності, ви отримуєте короткострокову швидкість.",
 
   "text.skills.rangerPath.title": "Шлях §bРейнджера§7",
-  "text.skills.rangerPath.description": "\n§7§a[Стрункий]§7\n§7Дає Спритність. Чим менше у вас броні, тим більше Спритності ви накопичуєте.\n\n§f(Спритність)§7 дає §a+5% §f[x]§7 додаткової швидкости атаки, швидкости пересування, швидкости заклять і дальнобійності за накопичення.§7\n\nУтримуйте §f[SHIFT]§7 для більших подробиць:",
+  "text.skills.rangerPath.description": "\n§7§a[Стрункий]§7\n§7Дає Спритність. Чим менше у вас броні, тим більше Спритності ви накопичуєте.\n\n§f(Спритність)§7 дає §a+5% §f[x]§7 додаткової швидкости атаки, швидкости руху, швидкости заклять і дальнобійності за накопичення.§7\n\nУтримуйте §f[SHIFT]§7 для більших подробиць:",
   "text.skills.rangerPath.extra_description": "\n§7Розбійник§7 - майстер хитрощів і вивертів. Він процвітає у тіні, використовуючи свої виняткові навички, щоб залишатися непоміченими і заставати ворогів зненацька за допомогою точних ударів. Якщо його спіймають на відкритій місцевості, він більш ніж здатний ухилитися від ворожих атак і втекти назад у безпечну тінь.",
 
   "text.skills.initiateFrail.title": "§7§a[Кволість]§7",
-  "text.skills.initiateFrail.description": "§7Ви не можете ефективно використовувати зброю з силою атаки більше 6.\n\nДає Спритність. Чим менше у вас броні, тим більше Спритності ви накопичуєте.\n\n§f(Спритність)§7 дає §a+5% §f[x]§7 додаткової швидкости атаки, пересування, заклять і шкоди у дальньому бою за накопичення.",
+  "text.skills.initiateFrail.description": "§7Ви не можете ефективно використовувати зброю з силою атаки більше 6.\n\nДає Спритність. Чим менше у вас броні, тим більше Спритності ви накопичуєте.\n\n§f(Спритність)§7 дає §a+5% §f[x]§7 додаткової швидкости атаки, руху, заклять і шкоди у дальньому бою за накопичення.",
 
   "text.skills.initiateWhisperedWizardry.title": "§7§a[Шепіт чаклуна]§7",
   "text.skills.initiateWhisperedWizardry.description": "§7Використання закляття, коли ви перебуваєте в стані Непомітності, дає вам кілька накопичень Зачаклованості на кілька секунд.\n\n§f(Зачаклованість)§7 дає §a+0.25 §f[x]§7 сили закляття за накопичення.",
@@ -1145,7 +1145,7 @@
   "text.skills.spellbladeSignatureSpellweaverRegeneration.description": "§7Ваші закляття тепер мають 50% шанс давати вам регенерацію на 5 секунд.",
 
   "text.skills.wizardPath.title": "Шлях §bЧарівника§7",
-  "text.skills.wizardPath.description": "\nВи не можете ефективно використовувати зброю з силою атаки більше 6 одиниць.\n\nОтримуйте Спритність. Чим менше у вас броні, тим більше Спритності ви накопичуєте.\n\n§f(Спритність)§7 дає §a+5% §f[x]§7 збільшення швидкости атаки, швидкости пересування, швидкости заклять і дальньої шкоди за накопичення.\n\nУтримуйте §f[SHIFT]§7 для більших подробиць:",
+  "text.skills.wizardPath.description": "\nВи не можете ефективно використовувати зброю з силою атаки більше 6 одиниць.\n\nОтримуйте Спритність. Чим менше у вас броні, тим більше Спритності ви накопичуєте.\n\n§f(Спритність)§7 дає §a+5% §f[x]§7 збільшення швидкости атаки, швидкости руху, швидкости заклять і дальньої шкоди за накопичення.\n\nУтримуйте §f[SHIFT]§7 для більших подробиць:",
   "text.skills.wizardPath.extra_description": "\nСпеціалізація Чарівника призначена для тих, хто прагне оволодіти силою магії. Це невблаганні та руйнівні заклинателі, здатні обрушити на своїх ворогів катастрофічну магічну енергію. Однак жага до влади над таємничим призводить до того, що вони нехтують своєю фізичною формою§7, послаблюючи свою міцність і можливості фізичного нападу.",
 
   "text.skills.shamanPath.title": "Шлях §bШамана§7",
@@ -1395,7 +1395,7 @@
   "text.skills.crusaderRetribution.description": "§7Шанс при блоці щитом здійснити Суд над нападником.",
 
   "text.skills.crusaderExhaustiveRecovery.title": "§7§a[Вичерпне одужання]§7",
-  "text.skills.crusaderExhaustiveRecovery.description": "§7Шанс при блоці щитом миттєво зцілити себе і отримати кілька накопичень Виснаження.\n\n§f(Виснаження)§7 знижує вашу атаку ближнього бою, швидкість пересування і швидкість атаки на §c1% §f[x]§7 за накопичення.",
+  "text.skills.crusaderExhaustiveRecovery.description": "§7Шанс при блоці щитом миттєво зцілити себе і отримати кілька накопичень Виснаження.\n\n§f(Виснаження)§7 знижує вашу атаку ближнього бою, швидкість руху і швидкість атаки на §c1% §f[x]§7 за накопичення.",
 
   "text.skills.crusaderSignatureConsecration.title": "Сигнатурна здібність: §6[Посвята]§7",
   "text.skills.crusaderSignatureConsecration.description": "§7\nДає Посвяту на 15 секунд.\n\n§f(Посвята)§7 освячує землю під вашими ногами, завдаючи шкоди ворогам і одночасно зцілюючи союзників. Завдана шкода і Зцілення масштабується із силою закляття зцілення.\n\n§a30 секунд перезаряджання§7",
@@ -1587,10 +1587,10 @@
   "text.skills.necromancerWraithLegion.description": "§7Видаляє Страхоблисків з пулу заклять, що дає вам змогу викликати тільки Мороків.\n\nВаш ліміт заклять також збільшується на 1.\n\nКрім того, закляття ваших §fМороків§7 мають 5% шанс за кожен шкідливий ефект на них викликати у цілі агонію.\n\n§f(Агонія)§7 змушує істоту отримувати додаткову шкоду кожного разу, коли в неї влучає снаряд закляття.",
 
   "text.skills.portalSapphire.title": "§7§6[Перехід: §fСапфір§6]§7",
-  "text.skills.portalSapphire.description": "§7\nРозблоковує вузли переходу одного типу, що дає вам змогу легше пересуватися по дереву навичок.",
+  "text.skills.portalSapphire.description": "§7\nРозблоковує вузли переходу одного типу, що дає вам змогу легше розвиватися у дереві навичок.",
 
   "text.skills.portalRuby.title": "§7§6[Перехід: §fРубін§6]§7",
-  "text.skills.portalRuby.description": "§7\nРозблоковує вузли переходу одного типу, що дає вам змогу легше пересуватися по дереву навичок.",
+  "text.skills.portalRuby.description": "§7\nРозблоковує вузли переходу одного типу, що дає вам змогу легше розвиватися у дереві навичок.",
 
 
   "text.skills.ascendancyRighteousHammers.title": "Здатність Вознесіння: §6[Праведний молот]§7",
@@ -1615,7 +1615,7 @@
   "text.skills.ascendancyTorment.description": "§7\nПроклинає найближчого ворога Муками.\n\nПід час дії Мук вся шкода, яку ворог завдав би вам, перенаправляється на нього.\n\nДіє 8 секунд.\n\n§6[За кожне Вознесіння]§7\nЗбільшує тривалість ефекту.\n\n§6[За 30+ Вознесінь]§7\nОкрім того, що ви мучите ворога, ви ще й насміхаєтесь над ним.\n\n§a60 секунд перезаряджання§7",
 
   "text.skills.ascendancyRapidfire.title": "Здатність Вознесіння: §6[Швидкий вогонь]§7",
-  "text.skills.ascendancyRapidfire.description": "§7\nВстаньте в позицію для стрільби і випустіть шквал стріл.\nВи можете вільно пересуватися в цій позиції, але не можете виконувати інші дії.\nВимагає лук або арбалет в основній руці.\nДіє 6 секунд.\n\n§6[За кожне Вознесіння]§7\n§7\nЗбільшує тривалість ефекту.\n\n§6[За 30+ Вознесінь]§7\nКожна третя випущена стріла тепер дає вам накопичення Влучності.\n\n§а30 секунд перезаряджання§7",
+  "text.skills.ascendancyRapidfire.description": "§7\nВстаньте в позицію для стрільби і випустіть шквал стріл.\nВи можете вільно рухатися в цій позиції, але не можете виконувати інші дії.\nВимагає лук або арбалет в основній руці.\nДіє 6 секунд.\n\n§6[За кожне Вознесіння]§7\n§7\nЗбільшує тривалість ефекту.\n\n§6[За 30+ Вознесінь]§7\nКожна третя випущена стріла тепер дає вам накопичення Влучності.\n\n§а30 секунд перезаряджання§7",
 
   "text.skills.ascendancyCataclysm.title": "Здатність Вознесіння: §6[Катаклізм]§7",
   "text.skills.ascendancyCataclysm.description": "§7\nЗафіксуйтеся на місці, та направте потужне закляття, яке змусить кілька комет спуститися вздовж лінії перед вами.\n\nВикористовується з найвищим атрибутом сили закляття морозу або вогню.\n\nДіє 3.5 секунд.\n\n§6[За кожне Вознесіння]§7\nЗбільшує частоту комет, даючи змогу використовувати більше комет за одне закляття.\n\n§6[За 30+ Вознесінь]\n\nЗа кожну викликану комету ви накопичуєте Зачаклованість.\n\n§a70 секунд перезаряджання§7",

@@ -96,9 +96,9 @@
   "effect.rogues.demoralize.description": "Шкода від атак зменшена",
 
   "spell.rogues.charge.name": "Напад",
-  "spell.rogues.charge.description": "Збільшує швидкість пересування і стійкість до відкидання, звільняє від свільнюючих ефектів, триває {effect_duration} с.",
+  "spell.rogues.charge.description": "Збільшує швидкість руху і стійкість до відкидання, звільняє від свільнюючих ефектів, триває {effect_duration} с.",
   "effect.rogues.charge": "Напад",
-  "effect.rogues.charge.description": "Швидкість пересування збільшена",
+  "effect.rogues.charge.description": "Швидкість руху збільшена",
 
   "spell.rogues.whirlwind.name": "Вихор",
   "spell.rogues.whirlwind.description": "Утримуйте, щоб почати обертатися, завдаючи {damage} шкоди в секунду найближчим ворогам.",

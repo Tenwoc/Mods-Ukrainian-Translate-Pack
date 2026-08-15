@@ -463,7 +463,7 @@
   "gui.config.name.advanced.enable_per_entity": "Увімкнути систему для окремих об’єктів",
   "gui.config.name.advanced.enable_per_gui": "Увімкнути систему для кожного користувача",
   "gui.config.name.advanced.enable_per_item": "Увімкнути систему для окремих позицій",
-  "gui.config.name.advanced.entity_riding_messages": "Повідомлення про пересування сутності",
+  "gui.config.name.advanced.entity_riding_messages": "Повідомлення про зрушення сутності",
   "gui.config.name.advanced.entity_target_messages": "Цільові повідомлення сутності",
   "gui.config.name.advanced.format_words": "Слова формату",
   "gui.config.name.advanced.gui_messages": "Повідомлення Gui",

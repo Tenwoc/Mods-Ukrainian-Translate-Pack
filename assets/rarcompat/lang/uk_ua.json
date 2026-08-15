@@ -67,7 +67,7 @@
   "tooltip.relics.lucky_scarf.leveling_source.luck.title": "Шукач скарбів",
   "tooltip.relics.lucky_scarf.leveling_source.luck.description": "+%1$s одиниць досвіду за кожен додатковий рівень удачі при спрацьовуванні здібності %2$s.",
 
-  "tooltip.relics.scarf_of_invisibility.description": "При досить обережному пересуванні робить гравця непомітним для оточення.",
+  "tooltip.relics.scarf_of_invisibility.description": "При досить обережному русі робить гравця непомітним для оточення.",
   "tooltip.relics.scarf_of_invisibility.ability.invisible": "Тихий крок",
   "tooltip.relics.scarf_of_invisibility.ability.invisible.description": "Наділяє гравця повною невидимістю. Ефект спадає на %1$s секунд при будь-якій взаємодії зі світом. Якщо під час відсутності невидимості будь-який моб вибере гравця своєю ціллю, ефект не відновиться, доки цей моб не втратить гравця з поля зору.",
   "tooltip.relics.scarf_of_invisibility.leveling_source.invisible.title": "Тихий крок",
@@ -95,12 +95,12 @@
 
   "tooltip.relics.cowboy_hat.description": "Підвищує спритність їздових тварин власника реліквії.",
   "tooltip.relics.cowboy_hat.ability.cowboy": "Галоп",
-  "tooltip.relics.cowboy_hat.ability.cowboy.description": "Збільшує швидкість пересування, висоту стрибка і безпечну висоту падіння їздових тварин на %1$s%%.",
+  "tooltip.relics.cowboy_hat.ability.cowboy.description": "Збільшує швидкість руху, висоту стрибка і безпечну висоту падіння їздових тварин на %1$s%%.",
   "tooltip.relics.cowboy_hat.ability.overlord": "Ласо",
   "tooltip.relics.cowboy_hat.ability.overlord.description": "При використанні здібності дає змогу осідлати й контролювати будь-якого моба на час до %1$s секунд. Після закінчення часу або при спішуванні йде у перезаряджання на 1 хвилину.",
   "tooltip.relics.cowboy_hat.ability.overlord.predicate.overlord": "Погляд на моба",
   "tooltip.relics.cowboy_hat.leveling_source.cowboy.title": "Галоп",
-  "tooltip.relics.cowboy_hat.leveling_source.cowboy.description": "+%1$s одиниць досвіду з імовірністю у 25% за кожну секунду пересування верхи.",
+  "tooltip.relics.cowboy_hat.leveling_source.cowboy.description": "+%1$s одиниць досвіду з імовірністю у 25% за кожну секунду руху верхи.",
   "tooltip.relics.cowboy_hat.leveling_source.overlord.title": "Ласо",
   "tooltip.relics.cowboy_hat.leveling_source.overlord.description": "+%1$s одиниць досвіду за кожне застосування здібності %2$s.",
 
@@ -126,7 +126,7 @@
   "tooltip.relics.night_vision_goggles.ability.vision": "Гамма-бачення",
   "tooltip.relics.night_vision_goggles.ability.vision.description": "Збільшує яскравість погано освітлених місць, а також знижує ефективність сліпоти і темряви на %1$s%%.",
   "tooltip.relics.night_vision_goggles.leveling_source.vision.title": "Гамма-бачення",
-  "tooltip.relics.night_vision_goggles.leveling_source.vision.description": "+%1$s одиниць досвіду за кожні 5 секунд пересування в темряві. Імовірність отримання досвіду прямо пропорційна співвідношенню поточного рівня освітленості на місці перебування гравця та максимального.",
+  "tooltip.relics.night_vision_goggles.leveling_source.vision.description": "+%1$s одиниць досвіду за кожні 5 секунд руху в темряві. Імовірність отримання досвіду прямо пропорційна співвідношенню поточного рівня освітленості на місці перебування гравця та максимального.",
 
   "tooltip.relics.cloud_in_a_bottle.description": "Підвищує прудкість власника реліквії, даючи змогу здійснювати додаткові стрибки в повітрі.",
   "tooltip.relics.cloud_in_a_bottle.ability.jump": "Повітряний стрибок",
@@ -196,11 +196,11 @@
 
   "tooltip.relics.snowshoes.description": "Підвищує мобільність носія реліквії в суворих снігових умовах.",
   "tooltip.relics.snowshoes.ability.passive": "Легка хода",
-  "tooltip.relics.snowshoes.ability.passive.description": "Дає змогу пересуватися по пухкому снігу не провалюючись.",
+  "tooltip.relics.snowshoes.ability.passive.description": "Дає змогу ходити по пухкому снігу не провалюючись.",
   "tooltip.relics.snowshoes.ability.speed": "Снігохід",
-  "tooltip.relics.snowshoes.ability.speed.description": "Збільшує швидкість пересування по снігу на %1$s%%.",
+  "tooltip.relics.snowshoes.ability.speed.description": "Збільшує швидкість руху по снігу на %1$s%%.",
   "tooltip.relics.snowshoes.leveling_source.speed.title": "Снігохід",
-  "tooltip.relics.snowshoes.leveling_source.speed.description": "+%1$s одиниць досвіду за кожні 3 секунди пересування по снігу.",
+  "tooltip.relics.snowshoes.leveling_source.speed.description": "+%1$s одиниць досвіду за кожні 3 секунди руху по снігу.",
 
   "tooltip.relics.steadfast_spikes.description": "Міцно зчіплює ноги носія реліквії з будь-якою поверхнею.",
   "tooltip.relics.steadfast_spikes.ability.resistance": "Зчеплення",
@@ -263,13 +263,13 @@
 
   "tooltip.relics.panic_necklace.description": "Прискорює стукіт серця носія реліквії, застерігаючи про небезпеку, що насувається.",
   "tooltip.relics.panic_necklace.ability.panic": "Паніка",
-  "tooltip.relics.panic_necklace.ability.panic.description": "Збільшує швидкість пересування гравця на %1$s%% за кожного моба в радіусі %2$s блоків, який вважає гравця своєю метою для атаки.",
+  "tooltip.relics.panic_necklace.ability.panic.description": "Збільшує швидкість руху гравця на %1$s%% за кожного моба в радіусі %2$s блоків, який вважає гравця своєю метою для атаки.",
   "tooltip.relics.panic_necklace.leveling_source.panic.title": "Паніка",
   "tooltip.relics.panic_necklace.leveling_source.panic.description": "+%1$s одиниць досвіду за кожне отримання шкоди від моба, на якого поширюється дія здібності %2$s.",
 
   "tooltip.relics.helium_flamingo.description": "На деякий час дає змогу носію реліквії розсікати повітря так само, як він розсікає воду.",
   "tooltip.relics.helium_flamingo.ability.flying": "Повітряний плавець",
-  "tooltip.relics.helium_flamingo.ability.flying.description": "При здійсненні подвійного стрибка дає змогу гравцеві плавати в повітрі на час до %1$s секунд. Швидкість пересування в повітрі пропорційна швидкости плавання гравця з бонусом у додаткові %2$s%%.",
+  "tooltip.relics.helium_flamingo.ability.flying.description": "При здійсненні подвійного стрибка дає змогу гравцеві плавати в повітрі на час до %1$s секунд. Швидкість руху в повітрі пропорційна швидкости плавання гравця з бонусом у додаткові %2$s%%.",
   "tooltip.relics.helium_flamingo.leveling_source.flying.title": "Повітряний плавець",
   "tooltip.relics.helium_flamingo.leveling_source.flying.description": "+%1$s одиниць досвіду за кожну секунду плавання в повітрі від здібності %2$s.",
 

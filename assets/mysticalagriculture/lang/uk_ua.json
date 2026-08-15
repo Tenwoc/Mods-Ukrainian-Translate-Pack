@@ -781,7 +781,7 @@
   "book.mysticalagriculture.entry.jump_boost_augment": "Збільшення стрибка (Доповнення)",
   "book.mysticalagriculture.entry.jump_boost_augment.page.1": "Збільшення стрибка - доповнення до чоботів, яке збільшує висоту стрибка того, хто її носить, доки одягнена броня.",
   "book.mysticalagriculture.entry.speed_augment": "Швидкість (Доповнення)",
-  "book.mysticalagriculture.entry.speed_augment.page.1": "Швидкість - доповнення для наголінників, яке збільшує швидкість пересування того, хто її носить, доки одягнена броня. Цей ефект також застосовується до швидкості польоту.",
+  "book.mysticalagriculture.entry.speed_augment.page.1": "Швидкість - доповнення для наголінників, яке збільшує швидкість руху того, хто її носить, доки одягнена броня. Цей ефект також застосовується до швидкості польоту.",
   "book.mysticalagriculture.entry.mining_aoe_augment": "Область копання (Доповнення)",
   "book.mysticalagriculture.entry.mining_aoe_augment.page.1": "Область копання - доповнення для інструментів, що збільшує область руйнування блоків 9x9. Цю здатність можна тимчасово послабити, затискаючи Shift.",
   "book.mysticalagriculture.entry.no_fall_damage_augment": "Відсутність пошкодження від падіння (Доповнення)",

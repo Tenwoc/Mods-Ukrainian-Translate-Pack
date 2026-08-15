@@ -37,7 +37,7 @@
   "class.aquamirae.sea_wolf_weapon": "Зброя морського вовка",
 
   "ability.aquamirae.abyssal_armor_full_1": "Ефект комплекту > Дає змогу уникнути смерті, але ви наносите на 80% менше шкоди і рухаєтеся на 40% повільніше, поки цей ефект перезаряджається.",
-  "ability.aquamirae.abyssal_armor_full_2": "Ефект комплекту > Засліплює найближчих ворожих істот, зменшуючи їхню швидкість пересування на 50%.",
+  "ability.aquamirae.abyssal_armor_full_2": "Ефект комплекту > Засліплює найближчих ворожих істот, зменшуючи їхню швидкість руху на 50%.",
   "ability.aquamirae.abyssal_armor_half": "Ефект напівкомплекту > +25% Броня > +4 Твердість броні",
   "ability.aquamirae.dagger_of_greed_1": "Крадіжка > Атаковані Селяни та Злидні втрачають смарагди.",
   "ability.aquamirae.dagger_of_greed_2": "Кара > Шанс отримати Погане Знамення під час атаки мирних Жителів.",
@@ -196,8 +196,8 @@
   "entity.aquamirae.spinefish": "Хребетник",
 
   "effect.aquamirae.abyss_blindness": "Сліпота",
-  "effect.aquamirae.abyss_blindness.description": "Ефект броні сліпучої безодні. Знижує швидкість пересування.",
-  "effect.aquamirae.abyss_blindness.desc": "Ефект броні сліпучої безодні. Знижує швидкість пересування.",
+  "effect.aquamirae.abyss_blindness.description": "Ефект броні сліпучої безодні. Знижує швидкість руху.",
+  "effect.aquamirae.abyss_blindness.desc": "Ефект броні сліпучої безодні. Знижує швидкість руху.",
   "effect.aquamirae.armor_decrease": "§cПерфорація",
   "effect.aquamirae.armor_decrease.description": "Ефект Шепіту безодні. Зменшує значення броні.",
   "effect.aquamirae.armor_decrease.desc": "Ефект Шепіту безодні. Зменшує значення броні.",
@@ -211,8 +211,8 @@
   "effect.aquamirae.strong_armor.description": "Ефект броні сліпучої безодні. Збільшує значення броні.",
   "effect.aquamirae.strong_armor.desc": "Ефект броні сліпучої безодні. Збільшує значення броні.",
   "effect.aquamirae.swim_speed": "§9Швидкість",
-  "effect.aquamirae.swim_speed.description": "Ефект Жахливої броні. Збільшує швидкість пересування під водою.",
-  "effect.aquamirae.swim_speed.desc": "Ефект Жахливої броні. Збільшує швидкість пересування під водою.",
+  "effect.aquamirae.swim_speed.description": "Ефект Жахливої броні. Збільшує швидкість руху під водою.",
+  "effect.aquamirae.swim_speed.desc": "Ефект Жахливої броні. Збільшує швидкість руху під водою.",
 
   "death.attack.crystallization": "%1$s було перетворено на кристал",
 

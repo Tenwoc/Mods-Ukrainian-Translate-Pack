@@ -105,7 +105,7 @@
     "modifier.tcintegrations.enchanters_shield.description": "Блокуючи шкоду, користувач отримує короткий час регенерації мани та шкоди від заклинань. Крім того, цей предмет буде відновлюватися з часом, використовуючи ману власника.",
     "modifier.tcintegrations.roadrunner": "Дорожній бігун",
     "modifier.tcintegrations.roadrunner.flavor": "Ку-ку!",
-    "modifier.tcintegrations.roadrunner.description": "Збільшує швидкість пересування по піску.",
+    "modifier.tcintegrations.roadrunner.description": "Збільшує швидкість руху по піску.",
     "modifier.tcintegrations.frontier_cap": "Прикордонник",
     "modifier.tcintegrations.frontier_cap.flavor": "Дикий!",
     "modifier.tcintegrations.frontier_cap.description": "Додає бонус до швидкости, коли ви присідаєте.",

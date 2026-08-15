@@ -2105,7 +2105,7 @@
   "material.tconstruct.cobalt.flavor": "Матеріал червоної армії.",
   "material.tconstruct.cobalt.encyclopedia": "Прискорює добування й атакування на 7% на рівень",
   "material.tconstruct.cobalt.ranged": "Збільшує швидкість тяги та швидкість на 5% на рівень",
-  "material.tconstruct.cobalt.armor": "Зменшує шкоду від атак ближнього бою на 10% на рівень та збільшує швидкість пересування при використанні предмета на 5% за максимальний рівень",
+  "material.tconstruct.cobalt.armor": "Зменшує шкоду від атак ближнього бою на 10% на рівень та збільшує швидкість руху при використанні предмета на 5% за максимальний рівень",
 
   "material.tconstruct.quartz": "Кварц",
   "material.tconstruct.quartz.flavor": "Гострий!",
@@ -2192,7 +2192,7 @@
   "material.tconstruct.ancient.flavor": "Вже не такий як раніше.",
   "material.tconstruct.ancient.encyclopedia": "Застосовується у бойових кайлах, водяних бластерах та бойових табличках, а також в результаті бартеру. Кожен рівень надає +1 слот здібностей коштом -10% швидкости атаки, -10% швидкости видобутку корисних копалин та +10% сили тяжіння.",
   "material.tconstruct.ancient.ranged": "Можна отримати зі сковорідок, бойових кайл та в результаті бартеру. Кожен рівень надає +1 слот здібностей та +10% до сили тяжіння ціною -10% до швидкости натягування.",
-  "material.tconstruct.ancient.armor": "Здобувається з пластинчастих обладунків в бастіонах, бойових табличок, сковорідок та в результаті бартеру. Кожен рівень дає +1 слот здібностей та +10% до сили тяжіння коштом -10% до швидкости пересування або -10% до швидкости атаки щитом.",
+  "material.tconstruct.ancient.armor": "Здобувається з пластинчастих обладунків в бастіонах, бойових табличок, сковорідок та в результаті бартеру. Кожен рівень дає +1 слот здібностей та +10% до сили тяжіння коштом -10% до швидкости руху або -10% до швидкости атаки щитом.",
 
 
   "__comment": "Tier End Materials",
@@ -2249,8 +2249,8 @@
   "material.tconstruct.lead": "Свинець",
   "material.tconstruct.lead.flavor": "Можна спробувати зробити салець з цього",
   "material.tconstruct.lead.encyclopedia": "Надає +10% шкоди й -10% швидкости руху на рівень",
-  "material.tconstruct.lead.ranged": "Дає +10% шкоди від снарядів і -10% швидкости пересування на рівень",
-  "material.tconstruct.lead.armor": "Надає +15% стійкості до відкидання, -10% до швидкости пересування та +5% до сили тяжіння на рівень",
+  "material.tconstruct.lead.ranged": "Дає +10% шкоди від снарядів і -10% швидкости руху на рівень",
+  "material.tconstruct.lead.armor": "Надає +15% стійкості до відкидання, -10% до швидкости руху та +5% до сили тяжіння на рівень",
 
   "material.tconstruct.silver": "Срібло",
   "material.tconstruct.silver.flavor": "Знаєш, цей інструмент не буде таким же яскравим через кілька днів.",
@@ -2799,7 +2799,7 @@
   "modifier.tconstruct.soulspeed.description": "Збільшує швидкість руху на піску душ",
   "modifier.tconstruct.depth_strider": "Глибинний блукач",
   "modifier.tconstruct.depth_strider.flavor": "Плеск-бризг",
-  "modifier.tconstruct.depth_strider.description": "Збільшує швидкість пересування під водою",
+  "modifier.tconstruct.depth_strider.description": "Збільшує швидкість руху під водою",
   "modifier.tconstruct.double_jump": "Подвійний стрибок",
   "modifier.tconstruct.double_jump.2": "Потрійний стрибок",
   "modifier.tconstruct.double_jump.3": "Чотириразовий стрибок",
@@ -2964,7 +2964,7 @@
   "modifier.tconstruct.fins.projectile_damage": "Підводна сила",
   "modifier.tconstruct.fins_ammo": "Плавники",
   "modifier.tconstruct.fins_ammo.flavor": "Плюсь!",
-  "modifier.tconstruct.fins_ammo.description": "Боєзапаси можуть вільно пересуватися під водою і завдавати трохи більше шкоди.",
+  "modifier.tconstruct.fins_ammo.description": "Боєзапаси можуть вільно проходити крізь воду і завдавати трохи більше шкоди.",
 
   "modifier.tconstruct.fishing": "Риболовля",
   "modifier.tconstruct.fishing.flavor": "Обов’язкова рибальська міні-гра",
@@ -3424,7 +3424,7 @@
   "modifier.tconstruct.invariant.resistance": "Нейтральна стійкість",
   "modifier.tconstruct.solid": "Суцільність",
   "modifier.tconstruct.solid.flavor": "Збалансованість",
-  "modifier.tconstruct.solid.description": "Зброя завдає більше шкоди, а броня краще захищає, але з нею важко пересуватися",
+  "modifier.tconstruct.solid.description": "Зброя завдає більше шкоди, а броня краще захищає, але з нею важко рухатися",
   "modifier.tconstruct.solid.resistance": "Стійкість",
   "modifier.tconstruct.shock": "Шок",
   "modifier.tconstruct.shock.flavor": "Електрифікація",
@@ -3646,7 +3646,7 @@
   "tool_stat.tconstruct.durability.repair": "Обсяг ремонту: ",
   "tool_stat.tconstruct.durability.repair.description": "Обсяг відновлюваної міцности за одиницю при використанні цієї деталі.",
   "tool_stat.tconstruct.use_item_speed": "Швидкість використання предмета: ",
-  "tool_stat.tconstruct.use_item_speed.description": "Множник швидкости пересування при використанні предмета, наприклад, лука або щита.",
+  "tool_stat.tconstruct.use_item_speed.description": "Множник швидкости руху при використанні предмета, наприклад, лука або щита.",
 
   "stat.tconstruct.head": "Наконечник",
   "tool_stat.tconstruct.mining_speed": "Швидкість добування: ",

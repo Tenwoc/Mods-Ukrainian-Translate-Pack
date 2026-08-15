@@ -298,7 +298,7 @@
   "tooltip.weapon.knightquest.khopesh.active": "§6⚔ Активна здатність:§f Відображає вхідні атаки протягом %4$d с",
   "tooltip.weapon.knightquest.khopesh.passive": "§e⚡ Пасивна здатність:§f %3$d%% шанс підпалити супротивника при ударі",
 
-  "tooltip.weapon.knightquest.kukri.active": "§6⚔ Активна здатність:§f Збільшує швидкість пересування на %1$d с",
+  "tooltip.weapon.knightquest.kukri.active": "§6⚔ Активна здатність:§f Збільшує швидкість руху на %1$d с",
   "tooltip.weapon.knightquest.kukri.passive": "§e⚡ Пасивна здатність:§f Серія швидких ударів заморожує ціль",
 
   "tooltip.weapon.knightquest.uchigatana.active": "§6⚔ Активна здатність:§f Наступна атака накладе темряву і завдасть %3$d%% додаткової шкоди",

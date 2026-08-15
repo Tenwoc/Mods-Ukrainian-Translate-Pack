@@ -1186,10 +1186,10 @@
 
   "gui.blue_skies.item.ability.runic.0": "Збільшує рівень рідкісності усіх одягнутих дуг на 1.",
 
-  "gui.blue_skies.item.ability.ethereal.0": "Додає 10%% до швидкости пересування.",
-  "gui.blue_skies.item.ability.ethereal.1": "Додає 15%% до швидкости пересування.",
-  "gui.blue_skies.item.ability.ethereal.2": "Додає 20%% до швидкости пересування.",
-  "gui.blue_skies.item.ability.ethereal.3": "Додає 25%% до швидкости пересування.",
+  "gui.blue_skies.item.ability.ethereal.0": "Додає 10%% до швидкости руху.",
+  "gui.blue_skies.item.ability.ethereal.1": "Додає 15%% до швидкости руху.",
+  "gui.blue_skies.item.ability.ethereal.2": "Додає 20%% до швидкости руху.",
+  "gui.blue_skies.item.ability.ethereal.3": "Додає 25%% до швидкости руху.",
 
   "gui.blue_skies.item.ability.dusk.0": "Дає невидимість при підкраданні та виділяє дим.",
   "gui.blue_skies.item.ability.dusk.1": "Дає невидимість при підкраданні та виділяє трохи диму.",

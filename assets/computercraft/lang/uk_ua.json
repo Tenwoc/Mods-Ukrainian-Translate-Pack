@@ -167,7 +167,7 @@
   "gui.computercraft.config.turtle.can_push": "Черепашки можуть рухати сутності",
   "gui.computercraft.config.turtle.can_push.tooltip": "Якщо дозволено, то черепашки штовхатимуть сутностей, коли для цього є простір, замість того щоб зупинятись.",
   "gui.computercraft.config.turtle.need_fuel": "Увімкнути споживання палива",
-  "gui.computercraft.config.turtle.need_fuel.tooltip": "Чи використовують черепашки горюче для пересування.",
+  "gui.computercraft.config.turtle.need_fuel.tooltip": "Чи використовують черепашки горюче для переміщення.",
   "gui.computercraft.config.turtle.normal_fuel_limit": "Ліміт палива Черепашки",
   "gui.computercraft.config.turtle.normal_fuel_limit.tooltip": "Обмеження максимальної кількості горючого для звичайних черепашок.",
   "gui.computercraft.config.turtle.tooltip": "Різні опції щодо черепашок.",

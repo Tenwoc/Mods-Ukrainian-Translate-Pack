@@ -446,12 +446,12 @@
 	"tetra.module.shield/kite.prefix": "%s",
 
 	"tetra/schematic/single/head/cane_head/cane_head.name": "Тростина",
-	"tetra/schematic/single/head/cane_head/cane_head.description": "Викувана головка тростини з наданих матеріалів. Тростини - це універсальний допоміжний інструмент, що збільшує швидкість при пересуванні.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.\nЩільність§r матеріалу трохи збільшує §fшкоду§r і трохи зменшує §fшвидкість атаки§r.",
+	"tetra/schematic/single/head/cane_head/cane_head.description": "Викувана головка тростини з наданих матеріалів. Тростини - це універсальний допоміжний інструмент, що збільшує швидкість руху.\n \nМіцність §fматеріалу§r збільшує §fшкоду§r.\nЩільність§r матеріалу трохи збільшує §fшкоду§r і трохи зменшує §fшвидкість атаки§r.",
 	"tetra/schematic/single/head/cane_head/cane_head.slot1": "Матеріал головки",
 
 	"tetra.module.single/cane_head.item_name": "Тростина",
 	"tetra.module.single/cane_head.name": "Тростина",
-	"tetra.module.single/cane_head.description": "Тростина, універсальний допоміжний інструмент, що збільшує швидкість при пересуванні",
+	"tetra.module.single/cane_head.description": "Тростина, універсальний допоміжний інструмент, що збільшує швидкість руху",
 	"tetra.module.single/cane_head.material_name": "%s тростина",
 	"tetra.module.single/cane_head.prefix": "%s",
 

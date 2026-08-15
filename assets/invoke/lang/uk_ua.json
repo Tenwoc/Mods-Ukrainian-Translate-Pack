@@ -63,7 +63,7 @@
   "spell.invoke.shatter.name": "Крижаний укус",
   "spell.invoke.shatter.description": "Посилює дію морозу на ворога: завдає {damage} крижаної шкоди та додає додатковий ефект уповільнення.",
   "spell.invoke.snare.name": "Пастка",
-  "spell.invoke.snare.description": "Завдає {damage} шкоди ворогу та знижує його швидкість пересування до 0.",
+  "spell.invoke.snare.description": "Завдає {damage} шкоди ворогу та знижує його швидкість руху до 0.",
   "spell.invoke.eldritch_blast.name": "Потойбічний постріл",
   "spell.invoke.eldritch_blast.description": "Випускає пронизливі потойбічні снаряди в усіх ворогів у великому конусі перед собою, кожен з яких завдає {damage} таємничої шкоди.",
   "spell.invoke.time_dilate.name": "Уповільнення часу",

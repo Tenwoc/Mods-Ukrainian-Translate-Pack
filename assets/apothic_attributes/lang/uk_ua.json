@@ -29,7 +29,7 @@
     "attribute.name.luck.desc": "Впливає на ймовірність того, що відбудуться хороші речі.",
     "attribute.name.max_absorption.desc": "Скільки сердець Поглинання ви можете регенерувати.",
     "attribute.name.max_health.desc": "Максимальна кількість очок здоров’я.",
-    "attribute.name.movement_speed.desc": "Швидкість пересування.",
+    "attribute.name.movement_speed.desc": "Швидкість руху.",
 
     "attribute.name.entity_interaction_range.desc": "Дальність взаємодії із сутностями, у блоках.",
     "attribute.name.gravity.desc": "Прискорення вільного падіння, у блоках/с²",

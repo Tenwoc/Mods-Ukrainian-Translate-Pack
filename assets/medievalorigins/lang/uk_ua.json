@@ -75,7 +75,7 @@
   "power.medievalorigins.alfiq/poor_grip.description": "Альфіки зменшують швидкість зламу інструментів та ручної зброї, такої як мечі та сокири.",
 
   "power.medievalorigins.alfiq/agile_preference.name": "Перевага гнучкості",
-  "power.medievalorigins.alfiq/agile_preference.description": "Альфіки легко відчувають дискомфорт від важких обладунків, надаючи перевагу легшим обладункам для зручності пересування. Важкі обладунки все ще можна носити з заклинанням.",
+  "power.medievalorigins.alfiq/agile_preference.description": "Альфіки легко відчувають дискомфорт від важких обладунків, надаючи перевагу легшим обладункам для зручності руху. Важкі обладунки все ще можна носити з заклинанням.",
 
   "power.medievalorigins.alfiq/meow.name": "Мяв",
   "power.medievalorigins.alfiq/meow.description": "",
@@ -103,7 +103,7 @@
   "power.medievalorigins.arachnae/web_slinger.description": "За командою павуки можуть прясти павутиння, в якому їхні супротивники на деякий час будуть знерухомлені.",
 
   "power.medievalorigins.banshee/spectral.name": "Спектрал",
-  "power.medievalorigins.banshee/spectral.description": "Баньши мають здатність ставати нематеріальними за власним бажанням, що означає, що на них не можуть впливати вороги у фізичному світі. Звичайно, це відбувається після перезарядки. Активується вторинним енергетичним ключем.",
+  "power.medievalorigins.banshee/spectral.description": "Баньши мають здатність ставати нематеріальними за власним бажанням, що означає, що на них не можуть впливати вороги у фізичному світі. Звичайно, це відбувається після перезаряджання. Активується вторинним енергетичним ключем.",
 
   "power.medievalorigins.banshee/hexed.name": "Замкненість",
   "power.medievalorigins.banshee/hexed.description": "Банши відомі своєю майстерністю прокляття. Кожного разу, коли вони нападають, є невеликий шанс, що нападник буде приречений на повільну, болісну смерть.",
@@ -184,10 +184,10 @@
   "power.medievalorigins.wood_elf/elegant.description": "Завдяки своїй стрункій природі, лісові ельфи не можуть носити обладунки важчі за залізо (цьому можна запобігти за допомогою заклинання), а також мають менший запас здоров’я.",
 
   "power.medievalorigins.wood_elf/steward.name": "Веган",
-  "power.medievalorigins.wood_elf/steward.description": "Лісові ельфи живуть за рахунок лісу і в гармонії з ним. Вони не можуть перетравлювати м’ясо.",
+  "power.medievalorigins.wood_elf/steward.description": "Лісові ельфи живуть завдяки лісу і в гармонії з ним. Вони не можуть перетравлювати м’ясо.",
 
   "power.medievalorigins.wood_elf/towering.name": "Високий зріст",
-  "power.medievalorigins.wood_elf/towering.description": "Лісові ельфи вищі за середньостатистичну людину. Незважаючи на це, вони такі ж стрункі.",
+  "power.medievalorigins.wood_elf/towering.description": "Лісові ельфи вищі за середньостатистичну людину. Попри це, вони такі ж стрункі.",
 
   "power.medievalorigins.wood_elf/graceful.name": "Витонченість",
   "power.medievalorigins.wood_elf/graceful.description": "Руки ельфів не такі потужні, проте швидкі. Вони завдають меншої шкоди, але атакують трохи швидше.",
@@ -202,7 +202,7 @@
   "power.medievalorigins.fae/iron_aversion.description": "Залізо пригнічує сили фей. Для них нестерпно його носити.",
 
   "power.medievalorigins.fae/levitation.name": "Левітація",
-  "power.medievalorigins.fae/levitation.description": "Феї - легкі магічні істоти, які можуть без зусиль парити в повітрі. Натисніть основну активну клавішу, щоб злетіти вгору.",
+  "power.medievalorigins.fae/levitation.description": "Феї - легкі магічні істоти, які можуть без зусиль парити в повітрі. Натисніть основну активну клавішу, щоб злетіти.",
 
   "power.medievalorigins.fae/magic_resistance.name": "Магічний опір",
   "power.medievalorigins.fae/magic_resistance.description": "Будучи магічними істотами, фейри отримують менше шкоди від магії, ніж інші істоти.",
@@ -223,7 +223,7 @@
   "power.medievalorigins.goblin/durability.description": "Золото в руках гобліна зберігається набагато довше, ніж у більшості інших, хто поводиться з ним необережно.",
 
   "power.medievalorigins.goblin/nippy.name": "Спритність",
-  "power.medievalorigins.goblin/nippy.description": "Незважаючи на низький зріст, гобліни досить швидкі, що дає їм змогу тікати від сильніших ворогів замість того, щоб битися.",
+  "power.medievalorigins.goblin/nippy.description": "Попри низький зріст, гобліни досить швидкі, що дає їм змогу тікати від сильніших ворогів замість того, щоб битися.",
 
   "power.medievalorigins.goblin/stunted.name": "Низькорослість",
   "power.medievalorigins.goblin/stunted.description": "Гобліни на дві третини нижчі за людину.",
@@ -274,7 +274,7 @@
   "power.medievalorigins.moon_elf/crazed.description": "Як би вони не намагалися, місячні ельфи не можуть спати у верхньому світі.",
 
   "power.medievalorigins.moon_elf/stealth.name": "Невидимість",
-  "power.medievalorigins.moon_elf/stealth.description": "У темряві місячні ельфи можуть ставати невидимими, крадучись, і пересуватися на невеликі відстані. Коли вони атакують зі схованки, їхня перша атака завдає бонусної шкоди і знімає невидимість.",
+  "power.medievalorigins.moon_elf/stealth.description": "У темряві місячні ельфи можуть ставати невидимими під час підкрадання, і рухатися на невеликі відстані. Коли вони атакують зі схованки, їхня перша атака завдає бонусної шкоди і знімає невидимість.",
 
   "power.medievalorigins.moon_elf/elegant.name": "Елегантність",
   "power.medievalorigins.moon_elf/elegant.description": "Завдяки своїй стрункій статурі Місячні ельфи не можуть носити обладунки важчі за залізо. Цьому можна запобігти за допомогою заклинання.",
@@ -298,7 +298,7 @@
   "power.medievalorigins.ogre/gargantuan.description": "Огрів завжди називали великими. Все, що знають огри, це те, що вони не можуть пролізти крізь двері.",
 
   "power.medievalorigins.ogre/lead_belly.name": "Свинцеве черево",
-  "power.medievalorigins.ogre/lead_belly.description": "Огру все одно, що їсти. Їжа є їжа. Отрута? Зголодніння? Що це?",
+  "power.medievalorigins.ogre/lead_belly.description": "Огру все одно, що їсти. Їжа є їжа. Отрута? Голод? Що це?",
 
   "power.medievalorigins.ogre/ravenous.name": "Ненажерлививість",
   "power.medievalorigins.ogre/ravenous.description": "Огр завжди голодний. Якби огр міг, він би їв цілий день.",
@@ -337,7 +337,7 @@
   "power.medievalorigins.pixie/pixie_properties.description": "Піксі можна назвати одними з найменших істот, які блукають землею, рідко досягаючи навіть коліна звичайної людини.",
 
   "power.medievalorigins.pixie/soaked.name": "Змоченість",
-  "power.medievalorigins.pixie/soaked.description": "Будучи такими маленькими, вода становить значну загрозу для піксі. Вона заважає їм пересуватися і погіршує їхню здатність літати.",
+  "power.medievalorigins.pixie/soaked.description": "Будучи такими маленькими, вода становить значну загрозу для піксі. Вона заважає їм рухатися і погіршує їхню здатність літати.",
 
   "power.medievalorigins.pixie/troublemaker.name": "Порушник спокою",
   "power.medievalorigins.pixie/troublemaker.description": "Селяни знають піксі за легендами про неприємності, які вони спричиняють, і відмовляються торгувати з ними.",

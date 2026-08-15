@@ -238,7 +238,7 @@
   "text.easy_npc.config.move_back_to_home": "Йти додому",
   "text.easy_npc.config.move_back_to_village": "Йти назад до села",
   "text.easy_npc.config.move_through_village": "Пройти через село",
-  "text.easy_npc.config.movement_speed": "Швидкість пересування",
+  "text.easy_npc.config.movement_speed": "Швидкість руху",
   "text.easy_npc.config.name_to_label.tooltip": "Перетворити назву на відповідну мітку/id.",
   "text.easy_npc.config.next_page": "Далі >",
   "text.easy_npc.config.no": "Ні",
