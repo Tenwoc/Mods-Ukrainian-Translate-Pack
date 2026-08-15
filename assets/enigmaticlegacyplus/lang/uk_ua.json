@@ -100,7 +100,7 @@
 
   "enchantment.enigmaticlegacyplus.ceaseless": "Безперервність",
   "enchantment.enigmaticlegacyplus.ceaseless.desc": "Дає змогу не витрачати звичайні стріли.",
-  "enchantment.enigmaticlegacyplus.eternal_binding_curse": "Прокляття вічного зв’язку",
+  "enchantment.enigmaticlegacyplus.eternal_binding_curse": "Прокляття вічного зв'язку",
   "enchantment.enigmaticlegacyplus.eternal_binding_curse.desc": "Унеможливлює зняття або втрату предмета після смерті.",
   "enchantment.enigmaticlegacyplus.etheric_resonance": "Етерієвий резонанс",
   "enchantment.enigmaticlegacyplus.etheric_resonance.desc": "Покращує можливості етерієвих інструментів",
@@ -122,7 +122,7 @@
   "effect.enigmaticlegacyplus.abyss_corruption.desc": "Потужний негативний ефект, що поширюється зі смертю.",
   "effect.enigmaticlegacyplus.blazing_might": "Палюча міць",
   "effect.enigmaticlegacyplus.blazing_might.desc": "Ефект зникає після отримання будь-якої шкоди.",
-  "effect.enigmaticlegacyplus.ichor_corrosion": "Роз’їдання іхором",
+  "effect.enigmaticlegacyplus.ichor_corrosion": "Роз'їдання іхором",
   "effect.enigmaticlegacyplus.ichor_corrosion.desc": "Знижує ваш захист, збільшуючи отримувану шкоду.",
   "effect.enigmaticlegacyplus.ichor_curse": "Прокляття покаяння",
   "effect.enigmaticlegacyplus.ichor_curse.desc": "Пекло резонує з вами.",
@@ -131,7 +131,7 @@
   "effect.enigmaticlegacyplus.pure_resistance": "Чистий опір",
   "effect.enigmaticlegacyplus.pure_resistance.desc": "Зменшує отримувану шкоду та дає шанс блокувати її.",
   "effect.enigmaticlegacyplus.violence_curse": "Прокляття манії",
-  "effect.enigmaticlegacyplus.violence_curse.desc": "Під час бою з’являтимуться тимчасові прокляття.",
+  "effect.enigmaticlegacyplus.violence_curse.desc": "Під час бою з'являтимуться тимчасові прокляття.",
 
   "entity.enigmaticlegacyplus.cobweb_ball": "Кулька павутини",
   "entity.enigmaticlegacyplus.dragon_breath_arrow": "Стріла дихання дракона",

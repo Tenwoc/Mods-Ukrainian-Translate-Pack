@@ -26,7 +26,7 @@
   "enchantment.sortilege.potency.desc": "Збільшує шкоду посоха.",
   "enchantment.sortilege.stability": "Стабільність",
   "enchantment.sortilege.stability.desc": "Збільшує дистанцію атаки посоха.",
-  "enchantment.sortilege.chaining": "Зв’язування",
+  "enchantment.sortilege.chaining": "Зв'язування",
   "enchantment.sortilege.chaining.desc": "Збільшує патеричне пробиття.",
   "enchantment.sortilege.wisdom": "Мудрість",
   "enchantment.sortilege.wisdom.desc": "Зменує споживання досвіду посоха.",
@@ -49,7 +49,7 @@
   "enchantment.sortilege.magic_protection.desc": "Зменшує шкоду від магії.",
   "enchantment.sortilege.arcane": "Чаклунство",
   "enchantment.sortilege.arcane.desc": "Конвертує тип завданої шкоди на магічну.",
-  "enchantment.sortilege.soulbound": "Душевний зв’язок",
+  "enchantment.sortilege.soulbound": "Душевний зв'язок",
   "enchantment.sortilege.soulbound.desc": "Предмет залишиться з вами після смерті.",
 
   "enchantment.minecraft.feather_falling.desc": "Зменшує шкоду від падіння та телепортації перлиною Енду. Максимальний рівень забезпечує повний захист.",

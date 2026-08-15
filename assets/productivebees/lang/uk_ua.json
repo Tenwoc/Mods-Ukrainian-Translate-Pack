@@ -940,7 +940,7 @@
   "productivebees.information.attribute.endurance.normal": "Нормальна",
   "productivebees.information.attribute.endurance.strong": "Висока",
   "productivebees.information.attribute.endurance.weak": "Низька",
-  "productivebees.information.attribute.health": "Здоров’я: %s/%s",
+  "productivebees.information.attribute.health": "Здоров'я: %s/%s",
   "productivebees.information.attribute.productivity": "Продуктивність: %s",
   "productivebees.information.attribute.productivity.high": "Висока",
   "productivebees.information.attribute.productivity.medium": "Середня",

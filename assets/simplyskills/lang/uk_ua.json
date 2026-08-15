@@ -124,7 +124,7 @@
   "effect.simplyskills.revealed.desc":                  "Ви не можете увійти в стан Непомітності.",
   "effect.simplyskills.revealed.description":                  "Ви не можете увійти в стан Непомітності.",
 
-  "effect.simplyskills.barrier":                        "Бар’єр",
+  "effect.simplyskills.barrier":                        "Бар'єр",
   "effect.simplyskills.barrier.desc":                   "Повністю відкидає наступне отримання шкоди.",
   "effect.simplyskills.barrier.description":                   "Повністю відкидає наступне отримання шкоди.",
 
@@ -150,8 +150,8 @@
   "effect.simplyskills.taunted.description":                   "Вороги здатні атакувати лише того, хто насміхається.",
 
   "effect.simplyskills.undying":                        "Невмирущий",
-  "effect.simplyskills.undying.desc":                   "Ваш рівень здоров’я не може опуститися нижче 1 HP. Якщо після закінчення ефекту у вас залишиться менше 65% HP, ви отримаєте смертельну шкоду.",
-  "effect.simplyskills.undying.description":                   "Ваш рівень здоров’я не може опуститися нижче 1 HP. Якщо після закінчення ефекту у вас залишиться менше 65% HP, ви отримаєте смертельну шкоду.",
+  "effect.simplyskills.undying.desc":                   "Ваш рівень здоров'я не може опуститися нижче 1 HP. Якщо після закінчення ефекту у вас залишиться менше 65% HP, ви отримаєте смертельну шкоду.",
+  "effect.simplyskills.undying.description":                   "Ваш рівень здоров'я не може опуститися нижче 1 HP. Якщо після закінчення ефекту у вас залишиться менше 65% HP, ви отримаєте смертельну шкоду.",
 
   "effect.simplyskills.rage":                           "Лють",
   "effect.simplyskills.rage.desc":                      "Збільшує на 0,5% шкоду від атаки, швидкість атаки та отриману шкоду за кожне накопичення.",
@@ -169,7 +169,7 @@
   "effect.simplyskills.anointed.desc":                  "Атаки ближнього бою зцілюють найближчих союзників і завдають шкоди по площі, яка масштабується відповідно до сили вашого закляття зцілення.",
   "effect.simplyskills.anointed.description":                  "Атаки ближнього бою зцілюють найближчих союзників і завдають шкоди по площі, яка масштабується відповідно до сили вашого закляття зцілення.",
 
-  "effect.simplyskills.vitality_bond":                  "Зв’язок життєвої сили",
+  "effect.simplyskills.vitality_bond":                  "Зв'язок життєвої сили",
   "effect.simplyskills.vitality_bond.desc":             "HP синхронізується з іншою ураженою сутністю.",
   "effect.simplyskills.vitality_bond.description":             "HP синхронізується з іншою ураженою сутністю.",
 
@@ -226,8 +226,8 @@
   "effect.simplyskills.righteous_shield.description":          "Викликає Праведний щит.",
 
   "effect.simplyskills.shadow_aura":                    "Тіньова аура",
-  "effect.simplyskills.shadow_aura.desc":               "Вражає ворогів, що знаходяться поблизу, але виснажує здоров’я користувача.",
-  "effect.simplyskills.shadow_aura.description":               "Вражає ворогів, що знаходяться поблизу, але виснажує здоров’я користувача.",
+  "effect.simplyskills.shadow_aura.desc":               "Вражає ворогів, що знаходяться поблизу, але виснажує здоров'я користувача.",
+  "effect.simplyskills.shadow_aura.description":               "Вражає ворогів, що знаходяться поблизу, але виснажує здоров'я користувача.",
 
   "effect.simplyskills.focus":                          "Зосередженість",
   "effect.simplyskills.focus.desc":                     "Ваша наступна атака з лука заряджається повільніше і завдає більшої шкоди.",
@@ -250,8 +250,8 @@
   "effect.simplyskills.melody_of_protection.description":      "Отримайте Силу та ігноруйте 10% шкоди.",
 
   "effect.simplyskills.melody_of_safety":               "Мелодія безпеки",
-  "effect.simplyskills.melody_of_safety.desc":          "Відновлюйте 10% від максимального здоров’я на секунду.",
-  "effect.simplyskills.melody_of_safety.description":          "Відновлюйте 10% від максимального здоров’я на секунду.",
+  "effect.simplyskills.melody_of_safety.desc":          "Відновлюйте 10% від максимального здоров'я на секунду.",
+  "effect.simplyskills.melody_of_safety.description":          "Відновлюйте 10% від максимального здоров'я на секунду.",
 
   "effect.simplyskills.melody_of_concentration":        "Мелодія концентрації",
   "effect.simplyskills.melody_of_concentration.desc":   "Отримайте збільшену швидкість атаки та руху.",

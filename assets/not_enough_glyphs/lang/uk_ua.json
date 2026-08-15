@@ -152,7 +152,7 @@
   "effect.not_enough_glyphs.shrink": "Зменшення",
   "effect.not_enough_glyphs.shrink.desc": "Розмір сутності зменшена.",
   "effect.not_enough_glyphs.stuffed": "Переїдання",
-  "effect.not_enough_glyphs.stuffed.desc": "Забагато їжі! Збільшує розмір сутності та робить їх більш уразливими до Подрібнення. Може вибухнути, якщо Подрібнити, коли здоров’я нижче чверті",
+  "effect.not_enough_glyphs.stuffed.desc": "Забагато їжі! Збільшує розмір сутності та робить їх більш уразливими до Подрібнення. Може вибухнути, якщо Подрібнити, коли здоров'я нижче чверті",
   "item.not_enough_glyphs.spell_binder": "Чарівний переплітник",
   "item.not_enough_glyphs.thread_air_focus": "Фокус Повітря",
   "item.not_enough_glyphs.thread_cheap_damage": "Безцінна шкода",

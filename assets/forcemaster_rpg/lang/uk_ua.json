@@ -13,7 +13,7 @@
   "effect.forcemaster_rpg.barq_esna": "Світло Баракіджала",
   "effect.forcemaster_rpg.nen_focus": "Фокус Нен",
   "effect.forcemaster_rpg.nen_focus.description": "Тепер можна поєднувати Таємниче переповнення з атаками ближнього бою.",
-  "effect.forcemaster_rpg.stone_hand": "Кам’яна рука",
+  "effect.forcemaster_rpg.stone_hand": "Кам'яна рука",
   "equipment_set.forcemaster_rpg.billporon": "Фокус Біллпорона",
   "item.forcemaster_rpg.aeternium_knuckle": "Етеровий кастет",
   "item.forcemaster_rpg.aether_knuckle": "Священний кастет",
@@ -62,8 +62,8 @@
   "spell.forcemaster_rpg.knuckle_arcane_overflow.name": "Таємниче переповнення",
   "spell.forcemaster_rpg.nen_focus.description": "Перемога над ворогами заклинаннями Майстра Сили надає ефект Фокус Нен, який поєднує Чарівне переповнення з атаками ближнього бою до {effect_amplifier_cap} разів, тривалістю {effect_duration} сек.",
   "spell.forcemaster_rpg.nen_focus.name": "Фокус Нен",
-  "spell.forcemaster_rpg.stonehand.description": "Накладає на гравця ефект Кам’яної руки на {effect_duration} секунд. Дає шанс оглушити ціль при атаці кулаком.",
-  "spell.forcemaster_rpg.stonehand.name": "Кам’яна рука",
+  "spell.forcemaster_rpg.stonehand.description": "Накладає на гравця ефект Кам'яної руки на {effect_duration} секунд. Дає шанс оглушити ціль при атаці кулаком.",
+  "spell.forcemaster_rpg.stonehand.name": "Кам'яна рука",
   "tag.item.forcemaster_rpg.fist_weapons": "Кулачна зброя",
   "tag.item.forcemaster_rpg.knuckles": "Кастети"
 }

@@ -52,7 +52,7 @@
   "spell.tooltip.ammo": "Потрібно: {item}",
   "spell.tooltip.ammo.plural": "Потрібно: {item} (x{count})",
   "spell.tooltip.hold_for_details": "(Утримуйте %1$s для деталей)",
-  "spell.tooltip.spell_binding_tip": "(Використовуйте стіл зв’язування заклинань для додавання заклинань)",
+  "spell.tooltip.spell_binding_tip": "(Використовуйте стіл зв'язування заклинань для додавання заклинань)",
 
   "gui.spell_engine.config_menu" : "Конфігурація Spell Engine",
   "gui.spell_engine.close" : "Закрити",

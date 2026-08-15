@@ -28,12 +28,12 @@
     "attribute.name.knockback_resistance.desc": "Скільки відкидання ви ігноруєте.",
     "attribute.name.luck.desc": "Впливає на ймовірність того, що відбудуться хороші речі.",
     "attribute.name.max_absorption.desc": "Скільки сердець Поглинання ви можете регенерувати.",
-    "attribute.name.max_health.desc": "Максимальна кількість очок здоров’я.",
+    "attribute.name.max_health.desc": "Максимальна кількість очок здоров'я.",
     "attribute.name.movement_speed.desc": "Швидкість руху.",
 
     "attribute.name.entity_interaction_range.desc": "Дальність взаємодії із сутностями, у блоках.",
     "attribute.name.gravity.desc": "Прискорення вільного падіння, у блоках/с²",
-    "neoforge.name_tag_distance.desc": "Наскільки далеко видно ваше ім’я.",
+    "neoforge.name_tag_distance.desc": "Наскільки далеко видно ваше ім'я.",
     "attribute.name.block_interaction_range.desc": "Дальність взаємодії із блоками, у блоках.",
     "attribute.name.step_height.desc": "Скільки блоків ви здатні переступити без стрибків.",
     "attribute.name.water_movement_efficiency.desc": "Швидкість плавання, відносно норми.",
@@ -59,13 +59,13 @@
     "apothic_attributes:life_steal": "викрадання життя",
     "apothic_attributes:life_steal.desc": "Процент зцілення від фактично завданої шкоди.",
 
-    "apothic_attributes:current_hp_damage": "шкоди по поточному здоров’ю",
-    "apothic_attributes:current_hp_damage.desc": "Додаткова фізична шкода ближнього бою, заснована на здоров’ї цілі.",
+    "apothic_attributes:current_hp_damage": "шкоди по поточному здоров'ю",
+    "apothic_attributes:current_hp_damage.desc": "Додаткова фізична шкода ближнього бою, заснована на здоров'ї цілі.",
 
     "apothic_attributes:overheal": "надзцілення",
     "apothic_attributes:overheal.desc": "Процент отримання сердець перепоглинання від фактично завданої шкоди.",
 
-    "apothic_attributes:ghost_health": "фантомного здоров’я",
+    "apothic_attributes:ghost_health": "фантомного здоров'я",
     "apothic_attributes:ghost_health.desc": "Не реалізовано",
 
     "apothic_attributes:arrow_damage": "шкоди від стріл",
@@ -131,16 +131,16 @@
     "effect.minecraft.jump_boost.desc": "Збільшує висоту стрибка.",
     "effect.minecraft.fire_resistance.desc": "Нівелює шкоду від вогню.",
     "effect.minecraft.water_breathing.desc": "Знеможливлює утоплення.",
-    "effect.minecraft.instant_health.desc": "Миттєво відновлює частину здоров’я.",
+    "effect.minecraft.instant_health.desc": "Миттєво відновлює частину здоров'я.",
     "effect.minecraft.instant_damage.desc": "Миттєво завдає частку магічної шкоди.",
     "effect.minecraft.poison.desc": "Періодично завдає несмертельної шкоди.",
-    "effect.minecraft.regeneration.desc": "Поступово відновлює здоров’я.",
+    "effect.minecraft.regeneration.desc": "Поступово відновлює здоров'я.",
 
     "comment_id": "Damage Sources",
 
-    "death.attack.apothic_attributes:bleeding": "%1$s стік кров’ю",
-    "death.attack.apothic_attributes:bleeding.item": "%1$s стік кров’ю від %2$s за допомогою: %3$s",
-    "death.attack.apothic_attributes:bleeding.player": "%1$s стік кров’ю під час спроби втекти від %2$s",
+    "death.attack.apothic_attributes:bleeding": "%1$s стік кров'ю",
+    "death.attack.apothic_attributes:bleeding.item": "%1$s стік кров'ю від %2$s за допомогою: %3$s",
+    "death.attack.apothic_attributes:bleeding.player": "%1$s стік кров'ю під час спроби втекти від %2$s",
 
     "death.attack.apothic_attributes:detonation": "%1$s вибухнув у вогні",
     "death.attack.apothic_attributes:detonation.item": "%1$s вибухнув у вогні",
