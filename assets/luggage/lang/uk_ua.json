@@ -1,11 +1,14 @@
 {
-	"entity.luggage.luggage": "Багаж",
-	"item.luggage.luggage": "Багаж",
-	"keybind.luggage.wait": "Нехай багаж, що знаходиться поруч, зачекає",
-	"keybind.luggage.call": "Покликати багаж",
-	"subtitles.luggage.entity.luggage.killed": "Багаж розлітається вщент",
-	"subtitles.luggage.entity.luggage.eat_food": "Багаж їсть їжу",
-	"subtitles.luggage.entity.luggage.eat_item": "Багаж їсть предмет",
+	"entity.luggage.luggage": "Валіза",
+	"entity.luggage.ender_luggage": "Валіза Енду",
+	"entity.luggage.player_doesnt_own": "Ви не володієте цією валізою!",
+	"item.luggage.luggage": "Валіза",
+	"item.luggage.ender_luggage": "Валіза Енду",
+	"keybind.luggage.wait": "Дати команду валізі чекати",
+	"keybind.luggage.call": "Покликати валізу",
+	"subtitles.luggage.entity.luggage.killed": "Валіза розлітається вщент",
+	"subtitles.luggage.entity.luggage.eat_food": "Валіза їсть їжу",
+	"subtitles.luggage.entity.luggage.eat_item": "Валіза їсть предмет",
 	"subtitles.luggage.entity.player.whistle_call": "Гравець тихо свистить",
 	"subtitles.luggage.entity.player.whistle_wait": "Гравець різко свистить"
 }

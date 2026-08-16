@@ -1,10 +1,11 @@
 {
   "mantle:tooltip.cooktime": "Час приготування: %ds",
   "config.mantle.extraHeartRenderer": "Увімкнути додатковий рендер серця",
+  "config.mantle.enableFluidFogFix": "Увімкнути виправлення туману рідини",
 
-  "command.mantle.view_tag.success": "Значення для тегу %s '%s':",
+  "command.mantle.view_tag.success": "Значення для теґу %s '%s':",
 
-  "command.mantle.tags_for.success": "Теги %s для '%s':",
+  "command.mantle.tags_for.success": "Теґи %s для '%s':",
   "command.mantle.tags_for.not_found": "Невідоме значення реєстру %s '%s'",
   "command.mantle.tags_for.no_held_block": "Утримуваний предмет не є блоком",
   "command.mantle.tags_for.no_held_entity": "Утримуваний предмет не є яйцем розмноження",
@@ -12,38 +13,82 @@
   "command.mantle.tags_for.no_held_fluid": "Неможливо отримати рідину з утримуваного предмета",
   "command.mantle.tags_for.no_held_enchantment": "Утримуваний предмет не зачарований",
   "command.mantle.tags_for.no_targeted_entity": "У зоні досяжності немає об’єкта",
+  "command.mantle.tags_for.no_targeted_block": "Не націлено на блок",
+  "command.mantle.tags_for.no_targeted_fluid": "Не націлено на рідину",
   "command.mantle.tags_for.no_targeted_block_entity": "Немає цільової блокованої сутності",
   "command.mantle.tags_for.no_tags": "Немає міток",
-  "command.mantle.book_test.not_found": "Невідома книга з ідентифікатором %s",
 
-  "command.mantle.dump_tag.success": "До консольного журналу виведено комбінований тег %s '%s'",
-  "command.mantle.dump_tag.read_error": "Помилка читання тегу %s '%s':",
-  "command.mantle.dump_tag.success_log": "Виведено об’єднаний тег %s '%s' у '%s'",
-  "command.mantle.dump_all_tags.success": "Виведено всі теги у '%s'",
-  "command.mantle.dump_all_tags.type_success": "Виведено всі теги %s до '%s'",
+  "command.mantle.book_test.not_found": "Невідома книга з ідентифікатором %s",
+  "command.mantle.book.export.success": "Експортовано зображення книги у '%s'",
+  "command.mantle.book.export.html.success": "Експортовано зображення книги у '%s' та HTML у '%s'",
+  "command.mantle.book.export.error_generic": "Не вдалося експортувати зображення книги, дивіться журнал для деталей",
+  "command.mantle.book.export.error_io": "Не вдалося створити директорію для зображень книги '%s'",
+
+  "command.mantle.dump_tag.success": "До консольного журналу виведено комбінований теґ %s '%s'",
+  "command.mantle.dump_tag.success_log": "Виведено об’єднаний теґ %s '%s' у '%s'",
+  "command.mantle.dump_all_tags.success": "Виведено всі теґи у '%s'",
+  "command.mantle.dump_all_tags.type_success": "Виведено всі теґи %s до '%s'",
+
+  "command.mantle.modify_tag.success.add": "Успішно додано '%s' до %s теґу '%s'. Виконайте /reload, щоби активувати пакет у %s.",
+  "command.mantle.modify_tag.success.remove": "Успішно вилучено '%s' з %s теґу '%s'. Виконайте /reload, щоби активувати пакет у %s.",
+  "command.mantle.modify_tag.success.clear": "Успішно очищено %s теґу '%s'. Виконайте /reload, щоби активувати пакет у %s.",
+  "command.mantle.modify_tag.read_error": "Виникла помилка при зчитуванні %s теґу '%s'",
+  "command.mantle.modify_tag.write_error": "Виникла помилка при записі %s теґу '%s'",
 
   "command.mantle.dump_loot_modifiers.success_log": "Виведено комбіновані глобальні модифікатори здобичі до консольного журналу",
   "command.mantle.dump_loot_modifiers.success_save": "Виведено комбіновані глобальні модифікатори здобичі до '%s'",
   "command.mantle.dump_loot_modifiers.read_error": "Помилка читання глобальних модифікаторів здобичі",
 
-  "command.mantle.harvest_tiers.success_log": "Виведено відсортовані яруси до консольного журналу",
-  "command.mantle.harvest_tiers.success_save": "Виведено відсортовані яруси до '%s'",
-  "command.mantle.harvest_tiers.success_list": "Збираємо яруси:",
-  "command.mantle.harvest_tiers.tag": "%s: Блок-тег %s",
-  "command.mantle.harvest_tiers.no_tag": "%s: Без тегу",
+  "command.mantle.harvest_tiers.success_log": "Виведено відсортовані рівні до консольного журналу",
+  "command.mantle.harvest_tiers.success_save": "Виведено відсортовані рівні до '%s'",
+  "command.mantle.harvest_tiers.success_list": "Збираємо рівні:",
+  "command.mantle.harvest_tiers.tag": "%s: Блок-теґ %s",
+  "command.mantle.harvest_tiers.no_tag": "%s: Без теґу",
+
+  "command.mantle.hunger.set.single": "Встановити голод %s на %d",
+  "command.mantle.hunger.set.multiple": "Встановити голод %s гравців на %d",
+  "command.mantle.hunger.add.single": "Додати %s %d очок голоду",
+  "command.mantle.hunger.add.multiple": "Додати %d гравцям %d очок голоду",
+  "command.mantle.hunger.subtract.single": "Відняти у %s %d очок голоду",
+  "command.mantle.hunger.subtract.multiple": "Відняти у %d гравців %d очок голоду",
+
+  "command.mantle.remove_recipes": "Успішно видалено %s рецептів за %s секунд. Виконайте /reload, щоби активувати пакет у %s.",
+  "command.mantle.remove_recipes.preset_not_found": "Пресет видалення рецепта '%s' відсутній або хибний. Перевірте журнал для більшої інформації.",
+  "command.mantle.remove.failed_save": "Не вдалося зберегти JSON у '%s'.",
+
+  "command.mantle.key.wrong_registry": "Очікувалося, що ключ ресурсу '%s' належить до реєстру '%s'.",
+  "command.mantle.remove_data.structure.success": "Успішно спорожнено набір структур '%s' за %s секунд. Виконайте /reload, щоби активувати пакет у %s.",
+  "command.mantle.remove_data.biome_modifier.success": "Успішно видалено модифікатор біома '%s' за %s секунд. Виконайте /reload, щоби активувати пакет у %s.",
+
+  "command.mantle.sources.success": "Джерела для %s:",
+  "command.mantle.sources.not_found": "'%s' не знайдено:",
 
   "command.mantle.tag.empty": "Порожньо",
+  "command.mantle.item.not_found": "Невідомий предмет '%s'",
   "command.mantle.registry.not_found": "Невідомий розділ реєстру '%s'",
-  "command.mantle.tag.not_found": "Невідомий тег %s '%s'",
+  "command.mantle.tag_source.not_found": "Невідоме джерело теґу '%s'",
+  "command.mantle.tag.not_found": "Невідомий теґ %s '%s'",
 
-  "command.mantle.tag_preference.empty_tag": "Немає переваг для тегу %s %s",
-  "command.mantle.tag_preference.preference": "Бажаним значенням для тегу %s є %s",
+  "command.mantle.tag_preference.empty_tag": "Немає переваг для теґу %s %s",
+  "command.mantle.tag_preference.preference": "Бажаним значенням для теґу %s є %s",
+
+  "gui.mantle.fluid.capacity": "Місткість: %s мВ",
+  "gui.mantle.fluid.contents": "Містить: %s",
+  "gui.mantle.fluid.format": "%s / %s мВ %s",
 
   "gui.mantle.fluid.hold_shift": "Утримуйте §e§oShift§r§7 для використання відер",
-  "gui.mantle.fluid.kilobucket": "%s kb",
-  "gui.mantle.fluid.bucket": "%s b",
-  "gui.mantle.fluid.millibucket": "%s mb",
+  "gui.mantle.fluid.kilobucket": "%s кВ",
+  "gui.mantle.fluid.bucket": "%s В",
+  "gui.mantle.fluid.millibucket": "%s мВ",
 
-  "block.mantle.tank.drained": "Злито %s mb %s",
-  "block.mantle.tank.filled": "Заповнено %s mb %s"
+  "gui.mantle.fluid.bowl": "%s мисок",
+  "gui.mantle.fluid.bottle": "%s пляшок",
+  "gui.mantle.fluid.drop": "%s крапель",
+  "gui.mantle.fluid.sip": "%s ковтків",
+
+  "block.mantle.tank.drained": "Злито %s мВ %s",
+  "block.mantle.tank.filled": "Заповнено %s мВ %s",
+  "block.mantle.retextured.id": "ID текстури: %s",
+
+  "item.mantle.book.click_to_open": "ПКМ, щоби відкрити"
 }

@@ -1,93 +1,360 @@
 {
-  "modmenu.descriptionTranslation.lootbeams": "Високоналаштовані промені у лежачих предметів!",
+  "lootbeams.title": "Loot Beams",
 
 
   "lootbeams.config.main": "Основне",
 
   "lootbeams.config.main.renderNameColor": "Колір від імені",
-  "lootbeams.config.main.renderNameColor.description": "Робить колір променів такий самий, як у імені предмета (за винятком кольору рідкості). \nМає пріоритет над render_rarity_color.",
+  "lootbeams.config.main.renderNameColor.description": "Робить колір променів таким самим, як в імені предмета (за винятком кольору рідкості). \nМає пріоритет над render_rarity_color.",
 
-  "lootbeams.config.main.renderRarityColor": "Колір від рідкості",
-  "lootbeams.config.main.enderRarityColor.description": "Робить колір кращої такий самий як у рідкості предмета.",
+  "lootbeams.config.main.renderRarityColor": "Рендерити колір рідкости",
+  "lootbeams.config.main.renderRarityColor.description": "Чи повинен промінь мати той же колір, що й рідкість предмета.",
+
+  "lootbeams.config.main.renderBeam": "Рендерити промінь",
+  "lootbeams.config.main.renderBeam.description": "Чи повинен промінь бути видимим.",
+
+  "lootbeams.config.main.renderDroplightBeam": "Рендерити світлопад променя",
+  "lootbeams.config.main.renderDroplightBeam.description": "Чи повинен промінь виглядати як світлопад.",
+
+  "lootbeams.config.main.animateDroplightBeam": "Анімувати світлопад",
+  "lootbeams.config.main.animateDroplightBeam.description": "Чи повинен промінь здобичі бути анімованим.",
+
+  "lootbeams.config.main.droplightBeamAnimationSpeed": "Швидкість анімації світлопаду",
+  "lootbeams.config.main.droplightBeamAnimationSpeed.description": "Швидкість анімації променя здобичі.",
+
+  "lootbeams.config.main.beamGradientModifiers": "Конфігуратори градієнта променя",
+  "lootbeams.config.main.beamGradientModifiers.description": "Конфігуратори, що створюють градієнтний другий колір.",
+
+  "lootbeams.config.main.smoothBeamSize": "Розмір згладження променя",
+  "lootbeams.config.main.smoothBeamSize.description": "Чи повинен промінь здобичі змінювати згладження.",
+
+  "lootbeams.config.main.smoothDuration": "Тривалість згладжування",
+  "lootbeams.config.main.smoothDuration.description": "Час зміни згладжування.",
 
   "lootbeams.config.main.beamRadius": "Радіус променя",
   "lootbeams.config.main.beamRadius.description": "Регулює радіус променя.",
 
+  "lootbeams.config.main.minBeamRadius": "Мін. радіус променя",
+  "lootbeams.config.main.minBeamRadius.description": "Мінімальний радіус променя здобичі",
+
   "lootbeams.config.main.beamHeight": "Висота променя",
   "lootbeams.config.main.beamHeight.description": "Регулює висоту променя.",
 
-  "lootbeams.config.main.beamYOffset": "Відступи по Y променя",
-  "lootbeams.config.main.beamYOffset.description": "Регулює відступ по Y у променя.",
+  "lootbeams.config.main.minBeamHeight": "Мін. висота променя",
+  "lootbeams.config.main.minBeamHeight.description": "Мінімальна висота променя здобичі.",
+
+  "lootbeams.config.main.beamYOffset": "Відступ Y променя",
+  "lootbeams.config.main.beamYOffset.description": "Відступ по Y у променя здобичі.",
+
+  "lootbeams.config.main.commonShorterBeam": "Коротший промінь для Звичайного",
+  "lootbeams.config.main.commonShorterBeam.description": "Чи повинен промінь здобичі бути коротшим на звичайних предметах.",
 
   "lootbeams.config.main.beamAlpha": "Альфа променя",
-  "lootbeams.config.main.beamAlpha.description": "Регулює прозорість у променя.",
+  "lootbeams.config.main.beamAlpha.description": "Прозорість променя здоюичі.",
 
-  "lootbeams.config.main.beamRenderDistance": "Відстань відображення",
-  "lootbeams.config.main.beamRenderDistance.description": "Наскільки близько повинен бути гравець, щоб бачити промені.\n (примітка: ItemEntities припиняють своє відображення на відстані 24 блоків, тож це ліміт для променів.)",
+  "lootbeams.config.main.minBeamAlpha": "Мін. альфа променя",
+  "lootbeams.config.main.minBeamAlpha.description": "Мінімальна прозорість променя здобичі.",
 
-  "lootbeams.config.main.beamFadeDistance": "Відстань до зникнення",
-  "lootbeams.config.main.beamFadeDistance.description": "Наскільки близько повинен бути гравець, щоб промінь зник.\n (примітка: плавне згладжування відбувається протягом 1 юніта)",
+  "lootbeams.config.main.solidBeam": "Суцільний промінь",
+  "lootbeams.config.main.solidBeam.description": "Чи повинен промінь здобичі мати суцільну текстуру чи стиль маяка.",
 
-  "lootbeams.config.main.colorOverrides": "Перевизначення кольорів",
-  "lootbeams.config.main.colorOverrides.description": "Перевизначає колір променя предмета в шістнадцятковому (hex) форматі.\n Повинен слідувати такому формату: (registryname=hexcolor) або (#tagname=hexcolor).\n Наприклад: \"minecraft:stone=#00FF00\", \"#minecraft:piglin_loved=gold\". Так само можна використовувати Mod Id.",
+  "lootbeams.config.main.whiteCenter": "Білий центр",
+  "lootbeams.config.main.whiteCenter.description": "Чи повинен промінь здобичі мати білий центр.",
+
+  "lootbeams.config.main.glowingBeam": "Світіння променя",
+  "lootbeams.config.main.glowingBeam.description": "Чи повинен промінь здобичі мати світіння.",
+
+  "lootbeams.config.main.renderDistance": "Відстань рендеру променя",
+  "lootbeams.config.main.renderDistance.description": "Наскільки близько має бути гравець, щоб бачити промінь.\n(примітка: цей параметр замінює стандартну дальність рендерингу предметів)",
+
+  "lootbeams.config.main.changeDistance": "Відстань зміни променя",
+  "lootbeams.config.main.changeDistance.description": "Наскільки близько має бути гравець, щоб спричинити зміни променя.\n (примітка: відстань згладжування — 1 одиниця)",
+
+  "lootbeams.config.main.changeOffset": "Відступ зміни променя",
+  "lootbeams.config.main.changeOffset.description": "Відстань від променя (у блоках), з якої почнуться зміни променя.",
+
+  "lootbeams.config.main.beamOpacityOnApproach": "ПРозорість променя при наближенні",
+  "lootbeams.config.main.beamOpacityOnApproach.description": "Перемикає ефект щезання променя здобичі, коли гравець наближається до нього.",
+
+  "lootbeams.config.main.beamSizeOnApproach": "Розмір променя при наближенні",
+  "lootbeams.config.main.beamSizeOnApproach.description": "Перемикає зміну розміру променя здобичі, коли гравець наближається до нього.",
+
+  "lootbeams.config.main.requireOnGround": "Необхідність опори",
+  "lootbeams.config.main.requireOnGround.description": "Чи повинен предмет лежати на поверхні, щоб рендерити промінь.",
 
 
-  "lootbeams.config.items": "Предмети",
+  "lootbeams.config.groundGlow": "Світіння на поверхні",
 
-  "lootbeams.config.item.allItems": "Усі предмети",
-  "lootbeams.config.item.allItems.description": "Чи повинні всі предмети мати промені.\n Має пріоритет над only_equipment і only_rare.",
+  "lootbeams.config.groundGlow.glowEffect": "Ефект світіння",
+  "lootbeams.config.groundGlow.glowEffect.description": "Чи повинен промінь здобичі мати ефект світіння на поверхні, на який лежить предмет.",
 
-  "lootbeams.config.item.onlyRare": "Тільки Рідкісні",
-  "lootbeams.config.item.onlyRare.description": "Чи повинні промені відображатися тільки у предметів з рідкістю.",
+  "lootbeams.config.groundGlow.glowCustomShader": "Користувацький шейдер світіння",
+  "lootbeams.config.groundGlow.glowCustomShader.description": "Чи повинен ефект світіння викристовувати користувацький шейдер.",
 
-  "lootbeams.config.item.onlyEquipment": "Тільки обладунки",
-  "lootbeams.config.item.onlyEquipment.description": "Чи повинні промені відображатися тільки на обладунках.\n (Сюди входять: Мечі, Інструменти, Броня, Щити, Луки, Арбалети, Тризуби, Стріли, і Вудки)",
+  "lootbeams.config.groundGlow.useGlowGradient": "Використовувати градієнт світінняя",
+  "lootbeams.config.groundGlow.useGlowGradient.description": "Чи повинен ефекти на поверхні використовувати градієнтний колір.",
 
-  "lootbeams.config.item.whitelist": "Білий список",
-  "lootbeams.config.item.whitelist.description": "Ім’я в регістрі предметів, на яких будуть промені завжди.\n Наприклад: \"minecraft:stone\", \"minecraft:iron_ingot\", \nМожна так само вказати Mod Id для включення всіх предметів з мода.",
+  "lootbeams.config.groundGlow.glowGradientModifiers": "Конфігуратори градієнта світіння",
+  "lootbeams.config.groundGlow.glowGradientModifiers.description": "Конфігуратори, що створюють градієнтний другий колір.",
 
-  "lootbeams.config.item.blacklist": "Чорний список",
-  "lootbeams.config.item.blacklist.description": "Ім’я в Регістрі предметів, на яких будуть промені, НЕ БУДЕ НІКОЛИ. Володіє пріоритетом взагалі на все.\nМожна так само вказати Mod Id для включення всіх предметів з мода.",
+  "lootbeams.config.groundGlow.glowGradientStart": "Початок градієнту світіння",
+  "lootbeams.config.groundGlow.glowGradientStart.description": "Процентна позиція, де градієнт повинен почати перехід кольорів.",
+
+  "lootbeams.config.groundGlow.glowGradientEnd": "Кінець градієнту світіння",
+  "lootbeams.config.groundGlow.glowGradientEnd.description": "Процентна позиція, де градієнт повинен закінчити перехід кольорів.",
+
+  "lootbeams.config.groundGlow.smoothGlowEffectRadius": "Радіус згладжування ефекту світіння",
+  "lootbeams.config.groundGlow.smoothGlowEffectRadius.description": "Чи повинен ефект світіння змінювати свій радіус згладжування.",
+
+  "lootbeams.config.groundGlow.smoothGlowEffectAlpha": "Альфа згладжування ефекту світіння",
+  "lootbeams.config.groundGlow.smoothGlowEffectAlpha.description": "Чи повинен ефект світіння змінювати свою прозорість згладжування.",
+
+  "lootbeams.config.groundGlow.glowEffectTexture": "Текстура ефекту світіння",
+  "lootbeams.config.groundGlow.glowEffectTexture.description": "Текстура ефекту світіння у форматі \"lootbeams:effect_id\", де effect_id — це назва файлу зображення ефекту без розширення. (assets/lootbeams/textures/ground_glow_effects) — шлях до теки пакета ресурсів.",
+
+  "lootbeams.config.groundGlow.glowEffectRadius": "Радіус ефекту світіння",
+  "lootbeams.config.groundGlow.glowEffectRadius.description": "Радіус ефекту світіння.",
+
+  "lootbeams.config.groundGlow.glowEffectAlpha": "Альфа ефекту світіння",
+  "lootbeams.config.groundGlow.glowEffectAlpha.description": "Прозорість ефекту світіння.",
+
+  "lootbeams.config.groundGlow.pulseGlow": "Коливання світіння",
+  "lootbeams.config.groundGlow.pulseGlow.description": "Чи повинен ефект світіння коливатися.",
+
+  "lootbeams.config.groundGlow.pulseGlowSpeed": "Швидкість коливання світіння",
+  "lootbeams.config.groundGlow.pulseGlowSpeed.description": "Швидкість коливання ефекту світіння.",
+
+  "lootbeams.config.groundGlow.pulseGlowMinAlpha": "Мін. альфа коливання світіння",
+  "lootbeams.config.groundGlow.pulseGlowMinAlpha.description": "Мінімальна прозорість ефекту світіння під час коливання.",
+
+  "lootbeams.config.groundGlow.pulseGlowMaxAlpha": "Макс. альфа коливання світіння",
+  "lootbeams.config.groundGlow.pulseGlowMaxAlpha.description": "Максимальна прозорість ефекту світіння під час коливання.",
+
+  "lootbeams.config.groundGlow.pulseGlowMinRadius": "Мін. радіус коливання світіння",
+  "lootbeams.config.groundGlow.pulseGlowMinRadius.description": "Мінімальний радіус ефекту світіння під час коливання.",
+
+  "lootbeams.config.groundGlow.pulseGlowMaxRadius": "Макс. радіус коливання світіння",
+  "lootbeams.config.groundGlow.pulseGlowMaxRadius.description": "Максимальний радіус ефекту світіння під час коливання.",
+
+  "lootbeams.config.groundGlow.rotateGlow": "Обертання світіння",
+  "lootbeams.config.groundGlow.rotateGlow.description": "Чи повинен обертатися ефект світіння.",
+
+  "lootbeams.config.groundGlow.glowRotateClockwise": "Обертання світіння за годинниковою стрілкою",
+  "lootbeams.config.groundGlow.glowRotateClockwise.description": "Чи повинен ефект світіння обертатися за годинниковою стрілкою.",
+
+  "lootbeams.config.groundGlow.glowRotationSpeed": "Швидкість обертання світіння",
+  "lootbeams.config.groundGlow.glowRotationSpeed.description": "Швидкість обертання ефекту світіння.",
 
 
-  "lootbeams.config.nametags": "Теги Предметів",
+  "lootbeams.config.particles": "Частинки",
+
+  "lootbeams.config.particles.particles": "Частинки",
+  "lootbeams.config.particles.particles.description": "Чи повинні навколо предмета з’являтися частинки.",
+
+  "lootbeams.config.particles.particleTexture": "Текстура частинок",
+  "lootbeams.config.particles.particleTexture.description": "Текстура частинки у форматі \"lootbeams:particle_id\", де particle_id — це назва файлу зображення частинки без розширення. (assets/lootbeams/textures/particle) — шлях до теки у пакеті ресурсів.",
+
+  "lootbeams.config.particles.particleColorMode": "Режим кольорів частинок",
+  "lootbeams.config.particles.particleColorMode.description": "Яку функцію мають використовувати частинки для змішування кольору променя з текстурою",
+
+  "lootbeams.config.particles.particleInheritsColor": "Успадковування кольору частинками",
+  "lootbeams.config.particles.particleInheritsColor.description": "Чи повинні частинки успадковувати колір променя (\"false\" може бути корисним у випадках, коли текстура частинки є різноколірною)",
+
+  "lootbeams.config.particles.tickPerParticleSpriteUpdate": "Затримка оновлення спрайту частинок",
+  "lootbeams.config.particles.tickPerParticleSpriteUpdate.description": "Скільки часу повинно пройти перед оновленням спрайта (тільки для розділених спрайтів)",
+
+  "lootbeams.config.particles.particleRandomY": "Рандомізація Y частинок",
+  "lootbeams.config.particles.particleRandomY.description": "Чи повинні частинки мати невеликий розкид по Y під час появи.",
+
+  "lootbeams.config.particles.particleYOffset": "Відступ Y частинок",
+  "lootbeams.config.particles.particleYOffset.description": "Відступ по Y для появи частинок.",
+
+  "lootbeams.config.particles.particleSize": "Розмір частинок",
+  "lootbeams.config.particles.particleSize.description": "Розмір частинок.",
+
+  "lootbeams.config.particles.particleRandomSize": "Рандомізація розміру частинок",
+  "lootbeams.config.particles.particleRandomSize.description": "Чи повинні частинки мати випадковий розкид розміру.",
+
+  "lootbeams.config.particles.particleSpeed": "Швидкість частинок",
+  "lootbeams.config.particles.particleSpeed.description": "Швидкість частинок.",
+
+  "lootbeams.config.particles.particleSpeedX": "Швидкість частинок по X",
+  "lootbeams.config.particles.particleSpeedX.description": "Швидкість частинок за віссю X.",
+
+  "lootbeams.config.particles.particleSpeedY": "Швидкість частинок по Y",
+  "lootbeams.config.particles.particleSpeedY.description": "Швидкість частинок за віссю Y.",
+
+  "lootbeams.config.particles.particleSpeedZ": "Швидкість частинок по Z",
+  "lootbeams.config.particles.particleSpeedZ.description": "Швидкість частинок за віссю Z.",
+
+  "lootbeams.config.particles.particleUseConstantVerticalSpeed": "Постійна швидкість частинок",
+  "lootbeams.config.particles.particleUseConstantVerticalSpeed.description": "Чи повинні частинки мати постійну швидкість.",
+
+  "lootbeams.config.particles.particleRadius": "Радіус частинок",
+  "lootbeams.config.particles.particleRadius.description": "Радіус частинок.",
+
+  "lootbeams.config.particles.randomnessIntensity": "Інтенсивність рандомізації",
+  "lootbeams.config.particles.randomnessIntensity.description": "Інтенсивність рандомізації частинок.",
+
+  "lootbeams.config.particles.particleCount": "Кількість частинок",
+  "lootbeams.config.particles.particleCount.description": "Кількість частинок, що з’являється за секунду.",
+
+  "lootbeams.config.particles.particleLifetime": "Час існування частинок",
+  "lootbeams.config.particles.particleLifetime.description": "Час існування частинок у тактах.",
+
+  "lootbeams.config.particles.particleRareOnly": "Частинки тільки для Рідкісного",
+  "lootbeams.config.particles.particleRareOnly.description": "Чи повинні частинки з’являтися лише на рідкісних предметах.",
+
+  "lootbeams.config.particles.particleDirectionX": "Напрям частинок по X",
+  "lootbeams.config.particles.particleDirectionX.description": "Напрям частинок за віссю X.",
+
+  "lootbeams.config.particles.particleDirectionY": "Напрям частинок по Y",
+  "lootbeams.config.particles.particleDirectionY.description": "Напрям частинок за віссю Y.",
+
+  "lootbeams.config.particles.particleDirectionZ": "Напрям частинок по Z",
+  "lootbeams.config.particles.particleDirectionZ.description": "Напрям частинок за віссю Z.",
+
+  "lootbeams.config.particles.spinAroundBeam": "Кружляння навколо променя",
+  "lootbeams.config.particles.spinAroundBeam.description": "Чи повинні частинки кружляти навколо променя.",
+
+  "lootbeams.config.particles.trails": "Хвости",
+  "lootbeams.config.particles.trails.description": "Чи повинні частинки залишати за собою хвіст.",
+
+  "lootbeams.config.particles.trailParticlesInvisible": "Невидимість частинок з хвостом",
+  "lootbeams.config.particles.trailParticlesInvisible.description": "Чи повинні частинки з хвостом бути невидимими.",
+
+  "lootbeams.config.particles.trailUseScale": "Використання масштабування хвоста",
+  "lootbeams.config.particles.trailUseScale.description": "Чи повинні хвости використовувати масштабування по Y.",
+
+  "lootbeams.config.particles.trailScaleHeightEqualsBeamHeight": "Еквівалентність масштабу висоти хвоста із висотою променя",
+  "lootbeams.config.particles.trailScaleHeightEqualsBeamHeight.description": "Чи повинен масштаб висоти хвоста бути еквівалентним до висоти променя.",
+
+  "lootbeams.config.particles.trailScaleHeight": "Масштаб висоти хвоста",
+  "lootbeams.config.particles.trailScaleHeight.description": "Яку висоту повинен мати хвіст, якщо застосовується масштабування та не застосовується еквівалентність до виости променя.",
+
+  "lootbeams.config.particles.trailChance": "Шанс хвоста",
+  "lootbeams.config.particles.trailChance.description": "Шанс появи у частинки хвоста.",
+
+  "lootbeams.config.particles.trailWidth": "Ширина хвоста",
+  "lootbeams.config.particles.trailWidth.description": "Ширина хвоста",
+
+  "lootbeams.config.particles.trailLength": "Дожина хвоста",
+  "lootbeams.config.particles.trailLength.description": "Дожина хвоста.",
+
+  "lootbeams.config.particles.trailFrequency": "Частота хвоста",
+  "lootbeams.config.particles.trailFrequency.description": "Частота хвоста. Максимальне значення визначається довжиною. Чим менша частота, тим гладкіший хвіст.",
+
+
+  "lootbeams.config.items": "ПредметиПредмети",
+
+  "lootbeams.config.items.itemsGlow": "Світіння предметів",
+  "lootbeams.config.items.itemsGlow.description": "Чи повинні предмети видавати світіння.",
+
+  "lootbeams.config.items.allItems": "Усі предмети",
+  "lootbeams.config.items.allItems.description": "Чи повинні всі предмети мати промені.\n Має пріоритет над only_equipment і only_rare.",
+
+  "lootbeams.config.items.onlyRare": "Тільки рідкісні",
+  "lootbeams.config.items.onlyRare.description": "Чи повинні промені відображатися тільки у предметів з рідкістю.",
+
+  "lootbeams.config.items.onlyEquipment": "Тільки спорядження",
+  "lootbeams.config.items.onlyEquipment.description": "Чи повинні промені відображатися тільки на обладунках.\n (Сюди входять: мечі, інструменти, обладунки, щити, луки, арбалети, тризуби, стріли, і вудки)",
+
+  "lootbeams.config.items.whitelist": "Білий список",
+  "lootbeams.config.items.whitelist.description": "Ім’я в регістрі предметів, на яких промені будуть завжди.\n Наприклад: \"minecraft:stone\", \"minecraft:iron_ingot\", \nМожна так само вказати Mod Id для включення всіх предметів з мода.",
+
+  "lootbeams.config.items.blacklist": "Чорний список",
+  "lootbeams.config.items.blacklist.description": "Ім’я в Регістрі предметів, на яких Loot Beams НЕ БУДЕ рендеритися. Володіє пріоритетом взагалі на все.\nМожна так само вказати Mod Id для включення всіх предметів з мода.",
+
+  "lootbeams.config.items.colorOverrides": "Перевизначення кольорів",
+  "lootbeams.config.items.colorOverrides.description": "Перевизначає колір променя предмета за допомогою hex.\n Має відповідати певному формату: (registryname=hexcolor) або (#tagname=hexcolor).\nПриклади: \"minecraft:stone=#00FF00\", \"#minecraft:piglin_loved=gold\". Також підтримуються modid",
+
+
+  "lootbeams.config.nametags": "Теги предметів",
+
+  "lootbeams.config.nametags.advancedTooltips": "Покращені підказки",
+  "lootbeams.config.nametags.advancedTooltips.description": "Чи повинні ванільні підказки рендеритися на предметах у світі.",
+
+  "lootbeams.config.nametags.itemFrameTooltips": "Підказки у рамці для предметів",
+  "lootbeams.config.nametags.itemFrameTooltips.description": "Чи повинні ванільні підказки рендеритися у рамках для предметів (тільки для предметів зі зміненим ім’ям).",
+
+  "lootbeams.config.nametags.worldspaceTooltips": "Підказки у просторі світу",
+  "lootbeams.config.nametags.worldspaceTooltips.description": "Чи повинні підказки рендеритися у світі.",
+
+  "lootbeams.config.nametags.renderTooltipsInThirdPersonView": "Рендерити підказки у перегляді від 3-ї особи",
+  "lootbeams.config.nametags.renderTooltipsInThirdPersonView.description": "Чи повинні підказки рендеритися в інших режимах перегляду",
 
   "lootbeams.config.nametags.borders": "Краї",
-  "lootbeams.config.nametags.borders.description": "Відображати теги з краями. У разі вимкнення теги будуть малюватися суцільним фоном як імена гравців.",
+  "lootbeams.config.nametags.borders.description": "Відображати назви з краями. У разі вимкнення назви будуть малюватися суцільним фоном як імена гравців.",
 
-  "lootbeams.config.nametags.render": "Відображати теги",
-  "lootbeams.config.nametags.render.description": "Відповідає за те, чи варто їх відмальовувати.",
+  "lootbeams.config.nametags.renderNametags": "Відображати назви",
+  "lootbeams.config.nametags.renderNametags.description": "Відповідає за те, чи варто промальовувати назви.",
 
-  "lootbeams.config.nametags.renderOnlook": "Відображати Теги під час погляду",
-  "lootbeams.config.nametags.renderOnlook.description": "У разі ввімкнення теги з’являтимуться тільки під час наведення на предмет.",
+  "lootbeams.config.nametags.renderNametagsOnlook": "Відображати назву під поглядом",
+  "lootbeams.config.nametags.renderNametagsOnlook.description": "Чи варто ренедрити назву при погляді на предмет.",
 
-  "lootbeams.config.nametags.renderStackCount": "Відображати Кількість",
-  "lootbeams.config.nametags.renderStackCount.description": "Відображає кількість викинутого предмета в Тезі.",
+  "lootbeams.config.nametags.renderItemRarity": "Рендерити рідкість предмета",
+  "lootbeams.config.nametags.renderItemRarity.description": "Чи повинна взагалі рендеритися рідкість предмета.",
 
-  "lootbeams.config.nametags.lookSensitivity": "Чутливість наведення",
-  "lootbeams.config.nametags.lookSensitivity.description": "Як далеко може гравець відвести приціл і все ще бачити Тег",
+  "lootbeams.config.nametags.renderItemRarityInTooltip": "Рендерити рідкість предмета у підказці",
+  "lootbeams.config.nametags.renderItemRarityInTooltip.description": "Чи повинна рендеритися рідкість предмета у його підказці.",
 
-  "lootbeams.config.nametags.textAlpha": "Альфа Тексту",
-  "lootbeams.config.nametags.textAlpha.description": "Прозорість тексту у Тега",
+  "lootbeams.config.nametags.renderStackcount": "Відображати кількість",
+  "lootbeams.config.nametags.renderStackcount.description": "Чи варто показувати кількість предмета в назві.",
 
-  "lootbeams.config.nametags.backgroundAlpha": "Альфа Фону",
-  "lootbeams.config.nametags.backgroundAlpha.description": "Прозорість фону/країв у Тега.",
+  "lootbeams.config.nametags.nametagLookSensitivity": "Чутливість наведення",
+  "lootbeams.config.nametags.nametagLookSensitivity.description": "Наскільки близько гравець повинен бути до предмета, щоб побачити назву.",
 
-  "lootbeams.config.nametags.scale": "Масштаб Тега",
-  "lootbeams.config.nametags.scale.description": "Відповідає за розмір Тега на екрані.",
+  "lootbeams.config.nametags.nametagTextAlpha": "Альфа тексту",
+  "lootbeams.config.nametags.nametagTextAlpha.description": "Прозорість тексту назви.",
 
-  "lootbeams.config.nametags.yOffset": "Відступ по Y у тега",
-  "lootbeams.config.nametags.yOffset.description": "Відступ по Y у тега.",
+  "lootbeams.config.nametags.nametagBackgroundAlpha": "Альфа фону назви",
+  "lootbeams.config.nametags.nametagBackgroundAlpha.description": "Прозорість фону/країв назви.",
 
-  "lootbeams.config.nametags.dmcLootCompat.rarities": "Підтримка рідкостей DMCLoot",
-  "lootbeams.config.nametags.dmcLootCompat.rarities.description": "Відмальовувати дрібніший тег рідкості під преметами з рідкістю DMCLoot.",
+  "lootbeams.config.nametags.nametagScale": "Розмір назви",
+  "lootbeams.config.nametags.nametagScale.description": "Розмір назви.",
 
-  "lootbeams.config.nametags.rarities": "Свої рідкості",
-  "lootbeams.config.nametags.rarities.description": "Можна вказати, які рідкості повинні відображатися. \nExample: \"Екзотичний\", \"Стародавній\". \nЦі рядки повинні бути другим рядком у предмета при наведенні в інвентарі. \nВ основному використовується в модпаках.",
+  "lootbeams.config.nametags.nametagYOffset": "Відступ по Y назви",
+  "lootbeams.config.nametags.nametagYOffset.description": "Відступ по Y для назви.",
 
-  "lootbeams.config.nametags.alwaysDrawRarities": "Відображати рідкості",
-  "lootbeams.config.nametags.alwaysDrawRarities.description": "Можна вказати предмети, на яких рідкості повинні відображатися завжди. \nНаприклад: \"#minecraft:music_discs\" відображатиме маленьким тегом автори та ім’я треку. \nЗверніть увагу, що цей текст є тільки другим рядком лінії під ім’ям предмета, тож це не спрацює з відображенням усіх зачарувань. (але 1 зачарування виглядає добре)",
+  "lootbeams.config.nametags.dmclootCompatRarity": "Підтримка рідкостей DMCLoot",
+  "lootbeams.config.nametags.dmclootCompatRarity.description": "Відмальовувати дрібнішу назву рідкості під преметами з рідкістю DMCLoot.",
+
+  "lootbeams.config.nametags.customRarities": "Користувацькі рідкості",
+  "lootbeams.config.nametags.customRarities.description": "Визначає, на яких предметах має відображатися дрібна назва рідкості. \nПриклад: \"Exotic\", \"Ancient\". \nЦі рядки повинні бути другим рядком у предмета при наведенні в інвентарі. \nВ основному використовується в модпаках.",
+
+  "lootbeams.config.nametags.alwaysDrawRaritiesOn": "Відображати підказку",
+  "lootbeams.config.nametags.alwaysDrawRaritiesOn.description": "Визначає, на яких предметах має відображатися дрібна підказка. \nПриклад: \"#minecraft:music_discs\" відображатиме назву пісні як менший тег. \nЗауважте, що відображений текст є рядком підказки нижче назви, тому він не буде добре працювати з кількома зачаруваннями (хоча одне зачарування виглядає дуже добре)",
 
   "lootbeams.config.nametags.whiteRarities": "Білі рідкості",
-  "lootbeams.config.nametags.whiteRarities.description": "Чи повинні рідкості ігнорувати свій колір і відображатися білими \n(В основному використовується в модпаках)"
+  "lootbeams.config.nametags.whiteRarities.description": "Чи повинні рідкості ігнорувати свій колір і відображатися білими \n(В основному використовується в модпаках)",
+
+  "lootbeams.config.nametags.vanillaRarities": "Ванільні рідкості",
+  "lootbeams.config.nametags.vanillaRarities.description": "Чи повинні рендеритися ванільні рідкості.",
+
+  "lootbeams.config.nametags.screenTooltipsRequireCrouch": "Екран підказок потребує присідання",
+  "lootbeams.config.nametags.screenTooltipsRequireCrouch.description": "Чи треба потребувати присідання для відображення розширених покращених підказок.",
+
+  "lootbeams.config.nametags.combineNameAndRarity": "Комбінувати назву та рідкість",
+  "lootbeams.config.nametags.combineNameAndRarity.description": "Чи повинні рідкість та назва об’єднуватися в одну підказву.",
+
+
+  "lootbeams.screen.presets.title": "Менеджер пресетів Loot Beams",
+  "lootbeams.screen.presets.presetNameTextField": "Назва пресету",
+  "lootbeams.screen.presets.button.save": "Зберегти премет",
+  "lootbeams.screen.presets.button.load": "Завантажити пресет",
+  "lootbeams.screen.presets.button.cancel": "Скасувати",
+
+
+  "lootbeams.notification.savePreset.text": "Збережено пресет [%s].",
+  "lootbeams.notification.savePreset.notEnteredPresetName": "Не введено назву пресету.",
+  "lootbeams.notification.loadPreset.text": "Завантажено пресет [%s].",
+
+
+  "lootbeams.keybindings.savePreset": "Завантажити пресет",
+
+
+  "lootbeams.rarity.common": "Звичайний",
+  "lootbeams.rarity.uncommon": "Незвичайний",
+  "lootbeams.rarity.rare": "Рідкісний",
+  "lootbeams.rarity.epic": "Епічний"
 }
