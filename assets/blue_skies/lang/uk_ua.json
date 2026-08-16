@@ -807,8 +807,8 @@
   "trim_pattern.blue_skies.regrowth": "Орнамент обладунків «Відростання»",
   "trim_pattern.blue_skies.toxic": "Орнамент обладунків «Токсичність»",
 
-  "trim_material.blue_skies.moonstone": "Місячнокам’яний матеріал",
-  "trim_material.blue_skies.sunstone": "Сонячнокам’яний матеріал",
+  "trim_material.blue_skies.moonstone": "Місячнокам'яний матеріал",
+  "trim_material.blue_skies.sunstone": "Сонячнокам'яний матеріал",
   "trim_material.blue_skies.ventium": "Вентієвий матеріал",
   "trim_material.blue_skies.horizonite": "Горизонітовий матеріал",
   "trim_material.blue_skies.falsite": "Фальзитовий матеріал",
@@ -1302,7 +1302,7 @@
   "toasts.blue_skies.unlock_journal_entry_no_book.desc": "Отримайте синій журнал у вартового!",
 
   "toasts.blue_skies.boss_room_death": "Ви загинули в бою!",
-  "toasts.blue_skies.boss_room_death.desc": "Ваші предмети збережені у кам’яному ключі.",
+  "toasts.blue_skies.boss_room_death.desc": "Ваші предмети збережені у кам'яному ключі.",
 
   "tile.keystone.requires_keys": "Потрібно 4 ключі підземелля, щоб увійти.",
   "tile.keystone.remove_key_requirement": "Вам більше не потрібні ключі для телепортації.",

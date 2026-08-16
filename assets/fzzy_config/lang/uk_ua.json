@@ -39,7 +39,7 @@
   "fc.validated_field.expression.paren.tip": "Дужки\ndодає набір дужок",
   "fc.validated_field.expression.incr.tip": "Округлення до кроку\nокруглює задане значення до найближчого нижчого кратного заданого кроку.\nincr(1.16, 0.1) округлить до 1.1",
   "fc.validated_field.expression.ciel.tip": "Стеля\noкруглює задане значення вгору (до додатної нескінченності)",
-  "fc.validated_field.expression.flr.tip": "Підлога\noкруглює задане значення вниз (до від’ємної нескінченності)",
+  "fc.validated_field.expression.flr.tip": "Підлога\noкруглює задане значення вниз (до від'ємної нескінченності)",
   "fc.validated_field.expression.rnd.tip": "Округлення\nокруглює задане значення до найближчого цілого числа.\nУ разі рівності округлює до парного числа.",
   "fc.validated_field.expression.plus.tip": "Плюс\nadds додає значення зліва і справа",
   "fc.validated_field.expression.minus.tip": "Мінус\nsubtracts віднімає значення справа від значення зліва",

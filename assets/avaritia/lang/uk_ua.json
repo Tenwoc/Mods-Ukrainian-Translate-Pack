@@ -247,7 +247,7 @@
   "direction.avaritia.west": "захід",
 
   "effect.avaritia.burning": "Горіння",
-  "effect.avaritia.burning.description": "Кожні 20 тактів (1 секунда) завдає шкоди від вогню, що дорівнює 5% від максимального запасу здоров’я.\n\nЦей дебаф змушує істоту втрачати здоров’я, і його дію можна послабити лише водою або сипким снігом.\n\nЕфект втрати здоров'я схожий на дію ефектів Висушення або Отруєння.",
+  "effect.avaritia.burning.description": "Кожні 20 тактів (1 секунда) завдає шкоди від вогню, що дорівнює 5% від максимального запасу здоров'я.\n\nЦей дебаф змушує істоту втрачати здоров'я, і його дію можна послабити лише водою або сипким снігом.\n\nЕфект втрати здоров'я схожий на дію ефектів Висушення або Отруєння.",
 
   "emi.category.avaritia.compressor": "Нейтронієвий компресор",
   "emi.category.avaritia.end_crafting_table": "Майстрування Енду",
@@ -411,7 +411,7 @@
   "jei.tooltip.avaritia.full_matter_cluster": "Щоб створити, використайте внутрішнє скупчення матерії із 4096 предметами",
   "jei.tooltip.avaritia.neutron_collector": "Збирає купки нейтронів",
   "jei.tooltip.avaritia.neutron_pile": "Зі збирачем нейтронів ви зможете отримати купку нейтронів за деякий час",
-  "jei.tooltip.avaritia.refined_coal": "Можна отримати, рублячи колоди сокирою буйного полум’я",
+  "jei.tooltip.avaritia.refined_coal": "Можна отримати, рублячи колоди сокирою буйного полум'я",
   "jei.tooltip.shapeless.recipe": "Безформний рецепт",
 
   "key.avaritia.categories": "Прив’язки клавіш Avaritia",
@@ -433,7 +433,7 @@
   "singularity.avaritia.diamond": "Діамантова",
   "singularity.avaritia.electrum": "Електрумова",
   "singularity.avaritia.emerald": "Смарагдова",
-  "singularity.avaritia.glowstone": "Світлокам’яна",
+  "singularity.avaritia.glowstone": "Світлокам'яна",
   "singularity.avaritia.gold": "Золота",
   "singularity.avaritia.invar": "Інварна",
   "singularity.avaritia.iron": "Залізна",
@@ -449,7 +449,7 @@
   "singularity.avaritia.refined_obsidian": "Очищена обсидіанова",
   "singularity.avaritia.silver": "Срібна",
   "singularity.avaritia.steel": "Сталева",
-  "singularity.avaritia.tin": "Олов’яна",
+  "singularity.avaritia.tin": "Олов'яна",
   "singularity.avaritia.titanium": "Тинанова",
   "singularity.avaritia.uranium": "Уранова",
   "singularity.avaritia.zinc": "Цинкова",

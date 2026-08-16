@@ -100,14 +100,14 @@
   "misc.refinedstorage.storage.stored_minimal": "%s",
   "misc.refinedstorage.storage.stored_capacity_minimal": "%s / %s",
   "misc.refinedstorage.storage.full": "Заповнено на %d%%",
-  "misc.refinedstorage.network_item.tooltip": "Пов’язаний із %d, %d, %d.",
+  "misc.refinedstorage.network_item.tooltip": "Пов'язаний із %d, %d, %d.",
   "misc.refinedstorage.network_item.out_of_range": "У зоні дії немає бездротового передавача.",
   "misc.refinedstorage.network_item.not_found": "Контролер не знайдено.",
   "misc.refinedstorage.network_item.shortcut_not_found": "У вашому інвентарі немає жодного %s.",
   "misc.refinedstorage.network_item.shortcut_duplicate": "У вашому інвентарі є більше одного %s.",
   "misc.refinedstorage.network_item.out_of_energy": "У '%s' недостатньо енергії.",
 
-  "misc.refinedstorage.network_card.tooltip": "Пов’язана з %d, %d, %d у %s.",
+  "misc.refinedstorage.network_card.tooltip": "Пов'язана з %d, %d, %d у %s.",
 
   "misc.refinedstorage.pattern.inputs": "На вході:",
   "misc.refinedstorage.pattern.outputs": "На виході:",

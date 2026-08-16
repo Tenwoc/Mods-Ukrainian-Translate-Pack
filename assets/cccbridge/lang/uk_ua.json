@@ -15,7 +15,7 @@
   "cccbridge.tooltip.peripheral": "Peripheral v{0}",
   "cccbridge.tooltip.no_peripheral": "&oНе має Peripheral",
 
-  "cccbridge.display_source.source_block_display_source": "Наведені дані з комп’ютера",
+  "cccbridge.display_source.source_block_display_source": "Наведені дані з комп'ютера",
 
   "cccbridge.general.unit.scroller": "Число Луа",
   "cccbridge.general.unit.scroller.positive": "Ч. Луа +",

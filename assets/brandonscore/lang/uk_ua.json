@@ -17,7 +17,7 @@
   "gui_tkt.brandonscore.your_inventory": "Інвентар",
   "hud.brandonscore.block_hud.info": "Відображає інформацію про певні драконічні блоки, коли ви дивитеся на них.\nУсталено вимкнено",
   "hud.brandonscore.block_hud.name": "Відображення інформації про блок",
-  "hud.brandonscore.block_item_hud.info": "Об’єднує для зручності відображення інформації про предмет та інформацію про блок в одне ціле.",
+  "hud.brandonscore.block_item_hud.info": "Об'єднує для зручності відображення інформації про предмет та інформацію про блок в одне ціле.",
   "hud.brandonscore.block_item_hud.name": "Комбіноване відображення блоків та предметів",
   "hud.brandonscore.item_hud.info": "Відображає інформацію про певні драконічні предмети, коли ви тримаєте їх у руках.\nУсталено вимкнено",
   "hud.brandonscore.item_hud.name": "Відображення інформації про предмет",

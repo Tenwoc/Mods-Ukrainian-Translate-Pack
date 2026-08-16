@@ -14,7 +14,7 @@
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.condition4": "Клацніть ПКМ по катедрі",
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.behaviour4": "Поміщає контролер на катедру для зручності використання. (клацніть ПКМ крадькома, щоб повернути його)",
     
-    "create_tweaked_controllers.tweaked_linked_controller.bind_mode": "Режим прив’язки активовано",
+    "create_tweaked_controllers.tweaked_linked_controller.bind_mode": "Режим прив'язки активовано",
     "create_tweaked_controllers.tweaked_linked_controller.press_keybind": "Натисніть будь-яку кнопку геймпада або перемістіть вісь, щоб прив’язати її",
     "create_tweaked_controllers.tweaked_linked_controller.key_bound": "Прив’язка до частоти %1$s",
     "create_tweaked_controllers.tweaked_linked_controller.frequency_slot_1": "Клавіша: %1$s, частота #1",

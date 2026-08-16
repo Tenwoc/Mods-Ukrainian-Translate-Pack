@@ -35,7 +35,7 @@
   "effect.minecraft.nausea.description": "Коливає і спотворює екран.",
   "effect.minecraft.night_vision.description": "Покращує зір у темних місцях і під водою.",
   "effect.minecraft.poison.description": "Завдає нелетальної шкоди з часом; вищі рівні завдають більше шкоди за секунду. Не впливає на неживих.",
-  "effect.minecraft.regeneration.description": "Відновлює здоров’я з часом; вищі рівні прискорюють відновлення здоров'я.",
+  "effect.minecraft.regeneration.description": "Відновлює здоров'я з часом; вищі рівні прискорюють відновлення здоров'я.",
   "effect.minecraft.resistance.description": "Забезпечує 20% зменшення шкоди за рівень.",
   "effect.minecraft.saturation.description": "Відновлює голод і ситість.",
   "effect.minecraft.slow_falling.description": "Зменшує швидкість падіння і нівелює шкоду від падіння.",
@@ -117,7 +117,7 @@
   "effect.dungeons_gear.stunned.description": "Оглушує об'єкт, викликаючи нудоту і сповільнюючи його рух. Вищі рівні збільшують шанс оглушення.",
   "effect.dungeons_gear.party_starter.description": "Близькі атаки змушують сутності вибухати.",
   "effect.dungeons_gear.dynamo.description": "Збільшує шкоду при наступній атаці, вищі рівні збільшують посилення шкоду.",
-  "effect.dungeons_gear.life_steal.description": "Краде здоров’я у вбитих сутностей, вищі рівні збільшують кількість вкраденого здоров'я.",
+  "effect.dungeons_gear.life_steal.description": "Краде здоров'я у вбитих сутностей, вищі рівні збільшують кількість вкраденого здоров'я.",
   "effect.dungeons_gear.bow_charge.description": "Наступна атака на відстані автоматично буде повністю заряджена.",
 
   "effect.eidolon.anchored.description": "Запобігає телепортації ураженої істоти певними ефектами.",
@@ -240,6 +240,6 @@
   "effect.mynethersdelight.b_pungent.description": "Завдає шкоди від вогню, коли знаходиться поблизу джерела тепла. Замість цього лікує, якщо ви також маєте стійкість до вогню.",
   "effect.mynethersdelight.g_pungent.description": "Зцілює від джерел тепла в поєднанні з вогнестійкістю. Завдає шкоди без неї.",
   "effect.enigmaticlegacy.growing_hunger.description": "Згодом виснажує голод, але надає збільшену шкоду та крадіжку життя.",
-  "effect.enigmaticlegacy.growing_bloodlust.description": "Згодом виснажує здоров’я, але надає збільшену шкоду та крадіжку життя. Застосовується тільки якщо носій прокляття з'їв заборонений плід.",
+  "effect.enigmaticlegacy.growing_bloodlust.description": "Згодом виснажує здоров'я, але надає збільшену шкоду та крадіжку життя. Застосовується тільки якщо носій прокляття з'їв заборонений плід.",
   "effect.mowziesmobs.sunblock.description": "Умвутана захищають свого вождя! Зупиніть їх, перш ніж вони вас переможуть!"
 }

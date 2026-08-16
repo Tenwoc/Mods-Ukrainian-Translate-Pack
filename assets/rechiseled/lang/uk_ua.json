@@ -1,11 +1,11 @@
 {
   "rechiseled.item_group": "Rechiseled",
   "rechiseled": "Rechiseled",
-  "rechiseled.tooltip.connecting": "З’єднується",
+  "rechiseled.tooltip.connecting": "З'єднується",
   "rechiseled.chiseling.preview.mode_0": "Перегляд 1 на 1",
   "rechiseled.chiseling.preview.mode_1": "Перегляд 3 на 1",
   "rechiseled.chiseling.preview.mode_2": "Перегляд 3 на 3",
-  "rechiseled.chiseling.connecting": "З’єднані текстури: %s",
+  "rechiseled.chiseling.connecting": "З'єднані текстури: %s",
   "rechiseled.chiseling.connecting.on": "Ввімк",
   "rechiseled.chiseling.connecting.off": "Вимк",
   "rechiseled.chiseling.chisel_all": "Висікти все",

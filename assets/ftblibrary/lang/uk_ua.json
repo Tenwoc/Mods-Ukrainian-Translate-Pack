@@ -46,7 +46,7 @@
   "ftblibrary.select_item.count": "Установити розмір",
   "ftblibrary.select_item.nbt": "Редагувати NBT\n§7Лівий клік: швидкий редактор рядків\n§7Правий клік: інтерактивний редактор NBT",
   "ftblibrary.select_item.caps": "Редагувати можливості",
-  "ftblibrary.select_item.display_name": "Встановити зображуване ім’я",
+  "ftblibrary.select_item.display_name": "Встановити зображуване ім'я",
   "ftblibrary.select_image.scanning": "Сканування зображень: це може зайняти кілька секунд…",
   "ftblibrary.select_image.rescan": "Пересканувати зображення",
   "ftblibrary.select_image.all_images": "Всі зображення",

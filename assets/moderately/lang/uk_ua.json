@@ -58,7 +58,7 @@
 
   "effect.biomemakeover.nocturnal.description": "Запобігає появі фантомів на користувачі.",
   "effect.biomemakeover.antidote.description": "Видаляє всі негативні ефекти статусу і видаляє Стром-порошок з немовлят.",
-  "effect.biomemakeover.shocked.description": "Зменшує максимальне здоров'я на одне серце за кожен рівень ефекту до 4.",
+  "effect.biomemakeover.shocked.description": "Зменшує максимальне здоров’я на одне серце за кожен рівень ефекту до 4.",
   "effect.biomemakeover.possessed.description": "Взаємодіє з дверима, кнопками, люками, важелями, нотними блоками, хвіртками та дзвонами в радіусі 2 блоків від цілі.",
 
   "effect.sculkybits.sculk.description": "Зменшує швидкість руху та збільшує отримувану шкоду. Завдає шкоди в кінці ефекту.",
@@ -156,7 +156,7 @@
 
   "effect.wandering_bags.echolocation.description": "Надає здатність періодично бачити сутності поблизу, як ніби вони мають ефект світіння.",
   "effect.wandering_bags.poison_immunity.description": "Позбавляє від ефекту Отруєння і запобігає його отриманню.",
-  "effect.wandering_bags.life_flavor.description": "Зменшує шкалу голоду замість шкали здоров’я при отриманні шкоди. Коли шкала голоду вичерпана, замість неї шкоду отримує шкала здоров'я.",
+  "effect.wandering_bags.life_flavor.description": "Зменшує шкалу голоду замість шкали здоров'я при отриманні шкоди. Коли шкала голоду вичерпана, замість неї шкоду отримує шкала здоров'я.",
   "effect.wandering_bags.maturity.description": "Миттєво вирощує мобів-дитинчат. Не впливає на гравців.",
 
   "effect.extrapotions.knockback_resistance.description": "Надає 0,15 очок стійкості до відкидання за рівень.",
@@ -361,8 +361,8 @@
   "effect.born_in_chaos_v1.gaze_of_terror.description": "Сліпить і не дає змогу цілі використовувати певну магію.",
   "effect.born_in_chaos_v1.detonation.description": "Ніколи не змішуйте демонів з динамітом… (Вибухає ціль в кінці дії ефекту)",
   "effect.born_in_chaos_v1.bone_fracture.description": "Уповільнює і послаблює ціль. Зникає, коли ціль має ефект «Регенерація».",
-  "effect.born_in_chaos_v1.rotten_smell.description": "Комарі будуть літати навколо і трохи затуляти огляд. Приблизно кожні 25 секунд поблизу з’являється муха труп, але якщо ціль знаходиться у воді, замість неї з'являється риба труп.",
-  "effect.born_in_chaos_v1.myiasis.description": "Завдає шкоди з часом, поки здоров’я цілі не стане нижче 17 одиниць. В кінці ефекту з гравця з'явиться личинка. Ефект зникає при вході у воду.",
+  "effect.born_in_chaos_v1.rotten_smell.description": "Комарі будуть літати навколо і трохи затуляти огляд. Приблизно кожні 25 секунд поблизу з'являється муха труп, але якщо ціль знаходиться у воді, замість неї з'являється риба труп.",
+  "effect.born_in_chaos_v1.myiasis.description": "Завдає шкоди з часом, поки здоров'я цілі не стане нижче 17 одиниць. В кінці ефекту з гравця з'явиться личинка. Ефект зникає при вході у воду.",
   "effect.born_in_chaos_v1.infernal_flame.description": "Завдає шкоди з часом. (3 одиниці шкоди кожні 2 секунди)",
   "effect.born_in_chaos_v1.living_bomb.description": "Я думаю, ви достатньо розумні, щоб самостійно розібратися в цьому…",
   "effect.born_in_chaos_v1.unity_with_darkness.description": "Збільшує швидкість руху та шкоду від атак.",
@@ -402,7 +402,7 @@
   "effect.mahoutsukai.reversion_eyes.description": "Змушує сутності в полі зору цілі втрачати буфи та унікальні якості.",
   "effect.mahoutsukai.reverted.description": "Змушує ціль втрачати буфи та унікальні якості, перебуваючи в полі зору сутності з ефектом «Очі реверсії».",
   "effect.mahoutsukai.fay_sight_eyes.description": "Надає здатність бачити лей-лінії та фей.",
-  "effect.mahoutsukai.black_flame_eyes.description": "Змушує чорні полум’я охопити місце, на яке дивиться ціль. Полум'я не поглинає блоки, але завдає шкоди Висушенням і ефектом Горіння.",
+  "effect.mahoutsukai.black_flame_eyes.description": "Змушує чорні полум'я охопити місце, на яке дивиться ціль. Полум'я не поглинає блоки, але завдає шкоди Висушенням і ефектом Горіння.",
   "effect.mahoutsukai.black_burning.description": "Завдає шкоди з часом.",
   "effect.mahoutsukai.clairvoyance_eyes.description": "Надає здатність бачити передбачуваний шлях мобів.",
   "effect.mahoutsukai.death_collection_eyes.description": "Ціль збирає душі, побачивши смерть (повинна дивитися на неї). Якщо ціль зібрала достатньо душ, її смерть буде запобігана в обмін на душі.",
@@ -492,7 +492,7 @@
   "effect.brewery.harddrinking": "Важке пияцтво",
   "effect.brewery.harddrinking.description": "Надає цілі імунітет до алкоголю. Звучить як мрія!",
   "effect.brewery.drunk.description": "Ви п'яні.",
-  "effect.brewery.blackout.description": "Ви повністю п’яні. Ви опиняєтеся в якомусь місці і не пам'ятаєте, як туди потрапили… (Випадково телепортує ціль до найближчого місця, коли ефект закінчується через 5 секунд)",
+  "effect.brewery.blackout.description": "Ви повністю п'яні. Ви опиняєтеся в якомусь місці і не пам'ятаєте, як туди потрапили… (Випадково телепортує ціль до найближчого місця, коли ефект закінчується через 5 секунд)",
   "effect.brewery.pintcharisma.description": "Надає цілі 10% знижку на торгівлю з селянами.",
   "effect.brewery.partystarter.description": "Готові розпочати вечірку? Випускає частинки феєрверку і завдає невеликої шкоди, коли ціль влучає в сутності.",
   "effect.brewery.snowwhite.description": "Тварини збігаються до цілі, зачаровані її присутністю.",

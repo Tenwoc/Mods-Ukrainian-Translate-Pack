@@ -138,7 +138,7 @@
   "tooltip.cognition.precision_dispeller.enchantment": "§7Надає %s §7рівнів / %s §7досвіду",
   "tooltip.cognition.precision_dispeller.insufficient_xp": "§6Недостатньо досвіду!",
 
-  "tooltip.cognition.molecular_metamorpher.bound": "Прив’язаний обеліск",
+  "tooltip.cognition.molecular_metamorpher.bound": "Прив'язаний обеліск",
   "tooltip.cognition.molecular_metamorpher.xp": "%s §7досвіду",
   "tooltip.cognition.molecular_metamorpher.has_contents": "§7Має вміст усередині!",
   "tooltip.cognition.molecular_metamorpher.options.lock": "§cЗаблокувати §rвхідні слоти…",
@@ -181,7 +181,7 @@
   "message.cognition.experience_fountain.hyper": "Фонтан досвіду встановлено на: §bгіпершвидкий§r",
 
   "message.cognition.memory_tablet.link": "§a[✔]§r Успішно прив’язано до %s",
-  "message.cognition.memory_tablet.unlink": "§a[✔]§r Успішно від'єднано від %s",
+  "message.cognition.memory_tablet.unlink": "§a[✔]§r Успішно від’єднано від %s",
   "message.cognition.memory_tablet.obelisk_in_use": "§c[✖]§f Інший гравець використовує цей обеліск",
   "message.cognition.memory_tablet.query": "§b[ⓘ]§r Ви зараз зв’язані з %s (%s)",
   "message.cognition.memory_tablet.query_fail": "§b[ⓘ]§r Ви ще не зв’язані з жодним обеліском",
@@ -198,8 +198,8 @@
   "sounds.cognition.flask_empty_water": "Фляга спорожнюється",
   "sounds.cognition.flask_fill_void": "Фляга поглинає",
   "sounds.cognition.fluorescent_agar_infect": "Агар конвертується",
-  "sounds.cognition.memory_tablet_link": "Планшет пам’яті зв’язано",
-  "sounds.cognition.memory_tablet_unlink": "Планшет пам’яті від'єднано",
+  "sounds.cognition.memory_tablet_link": "Планшет пам'яті зв'язано",
+  "sounds.cognition.memory_tablet_unlink": "Планшет пам'яті від'єднано",
 
   "============ ADVANCEMENTS ===================": "=====================",
 
@@ -215,9 +215,9 @@
   "jei.cognition.infecting.tooltip": "Зараження за допомогою §aбібліофагів§r або\nрозміщення поряд із §aзараженими блоками§r",
   "jei.cognition.infecting.tooltip_count": "Вимагає §a%s§r заражень",
   "jei.cognition.filling.title": "Заповнення",
-  "jei.cognition.filling.tooltip": "Клацніть ПКМ по §aфонтану досвіду§r\n, що зв’язаний з §aобеліском досвіду§r.\nОбеліск має мати достатньо досвіду.",
+  "jei.cognition.filling.tooltip": "Клацніть ПКМ по §aфонтану досвіду§r\n, що зв'язаний з §aобеліском досвіду§r.\nОбеліск має мати достатньо досвіду.",
   "jei.cognition.emptying.title": "Спорожнення",
-  "jei.cognition.emptying.tooltip": "Клацніть ПКМ по §aфонтану досвіду§r\n, що зв’язаний з §aобеліском досвіду§r.\nОбеліск має мати достатню простір.",
+  "jei.cognition.emptying.tooltip": "Клацніть ПКМ по §aфонтану досвіду§r\n, що зв'язаний з §aобеліском досвіду§r.\nОбеліск має мати достатню простір.",
   "jei.cognition.shared.cognitium_amount.mb": "%s §7мВ осягнію",
   "jei.cognition.shared.cognitium_amount.levels_xp": "%s §7рівнів / %s §7досвіду"
 

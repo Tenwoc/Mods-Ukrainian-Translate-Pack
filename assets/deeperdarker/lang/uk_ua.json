@@ -193,7 +193,7 @@
   "entity.deeperdarker.chest_boat": "Човен зі скринею",
   "entity.deeperdarker.fear_pot": "Горщик жаху",
   "entity.deeperdarker.sculk_centipede": "Скалкова багатоніжка",
-  "entity.deeperdarker.sculk_leech": "Скалкова п’явка",
+  "entity.deeperdarker.sculk_leech": "Скалкова п'явка",
   "entity.deeperdarker.sculk_snapper": "Скалкова кусака",
   "entity.deeperdarker.shattered": "Мученик",
   "entity.deeperdarker.shriek_worm": "Хробак-крикун",
@@ -362,11 +362,11 @@
   "tag.item.deeperdarker.sonic_weapon": "Звукова зброя",
   "tag.item.deeperdarker.transmitter": "Передавачі",
   "tooltips.deeperdarker.crystallized_amber.item": "Містить %s",
-  "tooltips.deeperdarker.crystallized_amber.leech": "Містить скалкову п’явку",
-  "tooltips.deeperdarker.sculk_transmitter.linked": "Пов’язано із %1$s",
+  "tooltips.deeperdarker.crystallized_amber.leech": "Містить скалкову п'явку",
+  "tooltips.deeperdarker.sculk_transmitter.linked": "Пов'язано із %1$s",
   "tooltips.deeperdarker.sculk_transmitter.location": "Розташовано на %1$s, %2$s, %3$s",
   "tooltips.deeperdarker.sculk_transmitter.location_level": "Вимір: %s",
-  "tooltips.deeperdarker.sculk_transmitter.not_linked": "Незв’язаний",
+  "tooltips.deeperdarker.sculk_transmitter.not_linked": "Незв'язаний",
   "upgrade.deeperdarker.resonarium_upgrade": "Резонарієве покращення",
   "upgrade.deeperdarker.warden_upgrade": "Покращення боронителя"
 }

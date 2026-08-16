@@ -106,7 +106,7 @@
   "spell.paladins.barrier.name": "Бар'єр",
   "spell.paladins.barrier.description": "Викликає круговий бар'єр, який захищає вас і союзників від снарядів, магії або ворогів, що заходять у цю зону.",
 
-  "entity.paladins.barrier": "Бар’єр",
+  "entity.paladins.barrier": "Бар'єр",
   "entity.paladins.battle_banner": "Бойовий стяг",
   "entity.minecraft.villager.monk": "Чернець",
   "entity.minecraft.villager.paladins:monk": "Чернець",

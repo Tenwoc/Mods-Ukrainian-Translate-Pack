@@ -15,7 +15,7 @@
   "item.paraglider.essence": "Сутність",
 
   "tooltip.paraglider.paraglider_broken": "Зламаний",
-  "tooltip.paraglider.heart_container.1": "Збільшує максимальний запас здоров’я на %s, до %s разів.",
+  "tooltip.paraglider.heart_container.1": "Збільшує максимальний запас здоров'я на %s, до %s разів.",
   "tooltip.paraglider.heart_container.1.hearts": "1 серце",
   "tooltip.paraglider.stamina_vessel.1": "Збільшує максимальну витривалість у %s разів.",
   "tooltip.paraglider.anti_vessel.0": "Повертає всі використані вами Сердечні Вмістилища та Ємності Витривалости.",

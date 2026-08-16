@@ -439,7 +439,7 @@
   "jukebox_song.supplementaries.pancake": "Hlzfss - Pancake Music",
 
   "leaves_type.twilightforest.dark": "Темно-деревний",
-  "leaves_type.ulterlands.souldrained": "Скам’янілий",
+  "leaves_type.ulterlands.souldrained": "Скам'янілий",
 
   "message.supplementaries.altimeter": "Y: %d",
   "message.supplementaries.cannon": "Може стріляти будь-чим",
@@ -625,7 +625,7 @@
   "tag.entity_type.supplementaries.non_angerable": "Не захоплювані у банку",
   "tag.entity_type.supplementaries.rotatable": "Обертається ключем",
   "tag.entity_type.supplementaries.tickable_when_captured": "Можна взаємодіяти у клітці",
-  "tag.entity_type.supplementaries.urn_spawn": "З’являються в урнах",
+  "tag.entity_type.supplementaries.urn_spawn": "З'являються в урнах",
 
   "tag.item.supplementaries.altimeters": "Висотоміри",
   "tag.item.supplementaries.awnings": "Тенти",
@@ -662,8 +662,8 @@
   "tag.item.supplementaries.lunch_basket_blacklist": "Чорний список кошика для обіду",
   "tag.item.supplementaries.overencumbering": "Надобтяжливе",
   "tag.item.supplementaries.pancake_syrup": "Сироп для млинців",
-  "tag.item.supplementaries.pedestal_downright": "Горизонтальні п’єдестали",
-  "tag.item.supplementaries.pedestal_upright": "Вертикальні п’єдестали",
+  "tag.item.supplementaries.pedestal_downright": "Горизонтальні п'єдестали",
+  "tag.item.supplementaries.pedestal_upright": "Вертикальні п'єдестали",
   "tag.item.supplementaries.placeable_books": "Розміщувані книги",
   "tag.item.supplementaries.presents": "Подарунки",
   "tag.item.supplementaries.quiver_blacklist": "Чорний список сагайдака",
@@ -678,7 +678,7 @@
   "tag.item.supplementaries.straw": "Солома",
   "tag.item.supplementaries.throwable_bricks": "Метальна цегла",
   "tag.item.supplementaries.throwable_slimeballs": "Метальні слизові кульки",
-  "tag.item.supplementaries.timber_frames": "Дерев’яні рами",
+  "tag.item.supplementaries.timber_frames": "Дерев'яні рами",
   "tag.item.supplementaries.trapped_presents": "Подарунки-пастки",
   "tag.item.supplementaries.wattle_and_daubs": "Мазанки",
   "tag.item.supplementaries.way_signs": "Вказівники",

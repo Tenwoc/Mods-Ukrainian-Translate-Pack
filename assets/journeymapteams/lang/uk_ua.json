@@ -44,7 +44,7 @@
   "prop.option.label.hide_allies": "Приховати союзників",
   "prop.option.label.hide_allies.tooltip": "Приховати з радара союзних гравців",
   "prop.option.label.hide_other_teams": "Приховати інші команди",
-  "prop.option.label.hide_other_teams.tooltip": "Приховати з радара гравців із непов’язаних команд",
+  "prop.option.label.hide_other_teams.tooltip": "Приховати з радара гравців із непов'язаних команд",
   "prop.option.label.hide_teamed_from_unteamed": "Приховати команди від одинаків",
   "prop.option.label.hide_teamed_from_unteamed.tooltip": "Приховати з радара гравців у команді від гравців без команди",
   "prop.option.label.ops_bypass": "Обхід приховування для оп.",

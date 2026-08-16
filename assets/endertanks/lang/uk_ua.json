@@ -6,9 +6,9 @@
     "itemGroup.endertanks": "EnderTanks",
 
     "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
-    "error.endertanks.bucket.nolink1": "Неможливо прив’язати відро, ви не є власником цього резервуара",
-    "error.endertanks.bucket.nolink2": "Неможливо прив’язати відро, власник резервуара невідомий",
-    "error.endertanks.bucket.nolink3": "Неможливо прив’язати відро, ви не в одній команді",
+    "error.endertanks.bucket.nolink1": "Неможливо прив'язати відро, ви не є власником цього резервуара",
+    "error.endertanks.bucket.nolink2": "Неможливо прив'язати відро, власник резервуара невідомий",
+    "error.endertanks.bucket.nolink3": "Неможливо прив'язати відро, ви не в одній команді",
 
     "error.endertanks.tank.public.disabled": "Публічні балони вимкнено, щоб користуватися ними, їх потрібно покращити",
     "error.endertanks.tank.private.disabled": "Створення приватних балонів вимкнено",

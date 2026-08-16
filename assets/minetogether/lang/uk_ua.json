@@ -53,8 +53,8 @@
     "minetogether:screen.settings.button.menu_buttons": "Кнопки меню: ",
     "minetogether:screen.settings.button.link": "Прив’язати акаунт",
     
-    "minetogether:linkaccount1":"Прив’яжіть свій акаунт Minecraft до акаунта MineTogether.",
-    "minetogether:linkaccount2":"Об’єднання ваших акаунтів відкриє такі можливості, як можливість встановити власний нікнейм.\n\nЦе відкриє веб-браузер для безпечного входу в систему.,",
+    "minetogether:linkaccount1":"Прив'яжіть свій акаунт Minecraft до акаунта MineTogether.",
+    "minetogether:linkaccount2":"Об'єднання ваших акаунтів відкриє такі можливості, як можливість встановити власний нікнейм.\n\nЦе відкриє веб-браузер для безпечного входу в систему.,",
     
     "minetogether:new_user.1": "Ласкаво просимо до MineTogether",
     "minetogether:new_user.2": "MineTogether - це багатокористувацький мод, який надає",
@@ -150,7 +150,7 @@
     
     "minetogether.info.e_mail":"Електронна пошта",
     "minetogether.info.password":"Пароль",
-    "minetogether.info.first_name":"Ім’я",
+    "minetogether.info.first_name":"Ім'я",
     "minetogether.info.last_name":"Прізвище",
     "minetogether.info.address":"Адреса",
     "minetogether.info.city":"Місто",
@@ -159,9 +159,9 @@
     "minetogether.info.country":"Країна",
     "minetogether.info.phone":"Номер телефону",
     
-    "minetogether.order.info1":"Щоб продовжити оформлення замовлення, будь ласка, натисніть кнопку 'Оформити замовлення' нижче.",
+    "minetogether.order.info1":"Щоб продовжити оформлення замовлення, будь ласка, натисніть кнопку 'Оформити замовлення'нижче.",
     "minetogether.order.info2":"Продовжуючи, ви погоджуєтесь з (Умовами надання послуг|https://creeper.host/tos) та (Політикою|https://creeper.host/policies) CreeperHost.",
-    "minetogether.order.info3":"Замовлення та рахунок-фактура будуть сформовані, але ви не зобов’язані їх оплачувати.",
+    "minetogether.order.info3":"Замовлення та рахунок-фактура будуть сформовані, але ви не зобов'язані їх оплачувати.",
     "minetogether.order.info4":"Вони будуть автоматично скасовані через 72 години, якщо оплата не буде отримана.",
     "minetogether.order.url":"Натисніть, щоб відкрити у веб-браузері",
     
@@ -177,9 +177,9 @@
     "minetogether.connect.open.attempting":"Спроба відкрити світ для друзів",
     "minetogether.connect.open.success":"Відкрито локальний ігровий світ для ваших друзів MineTogether.",
     "minetogether.connect.open.failed":"Не вдалося відкрити локальну гру для друзів MineTogether: %s",
-    "minetogether.connect.open.proxy.disconnect":"Втрачено з’єднання з MineTogether. Ваш світ більше не доступний для друзів.",
+    "minetogether.connect.open.proxy.disconnect":"Втрачено з'єднання з MineTogether. Ваш світ більше не доступний для друзів.",
     "minetogether.connect.join.full.descript":"FULL",
-    "minetogether.connect.join.full":"Сервер друзів MineTogether переповнений. Будь ласка, зв’яжіться з вашим другом!",
+    "minetogether.connect.join.full":"Сервер друзів MineTogether переповнений. Будь ласка, зв'яжіться з вашим другом!",
     "minetogether.connect.join.tried.name":"Ваш друг %s намагався приєднатися, але не зміг цього зробити, оскільки досягнуто ліміту гравців :(\nДля отримання додаткової інформації, будь ласка, відвідайте https://minetogether.io/full/%s",
     "minetogether.connect.join.notfriend":"Ви не можете приєднатися, оскільки ви не є друзями MineTogether з цим користувачем!",
     "minetogether.connect.unavailable":"Підключення до MineTogether недоступне: %s",

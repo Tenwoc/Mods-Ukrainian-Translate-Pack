@@ -355,7 +355,7 @@
   "text.easy_npc.container.easy_npc_spawner_entity": "Породжувач EasyNPC",
   "text.easy_npc.invalid_remote_image": "Віддалений образ недійсний або недоступний!\nПеревірте URL-адресу та спробуйте ще раз.",
   "text.easy_npc.item.easy_npc_preset": "► Клацніть ПКМ у порожньому місці, щоб породити НІПа.",
-  "text.easy_npc.item.easy_npc_preset.custom_name": "Ім’я: %s",
+  "text.easy_npc.item.easy_npc_preset.custom_name": "Ім'я: %s",
   "text.easy_npc.item.easy_npc_preset.entity_type": "Тип сутності: %s",
   "text.easy_npc.item.easy_npc_preset_empty": "► Клацніть ПКМ по НІПу, щоб зберегти його налаштування як пресет.",
   "text.easy_npc.item.easy_npc_wand": "Паличка EasyNPC - це інструмент конфігурації для Easy НІП, який полегшує вибір і конфігурацію НІП без необхідності прямого націлювання на них.",

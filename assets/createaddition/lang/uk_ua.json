@@ -7,7 +7,7 @@
 	"createaddition.tooltip.energy.usage": "Використання мережі:",
 	"createaddition.tooltip.energy.demand": "Споживання від мережі:",
 	"createaddition.tooltip.energy.supply": "Мережеве виробництво:",
-	"createaddition.tooltip.energy.selected": "Сфокусований з’єднувач:",
+	"createaddition.tooltip.energy.selected": "Сфокусований з'єднувач:",
 	"createaddition.tooltip.energy.input": "Вхід",
 	"createaddition.tooltip.energy.output": "Вихід",
 
@@ -19,7 +19,7 @@
 
 	"createaddition.tooltip.accumulator.info": "Інформація про акумулятор:",
 	"createaddition.tooltip.relay.info": "Інформація про реле:",
-	"createaddition.tooltip.connector.info": "Інформація про з’єднувач:",
+	"createaddition.tooltip.connector.info": "Інформація про з'єднувач:",
 
 	"createaddition.recipe.rolling": "Вальцювання",
 	"createaddition.recipe.rolling.sequence": "Вальцівниця",
@@ -142,7 +142,7 @@
 	"statusbar.createaddition.wire.long": "Дріт задовгий",
 	"statusbar.createaddition.wire.count": "вузол заповнений",
 	"statusbar.createaddition.wire.removed": "Дріт прибраний",
-	"statusbar.createaddition.wire.exists": "Дріт з’язок вже існує",
+	"statusbar.createaddition.wire.exists": "Дріт вже має зв’язок",
 	"statusbar.createaddition.wire.no_connection": "Дріт тут не підключений",
 	"statusbar.createaddition.wire.invalid": "Недійсне підключення",
 	"statusbar.createaddition.wire.obstructed": "Шлях дроту щось перешкоджає",
@@ -277,8 +277,8 @@
 	"createaddition.ponder.modular_accumulator.header": "Мультиблочний акумулятор",
 	"createaddition.ponder.modular_accumulator.text_1": "Акумулятор являє собою багатоблокову конструкцію",
 	"createaddition.ponder.modular_accumulator.text_2": "Він може зберігати велику кількість електричної енергії",
-	"createaddition.ponder.modular_accumulator.text_3": "Налаштування вхідного з’єднувача",
-	"createaddition.ponder.modular_accumulator.text_4": "і вихідний з’єднувач.",
+	"createaddition.ponder.modular_accumulator.text_3": "Налаштування вхідного з'єднувача",
+	"createaddition.ponder.modular_accumulator.text_4": "і вихідний з'єднувач.",
 	"createaddition.ponder.modular_accumulator.text_5": "Для покращення сумісності з іншими модами, Акумулятор буде автоматично виштовхувати енергію на верхній та нижніх гранях.",
 
 	"createaddition.display_source.digital_adapter_source": "Цифровий адаптер",
@@ -292,12 +292,12 @@
 	"createaddition.display_source.accumulator.display": "Виберіть варіант:",
 
 	"createaddition.ponder.pei_transfer.header": "Енергетична біржа",
-	"createaddition.ponder.pei_transfer.text_1": "Акумулятори на рухомих пристроях не можуть підключатися до стаціонарних роз’ємів.",
+	"createaddition.ponder.pei_transfer.text_1": "Акумулятори на рухомих пристроях не можуть підключатися до стаціонарних роз'ємів.",
 	"createaddition.ponder.pei_transfer.text_2": "Він може взаємодіяти з акумуляторами без необхідності зупиняти пристрій.",
 	"createaddition.ponder.pei_transfer.text_3": "Розмістіть інтерфейс з проміжком в 1 або 2 блоки",
-	"createaddition.ponder.pei_transfer.text_4": "Щоразу, коли вони проходять повз один одного, вони вступають у зв’язок",
+	"createaddition.ponder.pei_transfer.text_4": "Щоразу, коли вони проходять повз один одного, вони вступають у зв'язок",
 	"createaddition.ponder.pei_transfer.text_5": "Під час роботи стаціонарний інтерфейс відображатиме ВСІ акумулятори на пристрої",
-	"createaddition.ponder.pei_transfer.text_6": "Обмін енергією тепер можна здійснювати відповідно до конфігурації роз’єму вхід/вихід…",
+	"createaddition.ponder.pei_transfer.text_6": "Обмін енергією тепер можна здійснювати відповідно до конфігурації роз'єму вхід/вихід…",
 	"createaddition.ponder.pei_transfer.text_7": "Після того, як деякий час не буде обміну енергією, апарат продовжить свій шлях.",
 
 	"createaddition.ponder.pei_redstone.header": "Управляння редстоуном",

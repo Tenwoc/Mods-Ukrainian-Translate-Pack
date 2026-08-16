@@ -156,9 +156,9 @@
   "config.betterarcheology.growthTotemGrowRadius": "'Тотем Зростання' - Радіус",
   "config.betterarcheology.growthTotemGrowChance": "'Тотем Зростання' - Шанс зростання",
   "config.betterarcheology.fossilEffectsEnabled": "Ефекти скам’янілостей",
-  "config.betterarcheology.fossilFleeRange": "'Скам’янілість оцелота'/'Скам’янілість вовка' - Область відлякування",
-  "config.betterarcheology.chickenFossilEffectsEnabled": "'Скам’янілість курки' - Ефекти",
-  "config.betterarcheology.ocelotFossilEffectsEnabled": "'Скам’янілість оцелота' - Ефекти",
-  "config.betterarcheology.wolfFossilEffectsEnabled": "'Скам’янілість вовка' - Ефекти",
-  "config.betterarcheology.guardianFossilEffectsEnabled": "'Скам’янілість вартового' - Ефекти"
+  "config.betterarcheology.fossilFleeRange": "'Скам’янілість оцелота'/'Скам’янілість вовка'- Область відлякування",
+  "config.betterarcheology.chickenFossilEffectsEnabled": "'Скам’янілість курки'- Ефекти",
+  "config.betterarcheology.ocelotFossilEffectsEnabled": "'Скам’янілість оцелота'- Ефекти",
+  "config.betterarcheology.wolfFossilEffectsEnabled": "'Скам’янілість вовка'- Ефекти",
+  "config.betterarcheology.guardianFossilEffectsEnabled": "'Скам’янілість вартового'- Ефекти"
 }

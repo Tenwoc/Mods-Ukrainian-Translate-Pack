@@ -412,7 +412,7 @@
   "creatingspace.schedule.condition.time_of_day": "Час доби",
   "creatingspace.schedule.condition.fluid_threshold": "Поріг рідини",
   "creatingspace.schedule.condition.item_threshold": "Поріг предметів",
-  "creatingspace.schedule.condition.redstone_link": "Редстоуновий зв’язок",
+  "creatingspace.schedule.condition.redstone_link": "Редстоуновий зв'язок",
   "creatingspace.schedule.condition.player_count": "Кількість гравців-пасажирів",
   "creatingspace.schedule.condition.idle": "Неактивний інвентар",
   "creatingspace.science.mass": "Маса",

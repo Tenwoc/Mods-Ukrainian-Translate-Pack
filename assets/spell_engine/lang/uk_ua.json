@@ -9,7 +9,7 @@
   "entity.spell_engine.spell_area_effect": "Ефект по площі",
   "tutorial.spell_hotbar.title": "Заклинання на гарячої панелі",
   "tutorial.spell_hotbar.description": "Натисніть %1$s",
-  "tutorial.spell_hotbar.unbound": "Зв’яжіть клавішу!",
+  "tutorial.spell_hotbar.unbound": "Зв'яжіть клавішу!",
 
   "attribute.name.spell_engine.healing_taken" : "отримуваного зцілення",
   "attribute.name.spell_engine.damage_taken" : "отримуваної шкоди",

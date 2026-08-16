@@ -28,7 +28,7 @@
     "attribute.name.knockback_resistance.desc": "Скільки відкидання ви ігноруєте.",
     "attribute.name.luck.desc": "Впливає на ймовірність того, що відбудуться хороші речі.",
     "attribute.name.max_absorption.desc": "Скільки сердець Поглинання ви можете регенерувати.",
-    "attribute.name.max_health.desc": "Максимальна кількість очок здоров'я.",
+    "attribute.name.max_health.desc": "Максимальна кількість очок здоров’я.",
     "attribute.name.movement_speed.desc": "Швидкість руху.",
 
     "attribute.name.entity_interaction_range.desc": "Дальність взаємодії із сутностями, у блоках.",
@@ -59,13 +59,13 @@
     "apothic_attributes:life_steal": "викрадання життя",
     "apothic_attributes:life_steal.desc": "Процент зцілення від фактично завданої шкоди.",
 
-    "apothic_attributes:current_hp_damage": "шкоди по поточному здоров'ю",
-    "apothic_attributes:current_hp_damage.desc": "Додаткова фізична шкода ближнього бою, заснована на здоров'ї цілі.",
+    "apothic_attributes:current_hp_damage": "шкоди по поточному здоров’ю",
+    "apothic_attributes:current_hp_damage.desc": "Додаткова фізична шкода ближнього бою, заснована на здоров’ї цілі.",
 
     "apothic_attributes:overheal": "надзцілення",
     "apothic_attributes:overheal.desc": "Процент отримання сердець перепоглинання від фактично завданої шкоди.",
 
-    "apothic_attributes:ghost_health": "фантомного здоров'я",
+    "apothic_attributes:ghost_health": "фантомного здоров’я",
     "apothic_attributes:ghost_health.desc": "Не реалізовано",
 
     "apothic_attributes:arrow_damage": "шкоди від стріл",
@@ -138,9 +138,9 @@
 
     "comment_id": "Damage Sources",
 
-    "death.attack.apothic_attributes:bleeding": "%1$s стік кров'ю",
-    "death.attack.apothic_attributes:bleeding.item": "%1$s стік кров'ю від %2$s за допомогою: %3$s",
-    "death.attack.apothic_attributes:bleeding.player": "%1$s стік кров'ю під час спроби втекти від %2$s",
+    "death.attack.apothic_attributes:bleeding": "%1$s стік кров’ю",
+    "death.attack.apothic_attributes:bleeding.item": "%1$s стік кров’ю від %2$s за допомогою: %3$s",
+    "death.attack.apothic_attributes:bleeding.player": "%1$s стік кров’ю під час спроби втекти від %2$s",
 
     "death.attack.apothic_attributes:detonation": "%1$s вибухнув у вогні",
     "death.attack.apothic_attributes:detonation.item": "%1$s вибухнув у вогні",

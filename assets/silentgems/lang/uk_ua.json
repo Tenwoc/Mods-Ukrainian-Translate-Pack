@@ -93,7 +93,7 @@
   "silentgems.configuration.normalLight": "Звичайне значення світла",
   "silentgems.configuration.pottedLight": "Значення світла в горщику",
 
-  "trait.silentgems.barrier_jacket": "Бар’єрна куртка",
+  "trait.silentgems.barrier_jacket": "Бар'єрна куртка",
   "trait.silentgems.barrier_jacket.desc": "Надає більше магічної броні при вищій міцності",
   "trait.silentgems.booster": "Прискорювач",
   "trait.silentgems.booster.desc": "Дає прискорення швидкости",
@@ -110,7 +110,7 @@
   "trait.silentgems.hasty": "Квапливість",
   "trait.silentgems.hasty.desc": "Збільшує швидкість копання",
   "trait.silentgems.hearty": "Сердечність",
-  "trait.silentgems.hearty.desc": "Дає додаткове здоров’я",
+  "trait.silentgems.hearty.desc": "Дає додаткове здоров'я",
   "trait.silentgems.leaping": "Стрибучість",
   "trait.silentgems.leaping.desc": "Дає підсилення стрибка та повільне падіння",
   "trait.silentgems.neptunes_blessing": "Благословення Нептуна",
