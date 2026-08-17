@@ -1979,7 +1979,6 @@
   "config.jade.plugin_gtceu.multiblock_structure": "[GTCEu] Багатоблокова конструкція",
   "config.jade.plugin_gtceu.parallel_info": "[GTCEu] Інфо паралелізації",
   "config.jade.plugin_gtceu.primitive_pump": "[GTCEu] Інфо примітивної помпи",
-  "config.jade.plugin_gtceu.programmed_circuit_info": "[GTCEu] Інфо програмної плати",
   "config.jade.plugin_gtceu.recipe_logic_provider": "[GTCEu] Логіка рецептів",
   "config.jade.plugin_gtceu.recipe_output_info": "[GTCEu] Інфо виводу рецептів",
   "config.jade.plugin_gtceu.stained_color": "[GTCEu] Інфо заплямованого блоку",
@@ -6077,6 +6076,7 @@
   "tooltip.gtceu.medical_condition.description_shift": "§l§cНЕБЕЗПЕЧНО:",
   
   "comment": "outdated lines",
+  "config.jade.plugin_gtceu.programmed_circuit_info": "[GTCEu] Інфо програмної плати",
   "gtceu.multiblock.pattern.error": "Очікувалися компоненти (%s) у (%s).",
   "gtceu.journeymap.options.layers.bedrock_fluids": "Показати рідинні глибокорінні жили",
   "gtceu.journeymap.options.layers.hide_depleted": "Приховати виснажені жили",
