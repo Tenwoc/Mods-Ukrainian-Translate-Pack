@@ -1,17 +1,19 @@
 {
   "item.mermod.sea_necklace": "Морське намисто",
-  "item.mermod.sea_crystal": "Морський кришталь",
+  "item.mermod.sea_crystal": "Морський кристал",
   "item.mermod.mermaid_bra_modifier": "Бюстгальтер русалки",
   "item.mermod.tail_gradient_modifier": "Хвостовий градієнт",
-  "item.mermod.glowing_pearl_modifier": "Сяюча перлина",
+  "item.mermod.glowing_pearl_modifier": "Сяйна перлина",
   "item.mermod.moon_rock_modifier": "Місячний камінь",
   "item.mermod.ursula_shell_modifier": "Мушля Урсули",
+  "item.mermod.deep_sea_crystal_modifier": "Кристал глибокого моря",
+  "tooltip.mermod.modifiers": "Модифікатори:",
   "tooltip.mermod.modifierHint": "Клацніть ПКМ крадькома, щоб видалити модифікатори",
   "tooltip.mermod.canBeDyed": "Можна фарбувати",
   "config.mermod.name": "Mermod Config",
-  "config.mermod.option.swimSpeed": "Ефект швидкости плавання",
-  "config.mermod.option.swimSpeedMultiplier": "Мультиплікатор швидкости плавання",
-  "config.mermod.option.waterBreathing": "Ефект дихання у воді",
-  "config.mermod.option.nightVision": "Ефект нічного бачення",
-  "config.mermod.option.nightVisionFlashingFix": "Виправлення миготіння нічного бачення"
+  "tooltip.mermod.remove_modifiers": "Застосуйте крадькома, щоб видалити модифікатори",
+  "tooltip.mermod.modifier": "Можна поєднати з морським намистом",
+  "tooltip.mermod.dyeable_modifier": "Можна пофарбувати або поєднати з морським намистом",
+  "option.mermod.disableNightVisionFlashing": "Вимкнути мерехтіння нічного бачення",
+  "option.mermod.replaceSwimAnimation": "Замінити анімацію плавання"
 }
