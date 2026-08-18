@@ -3,10 +3,18 @@
   "item.measurements.tape_measure": "Рулетка",
 
   "_comment": "ClothConfig",
-  "text.autoconfig.measurements.option.client": "Кієнт",
+  "text.autoconfig.measurements.option.client": "Клієнт",
   "text.autoconfig.measurements.option.client.lineColor": "Колір лінії",
   "text.autoconfig.measurements.option.client.textColor": "Колір тексту",
-  "text.autoconfig.measurements.option.client.textSize": "Розір текстцу",
+  "text.autoconfig.measurements.option.client.textSize": "Розмір тексту",
   "text.autoconfig.measurements.option.client.lineWidth": "Ширина лінії",
-  "text.autoconfig.measurements.option.client.lineWidthMax": "Максимальна ширина лінії"
+  "text.autoconfig.measurements.option.client.lineWidthMax": "Максимальна ширина лінії",
+
+  "_comment": "NeoForge Config",
+  "measurements.configuration.client": "Клієнт",
+  "measurements.configuration.lineColor": "Колір лінії",
+  "measurements.configuration.textColor": "Колір тексту",
+  "measurements.configuration.textSize": "Розмір тексту",
+  "measurements.configuration.lineWidth": "Ширина лінії",
+  "measurements.configuration.lineWidthMax": "Максимальна ширина лінії"
 }
