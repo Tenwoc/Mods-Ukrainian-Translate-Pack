@@ -9,7 +9,7 @@
   "itemGroup.relicsofrain": "Relics of Rain",
 
   "item.relicsofrain.ukulele": "Укулеле",
-  "tooltip.relics.ukulele.description": "...і його музика була блискавичною.",
+  "tooltip.relics.ukulele.description": "…і його музика була блискавичною.",
   "tooltip.relics.ukulele.ability.lightning_chain": "Ланцюгова блискавка",
   "tooltip.relics.ukulele.ability.lightning_chain.description": "При попаданні в когось є шанс %1$s%% створити ланцюгову блискавку, яка вразить до %2$s інших цілей в радіусі %3$sм, завдаючи %4$s%% сумарної шкоди кожній з них.",
   "tooltip.relics.ukulele.leveling_source.lightning_chain.title": "Ланцюгова блискавка",
@@ -37,7 +37,7 @@
   "tooltip.relics.platinum_horseshoe.leveling_source.try_again.description": "Ця реліквія отримує 1 очко досвіду за кожне успішне відтворення під впливом предмета",
 
   "item.relicsofrain.broken_mirror": "Розбите дзркало",
-  "tooltip.relics.broken_mirror.description": "...Воно працює?",
+  "tooltip.relics.broken_mirror.description": "…Воно працює?",
 
   "item.relicsofrain.bustling_fungus": "Галасливий грибок",
   "tooltip.relics.bustling_fungus.description": "Лікує усіх союзників після 1.5-секундного стояння на місці.",

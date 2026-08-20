@@ -83,7 +83,7 @@
     "config.bridgingmod.option.enableSlabAssist.description.0": "Розумніше розміщення плит! Робить плити (і люки) більш зручними для використання з модом:\n",
     "config.bridgingmod.option.enableSlabAssist.description.1": "- Вирівнює їх до вашого рівня Y при горизонтальному мостовому розміщенні.",
     "config.bridgingmod.option.enableSlabAssist.description.2": "- Об’єднує їх у стопки при вертикальному мостовому розміщенні",
-    "config.bridgingmod.option.enableSlabAssist.description.3": "- ...і ще?",
+    "config.bridgingmod.option.enableSlabAssist.description.3": "- …і ще?",
     "config.bridgingmod.option.skipTorchBridging": "Пропустити мостове розміщення смолоскипів",
     "config.bridgingmod.option.skipTorchBridging.description.0": "Запобігає випадковому розміщенню смолоскипів, не даючи змогу їх використання при мостовому розміщенні.",
     "config.bridgingmod.option.enableNonSolidReplace": "Замінити нетверді блоки",
@@ -102,7 +102,7 @@
     "config.bridgingmod.option.bridgingAdjacency.description.1": "Налаштовує поведінку притягнення. Знаходить блоки вздовж лінії огляду, які пропускаються звичайним пошуком цілі.\n",
     "config.bridgingmod.option.bridgingAdjacency.description.2": "Суворе = Тільки найближче відповідність до лінії огляду.",
     "config.bridgingmod.option.bridgingAdjacency.description.3": "Грані = Включає блоки, що мають спільну грань з найближчим відповідником",
-    "config.bridgingmod.option.bridgingAdjacency.description.4": "... і так далі.",
+    "config.bridgingmod.option.bridgingAdjacency.description.4": "… і так далі.",
 
 
     "config.bridgingmod.option.showDebugHighlight": "Показати контур блоку мостового розміщення в F3",

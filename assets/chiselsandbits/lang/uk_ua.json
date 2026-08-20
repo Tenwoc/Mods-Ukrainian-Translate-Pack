@@ -411,6 +411,6 @@
   "mod.chiselsandbits.patterns.import.failed.unknown-version": "Не вдалося прочитати деталь, версія невідома.",
   "mod.chiselsandbits.patterns.import.invoked-from-the-server": "Не вдалося прочитати деталь, цю команду можна викликати тільки з клієнта.",
   "mod.chiselsandbits.bit-bag-entry": "- %s %s фрагментів",
-  "mod.chiselsandbits.bit-bag-more-entries": "... та деякі інші фрагменти",
-  "mod.chiselsandbits.bit-bag-empty": "... мішок фрагментів спорожнів ... підіть зберіть іще."
+  "mod.chiselsandbits.bit-bag-more-entries": "… та деякі інші фрагменти",
+  "mod.chiselsandbits.bit-bag-empty": "… мішок фрагментів спорожнів ... підіть зберіть іще."
 }

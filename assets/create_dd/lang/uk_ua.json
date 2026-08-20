@@ -782,7 +782,7 @@
   "create_dd.ponder.hydraulic_press.text_1": "Гідравлічний прес може обробляти предмети під собою",
   "create_dd.ponder.hydraulic_press.text_2": "Вхідні предмети повинні бути кинуті або поміщені на депо під пресом",
   "create_dd.ponder.hydraulic_press.text_3": "Коли предмети подаються конвеєром…",
-  "create_dd.ponder.hydraulic_press.text_4": "...прес буде затримувати та обробляти їх автоматично",
+  "create_dd.ponder.hydraulic_press.text_4": "…прес буде затримувати та обробляти їх автоматично",
 
   "create_dd.ponder.motors.header": "Генерацією сили обертання двигунами",
   "create_dd.ponder.motors.text_1": "Творчий двигун — це компактне та налаштовне джерело сили обертання",

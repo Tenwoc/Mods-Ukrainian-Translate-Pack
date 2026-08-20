@@ -128,7 +128,7 @@
   "gui.xaero_pac_config_type_default_player" : "Конфігурація гравця Як усталено",
   "gui.xaero_pac_config_type_player" : "Конфігурація гравця",
 
-  "gui.xaero_pac_config_delete_sub_started" : "Розпочато перетворення всіх ділянок, які використовують підконфіг \"%1$s\"...",
+  "gui.xaero_pac_config_delete_sub_started" : "Розпочато перетворення всіх ділянок, які використовують підконфіг \"%1$s\"…",
   "gui.xaero_pac_config_delete_sub_complete" : "Успішно перетворено під-ділянку та видалено під-конфіг \"%1$s\"!",
   "gui.xaero_pac_config_delete_sub_already_replacing" : "Для цього гравця вже виконується операція заміни привласнених ділянок! Будь ласка, зачекайте, поки вона завершиться.",
   "gui.xaero_pac_config_delete_sub_too_many_targets" : "Дозволено лише одного цільового гравця!",
@@ -145,7 +145,7 @@
   "gui.xaero_pac_config_sub_list_bad_start" : "Ця конфігурація має лише %1$s підконфігів!",
   "gui.xaero_pac_config_sub_list" : "Підконфіги, що починаються з позиції %1$d/%2$d:\n",
   "gui.xaero_pac_config_sub_list_separator" : ", ",
-  "gui.xaero_pac_config_sub_list_there_is_more" : "...",
+  "gui.xaero_pac_config_sub_list_there_is_more" : "…",
 
   "option.openpartiesandclaims.permissions/v1" : "Open Parties and Claims",
   "gui.xaero_pac_permissions_title" : "Open Parties and Claims",

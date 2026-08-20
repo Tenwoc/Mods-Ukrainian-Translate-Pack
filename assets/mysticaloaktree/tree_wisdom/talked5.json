@@ -2,8 +2,8 @@
   "type": "talked_to",
   "trust_required": 10,
   "text": [
-    "...",
-    "..."
+    "…",
+    "…"
   ],
   "require_interaction": [
     "true"

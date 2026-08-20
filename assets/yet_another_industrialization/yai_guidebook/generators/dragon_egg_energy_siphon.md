@@ -19,7 +19,7 @@ item_ids:
     <MultiblockShape controller="yet_another_industrialization:dragon_egg_energy_siphon" />
 </GameScene>
 
-Енергопомпи яйця дракона здатні генерувати енергію, використовуючи силу яйця дракона... Ха, повірили! Тобто, це ж MI. Тут ніщо не є справді пасивним :P
+Енергопомпи яйця дракона здатні генерувати енергію, використовуючи силу яйця дракона… Ха, повірили! Тобто, це ж MI. Тут ніщо не є справді пасивним :P
 
 <Recipe id="yet_another_industrialization:craft/dragon_egg_energy_siphon" />
 
