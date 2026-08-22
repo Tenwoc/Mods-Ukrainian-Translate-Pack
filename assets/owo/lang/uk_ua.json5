@@ -1,0 +1,73 @@
+{
+  "text.owo.{}": {
+    "itemGroup.{}": {
+      tab_template: [
+        {index: 0},
+        {text: " > ", color: "gray"},
+        {index: 1, color: "dark_gray"}
+      ],
+      select_hint: {text: "Shift+ПКМ, щоб обрати декілька", color: "gray"}
+    },
+    "configure_hot_reload.{}": {
+      title: "Налаштування гарячого перезавантаження",
+      choose_file: "Обрати файл",
+      save: "Зберегти",
+      model: [
+        {text: "Модель: ", color: "yellow"},
+        {index: 0, color: "gray"}
+      ],
+      "reload_from.{}": {
+        "": [
+          {text: "Reload from: ", color: "yellow"},
+          {index: 0, color: "gray"}
+        ],
+        unset: "Unset"
+      }
+    },
+    "config.{}": {
+      "search.{}": {
+        "": "Пошук…",
+        matches: "%d з %d",
+        no_matches: "Немає збігів"
+      },
+      must_restart: "Деякі зроблені вами зміни для набуття чинності потребують перезапуску",
+      "button.{}": {
+        reload: "Перезавантажити",
+        done: "Готово",
+        exit_minecraft: "Вийти з Minecraft",
+        ignore_restart: "Перезапустити пізніше",
+        "range.{}": {
+          edit_as_text: "Редагувати як текст",
+          edit_with_slider: "Редагувати із повзунком"
+        }
+      },
+      applies_after_restart: [
+        {text: "⏻ ", color: "#FAEA48"},
+        {text: "Цей параметр набуде чинності після перезапуску", color: "gray"}
+      ],
+      managed_by_server: [
+        {text: "⚑ ", color: "#EB1D36"},
+        {text: "Цей параметр керується сервером\n   Від’єднайтеся, щоб редагувати його", color: "gray"}
+      ],
+      sections: {text: "Секції", underlined: true},
+      sections_tooltip: "Секції",
+      "list.add_entry": "Додати запис",
+      "boolean_toggle.{}": {
+        enabled: [
+          "",
+          {text: "[", color: "gray"},
+          {text: "✔", color: "#28FFBF"},
+          {text: "]", color: "gray"},
+          " Увімкнено"
+        ],
+        disabled: [
+          "",
+          {text: "[", color: "gray"},
+          {text: "❌", color: "#EB1D36"},
+          {text: "]", color: "gray"},
+          " Вимкнено"
+        ]
+      }
+    }
+  }
+}

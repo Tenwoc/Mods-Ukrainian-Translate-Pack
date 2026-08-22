@@ -185,7 +185,7 @@
   "item.tconstruct.encyclopedia": "Енциклопедія інженерії",
   "item.tconstruct.encyclopedia.tooltip": "Путівник, необхідний кожному інженеру\nАвтор: Selena",
 
-  "item.tconstruct.tinkers_gadgetry": "Інженерні причандали",
+  "item.tconstruct.tinkers_gadgetry": "Інженерне приладдя",
   "item.tconstruct.tinkers_gadgetry.tooltip": "Книга про використання слизу в щоденних завданнях\nАвтор: Melvin",
 
   "item.tconstruct.puny_smelting": "Мізерне топлення",
@@ -4199,7 +4199,7 @@
   "advancements.tconstruct.tools.upgrade_slots.title": "Усі покращення",
   "advancements.tconstruct.tools.upgrade_slots.description": "Надай інструментові 6 додаткових слотів для покращення за допомогою письменності, переголовлення, гармонійності, відродження та позолоти",
   "advancements.tconstruct.tools.glass_cannon.title": "Скляна гармата",
-  "advancements.tconstruct.tools.glass_cannon.description": "Створіть інструмент, який завдає більш ніж 20 шкоди, але має мешне 100 міцності",
+  "advancements.tconstruct.tools.glass_cannon.description": "Створіть інструмент, який завдає більш ніж 20 шкоди, але має менше 100 міцності",
   "advancements.tconstruct.tools.tool_smith.title": "Інструментник",
   "advancements.tconstruct.tools.tool_smith.description": "Створіть кожен із базових інструментів",
   "advancements.tconstruct.tools.netherite_tier.title": "Незеритовий рівень",
@@ -4250,8 +4250,8 @@
   "advancements.tconstruct.foundry.encyclopedia.description": "Створіть енциклопедію матеріалів зі своїми знаннями з усіх інших книг",
 
   "_comment": "Gadget Advancements",
-  "advancements.tconstruct.world.tinkers_gadgetry.title": "Інженерні причандали",
-  "advancements.tconstruct.world.tinkers_gadgetry.description": "Створіть «Інженерні причандали», щоб почати досліджувати світ",
+  "advancements.tconstruct.world.tinkers_gadgetry.title": "Інженерне приладдя",
+  "advancements.tconstruct.world.tinkers_gadgetry.description": "Створіть «Інженерне приладдя», щоб почати досліджувати світ",
   "advancements.tconstruct.world.earth_island.title": "Слизовий острів",
   "advancements.tconstruct.world.earth_island.description": "Знайдіть слизовий острів в океані",
   "advancements.tconstruct.world.sky_island.title": "Небослизовий острів",

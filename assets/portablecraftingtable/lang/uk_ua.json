@@ -1,7 +1,10 @@
 {
-//Items
-"item.portablecraftingtable.portable_crafting_table": "Портативний верстак",
 
-//Tabs
-"itemGroup.group": "Portable Crafting Table"
+"item.portablecraftingtable.portable_crafting_table": "Кишеньковий верстак",
+
+
+"itemGroup.portablecraftingtable_creative_mode_tab": "Portable Crafting Table",
+
+"key.portablecraftingtable.open": "Відкрити кишеньковий верстак",
+"key.categories.portablecraftingtable": "Portable Crafting Table"
 }

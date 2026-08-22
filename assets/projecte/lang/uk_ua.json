@@ -1,4 +1,5 @@
-{"item.projecte.philosophers_stone": "Філософський камінь",
+{
+"item.projecte.philosophers_stone": "Філософський камінь",
 "item.projecte.white_alchemical_bag": "Алхімічний мішок",
 "item.projecte.orange_alchemical_bag": "Алхімічний мішок",
 "item.projecte.magenta_alchemical_bag": "Алхімічний мішок",
@@ -23,7 +24,7 @@
 "item.projecte.klein_star_sphere": "Мала зірка Сфера",
 "item.projecte.klein_star_omega": "Мала зірка Омега",
 "item.projecte.alchemical_coal": "Алхімічне вугілля",
-"item.projecte.mobius_fuel": "Пальне Мобіуса",
+"item.projecte.mobius_fuel": "Пальне Мебіуса",
 "item.projecte.aeternalis_fuel": "Ефірне пальне",
 "item.projecte.low_covalence_dust": "Слабкий ковалентний пил",
 "item.projecte.medium_covalence_dust": "Середній ковалентний пил",

@@ -35,7 +35,7 @@
   "notenoughcrashes.midnightconfig.debugModIdentificationComment": "Якщо позначено, буде записано додаткову інформацію для розробника модифікації.",
   "notenoughcrashes.midnightconfig.debugModIdentification": "Налагоджувати ідентифікацію модифікації",
   "notenoughcrashes.midnightconfig.crashLimitComment": "Скільки разів NEC намагатиметься запобігти закриттю гри за один сеанс.",
-  "notenoughcrashes.midnightconfig.crashLimit": "Crash Limit",
+  "notenoughcrashes.midnightconfig.crashLimit": "Ліміт збоїв",
   "notenoughcrashes.midnightconfig.catchGameloopComment1": "Якщо значення false, NEC не намагатиметься запобігти закриттю гри при аварійному завершенні сеансу.",
   "notenoughcrashes.midnightconfig.catchGameloopComment2": "Ця функція завжди буде вимкнена (навіть якщо у конфігурації встановлено значення true) після встановлення Iris.",
   "notenoughcrashes.midnightconfig.catchGameloop": "Виявлення аварійних завершень гри",

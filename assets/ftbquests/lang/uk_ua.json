@@ -537,7 +537,7 @@
 	"ftbquests.reward.ftbquests.command.permission_level": "Запустити з рівнем дозволу",
 	"ftbquests.reward.ftbquests.command.permission_level.tooltip": "0 = гравець\n1 = модератор\n2 = оператор\n3 = адміністратор\n4 = власник",
 	"ftbquests.reward.ftbquests.command.silent": "Без повідомлення",
-	"ftbquests.reward.ftbquests.command.feedback_message": "Вигульк відгуку",
+	"ftbquests.reward.ftbquests.command.feedback_message": "Спливний відгук",
 	"ftbquests.reward.ftbquests.command.feedback_message.tooltip": "Надіслати сповіщення у підказці при успішності команди",
 	"ftbquests.reward.ftbquests.advancement": "Досягнення",
 	"ftbquests.reward.ftbquests.advancement.criterion": "Критерій",

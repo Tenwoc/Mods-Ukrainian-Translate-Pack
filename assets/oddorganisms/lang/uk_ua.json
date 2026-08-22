@@ -5,6 +5,8 @@
   "entity.oddorganisms.apthoroblattina": "Аптороблатина",
   "entity.oddorganisms.leptictidium": "Лептицидій",
   "entity.oddorganisms.borealopelta": "Бореолопельта",
+  "entity.oddorganisms.falcatus": "Фалкатус",
+  "entity.oddorganisms.slovenicus": "Словенцій",
 
   "item.oddorganisms.dawn_horse_spawn_egg": "Яйце виклику світанкового коня",
   "item.oddorganisms.doedicurus_spawn_egg": "Яйце виклику доедикура",
@@ -12,6 +14,8 @@
   "item.oddorganisms.apthoroblattina_spawn_egg": "Яйце виклику аптороблатини",
   "item.oddorganisms.leptictidium_spawn_egg": "Яйце виклику лептицидії",
   "item.oddorganisms.borealopelta_spawn_egg": "Яйце виклику бореолопельти",
+  "item.oddorganisms.falcatus_spawn_egg": "Яйце виклику фалкатуса",
+  "item.oddorganisms.slovenicus_spawn_egg": "Яйце виклику словенція",
 
   "item.oddorganisms.dawn_horse_flask": "Колба з ДНК світанкового коня",
   "item.oddorganisms.doedicurus_flask": "Колба з ДНК доедикура",
@@ -19,6 +23,8 @@
   "item.oddorganisms.apthoroblattina_flask": "Колба з ДНК аптороблатини",
   "item.oddorganisms.leptictidium_flask": "Колба з ДНК лептицидії",
   "item.oddorganisms.borealopelta_flask": "Колба з ДНК бореолопельти",
+  "item.oddorganisms.falcatus_flask": "Колба з ДНК фалкатуса",
+  "item.oddorganisms.slovenicus_flask": "Колба з ДНК словенція",
 
   "item.oddorganisms.dawn_horse_embryo": "Ембріон світанкового коня",
   "item.oddorganisms.doedicurus_embryo": "Ембріон доедикура",
@@ -27,11 +33,16 @@
   "item.oddorganisms.apthoroblattina_ootheca": "Яєчник аптороблатини",
 
   "item.oddorganisms.eolactoria_bucket": "Відро з еолакторією",
+  "item.oddorganisms.falcatus_bucket": "Відро з фалкатусом",
+  "item.oddorganisms.slovenicus_bucket": "Відро зі словенцієм",
 
   "item.oddorganisms.doedicurus_chestplate": "Нагрудник доедикура",
   "item.oddorganisms.doedicurus_scute": "Щиток доедикура",
 
   "block.oddorganisms.eolactoria_eggs": "Яйця еолакторії",
+  "block.oddorganisms.falcatus_eggs": "Яйця фалкатуса",
+  "block.oddorganisms.slovenicus_eggs": "Яйця словенція",
+  "block.oddorganisms.borealopelta_egg": "Яйце бореолопельти",
 
   "itemGroup.oddorganisms": "Odd Organisms",
 
