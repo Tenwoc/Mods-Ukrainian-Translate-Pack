@@ -601,7 +601,7 @@
   "text.stellaris.planetscreen.help": "Для приховання інформації натисніть H",
   "text.stellaris.waitscreen": "Очікування, поки %s вибере місце!",
 
-  "gauge_text.stellaris.stored": "Збережено: %s",
+  "gauge_text.stellaris.stored": "Накопичено: %s",
   "gauge_text.stellaris.capacity": "Місткість: %s",
   "screen.stellaris.gauge": "Місткість: %1$s / %2$s",
   "gauge_text.stellaris.max_generation": "Макс. генерація : %s Fe/такт",

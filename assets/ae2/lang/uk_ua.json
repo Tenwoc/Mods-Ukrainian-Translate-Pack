@@ -681,7 +681,7 @@
   "gui.tooltips.ae2.StashToPlayer": "Взяти предмети",
   "gui.tooltips.ae2.StashToPlayerDesc": "Скласти предмети на сітці майстрування в інвентар гравця.",
   "gui.tooltips.ae2.StoreAction": "%s: Зберегти %s",
-  "gui.tooltips.ae2.StoredAmount": "Збережено: %s",
+  "gui.tooltips.ae2.StoredAmount": "Накопичено: %s",
   "gui.tooltips.ae2.StoredCraftable": "Наявне / Створюване",
   "gui.tooltips.ae2.StoredItems": "Тільки наявне",
   "gui.tooltips.ae2.SubstitutionsDescDisabled": "Натисніть, щоб дозволити альтернативні складники в рецепті.",

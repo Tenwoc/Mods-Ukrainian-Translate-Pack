@@ -1,0 +1,8 @@
+{
+  "tooltip.pipezretriever.mode": "Режим: %s",
+  "tooltip.pipezretriever.mode.extract": "Виведення (Розподіл до цільових містил)",
+  "tooltip.pipezretriever.mode.retrieve": "Стягування (Збір з цільових містил)",
+  "tooltip.pipezretriever.retrieve_button": "Перемкнути режим стягування",
+  "tooltip.pipezretriever.retrieve_button.description": "Коли увімкнено, забирає предмети/рідину/енергію З під’єднаних містил У джерело",
+  "tooltip.pipezretriever.requires_upgrade": "Потребує принаймні базового покращення"
+}

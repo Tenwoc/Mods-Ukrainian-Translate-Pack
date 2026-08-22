@@ -1,0 +1,126 @@
+{
+    "entity.gateways.gateway" : "Просторові ворота у Вічність",
+    "item.gateways.gate_pearl": "Перлина воріт",
+    "gateways.gate_pearl": "Перлина воріт — %s",
+    "itemGroup.gateways": "Gateways to Eternity",
+
+    "info.gateways.gate_pearl": "Перлина воріт дозволяє вам викликати Ворота, якщо застосувати її на блоці.\n\nПерлину не можна використовувати надто блищько до інших активних воріт.\n",
+    "info.gateways.gate_pearl.2": "Відкриті Ворота вийдуть з ладу спалахом блискавки, якщо: їм не вдасться випустити моба; будь-який активний моб відійде занадто далеко; закінчиться час відліку.\n\nНагороди за хвилі виходитимуть із самих воріт.",
+
+    "tooltip.gateways.with_count": "%s %s",
+    "tooltip.gateways.dot_with_count": "• %s %s",
+    "tooltip.gateways.dot": "• %s",
+
+    "tooltip.gateways.scroll": "[прокручуйте]",
+    "tooltip.gateways.shift": "[shift]",
+    "tooltip.gateways.ctrl": "[ctrl]",
+    "tooltip.gateways.alt": "[alt]",
+    "tooltip.gateways.true": "Увімкнено",
+    "tooltip.gateways.false": "Вимкнено",
+
+    "tooltip.gateways.num_wave": "%s хвиля",
+    "tooltip.gateways.num_waves": "%s хвиль",
+    "tooltip.gateways.wave": "Хвиля %s/%s",
+    "tooltip.gateways.entities": "Істоти: ",
+    "tooltip.gateways.modifiers": "Модифікатори: ",
+    "tooltip.gateways.rewards": "Нагороди: ",
+
+    "tooltip.gateways.num_failures": "%s штрафів",
+    "tooltip.gateways.num_failure": "%s штраф",
+    "tooltip.gateways.failures": "Штрафи за невдачу",
+
+    "tooltip.gateways.num_rule": "%s зміна правил",
+    "tooltip.gateways.num_rules": "%s змін правил",
+    "tooltip.gateways.rules": "Зміни правил",
+
+    "tooltip.gateways.key_rewards": "Головні нагороди",
+
+    "tooltip.gateways.endless.base_wave": "Базова хвиля",
+    "tooltip.gateways.endless.num_modif": "%s модифікатор нескінченності",
+    "tooltip.gateways.endless.num_modifs": "%s модифікаторів нескінченності",
+    "tooltip.gateways.endless.modifier": "Модифікатор нескінченності %s/%s",
+    "tooltip.gateways.endless.wave_time": "%s максимального часу хвилі",
+    "tooltip.gateways.endless.setup_time": "%s часу встановлення",
+
+    "boss.gateways.wave": "Хвиля: %d/%d | Час: %s | Вороги: %d",
+    "boss.gateways.done": "Ворота зачищено!",
+    "boss.gateways.starting": "Хвиля %d розпочнеться через %s",
+    "boss.gateways.endless.top": "Хвиля: %d/%d | Час: %d",
+    "boss.gateways.endless.bot": "Вороги: %d/%d | Активні модифікатори: %d",
+    "boss.gateways.endless.incoming": "Вороги прибувають: %d",
+
+    "reward.gateways.stack": "%s %s",
+    "reward.gateways.entity": "%s %s спроб здобичі",
+    "reward.gateways.loot_table": "%s %s спроб",
+    "reward.gateways.chance": "%s шанс на %s",
+    "reward.gateways.experience": "%s досвіду",
+    "reward.gateways.summon": "Виклик: %s",
+
+    "failure.gateways.explosion": "Вибух із радіусом %s",
+    "failure.gateways.mob_effect": "%s",
+    "failure.gateways.summon": "Виклик: %s",
+    "failure.gateways.chance": "%s шанс на %s",
+
+    "rule.gateways.default": "[було %s]",
+    "rule.gateways.spawn_range": "Діапазон появи: %s",
+    "rule.gateways.leash_range": "Діапазон повідця: %s",
+    "rule.gateways.allow_discarding": "Дозволено скасування: %s",
+    "rule.gateways.allow_dim_change": "Дозволені змінні виміри: %s",
+    "rule.gateways.player_damage_only": "Тільки шкода від гравця: %s",
+    "rule.gateways.remove_mobs_on_failure": "Прибрати ворогів у разі поразки: %s",
+    "rule.gateways.fail_on_out_of_bounds": "Поразка через вихід за межі: %s",
+    "rule.gateways.spacing": "Відстань між воротами: %s",
+    "rule.gateways.requires_nearby_player": "Вимагає гравця поруч: %s",
+    "rule.gateways.lives": "Життів: %s",
+
+    "error.gateways.no_space": "Для відкриття цих воріт тут замало місця",
+    "error.gateways.wave_failed": "Ворота вибухнули через нестачу місця для виклику наступної хвилі",
+    "error.gateways.too_far": "Ворота вибухнули через потрапляння сутності поза активну область",
+    "error.gateways.wave_elapsed": "Час хвилі вийшов",
+    "error.gateways.entity_discarded": "Ворота вибухнули через втрату сутності без її смерті",
+    "error.gateways.no_nearby_player": "Ворота вибухнули через відсутність гравця поруч",
+    "error.gateways.out_of_lives": "Ворота вибухнули, адже у вас скінчилися життя",
+
+    "appmode.gateways.after_wave": "Застосовується на %s хвилі.",
+    "appmode.gateways.after_every_n_waves": "Застосовується кожні %s хвиль. До %s застосувань.",
+    "appmode.gateways.only_on_wave": "Застосовується на %s хвилі.",
+    "appmode.gateways.only_on_every_n_waves": "Застосовується тільки кожні %s хвиль.",
+
+    "stat.gateways.gates_defeated": "Закрито воріт",
+
+    "modifier.gateways.gear_set": "Спорядження: %s",
+
+    "gateways.basic/blaze": "Просторові ворота пломенів",
+    "gateways.basic/slime": "Просторові ворота слимаків",
+    "gateways.basic/enderman": "Просторові ворота ендерменів",
+    
+    "gateways.emerald_grove": "Просторові ворота смарагдового гаю",
+    "gateways.overworldian_nights": "Просторові ворота мешканців ночі",
+    "gateways.hellish_fortress": "Просторові ворота пекельної фортеці",
+
+    "gateways.iron_automaton": "Просторові ворота автоматизації заліза",
+
+    "gateways.endless/automaton_fabricator": "Нескінченні просторові ворота фабрики заліза",
+    "gateways.endless/blaze": "Нескінченні просторові ворота пломенів",
+
+    "rewards.gateways.loot_table.simple_dungeon": "Здобич підземелля",
+    "rewards.gateways.loot_table.nether_bridge": "Здобич незерської фортеці",
+
+    "name.gateways.necrotic_farmer": "Некротичний фермер",
+    "name.gateways.undead_legionnaire": "Неживий легіонер",
+    "name.gateways.withered_ranger": "Висушений рейнджер",
+    "name.gateways.butcher": "М’ясник",
+    "name.gateways.huge_slime": "Велетенський слимак",
+    "name.gateways.magicbane_slime": "Маговбивчий слимак",
+    "name.gateways.acidic_slime": "Кислотний слимак",
+    "name.gateways.flaming_enderman": "Палаючий ендермен",
+    "name.gateways.iron_sentinel": "Залізний вартовий",
+    "name.gateways.iron_juggernaut": "Залізний джаггернаут",
+
+    "subtitle.gateways.gate_warp": "Просторові ворота виводять об’єкт",
+    "subtitle.gateways.gate_ambient": "Просторові ворота гудять",
+    "subtitle.gateways.gate_start": "Просторові ворота відчиняються",
+    "subtitle.gateways.gate_end": "Просторові ворота зачиняються",
+
+    "text.gateways.errored_gate_pearl": "Невідомі просторові ворота: %s"
+}

@@ -347,7 +347,7 @@
   "tooltip.oritech.redstone_input_control": "Дає змогу вимикати машину через заживлення редстоуном цього доповнювача",
   "title.oritech.redstone_input_control": "Управління введенням",
   "title.oritech.inventory_proxy": "Доступ до інвентарю машини",
-  "tooltip.oritech.energy_stored": "Збережено: %d RF",
+  "tooltip.oritech.energy_stored": "Накопичено: %d RF",
   "tooltip.oritech.energy_indicator": "%d/%d RF",
   "tooltip.oritech.energy_max_transfer": "Макс. швидкість передачі: ",
   "tooltip.oritech.energy_transfer_rate": "%d RF/т",

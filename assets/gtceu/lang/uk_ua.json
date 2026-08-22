@@ -3496,7 +3496,7 @@
   "gtceu.multiblock.power_substation.average_out_hover": "Середній обсяг EU, виведеної з внутрішнього резерву енергії електропідстанції",
   "gtceu.multiblock.power_substation.capacity": "§7Місткість: %s§7 EU",
   "gtceu.multiblock.power_substation.passive_drain": "§7Пасивне розряджання: %s§7 EU/т",
-  "gtceu.multiblock.power_substation.stored": "§7Збережено: %s§7 EU",
+  "gtceu.multiblock.power_substation.stored": "§7Накопичено: %s§7 EU",
   "gtceu.multiblock.power_substation.time_days": "%s днів",
   "gtceu.multiblock.power_substation.time_forever": "Вічно",
   "gtceu.multiblock.power_substation.time_hours": "%s годин",

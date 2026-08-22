@@ -1,0 +1,32 @@
+{
+  "text.appex.experience": "Досвід",
+  "text.appex.creative_tab": "Applied Experienced",
+  "text.appex.experience_button.insert": "Ввести: %s %s",
+  "text.appex.experience_button.extract": "Вивести: %s %s",
+  "appex.gui.element.experience.tooltip": "%s / %s",
+  "gui.appex.experience_converter": "Перетворювач досвіду",
+
+  "item.appex.experience_cell_housing": "Корпус для МЕ комірки досвіду",
+
+  "item.appex.experience_storage_cell_1k": "1К МЕ Комірка досвіду",
+  "item.appex.experience_storage_cell_4k": "4К МЕ Комірка досвіду",
+  "item.appex.experience_storage_cell_16k": "16К МЕ Комірка досвіду",
+  "item.appex.experience_storage_cell_64k": "64К МЕ Комірка досвіду",
+  "item.appex.experience_storage_cell_256k": "256К МЕ Комірка досвіду",
+
+  "item.appex.portable_experience_cell_16k": "16К Портативна комірка досвіду",
+  "item.appex.portable_experience_cell_1k": "1К Портативна комірка досвіду",
+  "item.appex.portable_experience_cell_4k": "4К Портативна комірка досвіду",
+  "item.appex.portable_experience_cell_64k": "64К Портативна комірка досвіду",
+  "item.appex.portable_experience_cell_256k": "256К Портативна комірка досвіду",
+
+  "item.appex.experience_p2p_tunnel": "P2P тунель досвіду",
+  "item.appex.cable_experience_acceptor": "Кабельний приймач досвіду",
+
+  "block.appex.experience_acceptor": "МЕ Приймач досвіду",
+  "block.appex.experience_converter": "Перетворювач досвіду",
+
+  "appex.item.converter.tooltip": "Накопичено: %s досвіду",
+  "appex.item.converter.inv.in": "Накопичено %s",
+  "appex.item.converter.inv.out": "Накопичено %s"
+}

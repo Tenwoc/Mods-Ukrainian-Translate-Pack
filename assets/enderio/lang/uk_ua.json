@@ -603,7 +603,7 @@
   "tooltip.enderio.soul_bound": "Прив'язана душа: %s",
   "tooltip.enderio.tool.soul_vial.health": "Здоров'я: %s/%s",
   "tooltip.enderio.tool.void_vial.hint": "Збирає сфери досвіду ніби гравець, може передавати його у резервуари, або дати випити гравцю.",
-  "tooltip.enderio.tool.void_vial.stored_experience": "Збережено: %s рівнів + %s досвіду",
+  "tooltip.enderio.tool.void_vial.stored_experience": "Накопичено: %s рівнів + %s досвіду",
 
   "conduit.enderio.chemical": "Хімічний провідник",
   "conduit.enderio.dense_me": "Щільний МЕ провідник",
