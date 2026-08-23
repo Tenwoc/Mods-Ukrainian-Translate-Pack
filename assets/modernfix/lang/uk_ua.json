@@ -86,7 +86,7 @@
   "modernfix.option.mixin.bugfix.preserve_early_window_pos": "Змушує ігрове вікно зберігати розмір, коли керування переходить від раннього завантаження Forge до коду Minecraft. Виправляє телепортацію вікна назад у центр екрана після перетягування тощо.",
   "modernfix.option.mixin.bugfix.refinedstorage.te_bug": "Виправляє блоки пам'яті Refined Storage, які іноді не показують вміст ящиків тощо під час завантаження. Зворотній порт Refined Storage PR #3435, який застосовувався лише до 1.18 і пізніших версій.",
   "modernfix.option.mixin.bugfix.remove_block_chunkloading": "Виправляє зомбованих піґлінів, які постійно завантажують блок 0, 0 у Forge. Зворотній порт Forge PR #8583.",
-  "modernfix.option.mixin.bugfix.starlight_emptiness": "Виправляє випадковий збій Starlight через те, що мапи пустот не ініціалізуються. Зворотній порт виправлення в Starlight для 1.18.x.",
+  "modernfix.option.mixin.bugfix.starlight_emptiness": "Виправляє випадковий збій Starlight через те, що мапи порожнеч не ініціалізуються. Зворотній порт виправлення в Starlight для 1.18.x.",
   "modernfix.option.mixin.core": "Основні патчі, необхідні для роботи ModernFix",
   "modernfix.option.mixin.devenv": "Патчі, які використовуються під час роботи в середовищі розробки, для підвищення швидкости та/або тестування",
   "modernfix.option.mixin.safety": "Патчі паралелізму для запобігання збоїв під час запуску",
