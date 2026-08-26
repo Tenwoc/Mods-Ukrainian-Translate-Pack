@@ -1,11 +1,14 @@
 {
-  "packAction.copyId.description": "Утримуйте %s для копіювання",
-  "packAction.copyId.success": "Скопійовано!",
-  "packAction.copyId.title": "Скопіювати Id пакета",
-  "packAction.reloadSettings.description": "Утримуйте %s для перезавантаження",
-  "packAction.reloadSettings.success": "Перезавантажено!",
-  "packAction.reloadSettings.title": "Перезавантажити налаштування",
-  "packAction.toggleDebug.description": "Утримуйте %s для перемикання",
-  "packAction.toggleDebug.success": "Увімкнено!",
-  "packAction.toggleDebug.title": "Перемкнути Id пакетів"
+  "pack_action.resourcepackoverrides.copy_id.description": "Утримуйте %s для копіювання",
+  "pack_action.resourcepackoverrides.copy_id.success": "Скопійовано!",
+  "pack_action.resourcepackoverrides.copy_id.title": "Скопіювати Id пакета",
+  "pack_action.resourcepackoverrides.reload_settings.description": "Утримуйте %s для перезавантаження",
+  "pack_action.resourcepackoverrides.reload_settings.success": "Перезавантажено!",
+  "pack_action.resourcepackoverrides.reload_settings.title": "Перезавантажити налаштування",
+  "pack_action.resourcepackoverrides.restore_defaults.description": "Утримуйте %s для відновлення",
+  "pack_action.resourcepackoverrides.restore_defaults.success": "Відновлено!",
+  "pack_action.resourcepackoverrides.restore_defaults.title": "Відновити усталені пакети",
+  "pack_action.resourcepackoverrides.toggle_debug.description": "Утримуйте %s для перемикання",
+  "pack_action.resourcepackoverrides.toggle_debug.success": "Увімкнено!",
+  "pack_action.resourcepackoverrides.toggle_debug.title": "Перемкнути Id пакетів"
 }
