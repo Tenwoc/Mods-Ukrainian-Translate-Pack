@@ -1,12 +1,12 @@
 {
   "subtitles.architects_palette.warping.item_warps" : "Перетворення предметів",
-  "subtitles.architects_palette.cage_lantern.toggle_on": "Загратований ліхтар увімкнено",
-  "subtitles.architects_palette.cage_lantern.toggle_off": "Загратований ліхтар вимкнено",
+  "subtitles.architects_palette.cage_lantern.toggle_on": "Заґратований ліхтар увімкнено",
+  "subtitles.architects_palette.cage_lantern.toggle_off": "Заґратований ліхтар вимкнено",
   "subtitles.architects_palette.wardstone_deflect": "Захист із захисного каменю",
   "subtitles.architects_palette.chiseled_hadaline.activate": "Різьблений гадалін активується",
 
   "itemGroup.architects_palette.everything": "Architect's Palette",
-  "architects_palette.misc.no_quark": "Потрібує встановлення моду Quark",
+  "architects_palette.misc.no_quark": "Потребує встановлення моду Quark",
   "architects_palette.misc.vertical_config": "Вертикальні плити вимкнено у конфігурації",
 
 
@@ -28,7 +28,7 @@
   "architects_palette.advancement.root": "Architect's Palette",
   "architects_palette.advancement.root.desc": "Час будувати з чимось новим.",
   "architects_palette.advancement.totem_carving": "Зітріть посмішку з обличчя",
-  "architects_palette.advancement.totem_carving.desc": "Висічте нове обличчя акацієвому тотему за допомогою сокири.",
+  "architects_palette.advancement.totem_carving.desc": "Висічіть нове обличчя акацієвому тотему за допомогою сокири.",
   "architects_palette.advancement.buy_fish_block": "Який улов!",
   "architects_palette.advancement.buy_fish_block.desc": "Виторгуйте у рибалки шматок чудової риби.",
   "architects_palette.advancement.buy_pipe": "Місцевий водопровідник",
@@ -39,7 +39,7 @@
   "architects_palette.advancement.place_entrails.desc": "Покладіть і подивіться на щойно придбані нутрощі.",
   "architects_palette.advancement.buy_plating": "Щільна сталь",
   "architects_palette.advancement.buy_plating.desc": "Виторгуйте у латника на частину його покриття.",
-  "architects_palette.advancement.buy_spool": "Купівля оптом",
+  "architects_palette.advancement.buy_spool": "Купівля гуртом",
   "architects_palette.advancement.buy_spool.desc": "Купіть котушку пастушої вовни. Або, знаєте, зробіть її власноруч.",
   "architects_palette.advancement.buy_celestial_stone": "Хочете купити годинник?",
   "architects_palette.advancement.buy_celestial_stone.desc": "Купіть сонячний або місячний камінь у мандрівного торговця.",
@@ -78,7 +78,7 @@
 
   "block.architects_palette.charcoal_block": "Блок вугілля",
 
-  "block.architects_palette.myonite": "Міонітовий",
+  "block.architects_palette.myonite": "Міоніт",
   "block.architects_palette.myonite_bricks": "Міонітова цегла",
   "block.architects_palette.mushy_myonite_bricks": "Розм'якла міонітова цегла",
   "block.architects_palette.myonite_wall": "Міонітова стіна",
@@ -228,8 +228,8 @@
   "item.architects_palette.withered_bone": "Висушена кістка",
   "tag.c.withered_bones": "Висушені кістки",
 
-  "block.architects_palette.entwine_block": "Переплетіния",
-  "block.architects_palette.chiseled_entwine": "Різьблене переплетіння",
+  "block.architects_palette.entwine_block": "Переплетенник",
+  "block.architects_palette.chiseled_entwine": "Різьблений переплетенник",
   "block.architects_palette.entwine_pillar": "Переплетена колона",
   "block.architects_palette.entwine_bars": "Переплетений брус",
   "block.architects_palette.entwine_slab": "Переплетена плита",
@@ -303,14 +303,14 @@
   "block.architects_palette.moonstone": "Місячний камінь",
 
   "block.architects_palette.molten_nether_bricks": "Розпечена незерська цегла",
-  "block.architects_palette.coarse_snow": "Крупний сніг",
+  "block.architects_palette.coarse_snow": "Брудний сніг",
 
   "block.architects_palette.heavy_end_stone_bricks": "Важка цегла з каменю Енду",
   "block.architects_palette.heavy_cracked_end_stone_bricks": "Важка тріснута цегла з каменю Енду",
 
-  "block.architects_palette.redstone_cage_lantern": "Редстоуновий загратований ліхтар",
-  "block.architects_palette.glowstone_cage_lantern": "Світлокам'яний загратований ліхтар",
-  "block.architects_palette.algal_cage_lantern": "Водоростевий загратований ліхтар",
+  "block.architects_palette.redstone_cage_lantern": "Редстоуновий заґратований ліхтар",
+  "block.architects_palette.glowstone_cage_lantern": "Світлокам'яний заґратований ліхтар",
+  "block.architects_palette.algal_cage_lantern": "Водоростевий заґратований ліхтар",
 
   "block.architects_palette.grinning_acacia_totem": "Усміхнений акацієвий тотем",
   "block.architects_palette.placid_acacia_totem": "Спокійний акацієвий тотем",
@@ -375,16 +375,16 @@
   "block.architects_palette.mangrove_board_wall": "Мангрова дощата стіна",
   "block.architects_palette.mangrove_boards": "Мангрова дошка",
 
-  "block.architects_palette.oak_railing": "Дубові перила",
-  "block.architects_palette.dark_oak_railing": "Темно-дубові перила",
-  "block.architects_palette.spruce_railing": "Смерекові перила",
-  "block.architects_palette.twisted_railing": "Викривлені перила",
-  "block.architects_palette.birch_railing": "Березові перила",
-  "block.architects_palette.acacia_railing": "Акацієві перила",
-  "block.architects_palette.warped_railing": "Химерні перила",
-  "block.architects_palette.crimson_railing": "Багряні перила",
-  "block.architects_palette.jungle_railing": "Тропічні перила",
-  "block.architects_palette.mangrove_railing": "Мангрові перила",
+  "block.architects_palette.oak_railing": "Дубові бильця",
+  "block.architects_palette.dark_oak_railing": "Темно-дубові бильця",
+  "block.architects_palette.spruce_railing": "Смерекові бильця",
+  "block.architects_palette.twisted_railing": "Викривлені бильця",
+  "block.architects_palette.birch_railing": "Березові бильця",
+  "block.architects_palette.acacia_railing": "Акацієві бильця",
+  "block.architects_palette.warped_railing": "Химерні бильця",
+  "block.architects_palette.crimson_railing": "Багряні бильця",
+  "block.architects_palette.jungle_railing": "Тропічні бильця",
+  "block.architects_palette.mangrove_railing": "Мангрові бильця",
 
   "block.architects_palette.tuff_bricks": "Туфова цегла",
   "block.architects_palette.tuff_brick_wall": "Туфова цегляна стіна",
@@ -494,11 +494,11 @@
   "item.architects_palette.wardstone_blend": "Суміш із захисного каменю",
 
   "block.architects_palette.ancient_plating": "Стародавнє покриття",
-  "block.architects_palette.ancient_plating_wall": "Стіна зі стородавнього покриття",
-  "block.architects_palette.ancient_plating_stairs": "Сходи зі стородавнього покриття",
-  "block.architects_palette.ancient_plating_slab": "Плита зі стородавнього покриття",
-  "block.architects_palette.ancient_plating_vertical_slab": "Вертикальна плита зі стородавнього покриття",
-  "block.architects_palette.ancient_plating_fence": "Fence зі стородавнього покриття",
+  "block.architects_palette.ancient_plating_wall": "Стіна зі стародавнього покриття",
+  "block.architects_palette.ancient_plating_stairs": "Сходи зі стародавнього покриття",
+  "block.architects_palette.ancient_plating_slab": "Плита зі стародавнього покриття",
+  "block.architects_palette.ancient_plating_vertical_slab": "Вертикальна плита зі стародавнього покриття",
+  "block.architects_palette.ancient_plating_fence": "Fence зі стародавнього покриття",
 
   "block.architects_palette.hazard_sign": "Знак небезпеки",
 
@@ -517,7 +517,7 @@
   "block.architects_palette.diorite_nub": "Діоритовий мерлон",
   "block.architects_palette.emerald_nub": "Смарагдовий мерлон",
   "block.architects_palette.granite_nub": "Гранітний мерлон",
-  "block.architects_palette.iron_nub": "Залізинй мерлон",
+  "block.architects_palette.iron_nub": "Залізний мерлон",
   "block.architects_palette.netherite_nub": "Незеритовий мерлон",
   "block.architects_palette.stone_nub": "Кам'яний мерлон",
   "block.architects_palette.sunmetal_nub": "Мерлон із сонячного металу",
@@ -579,7 +579,7 @@
   "block.architects_palette.oracle_tiles": "Кахлі оракула",
   "block.architects_palette.oracle_vertical_slab": "Вертикальна плита оракула",
 
-  "item.architects_palette.cerebral_plate": "Церебральний пластина",
+  "item.architects_palette.cerebral_plate": "Церебральна пластина",
   "block.architects_palette.cerebral_block": "Церебральний блок",
   "block.architects_palette.cerebral_pillar": "Церебральна колона",
   "block.architects_palette.cerebral_slab": "Церебральна плита",

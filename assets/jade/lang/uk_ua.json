@@ -224,7 +224,7 @@
 	"config.jade.plugin_minecraft.container_entity": "Умістище-сутність",
 	"jade.llamaStrength": "Сила: %s",
 	"config.jade.plugin_minecraft.mob_growth": "Зростання моба",
-	"jade.mobgrowth.time": "Час зростання: %s",
+	"jade.mobgrowth.time": "Час до дорослішання: %s",
 	"jade.mobgrowth.paused": "Призупинено",
 	"config.jade.plugin_minecraft.mob_breeding": "Розведення мобів",
 	"config.jade.plugin_minecraft.mob_breeding_extra_msg": "затримка,розмноження,моби,дитинча",
