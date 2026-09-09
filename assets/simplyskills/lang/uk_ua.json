@@ -1541,8 +1541,8 @@
   "text.skills.necromancerSummonWraith.title": "§f[Виклик мороку]",
   "text.skills.necromancerSummonWraith.description": "§7Ваш §6[Ритуал виклику]§7 тепер має шанс викликати міньона §fМороку§7. Повітряний міньйон, який слідує за вами, одночасно застосовуючи закляття душі до ворогів поблизу.\n\nЗакляття, які застосовують ваші міньйони §fМороку§7, вважаються закляттями гравця і отримують бонуси від будь-яких пасивних ефектів, які спрацьовують від таких заклять.",
 
-  "text.skills.necromancerWitherWraiths.title": "§f[Морок висушення]",
-  "text.skills.necromancerWitherWraiths.description": "§7Ваші міньйони §fМороку§7 накладають Висушення при попаданні заклять.",
+  "text.skills.necromancerWitherWraiths.title": "§f[Морок висушування]",
+  "text.skills.necromancerWitherWraiths.description": "§7Ваші міньйони §fМороку§7 накладають Висушування при попаданні заклять.",
 
   "text.skills.necromancerFrostWraiths.title": "§f[Морок морозу]",
   "text.skills.necromancerFrostWraiths.description": "§7Ваші міньйони §fМороку§7 накладають Повільність при попаданні заклять.",

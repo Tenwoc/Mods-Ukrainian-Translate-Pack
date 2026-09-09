@@ -550,7 +550,7 @@
   "tooltip.enigmaticlegacy.angelBlessing6": "§5- Ваші власні снаряди значно прискорюються.",
   "tooltip.enigmaticlegacy.angelBlessing7": "§5- Активну здатність можна активувати,",
   "tooltip.enigmaticlegacy.angelBlessing8": "§5  натиснувши клавішу стрибка в повітрі.",
-  "tooltip.enigmaticlegacy.angelBlessing9": "§5- Ви вразливі до §6Висушення§5 та §6Порожнечі§5.",
+  "tooltip.enigmaticlegacy.angelBlessing9": "§5- Ви вразливі до §6Висушування§5 та §6Порожнечі§5.",
   
   "tooltip.enigmaticlegacy.eyeOfNebula1": "§dАктивна здібність:",
   "tooltip.enigmaticlegacy.eyeOfNebula2": "§6- Телепортує вас за істоту, на яку ви дивитеся.",
@@ -611,7 +611,7 @@
   "tooltip.enigmaticlegacy.voidPearl5": "§5  набагато повільніше.",
   "tooltip.enigmaticlegacy.voidPearl6": "§5- Вам більше не потрібне повітря для дихання.",
   "tooltip.enigmaticlegacy.voidPearl7": "§5- Невразливість до будь-яких статусних ефектів.",
-  "tooltip.enigmaticlegacy.voidPearl8": "§5- Ваші атаки завдають §6Висушення§5.",
+  "tooltip.enigmaticlegacy.voidPearl8": "§5- Ваші атаки завдають §6Висушування§5.",
   "tooltip.enigmaticlegacy.voidPearl9": "§5- будь-які істоти в темряві поряд із вами",
   "tooltip.enigmaticlegacy.voidPearl10": "§5  отримують величезну шкоду і важкі шкідливі ефекти.",
   "tooltip.enigmaticlegacy.voidPearl11": "§5  §6Небесні крила§5 накладаються",

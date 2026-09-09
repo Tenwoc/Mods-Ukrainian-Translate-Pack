@@ -33,9 +33,7 @@ navigation:
 <ImportStructure src="assets/assemblies/budding_certus_1.snbt" />
 </GameScene>
 
-Друзи істинного кварцу проростають із [блоків родючого кварцу](items-blocks-machines/budding_certus.md), як аметист. Якщо ви зламаєте неповноцінний зародок
-кристала, він скине один <ItemLink id="certus_quartz_dust" />, незалежно від удачі на інструменті. <ItemLink id="certus_quartz_crystal" /> падає із повноцінної
-друзи у кількости 4 одиниць, і удача вже може збільшити це число.
+Друзи істинного кварцу проростають із [блоків родючого кварцу](items-blocks-machines/budding_certus.md), як аметист. Якщо ви зламаєте зародок кристала, він скине один <ItemLink id="certus_quartz_dust" />, незалежно від удачі на інструменті. <ItemLink id="certus_quartz_crystal" /> випадає з друзи у кількости 4 одиниць, і удача вже може збільшити це число.
 
 Існує 4 рівні якости родючого істинного кварцу: бездоганний, надщерблений, пошкоджений та дефектний.
 
@@ -128,7 +126,7 @@ navigation:
   - 1x <ItemLink id="drive" />
   - 1x <ItemLink id="terminal" /> або <ItemLink id="crafting_terminal" />
   - 1x <ItemLink id="energy_acceptor" />
-  - Кілька [кабелів](items-blocks-machines/cables.md), скляних, огорнутих, розумних, але не щільних
+  - Кілька [кабелів](items-blocks-machines/cables.md), скляних, огорнених, розумних, але не щільних
   - Кілька [комірок зберігання](items-blocks-machines/storage_cells.md), рекомендується використовувати варіант на 4К для оптимального поєднання місткості та типів (було б ефективніше [розділяти](items-blocks-machines/cell_workbench.md) зберігання на 4К та 1К, але це складна тема, яку ми зараз не будемо розглядати)
 
 ---

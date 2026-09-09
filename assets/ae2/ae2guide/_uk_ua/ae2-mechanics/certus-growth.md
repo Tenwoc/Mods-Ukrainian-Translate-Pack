@@ -13,11 +13,9 @@ navigation:
 <ImportStructure src="../assets/assemblies/budding_certus_1.snbt" />
 </GameScene>
 
-Друзи істинного кварцу проростають із [блоків родючого кварцу](../items-blocks-machines/budding_certus.md), як аметист. Якщо ви зламаєте неповноцінний зародок
-кристала, він скине один <ItemLink id="certus_quartz_dust" />, незалежно від удачі на інструменті. <ItemLink id="certus_quartz_crystal" /> падає із повноцінної
-друзи у кількости 4 одиниць, і удача вже може збільшити це число.
+Друзи істинного кварцу проростають із [блоків родючого кварцу](items-blocks-machines/budding_certus.md), як аметист. Якщо ви зламаєте зародок кристала, він скине один <ItemLink id="certus_quartz_dust" />, незалежно від удачі на інструменті. <ItemLink id="certus_quartz_crystal" /> випадає з друзи у кількости 4 одиниць, і удача вже може збільшити це число.
 
-Існує 4 рівні якости родючого істинного кварцу: бездоганний, надщерблений, пошкоджений та дефектний, і ви і спочатку їх можна знайти в [метеоритах](../ae2-mechanics/meteorites.md).
+Існує 4 рівні якости родючого істинного кварцу: бездоганний, надщерблений, пошкоджений та дефектний, і спочатку їх можна знайти в [метеоритах](../ae2-mechanics/meteorites.md).
 
 <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/assemblies/budding_blocks.snbt" />

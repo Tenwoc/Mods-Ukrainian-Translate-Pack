@@ -901,7 +901,7 @@
   "fluid.tconstruct.molten_pewter": "Розтоплений п'ютер",
   "fluid.tconstruct.flowing_molten_pewter": "Зріджений розтоплений п'ютер",
   "item.tconstruct.molten_pewter_bucket": "Відро розтопленого п'ютеру",
-  "fluid.tconstruct.molten_pewter.fluid_effect": "Розтоплене олово, ймовірно, менш ризиковане, ніж отрута, для підвищення сили, але не набагато.",
+  "fluid.tconstruct.molten_pewter.fluid_effect": "Розтоплене олово, ймовірно, менш ризиковане для підвищення сили ніж отрута, але не набагато.",
 
   "block.tconstruct.molten_steel_fluid": "Розтоплена сталь",
   "fluid.tconstruct.molten_steel": "Розтоплена сталь",
@@ -1870,7 +1870,7 @@
   "material.tconstruct.necrotic_bone.ammo": "Лікує 5% відсотків від шкоди, завданої влучаннями.",
   "material.tconstruct.necrotic_bone.skull": "Візер-скелет",
   "material.tconstruct.necrotic_bone.skull_flavor": "І живої кістки не залишу",
-  "material.tconstruct.necrotic_bone.skull_encyclopedia": "Робить вас невразливим до Висушування I. Атаки ближнього бою викликають 6 секунд висушення цілі.",
+  "material.tconstruct.necrotic_bone.skull_encyclopedia": "Робить вас невразливим до Висушування I. Атаки ближнього бою викликають 6 секунд висушування цілі.",
   "material.tconstruct.necrotic_bone.encyclopedia.ribcage": "Лікує 5% за кожен рівень шкоди, завданої критичними ударами.",
 
   "material.tconstruct.chorus": "Хорус",
@@ -3535,7 +3535,7 @@
   "modifier.tconstruct.fireborn.description": "Змушує атаки ближнього бою запалювати та надає імунітет до горіння",
   "modifier.tconstruct.withered": "Висушені кістки",
   "modifier.tconstruct.withered.flavor": "Секрет гниття",
-  "modifier.tconstruct.withered.description": "Змушує атаки ближнього бою спричиняти Висушення та робить вас невразливими до Висушення I.",
+  "modifier.tconstruct.withered.description": "Змушує атаки ближнього бою спричиняти Висушування та робить вас невразливими до Висушування I.",
   "modifier.tconstruct.boon_of_sssss": "Дар від ссссс",
   "modifier.tconstruct.boon_of_sssss.flavor": "З цим зілля доволі ефективні",
   "modifier.tconstruct.boon_of_sssss.description": "Збільшує тривалість позитивних ефектів",

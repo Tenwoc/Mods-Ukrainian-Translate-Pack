@@ -76,7 +76,7 @@
   "gui.mantle.fluid.contents": "Містить: %s",
   "gui.mantle.fluid.format": "%s / %s мВ %s",
 
-  "gui.mantle.fluid.hold_shift": "Утримуйте §e§oShift§r§7 для використання відер",
+  "gui.mantle.fluid.hold_shift": "Утримуйте §e§oShift§r§7 для перегляду у відрах",
   "gui.mantle.fluid.kilobucket": "%s кВ",
   "gui.mantle.fluid.bucket": "%s В",
   "gui.mantle.fluid.millibucket": "%s мВ",

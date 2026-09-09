@@ -16,7 +16,7 @@
   "effect.potionsmaster.zincpotioneffect.description": "Позначає блоки цинкової руди контуром, що дає змогу бачити їх крізь блоки.",
   "effect.potionsmaster.osmiumpotioneffect.description": "Позначає блоки осмієвої руди контуром, що дає змогу бачити їх крізь блоки.",
   "effect.potionsmaster.quartzpotioneffect.description": "Позначає блоки кварцової руди контуром, що дає змогу бачити їх крізь блоки.",
-  "effect.potionsmaster.bismuthpotioneffect.description": "Позначає блоки вісмутової руди контуром, що дає змогу бачити їх крізь блоки.",
+  "effect.potionsmaster.bismuthpotioneffect.description": "Позначає блоки бісмутової руди контуром, що дає змогу бачити їх крізь блоки.",
   "effect.potionsmaster.crimsonironpotioneffect.description": "Позначає блоки червоної залізної руди контуром, що дає змогу бачити їх крізь блоки.",
   "effect.potionsmaster.platinumpotioneffect.description": "Позначає блоки платинової руди контуром, що дає змогу бачити їх крізь блоки.",
   "effect.potionsmaster.netheritepotioneffect.description": "Позначає блоки стародавніх уламків контуром, що дає змогу бачити їх крізь блоки.",
@@ -142,7 +142,7 @@
   "effect.enlightened_end.suffocation.description": "Повільно висмоктує кисень, як при утопленні.",
   "effect.enlightened_end.burdened.description": "Значно збільшує швидкість падіння.",
   "effect.enlightened_end.bouncy.description": "Змушує відскакувати від певних блоків, нівелюючи при цьому шкоду від падіння.",
-  "effect.enlightened_end.vitality.description": "Запобігає та усуває ефекти Отруєння, Висушення та Нудоти.",
+  "effect.enlightened_end.vitality.description": "Запобігає та усуває ефекти Отруєння, Висушування та Нудоти.",
   "effect.enlightened_end.radiation_resistance.description": "Забезпечує стійкість до радіації.",
   "effect.enlightened_end.enderstride.description": "Випадково телепортує до місця, куди дивиться ціль.",
   "effect.enlightened_end.frigid.description": "Змушує замерзнути.",
@@ -243,7 +243,7 @@
 
   "effect.caupona.hyperactive.description": "Збільшує шкоду від атаки.",
 
-  "effect.divine_weaponry.wither_resistance.description": "Надає імунітет до ефекту Висушення.",
+  "effect.divine_weaponry.wither_resistance.description": "Надає імунітет до ефекту Висушування.",
   "effect.divine_weaponry.poison_resistance.description": "Надає імунітет до ефекту Отрути.",
   "effect.divine_weaponry.frosted.description": "Причиняє замерзання.",
   "effect.divine_weaponry.dazzling.description": "Частково затуманює зір.",
@@ -269,7 +269,7 @@
   "effect.bloodandmadness.trapped.description": "Вимикає рух та атаку.",
   "effect.bloodandmadness.chikage": "Жертва Чікаге",
   "effect.bloodandmadness.chikage.description": "Завдає шкоди з часом, коли Чікаге перетворюється в основній руці.",
-  "effect.bloodandmadness.fake_poison": "Фальшива отрута",
+  "effect.bloodandmadness.fake_poison": "Фальшиве отруєння",
   "effect.bloodandmadness.fake_poison.description": "Аааа! Отрута! О, зачекайте, це лише візуальний ефект…",
 
   "effect.aether_redux.blightward.description": "Надає імунітет до небезпечних рослин Blighted Fungi і Blightshade.",
@@ -304,14 +304,14 @@
   "effect.deep_aether.moa_bonus_jumps.description": "WIP. (Я ризикну припустити, що це додасть більше стрибків вашій Моа, але що я можу знати…)",
   "effect.deep_aether.valkyrie_valor.description": "Надає стійкість до шкоди від неживих мобів.",
 
-  "effect.nethers_exoticism.wither_cure.description": "Видаляє та надає імунітет до ефекту Висушення.",
+  "effect.nethers_exoticism.wither_cure.description": "Видаляє та надає імунітет до ефекту Висушування.",
 
   "effect.netheroverhaul.paralyzie.description": "Вимикає рух.",
 
   "effect.magistuarmory.laceration.description": "Зменшує максимальне здоров'я.",
 
   "effect.stalwart_dungeons.burning.description": "Випадково завдає вогневої шкоди з часом.",
-  "effect.stalwart_dungeons.spore.description": "Захоплює ціль у кокон Незер Варт, вимикаючи весь рух та завдаючи ефекти Висушення, Стійкість та Невидимість.",
+  "effect.stalwart_dungeons.spore.description": "Захоплює ціль у кокон Незер Варт, вимикаючи весь рух та завдаючи ефекти Висушування, Стійкість та Невидимість.",
 
   "effect.deep_blood.bleeding.description": "Завдає шкоди з часом.",
 
@@ -351,7 +351,7 @@
   "effect.born_in_chaos_v1.stimulation.description": "Збільшує швидкість руху, швидкість атаки та швидкість видобутку.",
   "effect.born_in_chaos_v1.stimulatingsurge.description": "Коли ефект починає діяти, збільшує швидкість руху монстрів поблизу цілі.",
   "effect.born_in_chaos_v1.obsession.description": "Надає регенерацію, стійкість, стійкість до вогню та збільшує швидкість руху та шкоду від атаки.",
-  "effect.born_in_chaos_v1.lifesteal.description": "Завдає шкоди з часом, одночасно лікуючи те, що спричинило ефект на ціль. Також завдає ефект Висушення на ціль на початку ефекту.",
+  "effect.born_in_chaos_v1.lifesteal.description": "Завдає шкоди з часом, одночасно лікуючи те, що спричинило ефект на ціль. Також завдає ефект Висушування на ціль на початку ефекту.",
   "effect.born_in_chaos_v1.dark_splash.description": "Відштовхує ціль та сутності поблизу вбік, завдаючи проникаючої шкоди та застосовуючи ефект Крадіжка життя в кінці ефекту.",
   "effect.born_in_chaos_v1.stranglehold.description": "Значно зменшує швидкість руху, якщо ціль не перебуває під ефектом Крадіжка життя.",
   "effect.born_in_chaos_v1.vampiric_touch.description": "Завдає ефекту Lifesteal атакованим сутностям.",
@@ -402,7 +402,7 @@
   "effect.mahoutsukai.reversion_eyes.description": "Змушує сутності в полі зору цілі втрачати буфи та унікальні якості.",
   "effect.mahoutsukai.reverted.description": "Змушує ціль втрачати буфи та унікальні якості, перебуваючи в полі зору сутності з ефектом «Очі реверсії».",
   "effect.mahoutsukai.fay_sight_eyes.description": "Надає здатність бачити лей-лінії та фей.",
-  "effect.mahoutsukai.black_flame_eyes.description": "Змушує чорні полум'я охопити місце, на яке дивиться ціль. Полум'я не поглинає блоки, але завдає шкоди Висушенням і ефектом Горіння.",
+  "effect.mahoutsukai.black_flame_eyes.description": "Змушує чорні полум'я охопити місце, на яке дивиться ціль. Полум'я не поглинає блоки, але завдає шкоди Висушуванням і ефектом Горіння.",
   "effect.mahoutsukai.black_burning.description": "Завдає шкоди з часом.",
   "effect.mahoutsukai.clairvoyance_eyes.description": "Надає здатність бачити передбачуваний шлях мобів.",
   "effect.mahoutsukai.death_collection_eyes.description": "Ціль збирає душі, побачивши смерть (повинна дивитися на неї). Якщо ціль зібрала достатньо душ, її смерть буде запобігана в обмін на душі.",
@@ -447,7 +447,7 @@
   "effect.terramity.nyxium_fire.description": "Завдає шкоди з часом.",
   "effect.terramity.slam_state.description": "Вказує, що ціль перебуває в стані удару і нівелює шкоду від падіння наступного разу, коли ціль торкнеться землі.",
   "effect.terramity.dash_cooldown.description": "Час відновлення для здібностей ривка.",
-  "effect.terramity.immunity.description": "Надає імунітет до Голоду, Слабкості, Висушення, Отрути, Уповільнення, Тіньового полум'я, Темряви, Сліпоти, Запаморочення та Прокляття.",
+  "effect.terramity.immunity.description": "Надає імунітет до Голоду, Слабкості, Висушування, Отрути, Уповільнення, Тіньового полум'я, Темряви, Сліпоти, Запаморочення та Прокляття.",
   "effect.terramity.hexed.description": "Зменшує здоров'я гравця вдвічі або завдає 20 одиниць шкоди іншим сутностям в кінці ефекту.",
   "effect.terramity.warping.description": "Вказує, що ціль буде переміщена в кінці ефекту.",
   "effect.terramity.divine_flight.description": "Надає цілі здатність літати.",
