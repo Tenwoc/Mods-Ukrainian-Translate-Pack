@@ -6,6 +6,8 @@
   "item.soaringstructures2.heavenly_cookies": "Небесне печиво",
   "item.soaringstructures2.heavenly_tea_with_cookies": "Небесний чай із печивом",
 
+
+
   "block.soaringstructures2.heavenly_flower": "Небесна квіточка",
   "item.soaringstructures2.heavenly_flower": "Небесна квіточка",
 
@@ -13,12 +15,12 @@
   "block.soaringstructures2.ancient_rose": "Стародавня троянда",
   "item.soaringstructures2.ancient_rose": "Стародавня троянда",
 
-
   "tooltip.soaringstructures2.bunch_heavenly_petals": "Дає ефект плавного падіння",
   "tooltip.soaringstructures2.ancient_rose": "Повіяло старовиною",
 
+
   "painting.soaringstructures2.heavenly_cookies_painting.author": "STGromov",
-  "painting.soaringstructures2.heavenly_cookies_painting.title": "Небесні печеньки",
+  "painting.soaringstructures2.heavenly_cookies_painting.title": "Небесні печива",
 
   "painting.soaringstructures2.heavenly_flower_painting.author": "STGromov",
   "painting.soaringstructures2.heavenly_flower_painting.title": "Небесна квіточка",
@@ -33,24 +35,26 @@
   "painting.soaringstructures2.pixel_dog_painting.title": "Піксельний пес",
 
   "painting.soaringstructures2.soaring_islands_painting.author": "STGromov",
-  "painting.soaringstructures2.soaring_islands_painting.title": "Ширяючі острови",
+  "painting.soaringstructures2.soaring_islands_painting.title": "Летючі острови",
 
 
-  "advancements.soaringstart.title": "Ласкаво просимо у світ ширяючих островів!",
+
+  "advancements.soaringstart.title": "Ласкаво просимо у світ Soaring Islands!",
   "advancements.soaringstart.descr": "Десь у хмарах",
 
   "advancements.heavenly_flower_destroy.title": "Небесні пелюстки",
   "advancements.heavenly_flower_destroy.descr": "Зламайте небесну квіточку",
 
   "advancements.heavenly_tea.title": "Небесний чай",
-  "advancements.heavenly_tea.descr": "Так близько до сонця",
+  "advancements.heavenly_tea.descr": "Випийте небесний чай!",
 
   "advancements.find_island.title": "Ласкаво просимо на ваш острів!",
-  "advancements.find_island.descr": "Скільки їх всього?",
+  "advancements.find_island.descr": "Які є ще?",
 
-  "advancements.heavenly_cookies.title": "Небесне печиво.",
-  "advancements.heavenly_cookies.descr": "Такі повітряні.",
+  "advancements.heavenly_cookies.title": "Небесне печиво",
+  "advancements.heavenly_cookies.descr": "Сині солодощі",
 
   "advancements.heavenly_tea_with_cookies.title": "Ідеальне поєднання!",
-  "advancements.heavenly_tea_with_cookies.descr": "Запорука гарного настрою"
+  "advancements.heavenly_tea_with_cookies.descr": "Особливий смак"
+
 }

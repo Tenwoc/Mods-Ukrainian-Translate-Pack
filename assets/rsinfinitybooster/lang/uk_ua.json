@@ -1,4 +1,7 @@
 {
-  "item.rsinfinitybooster.infinity_card": "Покращення: Нескінченна відстань",
-  "item.rsinfinitybooster.dimension_card": "Карта вимірів"
+  "item_group.rsinfinitybooster.tab": "RS Infinity Booster",
+  "item.rsinfinitybooster.infinity_card": "Покращення нескінченного діапазону",
+  "item.rsinfinitybooster.dimension_card": "Картка вимірів",
+  "item.rsinfinitybooster.tooltip.infinity_card.help": "Збільшує діапазон бездротового передавача на ∞ блоків",
+  "item.rsinfinitybooster.tooltip.dimension_card.help": "Збільшує діапазон бездротового передавача на ∞ блоків і дає доступ до мережі з будь-якого виміру"
 }

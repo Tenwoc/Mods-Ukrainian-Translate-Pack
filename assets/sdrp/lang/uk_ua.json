@@ -1,16 +1,18 @@
 {
-  "sdrp.logo": "Лого паку",
+  "sdrp.logo": "Лого пакета",
   "sdrp.mainmenu": "Головне меню",
+  "sdrp.in": "У ",
+
   "sdrp.overworld.in": "У Верхньому світі",
   "sdrp.overworld": "Верхній світ",
   "sdrp.the_nether.in": "У Незері",
   "sdrp.the_nether": "Незер",
-  "sdrp.the_end.in": "У Енді",
+  "sdrp.the_end.in": "В Енді",
   "sdrp.the_end": "Енд",
-  "sdrp.compact_world.in": "У Компактному світі",
+  "sdrp.compact_world.in": "У компактному світі",
   "sdrp.compact_world": "Компактний світ",
-  "sdrp.dungeon.in": "У Світі данжу",
-  "sdrp.dungeon": "Світ данжу",
-  "sdrp.spatial_storage.in": "У Світі данжу",
-  "sdrp.spatial_storage": "Світ данжу"
+  "sdrp.dungeon.in": "У світі підземелля",
+  "sdrp.dungeon": "Світ підземелля",
+  "sdrp.spatial_storage.in": "У зацифрованому просторі",
+  "sdrp.spatial_storage": "Світ зацифрованому просторі"
 }

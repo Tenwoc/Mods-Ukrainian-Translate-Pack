@@ -1,9 +1,9 @@
 {
   "itemGroup.rsrequestify": "RS: Requestify",
-  "block.rsrequestify.requester": "Запрошувач",
+  "block.rsrequestify.requester": "Запитувач",
   "button.refinedstoragerequestify:requester.save": "Зберегти",
   "tooltip.refinedstoragerequestify:requester.missing": "Відсутні інгредієнти",
   "block.rsrequestify.crafting_emitter": "Випромінювач створення",
-  "block.rsrequestify.crafting_emitter.tooltip": "Видає сигнал редстоуну, коли будь-який предмет/рідина у фільтрі створюється.",
-  "block.rsrequestify.requester.tooltip": "Зберігає відфільтрований предмет/рідину в запас з потрібною кількістю."
+  "block.rsrequestify.crafting_emitter.tooltip": "Випромінює редстоуновий сигнал, коли обробляється вказана кількість ресурсу.",
+  "block.rsrequestify.requester.tooltip": "Підтримує запас визначеної кількості ресурсів."
 }

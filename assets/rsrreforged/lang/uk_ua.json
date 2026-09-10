@@ -1,0 +1,10 @@
+{
+  "block.rsrreforged.requester": "Запитувач",
+  "button.rsrreforged:requester.save": "Зберегти",
+  "block.rsrreforged.crafting_emitter": "Випромінювач вироблення",
+  "block.rsrreforged.crafting_emitter.tooltip": "Випромінює редстоуновий сигнал, коли обробляється вказана кількість ресурсу.",
+  "block.rsrreforged.requester.tooltip": "Підтримує запас визначеної кількості ресурсів.",
+  "block.rsrreforged.requester.tooltip.filter": "Ресурси, які повинні запасатися в мережі сховища",
+  "block.rsrreforged.crafting_emitter.tooltip.filter": "Ресурси, які повинні випромінювати сигнал редстоуну",
+  "creativetab.rsrreforged.rsrreforgedtab": "RSRequestify: Reforged"
+}
