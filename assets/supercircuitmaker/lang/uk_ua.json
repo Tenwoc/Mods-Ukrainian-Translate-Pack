@@ -1,15 +1,15 @@
 {
   "itemGroup.supercircuitmaker": "Super Circuit Maker",
 
-  "block.supercircuitmaker.circuit": "Схеми",
+  "block.supercircuitmaker.circuit": "Схема",
   "block.supercircuitmaker.inspector": "Інспектор",
   "item.supercircuitmaker.screwdriver": "Викрутка",
   "item.supercircuitmaker.palette": "Палітра та пензлик",
-  "item.supercircuitmaker.tiny_redstone": "Крихітна купка редстоуновго пилу",
-  "item.supercircuitmaker.tiny_rgb_redstone": "RGB крихітна купка редстоуновго пилу",
-  "item.supercircuitmaker.randomizer": "Збуджувач тліючого каміння",
+  "item.supercircuitmaker.tiny_redstone": "Крихта редстоуновго пилу",
+  "item.supercircuitmaker.tiny_rgb_redstone": "Крихта RGB-редстоуновго пилу",
+  "item.supercircuitmaker.randomizer": "Світлокам'яний збуджувач",
   "item.supercircuitmaker.delay": "Кварцовий резонатор",
-  "item.supercircuitmaker.pulsar": "Пульсар Енду",
+  "item.supercircuitmaker.pulsar": "Пульсатор Енду",
   "item.supercircuitmaker.note": "Бупер",
   "item.supercircuitmaker.lamp": "Мініатюрна лампа",
   "item.supercircuitmaker.button": "Мініатюрна кнопка",
@@ -20,10 +20,10 @@
   "item.supercircuitmaker.constant": "Константа",
   "item.supercircuitmaker.platform": "Опорна платформа",
   "item.supercircuitmaker.redstone_stick": "Паличка з редстоуновим покриттям",
-  "item.supercircuitmaker.rgb_redstone_stick": "RGB паличка з редстоуновим покриттям",
+  "item.supercircuitmaker.rgb_redstone_stick": "Паличка з RGB-редстоуновим покриттям",
 
   "container.supercircuitmaker.delay": "Кварцовий резонатор: ",
-  "container.supercircuitmaker.pulsar": "Пульсар Енду: ",
+  "container.supercircuitmaker.pulsar": "Пульсатор Енду: ",
   "container.supercircuitmaker.timing.dec_10s": "-10с",
   "container.supercircuitmaker.timing.dec_1s": "-1с",
   "container.supercircuitmaker.timing.inc_1s": "+1с",
@@ -42,10 +42,10 @@
   "subtitles.supercircuitmaker.place": "БУП",
 
   "key.supercircuitmaker": "Super Circuit Maker",
-  "key.supercircuitmaker.open_palette": "Відкрита палітра",
+  "key.supercircuitmaker.open_palette": "Відкрити палітру",
   "key.supercircuitmaker.component_placement_modifier": "Модифікатор розміщення компонентів",
 
   "msg.supercircuitmaker.inspector.learned": "Вивчено!",
-  "msg.supercircuitmaker.inspector.mode_state": "Вибрано режим: Узгодження стану блоку",
-  "msg.supercircuitmaker.inspector.mode_block": "Вибраний режим: Зіставити тип блоку"
+  "msg.supercircuitmaker.inspector.mode_state": "Вибрано режим: Зіставляти стан блоку",
+  "msg.supercircuitmaker.inspector.mode_block": "Вибраний режим: Зіставляти тип блоку"
 }

@@ -1,13 +1,37 @@
 {
-  "text.structurecredits.message": "§7Ласкаво просимо у: %1$s §7- від: %2$s",
-  "text.structurecredits.message_dimensional_dungeon": "§7Ласкаво просимо у: %1$s §7- від: %2$s",
+  "text.structurecredits.message": "§7Вітаємо у: %1$s §7- від: %2$s",
+  "text.structurecredits.message_dimensional_dungeon": "§7Вітаємо у: %1$s §7- від: %2$s",
+  "text.structurecredits.message_no_creator": "§7Вітаємо: %1$s",
+  "text.structurecredits.message_no_creator_dimensional_dungeon": "§7Вітаємо: %1$s",
 
-  "text.structurecredits.info_message": "§7Перевірте зв’язки клавіш «Structure Credits», щоб мати гарний досвід роботи з модом",
+  "text.structurecredits.overlay.welcome": "Вітаємо: ",
+  "text.structurecredits.overlay.by": " - від: ",
 
   "category.structurecredits.keys": "Structure Credits",
-  "key.structurecredits.deactivate_key": "Деактивувати повідомлення про структуру",
+
+  "key.structurecredits.toggle_active": "Перемкнути повідомлення про структуру",
   "text.structurecredits.deactivated": "§7Повідомлення про структуру деактивовано.",
   "text.structurecredits.activated": "§7Повідомлення про структуру активовано.",
+
+  "key.structurecredits.toggle_only_one_time": "Перемкнути показ лише один раз",
+  "text.structurecredits.only_one_time_enabled": "§7Повідомлення про структуру будуть показані лише один раз на структуру.",
+  "text.structurecredits.only_one_time_disabled": "§7Повідомлення про структуру будуть показуватися кожного разу.",
+
+  "key.structurecredits.toggle_chat_message": "Перемкнути режим повідомлень у чаті",
+  "text.structurecredits.chat_message_enabled": "§7Повідомлення про структуру будуть відображатися у чаті.",
+  "text.structurecredits.chat_message_disabled": "§7Повідомлення про структуру будуть відображатися над інвентарем.",
+
+  "key.structurecredits.toggle_show_creator": "Перемкнути показ джерела",
+  "text.structurecredits.show_creator_enabled": "§7Назва джерела буде відображатися.",
+  "text.structurecredits.show_creator_disabled": "§7Назва джерела буде прихована.",
+
+  "key.structurecredits.toggle_continuous_display": "Перемкнути постійне відображення",
+  "text.structurecredits.continuous_display_enabled": "§7Повідомлення залишатимуться видимими під час перебування в структурі.",
+  "text.structurecredits.continuous_display_disabled": "§7Повідомлення зникатимуть через певний час.",
+
+  "key.structurecredits.toggle_require_different": "Перемкнути вимогу до іншої структури",
+  "text.structurecredits.require_different_enabled": "§7Потрібно відвідати іншу структуру, перш ніж побачити повідомлення знову.",
+  "text.structurecredits.require_different_disabled": "§7Можна побачити повідомлення одразу після повторного входу в структуру.",
 
   "key.structurecredits.show_again_key": "Відобразити повідомлення про структуру ще раз",
   "key.structurecredits.dont_show_key": "Ніколи не показувати це повідомлення про структуру",

@@ -2,11 +2,22 @@
   "spruceui.reset": "Перезавантажити",
   "spruceui.gui.unbind": "Відв’язати",
   "spruceui.narrator.separator": "Розділювач %s",
-  "spruceui.narration.toggle_switch": "Тумблер: %s, зі станом %s",
+  "spruceui.narration.toggle_switch": "Перемикач: %s, зі станом %s",
   "spruceui.options.generic": "%s: %s",
   "spruceui.options.generic.fancy": "Довільний",
   "spruceui.options.generic.fast": "Швидкий",
   "spruceui.options.generic.fastest": "Найшвидший",
   "spruceui.options.generic.simple": "Простий",
-  "spruceui.widget.separator": "Роздільник"
+  "spruceui.widget.separator": "Роздільник",
+
+  "spruceui_test.option.action": "Простий варіант дії",
+  "spruceui_test.option.boolean": "Булева опція",
+  "spruceui_test.option.checkbox": "Опція прапорця",
+  "spruceui_test.option.cycling": "Опція циклічної дії",
+  "spruceui_test.option.double": "Подвійна опція",
+  "spruceui_test.option.double_input": "Опція введення double",
+  "spruceui_test.option.float_input": "Опція введення float",
+  "spruceui_test.option.int_input": "Опція введення integer",
+  "spruceui_test.option.separator": "Розділювач",
+  "spruceui_test.option.toggle_switch": "Опція перемикача"
 }
