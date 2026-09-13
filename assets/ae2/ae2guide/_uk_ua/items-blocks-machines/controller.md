@@ -12,7 +12,7 @@ item_ids:
 
 # Контролер
 
-<BlockImage id="controller" p:state="online" scale="8 />
+<BlockImage id="controller" p:state="online" scale="8" />
 Контролер є центром маршрутизації [МЕ мережі](../ae2-mechanics/me-network-connections.md). Без нього мережа стає «автономною» і може мати максимум 8 каналів, що використовують [пристрої](../ae2-mechanics/devices.md).
 
 Неможливо мати 2 контролери в одній [МЕ мережі](../ae2-mechanics/me-network-connections.md).

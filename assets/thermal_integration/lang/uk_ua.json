@@ -1,0 +1,22 @@
+{
+  "_comment": "========================================================================================================",
+  "_comment": "Thermal Integration",
+  "_comment": "========================================================================================================",
+
+  "block.thermal.rose_gold_block": "Блок рожевого золота",
+  "block.thermal.steel_block": "Сталевий блок",
+
+  "item.thermal.rose_gold_coin": "Монета з рожевого золота",
+  "item.thermal.rose_gold_dust": "Пил рожевого золота",
+  "item.thermal.rose_gold_gear": "Шестірня з рожевого золота",
+  "item.thermal.rose_gold_ingot": "Злиток рожевого золота",
+  "item.thermal.rose_gold_nugget": "Самородок рожевого золота",
+  "item.thermal.rose_gold_plate": "Пластина з рожевого золота",
+
+  "item.thermal.steel_coin": "Сталева монета",
+  "item.thermal.steel_dust": "Сталевий пил",
+  "item.thermal.steel_gear": "Сталева шестірня",
+  "item.thermal.steel_ingot": "Сталевий злиток",
+  "item.thermal.steel_nugget": "Сталевий самородок",
+  "item.thermal.steel_plate": "Сталева пластина"
+}

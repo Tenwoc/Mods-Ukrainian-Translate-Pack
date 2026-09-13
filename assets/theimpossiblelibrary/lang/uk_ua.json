@@ -1,4 +1,18 @@
-{
+  {
+  "help.theimpossiblelibrary.data_folder.explanation.main.header": "Ця тека використовується для зберігання даних, які використовуються The Impossible Library і іншими модами, які можуть використовувати її як залежність. Вона також може містити деякі файли налагодження, такі як класи, згенеровані через ASM.",
+  "help.theimpossiblelibrary.data_folder.explanation.mod.header": "Для розробників модів:",
+  "help.theimpossiblelibrary.data_folder.explanation.mod.line.1": "Якщо ви зареєстрували будь-які глобальні дані через The Impossible Library, це місце, куди вони зберігаються! Якщо ваш modid тут, усе працює належним чином.",
+  "help.theimpossiblelibrary.data_folder.explanation.mod.line.2": "Якщо ви згенерували клас через ASM, який не працює, ви можете знайти копію його у підкаталогу 'asm_debug', щоб допомогти у процесі налагодження.",
+  "help.theimpossiblelibrary.data_folder.explanation.pack.header": "Для творців збірок:",
+  "help.theimpossiblelibrary.data_folder.explanation.pack.line.1": "Це місце, де зберігаються дані модів, які використовують глобальну систему даних, реалізовану The Impossible Library!",
+  "help.theimpossiblelibrary.data_folder.explanation.pack.line.2": "Якщо ви хочете швидко скинути дані конкретного моду, можете спробувати видалити файл .dat, відповідний його modid, тут.",
+  "help.theimpossiblelibrary.data_folder.explanation.pack.line.3": "Ця тека не потрібна для експорту під час упаковування збірки, якщо глобально збережені дані для деяких модів, які залежать від The Impossible Library, не є критичними для досвіду користувача.",
+  "help.theimpossiblelibrary.data_folder.explanation.player.header": "Для гравців:",
+  "help.theimpossiblelibrary.data_folder.explanation.player.line.1": "Ви, швидше за все, не повинні турбуватися про цю теку, але якщо ви помічаєте, що певний мод не працює, і здається, що існує файл .dat з його modid, ви можете спробувати видалити його.",
+  "help.theimpossiblelibrary.data_folder.explanation.player.line.2": "Немає гарантованих результатів щодо того, чи допоможе це, оскільки це залежить виключно від моду.",
+  "help.theimpossiblelibrary.data_folder.explanation.player.line.3": "Пам’ятайте повідомляти про проблеми!",
+  "help.theimpossiblelibrary.data_folder.explanation.separator": "----------------------------------------------------------------------------------------------------",
+
   "key.test": "Тестовий ключ",
   "key.categories.theimpossiblelibrary": "The Impossible Library"
 }
