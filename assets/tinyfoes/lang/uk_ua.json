@@ -1,10 +1,25 @@
 {
-  "entity.tinyfoes.babyfication_ray": "Дитяфікаційний промінь",
-  "itemGroup.tinyfoes.tiny_tab": "Вкладка Tiny",
-  "effect.tinyfoes.babyfication": "Дитяфікація",
-  "item.tinyfoes.babyfier": "Дитяфікатор",
   "item.minecraft.potion.effect.babyfication": "Зілля дитяфікації",
   "item.minecraft.splash_potion.effect.babyfication": "Вибухове зілля дитяфікації",
   "item.minecraft.lingering_potion.effect.babyfication": "Осідальне зілля дитяфікації",
-  "item.minecraft.tipped_arrow.effect.babyfication": "Стріла дитяфікації"
+  "item.minecraft.tipped_arrow.effect.babyfication": "Стріла дитяфікації",
+
+  "itemGroup.tinyfoes.tiny_tab": "Tiny Foes",
+
+  "item.tinyfoes.babyfier": "Дитяфікатор",
+  "item.tinyfoes.pacifier": "Заспокійник",
+  "item.tinyfoes.babyfier.mode.age_inversion": "Режим: Інверсія віку",
+  "item.tinyfoes.babyfier.mode.temporary": "Режим: Тимчасовий",
+  "item.tinyfoes.babyfier.tooltip.age_inversion": "Змінює стан віку цілі (дорослий | дитина)",
+  "item.tinyfoes.babyfier.tooltip.temporary": "Застосовує ефект тимчасової дитяфікації",
+  "item.tinyfoes.babyfier.tooltip": "[Застосуйте, щоб перемкнути режими]",
+
+  "effect.tinyfoes.babyfication": "Дитяфікація",
+
+  "entity.tinyfoes.babyfication_ray": "Промінь дитяфікації",
+
+  "command.babyfy.single" : "Дитяфіковано %s",
+  "command.babyfy.multiple" : "Дитяфіковано %s сутностей",
+  "command.config.set" : "%s встановлено на %s",
+  "command.config.reset": "скинути всі налаштування %s до типових"
 }

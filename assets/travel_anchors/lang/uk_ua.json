@@ -12,10 +12,31 @@
   "screen.travel_anchors.search": "Пошук",
   "screen.travel_anchors.nameless": "Введіть ім’я, щоб використовувати його",
 
-  "tooltip.travel_anchors.travel_anchor_block": "Подивіться на це за допомогою Посоха мандрівника або заклинання телепортації, щоб телепортуватися.",
-  "tooltip.travel_anchors.travel_staff": "ПКМ крадькома, щоб телепортуватися на невелику відстань. Подивіться на якір подорожі, щоб скасувати дію.",
+  "tooltip.travel_anchors.travel_anchor_block": "Подивіться на це із посохом подорожі або чарами Телепортації, щоб телепортуватися.",
+  "tooltip.travel_anchors.travel_staff": "ПКМ крадькома, щоб телепортуватися на невелику відстань. Подивіться на якір подорожі, щоб переміститися до нього.",
 
   "travel_anchors.tp.success": "Телепортовано на %s.",
   "travel_anchors.tp.fail": "Не знайдено якір подорожі.",
-  "travel_anchors.hop.fail": "Місце призначення заблоковано."
+  "travel_anchors.hop.fail": "Місце призначення заблоковано.",
+
+
+  "itemGroup.travelanchors": "Travel Anchors",
+  "item.travelanchors.travel_staff": "Посох подорожі",
+  "enchantment.travelanchors.range": "Діапазон",
+  "enchantment.travelanchors.range.desc": "Збільшує діапазон телепортації за кожен рівень",
+  "enchantment.travelanchors.teleportation": "Телепортація",
+  "enchantment.travelanchors.teleportation.desc": "Застосовує здібність телепортації посоха подорожі на інші предмети",
+  "block.travelanchors.travel_anchor": "Якір подорожі",
+  "screen.travelanchors.travel_anchor": "Якір подорожі",
+  "screen.travelanchors.search": "Пошук",
+  "screen.travelanchors.nameless": "Введіть ім’я, щоб використовувати його",
+  "tooltip.travelanchors.travel_anchor_block": "Подивіться на це із посохом подорожі або чарами Телепортації, щоб телепортуватися.",
+  "tooltip.travelanchors.travel_staff": "ПКМ крадькома, щоб телепортуватися на невелику відстань. Подивіться на якір подорожі, щоб переміститися до нього.",
+  "travelanchors.tp.success": "Телепортовано на %s.",
+  "travelanchors.tp.fail": "Не знайдено якір подорожі.",
+  "travelanchors.hop.fail": "Місце призначення заблоковано.",
+  "travelanchors.lock.button": "Заблокувати",
+  "travelanchors.lock.locked": "Цей якір тепер заблоковано.",
+  "travelanchors.lock.unlocked": "Цей якір більше не заблоковано.",
+  "travelanchors.lock.interact": "Цей якір заблоковано. ПКМ паличкою, щоб розблокувати."
 }

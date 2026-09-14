@@ -1,3 +1,10 @@
 {
-  "item.woodenshears.wooden_shears": "Дерев'яні ножиці"
+  "item.woodenshears.wooden_shears": "Дерев'яні ножиці",
+
+  "text.autoconfig.woodenshears.option.DURABILITY": "Міцність дерев'яних ножиць",
+  "text.autoconfig.woodenshears.option.DURABILITY.@Tooltip[0]": "§6§lМіцність дерев'яних ножиць",
+  "text.autoconfig.woodenshears.option.DURABILITY.@Tooltip[1]": "Визначає максимальну міцність дерев'яних ножиць.",
+  "text.autoconfig.woodenshears.option.DURABILITY.@Tooltip[2]": "§7§o0: деактивує міцність",
+  "text.autoconfig.woodenshears.option.DURABILITY.@Tooltip[3]": "§7§oМін: 0; Макс: 10000",
+  "text.autoconfig.woodenshears.option.DURABILITY.@Tooltip[4]": "§7§oТипово: 50"
 }

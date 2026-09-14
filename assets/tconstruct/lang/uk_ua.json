@@ -2503,7 +2503,7 @@
   "modifier.tconstruct.worldbound": "Світоприв'язаність",
   "modifier.tconstruct.worldbound.flavor": "Давність!",
   "modifier.tconstruct.worldbound.description": "Сира версія незериту, надає стійкість до зовнішніх пошкоджень, як-от вогню, але жодної додаткової сили",
-  "modifier.tconstruct.soulbound": "Душеприв'язаність",
+  "modifier.tconstruct.soulbound": "Душеприв'язування",
   "modifier.tconstruct.soulbound.flavor": "Зв'язок на все життя!",
   "modifier.tconstruct.soulbound.description": "Інструмент залишається в інвентарі після смерти!",
   "modifier.tconstruct.netherite": "Незерит",

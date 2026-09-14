@@ -2,7 +2,7 @@
   "item.torchbowmod.torchbow": "Смолоскипний лук",
   "item.torchbowmod.multitorch": "Мультисмолоскип",
   "item.torchbowmod.torcharrow": "Смолоскипна стріла",
-  "itemGroup.torchBowModTab": "TorchBowModTab",
+  "itemGroup.torchBowModTab": "TorchBowMod",
   "death.attack.EntityTorch": "%1$s загинув від смолоскипа %2$s.",
   "log.sb.check": "Перевірка статусу впровадження Storagebox......",
   "log.sb.load": "Storagebox підтвердив впровадження. Завантаження завершено.",

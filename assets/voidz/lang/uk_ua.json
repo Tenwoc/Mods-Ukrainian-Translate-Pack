@@ -1,7 +1,10 @@
 {
+  "block.voidz.item_group": "VoidZ",
   "block.voidz.void_portal": "Портал порожнечі",
   "block.voidz.void": "Порожнеча",
   "block.voidz.infested_void": "Заражена порожнеча",
+  "block.voidz.void_stone": "Камінь порожнечі",
+  "block.voidz.infested_void_stone": "Заражений камінь порожнечі",
 
   "death.attack.void": "%1$s був поглинений порожнечею",
 
