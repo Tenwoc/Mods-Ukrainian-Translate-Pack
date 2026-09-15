@@ -1,9 +1,9 @@
 {
   "block.minecraft.clock": "Годинник",
-  "item.minecraft.tipped_arrow.effect.lightning": "Стріла блискавки",
-  "item.minecraft.lingering_potion.effect.lightning": "Осідальне зілля блискавки",
-  "item.minecraft.potion.effect.lightning": "Зілля блискавки",
-  "item.minecraft.splash_potion.effect.lightning": "Вибухове зілля блискавки",
+  "item.minecraft.tipped_arrow.effect.lightning": "Блискавка у стрілі",
+  "item.minecraft.lingering_potion.effect.lightning": "Блискавка в осідальній пляшці",
+  "item.minecraft.potion.effect.lightning": "Блискавка у пляшці",
+  "item.minecraft.splash_potion.effect.lightning": "Блискавка у вибуховій пляшці",
 
   "item.minecraft.turtle_helmet": "Черепаший наголовок",
 
@@ -42,6 +42,8 @@
   "block.nekomasfixed.pyrotechnics_table": "Піротехнічний стіл",
   "item.nekomasfixed.pyrotechnics_table": "Піротехнічний стіл",
 
+  "block.nekomasfixed.corrupted_beacon": "Проклятий маяк",
+  "item.nekomasfixed.corrupted_beacon": "Проклятий маяк",
   "block.nekomasfixed.enderman_head": "Голова ендермена",
   "item.nekomasfixed.redstone_striker": "Редстоуновий ударник",
   "block.nekomasfixed.glow_torch": "Сяйноскип",

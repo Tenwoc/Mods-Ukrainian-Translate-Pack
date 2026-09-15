@@ -1012,7 +1012,7 @@
   "waila.ae2.P2PInputOneOutput": "З'єднано (вхідна сторона)",
   "waila.ae2.P2PMECarriedChannels": "Каналів транспортується: %d",
   "waila.ae2.P2POutput": "З'єднано (вихідна сторона)",
-  "waila.ae2.P2PUnlinked": "З'єднано розірвано",
+  "waila.ae2.P2PUnlinked": "З'єднання розірвано",
   "waila.ae2.Showing": "Відображення",
   "waila.ae2.Stored": "Зберігається: %s / %s",
   "waila.ae2.Suppressed": "Призупинено",
