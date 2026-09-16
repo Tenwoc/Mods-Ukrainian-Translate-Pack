@@ -59,13 +59,13 @@
     "apothic_attributes:life_steal": "викрадання життя",
     "apothic_attributes:life_steal.desc": "Процент зцілення від фактично завданої шкоди.",
 
-    "apothic_attributes:current_hp_damage": "шкоди по поточному здоров’ю",
+    "apothic_attributes:current_hp_damage": "шкоди по поточному здоров'ю",
     "apothic_attributes:current_hp_damage.desc": "Додаткова фізична шкода ближнього бою, заснована на здоров’ї цілі.",
 
     "apothic_attributes:overheal": "надзцілення",
     "apothic_attributes:overheal.desc": "Процент отримання сердець перепоглинання від фактично завданої шкоди.",
 
-    "apothic_attributes:ghost_health": "фантомного здоров’я",
+    "apothic_attributes:ghost_health": "фантомного здоров'я",
     "apothic_attributes:ghost_health.desc": "Не реалізовано",
 
     "apothic_attributes:arrow_damage": "шкоди від стріл",
