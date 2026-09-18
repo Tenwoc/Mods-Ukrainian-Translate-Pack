@@ -1,6 +1,6 @@
 {
     "block.create_sa.brass_cube": "Латунний куб",
-    "block.create_sa.propeller_render_prop": "Рендер пропелера",
+    "block.create_sa.propeller_render_prop": "Промальовування пропелера",
     "death.attack.grapplin_whisk_attack": "%1$s здуло",
     "death.attack.grapplin_whisk_attack.item": "%1$s здуло %2$s за допомогою: %3$s",
     "death.attack.grapplin_whisk_attack.player": "%1$s здуло під час спроби втекти від %2$s",

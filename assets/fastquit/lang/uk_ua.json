@@ -15,7 +15,7 @@
   "text.autoconfig.fastquit.title": "FastQuit",
   "text.autoconfig.fastquit.category.default": "Головне",
   "text.autoconfig.fastquit.option.renderSavingScreen": "Показувати екран \"Збереження світу\"",
-  "text.autoconfig.fastquit.option.renderSavingScreen.@Tooltip": "При грі з високим значенням дальності рендеру, вихід зі світу може займати дещо більше часу через необхідність у вивантаженні даних про чанки на стороні клієнта.\nЯкщо увімкнено, під час вивантаження даних відображатиметься екран \"Збереження світу\".",
+  "text.autoconfig.fastquit.option.renderSavingScreen.@Tooltip": "При грі з високим значенням дальності промальовування, вихід зі світу може займати дещо більше часу через необхідність у вивантаженні даних про чанки на стороні клієнта.\nЯкщо увімкнено, під час вивантаження даних відображатиметься екран \"Збереження світу\".",
   "text.autoconfig.fastquit.option.showToasts": "Показувати сповіщення",
   "text.autoconfig.fastquit.option.showToasts.@Tooltip": "Увімкнути відображення сповіщень при завершенні збереження світу.",
   "text.autoconfig.fastquit.option.showSavingTime": "Показувати тривалість збереження",

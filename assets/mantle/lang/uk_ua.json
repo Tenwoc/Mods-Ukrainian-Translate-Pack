@@ -1,6 +1,6 @@
 {
   "mantle:tooltip.cooktime": "Час приготування: %ds",
-  "config.mantle.extraHeartRenderer": "Увімкнути додатковий рендер серця",
+  "config.mantle.extraHeartRenderer": "Увімкнути додаткове промальовування серця",
   "config.mantle.enableFluidFogFix": "Увімкнути виправлення туману рідини",
 
   "command.mantle.view_tag.success": "Значення для теґу %s '%s':",

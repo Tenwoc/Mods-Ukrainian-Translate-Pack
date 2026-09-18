@@ -97,7 +97,7 @@
   "option.immersive_aircraft.useThirdPersonByDefault": "Усталено використовувати перегляд від третьої особи.",
   "option.immersive_aircraft.enableTrails": "Фантастичні парові сліди.",
   "option.immersive_aircraft.enableAnimatedSails": "Анімовані вітрила.",
-  "option.immersive_aircraft.renderDistance": "Відстань рендеру у блоках.",
+  "option.immersive_aircraft.renderDistance": "Відстань промальовування у блоках.",
   "option.immersive_aircraft.fuelConsumption": "Швидкість згоряння палива.",
   "option.immersive_aircraft.windClearWeather": "Базовий ефект вітру.",
   "option.immersive_aircraft.windRainWeather": "Вітер під час дощу.",

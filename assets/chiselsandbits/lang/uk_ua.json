@@ -372,7 +372,7 @@
   "mod.chiselsandbits.config.style.comment": "Дає змогу налаштувати різні параметри стилю гри.",
   "mod.chiselsandbits.config.style.bit-size.comment": "Дає змогу налаштувати розмір одного фрагмента відносно одного блоку.",
   "mod.chiselsandbits.config.performance.saving.thread-count.comment": "Кількість потоків, що використовуються під час збереження та стиснення даних з сутності чизельованих блоків.",
-  "mod.chiselsandbits.config.settings.chiseling-previews.debug.enabled.comment": "Вказує, чи слід увімкнути налагоджувальний рендеринг у попередньому перегляді Висікання та розміщення.",
+  "mod.chiselsandbits.config.settings.chiseling-previews.debug.enabled.comment": "Вказує, чи слід увімкнути налагоджувальне промальовування у попередньому перегляді Висікання та розміщення.",
   "mod.chiselsandbits.config.settings.chiseling-previews.debug.mutator.colors.chiseling.comment": "Колір області мутації Висікання у попередньому перегляді Висікання.",
   "mod.chiselsandbits.config.settings.chiseling-previews.debug.mutator.colors.placement.comment": "Колір області мутації розміщення у попередньому перегляді розміщення.",
   "mod.chiselsandbits.config.settings.patterns.export-path.comment": "Шлях, куди слід зберегти експортовані деталі.",

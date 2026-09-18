@@ -95,7 +95,7 @@
   "text.autoconfig.spell_engine.title" : "Spell Engine",
 
   "text.autoconfig.spell_engine.option.client.renderBeamsHighLuminance" : "Промені з високою яскравістю",
-  "text.autoconfig.spell_engine.option.client.renderBeamsHighLuminance.@Tooltip" : "Рендеринг променів заклинань з високою яскравістю для вразливіших візуальних ефектів",
+  "text.autoconfig.spell_engine.option.client.renderBeamsHighLuminance.@Tooltip" : "Промальовування променів заклинань з високою яскравістю для вразливіших візуальних ефектів",
   "text.autoconfig.spell_engine.option.client.holdToCastChannelled" : "Утримуйте, щоб застосувати ПРИЄДНАНІ заклинання",
   "text.autoconfig.spell_engine.option.client.holdToCastChannelled.@Tooltip" : "Застосовується лише для приєднаних заклинань! Якщо увімкнено, заклинання припиняється при відпусканні клавіші, інакше - при повторному натисканні клавіші",
   "text.autoconfig.spell_engine.option.client.holdToCastCharged" : "Утримувати, щоб застосувати ЗАРЯДЖЕНІ заклинання",

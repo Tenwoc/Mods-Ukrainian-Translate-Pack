@@ -7,13 +7,13 @@
   "lootbeams.config.main.renderNameColor": "Колір від імені",
   "lootbeams.config.main.renderNameColor.description": "Робить колір променів таким самим, як в імені предмета (за винятком кольору рідкості). \nМає пріоритет над render_rarity_color.",
 
-  "lootbeams.config.main.renderRarityColor": "Рендерити колір рідкости",
+  "lootbeams.config.main.renderRarityColor": "Промальовувати колір рідкости",
   "lootbeams.config.main.renderRarityColor.description": "Чи повинен промінь мати той же колір, що й рідкість предмета.",
 
-  "lootbeams.config.main.renderBeam": "Рендерити промінь",
+  "lootbeams.config.main.renderBeam": "Промальовувати промінь",
   "lootbeams.config.main.renderBeam.description": "Чи повинен промінь бути видимим.",
 
-  "lootbeams.config.main.renderDroplightBeam": "Рендерити світлопад променя",
+  "lootbeams.config.main.renderDroplightBeam": "Промальовувати світлопад променя",
   "lootbeams.config.main.renderDroplightBeam.description": "Чи повинен промінь виглядати як світлопад.",
 
   "lootbeams.config.main.animateDroplightBeam": "Анімувати світлопад",
@@ -64,8 +64,8 @@
   "lootbeams.config.main.glowingBeam": "Світіння променя",
   "lootbeams.config.main.glowingBeam.description": "Чи повинен промінь здобичі мати світіння.",
 
-  "lootbeams.config.main.renderDistance": "Відстань рендеру променя",
-  "lootbeams.config.main.renderDistance.description": "Наскільки близько має бути гравець, щоб бачити промінь.\n(примітка: цей параметр замінює стандартну дальність рендерингу предметів)",
+  "lootbeams.config.main.renderDistance": "Відстань промальовування променя",
+  "lootbeams.config.main.renderDistance.description": "Наскільки близько має бути гравець, щоб бачити промінь.\n(примітка: цей параметр замінює стандартну дальність промальовування предметів)",
 
   "lootbeams.config.main.changeDistance": "Відстань зміни променя",
   "lootbeams.config.main.changeDistance.description": "Наскільки близько має бути гравець, щоб спричинити зміни променя.\n (примітка: відстань згладжування — 1 одиниця)",
@@ -80,7 +80,7 @@
   "lootbeams.config.main.beamSizeOnApproach.description": "Перемикає зміну розміру променя здобичі, коли гравець наближається до нього.",
 
   "lootbeams.config.main.requireOnGround": "Необхідність опори",
-  "lootbeams.config.main.requireOnGround.description": "Чи повинен предмет лежати на поверхні, щоб рендерити промінь.",
+  "lootbeams.config.main.requireOnGround.description": "Чи повинен предмет лежати на поверхні, щоб промальовувати промінь.",
 
 
   "lootbeams.config.groundGlow": "Світіння на поверхні",
@@ -263,7 +263,7 @@
   "lootbeams.config.items.whitelist.description": "Ім’я в регістрі предметів, на яких промені будуть завжди.\n Наприклад: \"minecraft:stone\", \"minecraft:iron_ingot\", \nМожна так само вказати Mod Id для включення всіх предметів з мода.",
 
   "lootbeams.config.items.blacklist": "Чорний список",
-  "lootbeams.config.items.blacklist.description": "Ім’я в Регістрі предметів, на яких Loot Beams НЕ БУДЕ рендеритися. Володіє пріоритетом взагалі на все.\nМожна так само вказати Mod Id для включення всіх предметів з мода.",
+  "lootbeams.config.items.blacklist.description": "Ім’я в Регістрі предметів, на яких Loot Beams НЕ БУДЕ промальовуватися. Володіє пріоритетом взагалі на все.\nМожна так само вказати Mod Id для включення всіх предметів з мода.",
 
   "lootbeams.config.items.colorOverrides": "Перевизначення кольорів",
   "lootbeams.config.items.colorOverrides.description": "Перевизначає колір променя предмета за допомогою hex.\n Має відповідати певному формату: (registryname=hexcolor) або (#tagname=hexcolor).\nПриклади: \"minecraft:stone=#00FF00\", \"#minecraft:piglin_loved=gold\". Також підтримуються modid",
@@ -272,16 +272,16 @@
   "lootbeams.config.nametags": "Теги предметів",
 
   "lootbeams.config.nametags.advancedTooltips": "Покращені підказки",
-  "lootbeams.config.nametags.advancedTooltips.description": "Чи повинні ванільні підказки рендеритися на предметах у світі.",
+  "lootbeams.config.nametags.advancedTooltips.description": "Чи повинні ванільні підказки промальовуватися на предметах у світі.",
 
   "lootbeams.config.nametags.itemFrameTooltips": "Підказки у рамці для предметів",
-  "lootbeams.config.nametags.itemFrameTooltips.description": "Чи повинні ванільні підказки рендеритися у рамках для предметів (тільки для предметів зі зміненим ім’ям).",
+  "lootbeams.config.nametags.itemFrameTooltips.description": "Чи повинні ванільні підказки промальовуватися у рамках для предметів (тільки для предметів зі зміненим ім’ям).",
 
   "lootbeams.config.nametags.worldspaceTooltips": "Підказки у просторі світу",
-  "lootbeams.config.nametags.worldspaceTooltips.description": "Чи повинні підказки рендеритися у світі.",
+  "lootbeams.config.nametags.worldspaceTooltips.description": "Чи повинні підказки промальовуватися у світі.",
 
-  "lootbeams.config.nametags.renderTooltipsInThirdPersonView": "Рендерити підказки у перегляді від 3-ї особи",
-  "lootbeams.config.nametags.renderTooltipsInThirdPersonView.description": "Чи повинні підказки рендеритися в інших режимах перегляду",
+  "lootbeams.config.nametags.renderTooltipsInThirdPersonView": "Промальовувати підказки у перегляді від 3-ї особи",
+  "lootbeams.config.nametags.renderTooltipsInThirdPersonView.description": "Чи повинні підказки промальовуватися в інших режимах перегляду",
 
   "lootbeams.config.nametags.borders": "Краї",
   "lootbeams.config.nametags.borders.description": "Відображати назви з краями. У разі вимкнення назви будуть малюватися суцільним фоном як імена гравців.",
@@ -292,11 +292,11 @@
   "lootbeams.config.nametags.renderNametagsOnlook": "Відображати назву під поглядом",
   "lootbeams.config.nametags.renderNametagsOnlook.description": "Чи варто ренедрити назву при погляді на предмет.",
 
-  "lootbeams.config.nametags.renderItemRarity": "Рендерити рідкість предмета",
-  "lootbeams.config.nametags.renderItemRarity.description": "Чи повинна взагалі рендеритися рідкість предмета.",
+  "lootbeams.config.nametags.renderItemRarity": "Промальовувати рідкість предмета",
+  "lootbeams.config.nametags.renderItemRarity.description": "Чи повинна взагалі промальовуватися рідкість предмета.",
 
-  "lootbeams.config.nametags.renderItemRarityInTooltip": "Рендерити рідкість предмета у підказці",
-  "lootbeams.config.nametags.renderItemRarityInTooltip.description": "Чи повинна рендеритися рідкість предмета у його підказці.",
+  "lootbeams.config.nametags.renderItemRarityInTooltip": "Промальовувати рідкість предмета у підказці",
+  "lootbeams.config.nametags.renderItemRarityInTooltip.description": "Чи повинна промальовуватися рідкість предмета у його підказці.",
 
   "lootbeams.config.nametags.renderStackcount": "Відображати кількість",
   "lootbeams.config.nametags.renderStackcount.description": "Чи варто показувати кількість предмета в назві.",
@@ -329,7 +329,7 @@
   "lootbeams.config.nametags.whiteRarities.description": "Чи повинні рідкості ігнорувати свій колір і відображатися білими \n(В основному використовується в модпаках)",
 
   "lootbeams.config.nametags.vanillaRarities": "Ванільні рідкості",
-  "lootbeams.config.nametags.vanillaRarities.description": "Чи повинні рендеритися ванільні рідкості.",
+  "lootbeams.config.nametags.vanillaRarities.description": "Чи повинні промальовуватися ванільні рідкості.",
 
   "lootbeams.config.nametags.screenTooltipsRequireCrouch": "Екран підказок потребує присідання",
   "lootbeams.config.nametags.screenTooltipsRequireCrouch.description": "Чи треба потребувати присідання для відображення розширених покращених підказок.",

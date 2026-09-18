@@ -166,7 +166,7 @@
   "config.emi.ui.recipe_fill_button": "Кнопка заповнення рецепта",
   "config.emi.ui.recipe_screenshot_button": "Кнопка скриншоту рецепта",
   "config.emi.ui.recipe_screenshot_scale": "Масштабування скриншоту рецепта",
-  "config.emi.ui.use_batched_renderer": "Використовувати пакетний рендеринг",
+  "config.emi.ui.use_batched_renderer": "Використовувати пакетне промальовування",
 
   "config.emi.dev.dev_mode": "Режим розробника",
   "config.emi.dev.edit_mode": "Режим редагування",
@@ -273,7 +273,7 @@
   "screen.emi.config.reset": "Скасувати %s змін(у/и)",
 
   "emi.error.recipe.initialize": "Помилка ініціалізації",
-  "emi.error.recipe.render": "Помилка рендерингу",
+  "emi.error.recipe.render": "Помилка промальовування",
 
   "emi.dev.severity.error": "Помилка",
   "emi.dev.severity.warning": "Попередження",

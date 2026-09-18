@@ -69,8 +69,8 @@
   "cloth_config.sound_physics_remastered.environment_logging.description": "Надає більше інформації про розрахунок середовища в журналах.",
   "cloth_config.sound_physics_remastered.performance_logging": "Журналювання продуктивності",
   "cloth_config.sound_physics_remastered.performance_logging.description": "Надає більше інформації про те, скільки часу займають обчислення.",
-  "cloth_config.sound_physics_remastered.render_sound_bounces": "Рендерити відбивання звуку",
+  "cloth_config.sound_physics_remastered.render_sound_bounces": "Промальовувати відбивання звуку",
   "cloth_config.sound_physics_remastered.render_sound_bounces.description": "Якщо увімкнено, шлях звуку відображатиметься в грі.",
-  "cloth_config.sound_physics_remastered.render_occlusion": "Рендерити оклюзію",
+  "cloth_config.sound_physics_remastered.render_occlusion": "Промальовувати оклюзію",
   "cloth_config.sound_physics_remastered.render_occlusion.description": "Якщо увімкнено, оклюзія буде візуалізуватися в грі."
 }
