@@ -8,6 +8,12 @@
         {
             endscreen: true,
             postcredits: true,
+            occultism_new:
+            {
+                type: "enum",
+                values: ["new", "old"],
+                default: "old"
+            },
             create_feets:
             {
                 type: "enum",

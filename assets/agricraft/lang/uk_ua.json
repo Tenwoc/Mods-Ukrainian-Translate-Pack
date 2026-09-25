@@ -198,7 +198,7 @@
   "config.agricraft.stats.mutativity_min": "Мін. мутативність",
   "config.agricraft.stats.mutativity_max": "Макс. мутативність",
   "config.agricraft.stats.mutativity_hidden": "Приховати мутативність",
-  "config.agricraft.compat": "Сумісності з модифікаціями",
+  "config.agricraft.compat": "Сумісності з модами",
   "config.agricraft.compat.botania": "Увімкнути сумісність з Botania",
   "config.agricraft.compat.mysticalagriculture": "Увімкнути сумісність з Mystical Agriculture",
   "config.agricraft.compat.pneumaticcraft": "Увімкнути сумісність з PneumaticCraft",

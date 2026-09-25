@@ -262,7 +262,7 @@
   "config.jade.plugin_ae2.debug": "AE2 інформація налагодження",
   "config.jade.plugin_ae2.grid_node_state": "AE2 стан мережі",
   "config.jade.plugin_ae2.part_icon": "AE2 частина значка",
-  "config.jade.plugin_ae2.part_mod_name": "AE2 ім’я модифікації",
+  "config.jade.plugin_ae2.part_mod_name": "AE2 ім’я моду",
   "config.jade.plugin_ae2.part_name": "AE2 частина імені",
   "config.jade.plugin_ae2.part_tooltip": "AE2 частина підказки",
   "config.jade.plugin_ae2.pattern_provider": "AE2 постачальник шаблонів",

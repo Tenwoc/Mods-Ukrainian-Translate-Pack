@@ -1,6 +1,4 @@
 {
-    "rpo.mutp": "Переклад модифікацій українською",
-    "rpo.mutp.tooltip": "Ви завжди можете запропонувати щось через GitHub",
 
     "rpo.mutp.textCategory": "Тексти…",
     "rpo.mutp.textCategory.tooltip": "Перемикайте використання перекладів та спірних моментів",
@@ -11,7 +9,11 @@
         "rpo.mutp.textCategory.postcredits.tooltip": "Власний переклад цитати у кінці титрів.",
         "rpo.mutp.textCategory.splashes": "Сплеши",
         "rpo.mutp.textCategory.splashes.tooltip": "Власний переклад сплешів (частковий).",
-
+        
+        "rpo.mutp.textCategory.occultism_new": "Occultism: Переклад для 26.Х",
+        "rpo.mutp.textCategory.occultism_new.tooltip": "Перемкніть це, щоб використовувати переклад Occultism для версій 26.Х.\nПісля зміни цього перезайдіть у світ, щоб також оновити записи у Словнику духів. Також Словник з якоїсь причини може оновитись, якщо після зміни праметру ви просто зайдете та вийдете у це вікно налаштувань.",
+            "rpo.mutp.textCategory.occultism_new.new": "26.Х",
+            "rpo.mutp.textCategory.occultism_new.old": "1.21.1",
         "rpo.mutp.textCategory.create_feets": "Create: «Сплави» або «Стопи»",
         "rpo.mutp.textCategory.create_feets.tooltip": "В офіційному перекладі Create використовується термін «Стоп» для перекладу слова «Alloy».\nMUTP усталено змінює це на «Сплав». Ви можете повернути оригінальний переклад.",
             "rpo.mutp.textCategory.create_feets.splav": "Сплав",

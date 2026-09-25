@@ -2294,7 +2294,7 @@
   "itemGroup.dramaticdoors_manyideas": "Dramatic Doors: ManyIdeas Doors",
   
   "config.dramaticdoors.waterloggable_doors.name": "Затоплювані двері",
-  "config.dramaticdoors.waterloggable_doors.tooltip": "Дозволити затоплення дверей. Увімкніть, щоб дозволити затоплення. Вимкніть для сумісності з певними модифікаціями. Потрібно перезавантажити після зміни. Типово: true",
+  "config.dramaticdoors.waterloggable_doors.tooltip": "Дозволити затоплення дверей. Увімкніть, щоб дозволити затоплення. Вимкніть для сумісності з певними модами. Потрібно перезавантажити після зміни. Типово: true",
   "config.dramaticdoors.waterloggable_fence_gates.name": "Затоплювані хвіртки",
-  "config.dramaticdoors.waterloggable_fence_gates.tooltip": "Дозволити затоплення хвірток. Увімкніть, щоб дозволити затоплення. Вимкніть для сумісності з певними модифікаціями. Потрібно перезавантажити після зміни.  Типово: true"
+  "config.dramaticdoors.waterloggable_fence_gates.tooltip": "Дозволити затоплення хвірток. Увімкніть, щоб дозволити затоплення. Вимкніть для сумісності з певними модами. Потрібно перезавантажити після зміни.  Типово: true"
 }

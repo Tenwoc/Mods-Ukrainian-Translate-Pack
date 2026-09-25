@@ -90,7 +90,7 @@
   "message.rftoolsbuilder.space_chamber_card.channel": "Канал: ",
   "message.rftoolsbuilder.space_chamber_card.extra": "(остаточна вартість залежить від рівня влиття)",
   "message.rftoolsbuilder.shape_card.warning": "Вимкнено в конфігурації!",
-  "message.rftoolsbuilder.shape_card.header": "Ця картка представляє область, яка може бути використана щитом або конструктором. Клацніть ПКМ по конструктору, щоб запустити режим позначання, а потім клацніть ПКМ, щоб позначити два кути потрібної області",
+  "message.rftoolsbuilder.shape_card.header": "Ця картка представляє область, яка може бути використана щитом або будівельником. Клацніть ПКМ по будівельнику, щоб запустити режим позначання, а потім клацніть ПКМ, щоб позначити два кути потрібної області",
   "message.rftoolsbuilder.shape_card.shape": "Форма: ",
   "message.rftoolsbuilder.shape_card.dimension": "Розмір: ",
   "message.rftoolsbuilder.shape_card.offset": "Зсув: ",

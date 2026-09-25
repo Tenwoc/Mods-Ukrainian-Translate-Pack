@@ -4,10 +4,10 @@
     "pack_format": 34,
     "supported_formats": {
       "min_inclusive": 9,
-      "max_inclusive": 95
+      "max_inclusive": 98
     },
     "min_format": 9,
-    "max_format": 99999
+    "max_format": 98
   },
   "fastassetsload": {
     "dont_ignore_assets": [

@@ -209,7 +209,7 @@
   "waystones.configuration.journeyMap.enabled": "Увімкнути підтримку JourneyMap",
   "waystones.configuration.journeyMap.enabled.tooltip": "Якщо увімкнено, для кожного активованого каменю шляху будуть створюватися мітки JourneyMap.",
   "waystones.configuration.journeyMap.preferJourneyMapIntegrationMod": "Віддати перевагу моду JourneyMap Integration",
-  "waystones.configuration.journeyMap.preferJourneyMapIntegrationMod.tooltip": "Якщо увімкнено, мітки JourneyMap будуть створюватися лише в тому випадку, якщо модифікація «JourneyMap Integration» не встановлена.",
+  "waystones.configuration.journeyMap.preferJourneyMapIntegrationMod.tooltip": "Якщо увімкнено, мітки JourneyMap будуть створюватися лише в тому випадку, якщо мод «JourneyMap Integration» не встановлено.",
   "waystones.configuration.dynmap": "Інтеграція з Dynmap",
   "waystones.configuration.dynmap.enabled": "Увімкнути підтримку Dynmap",
   "waystones.configuration.dynmap.enabled.tooltip": "Якщо увімкнено, шляхокамені додаватимуть маркери для шляхокаменів та спільнокаменів до Dynmap.",
