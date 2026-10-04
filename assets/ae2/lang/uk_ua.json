@@ -997,7 +997,7 @@
   "waila.ae2.CraftingLockedByLackOfRedstoneSignal": "Заблоковано через відсутність редстоунового сигналу",
   "waila.ae2.CraftingLockedByRedstoneSignal": "Заблоковано редстоуновим сигналом",
   "waila.ae2.CraftingLockedUntilPulse": "Очікування редстоунового імпульсу для розблокування",
-  "waila.ae2.CraftingLockedUntilResult": "Очікування %s (%d) для розблокування",
+  "waila.ae2.CraftingLockedUntilResult": "Для розблокування очікується: %d× %s",
   "waila.ae2.DeviceMissingChannel": "Немає каналу для пристрою",
   "waila.ae2.DeviceOffline": "Пристрій не в мережі",
   "waila.ae2.DeviceOnline": "Пристрій в мережі",

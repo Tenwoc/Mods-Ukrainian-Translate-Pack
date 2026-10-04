@@ -497,7 +497,7 @@
     "gem_class.trident": "Списи",
     "gem_class.anything": "Будь-що",
 
-    "bonus.apotheosis:durability.desc": "Втрачає на %s%% міцности",
+    "bonus.apotheosis:durability.desc": "Втрачає на %s%% менше міцности",
     "bonus.apotheosis:enchantment.desc": "+%s %s до: %s",
     "bonus.apotheosis:enchantment.desc.mustExist": "+%s %s до наявних чар: %s",
     "bonus.apotheosis:enchantment.desc.global": "+%s %s до усіх наявних чар",
