@@ -161,7 +161,7 @@
   "block.clutter.cherry_mosaic_stairs": "Вишневі мозаїчні сходи",
   "block.clutter.redwood_mosaic_stairs": "Секвоєві мозаїчні сходи",
 
-  "block.clutter.brick_kiln": "Цегляна піч",
+  "block.clutter.brick_kiln": "Випалювальна піч",
   "block.clutter.green_fire": "Зелений вогонь",
   "block.clutter.blue_armchair": "Синє крісло",
   "block.clutter.blue_bunk_bed": "Синє двох'ярусне ліжко",
@@ -1326,7 +1326,7 @@
   "container.clutter.wall_cupboard": "Настінна шафа",
   "container.clutter.cupboard": "Шафа",
   "container.clutter.shelf": "Поличка",
-  "container.clutter.brick_kiln": "Піч для випалу",
+  "container.clutter.brick_kiln": "Випалювальна піч",
   "container.clutter.mailbox": "Поштова скринька",
   "recipe_type.clutter.kilning": "Випалювання",
   "container.clutter.cardboard_box": "Картонна коробка",
