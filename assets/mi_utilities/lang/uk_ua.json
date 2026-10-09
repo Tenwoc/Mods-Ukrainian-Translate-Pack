@@ -1,0 +1,10 @@
+{
+  "item.mi_utilities.tier_swapper": "Картка заміни",
+  "itemGroup.mi_utilities.mi_utilities": "MI Utilities",
+  "text.mi_utilities.already_has_contents": "Неможливо замінити на непорожнє блок-вмістилище",
+  "text.mi_utilities.insufficient_capacity": "Вмістилище в руці не має достатньої місткості (%s) для перенесення вмісту цільового вмістилища (%s).",
+  "text.mi_utilities.same_block_1": "Не можна замінити бочку або резервуар на такий самий.",
+  "text.mi_utilities.same_block_2": "\n…навіщо взагалі ти намагаєшся це зробити?",
+  "text.mi_utilities.tier_swapper_link_info": "Сполучено з мережею МЕ у %s.",
+  "text.mi_utilities.tier_swapper_not_linked": "Не сполучено з мережею МЕ."
+}

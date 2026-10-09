@@ -1,0 +1,19 @@
+{
+  "me_building_gadgets.ae_order": "Заказати з мережі",
+  "me_building_gadgets.replace_material": "Замінити блок",
+  "me_building_gadgets.replace_material.invalid": "§c[GadgetsME] Заміна не вдалася: виберіть правильний блок і спробуйте ще раз",
+  "me_building_gadgets.tooltip.copy_paste": "§eЗастосуйте крадькома§7, щоб вставити примусово, пропускаючи порядок §8|·§aАвтозамовлює§7 предмети за їх нестачею",
+  "me_building_gadgets.messages.no_gadget": "§c[GadgetsME] Не знайдено сполученого гаджета",
+  "me_building_gadgets.messages.no_grid": "§c[GadgetsME] Не сполучено з мережею МЕ",
+  "me_building_gadgets.messages.chain_stopped_gadget": "§c[GadgetsME] Втрачено сполучений гаджет — замовлення скасовано",
+  "me_building_gadgets.messages.chain_stopped_grid": "§c[GadgetsME] Втрачено з'єднання з мережею МЕ — замовлення скасовано",
+  "me_building_gadgets.messages.chain_stopped_terminal": "§c[GadgetsME] Бездротовий термінал відсутній — отримання замовлень зупинено",
+  "me_building_gadgets.messages.nothing_to_order": "§7[GadgetsME] Матеріалів вистачає або вони вже вироблюються — замовляти нічого",
+  "me_building_gadgets.messages.no_terminal": "§c[GadgetsME] Виявлено §e%s §cнестач предметів, але у вас немає бездротового термінала",
+  "me_building_gadgets.messages.no_pattern_only": "§c[GadgetsME] Виявлено §e%s §cнестач предметів без шаблонів, неможливо замовити: §f%s",
+  "me_building_gadgets.messages.no_pattern_extra": "§6[GadgetsME] Інші §e%s §6 без шаблонів не будуть замовлені: §f%s",
+  "me_building_gadgets.messages.shortage_queued": "§a[GadgetsME] §e%s §aнестач у черзі — підтвердьте кожен екран §8(§7або закрийте, щоб пропустити§8)",
+  "item.me_building_gadgets.ae2_gadget_copy_paste": "МЕ Вирізальний гаджет",
+  "item.me_building_gadgets.me_building_gadget": "МЕ Будівельний гаджет",
+  "item.me_building_gadgets.me_exchanging_gadget": "МЕ Замінювальний гаджет"
+}
