@@ -3582,6 +3582,7 @@
   "gtceu.multiblock.turbine.energy_per_tick_maxed": "Вихід енергії: %s EU/т",
   "gtceu.multiblock.turbine.fuel_amount": "Кількість палива: %sЛ (%s)",
   "gtceu.multiblock.turbine.fuel_needed": "Споживає %s за %s тактів",
+  "gtceu.multiblock.turbine.no_rotor": "Відсутній ротор",
   "gtceu.multiblock.turbine.obstructed": "Перешкода на шляху турбіни",
   "gtceu.multiblock.turbine.rotor_durability": "Міцність ротора: %s%%",
   "gtceu.multiblock.turbine.rotor_speed": "Швидкість ротора: %s/%s RPM",
