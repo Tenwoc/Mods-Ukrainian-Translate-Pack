@@ -55,6 +55,14 @@
   "item.nekomasfixed.turtle_leggings": "Черепашачі наколінники",
   "item.nekomasfixed.turtle_boots": "Черепашачі ласти",
 
+  "item.nekomasfixed.goat_horn_chainmail_helmet": "Кольчужний шолом з козячими рогами",
+  "item.nekomasfixed.goat_horn_iron_helmet": "Залізний шолом з козячими рогами",
+  "item.nekomasfixed.goat_horn_golden_helmet": "Золотий шолом з козячими рогами",
+  "item.nekomasfixed.goat_horn_diamond_helmet": "Діамантовий шолом з козячими рогами",
+  "item.nekomasfixed.goat_horn_netherite_helmet": "Незеритовий шолом з козячими рогами",
+  "item.nekomasfixed.goat_horn_turtle_helmet": "Черепашачий шолом з козячими рогами",
+  "item.nekomasfixed.goat_horn_copper_helmet": "Мідний шолом з козячими рогами",
+
   "entity.nekomasfixed.moobloom": "Мублум",
   "item.nekomasfixed.moobloom_spawn_egg": "Яйце виклику мублума",
   "entity.nekomasfixed.drenched": "Просяклень",
