@@ -2129,7 +2129,7 @@
   "text.modern_industrialization.EnergyFill": "Енергія: %s %%",
   "text.modern_industrialization.EnergyInputHatch": "Роз'єм входу енергії",
   "text.modern_industrialization.EnergyOutputHatch": "Роз'єм виходу енергії",
-  "text.modern_industrialization.EnergyStored": "Збережена енергія: %s",
+  "text.modern_industrialization.EnergyStored": "Накопичена енергія: %s",
   "text.modern_industrialization.Eu": "%s%s EU",
   "text.modern_industrialization.EuCable": "%s — Макс. передача мережі: %s",
   "text.modern_industrialization.EuGenerationMode": "Генерація EU",

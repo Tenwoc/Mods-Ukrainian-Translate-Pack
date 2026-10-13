@@ -66,8 +66,8 @@
   "death.attack.blizz_projectile": "%1$s влаштували холодний прийом!",
 
   "entity.thermal.basalz": "Базальц",
-  "entity.thermal.blitz": "Блітц",
-  "entity.thermal.blizz": "Блізз",
+  "entity.thermal.blitz": "Гримень",
+  "entity.thermal.blizz": "Кригень",
 
   "entity.thermal.basalz_projectile": "Тектонічний уламок",
   "entity.thermal.blitz_projectile": "Кульова блискавка",
@@ -180,15 +180,15 @@
   "item.thermal.sawdust": "Тирса",
   "item.thermal.tar": "Смола",
 
-  "item.thermal.basalz_powder": "Пил базальця",
+  "item.thermal.basalz_powder": "Базальцевий пил",
   "item.thermal.basalz_rod": "Осколок базальця",
   "item.thermal.basalz_spawn_egg": "Яйце виклику базальця",
-  "item.thermal.blitz_powder": "Блітцовий пил",
-  "item.thermal.blitz_rod": "Пилинка блітца",
-  "item.thermal.blitz_spawn_egg": "Яйце виклику блітца",
-  "item.thermal.blizz_powder": "Пил блізза",
-  "item.thermal.blizz_rod": "Куб блізза",
-  "item.thermal.blizz_spawn_egg": "Яйце виклику блізза",
+  "item.thermal.blitz_powder": "Гримневий пил",
+  "item.thermal.blitz_rod": "Пилинка гримня",
+  "item.thermal.blitz_spawn_egg": "Яйце виклику гримня",
+  "item.thermal.blizz_powder": "Кригневий пил",
+  "item.thermal.blizz_rod": "Куб кригня",
+  "item.thermal.blizz_spawn_egg": "Яйце виклику кригня",
 
   "item.thermal.compost": "Компост",
   "item.thermal.compost.desc": "Органічне добриво.",
@@ -246,15 +246,15 @@
   "subtitles.thermal.entity.basalz.hurt": "Базальца поранено",
   "subtitles.thermal.entity.basalz.shoot": "Базальц вистрілює",
 
-  "subtitles.thermal.entity.blitz.ambient": "Бліц дихає",
-  "subtitles.thermal.entity.blitz.death": "Бліц гине",
-  "subtitles.thermal.entity.blitz.hurt": "Бліца поранено",
-  "subtitles.thermal.entity.blitz.shoot": "Бліц вистрілює",
+  "subtitles.thermal.entity.blitz.ambient": "Гримень дихає",
+  "subtitles.thermal.entity.blitz.death": "Гримень гине",
+  "subtitles.thermal.entity.blitz.hurt": "Гримня поранено",
+  "subtitles.thermal.entity.blitz.shoot": "Гримнь вистрілює",
 
-  "subtitles.thermal.entity.blizz.ambient": "Блізз дихає",
-  "subtitles.thermal.entity.blizz.death": "Блізз гине",
-  "subtitles.thermal.entity.blizz.hurt": "Блізза поранено",
-  "subtitles.thermal.entity.blizz.shoot": "Блізз вистрілює",
+  "subtitles.thermal.entity.blizz.ambient": "Кригень дихає",
+  "subtitles.thermal.entity.blizz.death": "Кригень гине",
+  "subtitles.thermal.entity.blizz.hurt": "Кригня поранено",
+  "subtitles.thermal.entity.blizz.shoot": "Кригень вистрілює",
 
   "subtitles.thermal.item.magnet": "Магніт притягує",
 

@@ -589,7 +589,7 @@
   "module.draconicevolution.aoe.name": "Область роботи",
   "module.draconicevolution.aoe.value": "%sx%s",
   "module.draconicevolution.auto_feed.name": "Вмістилище їжі",
-  "module.draconicevolution.auto_feed.stored": "Збережено їжі:",
+  "module.draconicevolution.auto_feed.stored": "Запасено їжі:",
   "module.draconicevolution.auto_feed.stored.value": "%s очок голоду",
   "module.draconicevolution.auto_feed.value": "%s очок голоду",
   "module.draconicevolution.damage.attack": "+%s шкоди при атаці",
