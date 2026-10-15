@@ -1,4 +1,7 @@
 {
+	"patchouli.gui.lexicon.dev_edition": "Авторське",
+	"patchouli.gui.lexicon.edition_str": "%s видання",
+	"patchouli.gui.lexicon.index": "Повний вміст",
 
     "rpo.mutp.textCategory": "Тексти…",
     "rpo.mutp.textCategory.tooltip": "Перемикайте використання перекладів та спірних моментів",
