@@ -3,7 +3,7 @@
 
   "itemGroup.appbot.tab": "Applied Botanics",
 
-  "block.appbot.fluix_mana_pool": "Флюїсовий басейн мани",
+  "block.appbot.fluix_mana_pool": "Флюїксовий басейн мани",
   
   "item.appbot.mana_cell_housing": "МE корпус мана-комірки",
   "item.appbot.creative_mana_cell": "Творча МЕ мана-комірка",
@@ -23,10 +23,10 @@
   "item.appbot.mana_p2p_tunnel": "Мана P2P тунель",
   
   "appbot.entry.fluix_mana_pool": "Флюїксовий басейн мани",
-  "appbot.page.fluix_mana_pool0": "$(item)Флюїксовий басейн мани$(0) працює з $(thing)Маною$(0) із приєднаної до нього МЕ cистеми",
+  "appbot.page.fluix_mana_pool0": "$(item)Флюїксовий басейн мани$(0) працює з $(thing)Маною$(0) із приєднаної до нього МЕ мережі",
   "appbot.page.fluix_mana_pool1": "не так вже й погано",
   
-  "appbot.entry.mana_drives": "Мана-привід",
+  "appbot.entry.mana_drives": "Мана-сховище",
   "appbot.page.mana_drives0": "Коли-небудь хотіли перетягнути магію через шину з метою переходу в цифру? Ганьба вам",
-  "appbot.page.mana_drives1": "Це саме те, чого vazkii ніколи не хотів"
+  "appbot.page.mana_drives1": "Саме те, чого vazkii ніколи не хотів"
 }

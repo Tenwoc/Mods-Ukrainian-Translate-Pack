@@ -1,4 +1,4 @@
 {
     condition: "textCategory.occultism_new.old",
-    fallback: "assets/occultism/lang/alt/uk_ua.json"
+    fallback: "assets/occultism/lang/alt26/uk_ua.json"
 }
