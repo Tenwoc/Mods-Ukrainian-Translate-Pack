@@ -1,0 +1,15 @@
+{
+  "block.createstockbridge.ae_bridge": "Складський міст AE",
+  "createstockbridge.ponder.ae_stockbridge.header": "Приєднання логістичної мережі з AE",
+  "createstockbridge.ponder.ae_stockbridge.text_1": "Складський міст AE поєднує логістичну мережу Create з мережею МЕ",
+  "createstockbridge.ponder.ae_stockbridge.text_2": "Перед розміщенням моста, клацніть ним по складському сполучникові, щоби підключити до його мережі",
+  "createstockbridge.ponder.ae_stockbridge.text_3": "Встановіть адресу складського мосту AE, ідентичну адресі пакужаби",
+  "createstockbridge.ponder.ae_stockbridge.text_4": "AE",
+  "createstockbridge.ponder.ae_stockbridge.text_5": "AE",
+  "createstockbridge.ponder.ae_stockbridge.text_6": "Мережа МЕ може запитувати предмети мережі Create через «вироблення»",
+  "createstockbridge.ponder.ae_stockbridge.text_7": "Create може запитувати предмети з мережі МЕ через пакувальник моста",
+  "gui.createstockbridge.address": "Адреса пакунка:",
+  "gui.stockbridge.remote_items": "Предмети мережі Create",
+  "item.createstockbridge.request_pattern": "Замовити шаблон",
+  "tooltip.stockbridge.remote_item": "Предмет у віддаленій мережі"
+}

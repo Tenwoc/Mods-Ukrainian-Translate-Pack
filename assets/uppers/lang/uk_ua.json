@@ -1,0 +1,8 @@
+{
+    "item.uppers.upper_item": "Налійка",
+    "block.uppers.upper": "Налійка",
+    "tooltip.upper_1": "Працює як перевернута лійка.",
+    "tooltip.upper_2": "Втягує предмети з блоку нижче.",
+    "container.upper": "Налійка предметів",
+    "itemGroup.uppers": "Uppers"
+}

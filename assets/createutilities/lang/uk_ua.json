@@ -1,0 +1,72 @@
+{
+  "itemGroup.createutilities.base": "Create Utilities",
+
+  "block.createutilities.gearcube": "Шестибічна коробка передач",
+  "block.createutilities.lshaped_gearbox": "Кутова коробка передач",
+  "block.createutilities.void_motor": "Ендосталевий двигун",
+  "block.createutilities.void_chest": "Ендосталева скриня",
+  "block.createutilities.void_tank": "Ендосталевий резервуар",
+  "block.createutilities.void_battery": "Ендосталевий акумулятор",
+  "block.createutilities.void_casing": "Ендосталевий корпус",
+  "block.createutilities.void_steel_block": "Блок ендосталі",
+  "block.createutilities.void_steel_scaffolding": "Ендосталеве риштування",
+  "block.createutilities.void_steel_ladder": "Ендосталева драбина",
+  "block.createutilities.void_steel_bars": "Ендосталеві ґрати",
+  "block.createutilities.amethyst_tiles": "Аметистові кахлі",
+  "block.createutilities.small_amethyst_tiles": "Маленькі аметистові кахлі",
+
+  "item.createutilities.void_steel_ingot": "Ендосталевий злиток",
+  "item.createutilities.void_steel_sheet": "Ендосталевий лист",
+  "item.createutilities.graviton_tube": "Гравітонна лампа",
+  "item.createutilities.polished_amethyst": "Полірований аметист",
+
+  "createutilities.logistics.owner": "Власник",
+  "createutilities.logistics.void.click_to_set_owner": "Клацніть, щоби взяти власність",
+  "createutilities.logistics.void.click_to_remove_owner": "Клацніть, щоби втратити власність",
+
+  "createutilities.tooltip.void_battery.header": "Стан ендосталевого акумулятора",
+  "createutilities.tooltip.void_battery.energy": "Енергія",
+
+  "createutilities.ponder.gearcube.header": "Передача сили обертання шестибічною коробкою передач",
+  "createutilities.ponder.gearcube.text_1": "Передача обертання в усіх напрямках може швидко ставати громіздкою",
+  "createutilities.ponder.gearcube.text_2": "Шестибічна коробка передач — це компактний еквівалент цьому механізму",
+
+  "createutilities.ponder.lshaped_gearbox.header": "Передача сили обертання кутовою коробкою передач",
+  "createutilities.ponder.lshaped_gearbox.text_1": "Зміна напрямку може швидко стати громіздкою",
+  "createutilities.ponder.lshaped_gearbox.text_2": "Компактніша альтернатива цьому механізму — використання коробки передач, проте в цьому випадку два вали залишаються незадіяними",
+  "createutilities.ponder.lshaped_gearbox.text_3": "За допомогою кутової коробки передач це можна реалізувати акуратніше й дешевше",
+  "createutilities.ponder.lshaped_gearbox.text_4": "Клацнувши по ній ПКМ гайковим ключем, ви зможете змінити орієнтацію вторинної осі",
+
+  "createutilities.ponder.void_motor.header": "Використання ендеросталевого двигуна",
+  "createutilities.ponder.void_motor.text_1": "Ендеросталевий двигун може передавати силу обертання на відстань",
+  "createutilities.ponder.void_motor.text_2": "Розміщення предметів у двох верхніх слотах дозволяє задати частоту",
+  "createutilities.ponder.void_motor.text_3": "Клацніть ПКМ по нижньому слоту, щоб відвласнити ендеросталевий двигун",
+  "createutilities.ponder.void_motor.text_4": "Клацніть ПКМ ще раз, щоб знову привласнити його до себе",
+  "createutilities.ponder.void_motor.text_5": "Якщо ендеросталевий двигун привласнено, змінювати його частоту може лише власник",
+  "createutilities.ponder.void_motor.text_6": "Ендеросталевий двигун отримує силу обертання лише від тих ендеросталевих двигунів, що мають таку саму частоту й того самого власника",
+
+  "createutilities.ponder.void_chest.header": "Використання ендеросталевої скрині",
+  "createutilities.ponder.void_chest.text_1": "Ендеросталеві скрині можуть передавати предмети на відстані",
+  "createutilities.ponder.void_chest.text_2": "Розміщення предметів у двох верхніх слотах дозволяє задати частоту",
+  "createutilities.ponder.void_chest.text_3": "Клацніть ПКМ по нижньому слоту, щоб відвласнити ендеросталеву скриню",
+  "createutilities.ponder.void_chest.text_4": "Клацніть ПКМ ще раз, щоб знову привласнити її до себе",
+  "createutilities.ponder.void_chest.text_5": "Якщо ендеросталева скриня привласнено, змінювати її частоту може лише власник",
+  "createutilities.ponder.void_chest.text_6": "Ендеросталева скриня отримує силу обертання лише від тих ендеросталевих скринь, що мають таку саму частоту й того самого власника",
+
+  "createutilities.ponder.void_tank.header": "Використання ендеросталевого резервуара",
+  "createutilities.ponder.void_tank.text_1": "Ендеросталевий резервуар може передавати рідини на відстань",
+  "createutilities.ponder.void_tank.text_2": "Розміщення предметів у двох верхніх слотах дозволяє задати частоту",
+  "createutilities.ponder.void_tank.text_3": "Клацніть ПКМ по нижньому слоту, щоб відвласнити ендеросталевий резервуар",
+  "createutilities.ponder.void_tank.text_4": "Клацніть ще раз, щоб знову прив’язати його до себе",
+  "createutilities.ponder.void_tank.text_5": "Якщо ендеросталевий резервуар привласнено, змінювати його частоту може лише власник",
+  "createutilities.ponder.void_tank.text_6": "Ендеросталевий резервуар отримує рідини лише від тих ендеросталевих резервуарів, що мають таку саму частоту й того самого власника",
+
+  "createutilities.ponder.void_battery.header": "Використання ендеросталевих акумуляторів",
+  "createutilities.ponder.void_battery.text_1": "Ендеросталеві акумулятори можуть передавати енергію на відстань",
+  "createutilities.ponder.void_battery.text_2": "Розміщення предметів у двох верхніх слотах дозволяє задати частоту",
+  "createutilities.ponder.void_battery.text_3": "Клацніть ПКМ по нижньому слоту, щоб відвласнити ендеросталевий акумулятор",
+  "createutilities.ponder.void_battery.text_4": "Клацніть ПКМ ще раз, щоб знову привласнити його до себе",
+  "createutilities.ponder.void_battery.text_5": "Якщо ендеросталевий акумулятор привласнено, змінювати його частоту може лише власник",
+  "createutilities.ponder.void_battery.text_6": "Ендеросталевий акумулятор отримує енергію лише від тих ендеросталевих акумуляторів, що мають таку саму частоту й того самого власника"
+
+}

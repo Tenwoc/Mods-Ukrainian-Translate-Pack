@@ -679,7 +679,7 @@
   "value.framedblocks.stairs_type.top_fwd": "Вгорі вперед",
   "value.framedblocks.stairs_type.vertical": "Вертикальний",
   "value.framedblocks.state_cycling.property.front.front": "Спереду",
-  "value.framedblocks.state_cycling.property.front.rear": "Заду",
+  "value.framedblocks.state_cycling.property.front.rear": "Позаду",
   "value.framedblocks.state_cycling.property.slope_slab.orientation.upright": "Вертикально",
   "value.framedblocks.state_cycling.property.slope_slab.orientation.upside_down": "Догори дриґом"
 }

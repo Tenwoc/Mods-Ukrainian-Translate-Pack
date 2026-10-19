@@ -30,7 +30,7 @@
   "block.create_mechanical_spawner.spawn_fluid_villager": "Рідина виклику селянина",
   "block.create_mechanical_spawner.spawn_fluid_witch": "Рідина виклику відьми",
   "block.create_mechanical_spawner.spawn_fluid_wither": "Рідина виклику Візера",
-  "block.create_mechanical_spawner.spawn_fluid_wither_skeleton": "Рідина виклику візер-скелета",
+  "block.create_mechanical_spawner.spawn_fluid_wither_skeleton": "Рідина виклику візера-скелета",
   "block.create_mechanical_spawner.spawn_fluid_wolf": "Рідина виклику вовка",
   "block.create_mechanical_spawner.spawn_fluid_zombie": "Рідина виклику зомбі",
   "block.create_mechanical_spawner.vertical_framed_dark_glass": "Доземне обрамлене тоноване скло",
@@ -74,7 +74,7 @@
   "fluid.create_mechanical_spawner.spawn_fluid_villager": "Рідина виклику селянина",
   "fluid.create_mechanical_spawner.spawn_fluid_witch": "Рідина виклику відьми",
   "fluid.create_mechanical_spawner.spawn_fluid_wither": "Рідина виклику Візера",
-  "fluid.create_mechanical_spawner.spawn_fluid_wither_skeleton": "Рідина виклику візер-скелета",
+  "fluid.create_mechanical_spawner.spawn_fluid_wither_skeleton": "Рідина виклику візера-скелета",
   "fluid.create_mechanical_spawner.spawn_fluid_wolf": "Рідина виклику вовка",
   "fluid.create_mechanical_spawner.spawn_fluid_zombie": "Рідина виклику зомбі",
   "item.create_mechanical_spawner.spawn_fluid_bat_bucket": "Відро рідини виклику кажана",
@@ -102,7 +102,7 @@
   "item.create_mechanical_spawner.spawn_fluid_villager_bucket": "Відро рідини виклику селянина",
   "item.create_mechanical_spawner.spawn_fluid_witch_bucket": "Відро рідини виклику відьми",
   "item.create_mechanical_spawner.spawn_fluid_wither_bucket": "Відро рідини виклику Візера",
-  "item.create_mechanical_spawner.spawn_fluid_wither_skeleton_bucket": "Відро рідини виклику візер-скелета",
+  "item.create_mechanical_spawner.spawn_fluid_wither_skeleton_bucket": "Відро рідини виклику візера-скелета",
   "item.create_mechanical_spawner.spawn_fluid_wolf_bucket": "Відро рідини виклику вовка",
   "item.create_mechanical_spawner.spawn_fluid_zombie_bucket": "Відро рідини виклику зомбі"
 }

@@ -1,5 +1,6 @@
 {
   "item.ae2helpers.result_import_card": "Картка імпорту результатів вироблення",
+  "item.aehelpers_more.result_import_card": "Картка імпорту результатів вироблення",
 
   "ae2helpers.configuration.title": "Налаштування ae2helpers",
   "ae2helpers.configuration.section.ae2helpers.common.toml": "Налаштування ae2helpers",
