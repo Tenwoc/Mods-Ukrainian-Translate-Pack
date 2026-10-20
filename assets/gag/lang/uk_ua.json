@@ -29,15 +29,15 @@
   "item.gag.hearthstone.too_weak": "Здається, цей харстоун надто слабкий, щоб дістатися до дому звідси.",
   "item.gag.hearthstone.warmup": "Телепортація через %s секунд…",
   "item.gag.labeling_tool": "Інструмент іменування",
-  "item.gag.labeling_tool.info": "Використовується для безкоштовної зміни назви будь-якого предмета у вашому інвентарі.",
+  "item.gag.labeling_tool.info": "Використовується для безплатної зміни назви будь-якого предмета у вашому інвентарі.",
   "item.gag.labeling_tool.text_box": "Перейменувати предмет",
   "item.gag.mining_dynamite": "Мінний динаміт",
-  "item.gag.mining_dynamite.info": "Метальна вибухівка, яка має високу ефективність проти каменю. Довуває усі блоки, які руйнує.",
+  "item.gag.mining_dynamite.info": "Метальна вибухівка, яка має високу ефективність проти каменю. Добуває усі блоки, які руйнує.",
   "item.gag.pigment_jar": "Банка з пігментом",
   "item.gag.pigment_jar.contents": "Містить %s зарядів %s",
   "item.gag.pigment_jar.contents.empty": "Порожньо",
   "item.gag.pigment_jar.info.empty.1": "Порожня банка, що використовується для зберігання пігментів. Мабуть, її потрібно заповнити, щоб вона стала корисною.",
-  "item.gag.pigment_jar.info.empty.2": "Підказка: назбирайте трохи барвників кременєм, а потім додайте молока.",
+  "item.gag.pigment_jar.info.empty.2": "Підказка: назбирайте трохи барвників кременем, а потім додайте молока.",
   "item.gag.pigment_jar.info.filled.1": "Може бути використана інструментом іменування для зміни кольору назви предмета.",
   "item.gag.pigment_jar.info.filled.2": "Підказка: Комбінуйте з іншими пігментними банками, щоб змішувати кольори.",
   "item.gag.sacred_balm": "Священний бальзам",
@@ -46,23 +46,11 @@
   "item.gag.sacred_salve": "Священна мазь",
   "item.gag.sacred_salve.extra": "Діє трохи довше, ніж сіль, а також працює на більшій площі.",
   "item.gag.time_sand_pouch": "Мішок часу",
-  "item.gag.time_sand_pouch.flavour": [
-    {
-      "extra": [
-        {
-          "strikethrough": true,
-          "text": "пляшці "
-        },
-        "мішку…"
-      ],
-      "text": "Якщо б я тільки міг зберегти час у "
-    }
-  ],
-  "item.gag.time_sand_pouch.info": "Повільно накопичує час, поки перебуває в інвентарі гравця. Застоуйте на робочому блоці, щоби прискорити його кошотом часу, збереженого у мішку.",
+  "item.gag.time_sand_pouch.info": "Повільно накопичує час, поки перебуває в інвентарі гравця. Засотуйте на робочому блоці, щоби прискорити його коштом часу, збереженого у мішку.",
   "item.gag.time_sand_pouch.info.stored_grains": "Містить %2$s піщинок часу",
   "itemGroup.gag.gag": "GAG - Gadgets Against Grind",
   "subtitles.gag.entity.dynamite.throw": "Динаміт кинуто",
-  "subtitles.gag.item.repelling.apply": "Застовано засіб для відлякування",
+  "subtitles.gag.item.repelling.apply": "Застосовано засіб для відлякування",
   "subtitles.gag.item.time_sand_pouch.ding": "Робочий блок прискорено",
   "subtitles.gag.item.time_sand_pouch.dong": "Робочий блок прискорено до дуже великих швидкостей"
 }

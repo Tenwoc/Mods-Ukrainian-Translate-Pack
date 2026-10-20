@@ -54,7 +54,6 @@
   "item.nekomasfixed.turtle_leggings": "Черепашачі наколінники",
   "item.nekomasfixed.turtle_boots": "Черепашачі ласти",
 
-  "item.nekomasfixed.goat_horn_chainmail_helmet": "Кольчужний шолом з козячими рогами",
   "item.nekomasfixed.goat_horn_iron_helmet": "Залізний шолом з козячими рогами",
   "item.nekomasfixed.goat_horn_golden_helmet": "Золотий шолом з козячими рогами",
   "item.nekomasfixed.goat_horn_diamond_helmet": "Діамантовий шолом з козячими рогами",
@@ -487,7 +486,7 @@
   "block.nekomasfixed.maroon_spotted_wool_slab": "Плита з бордової плямистої вовни",
 
   "block.nekomasfixed.white_spotted_wool_stairs": "Сходи з білої плямистої вовни",
-  "block.nekomasfixed.light_gray_spotted_wool_stairs": "Сходи з світло-сірої плямистої вовни",
+  "block.nekomasfixed.light_gray_spotted_wool_stairs": "Сходи зі світло-сірої плямистої вовни",
   "block.nekomasfixed.gray_spotted_wool_stairs": "Сходи з сірої плямистої вовни",
   "block.nekomasfixed.black_spotted_wool_stairs": "Сходи з чорної плямистої вовни",
   "block.nekomasfixed.brown_spotted_wool_stairs": "Сходи з коричневої плямистої вовни",
@@ -523,11 +522,11 @@
   "item.nekomasfixed.maroon_cushion": "Бордова подушка",
 
   "block.nekomasfixed.stripped_hollow_oak_log": "Обтесана порожниста дубова колода",
-  "block.nekomasfixed.stripped_hollow_birch_log": "Обтесана порожниста безезова колода",
   "block.nekomasfixed.stripped_hollow_spruce_log": "Обтесана порожниста смерекова колода",
+  "block.nekomasfixed.stripped_hollow_birch_log": "Обтесана порожниста березова колода",
   "block.nekomasfixed.stripped_hollow_jungle_log": "Обтесана порожниста тропічна колода",
   "block.nekomasfixed.stripped_hollow_acacia_log": "Обтесана порожниста акацієва колода",
-  "block.nekomasfixed.stripped_hollow_dark_oak_log": "Обтесана порожниста темно-дуюова колода",
+  "block.nekomasfixed.stripped_hollow_dark_oak_log": "Обтесана порожниста темно-дубова колода",
   "block.nekomasfixed.stripped_hollow_mangrove_log": "Обтесана порожниста мангрова колода",
   "block.nekomasfixed.stripped_hollow_cherry_log": "Обтесана порожниста вишнева колода",
   "block.nekomasfixed.stripped_hollow_pale_oak_log": "Обтесана порожниста блідо-дубова колода",
@@ -542,7 +541,7 @@
   "effect.nekomasfixed.spicy": "Пряність",
 
   "item.nekomasfixed.torchflower_flower_crown": "Вінок зі смолоскипників",
-  "item.nekomasfixed.blue_orchid_flower_crown": "Вінок з синії орхідей",
+  "item.nekomasfixed.blue_orchid_flower_crown": "Вінок з синіх орхідей",
   "item.nekomasfixed.wither_rose_flower_crown": "Вінок з троянд візера",
   "item.nekomasfixed.cornflower_flower_crown": "Вінок з волошок",
   "item.nekomasfixed.lily_of_the_valley_flower_crown": "Вінок з конвалій",
@@ -574,8 +573,67 @@
 
   "advancements.husbandry.all_froglights.description": "Майте усі 20 видів жаб’ячого світла в інвентарі",
   "advancements.husbandry.all_froglights.title": "Надпотужність!",
+  "failed.entity_spawn": "Ця сутність вимкнена у цьому світі!",
 
+  "config.main_title.worldgen": "Параметри генерації у світі",
+  "config.main_title.nether": "Параметри Незеру",
+  "config.main_title.other": "Інші параметри",
+  "config.main_title.entity": "Параметри істот",
 
-  "option.namefield.optionA": "CyberMODDER",
-  "option.namefield.optionB": "Akshaj"
+  "config.in_game": "Параметри мода",
+
+  "config.go_to.worldgen": "Параметри генерації у світі…",
+  "config.go_to.nether": "Параметри Незеру…",
+  "config.go_to.other": "Інші параметри…",
+  "config.go_to.entity": "Параметри істот…",
+
+  "config.separator.terrain": "=== Місцевість ===",
+  "config.separator.nether": "=== Покращення Незеру ===",
+  "config.separator.misc_other": "=== Різне ===",
+  "config.separator.villagers": "=== Селяни ===",
+  "config.separator.spawn": "=== Породжувачі ===",
+  "config.separator.cannot_be_changed": " НЕ МОЖНА ЗМІНИТИ після створення світу!",
+
+  "config.nekoma": "Nekoma's",
+  "config.fixed": "Fixed",
+
+  "config.worldgen.button.gen_geyser": "Генерувати гейзери",
+  "config.worldgen.desc.gen_geyser": "Генерувати гейзери у Незері",
+
+  "config.worldgen.button.gen_mound": "Генерувати кургани",
+  "config.worldgen.desc.gen_mound": "Генерувати термітні кургани в саванах",
+
+  "config.other.button.copper_armor_changes": "Увімкнути ефекти міді",
+  "config.other.desc.copper_armor_changes": "Удар блискавки по гравцю із повним мідним обладунком надасть йому пришвидшення",
+
+  "config.entity.button.spawn_sus_spider": "Породжувати підозрілих павуків",
+  "config.entity.desc.spawn_sus_spider": "Породжувати павуків з ефектами підозрілої юшки",
+
+  "config.entity.button.enable_messy_beds": "Увімкнути незаправлені ліжка",
+  "config.entity.desc.enable_messy_beds": "Дозволяє ліжкам ставати незаправленими",
+
+  "config.nether.button.do_food_rotting": "Гниття їжі",
+  "config.nether.desc.do_food_rotting": "Дозволити усій їжі, крім золотої, гнити з часом",
+
+  "config.nether.button.magma_block_changes": "Зміни до магматичного блока",
+  "config.nether.desc.magma_block_changes": "Потреба у шовковому дотику для добування магматичного блоку",
+
+  "advancements.nekomasfixed.root.description": "Стежте за своїм прогресом у моді!",
+  "nekoma": "Nekoma's",
+  "fixed": "Fixed",
+
+  "advancements.nekomasfixed.turtle_master.title": "Справжній майстер черепах!",
+  "advancements.nekomasfixed.turtle_master.description": "Зберіть повний комплект черепашачого захисту",
+
+  "advancements.nekomasfixed.rainbow_spotted_wool.title": "Райдуга з плямочками!",
+  "advancements.nekomasfixed.rainbow_spotted_wool.description": "Зберіть усі 20 видів плямистої вовни",
+
+  "advancements.nekomasfixed.ship_of_thesus.title": "Корабель Тесея!",
+  "advancements.nekomasfixed.ship_of_thesus.description": "Змайструйте великий човен",
+
+  "advancements.nekomasfixed.i_am_the_ruler.title": "Тут керую я!",
+  "advancements.nekomasfixed.i_am_the_ruler.description": "Оздобте корону орнаментом обладунків «Коштовність",
+
+  "advancements.nekomasfixed.i_am_on_fire_now.title": "Ну й хто тепер горить?",
+  "advancements.nekomasfixed.i_am_on_fire_now.description": "Оздобте увесь незеритовий обладунок орнаментом обладунків «Коштовність»"
 }
