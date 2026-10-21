@@ -143,7 +143,7 @@ item_ids:
 
 Варіант огорненого кабелю не має жодних ігрових переваг порівняно з його флюїксовим аналогом. Однак його можна використовувати як альтернативний естетичний вибір, якщо ви віддаєте перевагу огорненому вигляду.
 
-Може бути забарвлений так само як <ItemLink id="fluix_glass_cable" />. <ItemLink id="fluix_covered_cable" /> можна скласти чотири рази, щоб отримати <ItemLink id="fluix_covered_dense_cable" />.
+Можна забарвлювати так само як <ItemLink id="fluix_glass_cable" />. <ItemLink id="fluix_covered_cable" /> можна скласти чотири рази, щоб отримати <ItemLink id="fluix_covered_dense_cable" />.
 
 <Recipe id="network/cables/covered_fluix" />
 

@@ -73,7 +73,7 @@
   "gui.waystones.waystone_selection.level_requirement": "Необхідний рівень: %d",
   "gui.waystones.waystone_selection.xp_requirement": "Вартість досвіду: %d",
   "gui.waystones.waystone_selection.item_requirement": "Вартість предметів: %d %s",
-  "gui.waystones.waystone_selection.no_xp_requirement": "Вартість досвіду: Безкоштовно",
+  "gui.waystones.waystone_selection.no_xp_requirement": "Вартість досвіду: Безплатно",
   "gui.waystones.waystone_settings.modifiers_active": "активно %d модифікаторів",
   "gui.waystones.waystone_settings.no_modifiers_active": "Немає активних модифікаторів",
   "gui.waystones.waystone_settings.save": "Зберегти",

@@ -44,7 +44,7 @@
   "dmr.dragon_call.link_success": "Успішно прив'язано до %1$s!",
   "dmr.dragon_call.no_whistle": "Вам необхідний свисток, щоб кликати свого дракона!",
   "dmr.dragon_summon.tooltip.1": "Прив'язано до %1$s",
-  "dmr.dragon_summon.tooltip.2": "Вмер, може бути викликаний знов через %1$s секунд",
+  "dmr.dragon_summon.tooltip.2": "Вмер, можна викликати знову через %1$s секунд",
   "dmr.commands.dragon_spawn.invalid_breed": "Недійсне розмноження: %1$s",
   "dmr.commands.dragon_spawn.success": "Породжено %1$s",
   "dmr.commands.dragon_recall.success": "Дракон був успішно повернений",

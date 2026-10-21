@@ -336,7 +336,7 @@
   "item.dungeonnowloading.item_scraps": "Залишки предметів",
   "item.dungeonnowloading.item_scraps.scrap": " (залишки)",
   "item.dungeonnowloading.item_scraps.named": "Залишки предмета: %s",
-  "item.dungeonnowloading.item_scraps.tooltip.reconstruct": "Інструмент може бути реконструйований на столі лагодження, використовуючи Лагоджекамінь або %s",
+  "item.dungeonnowloading.item_scraps.tooltip.reconstruct": "Інструмент можна реконструювати на столі лагодження, використовуючи Лагоджекамінь або %s",
   "item.dungeonnowloading.item_scraps.tooltip.reconstruct.detail1": "Щоб відновити, використайте у лагодильному столі з:",
   "item.dungeonnowloading.item_scraps.tooltip.reconstruct.detail2": "Лагоджекамінь/Дюріт або %s",
   "enchantment.dungeonnowloading.break_protection": "Захист від зламу",

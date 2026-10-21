@@ -104,7 +104,7 @@
   "block.createnuclear.deepslate_thorium_ore": "Глибосланцева торієва руда",
   "block.createnuclear.deepslate_uranium_ore": "Глибосланцева уранова руда",
   "block.createnuclear.enriched_soul_soil": "Збагачений пісок душ",
-  "block.createnuclear.enriched_soul_soil.tooltip.summary": "Це єдиний блок, здатний створити збагачений вогонь. Може бути використаний для створення загаченого багаття або зеленого вогню.",
+  "block.createnuclear.enriched_soul_soil.tooltip.summary": "Це єдиний блок, здатний створити збагачений вогонь. Використовується для створення збагаченого багаття або зеленого вогню.",
   "block.createnuclear.enriching_campfire": "Збагачувальне багаття",
   "block.createnuclear.enriching_fire": "Збагачувальний вогонь",
   "block.createnuclear.layered_autunite": "Шаруватий отеніт",

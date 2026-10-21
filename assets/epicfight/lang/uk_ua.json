@@ -208,7 +208,7 @@
 	"skill.epicfight.sweeping_edge.level": "Нищівне лезо",
 	"skill.epicfight.sweeping_edge.tooltip": "Розсічіть ворогів навколо потужним розрізом.",
 	"skill.epicfight.rushing_tempo": "Швидкий темп",
-	"skill.epicfight.rushing_tempo.tooltip": "Ви можете виконати додатковий удар у кінці кожної звичайної атаки. Це вміння може бути повторено до %s разів.",
+	"skill.epicfight.rushing_tempo.tooltip": "Ви можете виконати додатковий удар у кінці кожної звичайної атаки. Це вміння можна повторити до %s разів.",
 	"skill.epicfight.relentless_combo": "Безжалісне комбо",
 	"skill.epicfight.relentless_combo.tooltip": "Випустіть руйнівний шквал ударів!",
 	"skill.epicfight.liechtenauer": "Ліхтенауер",

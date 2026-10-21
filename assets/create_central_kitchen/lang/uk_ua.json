@@ -119,7 +119,7 @@
   "item.create_central_kitchen.miners_cooking_guide": "Кулінарний посібник шахтаря",
   "item.create_central_kitchen.mulberry_jam_bucket": "Відро шовковичного джему",
   "item.create_central_kitchen.mulberry_pie_slice": "Шматочок шовковичного пирога",
-  "item.create_central_kitchen.passionfruit_cake_slice": "Шматочок маракуйї",
+  "item.create_central_kitchen.passionfruit_cake_slice": "Шматочок маракуї",
   "item.create_central_kitchen.pumpkin_cake_slice": "Шматочок гарбузового пирога",
   "item.create_central_kitchen.pumpkin_pie_slice": "Шматочок гарбузового пирога",
   "item.create_central_kitchen.sap_bucket": "Відро з соком",
@@ -138,11 +138,11 @@
 
   "create_central_kitchen.ponder.basket.belt_interaction.header": "Отримання продуктів зі стрічки за допомогою кошика",
   "create_central_kitchen.ponder.basket.belt_interaction.text_1": "Кошик може приймати предмети, що транспортуються зі стрічки.",
-  "create_central_kitchen.ponder.basket.belt_interaction.text_2": "Крім того, що він може бути повернутий догори, також підходить і відповідна горизонтальна поверхня.",
+  "create_central_kitchen.ponder.basket.belt_interaction.text_2": "Крім положення доверху також підходить і відповідне горизонтальне схилення.",
 
   "create_central_kitchen.ponder.basket.intro.header": "Збирання викинутих продуктів за допомогою кошика",
   "create_central_kitchen.ponder.basket.intro.text_1": "Як і лійка, кошик може збирати викинуті предмети.",
-  "create_central_kitchen.ponder.basket.intro.text_2": "До того ж, кошики можуть мати різну поверхню.",
+  "create_central_kitchen.ponder.basket.intro.text_2": "До того ж кошики можуть мати різну поверхню.",
   "create_central_kitchen.ponder.basket.intro.text_3": "Однак кошик не може витягувати предмети з вмістилищ.",
 
   "create_central_kitchen.ponder.blaze_stove.automation.header": "Налаштування плити пломеня",
@@ -150,7 +150,7 @@
   "create_central_kitchen.ponder.blaze_stove.automation.text_2": "Клацніть ПКМ по плиті пломеня, щоб відкрити меню кулінарного посібника.",
   "create_central_kitchen.ponder.blaze_stove.automation.text_3": "Ви також можете клацнути ПКМ по плиті пломеня разом із будь-яким посібником, щоб поміняти їх місцями.",
   "create_central_kitchen.ponder.blaze_stove.automation.text_4": "Після того, як ви призначили правильний рецепт для кулінарного посібника, каструля над нею стане інтерактивною для механічної руки.",
-  "create_central_kitchen.ponder.blaze_stove.automation.text_5": "У якості вхідних матеріалів механічна рука вставлятиме місткості та визначені інгредієнти.",
+  "create_central_kitchen.ponder.blaze_stove.automation.text_5": "Як вхідні матеріали механічна рука вставлятиме місткості та визначені інгредієнти.",
   "create_central_kitchen.ponder.blaze_stove.automation.text_6": "На виході механічна рука витягне результат і недійсні інгредієнти.",
 
   "create_central_kitchen.ponder.blaze_stove.heat_source.header": "Використання плити пломеня як джерела тепла",

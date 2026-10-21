@@ -14,7 +14,7 @@ item_ids:
 
 <BlockImage id="quartz_block" scale="8" />
 
-Блок, який компактно зберігає <ItemLink id="certus_quartz_crystal" />. Може бути використаний для створення [родючого істинного кварцу](budding_certus.md)
+Блок, який компактно зберігає <ItemLink id="certus_quartz_crystal" />. Можна використати для створення [родючого істинного кварцу](budding_certus.md)
 або [декоративних істинних кварцових блоків](decorative_certus.md).
 
 ## Рецепт

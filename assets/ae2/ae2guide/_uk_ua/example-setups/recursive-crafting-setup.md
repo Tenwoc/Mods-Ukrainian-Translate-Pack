@@ -11,7 +11,7 @@ navigation:
 
 Одним із рішень є використання здатності <ItemLink id="level_emitter" /> прикидатися [шаблоном](../items-blocks-machines/patterns.md).
 
-Це може бути використано для ввімкнення невеликої устави, яка постійно виконує майстрування. У цьому випадку ми розглянемо уставу для клонування <ItemLink id="minecraft:netherite_upgrade_smithing_template" />.
+Це можна використати для ввімкнення невеликої устави, яка постійно виконує майстрування. У цьому випадку ми розглянемо уставу для клонування <ItemLink id="minecraft:netherite_upgrade_smithing_template" />.
 
 <RecipeFor id="minecraft:netherite_upgrade_smithing_template" />
 
