@@ -489,7 +489,7 @@
   "ali.type.function.enchant_with_levels": "Зачарування з рівнями:",
   "ali.type.function.enchanted_count_increase": "Збільшення кількості чарів:",
   "ali.type.function.exploration_map": "Дослідження мапи:",
-  "ali.type.function.explosion_decay": "Знищення вибухом",
+  "ali.type.function.explosion_decay": "Не витримає вибуху",
   "ali.type.function.fill_player_head": "Заповнення голови гравця:",
   "ali.type.function.filtered": "Фільтрація:",
   "ali.type.function.furnace_smelt": "Витоплюється",

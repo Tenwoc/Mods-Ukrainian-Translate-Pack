@@ -38,7 +38,7 @@
   "block.tempad.timedoor_projector": "Проєктор часових дверей",
   "block.tempad.workstation": "Робочий стіл",
   "block.tempad.workstation.installing": "Встановлення: %s",
-  "block.tempad.workstation_child": "Підлеглий робочого стола",
+  "block.tempad.workstation_child": "Підпорядковувач робочого стола",
   "datapack.tempad.required_location_upgrade": "Потребує покращення для збереження локацій",
   "error.tempad.block_locked": "%s заблоковано",
   "error.tempad.owner_mismatch": "Не належить вам. Поверніть власнику, або скиньте предмет",
