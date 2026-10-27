@@ -269,7 +269,7 @@
   "lootbeams.config.items.colorOverrides.description": "Перевизначає колір променя предмета за допомогою hex.\n Має відповідати певному формату: (registryname=hexcolor) або (#tagname=hexcolor).\nПриклади: \"minecraft:stone=#00FF00\", \"#minecraft:piglin_loved=gold\". Також підтримуються modid",
 
 
-  "lootbeams.config.nametags": "Теги предметів",
+  "lootbeams.config.nametags": "Теґи предметів",
 
   "lootbeams.config.nametags.advancedTooltips": "Покращені підказки",
   "lootbeams.config.nametags.advancedTooltips.description": "Чи повинні ванільні підказки промальовуватися на предметах у світі.",
@@ -323,7 +323,7 @@
   "lootbeams.config.nametags.customRarities.description": "Визначає, на яких предметах має відображатися дрібна назва рідкості. \nПриклад: \"Exotic\", \"Ancient\". \nЦі рядки повинні бути другим рядком у предмета при наведенні в інвентарі. \nВ основному використовується в модпаках.",
 
   "lootbeams.config.nametags.alwaysDrawRaritiesOn": "Відображати підказку",
-  "lootbeams.config.nametags.alwaysDrawRaritiesOn.description": "Визначає, на яких предметах має відображатися дрібна підказка. \nПриклад: \"#minecraft:music_discs\" відображатиме назву пісні як менший тег. \nЗауважте, що відображений текст є рядком підказки нижче назви, тому він не буде добре працювати з кількома зачаруваннями (хоча одне зачарування виглядає дуже добре)",
+  "lootbeams.config.nametags.alwaysDrawRaritiesOn.description": "Визначає, на яких предметах має відображатися дрібна підказка. \nПриклад: \"#minecraft:music_discs\" відображатиме назву пісні як менший теґ. \nЗауважте, що відображений текст є рядком підказки нижче назви, тому він не буде добре працювати з кількома зачаруваннями (хоча одне зачарування виглядає дуже добре)",
 
   "lootbeams.config.nametags.whiteRarities": "Білі рідкості",
   "lootbeams.config.nametags.whiteRarities.description": "Чи повинні рідкості ігнорувати свій колір і відображатися білими \n(В основному використовується в модпаках)",

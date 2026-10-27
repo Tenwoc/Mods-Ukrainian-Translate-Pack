@@ -35,7 +35,7 @@
   "group.pattern_provider.name": "МЕ Постачальник шаблонів",
   "group.precise_storage_bus.name": "МЕ Точна шина зберігання",
   "group.storage_bus.name": "МЕ Шина зберігання",
-  "group.tag_storage_bus.name": "МЕ Тегова шина зберігання",
+  "group.tag_storage_bus.name": "МЕ Теґова шина зберігання",
   "group.wireless_exp_pattern_encoding_terminal.name": "Бездротовий розгорнутий термінал кодування шаблонів",
   "gui.expandedae.blocking_mode.all": "Блокує, якщо цільовий блок має вміст",
   "gui.expandedae.blocking_mode.default": "Усталений режим блокування",

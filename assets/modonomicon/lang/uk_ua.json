@@ -54,7 +54,7 @@
   "book.modonomicon.demo.features.image.name": "Запис сторінки зображення",
   "book.modonomicon.demo.features.image.test_image.text": "Дуже довгий зразок тексту зображення для тестування масштабування сторінки. Він надзвичайно довгий, і я сподіваюся, що ніхто ніколи не буде його так використовувати, бо, будь ласка, люди повинні це прочитати! Що це, текст для мурах? Додаймо ще трохи тексту, щоб показати, що ми можемо, бо так, ми просто так добре вміємо створювати текст.",
   "book.modonomicon.demo.features.image.test_image.title": "Тестове зображення!",
-  "book.modonomicon.demo.features.multiblock.demo_tag.text": "Мультиблок із тегом!",
+  "book.modonomicon.demo.features.multiblock.demo_tag.text": "Мультиблок із теґом!",
   "book.modonomicon.demo.features.multiblock.description": "Запис, що демонструє мультиблок.",
   "book.modonomicon.demo.features.multiblock.intro.text": "Сторінки мультиблоків дають змогу переглядати мультиблоки як у книзі, так і в світі.\n",
   "book.modonomicon.demo.features.multiblock.intro.title": "Запис мультиблоку",

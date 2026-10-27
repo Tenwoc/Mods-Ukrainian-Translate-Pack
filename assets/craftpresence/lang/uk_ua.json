@@ -189,7 +189,7 @@
   "craftpresence.placeholders.getMethods.usage": "getMethods(classObj=Object|String|Class)",
   "craftpresence.placeholders.getNamespace.description": "Отримати частину простору імен об'єкта ідентифікатора-стилю",
   "craftpresence.placeholders.getNamespace.usage": "getNamespace(input)",
-  "craftpresence.placeholders.getNbt.description": "Спроба отримати NBT-тег за вказаним шляхом",
+  "craftpresence.placeholders.getNbt.description": "Спроба отримати NBT-теґ за вказаним шляхом",
   "craftpresence.placeholders.getNbt.usage": "getNbt(data=Entity|ItemStack, path=String...)",
   "craftpresence.placeholders.getOrDefault.description": "Отримати первинне значення, якщо воно не порожнє; інакше, використовувати вторинне значення",
   "craftpresence.placeholders.getOrDefault.usage": "getOrDefault(target, alternative ?: '')",

@@ -9,7 +9,7 @@
   "simplybackpacks.autopickupdisabled":"Автопідбір: §cВимкнено§r",
 
   "simplybackpacks.whitelist":"Білий список",
-  "simplybackpacks.nbtdata":"Теги NBT",
+  "simplybackpacks.nbtdata":"Теґи NBT",
 
   "simplybackpacks.invaliduuid": "Невідомий UUID",
   "simplybackpacks.delete.confirmation": "Ви впевнені, що хочете видалити цей рюкзак?\nЦю дію не можна скасувати.\nПідтвердьте команду /sb delete %s",

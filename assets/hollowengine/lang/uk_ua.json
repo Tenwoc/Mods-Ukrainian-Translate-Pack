@@ -14,7 +14,7 @@
   "hollowengine.scripting.story.script_not_found": "Скрипт «%s» не знайдено!",
   "hollowengine.commands.pos.error": "§6[§bHollow Engine§6] §7Не вдалося отримати положення!",
   "hollowengine.commands.copy": "§6[§bHollow Engine§6] §7Значення: %s",
-  "hollowengine.commands.tags": "§6[§bHollow Engine§6] §7Теги елемента: ",
+  "hollowengine.commands.tags": "§6[§bHollow Engine§6] §7Теґи елемента: ",
   "hollowengine.commands.model_animations": "§6[§bHollow Engine§6] Анімації моделі %s:",
   "hollowengine.commands.model_textures": "§6[§bHollow Engine§6] Текстури моделі %s:",
   "hollowengine.commands.active_events": "§6[§bHollow Engine§6] §7Активні події:",

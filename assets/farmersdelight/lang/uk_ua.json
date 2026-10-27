@@ -485,7 +485,7 @@
   "farmersdelight.configuration.richSoilBoostChance": "Шанс підсилення від родючого ґрунту",
   "farmersdelight.configuration.richSoilBoostChance.tooltip": "Шанс (у десятковому відсотку) того, що родючий ґрунт надасть поштовх кісткового борошна культурі, посадженій на ньому. Встановіть 0.0, щоб вимкнути.",
   "farmersdelight.configuration.enableTomatoVineClimbingTaggedRopes": "Томатна лоза видряпується на позначені мотузки",
-  "farmersdelight.configuration.enableTomatoVineClimbingTaggedRopes.tooltip": "Якщо увімкнено, томатні культури зможуть видряпуватися на будь-яку мотузку з тегом farmersdelight:ropes. Якщо вимкнено, це буде обмежено лише мотузкою цього мода.\n\n§lУвага: це перетворить ці блоки на блок, вказаний у defaultTomatoVineRope.§r",
+  "farmersdelight.configuration.enableTomatoVineClimbingTaggedRopes.tooltip": "Якщо увімкнено, томатні культури зможуть видряпуватися на будь-яку мотузку з теґом farmersdelight:ropes. Якщо вимкнено, це буде обмежено лише мотузкою цього мода.\n\n§lУвага: це перетворить ці блоки на блок, вказаний у defaultTomatoVineRope.§r",
   "farmersdelight.configuration.defaultTomatoVineRope": "Стандартна мотузка для томатної лози",
   "farmersdelight.configuration.defaultTomatoVineRope.tooltip": "Яку мотузку повинні залишати томатні лози після зламу?",
 

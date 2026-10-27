@@ -910,7 +910,7 @@
   "command.mythicmetals.argument.blockset.error": "Не вдалося знайти вказаний комплект блоків",
   "command.mythicmetals.argument.toolset.error": "Не вдалося знайти вказаний комплект інструментів",
   "command.mythicmetals.argument.ore-config.error": "Не вдалося знайти наданий OreConfig",
-  "_comment_mythicmetals_tags": "Переклад тегів EMI",
+  "_comment_mythicmetals_tags": "Переклад теґів EMI",
   "tag.item.c.adamantite_blocks": "Адамантитові блоки",
   "tag.item.c.adamantite_ingots": "Адамантитові злитки",
   "tag.item.c.adamantite_ores": "Адамантитові руди",

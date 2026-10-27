@@ -7,7 +7,7 @@
   "tooltip.cucumber.unlimited_uses": "Необмежене використання",
   "tooltip.cucumber.empty": "Порожньо",
   "tooltip.cucumber.filled": "Заповнено",
-  "tooltip.cucumber.hold_ctrl_for_tags": "Утримуйте CTRL, щоби побачити теги",
+  "tooltip.cucumber.hold_ctrl_for_tags": "Утримуйте CTRL, щоби побачити теґи",
   "tooltip.cucumber.data_components": "Компоненти даних:",
   "tooltip.cucumber.hold_alt_for_data_components": "Утримуйте ALT, щоби побачити компоненти даних",
   "tooltip.cucumber.block_tags": "Теґи блока:",

@@ -18,8 +18,8 @@
   "embeddium.plus.options.clouds.height.title": "Висота хмар",
   "embeddium.plus.options.clouds.height.desc": "Регулює висоту хмар",
 
-  "embeddium.plus.options.nametag.disable_rendering.title": "Вимкнути відображення іменних тегів",
-  "embeddium.plus.options.nametag.disable_rendering.desc": "Не показуй своє ім'я!\nВимикає відображення іменних тегів у гравців та сутностей",
+  "embeddium.plus.options.nametag.disable_rendering.title": "Вимкнути відображення іменних теґів",
+  "embeddium.plus.options.nametag.disable_rendering.desc": "Не показуй своє ім'я!\nВимикає відображення іменних теґів у гравців та сутностей",
 
   "embeddium.plus.options.metrics.page": "Метрики",
   "embeddium.plus.options.displayfps.title": "Відображати FPS",

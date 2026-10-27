@@ -4004,8 +4004,8 @@
   "recipe.tconstruct.modifier.min_level.traits": "Для застосування цього рецепту інструмент повинен мати щонайменше %s (включно з рисами)",
   "recipe.tconstruct.modifier.max_level.traits": "Цей рецепт не може підвищити %s вище %s рівня (включно з рисами)",
 
-  "recipe.tconstruct.modifier.armor_trim.invalid_material": "%s не є дійсним матеріалом для орнаменту, це зазвичай вказує на недійсний тег",
-  "recipe.tconstruct.modifier.armor_trim.invalid_pattern": "%s не є дійсним шаблоном орнаменту, це зазвичай вказує на недійсний тег",
+  "recipe.tconstruct.modifier.armor_trim.invalid_material": "%s не є дійсним матеріалом для орнаменту, це зазвичай вказує на недійсний теґ",
+  "recipe.tconstruct.modifier.armor_trim.invalid_pattern": "%s не є дійсним шаблоном орнаменту, це зазвичай вказує на недійсний теґ",
 
   "recipe.tconstruct.tool_recycling": "Утилізація інструментів",
   "recipe.tconstruct.tool_recycling.info": "Виберіть, яку частину врятувати з цього інструмента. Існує ймовірність, заснована на залишковій міцності інструмента, врятувати другу частину.",

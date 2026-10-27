@@ -1,9 +1,9 @@
 {
   "tip.bettertags.ctrl": "↓ %s — NBT",
-  "tip.bettertags.shift": "↓ %s — теги",
+  "tip.bettertags.shift": "↓ %s — теґи",
 
-  "tip.bettertags.item_tags": "Теги предмета",
-  "tip.bettertags.block_tags": "Теги блока",
+  "tip.bettertags.item_tags": "Теґи предмета",
+  "tip.bettertags.block_tags": "Теґи блока",
 
   "tip.bettertags.copied": "%s скопійовано в буфер обміну",
   "tip.bettertags.copied_no": "%s не має даних NBT",

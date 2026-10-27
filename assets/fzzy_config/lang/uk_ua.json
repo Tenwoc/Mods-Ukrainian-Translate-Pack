@@ -49,7 +49,7 @@
   "fc.validated_field.ingredient": "Зберігаються тільки значення вибраного типу",
   "fc.validated_field.ingredient.edit": "Редагувати інгредієнт…",
   "fc.validated_field.ingredient.items": "Ідентифікатори елементів",
-  "fc.validated_field.ingredient.tags": "Ідентифікатори тегів",
+  "fc.validated_field.ingredient.tags": "Ідентифікатори теґів",
   "fc.validated_field.ingredient.clear": "Очистити",
   "fc.validated_field.list": "Редагувати список…",
   "fc.validated_field.list.clear": "Очистити список",

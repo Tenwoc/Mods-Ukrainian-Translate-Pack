@@ -109,7 +109,7 @@
   "config.emi.general.search_sidebar": "Бокове поле пошуку",
   "config.emi.general.search_tooltip_by_default": "Шукати за усталеною підказкою",
   "config.emi.general.search_mod_name_by_default": "Шукати за усталеною назвою мода",
-  "config.emi.general.search_tags_by_default": "Шукати за усталеними тегами",
+  "config.emi.general.search_tags_by_default": "Шукати за усталеними теґами",
 
   "config.emi.ui.effect_location": "Розташування ефектів",
   "config.emi.ui.center_search_bar": "Центрування рядка пошуку",
@@ -170,8 +170,8 @@
 
   "config.emi.dev.dev_mode": "Режим розробника",
   "config.emi.dev.edit_mode": "Режим редагування",
-  "config.emi.dev.log_untranslated_tags": "Журнал неперекладених тегів",
-  "config.emi.dev.log_non_tag_ingredients": "Показувати інгредієнти без тегів",
+  "config.emi.dev.log_untranslated_tags": "Журнал неперекладених теґів",
+  "config.emi.dev.log_non_tag_ingredients": "Показувати інгредієнти без теґів",
   "config.emi.dev.show_recipe_ids": "Показати ID рецептів",
   "config.emi.dev.show_recipe_decorators": "Показати декоратори рецептів",
   "config.emi.dev.highlight_defaulted": "Виділити усталене",
@@ -327,7 +327,7 @@
   "emi.category.emi.composting": "Компостування",
   "emi.category.emi.info": "Інформація",
   
-  "emi.category.emi.tag": "Теги",
+  "emi.category.emi.tag": "Теґи",
   "emi.category.emi.ingredient": "Інгредієнти",
 
   "alias.emi.workbench": "Верстак",
