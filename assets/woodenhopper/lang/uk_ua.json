@@ -1,0 +1,5 @@
+{
+  "block.woodenhopper.wooden_hopper": "Дерев'яна лійка",
+  "block.woodenhopper.wooden_hopper.desc.cannotAbsorbItemsFromWorld": "Не затягує скинуті над нею предмети.",
+  "block.woodenhopper.wooden_hopper.desc.cannotAbsorbItemsFromInventories": "Не затягує предмети з розміщеного на ній містила."
+}
