@@ -6,3 +6,15 @@
 # assets/megacells/ae2guide/assets/
 # assets/ae2netanalyser/ae2guide/pic/
 # assets/merequester/ae2guide/assets/
+scripts
+.env
+.env.example
+api_response.json
+fields_check.json
+fields_check2.json
+fields_new.json
+fields.json
+migration_log.txt
+requirements.txt
+test_output.json
+update_result.json
