@@ -3,8 +3,8 @@
   "message.connectiblechains.connectible_chain" : "Сумісність ланцюгових ліній [Shift]",
   "message.connectiblechains.connectible_chain_detailed" : "Клацніть на паркани/стіни, щоб створити лінію!",
   "entity.connectiblechains.chain_collision" : "Колізія ланцюгів",
-  "text.autoconfig.connectiblechains.option.chainHangAmount" : "Звисання ланцюгу",
-  "text.autoconfig.connectiblechains.option.maxChainRange" : "Максимальна довжина ланцюгу",
+  "text.autoconfig.connectiblechains.option.chainHangAmount" : "Звисання ланцюга",
+  "text.autoconfig.connectiblechains.option.maxChainRange" : "Максимальна довжина ланцюга",
   "text.autoconfig.connectiblechains.option.quality" : "Якість ланцюгів",
   "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[0]" : "Впливає на те, наскільки ланцюг звисає.",
   "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[1]" : "Менші числа означають більшу криву.",
@@ -16,5 +16,30 @@
   "text.autoconfig.connectiblechains.option.maxChainRange.@Tooltip[1]" : "§nПопередження§r: Задовгі ланцюги можуть стати невидимими!",
   "text.autoconfig.connectiblechains.option.quality.@Tooltip" : "Впливає на візуальну якість ланцюга.",
   "text.autoconfig.connectiblechains.title": "Налашутвання Connectible Chains",
-  "tag.item.connectiblechains.catenary_items": "Премети для ланцюгування"
+  "tag.item.connectiblechains.catenary_items": "Підвішувані ланцюги",
+
+
+  "config.connectiblechains.title": "Налаштування Connectible Chains",
+  "config.connectiblechains.category.general": "Загальне",
+  "config.connectiblechains.chainHangAmount": "Звисання ланцюга",
+  "config.connectiblechains.chainHangAmount.tooltip.0": "Впливає на те, наскільки ланцюг звисає.",
+  "config.connectiblechains.chainHangAmount.tooltip.1": "Менші числа означають більшу криву.",
+  "config.connectiblechains.chainHangAmount.tooltip.2": "Колізія буде оновлюватися на нових ланцюгах або під час завантаження світу.",
+  "config.connectiblechains.maxChainRange": "Максимальна довжина ланцюга",
+  "config.connectiblechains.maxChainRange.tooltip": "Впливає на те, наскільки довгим може бути ланцюг.",
+  "config.connectiblechains.quality": "Якість ланцюгів",
+  "config.connectiblechains.quality.tooltip": "Впливає на візуальну якість ланцюга.",
+  "config.connectiblechains.showToolTip": "Показувати підказку про підтримку ланцюгових ліній",
+  "config.connectiblechains.showToolTip.tooltip": "Показати підказку на предметах-ланцюгах, які сумісні з цим модом.",
+  "config.connectiblechains.showRangeWarningHud": "Показувати попередження про довжину",
+  "config.connectiblechains.showRangeWarningHud.tooltip": "Виводити повідомлення над інвентарем, коли ланцюг наближається до максимальної довжини.",
+  "message.connectiblechains.chain_range_warning": "Ланцюг наближається до максимальної довжини!",
+  "config.connectiblechains.collisionsEnabled": "Колізія ланцюгів",
+  "config.connectiblechains.collisionsEnabled.tooltip": "Якщо вимкнено, ланцюги не матимуть гитбоксів колізії — істоти зможуть проходити через ланцюги наскрізь.",
+  "config.connectiblechains.hangingBlockCollisions": "Колізія підвішених речей",
+  "config.connectiblechains.hangingBlockCollisions.tooltip": "Якщо увімкнено, речі, підвішені на ланцюгах (як-от ліхтарі), матимуть гитбокси колізії. Потребує увімкнення колізій ланцюгів.",
+  "config.connectiblechains.debugDraw": "Налагодження промальовування ланцюга",
+  "config.connectiblechains.debugDraw.tooltip": "Якщо увімкнено, показує налагоджувальні вектори та кількість сутностей ланцюгів. Корисно для розробників.",
+
+  "tag.item.connectiblechains.ropes": "Підвішувані мотузки"
 }

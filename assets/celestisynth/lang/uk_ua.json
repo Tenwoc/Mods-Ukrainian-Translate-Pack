@@ -1,6 +1,8 @@
 {
   "creativetab.celestisynth_tab": "Celestisynth",
 
+  "rarity.celestial.name": "Celestial",
+
   "attribute.celestisynth.celestial_damage": "шкоди небесної зброї",
   "attribute.celestisynth.celestial_damage_reduction": "зменшення шкоди від небесної зброї",
 
@@ -55,10 +57,10 @@
   "container.celestisynth.starlit_factory": "Зоресяйна фабрика",
 
   "tip.celestisynth.starlit_factory_0": "А ви знали? Дощовий спокій можна зачарувати деякими арбалетними чарами, такими як Мультипостріл, Пронизування і Швидке заряджання!",
-  "tip.celestisynth.starlit_factory_1": "Полтергейст - це надзвичайно потужний важкий кат, ви просто повинні використовувати його правильно!",
+  "tip.celestisynth.starlit_factory_1": "Полтергейст — це надзвичайно потужний важкий кат, ви просто повинні використовувати його правильно!",
   "tip.celestisynth.starlit_factory_2": "Криваві моноліти природно виникають у незерських фортецях, тож стережіться перетиначів! Вони швидкі, обачливі та мобільні!",
-  "tip.celestisynth.starlit_factory_3": "Ви коли-небудь замислювалися над тим, як виглядатиме PvP з цією зброєю? Ну, я - так.",
-  "tip.celestisynth.starlit_factory_4": "Керес - найбільш руйнівна зброя в моді, використовуйте її з обережністю!",
+  "tip.celestisynth.starlit_factory_3": "Ви коли-небудь замислювалися над тим, як виглядатиме PvP з цією зброєю? Ну, я — так.",
+  "tip.celestisynth.starlit_factory_4": "Керес — найбільш руйнівна зброя в моді, використовуйте її з обережністю!",
 
   "effect.celestisynth.hellbane": "Пекельна кара",
   "effect.celestisynth.hellbane.description": "Збільшує будь-які ефекти регенерації, що впливають на сутність",
@@ -66,6 +68,7 @@
   "effect.celestisynth.cursebane.description": "Зменшує будь-які ефекти регенерації, що впливають на сутність",
 
   "enchantment.celestisynth.pulsation": "Пульсація",
+  "enchantment.celestisynth.pulsation.desc": "Шанс при ударі застосувати імпульс, який відкине ціль та завдасть їй додаткової шкоди",
 
   "commands.celestisynth.clear_animation": "Анімацію успішно очищено",
 
@@ -83,16 +86,16 @@
   "advancement.celestisynth.obtain_solaris.description": "Отримайте Соляріс",
 
   "item.celestisynth.solaris.passive_1": "Благословення жару",
-  "item.celestisynth.solaris.passive_desc_1": "Гравець отримує імунітет до вогню, поки тримає предмет - звичайні атаки з цим предметом підпалюють ціль на кілька секунд.",
+  "item.celestisynth.solaris.passive_desc_1": "Гравець отримує імунітет до вогню, поки тримає предмет — звичайні атаки з цим предметом підпалюють ціль на кілька секунд.",
 
   "item.celestisynth.solaris.passive_2": "Формування сонячних бомб",
   "item.celestisynth.solaris.passive_desc_2": "Утримуючи ПКМ із Солярісом, гравець може викликати до 5 сонячних бомб, які будуть кружляти навколо нього. Поранення цілі перенаправляє сонячну бомбу на неї.",
 
-  "item.celestisynth.solaris.skill_1": "Кружляюче полум'я - Повне коло",
+  "item.celestisynth.solaris.skill_1": "Кружляюче полум'я — Повне коло",
   "item.celestisynth.solaris.condition_1": "Активація: ПКМ",
   "item.celestisynth.solaris.desc_1": "Виконуйте граціозний оберт, завдаючи шкоди та спалюючи істот поблизу.",
 
-  "item.celestisynth.solaris.skill_2": "Кружляюче полум'я - Прямий ривок душі",
+  "item.celestisynth.solaris.skill_2": "Кружляюче полум'я — Прямий ривок душі",
   "item.celestisynth.solaris.condition_2": "Активація: ПКМ крадькома",
   "item.celestisynth.solaris.desc_2": "Мчить вперед, вражаючи й тимчасово запалюючи істот на своєму шляху.",
 
@@ -108,11 +111,11 @@
   "advancement.celestisynth.obtain_crescentia.description": "Отримайте Кресценцію",
 
   "item.celestisynth.crescentia.passive_1": "Важкоатлет",
-  "item.celestisynth.crescentia.passive_desc_1": "Гравець отримує рівень стійкості до пошкоджень, поки тримає предмет - звичайні атаки з цим предметом уповільнюють ціль на кілька секунд.",
+  "item.celestisynth.crescentia.passive_desc_1": "Гравець отримує рівень стійкості до пошкоджень, поки тримає предмет — звичайні атаки з цим предметом уповільнюють ціль на кілька секунд.",
 
   "item.celestisynth.crescentia.skill_1": "Місячний святковий шквал",
   "item.celestisynth.crescentia.condition_1": "Активація: ПКМ",
-  "item.celestisynth.crescentia.desc_1": "Спустіть сліпучий шквал ударів по істотам поблизу у супроводі захоплюючого феєрверку.",
+  "item.celestisynth.crescentia.desc_1": "Спустіть сліпучий шквал ударів по істотах поблизу у супроводі захопливого феєрверку.",
 
   "item.celestisynth.crescentia.skill_2": "Вибух драконячого півмісяця",
   "item.celestisynth.crescentia.condition_2": "Активація: ПКМ крадькома",
@@ -133,7 +136,7 @@
   "item.celestisynth.breezebreaker.passive_desc_1": "Гравець отримує величезний імунітет до стрибків і падінь, поки тримає предмет, але отримує у 2.3 рази більше шкоди від усіх інших джерел шкоди.",
 
   "item.celestisynth.breezebreaker.passive_2": "Доброзичлива душа",
-  "item.celestisynth.breezebreaker.passive_desc_2": "Кожні 15 застосувань вмінь активують або деактивують цей ефект. Під час активації гравець отримує прибавку до швидкости і вдвічі зменшує час перезарядки вмінь. Ефект зникає через 8 секунд.",
+  "item.celestisynth.breezebreaker.passive_desc_2": "Кожні 15 застосувань вмінь активують або деактивують цей ефект. Під час активації гравець отримує підвищення швидкости і вдвічі зменшує час перезаряджання вмінь. Ефект зникає через 8 секунд.",
 
   "item.celestisynth.breezebreaker.skill_1": "Штормовий вітер",
   "item.celestisynth.breezebreaker.condition_1": "Активація: ПКМ",
@@ -162,11 +165,11 @@
   "advancement.celestisynth.obtain_poltergeist.description": "Отримайте Полтергейст",
 
   "item.celestisynth.poltergeist.passive_1": "Примарна мітка",
-  "item.celestisynth.poltergeist.passive_desc_1": "Усі вміння цієї зброї ставлять на кожну уражену істоту примарну мітку. Вбиті вороги з міткою стають жахливими аберантами, які притягують до себе істот поблизу на 5 секунд.",
+  "item.celestisynth.poltergeist.passive_desc_1": "Усі вміння цієї зброї ставлять на кожну уражену істоту примарну мітку. Вбиті вороги з міткою стають жахливими заблудниками, які притягують до себе істот поблизу на 5 секунд.",
 
   "item.celestisynth.poltergeist.skill_1": "Космічна сталева анігіляція",
   "item.celestisynth.poltergeist.condition_1": "Активація: ПКМ",
-  "item.celestisynth.poltergeist.desc_1": "Виконує потужний удар, який завдає значної шкоди в широкому діапазоні, спустошуючи кількох супротивників. Ще один нищівний удар після послідовності з десяти послідовних ударів генерує величезну силу, викликаючи істоту-аберанта. Перезаряджання цього вміння миттєво закінчується, якщо воно було застосовано в повітрі.",
+  "item.celestisynth.poltergeist.desc_1": "Виконує потужний удар, який завдає значної шкоди ворогам в широкому діапазоні. Після 10 ударів поспіль зброя активує свою «заблудну форму», завдяки чому наступний удар змушує заблудника, що висмоктує енергію, вирости із землі та мутувати. Якщо вбити ворога у «заблудній формі», або виконати стрибок у повітрі під час удару, час відновлення цієї здібності миттєво скидається.",
 
   "item.celestisynth.poltergeist.skill_2": "Бар'єрний виклик",
   "item.celestisynth.poltergeist.condition_2": "Активація: ПКМ крадькома",
@@ -226,7 +229,7 @@
   "advancement.celestisynth.obtain_frostbound.title": "Скарб хуртовин",
   "advancement.celestisynth.obtain_frostbound.description": "Отримайте Скутий морозом",
 
-  "item.celestisynth.frostbound.passive_1": "Шепочущий холод",
+  "item.celestisynth.frostbound.passive_1": "Шепітливий холод",
   "item.celestisynth.frostbound.passive_desc_1": "Заподіяння шкоди цілі за допомогою цієї зброї викликає стан заморожування, що значно зменшує її силу та швидкість.",
 
   "item.celestisynth.frostbound.passive_2": "Масив бурульок",
@@ -247,7 +250,7 @@
   "advancement.celestisynth.obtain_keres.description": "Отримайте Керес",
 
   "item.celestisynth.keres.passive_1": "Черговість пекельної кари",
-  "item.celestisynth.keres.passive_desc_1": "Після послідовної атаки цілей 5 разів поспіль, власник активує стан Пекельної кари - який посилює вампіризм Кереса і багаторазово викидає самонавідні тіньові снаряди у бік найближчих ворогів.",
+  "item.celestisynth.keres.passive_desc_1": "Після послідовної атаки цілей 5 разів поспіль, власник активує стан Пекельної кари — який посилює вампіризм Кереса і багаторазово викидає самонавідні тіньові снаряди у бік найближчих ворогів.",
   "item.celestisynth.keres.passive_2": "Кривава жертва",
   "item.celestisynth.keres.passive_desc_2": "Використовуючи вміння Кереса власник жертвує 1,5 здоров'я кожні кілька секунд, але кожне вміння певною мірою відновлює здоров'я власника, коли воно потрапляє в ціль.",
   "item.celestisynth.keres.passive_3": "Ураження проклятою карою",
@@ -288,6 +291,34 @@
   "advancement.celestisynth.obtain_celestial_ingot.description": "Отримайте небесний незеритовий злиток",
   "advancement.celestisynth.placed_celestial_table.title": "Підняття рівня далі і далі",
   "advancement.celestisynth.placed_celestial_table.description": "Розмістіть небесний верстак",
+
+  "{o}================{o} SOUNDS {o}================{o}":  "",
+
+  "subtitles.celestisynth.step": "Кроки",
+  "subtitles.celestisynth.hop": "Стрибок",
+  "subtitles.celestisynth.sword_swing": "Лезо змахує",
+  "subtitles.celestisynth.sword_swing_fire": "Палке лезо змахує",
+  "subtitles.celestisynth.air_swing": "Порив вітру",
+  "subtitles.celestisynth.impact_hit": "Важкий удар",
+  "subtitles.celestisynth.sword_clash": "Клинки стикаються",
+  "subtitles.celestisynth.fire_shoot": "Полум'я спалахує",
+  "subtitles.celestisynth.wind_strike": "Вітер вдаряє",
+  "subtitles.celestisynth.whirlwind": "Вихор виє",
+  "subtitles.celestisynth.loud_impact": "Громоподібний удар",
+  "subtitles.celestisynth.bling": "Дзвін лунає",
+  "subtitles.celestisynth.laser_shoot": "Промінь вистрілює",
+  "subtitles.celestisynth.vanish": "Щось щезає",
+  "subtitles.celestisynth.frozen_slash": "Крижаний змах",
+  "subtitles.celestisynth.ice_cast": "Лід формується",
+  "subtitles.celestisynth.ground_impact_water": "Вода розпещується",
+  "subtitles.celestisynth.slash_water": "Вода ріже",
+  "subtitles.celestisynth.water_cast": "Вода приливає",
+  "subtitles.celestisynth.bass_drop": "Басовий дроп",
+  "subtitles.celestisynth.bass_pulse": "Басовий пульс",
+  "subtitles.celestisynth.heartbeat": "Серце б'ється",
+  "subtitles.celestisynth.traverser_death": "Перетинач гине",
+  "subtitles.celestisynth.traverser_hurt": "Перетинача поранено",
+  "subtitles.celestisynth.traverser_step": "Перетинач крокує",
 
   "item.celestisynth.armor_stun_immune": "> Імунітет до переривання під час використання вміння зброї",
   "item.celestisynth.armor_damage_reflection_percent": "+%s% повернення шкоди ворогу",
