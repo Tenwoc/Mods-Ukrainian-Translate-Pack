@@ -1,0 +1,12 @@
+{
+  "name": "Тіньові шухляди",
+  "icon": "extended_drawers:shadow_drawer",
+  "category": "extended_drawers:blocks",
+  "pages": [
+    "$(item)Тіньові шухляди/$ схожі на $(l:access_points)точки доступу/$, але працюють лише з одним предметом. Вони також дозволяють гравцям вилучати предмети та відображають їх кількість. $(br2)Вони поводяться так, ніби вони $(l:lock)заблоковані@!, проте предмет у них можна видалити, натиснувши Shift+ЛКМ.",
+    {
+      "type": "patchouli:crafting",
+      "recipe": "extended_drawers:shadow_drawer"
+    }
+  ]
+}

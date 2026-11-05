@@ -4161,6 +4161,7 @@
   "gui.gtceu.armor_config.no_modules": "Модулі не встановлені",
   "gui.gtceu.armor_config.select": "Оберіть споряджену частину обладунку",
   "gui.gtceu.armor_config.title": "Конфігурація броні",
+  "gui.gtceu.cover.direction": "Напрямок: §r%s",
   "gui.gtceu.equipment_foundry.applied_to": "Застосовано до:",
   "gui.gtceu.equipment_foundry.module_item": "Модульний предмет:",
   "gui.gtceu.equipment_foundry.supports_tiers": "Рівні модуля: %s-%s",
@@ -6190,7 +6191,6 @@
   "tooltip.gtceu.netherite_plated": "Незеритове покриття: +2 модульних слота",
   
   "comment": "outdated lines",
-
   "gtceu.key.armor_charging": "Перемикання заряджання інвентарю від обладунків",
   "gtceu.key.armor_mode_switch": "Перемикання режиму обладунків",
   "gtceu.key.enable_boots": "Увімкнути посилений стрибок",

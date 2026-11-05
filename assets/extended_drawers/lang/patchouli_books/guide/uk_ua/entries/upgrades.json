@@ -1,0 +1,33 @@
+{
+  "name": "Покращувачі шухляд",
+  "icon": "extended_drawers:t2_upgrade",
+  "category": "extended_drawers:modifiers",
+  "pages": [
+    "@item@Покращення@! застосовуються за допомогою спеціальних предметів. Вони збільшують місткість відсіків $(l:drawers)шухляди@!. @p@Щоб встановити покращення, крадькома застосуйте його по шухляді. @p@Вони особливо корисні, коли потрібно зберігати велику кількість предметів.",
+    {
+      "type": "patchouli:crafting",
+      "recipe": "extended_drawers:upgrade_frame",
+      "text": "The $(item)Upgrade Frame/$ is the base item of all upgrades. It doesn't do anything by itself."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "extended_drawers:t1_upgrade",
+      "text": "$(item)Покращувач шухляди I/$ — це перший рівень покращувачів. Він подвоює місткість шухляди."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "extended_drawers:t2_upgrade",
+      "text": "$(item)Покращувач шухляди II/$ — це другий рівень покращувачів. Він множить місткість шухляди на 4."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "extended_drawers:t3_upgrade",
+      "text": "$(item)Покращувач шухляди III/$ — це третій рівень покращувачів. Він множить місткість шухляди на 8."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "extended_drawers:t4_upgrade",
+      "text": "$(item)Покращувач шухляди IV/$ — це четвертий рівень покращувачів. Він множить місткість шухляди на 16."
+    }
+  ]
+}

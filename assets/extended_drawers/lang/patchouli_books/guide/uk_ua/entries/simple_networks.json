@@ -1,0 +1,23 @@
+{
+  "name": "Прості мережі",
+  "icon": "extended_drawers:single_drawer",
+  "category": "extended_drawers:networks",
+  "pages": [
+    "Розмістивши кілька $(l:drawers)шухляд@! поруч одна з одною, ви створите просту мережу. Однак поки що ця мережа нічого не робить. $(br2)Почнемо з простого: додамо до мережі $(l:access_points)точку доступу@!. Вона може розподіляти предмети у відповідні шухляди, не підходячи до них особисто.",
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "mapping": {
+          "D": "extended_drawers:single_drawer[facing=west]",
+          "0": "extended_drawers:single_drawer[facing=west]",
+          "A": "extended_drawers:access_point"
+        },
+        "pattern": [
+          ["D0A"]
+        ]
+      },
+      "enable_visualize": false,
+      "text": ""
+    }
+  ]
+}

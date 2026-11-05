@@ -109,9 +109,9 @@
 	"tetra.stats.art_of_forging:nano_fused": "Нанозлиття",
 	"tetra.stats.art_of_forging:nano_fused.tooltip_short": "Ви маєте шанс отримати альтернативну здобич з певних мобів",
 
-	"art_of_forging.effect.beheading.name": "Знеголовлення",
+	"art_of_forging.effect.beheading.name": "Обезголовлення",
 	"art_of_forging.effect.beheading.tooltip": "Ви маєте §e%s шансу§r отримати череп моба або гравця при його вбивстві.",
-	"tetra.stats.art_of_forging:beheading": "Знеголовлення",
+	"tetra.stats.art_of_forging:beheading": "Обезголовлення",
 	"tetra.stats.art_of_forging:beheading.tooltip_short": "Ви маєте шанс отримати череп моба або гравця при його вбивстві",
 
 	"art_of_forging.effect.soul_charged.name": "Заряд душ",
@@ -552,7 +552,7 @@
 	"tetra.variant.mourning_star/mourning_star": "§cМоргенштерн§r",
 
 	"tetra/schematic/double/reaping_scythe/reaping_scythe.name": "Головка жниварської коси",
-	"tetra/schematic/double/reaping_scythe/reaping_scythe.description": "Головка жниварської коси. Використовується для знеголовлення ворогів.\n \n§fМіцність§r матеріалу збільшує §fшкоду та шанс знеголовлення§r.",
+	"tetra/schematic/double/reaping_scythe/reaping_scythe.description": "Головка жниварської коси. Використовується для обезголовлення ворогів.\n \n§fМіцність§r матеріалу збільшує §fшкоду та шанс обезголовлення§r.",
 	"tetra/schematic/double/reaping_scythe/reaping_scythe.slot1": "Матеріал головки",
 
 	"tetra.module.double/reaping_scythe.item_name": "Жниварська коса",
