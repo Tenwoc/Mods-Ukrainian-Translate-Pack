@@ -415,7 +415,7 @@
   "gui.ae2.PartialPlan": "Частковий план (відсутні складники)",
   "gui.ae2.Partitioned": "Розгалужена",
   "gui.ae2.PatternAccessTerminal": "Термінал доступу до шаблонів",
-  "gui.ae2.PatternAccessTerminalHint": "Показувати або приховати від термінала доступу шаблонів.",
+  "gui.ae2.PatternAccessTerminalHint": "Показати або приховати від термінала доступу шаблонів.",
   "gui.ae2.PatternAccessTerminalShort": "МЕ Термінал доступу шаб.",
   "gui.ae2.PatternEncoding": "Кодування шаблона",
   "gui.ae2.PatternEncoding.primary_processing_result_hint": "Можна робити запит через систему автоматичного вироблення.",
