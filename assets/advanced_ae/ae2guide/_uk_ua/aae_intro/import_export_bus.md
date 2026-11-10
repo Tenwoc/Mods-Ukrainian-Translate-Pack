@@ -15,4 +15,4 @@ item_ids:
   <ImportStructure src="../structure/cable_import_export_bus.snbt"></ImportStructure>
 </GameScene>
 
-Шина імпорту/експорту є поєднанням двох пристроїв: <ItemLink id="ae2:import_bus" /> та <ItemLink id="ae2:export_bus" />. Фільтр можна налаштувати для встановлення речей до експорту. Все, що не входить до фільтра, є дійсною річчю для імпорту.
+Шина імпорту/експорту — це поєднання двох пристроїв: <ItemLink id="ae2:import_bus" /> та <ItemLink id="ae2:export_bus" />. Фільтр можна налаштувати для встановлення речей до експорту. Все, що не входить до фільтра, є дійсна річ для імпорту.

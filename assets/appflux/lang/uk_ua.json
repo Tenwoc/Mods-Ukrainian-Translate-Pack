@@ -55,5 +55,17 @@
   "gui.appflux.flux_accessor.fast_off": "Швидкий режим: Вимк",
   "gui.appflux.flux_accessor.warn": "Швидкий режим може спричиняти затримки.",
   "group.pattern_provider.name": "МЕ Постачальник шаблонів",
-  "group.fe_portable_cells.name": "Портативні FE комірки"
+  "group.fe_portable_cells.name": "Портативні FE комірки",
+  "gui.appflux.flux_accessor.io_mode": "Режим передачі",
+  "gui.appflux.flux_accessor.input_mode": "Тільки приймати",
+  "gui.appflux.flux_accessor.output_mode": "Тільки передавати",
+  "gui.appflux.flux_accessor.input_output_mode": "Приймати та передавати",
+
+
+
+  "item.appflux.sky_harden_insulating_resin": "Небесна ізоляційна смола",
+  "appflux.type.gteu.name": "EU(GT)",
+  "item.appflux.mega_fe_cell_housing": "Корпус МЕГА FE комірки",
+  "item.appflux.fe_creative_cell": "Творча МЕ FE комірка",
+  "item.appflux.induction_card.tooltip.02": "Змушує портативні FE комірки заряджати інвентар гравця"
 }

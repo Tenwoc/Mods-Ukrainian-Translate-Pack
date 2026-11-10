@@ -1,0 +1,85 @@
+{
+    "_comment": "################## Blocks ##################",
+	
+    "block.immersiveposts.postbase": "Розширюваний стовп",
+    "block.immersiveposts.woodpost": "Дерев'яний стовп",
+    "block.immersiveposts.ironpost": "Залізний стовп",
+    "block.immersiveposts.goldpost": "Золотий стовп",
+    "block.immersiveposts.copperpost": "Мідний стовп",
+    "block.immersiveposts.leadpost": "Свинцевий стовп",
+    "block.immersiveposts.silverpost": "Срібний стовп",
+    "block.immersiveposts.nickelpost": "Нікелевий стовп",
+    "block.immersiveposts.constantanpost": "Константановий стовп",
+    "block.immersiveposts.electrumpost": "Електрумовий стовп",
+    "block.immersiveposts.uraniumpost": "Урановий стовп",
+    "block.immersiveposts.netherpost": "Стовп з незерської цегли",
+    "block.immersiveposts.aluminiumpost": "Алюміній стовп",
+    "block.immersiveposts.steelpost": "Сталевий стовп",
+    "block.immersiveposts.concretepost": "Бетонний стовп",
+    "block.immersiveposts.leadedconcretepost": "Стовп зі свинцьованого бетону",
+    
+    "block.immersiveposts.woodpost_truss": "Дерев'яна балка",
+    "block.immersiveposts.ironpost_truss": "Залізна балка",
+    "block.immersiveposts.goldpost_truss": "Золота балка",
+    "block.immersiveposts.copperpost_truss": "Мідна балка",
+    "block.immersiveposts.leadpost_truss": "Свинцева балка",
+    "block.immersiveposts.silverpost_truss": "Срібна балка",
+    "block.immersiveposts.nickelpost_truss": "Нікелева балка",
+    "block.immersiveposts.constantanpost_truss": "Константанова балка",
+    "block.immersiveposts.electrumpost_truss": "Електрумова балка",
+    "block.immersiveposts.uraniumpost_truss": "Уранова балка",
+    "block.immersiveposts.netherpost_truss": "Балка з незерської цегли",
+    "block.immersiveposts.aluminiumpost_truss": "Алюмінієва балка",
+    "block.immersiveposts.steelpost_truss": "Сталева балка",
+    "block.immersiveposts.concretepost_truss": "Бетонна балка",
+    "block.immersiveposts.leadedconcretepost_truss": "Балка зі свинцьованого бетону",
+	
+    "block.immersiveposts.fence_iron": "Залізний паркан",
+    "block.immersiveposts.fence_gold": "Золотий паркан",
+    "block.immersiveposts.fence_copper": "Мідний паркан",
+    "block.immersiveposts.fence_lead": "Свинцевий паркан",
+    "block.immersiveposts.fence_silver": "Срібний паркан",
+    "block.immersiveposts.fence_nickel": "Нікелевий паркан",
+    "block.immersiveposts.fence_constantan": "Константановий паркан",
+    "block.immersiveposts.fence_electrum": "Електрумовий паркан",
+    "block.immersiveposts.fence_uranium": "Урановий паркан",
+	
+    "_comment": "################## Items ##################",
+	
+    "item.immersiveposts.stick_gold": "Золотий стрижень",
+    "item.immersiveposts.stick_copper": "Мідний стрижень",
+    "item.immersiveposts.stick_lead": "Свинцевий стрижень",
+    "item.immersiveposts.stick_silver": "Срібний стрижень",
+    "item.immersiveposts.stick_nickel": "Нікелевий стрижень",
+    "item.immersiveposts.stick_constantan": "Константановий стрижень",
+    "item.immersiveposts.stick_electrum": "Електрумовий стрижень",
+    "item.immersiveposts.stick_uranium": "Урановий стрижень",
+	
+    "item.immersiveposts.metal_rods.stick_gold": "Золотий стрижень",
+    "item.immersiveposts.metal_rods.stick_copper": "Мідний стрижень",
+    "item.immersiveposts.metal_rods.stick_lead": "Свинцевий стрижень",
+    "item.immersiveposts.metal_rods.stick_silver": "Срібний стрижень",
+    "item.immersiveposts.metal_rods.stick_nickel": "Нікелевий стрижень",
+    "item.immersiveposts.metal_rods.stick_constantan": "Константановий стрижень",
+    "item.immersiveposts.metal_rods.stick_electrum": "Електрумовий стрижень",
+    "item.immersiveposts.metal_rods.stick_uranium": "Урановий стрижень",
+	
+    "_comment": "################## Creative Tab ##################",
+	
+    "itemGroup.immersiveposts": "Immersive Posts",
+	
+    "_comment": "################## Postbase Tooltip(s) ##################",
+	
+    "tooltip.postbase": "§6Див. посібник для перегляду допустимих блоків.",
+	
+    "_comment": "################## Miscellaneous ##################",
+
+    "immersiveposts.expectedlocal": "Очікувалось: %s",
+    "immersiveposts.truss_notsametype": "Балка: Обидва стовпи повинні бути виготовлені з одного й того самого матеріалу.",
+    "immersiveposts.truss_minimumdistance": "Балка: Між стовпами має бути простір у розмірі щонайменше 1 блоку.",
+    "immersiveposts.truss_postnotfound": "Балка: Наступний стовп знаходиться поза межами діапазону або не існує.",
+	
+    "_comment": "################## IE-Manual ##################",
+	
+    "manual.immersiveposts.main": "Розширювані стовпи"
+}

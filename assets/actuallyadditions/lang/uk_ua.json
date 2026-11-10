@@ -397,7 +397,7 @@
   "tooltip.actuallyadditions.boundTo.desc": "Прив'язано до",
   "tooltip.actuallyadditions.clearStorage.desc": "Помістіть у сітку майстрування, щоб звільнити місце у сховищі!",
   "tooltip.actuallyadditions.phantom.connectedRange.desc": "З'єднання працює нормально.",
-  "tooltip.actuallyadditions.phantom.connectedNoRange.desc": "З'єднання перервано: пристрій або знаходиться поза зоною дії, або відсутній у завантажених блоках, або не є блоком потрібного типу для цього фантомного пристрою.",
+  "tooltip.actuallyadditions.phantom.connectedNoRange.desc": "З'єднання перервано: пристрій або знаходиться поза зоною дії, або відсутній у завантажених блоках, або це не блок потрібного типу для цього фантомного пристрою.",
   "tooltip.actuallyadditions.phantom.notConnected.desc": "Це не з'єднано ні з чим!",
   "tooltip.actuallyadditions.phantom.blockInfo.desc": "Підключений блок — це %s у %s, %s, %s на відстані %s блоків.",
   "tooltip.actuallyadditions.factory.notPart.desc": "Контролер не входить до складу потрібної конструкції! Подивіться на опис контролера!",
