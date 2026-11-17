@@ -33,7 +33,7 @@
   "modularbees.chat.beehive_unformed": "Модульний вулик сформований не повністю",
   "modularbees.chat.centrifuge_unformed": "Модульна центрифуга сформована не повністю",
   "modularbees.chat.data_corrupted": "Блок-контроллер пошкоджено, спробуйте переставити його",
-  "modularbees.chat.block_invalid": "Неправильний блок на X: %s, Y: %s, Z: %s",
+  "modularbees.chat.block_invalid": "Неправильний блок за X: %s, Y: %s, Z: %s",
   "modularbees.chat.multiple_heater": "Центрифуга не може мати декілька нагрівачів",
   "modularbees.gui.modular_beehive_overclocker.boost": "Розгін:",
   "modularbees.gui.modular_beehive_overclocker.empty": "Електрод відсутній",

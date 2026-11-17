@@ -7,7 +7,7 @@ navigation:
 
 # Устава рекурсивного вироблення
 
-Як зазначено в [автовироблені](../ae2-mechanics/autocrafting.md), алгоритм планування автовироблення не може обробляти рецепти, де основним виходом є один зі складників. Наприклад, він не може обробляти клонування <ItemLink id="minecraft:netherite_upgrade_smithing_template" />s.
+Як зазначено в [автовироблені](../ae2-mechanics/autocrafting.md), алгоритм планування автовироблення не може обробляти рецепти, де основним виходом є один зі складників. Наприклад, він не може обробляти клонування <ItemLink id="minecraft:netherite_upgrade_smithing_template" />.
 
 Одним із рішень є використання здатності <ItemLink id="level_emitter" /> прикидатися [шаблоном](../items-blocks-machines/patterns.md).
 

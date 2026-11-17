@@ -728,7 +728,7 @@
   "ars_nouveau.invalid_spell": "Неприпустиме закляття.",
   "ars_nouveau.item_crafting": "Створення предметів",
   "ars_nouveau.item_crafting_setting": "Множинне створення предметів",
-  "ars_nouveau.item_detector.connected": "Виявлено предмети у x: %s y: %s z: %s",
+  "ars_nouveau.item_detector.connected": "Виявлено предмети за x: %s y: %s z: %s",
   "ars_nouveau.item_detector.count": "Видавати у %s",
   "ars_nouveau.item_detector.inverted": "Сигнал інвертовано: %s",
   "ars_nouveau.item_detector.item": "%s",
