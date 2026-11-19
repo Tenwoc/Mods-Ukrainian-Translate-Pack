@@ -78,7 +78,7 @@
   "power.medievalorigins.alfiq/poor_grip.description": "Альфіки мають знижену швидкість добування інструментами та меншу шкоду від ручної зброї, такої як мечі та сокири.",
 
   "power.medievalorigins.alfiq/agile_preference.name": "Перевага гнучкості",
-  "power.medievalorigins.alfiq/agile_preference.description": "Альфік воліє носити лише легкі обладунки для зручності пересування. Важчі обладунки можна носити без штрафів за допомогою спеціальних чарів.",
+  "power.medievalorigins.alfiq/agile_preference.description": "Альфік воліє носити лише легкі обладунки для зручності руху. Важчі обладунки можна носити без штрафів за допомогою спеціальних чарів.",
 
   "power.medievalorigins.alfiq/meow.name": "Мяв",
   "power.medievalorigins.alfiq/meow.description": "😼",
@@ -88,7 +88,7 @@
   "power.medievalorigins.arachnae/bottomless_stomach.description": "Арахнам потрібна велика кількість їжі, щоб залишатися живими.",
 
   "power.medievalorigins.arachnae/brittle.name": "Хиткість",
-  "power.medievalorigins.arachnae/brittle.description": "Хітиновий екзоскелет арахни ускладнює пересування, якщо вона носить обладунки важчі за залізо. Цьому можна запобігти за допомогою спеціальних чарів.",
+  "power.medievalorigins.arachnae/brittle.description": "Хітиновий екзоскелет арахни ускладнює рух, якщо вона носить обладунки важчі за залізо. Цьому можна запобігти за допомогою спеціальних чарів.",
 
   "power.medievalorigins.arachnae/climber.name": "Лазальник",
   "power.medievalorigins.arachnae/climber.description": "Тонкі щетинки на ногах арахн дають їм змогу лазити по стінах.",

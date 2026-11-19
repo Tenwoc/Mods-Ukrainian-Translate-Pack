@@ -2236,7 +2236,7 @@
   "material.tconstruct.ichor.flavor": "Пропуск каменів",
   "material.tconstruct.ichor.encyclopedia.ammo": "Снаряд відскакує від блоку 1 раз, та плюс 2 рази на рівень. Сила збільшується на 0,5 за кожне відскакування на рівень до влучання в ціль. .",
   "material.tconstruct.ichor.flavor.slime": "Жаль як бобер",
-  "material.tconstruct.ichor.encyclopedia.slime": "Дає +5% до швидкості пересування, +2.5% до швидкості атаки та +7.5% до швидкості добування.",
+  "material.tconstruct.ichor.encyclopedia.slime": "Дає +5% до швидкості руху, +2.5% до швидкості атаки та +7.5% до швидкості добування.",
 
   "material.tconstruct.magma": "Магма",
   "material.tconstruct.magma.flavor": "У вас полум'я втекло",

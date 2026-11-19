@@ -1,5 +1,5 @@
 {
-  "name": "Аксесуари",
+  "name": "Curios",
   "icon": "curios:textures/slot/empty_charm_slot.png",
   "category": "apotheosis:potion/charms",
   "flag": "&apotheosis:potion,apotheosis:curiosloaded",

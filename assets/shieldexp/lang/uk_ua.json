@@ -19,7 +19,7 @@
   "config.shieldexp.tooltip.item_only_mode": "Вимкнути всі функції Shield Expansion (для використання з іншими модами на щити, як-от Guarding).",
 
   "config.shieldexp.option.speed_modifier": "Регулювання швидкості",
-  "config.shieldexp.tooltip.speed_modifier": "Увімкнути налаштування швидкості, щоб прискорити блокування (це зменшує стандартний штраф до швидкості пересування).",
+  "config.shieldexp.tooltip.speed_modifier": "Увімкнути налаштування швидкості, щоб прискорити блокування (це зменшує стандартний штраф до швидкості руху).",
 
   "config.shieldexp.option.harder_explosions": "Вдосконалені вибухи",
   "config.shieldexp.tooltip.harder_explosions": "Щити блокують лише частину шкоди від вибухів залежно від показника їхньої стійкості до вибухів.",
