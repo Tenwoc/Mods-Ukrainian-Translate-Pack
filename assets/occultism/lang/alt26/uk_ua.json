@@ -3276,6 +3276,7 @@
   "occultism.configuration.possibleSpiritNames": "Можливі імена духів",
   "occultism.configuration.purpleChalkGlyphColor": "Колір гліфу фіолетової крейди",
   "occultism.configuration.rainTimeToCast": "Час на виконання: Дощ",
+  "occultism.configuration.recipeViewerDefaultSpiritName": "Типове ім'я духа в оглядачах рецептів",
   "occultism.configuration.redChalkGlyphColor": "Колір гліфу червоної крейди",
   "occultism.configuration.ritualDurationMultiplier": "Множник для регулювання тривалості всіх ритуалів.",
   "occultism.configuration.rituals": "Налаштування ритуалів",

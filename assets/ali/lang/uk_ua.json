@@ -1,9 +1,9 @@
 {
-  "ali.description.chance": "Шанс: %s%s",
+  "ali.description.chance": "Шанс: %s",
   "ali.description.count": "Кількість: %s",
   "ali.description.quality": "Якість: %s",
   "ali.description.random_trade_selection": "Випадково відбирає %s із цих пропозицій",
-  "ali.description.rolls": "Спроби: %s%s",
+  "ali.description.rolls": "Спроби: %s",
   "ali.enum.attribute_operation.add_multiplied_base": "Помножити основу",
   "ali.enum.attribute_operation.add_multiplied_total": "Помножити загальну суму",
   "ali.enum.attribute_operation.add_value": "Додати значення",
